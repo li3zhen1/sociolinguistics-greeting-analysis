@@ -1,0 +1,917 @@
+﻿[Script Info]
+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,simhei,18,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,1,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:01.01,0:00:04.01,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\fsp2}{\c&HFFFFFF&}{\fs13}{\fn楷体_GB2312}{\bord0}本作品由{\fs18}{\fn黑体}{\fe0}{\c&H26F4FF&}NORM{\fscy100}{\fe134}{\fn楷体_GB2312}{\c&HFFFFFF&}{\fs12} 荣誉出品\N{\fs16}下载后仅供学习交流,严禁用于商业途径
+Dialogue: 0,0:00:07.02,0:00:12.02,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\fs16}{\c&H24EFFF&}{\fn黑体}{\bord0}压制:{\fs18}{\c&HFFFFFF&}阿聪锋狂{\fs16}{\c&H24EFFF&}   双显&特效字幕:{\fs18}{\c&HFFFFFF&}Risa Miriam
+Dialogue: 0,0:01:14.54,0:01:19.60,Default,,0000,0000,0000,,各位听众，今晚疑幻疑真的节目又开始了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Listeners, stay tuned for tonight's Ghost Story
+Dialogue: 0,0:01:20.24,0:01:24.47,Default,,0000,0000,0000,,这一个世界有很多不可思议的事情发生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Incredible things happen anytime anywhere
+Dialogue: 0,0:01:24.91,0:01:26.57,Default,,0000,0000,0000,,真是信不信由你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Believe it or not
+Dialogue: 0,0:01:27.38,0:01:32.32,Default,,0000,0000,0000,,首先要接听的电话是一位 自称曾经撞过鬼的朋友打来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now on the line is one who claims to have seen a ghost
+Dialogue: 0,0:03:12.39,0:03:12.98,Default,,0000,0000,0000,,你是谁？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who are you?
+Dialogue: 0,0:03:16.93,0:03:17.76,Default,,0000,0000,0000,,我是来坐车的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I come for a ride
+Dialogue: 0,0:03:21.96,0:03:23.16,Default,,0000,0000,0000,,刚才我有没有撞到你？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did I hit you just now?
+Dialogue: 0,0:03:25.87,0:03:28.77,Default,,0000,0000,0000,,就当没有好了，开车啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just drive the car
+Dialogue: 0,0:04:19.49,0:04:20.82,Default,,0000,0000,0000,,你是怎样搅的？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's wrong with you?
+Dialogue: 0,0:04:40.88,0:04:42.74,Default,,0000,0000,0000,,你还不来，那两个女人要走了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where the hell are you? They're tired of waiting
+Dialogue: 0,0:04:43.71,0:04:46.11,Default,,0000,0000,0000,,我知，我正在开车出来， 多等我一会儿，OKAY？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll be there soon, OK?
+Dialogue: 0,0:06:08.10,0:06:08.96,Default,,0000,0000,0000,,你们两个做什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, what are you two up to?
+Dialogue: 0,0:06:09.30,0:06:11.63,Default,,0000,0000,0000,,识趣一点，别碍事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let them be, let's go
+Dialogue: 0,0:06:12.07,0:06:12.50,Default,,0000,0000,0000,,走吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}O.K.
+Dialogue: 0,0:06:44.23,0:06:45.13,Default,,0000,0000,0000,,把丝巾还给我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give me back the scarf
+Dialogue: 0,0:06:49.94,0:06:50.67,Default,,0000,0000,0000,,你可以走了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You may leave now
+Dialogue: 0,0:07:02.65,0:07:03.51,Default,,0000,0000,0000,,你不会介意吧？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do you mind?
+Dialogue: 0,0:07:07.52,0:07:09.22,Default,,0000,0000,0000,,通常在这种情况下，我都不会介意\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Normally, I don't
+Dialogue: 0,0:07:13.93,0:07:14.79,Default,,0000,0000,0000,,你叫CECILIA？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you Cecilia?
+Dialogue: 0,0:07:21.10,0:07:22.19,Default,,0000,0000,0000,,为什么这么晚一个人在这里？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why are you alone at this hour?
+Dialogue: 0,0:07:26.47,0:07:27.20,Default,,0000,0000,0000,,我想自杀\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I want to end my life
+Dialogue: 0,0:07:36.22,0:07:39.45,Default,,0000,0000,0000,,好主意！我带你去一个地方自杀，走吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good idea! Let me take you to a place to do it
+Dialogue: 0,0:07:47.53,0:07:51.29,Default,,0000,0000,0000,,鸡翼，一大群美女等了你一个晚上， 快要骚了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The girls have been waiting all night
+Dialogue: 0,0:07:51.60,0:07:52.29,Default,,0000,0000,0000,,我先到那边去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me go there first
+Dialogue: 0,0:07:52.40,0:07:53.53,Default,,0000,0000,0000,,那边是守斋的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That side is for gays only
+Dialogue: 0,0:07:54.94,0:07:55.56,Default,,0000,0000,0000,,人真多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What a crowd
+Dialogue: 0,0:07:57.54,0:07:58.73,Default,,0000,0000,0000,,这个是MEIMEI，这个是MORMOR\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is Mei Mei, this is Mor Mor
+Dialogue: 0,0:07:58.81,0:07:59.50,Default,,0000,0000,0000,,MEIMEIMORMOR\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}MEl MEl MOR MOR
+Dialogue: 0,0:07:59.71,0:08:00.11,Default,,0000,0000,0000,,HELLO！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}HELLO!
+Dialogue: 0,0:08:00.31,0:08:00.74,Default,,0000,0000,0000,,HELLO！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}HELLO!
+Dialogue: 0,0:08:01.28,0:08:03.54,Default,,0000,0000,0000,,我们公司的美术总监，鸡翼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Our Art director Chicken Wing
+Dialogue: 0,0:08:03.68,0:08:04.41,Default,,0000,0000,0000,,鸡翼！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken Wing!?
+Dialogue: 0,0:08:05.55,0:08:06.74,Default,,0000,0000,0000,,我姓戚，叫近荣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My real name is Chi Ken Wing
+Dialogue: 0,0:08:07.28,0:08:08.08,Default,,0000,0000,0000,,CHICKENWING\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}CHICKEN WING
+Dialogue: 0,0:08:10.08,0:08:11.42,Default,,0000,0000,0000,,笑什么笑？我有叫你笑吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Laugh? Did I tell you to laugh?
+Dialogue: 0,0:08:11.49,0:08:12.32,Default,,0000,0000,0000,,你先坐一会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have fun
+Dialogue: 0,0:08:16.16,0:08:17.42,Default,,0000,0000,0000,,坐下，走什么走？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sit down, don't go away?
+Dialogue: 0,0:08:20.16,0:08:24.12,Default,,0000,0000,0000,,兄弟，你现在是找广告模特儿， 不是找老婆，明不明白？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're looking for a model, not a wife, understand?
+Dialogue: 0,0:08:24.77,0:08:28.17,Default,,0000,0000,0000,,你心目中的白雪公主，在这一个世界上 是不存在的，大爷\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's no such Show Whitein this world, my dear!
+Dialogue: 0,0:08:31.47,0:08:33.24,Default,,0000,0000,0000,,谁说的？你看看那一边\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why not? Look over there
+Dialogue: 0,0:08:35.61,0:08:36.10,Default,,0000,0000,0000,,那边？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There?
+Dialogue: 0,0:08:37.11,0:08:39.44,Default,,0000,0000,0000,,那边有两个男人在亲嘴，你要不要？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You like those two menkissing over there.
+Dialogue: 0,0:08:41.45,0:08:42.01,Default,,0000,0000,0000,,在那边\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's there
+Dialogue: 0,0:08:42.45,0:08:42.81,Default,,0000,0000,0000,,上！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come on!
+Dialogue: 0,0:08:44.82,0:08:45.08,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you doing?
+Dialogue: 0,0:08:45.29,0:08:46.28,Default,,0000,0000,0000,,他找到他的女朋友\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He found his dream girl
+Dialogue: 0,0:08:46.55,0:08:47.95,Default,,0000,0000,0000,,鸡翼的品味好高\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken Wing's taste is pretty selective
+Dialogue: 0,0:08:48.22,0:08:48.75,Default,,0000,0000,0000,,在那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Over there
+Dialogue: 0,0:08:51.36,0:08:53.76,Default,,0000,0000,0000,,阿婶，请问有没有一个白衣服的 女孩子进了去？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Madam, didyou see a girl in white skirt come in?
+Dialogue: 0,0:08:54.10,0:08:54.75,Default,,0000,0000,0000,,看看怎么样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's see how she looks
+Dialogue: 0,0:08:55.00,0:08:56.29,Default,,0000,0000,0000,,是啊！很快就出来了  谢谢你！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, she's coming out now Thank you
+Dialogue: 0,0:08:57.03,0:09:00.97,Default,,0000,0000,0000,,我们伟大的美术总监，AVANTI…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, my dear art director, Avanti...
+Dialogue: 0,0:09:01.04,0:09:02.83,Default,,0000,0000,0000,,看看她怎么漂亮？  有型一点！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She must be stunning Wonderful!
+Dialogue: 0,0:09:04.61,0:09:05.37,Default,,0000,0000,0000,,COMEON…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}COME ON...
+Dialogue: 0,0:09:14.05,0:09:14.74,Default,,0000,0000,0000,,真艳丽\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Really charming
+Dialogue: 0,0:09:17.05,0:09:17.98,Default,,0000,0000,0000,,美得我要哭\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Charming like hell
+Dialogue: 0,0:09:21.49,0:09:24.12,Default,,0000,0000,0000,,吓得我傻了，你今天晚上一定是撞鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You must have met a ghost to-night
+Dialogue: 0,0:10:22.82,0:10:23.78,Default,,0000,0000,0000,,250C.C\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}250C. C
+Dialogue: 0,0:10:30.83,0:10:32.29,Default,,0000,0000,0000,,那一个女孩子是谁？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who's this girl?
+Dialogue: 0,0:10:34.90,0:10:35.33,Default,,0000,0000,0000,,漂不漂亮？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you think?
+Dialogue: 0,0:10:38.27,0:10:39.20,Default,,0000,0000,0000,,漂亮\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, beautiful?
+Dialogue: 0,0:10:45.87,0:10:48.07,Default,,0000,0000,0000,,正…！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Great...
+Dialogue: 0,0:10:49.88,0:10:51.24,Default,,0000,0000,0000,,这一个就是你的梦中情人？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your dream girl?
+Dialogue: 0,0:10:52.85,0:10:54.58,Default,,0000,0000,0000,,PERFECT，正点得很\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Perect, truly perfect!
+Dialogue: 0,0:10:54.85,0:10:55.41,Default,,0000,0000,0000,,我们是不是老朋友？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are we good friends?
+Dialogue: 0,0:10:56.28,0:10:56.87,Default,,0000,0000,0000,,老朋友！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good friends?
+Dialogue: 0,0:11:00.05,0:11:00.78,Default,,0000,0000,0000,,看情况而定\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It depends
+Dialogue: 0,0:11:03.02,0:11:04.46,Default,,0000,0000,0000,,是老朋友就同我去沙田找找她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If we are, help me to find her
+Dialogue: 0,0:11:05.99,0:11:08.29,Default,,0000,0000,0000,,我真是无知，无缘无故跟你来，这么无聊\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I must be a fool to help you
+Dialogue: 0,0:11:11.07,0:11:13.26,Default,,0000,0000,0000,,前面有两幢大厦，一定住在那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She must live somewhere in one of the buildings
+Dialogue: 0,0:11:14.07,0:11:14.97,Default,,0000,0000,0000,,请问你有没有见过这一个女孩子？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Excuse me, have you seen this girl?
+Dialogue: 0,0:11:15.67,0:11:17.10,Default,,0000,0000,0000,,没见过，没有见过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Never
+Dialogue: 0,0:11:17.67,0:11:18.26,Default,,0000,0000,0000,,是不是在那里？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you sure?
+Dialogue: 0,0:11:20.74,0:11:21.90,Default,,0000,0000,0000,,请问你有没有见过这个女孩子？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have you seen this girl, please?
+Dialogue: 0,0:11:24.78,0:11:26.51,Default,,0000,0000,0000,,谢谢！   正点！真是正点！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you Great! Fantastic!
+Dialogue: 0,0:11:26.98,0:11:27.85,Default,,0000,0000,0000,,没有这一个人   谢谢！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She doesn't exist Thank you
+Dialogue: 0,0:11:27.95,0:11:28.38,Default,,0000,0000,0000,,不用客气\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't mention it
+Dialogue: 0,0:11:30.18,0:11:32.12,Default,,0000,0000,0000,,鸡翼，我求求你别这么无聊好不好？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken Wing, Let's forget it O. K?
+Dialogue: 0,0:11:32.19,0:11:35.05,Default,,0000,0000,0000,,我哮喘啦！我受不了  走吧…！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm getting a sore throat Let's go...
+Dialogue: 0,0:11:35.32,0:11:36.62,Default,,0000,0000,0000,,臭小子，你敢搅我的车子？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How dare you scratch my car!
+Dialogue: 0,0:12:45.53,0:12:48.59,Default,,0000,0000,0000,,把球还给我，还给我！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give me back the ball!
+Dialogue: 0,0:12:50.46,0:12:51.40,Default,,0000,0000,0000,,不要这么不守规矩\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey! Cut it out
+Dialogue: 0,0:12:55.50,0:12:56.40,Default,,0000,0000,0000,,臭小子！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Bastard!
+Dialogue: 0,0:13:32.41,0:13:32.80,Default,,0000,0000,0000,,婆婆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hello.
+Dialogue: 0,0:13:33.14,0:13:34.73,Default,,0000,0000,0000,,请问找那一位？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you want?
+Dialogue: 0,0:13:35.18,0:13:36.34,Default,,0000,0000,0000,,请问你有没有见过这一个女孩子？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm looking for this lady
+Dialogue: 0,0:13:37.75,0:13:38.73,Default,,0000,0000,0000,,没有这一个人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No such lady here
+Dialogue: 0,0:13:39.98,0:13:43.07,Default,,0000,0000,0000,,不是啊！我认得她这一件衣服\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I recognize her white dress
+Dialogue: 0,0:13:44.12,0:13:45.28,Default,,0000,0000,0000,,请你告诉我，她住在那里？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please tell me where she is
+Dialogue: 0,0:13:47.15,0:13:48.49,Default,,0000,0000,0000,,你找她有什么事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why do you want to see her?
+Dialogue: 0,0:13:48.89,0:13:51.76,Default,,0000,0000,0000,,没什么，她借了我的衣服，我想她还给我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I want to get my coat back, I lent her
+Dialogue: 0,0:13:52.19,0:13:52.99,Default,,0000,0000,0000,,是几时的事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When do you lend it her?
+Dialogue: 0,0:13:53.19,0:13:53.66,Default,,0000,0000,0000,,前天晚上\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Two night ago
+Dialogue: 0,0:13:54.03,0:13:58.66,Default,,0000,0000,0000,,前天晚上！年轻人，我告诉你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Two night ago? Young man, listen.
+Dialogue: 0,0:13:58.97,0:14:02.03,Default,,0000,0000,0000,,前一个月，她走出这条马路被车撞死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She was killed in a car accident last month
+Dialogue: 0,0:14:02.64,0:14:04.00,Default,,0000,0000,0000,,你撞鬼呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}you must come across her spirit
+Dialogue: 0,0:14:08.38,0:14:11.47,Default,,0000,0000,0000,,我撞鬼！鬼有这么漂亮吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Spirit? She must be joking?
+Dialogue: 0,0:14:13.08,0:14:17.07,Default,,0000,0000,0000,,婆婆，别骗我了，开门吧！我不信的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Granny, don't joke with me. Open the door please
+Dialogue: 0,0:14:18.69,0:14:21.59,Default,,0000,0000,0000,,好吧！你自己到里面去问她好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, come inside & ask her then
+Dialogue: 0,0:14:37.20,0:14:40.26,Default,,0000,0000,0000,,年轻人，你这么渴望想见她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Young man, if you want to see her
+Dialogue: 0,0:14:40.47,0:14:45.21,Default,,0000,0000,0000,,去华人永远坟场1444号见她吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go to No.1444.Chinese Perpetual Cemetery
+Dialogue: 0,0:14:46.71,0:14:47.31,Default,,0000,0000,0000,,谢谢婆婆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you granny
+Dialogue: 0,0:15:29.26,0:15:31.28,Default,,0000,0000,0000,,你近来时运低，所以整天撞鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Seeing a ghost means, you've bad luck lately
+Dialogue: 0,0:15:31.43,0:15:33.29,Default,,0000,0000,0000,,现在带你去见一个大师，教你趋吉避凶\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me introduce you to a fortune teller
+Dialogue: 0,0:15:33.86,0:15:34.49,Default,,0000,0000,0000,,是什么人？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who is he?
+Dialogue: 0,0:15:34.86,0:15:37.23,Default,,0000,0000,0000,,走吧！他的电脑算命很灵的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He uses computers to tell fortune
+Dialogue: 0,0:15:46.41,0:15:48.27,Default,,0000,0000,0000,,大师兄，我的朋友来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Master, I bring my friends here
+Dialogue: 0,0:15:50.31,0:15:51.21,Default,,0000,0000,0000,,他叫什么名字？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's his name?
+Dialogue: 0,0:15:51.78,0:15:55.37,Default,,0000,0000,0000,,他是戚近荣，男性，一九六…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chi Ken Wing, male,196...
+Dialogue: 0,0:15:55.58,0:15:56.74,Default,,0000,0000,0000,,一呀！一\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}1! 1
+Dialogue: 0,0:15:57.05,0:16:01.18,Default,,0000,0000,0000,,一九六一年，六月六日凌晨六时出生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Born on 6th June,1961,at 6 a.m.
+Dialogue: 0,0:16:01.32,0:16:04.55,Default,,0000,0000,0000,,他的年纪是三十，不…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's 30,no...
+Dialogue: 0,0:16:04.63,0:16:05.65,Default,,0000,0000,0000,,是二十七岁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}27 years old
+Dialogue: 0,0:16:14.10,0:16:15.30,Default,,0000,0000,0000,,他的运气很不好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He has bad luck recently
+Dialogue: 0,0:16:16.04,0:16:17.47,Default,,0000,0000,0000,,头上的光是灰色的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}His halo looks dark
+Dialogue: 0,0:16:17.81,0:16:20.00,Default,,0000,0000,0000,,还有一道红色的光射进他的头里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}& a redlight has entered into his head
+Dialogue: 0,0:16:26.31,0:16:29.11,Default,,0000,0000,0000,,我看他一个月内就会有桃花劫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Within this month, he'll encounter a tragedy
+Dialogue: 0,0:16:29.92,0:16:32.18,Default,,0000,0000,0000,,还有血光之灾，要特别小心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Perhaps a disaster. Be careful, Sir
+Dialogue: 0,0:16:32.25,0:16:34.41,Default,,0000,0000,0000,,这个家伙会不会是猛鬼缠身？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will he be possessed by an unclean spirit
+Dialogue: 0,0:16:35.96,0:16:38.12,Default,,0000,0000,0000,,目前看起来还没有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not at the present
+Dialogue: 0,0:16:39.49,0:16:41.83,Default,,0000,0000,0000,,不过，你要少滚一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But don't fool around so much
+Dialogue: 0,0:16:43.93,0:16:45.59,Default,,0000,0000,0000,,有什么方法可以化解呀？大师\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Master, can we do anything about it
+Dialogue: 0,0:16:45.93,0:16:48.93,Default,,0000,0000,0000,,有，这是一条古老的呢珠\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, this is a holy charm!
+Dialogue: 0,0:16:49.30,0:16:50.79,Default,,0000,0000,0000,,能够帮助你解决魔障\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It may keep you away from the devil
+Dialogue: 0,0:16:52.27,0:16:55.11,Default,,0000,0000,0000,,但是你要多跟那些好运的人在一起\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}and be sure you stick with lucky people
+Dialogue: 0,0:16:55.48,0:16:57.10,Default,,0000,0000,0000,,这样才能够消除灾难\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It helps to diminish the possibility of tragedy
+Dialogue: 0,0:16:58.51,0:17:00.38,Default,,0000,0000,0000,,那么我跟她算不算是行运呀？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are we these lucky people?
+Dialogue: 0,0:17:02.18,0:17:03.95,Default,,0000,0000,0000,,你头顶发的是白色的光\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your halo is bright
+Dialogue: 0,0:17:04.22,0:17:05.95,Default,,0000,0000,0000,,你没有桃花劫，不用怕\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's alright. No sweat
+Dialogue: 0,0:17:06.02,0:17:06.45,Default,,0000,0000,0000,,我！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Me?
+Dialogue: 0,0:17:06.52,0:17:10.29,Default,,0000,0000,0000,,是啊！她发的是金色的光，吉星高照\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Herhalo is golden, means luck is on her side
+Dialogue: 0,0:17:10.86,0:17:14.66,Default,,0000,0000,0000,,我想你要是跟她多亲近点的话，会有好处的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stick with her. It'll be good for you
+Dialogue: 0,0:17:19.47,0:17:20.33,Default,,0000,0000,0000,,好好保护\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Value her, she can protect you
+Dialogue: 0,0:17:20.40,0:17:22.39,Default,,0000,0000,0000,,我知道，谢谢大师！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you, master!
+Dialogue: 0,0:17:37.18,0:17:39.74,Default,,0000,0000,0000,,你妈咪，爹哋结婚三十周年纪念，签了它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's your parents'30th anniversary. Sign it
+Dialogue: 0,0:17:43.49,0:17:44.39,Default,,0000,0000,0000,,幸亏有你看着\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thanks for reminding me that
+Dialogue: 0,0:17:45.13,0:17:46.99,Default,,0000,0000,0000,,要不然他们以为生块叉烧好过生我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Otherwise. They'll kill me
+Dialogue: 0,0:17:48.63,0:17:49.12,Default,,0000,0000,0000,,谢谢你！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you
+Dialogue: 0,0:17:49.23,0:17:49.89,Default,,0000,0000,0000,,THANKYOU！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}THANK YOU!
+Dialogue: 0,0:17:50.53,0:17:52.52,Default,,0000,0000,0000,,阿ANN，坐下！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ann Sit Down
+Dialogue: 0,0:17:54.27,0:17:54.67,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why?
+Dialogue: 0,0:17:54.80,0:17:55.36,Default,,0000,0000,0000,,坐下！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sit down!
+Dialogue: 0,0:17:59.34,0:18:01.64,Default,,0000,0000,0000,,HAPPYBIRTHDAYTOYOU\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}HAPPY BIRTHDAY TO YOU
+Dialogue: 0,0:18:01.74,0:18:02.77,Default,,0000,0000,0000,,你怎么知道我生日？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How do you know it's my birthday?
+Dialogue: 0,0:18:04.01,0:18:06.50,Default,,0000,0000,0000,,成班同事送东西给你，你以为我是盲的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw them sending yoou the present
+Dialogue: 0,0:18:08.85,0:18:09.34,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's matter?
+Dialogue: 0,0:18:11.59,0:18:14.02,Default,,0000,0000,0000,,我们今天晚上在CASABLANCA吃饭，你一起来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will you join our party at the Casablanca to-night
+Dialogue: 0,0:18:15.19,0:18:15.62,Default,,0000,0000,0000,,好！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay!
+Dialogue: 0,0:18:15.76,0:18:16.22,Default,,0000,0000,0000,,真的！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Serious?
+Dialogue: 0,0:18:21.43,0:18:22.40,Default,,0000,0000,0000,,HAPPYBIRTHDAY…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}HAPPY BIRTHDAY...
+Dialogue: 0,0:18:23.46,0:18:24.26,Default,,0000,0000,0000,,你不用了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No need!
+Dialogue: 0,0:18:31.04,0:18:32.70,Default,,0000,0000,0000,,你什么时候带我到美国去看你的妈咪嗲哋？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When do I go to USA to see your parents?
+Dialogue: 0,0:18:33.41,0:18:34.93,Default,,0000,0000,0000,,他们好凶的，你不怕吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They're fierce. They'll scare you
+Dialogue: 0,0:18:35.51,0:18:36.70,Default,,0000,0000,0000,,儿子这么凶我也不怕\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Their son doesn't scare me.
+Dialogue: 0,0:18:36.78,0:18:37.54,Default,,0000,0000,0000,,怎么会怕他们？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why should I be scared of them?
+Dialogue: 0,0:18:39.91,0:18:40.38,Default,,0000,0000,0000,,这是什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's this?
+Dialogue: 0,0:18:40.61,0:18:42.78,Default,,0000,0000,0000,,灵符，在日本买的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A Buddha statue from Japan
+Dialogue: 0,0:18:43.38,0:18:44.78,Default,,0000,0000,0000,,上一个礼拜DAVID去日本买衣服\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}David bought it for me
+Dialogue: 0,0:18:45.05,0:18:47.61,Default,,0000,0000,0000,,我特地请他在雷门观音寺请回来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He went Japan shopping last week
+Dialogue: 0,0:18:48.06,0:18:48.78,Default,,0000,0000,0000,,八卦\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Superstitious
+Dialogue: 0,0:18:49.69,0:18:51.06,Default,,0000,0000,0000,,全都是为了你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's all because of you
+Dialogue: 0,0:18:52.56,0:18:54.72,Default,,0000,0000,0000,,你妈咪快生日了，你想送什么给她？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What would you like to buy for your mom's birthday
+Dialogue: 0,0:19:08.31,0:19:09.80,Default,,0000,0000,0000,,开车呀！这条马路不是你的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, this is not your private road!
+Dialogue: 0,0:19:09.91,0:19:10.64,Default,,0000,0000,0000,,很了不起吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's the big deal?
+Dialogue: 0,0:19:11.15,0:19:12.24,Default,,0000,0000,0000,,挡着路…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Get lost...
+Dialogue: 0,0:19:15.08,0:19:15.67,Default,,0000,0000,0000,,开车呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Move!
+Dialogue: 0,0:19:15.78,0:19:16.58,Default,,0000,0000,0000,,开车呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go
+Dialogue: 0,0:19:28.66,0:19:30.63,Default,,0000,0000,0000,,我今天不去吃饭，对不起！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry. I can't join your party to night
+Dialogue: 0,0:19:38.44,0:19:40.00,Default,,0000,0000,0000,,你还是整天想着那个女鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're still thinking of her
+Dialogue: 0,0:19:40.84,0:19:41.64,Default,,0000,0000,0000,,还给我！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give it back to me!
+Dialogue: 0,0:19:45.98,0:19:47.11,Default,,0000,0000,0000,,我都不明白你耍什么花样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stop making a fool of yourself
+Dialogue: 0,0:19:47.25,0:19:49.55,Default,,0000,0000,0000,,阿ANN的爸爸专程从美国飞回来见你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ann's dad came over from England to see you
+Dialogue: 0,0:19:49.65,0:19:51.68,Default,,0000,0000,0000,,分明是全心全意跟你来真的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Obviously hey're serious about you
+Dialogue: 0,0:19:52.12,0:19:55.49,Default,,0000,0000,0000,,你就不是，整天想着玩那只女鬼， 不知道有什么益处？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What good does it bring to keep on thinking that spirit
+Dialogue: 0,0:19:55.56,0:19:57.58,Default,,0000,0000,0000,,她不是女鬼，我昨天才见到她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's not a spirit. I saw her yesterday
+Dialogue: 0,0:20:01.40,0:20:04.49,Default,,0000,0000,0000,,你醒醒好不好？这全都是你的幻觉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wake up please, it's your imagination again
+Dialogue: 0,0:20:04.87,0:20:07.66,Default,,0000,0000,0000,,你亲眼看过她的坟墓，她已经死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's dead. You've already seen her grave
+Dialogue: 0,0:20:07.87,0:20:08.96,Default,,0000,0000,0000,,她死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's dead!
+Dialogue: 0,0:20:12.81,0:20:13.64,Default,,0000,0000,0000,,很渺茫呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where the hell is it?
+Dialogue: 0,0:20:14.37,0:20:15.03,Default,,0000,0000,0000,,就在这里附近\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's somewhere around here
+Dialogue: 0,0:20:18.98,0:20:19.78,Default,,0000,0000,0000,,你记得几多号码？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Can you remember the number?
+Dialogue: 0,0:20:20.28,0:20:22.04,Default,,0000,0000,0000,,记得，是1444号\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, it's 1444
+Dialogue: 0,0:20:23.05,0:20:26.14,Default,,0000,0000,0000,,鸡翼，你不是吧！1444？你看看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken Wing? 1444? Are you sure?
+Dialogue: 0,0:20:27.65,0:20:28.59,Default,,0000,0000,0000,,是个阿婆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's a granny
+Dialogue: 0,0:20:38.43,0:20:40.16,Default,,0000,0000,0000,,你们两个在这里干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are they doing here?
+Dialogue: 0,0:20:40.37,0:20:41.43,Default,,0000,0000,0000,,大叔，我们是来找人的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're looking for someone
+Dialogue: 0,0:20:41.50,0:20:42.70,Default,,0000,0000,0000,,是呀？有没有德国鬼妹？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is there a german girl here?
+Dialogue: 0,0:20:43.24,0:20:46.80,Default,,0000,0000,0000,,这一个房子已经半年没有人住了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This flat has been vacant for the last 6 months
+Dialogue: 0,0:20:47.94,0:20:50.38,Default,,0000,0000,0000,,不是啊！我前天才跟一个阿婆在这里聊过天\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}lmpossible. I talked to an old woman here 2 days ago
+Dialogue: 0,0:20:50.61,0:20:51.51,Default,,0000,0000,0000,,你不相信吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't believe it?
+Dialogue: 0,0:20:51.58,0:20:54.17,Default,,0000,0000,0000,,好吧！我开门让你们两个进去看看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go in & see for yourseleves
+Dialogue: 0,0:20:57.45,0:20:58.48,Default,,0000,0000,0000,,看看你就会死心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You'll see
+Dialogue: 0,0:21:18.77,0:21:23.21,Default,,0000,0000,0000,,你是个知识份子，为了一个不明来历的 女孩子疯了真是不值得\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not worth it to waste your time on her
+Dialogue: 0,0:21:23.51,0:21:24.74,Default,,0000,0000,0000,,我也有自己的事情要做\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have my own business to do
+Dialogue: 0,0:21:25.58,0:21:25.98,Default,,0000,0000,0000,,对不起！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry!
+Dialogue: 0,0:21:26.05,0:21:28.07,Default,,0000,0000,0000,,你说，那里有这么理想的女孩子，你说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me, does the perfect girl exist?
+Dialogue: 0,0:21:28.95,0:21:29.47,Default,,0000,0000,0000,,有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,0:21:35.02,0:21:35.61,Default,,0000,0000,0000,,有呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She does exist
+Dialogue: 0,0:21:39.93,0:21:40.69,Default,,0000,0000,0000,,有就快点出来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell her to show up then
+Dialogue: 0,0:21:42.60,0:21:43.46,Default,,0000,0000,0000,,小心走路！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Watch out
+Dialogue: 0,0:22:18.63,0:22:21.10,Default,,0000,0000,0000,,早晨！先生，欢迎光临\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}good morning. Sir, welcome in
+Dialogue: 0,0:22:23.67,0:22:26.30,Default,,0000,0000,0000,,小姐，请问你有没有看到一个穿 粉红色衣服的女孩子进来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did you see a girl with a pink coat come in
+Dialogue: 0,0:22:27.14,0:22:27.83,Default,,0000,0000,0000,,不就是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was me
+Dialogue: 0,0:22:30.11,0:22:32.41,Default,,0000,0000,0000,,我不是说红色，我说的是粉红色\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I mean pink not red
+Dialogue: 0,0:22:33.18,0:22:33.94,Default,,0000,0000,0000,,在你后面\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's behind you
+Dialogue: 0,0:22:37.62,0:22:39.31,Default,,0000,0000,0000,,我明明看到一个粉红色衣服的女孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I saw a girl in pink coat for sure
+Dialogue: 0,0:22:40.72,0:22:41.88,Default,,0000,0000,0000,,你全看到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Take a look then
+Dialogue: 0,0:22:45.13,0:22:45.49,Default,,0000,0000,0000,,谢谢！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you
+Dialogue: 0,0:22:49.30,0:22:49.85,Default,,0000,0000,0000,,CECILIA\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}CECILIA
+Dialogue: 0,0:22:52.03,0:22:55.56,Default,,0000,0000,0000,,他还没有走，他就在门口\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's still at the entrance
+Dialogue: 0,0:22:59.11,0:22:59.90,Default,,0000,0000,0000,,O.K\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}O.K.
+Dialogue: 0,0:23:03.44,0:23:05.10,Default,,0000,0000,0000,,我明明看到一个穿粉红色衣服的女孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sure that she had come here
+Dialogue: 0,0:23:06.35,0:23:09.41,Default,,0000,0000,0000,,我都说没有，如果你不是买东西就请你出去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please leave if you're not buying anything
+Dialogue: 0,0:23:09.92,0:23:11.54,Default,,0000,0000,0000,,先生，什么事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What's matter, young man
+Dialogue: 0,0:23:13.32,0:23:14.22,Default,,0000,0000,0000,,没什么，我找人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm looking for someone
+Dialogue: 0,0:23:14.39,0:23:16.45,Default,,0000,0000,0000,,找到了没有？还不走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have you found her? Go away
+Dialogue: 0,0:23:17.86,0:23:18.35,Default,,0000,0000,0000,,对不起！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry!
+Dialogue: 0,0:23:21.96,0:23:22.69,Default,,0000,0000,0000,,下班了吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Time off
+Dialogue: 0,0:23:22.96,0:23:23.95,Default,,0000,0000,0000,,别毛手毛脚！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't be so rude
+Dialogue: 0,0:23:24.03,0:23:24.39,Default,,0000,0000,0000,,什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,0:23:26.33,0:23:27.10,Default,,0000,0000,0000,,你真坏！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're bad!
+Dialogue: 0,0:23:44.42,0:23:45.04,Default,,0000,0000,0000,,早晨！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good morning!
+Dialogue: 0,0:23:46.35,0:23:47.18,Default,,0000,0000,0000,,怎么又是你？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You again?
+Dialogue: 0,0:23:47.69,0:23:48.24,Default,,0000,0000,0000,,送给你的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's for you
+Dialogue: 0,0:23:51.26,0:23:52.25,Default,,0000,0000,0000,,我知道你知道她在什么地方\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sure you know where she is
+Dialogue: 0,0:23:53.16,0:23:54.59,Default,,0000,0000,0000,,我也知道你是个好人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm sure you're aa kind girl too
+Dialogue: 0,0:23:55.26,0:23:57.96,Default,,0000,0000,0000,,你说错了，我不是善男信女\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wrong. I'm not that kind
+Dialogue: 0,0:23:58.73,0:24:02.76,Default,,0000,0000,0000,,你也见过我的男朋友，你还不走你会很麻烦\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You met my boyfriend. Please go now Otherwise you'll be in trouble
+Dialogue: 0,0:24:04.54,0:24:05.10,Default,,0000,0000,0000,,那好吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Alright
+Dialogue: 0,0:24:15.28,0:24:20.88,Default,,0000,0000,0000,,CECILIA，好刺激呀！那个男孩子又来了， 你见见他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia, he came again. You should see him this time
+Dialogue: 0,0:24:26.93,0:24:27.48,Default,,0000,0000,0000,,好吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay!
+Dialogue: 0,0:24:28.76,0:24:29.73,Default,,0000,0000,0000,,跟她通完了电话啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You finished the call with her?
+Dialogue: 0,0:24:30.06,0:24:30.65,Default,,0000,0000,0000,,什么…？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,0:24:30.73,0:24:34.00,Default,,0000,0000,0000,,什么，我早说你一定知道她在那里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, as I said, you know where she is
+Dialogue: 0,0:24:36.77,0:24:37.60,Default,,0000,0000,0000,,我找了她很久\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've tried hard to find her
+Dialogue: 0,0:24:40.41,0:24:41.40,Default,,0000,0000,0000,,我不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't know
+Dialogue: 0,0:24:42.98,0:24:44.00,Default,,0000,0000,0000,,IDON’TKNOW\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I DON'T KNOW
+Dialogue: 0,0:24:46.68,0:24:47.31,Default,,0000,0000,0000,,她在这里喝茶？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is she in this coffee shop now?
+Dialogue: 0,0:24:49.62,0:24:51.88,Default,,0000,0000,0000,,不是我说的，是你自己说的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You said so, not me
+Dialogue: 0,0:24:52.59,0:24:53.31,Default,,0000,0000,0000,,是我说的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I said it
+Dialogue: 0,0:25:20.18,0:25:21.34,Default,,0000,0000,0000,,请借朵花来用一用？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}May I have your flower?
+Dialogue: 0,0:25:36.03,0:25:37.00,Default,,0000,0000,0000,,这里不准搭台的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's no table sharing in this place
+Dialogue: 0,0:25:45.81,0:25:47.36,Default,,0000,0000,0000,,你的衣服已经还给你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've already returned you the coat
+Dialogue: 0,0:25:47.77,0:25:49.33,Default,,0000,0000,0000,,我想我要一个更加好一点的解释\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How about an explanation?
+Dialogue: 0,0:25:50.88,0:25:52.47,Default,,0000,0000,0000,,第一次见到你就被你亲得昏头转向\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}First time I met you why did you kiss me
+Dialogue: 0,0:25:52.81,0:25:54.04,Default,,0000,0000,0000,,然后告诉我，你死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then you told me you were dead
+Dialogue: 0,0:25:55.08,0:25:56.28,Default,,0000,0000,0000,,一会儿又看到你的坟墓\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then I saw your grave
+Dialogue: 0,0:25:59.49,0:26:00.21,Default,,0000,0000,0000,,究竟是什么意思？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What does it all mean?
+Dialogue: 0,0:26:03.86,0:26:04.76,Default,,0000,0000,0000,,有脚就不会是鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've got feet. So you're not a ghost
+Dialogue: 0,0:26:09.16,0:26:11.76,Default,,0000,0000,0000,,最多我多谢你送我一程\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Anyway, thank you for your ride
+Dialogue: 0,0:26:22.14,0:26:25.70,Default,,0000,0000,0000,,我男朋友来了，他不喜欢我跟陌生人一起\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My boyfriend's coming. He hates seeing me with a stranger
+Dialogue: 0,0:26:26.95,0:26:27.78,Default,,0000,0000,0000,,欢迎呀！曹先生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Welcome, Mr. Tsao
+Dialogue: 0,0:26:30.32,0:26:30.81,Default,,0000,0000,0000,,喂！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey! Cut it out
+Dialogue: 0,0:26:31.12,0:26:32.35,Default,,0000,0000,0000,,曹先生，这边请！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr. Tsao, this way, please
+Dialogue: 0,0:26:33.32,0:26:34.18,Default,,0000,0000,0000,,你最好快点走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You'd better leave now
+Dialogue: 0,0:26:40.89,0:26:41.38,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you doing?
+Dialogue: 0,0:26:42.13,0:26:43.03,Default,,0000,0000,0000,,搭台又关你的事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is that any of your business?
+Dialogue: 0,0:26:43.56,0:26:45.09,Default,,0000,0000,0000,,是呀，搭台又关你事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's right, is that any of your business?
+Dialogue: 0,0:26:56.08,0:26:56.70,Default,,0000,0000,0000,,送给你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's for you
+Dialogue: 0,0:26:56.91,0:26:57.71,Default,,0000,0000,0000,,多谢三哥！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you, Sam
+Dialogue: 0,0:26:57.91,0:26:59.04,Default,,0000,0000,0000,,怎么你的朋友走得这么快？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why does your friend leave so soon?
+Dialogue: 0,0:27:02.62,0:27:06.25,Default,,0000,0000,0000,,他不是我的朋友，他没位子来搭台而已\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's not my friend. He just wanted to share the table
+Dialogue: 0,0:27:07.92,0:27:08.44,Default,,0000,0000,0000,,阿豹\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ah Pow
+Dialogue: 0,0:27:08.96,0:27:09.32,Default,,0000,0000,0000,,是！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,0:27:09.96,0:27:13.26,Default,,0000,0000,0000,,CECILIA的朋友没有台子，替我招呼他一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia's friend has no seat. Find him one
+Dialogue: 0,0:27:15.10,0:27:16.22,Default,,0000,0000,0000,,三哥，不用了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sam, forget it
+Dialogue: 0,0:27:19.27,0:27:19.75,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hey, what are you doing?
+Dialogue: 0,0:27:37.15,0:27:38.08,Default,,0000,0000,0000,,你究竟想怎样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you want?
+Dialogue: 0,0:27:48.60,0:27:49.25,Default,,0000,0000,0000,,快走！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go now!
+Dialogue: 0,0:27:52.23,0:27:52.86,Default,,0000,0000,0000,,擦伤了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's bleeding
+Dialogue: 0,0:28:09.62,0:28:10.31,Default,,0000,0000,0000,,CECILIA\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}CECILIA
+Dialogue: 0,0:28:12.45,0:28:13.18,Default,,0000,0000,0000,,我…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I...
+Dialogue: 0,0:28:14.95,0:28:15.78,Default,,0000,0000,0000,,我什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,0:28:17.19,0:28:18.78,Default,,0000,0000,0000,,其实那一个人很喜欢你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's really devoted to you
+Dialogue: 0,0:28:19.09,0:28:20.53,Default,,0000,0000,0000,,如果有一个人这么喜欢我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If someone loves me like that
+Dialogue: 0,0:28:20.66,0:28:21.75,Default,,0000,0000,0000,,我为他死也甘心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd do anything for him
+Dialogue: 0,0:28:25.73,0:28:26.93,Default,,0000,0000,0000,,他被三哥打，伤得很厉害\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He was seriously hurt by Brother Sam
+Dialogue: 0,0:28:27.40,0:28:29.66,Default,,0000,0000,0000,,现住在法国医院，你去探他一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's now in French Hospital, go & see him
+Dialogue: 0,0:28:31.17,0:28:32.47,Default,,0000,0000,0000,,丫头，你懂什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're too young to understand
+Dialogue: 0,0:28:33.74,0:28:36.73,Default,,0000,0000,0000,,我是不懂，但我知道你穿白衣服 比穿黑衣服好看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But I understand you look much better in white than black
+Dialogue: 0,0:28:59.67,0:29:00.50,Default,,0000,0000,0000,,钓了多少鱼？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fishing?
+Dialogue: 0,0:29:00.77,0:29:03.43,Default,,0000,0000,0000,,你醒啦？我睡着了也不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I didn't realize that you'd waken up
+Dialogue: 0,0:29:04.67,0:29:06.16,Default,,0000,0000,0000,,我煲了些皮蛋瘦肉粥给你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've prepared some pork congee for you
+Dialogue: 0,0:29:23.72,0:29:24.52,Default,,0000,0000,0000,,我去拿点水\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll get some water
+Dialogue: 0,0:29:40.14,0:29:41.20,Default,,0000,0000,0000,,你以后不要再来找我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't look for me again
+Dialogue: 0,0:29:42.71,0:29:43.14,Default,,0000,0000,0000,,为什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why?
+Dialogue: 0,0:29:47.61,0:29:53.78,Default,,0000,0000,0000,,不要问为什么，那天晚上的事忘记了它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't ask why, just forget everything
+Dialogue: 0,0:29:55.09,0:29:55.88,Default,,0000,0000,0000,,为了那一个男人？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because of that man?
+Dialogue: 0,0:29:59.23,0:30:00.02,Default,,0000,0000,0000,,他配不上你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's not worthy of you
+Dialogue: 0,0:30:01.56,0:30:04.29,Default,,0000,0000,0000,,配不配是我的事，你无权过问\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That's my affair. You've no right to stop me
+Dialogue: 0,0:30:05.60,0:30:06.90,Default,,0000,0000,0000,,你不可以阻止我来找你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've no right to stop me seeing you either
+Dialogue: 0,0:30:08.50,0:30:11.27,Default,,0000,0000,0000,,如果你再找我，下一次就不止 躺医院这么简单\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Next time you won't end up in hospital. Don't be stubborn
+Dialogue: 0,0:30:14.24,0:30:15.40,Default,,0000,0000,0000,,我一定会再来找你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll find you again
+Dialogue: 0,0:30:28.29,0:30:29.26,Default,,0000,0000,0000,,三哥，拍张照\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam,
+Dialogue: 0,0:30:32.86,0:30:33.42,Default,,0000,0000,0000,,陈律师\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Solicitor Chan
+Dialogue: 0,0:30:33.89,0:30:34.95,Default,,0000,0000,0000,,三哥，恭喜你！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Congratulations!
+Dialogue: 0,0:30:35.06,0:30:37.53,Default,,0000,0000,0000,,今天法庭正式通过，你是财产合法继承人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The court announced your right of succession to-day
+Dialogue: 0,0:30:37.60,0:30:39.33,Default,,0000,0000,0000,,令尊的亿万遗产永远属于你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The vast lagacy of your father belongs to you for good
+Dialogue: 0,0:30:39.63,0:30:41.46,Default,,0000,0000,0000,,你这一荸律师费也赚了不少\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You also made a fortune from the legal fees
+Dialogue: 0,0:30:41.57,0:30:43.26,Default,,0000,0000,0000,,勉强够第二个家的开支啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just enough to cover the expenses for my second family
+Dialogue: 0,0:30:45.67,0:30:49.77,Default,,0000,0000,0000,,阿三，你老爸的身体一向很好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sam, your father was in excellent health
+Dialogue: 0,0:30:50.78,0:30:54.34,Default,,0000,0000,0000,,为什么突然间会死了？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}why did he die so suddenly
+Dialogue: 0,0:30:56.22,0:30:58.24,Default,,0000,0000,0000,,是这样的，他是自杀的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He committed suicide
+Dialogue: 0,0:31:00.05,0:31:00.68,Default,,0000,0000,0000,,自杀！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Committed suicide
+Dialogue: 0,0:31:01.39,0:31:04.48,Default,,0000,0000,0000,,他最近两单大生意都亏得很厉害， 损失了差不多一亿元\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He lost almost a $100 million in 2 recent deals
+Dialogue: 0,0:31:04.89,0:31:07.42,Default,,0000,0000,0000,,他老人家一时看不开就…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Maybe he became morose, so...
+Dialogue: 0,0:31:08.46,0:31:11.66,Default,,0000,0000,0000,,没理由，曹伯伯一向都很乐观\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Impossible, he was always so optimistic
+Dialogue: 0,0:31:12.70,0:31:13.53,Default,,0000,0000,0000,,你醉了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're drunk
+Dialogue: 0,0:31:14.80,0:31:18.24,Default,,0000,0000,0000,,我醉！？我是故意喝醉的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drunk? I intended to get drunk
+Dialogue: 0,0:31:18.54,0:31:21.41,Default,,0000,0000,0000,,醉薰薰看这个世界才够可爱\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So I can see the world in its good light
+Dialogue: 0,0:31:21.51,0:31:25.17,Default,,0000,0000,0000,,省得看清楚那些丑恶的面孔\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}& avoid seeing the bad faces so clearly
+Dialogue: 0,0:31:26.25,0:31:27.11,Default,,0000,0000,0000,,我们去跳舞\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's dance
+Dialogue: 0,0:31:28.65,0:31:33.21,Default,,0000,0000,0000,,CECILIA，我跟你说心事，不要过去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia, I need to talk to your privately
+Dialogue: 0,0:31:33.29,0:31:33.91,Default,,0000,0000,0000,,三哥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam,
+Dialogue: 0,0:31:34.85,0:31:36.48,Default,,0000,0000,0000,,今晚好多人都会来这儿的…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Many VIP are coming to-night...
+Dialogue: 0,0:31:36.59,0:31:37.25,Default,,0000,0000,0000,,林太太\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mrs Lin
+Dialogue: 0,0:31:37.82,0:31:38.48,Default,,0000,0000,0000,,三哥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam,
+Dialogue: 0,0:31:40.16,0:31:41.49,Default,,0000,0000,0000,,好久不见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's been a long time
+Dialogue: 0,0:31:41.83,0:31:43.19,Default,,0000,0000,0000,,有美女也不介绍我认识？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why don't you introduce such a beautiful girl to me?
+Dialogue: 0,0:31:43.83,0:31:45.73,Default,,0000,0000,0000,,怎么敢不介绍给你认识？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How dare I not introduce to you
+Dialogue: 0,0:31:46.40,0:31:51.00,Default,,0000,0000,0000,,这一位就是香港最著名的钻石王老五， 曹立三公子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is one of HK's most eligible bachelor, Sam Tsao
+Dialogue: 0,0:31:51.24,0:31:54.70,Default,,0000,0000,0000,,这一位就是新鲜出炉港姐谢宝珊小姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is the new Miss Hong Kong Tse Bao-shan
+Dialogue: 0,0:31:59.65,0:32:01.74,Default,,0000,0000,0000,,你们喝点什么？我去拿给你们\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me fetch you some drinks
+Dialogue: 0,0:32:02.98,0:32:04.42,Default,,0000,0000,0000,,你们两个要乖一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't be naughty
+Dialogue: 0,0:32:05.29,0:32:08.52,Default,,0000,0000,0000,,好啊！如果今天没有认识宝珊小姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I didn't meet you tonight
+Dialogue: 0,0:32:09.02,0:32:11.01,Default,,0000,0000,0000,,真是如入宝山空手回\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}lt'd be just like in a gold mine and coming out empty handed
+Dialogue: 0,0:32:17.63,0:32:18.43,Default,,0000,0000,0000,,跳舞表演\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dancing Show
+Dialogue: 0,0:32:20.77,0:32:22.23,Default,,0000,0000,0000,,玩玩而已，不要太认真\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't take it seriously
+Dialogue: 0,0:32:31.64,0:32:32.37,Default,,0000,0000,0000,,你小心呀\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Be careful
+Dialogue: 0,0:32:35.95,0:32:37.11,Default,,0000,0000,0000,,Linda，你没事吧？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Linda, are you alright?
+Dialogue: 0,0:32:37.68,0:32:41.78,Default,,0000,0000,0000,,曹立三这个人就是这样子， 贪新忘旧，始乱终弃\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sam Tso is a playboy. Forsakes the old for the new
+Dialogue: 0,0:32:41.89,0:32:43.79,Default,,0000,0000,0000,,如果我是你就一定敲他一大掣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I were you I'd make a fortune out of him
+Dialogue: 0,0:32:44.89,0:32:45.92,Default,,0000,0000,0000,,你别胡说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't say that
+Dialogue: 0,0:32:46.79,0:32:49.32,Default,,0000,0000,0000,,我是过来人，十年前他爱我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I had this experience 10 years ago, way he loved me,
+Dialogue: 0,0:32:49.46,0:32:51.40,Default,,0000,0000,0000,,就比现在爱你更厉害\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}More passionate than he loves you now
+Dialogue: 0,0:32:51.63,0:32:55.33,Default,,0000,0000,0000,,我还替他生了一个女儿， 你还傻呼呼的  是吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I even gave birth to a daughter for him. Silly! Is that so?
+Dialogue: 0,0:32:56.44,0:32:58.30,Default,,0000,0000,0000,,八卦周刊全都爆出来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It was revealed to the public by all the scandal magazines
+Dialogue: 0,0:32:58.37,0:32:59.40,Default,,0000,0000,0000,,麻烦你，扶扶她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please help her
+Dialogue: 0,0:32:59.54,0:33:00.97,Default,,0000,0000,0000,,我才收了他六十万\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I just received $600,000 only
+Dialogue: 0,0:33:01.34,0:33:01.81,Default,,0000,0000,0000,,你喝醉了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're drunk
+Dialogue: 0,0:33:03.01,0:33:04.48,Default,,0000,0000,0000,,我没有醉\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I am not
+Dialogue: 0,0:33:54.26,0:33:56.42,Default,,0000,0000,0000,,香港小姐谢宝珊为我们高歌一曲\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tonight, we've the honour to invite the New Miss H. K
+Dialogue: 0,0:33:56.56,0:33:58.12,Default,,0000,0000,0000,,我们用热烈掌声欢迎她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}To sing a song for us,
+Dialogue: 0,0:34:16.98,0:34:22.62,Default,,0000,0000,0000,,没法，没法拒绝去想你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I can't stop thinking of you
+Dialogue: 0,0:34:22.89,0:34:31.89,Default,,0000,0000,0000,,曾努力来逃避，但我直到午夜仍想你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I tried, But I can't help it
+Dialogue: 0,0:34:38.10,0:34:38.76,Default,,0000,0000,0000,,你醉了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're drunk
+Dialogue: 0,0:34:40.61,0:34:42.27,Default,,0000,0000,0000,,你可以走了，我明天打电话给你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You may leave. I'll call you tomorrow
+Dialogue: 0,0:34:42.34,0:34:47.68,Default,,0000,0000,0000,,宝珊，我要你今天晚上陪我，宝珊\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Po-shan, I want you tonight
+Dialogue: 0,0:34:48.85,0:34:49.68,Default,,0000,0000,0000,,你躺好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Lie down
+Dialogue: 0,0:34:55.39,0:34:58.45,Default,,0000,0000,0000,,你今天晚上的一举一动令到我好满意\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your behaviour tonight impressed me
+Dialogue: 0,0:35:00.29,0:35:02.63,Default,,0000,0000,0000,,不过你最近有很多艳闻\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But there's rumours about your love affairs lately
+Dialogue: 0,0:35:02.93,0:35:03.90,Default,,0000,0000,0000,,没有呀，三哥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not true, brother Sam
+Dialogue: 0,0:35:07.30,0:35:10.93,Default,,0000,0000,0000,,不过我不介意，反正全香港都知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But I don't mind since the whole HK knows it
+Dialogue: 0,0:35:13.61,0:35:16.63,Default,,0000,0000,0000,,宝珊，我终于得到你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Po-shan, I've got you
+Dialogue: 0,0:35:19.25,0:35:20.14,Default,,0000,0000,0000,,ILOVEYOU\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I LOVE YOU
+Dialogue: 0,0:35:25.62,0:35:27.14,Default,,0000,0000,0000,,姜汤煲好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The ginger soup is ready
+Dialogue: 0,0:35:28.45,0:35:29.18,Default,,0000,0000,0000,,替我倒掉它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Throw it away!
+Dialogue: 0,0:35:31.56,0:35:32.15,Default,,0000,0000,0000,,三姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Maid Sha
+Dialogue: 0,0:35:34.59,0:35:35.36,Default,,0000,0000,0000,,对不起！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry!
+Dialogue: 0,0:35:36.86,0:35:40.49,Default,,0000,0000,0000,,其实，你什么时候才可以摆脱那个坏蛋？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When are you going to leave that rascal?
+Dialogue: 0,0:35:41.97,0:35:43.30,Default,,0000,0000,0000,,算啦！不要再提\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Forget it, please let's not talk about it
+Dialogue: 0,0:35:44.94,0:35:46.56,Default,,0000,0000,0000,,我有一样东西给你看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I have something to show you
+Dialogue: 0,0:35:48.17,0:35:48.73,Default,,0000,0000,0000,,你看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look
+Dialogue: 0,0:35:49.41,0:35:50.57,Default,,0000,0000,0000,,怎么会有只白鸽？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where did you catch this dove
+Dialogue: 0,0:35:52.38,0:35:55.75,Default,,0000,0000,0000,,你记得嘛？那时候你还不够四岁\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Do you remember when you were small
+Dialogue: 0,0:35:56.68,0:36:01.14,Default,,0000,0000,0000,,我在大屿山的旧房子里面养了几只白鸽， 你好喜欢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We raised many doves in the old house in Lantau Island
+Dialogue: 0,0:36:01.62,0:36:02.09,Default,,0000,0000,0000,,记得\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I remember
+Dialogue: 0,0:36:03.16,0:36:05.68,Default,,0000,0000,0000,,今天它自己飞进了我们的露台\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This one flew on to our balcony today
+Dialogue: 0,0:36:05.76,0:36:09.42,Default,,0000,0000,0000,,我打算一会儿宰了它，用来煲汤给你喝\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It should make a nice soup
+Dialogue: 0,0:36:09.50,0:36:11.73,Default,,0000,0000,0000,,不要…，这么残忍\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't... don't be so cruel
+Dialogue: 0,0:36:14.40,0:36:16.99,Default,,0000,0000,0000,,整天困着它，好可怜的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It suffers being kept in captivity
+Dialogue: 0,0:36:20.61,0:36:23.01,Default,,0000,0000,0000,,小姐呀！我记起来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Miss, I nearly forgot
+Dialogue: 0,0:36:23.44,0:36:27.81,Default,,0000,0000,0000,,刚才老人院有电话来，叫你去看看公公\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Someones from the sanitorium called up
+Dialogue: 0,0:36:28.35,0:36:31.75,Default,,0000,0000,0000,,我想，他也没有多少日子了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Asked you to look up your Grandpa
+Dialogue: 0,0:36:35.79,0:36:36.55,Default,,0000,0000,0000,,你放心啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't worry
+Dialogue: 0,0:36:42.40,0:36:45.42,Default,,0000,0000,0000,,你飞吧！你干嘛不飞？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fly away! Why don't you fly away?
+Dialogue: 0,0:36:46.63,0:36:48.16,Default,,0000,0000,0000,,给人困得太久，不会飞了是不是？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're used to captivity. It's hard for you fly away
+Dialogue: 0,0:36:56.14,0:36:58.80,Default,,0000,0000,0000,,下来呀！我等你好久了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come down! I've been here for ages
+Dialogue: 0,0:37:09.49,0:37:10.82,Default,,0000,0000,0000,,我好冷呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm terribly cold!
+Dialogue: 0,0:37:17.70,0:37:18.99,Default,,0000,0000,0000,,你的事不关我事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That is not my concern!
+Dialogue: 0,0:37:19.73,0:37:21.56,Default,,0000,0000,0000,,ILOVEYOU，ILOVEYOU\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I LOVE YOU, I LOVE YOU
+Dialogue: 0,0:37:27.34,0:37:29.21,Default,,0000,0000,0000,,我爱你呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I love you!
+Dialogue: 0,0:37:37.85,0:37:39.32,Default,,0000,0000,0000,,我不爱你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't love you
+Dialogue: 0,0:37:41.02,0:37:44.82,Default,,0000,0000,0000,,啊…！无心睡眠\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm no mood for sleep...
+Dialogue: 0,0:37:45.09,0:37:48.62,Default,,0000,0000,0000,,啊…！脑交战\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}my brains is in a whirl
+Dialogue: 0,0:38:33.57,0:38:34.40,Default,,0000,0000,0000,,你干嘛又来找我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why are you looking for me again
+Dialogue: 0,0:38:35.04,0:38:37.77,Default,,0000,0000,0000,,我答应过你   你答应过我什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because I promise I would What did you promise me?
+Dialogue: 0,0:38:38.01,0:38:38.57,Default,,0000,0000,0000,,来找你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}To look for you again
+Dialogue: 0,0:38:39.41,0:38:41.94,Default,,0000,0000,0000,,你现在见到我了，你可以走了，拜拜！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've found me now. You can go. Bye!
+Dialogue: 0,0:38:55.33,0:38:55.85,Default,,0000,0000,0000,,你画的？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You painted it?
+Dialogue: 0,0:38:57.33,0:38:58.26,Default,,0000,0000,0000,,替我签个名\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please autograph if for me
+Dialogue: 0,0:39:21.12,0:39:21.92,Default,,0000,0000,0000,,游车河好吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How about a drive in the car?
+Dialogue: 0,0:39:25.93,0:39:26.79,Default,,0000,0000,0000,,7楼E座？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}7E?
+Dialogue: 0,0:39:27.39,0:39:27.95,Default,,0000,0000,0000,,记不起来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I can't remember
+Dialogue: 0,0:39:48.58,0:39:49.14,Default,,0000,0000,0000,,你想怎么样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What do you want?
+Dialogue: 0,0:40:11.20,0:40:12.14,Default,,0000,0000,0000,,今天晚上没有月光\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's no moonlight tonight
+Dialogue: 0,0:40:17.01,0:40:18.07,Default,,0000,0000,0000,,音乐很好听吧？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But the music is good
+Dialogue: 0,0:40:21.51,0:40:22.34,Default,,0000,0000,0000,,那个恶男人睡了吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is that guy in bed already?
+Dialogue: 0,0:40:26.92,0:40:29.72,Default,,0000,0000,0000,,他有没有像打我一样打你呀？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Does he beat you like he beat me?
+Dialogue: 0,0:40:34.43,0:40:35.26,Default,,0000,0000,0000,,他今天晚上不会打你吧？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I hope that he didn't beat you tonight
+Dialogue: 0,0:40:42.60,0:40:44.13,Default,,0000,0000,0000,,为什么那一次你装死来骗我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why did you pretend to be dead to deceive me?
+Dialogue: 0,0:40:44.20,0:40:45.43,Default,,0000,0000,0000,,如果再是像审犯一样审下去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you're going to address me like a criminal
+Dialogue: 0,0:40:45.70,0:40:47.07,Default,,0000,0000,0000,,我会好像上次一样跳车走的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll jump out of the car like last time
+Dialogue: 0,0:40:58.95,0:41:00.28,Default,,0000,0000,0000,,我去后面，你不要看我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'I go to the back. Don't look at
+Dialogue: 0,0:41:20.04,0:41:22.30,Default,,0000,0000,0000,,干什么？想强奸我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You want to rape me?
+Dialogue: 0,0:41:23.74,0:41:24.87,Default,,0000,0000,0000,,是啊…？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes...
+Dialogue: 0,0:41:25.95,0:41:26.57,Default,,0000,0000,0000,,先不要看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Close your eyes
+Dialogue: 0,0:41:31.65,0:41:32.88,Default,,0000,0000,0000,,有卧底告诉我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A sry told me
+Dialogue: 0,0:41:34.19,0:41:36.88,Default,,0000,0000,0000,,今天是你农历二月十七日生日，是不是？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's your birthday today, lunar 17th Feb.
+Dialogue: 0,0:41:38.32,0:41:38.95,Default,,0000,0000,0000,,许个愿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Make a wish.
+Dialogue: 0,0:41:46.73,0:41:49.22,Default,,0000,0000,0000,,你一点也不认真，当然吹不熄蜡烛\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}They won't blow out because you didn't make a serious wish
+Dialogue: 0,0:41:55.88,0:41:56.43,Default,,0000,0000,0000,,我不吹了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I give up
+Dialogue: 0,0:42:04.22,0:42:06.62,Default,,0000,0000,0000,,来吧！我替你把蜡烛点着，让你许愿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me relight them. Come on, make a wish
+Dialogue: 0,0:42:10.46,0:42:14.62,Default,,0000,0000,0000,,不用点，反正我吹了十几年蜡烛都没有灵过\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Forget it. My wishes never come true
+Dialogue: 0,0:42:35.35,0:42:36.37,Default,,0000,0000,0000,,其实你有什么愿望？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me, do you have any ambition
+Dialogue: 0,0:42:41.69,0:42:42.28,Default,,0000,0000,0000,,做歌星\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}To be a singer
+Dialogue: 0,0:42:51.13,0:42:51.79,Default,,0000,0000,0000,,站在这里，别动！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stay there! Don't move!
+Dialogue: 0,0:43:00.97,0:43:02.24,Default,,0000,0000,0000,,预备，开始\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ready, go!
+Dialogue: 0,0:43:09.85,0:43:13.61,Default,,0000,0000,0000,,WOO…，无心睡眠\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm no mood for sleep because...
+Dialogue: 0,0:43:14.15,0:43:17.52,Default,,0000,0000,0000,,WOO…，脑交战\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My mind is in a whirl
+Dialogue: 0,0:43:17.69,0:43:20.85,Default,,0000,0000,0000,,踏着脚在怀念，昨天的你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}remember the old days
+Dialogue: 0,0:43:21.26,0:43:24.42,Default,,0000,0000,0000,,夜是渗着前事全挥不去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I tap my feet just thinking about the past
+Dialogue: 0,0:43:24.83,0:43:28.20,Default,,0000,0000,0000,,若是你在明日能得一见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I could see you tomorrow
+Dialogue: 0,0:43:28.60,0:43:32.06,Default,,0000,0000,0000,,就让我在怀内重得温暖\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}And feel the warmth of your arms
+Dialogue: 0,0:43:48.72,0:43:49.88,Default,,0000,0000,0000,,别这样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Stop it!
+Dialogue: 0,0:43:50.06,0:43:51.39,Default,,0000,0000,0000,,不要阻住我…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't stop me...
+Dialogue: 0,0:43:51.46,0:43:55.45,Default,,0000,0000,0000,,不要这样，好了…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Calm down
+Dialogue: 0,0:44:08.57,0:44:09.13,Default,,0000,0000,0000,,没事啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Alright!
+Dialogue: 0,0:44:20.09,0:44:21.11,Default,,0000,0000,0000,,我唱歌是不是很难听？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did I sing that bad?
+Dialogue: 0,0:44:23.59,0:44:24.32,Default,,0000,0000,0000,,不是很难听\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not that bad
+Dialogue: 0,0:44:25.82,0:44:26.62,Default,,0000,0000,0000,,是好很难听\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Just very bad bad
+Dialogue: 0,0:44:32.00,0:44:35.36,Default,,0000,0000,0000,,幸好我没有做歌星，不然更加失败\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's lucky that I'm not singer otherwise I'd be much more destructive now
+Dialogue: 0,0:44:37.77,0:44:39.80,Default,,0000,0000,0000,,你跟着这一个男人，你很失败\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're pretty destructive being with that guy
+Dialogue: 0,0:44:42.11,0:44:42.87,Default,,0000,0000,0000,,你好烦呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're a nuisance!
+Dialogue: 0,0:44:53.75,0:44:54.68,Default,,0000,0000,0000,,我刚才是不是很疯？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You must have thought I was insane just now
+Dialogue: 0,0:44:58.89,0:44:59.38,Default,,0000,0000,0000,,不会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not really
+Dialogue: 0,0:45:16.28,0:45:19.44,Default,,0000,0000,0000,,当我每次最开心的时候，这么快就完\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Every time I feel happy, it has to come to an end.
+Dialogue: 0,0:45:30.66,0:45:31.75,Default,,0000,0000,0000,,多谢你的生日饼！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thanks for the birthday cakes!
+Dialogue: 0,0:45:33.66,0:45:34.56,Default,,0000,0000,0000,,我们什么时候再见！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When can we meet again?
+Dialogue: 0,0:45:38.90,0:45:39.45,Default,,0000,0000,0000,,几时？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When?
+Dialogue: 0,0:45:41.73,0:45:42.17,Default,,0000,0000,0000,,我们…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We...
+Dialogue: 0,0:45:42.50,0:45:43.43,Default,,0000,0000,0000,,到此为止\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We got to end it here
+Dialogue: 0,0:45:48.74,0:45:49.67,Default,,0000,0000,0000,,我第一次看到你笑\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's the first time I see you smile
+Dialogue: 0,0:45:56.35,0:45:57.54,Default,,0000,0000,0000,,傻子，我已经做了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I've played the fool
+Dialogue: 0,0:45:59.02,0:46:01.78,Default,,0000,0000,0000,,歌又唱完，生日饼也送了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sung stupid songs, sent birthday cakes.
+Dialogue: 0,0:46:07.26,0:46:08.45,Default,,0000,0000,0000,,我想我没有机会了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't have a chance, do I?
+Dialogue: 0,0:46:10.46,0:46:10.89,Default,,0000,0000,0000,,再见！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Goodbye!
+Dialogue: 0,0:46:33.05,0:46:33.98,Default,,0000,0000,0000,,我明天去找你？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where can I see you?
+Dialogue: 0,0:46:36.36,0:46:38.59,Default,,0000,0000,0000,,九点钟在港外线码头见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See you midday at the pier tomorrow
+Dialogue: 0,0:46:47.23,0:46:50.79,Default,,0000,0000,0000,,干嘛这么晚才回来？三爷快要醒了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where've you been. Master Sam is about to wake up
+Dialogue: 0,0:46:51.00,0:46:52.20,Default,,0000,0000,0000,,你快点到房里去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hurry up & go in now
+Dialogue: 0,0:46:53.51,0:46:54.06,Default,,0000,0000,0000,,谢谢！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you
+Dialogue: 0,0:47:07.12,0:47:08.25,Default,,0000,0000,0000,,这么早到那里去？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where did you go so earily?
+Dialogue: 0,0:47:11.76,0:47:12.75,Default,,0000,0000,0000,,我出去跑步\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Jogging
+Dialogue: 0,0:47:16.30,0:47:17.06,Default,,0000,0000,0000,,你的头还痛不痛？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You still have a headache
+Dialogue: 0,0:47:17.76,0:47:19.36,Default,,0000,0000,0000,,我的头怎么会痛？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I haven't got any headache
+Dialogue: 0,0:47:22.77,0:47:25.07,Default,,0000,0000,0000,,你别以为我昨天晚上真的醉了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was never really drunk last night
+Dialogue: 0,0:47:25.77,0:47:27.67,Default,,0000,0000,0000,,你的事我全都知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I know everything.
+Dialogue: 0,0:47:27.77,0:47:30.33,Default,,0000,0000,0000,,缠着你的那个小子在广告公司做事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That guy works for an advertising agency
+Dialogue: 0,0:47:30.41,0:47:32.27,Default,,0000,0000,0000,,拍什么薄荷酒广告是不是？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He want you to shoot a mint wine ad.
+Dialogue: 0,0:47:33.45,0:47:33.91,Default,,0000,0000,0000,,是呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,0:47:34.85,0:47:36.78,Default,,0000,0000,0000,,下次我见到他缠着你，我就扭掉他的头\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I see him again, I'll chop his head off
+Dialogue: 0,0:47:37.22,0:47:38.41,Default,,0000,0000,0000,,是呀！扭掉他的头\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes, chop his head off
+Dialogue: 0,0:47:38.62,0:47:40.38,Default,,0000,0000,0000,,别理这种人，休息一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Never mind him, sleep a little more
+Dialogue: 0,0:47:42.65,0:47:45.15,Default,,0000,0000,0000,,我今天晚上要去泰国，两三天后才回来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tonight I'm off to Thailand for 2or3 days
+Dialogue: 0,0:47:46.26,0:47:48.82,Default,,0000,0000,0000,,你叫阿泉两点半来接我，我多睡一会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell Ah Chuen to pick me up at 2:20. I need some more sleep
+Dialogue: 0,0:48:07.71,0:48:08.87,Default,,0000,0000,0000,,对不起！我迟到\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry. I'm late
+Dialogue: 0,0:48:11.88,0:48:13.15,Default,,0000,0000,0000,,我好像是约了你的姐姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It seems that I dated your sis, not you
+Dialogue: 0,0:48:14.45,0:48:15.92,Default,,0000,0000,0000,,她没有空，我是她的妹妹\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's busy. I'm her younger sister
+Dialogue: 0,0:48:17.82,0:48:20.09,Default,,0000,0000,0000,,我现在去探我姐姐的公公\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's go visit my sister'd grandpa
+Dialogue: 0,0:48:31.40,0:48:32.67,Default,,0000,0000,0000,,还将不死你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've lost!
+Dialogue: 0,0:48:33.14,0:48:34.16,Default,,0000,0000,0000,,还死不了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not yet
+Dialogue: 0,0:48:36.58,0:48:37.04,Default,,0000,0000,0000,,仪姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Miss Yee
+Dialogue: 0,0:48:37.88,0:48:39.43,Default,,0000,0000,0000,,带金，我正在等你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam, here you at last
+Dialogue: 0,0:48:40.05,0:48:40.51,Default,,0000,0000,0000,,带金？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam? (means gold carrier,)
+Dialogue: 0,0:48:41.11,0:48:43.48,Default,,0000,0000,0000,,又说很了解我，连我的真名字也不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You said you knew all about me, you don't even know my real names
+Dialogue: 0,0:48:45.72,0:48:48.35,Default,,0000,0000,0000,,医生说你公公随时都会死去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The doctor said your grandpa could pass away anytime
+Dialogue: 0,0:48:48.65,0:48:50.75,Default,,0000,0000,0000,,所以叫你签一张丧事授权书\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We'd like you to sign the funeral authorization form
+Dialogue: 0,0:48:53.93,0:48:57.59,Default,,0000,0000,0000,,不过，他一知道你今天会来， 不知道多开心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When grandpa heard you were coming, he was so excited
+Dialogue: 0,0:48:57.70,0:49:00.43,Default,,0000,0000,0000,,整天叫我拿套西装给他穿 这不就行了吗？婆婆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He asked me to find a suit for him How about that?
+Dialogue: 0,0:49:02.94,0:49:03.87,Default,,0000,0000,0000,,谢谢你！仪姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you, Miss Yee
+Dialogue: 0,0:49:04.27,0:49:12.87,Default,,0000,0000,0000,,人隔万重山…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mountains separate us
+Dialogue: 0,0:49:13.45,0:49:13.91,Default,,0000,0000,0000,,公公\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa
+Dialogue: 0,0:49:15.21,0:49:16.70,Default,,0000,0000,0000,,带金，你来了吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam, you've really come
+Dialogue: 0,0:49:17.25,0:49:19.51,Default,,0000,0000,0000,,公公，你好帅，还结了领花\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa, you look so handsome with the bow tie
+Dialogue: 0,0:49:20.95,0:49:22.32,Default,,0000,0000,0000,,我们到上面去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let's go
+Dialogue: 0,0:49:24.56,0:49:25.92,Default,,0000,0000,0000,,这一位是…？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who is this...
+Dialogue: 0,0:49:27.53,0:49:29.79,Default,,0000,0000,0000,,他是我的未婚夫，戚近荣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My fiance Chi Ken Wing
+Dialogue: 0,0:49:30.23,0:49:32.66,Default,,0000,0000,0000,,CHIKEN？CHICKEN不就是鸡\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chi Ken sounds like chicken
+Dialogue: 0,0:49:33.30,0:49:34.23,Default,,0000,0000,0000,,鸡先生是吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr Chicken?
+Dialogue: 0,0:49:35.03,0:49:35.69,Default,,0000,0000,0000,,阿公，你好！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How do you do, grandpa?
+Dialogue: 0,0:49:39.04,0:49:40.63,Default,,0000,0000,0000,,你在那里办事！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where do you work?
+Dialogue: 0,0:49:41.57,0:49:44.80,Default,,0000,0000,0000,,他在我教的那一家小学做主任\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He's the supervisor at the school where I teach
+Dialogue: 0,0:49:45.28,0:49:47.11,Default,,0000,0000,0000,,那就是鸡主任？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So. He's a supervising chicken
+Dialogue: 0,0:49:47.51,0:49:48.07,Default,,0000,0000,0000,,随便什么都好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Whatever you say
+Dialogue: 0,0:49:48.18,0:49:50.41,Default,,0000,0000,0000,,带金，你有什么带来给我吃？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam, did you bring anything today?
+Dialogue: 0,0:49:51.78,0:49:52.22,Default,,0000,0000,0000,,有\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,0:49:55.82,0:50:01.35,Default,,0000,0000,0000,,未来孙女婿，推我回房聊天好不好？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My future grandson-in-law, let's go in & talk
+Dialogue: 0,0:50:01.56,0:50:01.92,Default,,0000,0000,0000,,行！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sure!
+Dialogue: 0,0:50:07.10,0:50:11.54,Default,,0000,0000,0000,,未来孙婿，今天虽然是第一次见面\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My future grandson-in-law, although it's the first time I see you
+Dialogue: 0,0:50:12.20,0:50:14.43,Default,,0000,0000,0000,,但是你都很合我的眼缘\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I like you
+Dialogue: 0,0:50:16.11,0:50:21.84,Default,,0000,0000,0000,,我现在就将个心肝宝贝的孙女全交给你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Alright, I give my dearest grand-daughter to you
+Dialogue: 0,0:50:22.51,0:50:25.24,Default,,0000,0000,0000,,你要好好的照顾她才好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Promise me to take good care of her
+Dialogue: 0,0:50:25.52,0:50:26.18,Default,,0000,0000,0000,,我会的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I will
+Dialogue: 0,0:50:27.12,0:50:31.78,Default,,0000,0000,0000,,她从小就受苦，未曾享过一日福\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's suffered greatly since childhood
+Dialogue: 0,0:50:32.52,0:50:34.69,Default,,0000,0000,0000,,你要好好的待她才好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Promise me to be kind to her
+Dialogue: 0,0:50:36.46,0:50:39.76,Default,,0000,0000,0000,,男人大丈夫，握手为盟\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're men, shake on it
+Dialogue: 0,0:50:44.17,0:50:46.60,Default,,0000,0000,0000,,你们干什么？握完一次手又一次手\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why do you keep shaking hands?
+Dialogue: 0,0:50:46.67,0:50:51.23,Default,,0000,0000,0000,,男人说男人的事，女人问这么多干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This is men's talk, nothing to do with women
+Dialogue: 0,0:50:51.31,0:50:51.83,Default,,0000,0000,0000,,公公\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa
+Dialogue: 0,0:50:52.24,0:50:55.24,Default,,0000,0000,0000,,这里有些五加皮茶，你试试好不好喝\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here's some Ng Ka Pitea, Try it
+Dialogue: 0,0:50:55.75,0:50:57.24,Default,,0000,0000,0000,,五加皮茶？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ng Ka Pi (Chinese wine) tea?
+Dialogue: 0,0:51:13.77,0:51:14.42,Default,,0000,0000,0000,,拿回来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give back to me
+Dialogue: 0,0:51:17.27,0:51:21.04,Default,,0000,0000,0000,,他已经日子无多了， 他喜欢什么就成全他好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give him what he wants. He's not got long.
+Dialogue: 0,0:51:24.34,0:51:24.83,Default,,0000,0000,0000,,又要喝？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Again
+Dialogue: 0,0:51:26.21,0:51:31.84,Default,,0000,0000,0000,,不是，我想你拿去给我的老朋友试一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, let my good friends try some,
+Dialogue: 0,0:51:32.08,0:51:32.52,Default,,0000,0000,0000,,好呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good idea
+Dialogue: 0,0:51:34.79,0:51:37.45,Default,,0000,0000,0000,,带金，你妈咪有没有来信？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam, any letter from your mom?
+Dialogue: 0,0:51:37.92,0:51:38.41,Default,,0000,0000,0000,,有！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,0:51:38.62,0:51:39.42,Default,,0000,0000,0000,,拿来给我看看\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Give it to me
+Dialogue: 0,0:51:40.19,0:51:41.28,Default,,0000,0000,0000,,我念给你听\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll read it to you
+Dialogue: 0,0:51:43.43,0:51:49.13,Default,,0000,0000,0000,,爸爸，你好嘛！我在美国生活很好， 不用挂念\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Dad, how are you? I'm fine in the USA. Don't worry about me
+Dialogue: 0,0:51:49.27,0:51:53.10,Default,,0000,0000,0000,,餐厅人客很多，三个小孩也很听话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We've many customers in our restaurant and our 3 kids are very nice
+Dialogue: 0,0:51:53.41,0:51:56.60,Default,,0000,0000,0000,,而最少一个已在店内打点一切\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The youngest one has started to help in the restaurant
+Dialogue: 0,0:51:58.18,0:52:01.15,Default,,0000,0000,0000,,最少的那一个才袛有四岁，怎么打点？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How come? He's only four
+Dialogue: 0,0:52:01.21,0:52:01.58,Default,,0000,0000,0000,,打点…？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Help...
+Dialogue: 0,0:52:03.28,0:52:03.84,Default,,0000,0000,0000,,让我来吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me...
+Dialogue: 0,0:52:07.59,0:52:11.55,Default,,0000,0000,0000,,小儿子在楼面跟洋小子玩，很开心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The youngest one enjoys playing with foreign kids
+Dialogue: 0,0:52:12.66,0:52:14.63,Default,,0000,0000,0000,,工作很忙，就此搁荸，就这么多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm very busy... Got to go
+Dialogue: 0,0:52:14.83,0:52:16.19,Default,,0000,0000,0000,,就这么多，没啦？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is that all?
+Dialogue: 0,0:52:18.60,0:52:19.89,Default,,0000,0000,0000,,再者，还有呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh, yes
+Dialogue: 0,0:52:21.13,0:52:26.90,Default,,0000,0000,0000,,支票已交给鸡翼兑现，你向他查收便可\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's a cheque payable to Chicken Wing, get it from him
+Dialogue: 0,0:52:28.34,0:52:29.07,Default,,0000,0000,0000,,那钱呢？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where's the money?
+Dialogue: 0,0:52:30.08,0:52:34.91,Default,,0000,0000,0000,,有，在这里，我怕你不方便，替你换好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It is here. I've cashed it
+Dialogue: 0,0:52:38.45,0:52:40.08,Default,,0000,0000,0000,,一共是八百元，你点一点   八百\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}$800 you better check it 800
+Dialogue: 0,0:52:43.92,0:52:44.58,Default,,0000,0000,0000,,数目对了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's correct
+Dialogue: 0,0:52:48.13,0:52:54.55,Default,,0000,0000,0000,,未来孙婿，这三百元就是我给你的见面利是\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Take this $300 as good luck money, my future grandson-in-low
+Dialogue: 0,0:52:55.47,0:52:56.23,Default,,0000,0000,0000,,多谢公公！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thank you, grandpa...
+Dialogue: 0,0:53:11.78,0:53:13.94,Default,,0000,0000,0000,,公公…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa...
+Dialogue: 0,0:53:18.79,0:53:19.85,Default,,0000,0000,0000,,带金\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam
+Dialogue: 0,0:53:20.96,0:53:25.19,Default,,0000,0000,0000,,我给你三百银做嫁妆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This $300 is your marriage dowry
+Dialogue: 0,0:53:25.66,0:53:28.63,Default,,0000,0000,0000,,公公，我会叫CHICKEN接你出去喝喜酒的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa,, Chicken and I will fetch you for the wedding
+Dialogue: 0,0:53:28.93,0:53:34.20,Default,,0000,0000,0000,,不用了，留个空位给我就行了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not necessary, just leave a vacant seat for me
+Dialogue: 0,0:53:34.64,0:53:43.98,Default,,0000,0000,0000,,一叶轻舟去…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A boat is drifting away...
+Dialogue: 0,0:53:50.92,0:54:00.42,Default,,0000,0000,0000,,人隔万重山\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}moutains separate as...
+Dialogue: 0,0:54:02.60,0:54:06.54,Default,,0000,0000,0000,,鸟南飞\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The birds fly to the South
+Dialogue: 0,0:54:08.47,0:54:11.24,Default,,0000,0000,0000,,公公，冷呀！你回到里面去\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa, it's cold, go inside
+Dialogue: 0,0:54:13.75,0:54:17.70,Default,,0000,0000,0000,,鸟南返\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The birds return to the South
+Dialogue: 0,0:54:19.08,0:54:42.34,Default,,0000,0000,0000,,鸟儿比翼何日再归还，哀我何孤单，何孤单\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}when the birds return to lament my loneliness, my loneloness
+Dialogue: 0,0:54:42.41,0:54:43.84,Default,,0000,0000,0000,,带金\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam
+Dialogue: 0,0:54:50.75,0:54:53.74,Default,,0000,0000,0000,,不知道是公公送我，还是我送公公？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I don't know whether he sees me off or I see him off
+Dialogue: 0,0:55:00.39,0:55:01.72,Default,,0000,0000,0000,,原来你妈咪住在纽约？我妈咪…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your momlives in New York. My mom also...
+Dialogue: 0,0:55:01.79,0:55:03.06,Default,,0000,0000,0000,,我妈妈在十年前已经死了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mom had been dead almost 10 years
+Dialogue: 0,0:55:05.40,0:55:05.86,Default,,0000,0000,0000,,对不起！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry!
+Dialogue: 0,0:55:06.43,0:55:09.13,Default,,0000,0000,0000,,公公这么老了，无谓令他太担心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Grandpa is so old. I couldn't hurt him
+Dialogue: 0,0:55:11.30,0:55:11.77,Default,,0000,0000,0000,,说得是\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Right
+Dialogue: 0,0:55:18.61,0:55:22.55,Default,,0000,0000,0000,,这两块玉是我爸爸临死之前送给我妈妈\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}These jades pieces was my father's gift to mom before he died
+Dialogue: 0,0:55:22.65,0:55:23.91,Default,,0000,0000,0000,,毋怨毋悔，莫失莫忘\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}NO REGRETS, AND NO BLAME
+Dialogue: 0,0:55:24.62,0:55:26.14,Default,,0000,0000,0000,,以前的人好像比较浪漫一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It seems our ancestors were more romantic
+Dialogue: 0,0:55:54.11,0:55:55.58,Default,,0000,0000,0000,,喂！等等！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wait!
+Dialogue: 0,0:55:55.65,0:55:56.14,Default,,0000,0000,0000,,等等！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wait!
+Dialogue: 0,0:55:56.28,0:55:58.01,Default,,0000,0000,0000,,尾班船已经开了，明天早上再来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The last ferry has gone. Come again tomorrow
+Dialogue: 0,0:56:02.82,0:56:04.29,Default,,0000,0000,0000,,那现在怎么办？带金小姐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What can we do now, Miss Tai-kam?
+Dialogue: 0,0:56:07.79,0:56:09.32,Default,,0000,0000,0000,,这么晚又这么大雨，到那里去找酒店？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where can we find a hotel in this weather
+Dialogue: 0,0:56:09.79,0:56:11.52,Default,,0000,0000,0000,,我带你去一家不用花钱的酒店\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll take you to a hotel free of charge
+Dialogue: 0,0:56:19.37,0:56:19.93,Default,,0000,0000,0000,,酒店呀？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hotel?
+Dialogue: 0,0:56:20.31,0:56:20.77,Default,,0000,0000,0000,,这里！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Here!?
+Dialogue: 0,0:56:21.64,0:56:22.04,Default,,0000,0000,0000,,是呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes!
+Dialogue: 0,0:56:25.98,0:56:26.71,Default,,0000,0000,0000,,先点火\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Light a fire
+Dialogue: 0,0:56:29.38,0:56:30.47,Default,,0000,0000,0000,,有火水在盆边\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's kerosene by the basin
+Dialogue: 0,0:56:34.82,0:56:35.72,Default,,0000,0000,0000,,黄帝，好闷吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Emperor, are you bore by yourself?
+Dialogue: 0,0:56:35.79,0:56:36.75,Default,,0000,0000,0000,,我们来探你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We come to say hello
+Dialogue: 0,0:56:37.49,0:56:38.48,Default,,0000,0000,0000,,这个地方是什么人住的？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who's living here?
+Dialogue: 0,0:56:38.59,0:56:39.78,Default,,0000,0000,0000,,我小时候住在这里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I lived here when I was a child
+Dialogue: 0,0:56:39.99,0:56:40.69,Default,,0000,0000,0000,,带金住在这里\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tai-kam lived here
+Dialogue: 0,0:56:48.40,0:56:49.83,Default,,0000,0000,0000,,拿点生果过来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fetch the fruit O.K.
+Dialogue: 0,0:56:56.17,0:56:56.70,Default,,0000,0000,0000,,你吃一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have some...
+Dialogue: 0,0:57:04.55,0:57:09.85,Default,,0000,0000,0000,,看什么？不准把面转过来，哼！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't turn around, no peeping
+Dialogue: 0,0:57:14.16,0:57:14.59,Default,,0000,0000,0000,,还看？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're still peeping
+Dialogue: 0,0:57:20.00,0:57:21.09,Default,,0000,0000,0000,,你真的不准我把面转过来？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Can I turn around now?
+Dialogue: 0,0:57:21.87,0:57:22.76,Default,,0000,0000,0000,,不准！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No!
+Dialogue: 0,0:57:29.67,0:57:30.07,Default,,0000,0000,0000,,行了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay now
+Dialogue: 0,0:57:46.16,0:57:46.75,Default,,0000,0000,0000,,看什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you staring at?
+Dialogue: 0,0:57:53.30,0:57:53.76,Default,,0000,0000,0000,,你怕？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you nervous?
+Dialogue: 0,0:58:14.82,0:58:15.75,Default,,0000,0000,0000,,真老土\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Idiot!
+Dialogue: 0,0:58:23.90,0:58:24.86,Default,,0000,0000,0000,,我削一个苹果给你吃\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me peel an apple for you
+Dialogue: 0,0:58:27.53,0:58:29.06,Default,,0000,0000,0000,,你的手抖得这么厉害，让我来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your hands are trembling. Let me do it
+Dialogue: 0,0:58:36.14,0:58:37.07,Default,,0000,0000,0000,,这个是你朋友黄帝？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is this emperior your friend?
+Dialogue: 0,0:58:38.34,0:58:41.40,Default,,0000,0000,0000,,是呀！在我小时候，公公送给我的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes! Grandpa gave it to me when I was small
+Dialogue: 0,0:58:42.45,0:58:43.35,Default,,0000,0000,0000,,这里的东西很有趣\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Everything here is so fascinating
+Dialogue: 0,0:58:51.62,0:58:52.59,Default,,0000,0000,0000,,你不把它们全都带到香港去？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why don't you take them all with you to the city?
+Dialogue: 0,0:58:53.79,0:58:56.95,Default,,0000,0000,0000,,有时候，把东西留在旧地方会好一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sometimes it better to leave things in their proper place
+Dialogue: 0,0:58:58.00,0:58:58.99,Default,,0000,0000,0000,,不用好像我这样子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}that way. They don't suffer... like me
+Dialogue: 0,0:59:20.02,0:59:21.32,Default,,0000,0000,0000,,你不可以比我早死\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't die befor me!
+Dialogue: 0,0:59:24.16,0:59:26.82,Default,,0000,0000,0000,,如果你死了，有谁照顾我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Otherwise, who'll take care of me for the rest of my life
+Dialogue: 0,0:59:36.70,0:59:40.60,Default,,0000,0000,0000,,浓而暖的情\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Intense and warm
+Dialogue: 0,0:59:42.51,0:59:46.91,Default,,0000,0000,0000,,盖在柔弱的生命\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Love caresses life tenderly
+Dialogue: 0,0:59:48.68,0:59:51.15,Default,,0000,0000,0000,,一刹的安祥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A moment of serenity
+Dialogue: 0,0:59:51.72,0:59:54.34,Default,,0000,0000,0000,,是我在聆听\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sees me listening
+Dialogue: 0,0:59:54.89,0:59:59.32,Default,,0000,0000,0000,,着你轻震的心境\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The soft pulses of your heart
+Dialogue: 0,1:00:01.43,1:00:05.42,Default,,0000,0000,0000,,缘尽似飘云\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Love vanishes like cloulds
+Dialogue: 0,1:00:07.27,1:00:11.86,Default,,0000,0000,0000,,那样无助的相认\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Helplessly I realise
+Dialogue: 0,1:00:13.44,1:00:15.93,Default,,0000,0000,0000,,可变的将来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The future is forever changing
+Dialogue: 0,1:00:16.64,1:00:19.17,Default,,0000,0000,0000,,可会仍是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will I still be a part
+Dialogue: 0,1:00:19.71,1:00:24.21,Default,,0000,0000,0000,,因你变得更起劲？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Of your brighter soul?
+Dialogue: 0,1:00:25.95,1:00:30.85,Default,,0000,0000,0000,,记不清多欢欣多少高兴\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Countless joy and ecstasy
+Dialogue: 0,1:00:32.06,1:00:37.32,Default,,0000,0000,0000,,在脑内在各环境跳着未停\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Still dancing in my mind
+Dialogue: 0,1:00:38.30,1:00:44.06,Default,,0000,0000,0000,,杀不清分不开的恋爱直到未来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Entangled love unto eternity
+Dialogue: 0,1:00:44.57,1:00:50.87,Default,,0000,0000,0000,,虽消失还更丰盛\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Gone yet going strong
+Dialogue: 0,1:00:52.78,1:00:56.77,Default,,0000,0000,0000,,浓而暖的情\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Intense and warm
+Dialogue: 0,1:00:58.58,1:01:03.21,Default,,0000,0000,0000,,注在疲乏的生命\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Love pours into lifeless mind
+Dialogue: 0,1:01:04.76,1:01:07.25,Default,,0000,0000,0000,,可变的将来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}In the forever changing future
+Dialogue: 0,1:01:07.93,1:01:10.83,Default,,0000,0000,0000,,可会仍是我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Will it still be me
+Dialogue: 0,1:01:11.03,1:01:15.49,Default,,0000,0000,0000,,跟你爱火里交拼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fighting you in the battle of love?
+Dialogue: 0,1:01:17.20,1:01:23.90,Default,,0000,0000,0000,,这点爱可会得胜\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Countless joy and ecstasy
+Dialogue: 0,1:01:24.34,1:01:26.33,Default,,0000,0000,0000,,你想不想知道那天晚上的故事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me tell you the truth about that night
+Dialogue: 0,1:01:27.11,1:01:28.91,Default,,0000,0000,0000,,几年前因为要医公公的病\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}My grandpa was seriously ill several years ago
+Dialogue: 0,1:01:29.68,1:01:31.34,Default,,0000,0000,0000,,我向高利贷借了十万元\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I borrowed 100,000 from a loan shark company
+Dialogue: 0,1:01:32.22,1:01:34.51,Default,,0000,0000,0000,,从那时开始生活就有问题\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We suffered a lot from the loan
+Dialogue: 0,1:01:35.39,1:01:36.82,Default,,0000,0000,0000,,后来我遇上了曹立三\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was lucky to be saved by Sam Tsao
+Dialogue: 0,1:01:37.52,1:01:41.12,Default,,0000,0000,0000,,他是亿万富豪曹万川的独子，交游广阔\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The only son of Peter Tsaothe Multi-millionaire
+Dialogue: 0,1:01:41.89,1:01:43.19,Default,,0000,0000,0000,,为了公公的生活…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}To save grandpa
+Dialogue: 0,1:01:44.26,1:01:45.46,Default,,0000,0000,0000,,我就跟他在一起\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I lived with Sam
+Dialogue: 0,1:01:46.03,1:01:47.73,Default,,0000,0000,0000,,曹立三喜欢奢华的生活\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He likes to lead a life of luxury
+Dialogue: 0,1:01:48.50,1:01:49.99,Default,,0000,0000,0000,,又喜欢结交黑白两道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}He likes making acquaintances with both criminals amd police
+Dialogue: 0,1:01:50.84,1:01:54.79,Default,,0000,0000,0000,,接管生意不够半年就已经败了 曹万川一半身家\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Less than 6 months he lost almost half of his father's properties
+Dialogue: 0,1:01:55.71,1:01:59.30,Default,,0000,0000,0000,,曹万川一怒之下要取销曹立三做经理的职位\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}His father got so mad he cut off his managerial post
+Dialogue: 0,1:02:00.21,1:02:01.64,Default,,0000,0000,0000,,曹万川一向对我好好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But his father liked me
+Dialogue: 0,1:02:02.68,1:02:06.08,Default,,0000,0000,0000,,于是曹立三就带着我一起去向他爸爸求情\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So Sam bought me home to plead him
+Dialogue: 0,1:02:06.68,1:02:07.41,Default,,0000,0000,0000,,谁知道…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}and then it happened
+Dialogue: 0,1:02:20.67,1:02:23.57,Default,,0000,0000,0000,,谁知就是这样我几乎被你的车子撞到\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was almost knocked over by your car
+Dialogue: 0,1:02:24.27,1:02:27.14,Default,,0000,0000,0000,,我装死也袛是不想你卷入漩涡\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I deceived you to prevent you from getting involved
+Dialogue: 0,1:02:33.54,1:02:35.34,Default,,0000,0000,0000,,回到香港又要面对现实了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}When I get back to the city. I have to race up to reallty again
+Dialogue: 0,1:02:44.76,1:02:45.78,Default,,0000,0000,0000,,你跟我一起不是现实吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}the reality is that we're together now
+Dialogue: 0,1:02:50.96,1:02:56.59,Default,,0000,0000,0000,,给你自己机会，回去跟他说， 叫他给你一条路\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Ask him to let you go
+Dialogue: 0,1:03:03.21,1:03:04.00,Default,,0000,0000,0000,,钱我可以代你还\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I can pay back the money you owe Sam
+Dialogue: 0,1:03:08.61,1:03:09.94,Default,,0000,0000,0000,,不是钱那么简单\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's not that simple
+Dialogue: 0,1:03:10.18,1:03:11.05,Default,,0000,0000,0000,,有没有争取过？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Have you tried leaving him?
+Dialogue: 0,1:03:13.12,1:03:13.88,Default,,0000,0000,0000,,我做人有原则\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I believe in certain things
+Dialogue: 0,1:03:15.72,1:03:18.48,Default,,0000,0000,0000,,每做一件事都不会轻易放弃\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Like, never giving up
+Dialogue: 0,1:03:21.06,1:03:22.46,Default,,0000,0000,0000,,不要，哽死你呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't choke yourself to death!
+Dialogue: 0,1:03:25.73,1:03:27.16,Default,,0000,0000,0000,,不到黄河心不死，你听过没有？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where there's a will there's a way
+Dialogue: 0,1:03:33.94,1:03:36.13,Default,,0000,0000,0000,,最多我回去跟他说，你干嘛这么凶？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Take it easy, I'll talk to him
+Dialogue: 0,1:03:44.98,1:03:47.47,Default,,0000,0000,0000,,三哥，泰国好不好玩？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam, how was the trip to Thailand?
+Dialogue: 0,1:03:50.59,1:03:53.75,Default,,0000,0000,0000,,CECILIA，不见半年，很漂亮呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia, you look great!
+Dialogue: 0,1:03:59.53,1:04:00.93,Default,,0000,0000,0000,,三哥艳福无边嘛\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam always gets the best in life!
+Dialogue: 0,1:04:01.23,1:04:03.06,Default,,0000,0000,0000,,没人好像CECILIA对我这么好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia is the nicest of them all
+Dialogue: 0,1:04:03.37,1:04:04.77,Default,,0000,0000,0000,,我差不多当她是我的半个老婆\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I treat her as half a wife
+Dialogue: 0,1:04:04.84,1:04:05.67,Default,,0000,0000,0000,,那另一半呢？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Where's the other half then
+Dialogue: 0,1:04:05.87,1:04:07.20,Default,,0000,0000,0000,,另一半就在今天晚上去找\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll look for her tonight
+Dialogue: 0,1:04:08.24,1:04:09.37,Default,,0000,0000,0000,,今天晚上再说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We'll chat about it tonight
+Dialogue: 0,1:04:09.84,1:04:12.24,Default,,0000,0000,0000,,怪不得别人说三哥是最幸福的王老五\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No wonder Sam's the happiest bachelor in this world
+Dialogue: 0,1:04:13.01,1:04:15.44,Default,,0000,0000,0000,,CECILIA在三哥心目中是最有地位的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia plays a vital role in brother Sam's heart
+Dialogue: 0,1:04:16.08,1:04:18.07,Default,,0000,0000,0000,,她很乖，所以我最疼她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's a good girl. I love her the most
+Dialogue: 0,1:04:18.35,1:04:19.68,Default,,0000,0000,0000,,我去了几天有没有想着我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Did you miss me when I was away?
+Dialogue: 0,1:04:20.59,1:04:21.45,Default,,0000,0000,0000,,三哥，到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam, here we are
+Dialogue: 0,1:04:22.69,1:04:26.85,Default,,0000,0000,0000,,三哥，我有点要紧的事想跟你到 写字楼去商量一下\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam, we've to talk privately. It's urgent
+Dialogue: 0,1:04:27.69,1:04:30.29,Default,,0000,0000,0000,,不如阿红先送唐先生回酒店去好不好？ 好呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hung, you check Mr Tong in at the hotel Okay!
+Dialogue: 0,1:04:32.90,1:04:34.89,Default,,0000,0000,0000,,唐先生，记着今天晚上开局\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mr Tong, Don't forget the party tonight
+Dialogue: 0,1:04:35.43,1:04:36.37,Default,,0000,0000,0000,,拜拜！CECILIA\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Bye, Cecilia
+Dialogue: 0,1:04:36.43,1:04:38.23,Default,,0000,0000,0000,,是不是真的有正点的介绍我？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've got a special surprise for me
+Dialogue: 0,1:04:38.34,1:04:40.43,Default,,0000,0000,0000,,别耍我   一起走吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't kid me Sure, Let's go
+Dialogue: 0,1:04:48.41,1:04:50.35,Default,,0000,0000,0000,,正点！做得好！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Good! You did a great job!
+Dialogue: 0,1:04:50.82,1:04:54.05,Default,,0000,0000,0000,,阿豹，我去了泰国两天， 有没有替我盯着阿红？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pow, did you keep an eye on Hung when I was away
+Dialogue: 0,1:04:54.15,1:04:54.62,Default,,0000,0000,0000,,有呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Yes
+Dialogue: 0,1:04:56.15,1:04:57.52,Default,,0000,0000,0000,,那她做过什么事？说给我听听\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me what she did
+Dialogue: 0,1:04:57.89,1:05:00.08,Default,,0000,0000,0000,,没什么，她昨天去大屿山探她的公公\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She went to Lantau to see her grandpa
+Dialogue: 0,1:05:02.03,1:05:04.36,Default,,0000,0000,0000,,那么昨天大屿山的天气怎么样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How was the weather in Lantau?
+Dialogue: 0,1:05:05.26,1:05:05.73,Default,,0000,0000,0000,,天气！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Weather!?
+Dialogue: 0,1:05:08.07,1:05:08.83,Default,,0000,0000,0000,,天气不错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Not bad
+Dialogue: 0,1:05:28.45,1:05:29.01,Default,,0000,0000,0000,,老板\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sir
+Dialogue: 0,1:05:34.66,1:05:36.25,Default,,0000,0000,0000,,豹，帮我开了它\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pow, open it for me
+Dialogue: 0,1:05:40.36,1:05:43.53,Default,,0000,0000,0000,,幸亏陈律师机警，不然让人家剃了 眼眉也不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Luckily Chan is smart otherwise I'll be make to look a fool
+Dialogue: 0,1:05:48.34,1:05:50.10,Default,,0000,0000,0000,,三哥，是我的错\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam, it was my fault
+Dialogue: 0,1:05:53.54,1:05:55.07,Default,,0000,0000,0000,,对不起！没事吧？   没事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sorry. Are you alright? Yes
+Dialogue: 0,1:05:57.72,1:05:59.77,Default,,0000,0000,0000,,阿豹，不必那么认真\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pow, don't take it so seriously
+Dialogue: 0,1:06:01.25,1:06:03.78,Default,,0000,0000,0000,,现在连你也受了伤，还有谁替我办事？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you keep injuring yourself. Who will look after me?
+Dialogue: 0,1:06:06.36,1:06:08.52,Default,,0000,0000,0000,,三哥，这个臭小子很串…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sam, that bastard
+Dialogue: 0,1:06:09.26,1:06:09.75,Default,,0000,0000,0000,,干一杯\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cheers
+Dialogue: 0,1:06:13.40,1:06:15.37,Default,,0000,0000,0000,,三哥，我会干掉那个小子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm going to killthat bastard
+Dialogue: 0,1:06:19.80,1:06:23.14,Default,,0000,0000,0000,,干掉你…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll kill you
+Dialogue: 0,1:06:29.91,1:06:30.94,Default,,0000,0000,0000,,你又想玩什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you looking for?
+Dialogue: 0,1:06:32.72,1:06:34.08,Default,,0000,0000,0000,,我要干掉那个小子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm going to killthat bastard
+Dialogue: 0,1:06:35.69,1:06:37.81,Default,,0000,0000,0000,,不要呀！你会变成杀人凶手\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, You'll become a murderer
+Dialogue: 0,1:06:38.46,1:06:40.52,Default,,0000,0000,0000,,其实那个人对CECILIA是真心的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}That guy really loves Cecilia
+Dialogue: 0,1:06:41.33,1:06:42.79,Default,,0000,0000,0000,,如果你有他一半那么痴心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If only you were half as true to me as he is to Cecilia
+Dialogue: 0,1:06:43.19,1:06:44.42,Default,,0000,0000,0000,,我就心满意足了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Then I'd be the happiest girl in the wrold
+Dialogue: 0,1:06:49.27,1:06:53.64,Default,,0000,0000,0000,,不行！谁对不起三哥，我就干掉他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, I have to get kid of whoever harm Sam
+Dialogue: 0,1:06:56.94,1:06:59.74,Default,,0000,0000,0000,,不要说这种话，我跟你喝酒\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Forget it, let's drink
+Dialogue: 0,1:07:00.38,1:07:01.97,Default,,0000,0000,0000,,你为我喝了这一杯酒\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drink it for me
+Dialogue: 0,1:07:03.98,1:07:05.28,Default,,0000,0000,0000,,为了你，干杯！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}For you, cheers
+Dialogue: 0,1:07:10.62,1:07:11.35,Default,,0000,0000,0000,,再喝一杯\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One more
+Dialogue: 0,1:07:12.66,1:07:15.42,Default,,0000,0000,0000,,就算为了你杀人，我一样愿意\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd sacri fice anything for you too, even my life
+Dialogue: 0,1:07:24.77,1:07:28.54,Default,,0000,0000,0000,,阿敏…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mann
+Dialogue: 0,1:07:28.84,1:07:32.43,Default,,0000,0000,0000,,三哥，我有很要紧的事要跟你说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Sam, I've something very important to tell you
+Dialogue: 0,1:07:33.98,1:07:35.47,Default,,0000,0000,0000,,三爷    谢谢\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Master Sam Thank you
+Dialogue: 0,1:07:36.48,1:07:37.64,Default,,0000,0000,0000,,我要决定，决定\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I got to go though with it
+Dialogue: 0,1:07:38.55,1:07:39.02,Default,,0000,0000,0000,,三哥\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam
+Dialogue: 0,1:07:39.88,1:07:41.15,Default,,0000,0000,0000,,又跟谁通电话？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Who was that?
+Dialogue: 0,1:07:41.42,1:07:42.15,Default,,0000,0000,0000,,是阿敏\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's Mann
+Dialogue: 0,1:07:47.73,1:07:49.25,Default,,0000,0000,0000,,我有点事情要跟你商量\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There's something I want to talk to you about
+Dialogue: 0,1:07:49.99,1:07:52.49,Default,,0000,0000,0000,,好啊！我最喜欢跟你谈心事\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fine, I love listening to your personal affair
+Dialogue: 0,1:07:53.63,1:07:54.43,Default,,0000,0000,0000,,我想…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well...
+Dialogue: 0,1:07:54.60,1:07:56.53,Default,,0000,0000,0000,,这一个洋娃娃跟了我们很久啦？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This doll has been with us for quite a long time
+Dialogue: 0,1:07:59.24,1:07:59.83,Default,,0000,0000,0000,,四年了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's been 4 years
+Dialogue: 0,1:07:59.90,1:08:02.24,Default,,0000,0000,0000,,旧了，不如送给别人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's getting old. Let's give it away
+Dialogue: 0,1:08:04.44,1:08:05.00,Default,,0000,0000,0000,,好啊！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fine!
+Dialogue: 0,1:08:10.85,1:08:12.11,Default,,0000,0000,0000,,你知不知道我刚才到那里去了？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You know where I've been?
+Dialogue: 0,1:08:12.35,1:08:15.05,Default,,0000,0000,0000,,去坟场呀！买了一束花拜LILY\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The Cemetery! I brought a bunch of flowers for Lily
+Dialogue: 0,1:08:16.32,1:08:19.69,Default,,0000,0000,0000,,你知道谁是LILY？我的旧女朋友\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You know Lily? My old girlfriend
+Dialogue: 0,1:08:20.83,1:08:23.02,Default,,0000,0000,0000,,对！是我玩腻了她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I was tired of her.
+Dialogue: 0,1:08:23.69,1:08:25.29,Default,,0000,0000,0000,,但是她也不应该勾引我的司机\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But she shouldn't have seduced my chauffeur
+Dialogue: 0,1:08:25.63,1:08:27.62,Default,,0000,0000,0000,,私奔，出走\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She eloped and escaped
+Dialogue: 0,1:08:28.83,1:08:32.17,Default,,0000,0000,0000,,好！我成全了她，送了她去远一点的地方\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I let them get far away
+Dialogue: 0,1:08:32.54,1:08:33.90,Default,,0000,0000,0000,,送了她去西方极乐世界\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}To the life hereafter
+Dialogue: 0,1:08:36.17,1:08:40.20,Default,,0000,0000,0000,,阿红，你说我有没有待薄过她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hung, tell me did I ever mistreat her?
+Dialogue: 0,1:08:41.81,1:08:44.08,Default,,0000,0000,0000,,她这么做是不是很没有良心？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She acted heartlessly
+Dialogue: 0,1:08:44.22,1:08:44.94,Default,,0000,0000,0000,,没良心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She was heartless
+Dialogue: 0,1:08:45.95,1:08:46.38,Default,,0000,0000,0000,,什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What?
+Dialogue: 0,1:08:49.49,1:08:50.28,Default,,0000,0000,0000,,没良心\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Heartless
+Dialogue: 0,1:08:53.89,1:08:55.76,Default,,0000,0000,0000,,你刚才不是说有话跟我说？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You said you had something to tell me
+Dialogue: 0,1:09:00.50,1:09:03.63,Default,,0000,0000,0000,,记不起来了，记起来再告诉你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've forgotten, I'll tell you when I remember
+Dialogue: 0,1:09:06.07,1:09:09.34,Default,,0000,0000,0000,,我希望不是那么重要\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I hope it's not that important
+Dialogue: 0,1:09:21.69,1:09:23.81,Default,,0000,0000,0000,,CECILIA，我有话跟你说，是关于鸡翼的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Cecilia, it's about Chicken Wing
+Dialogue: 0,1:09:28.19,1:09:28.99,Default,,0000,0000,0000,,到厨房里再说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tell me in in the kitchen
+Dialogue: 0,1:09:39.60,1:09:40.63,Default,,0000,0000,0000,,他全都知道了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}So he knows everything
+Dialogue: 0,1:09:42.67,1:09:44.40,Default,,0000,0000,0000,,怪不得他每一句话都有骨\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No wonder he implied something when he talked to me
+Dialogue: 0,1:09:45.71,1:09:48.68,Default,,0000,0000,0000,,我替你买了明天早上八点的机票 你想办法走吧\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've got to get out of Hong Kong
+Dialogue: 0,1:09:48.95,1:09:50.31,Default,,0000,0000,0000,,离开香港再想办法啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I bought tickets for tomorrow's 8:00 flight
+Dialogue: 0,1:09:50.38,1:09:52.25,Default,,0000,0000,0000,,我灌醉了阿豹，他醒后就会杀鸡翼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've made Pow drunk now, but if he gets sober later
+Dialogue: 0,1:09:52.32,1:09:53.21,Default,,0000,0000,0000,,没有人可以阻止他\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No one can stop him killing people
+Dialogue: 0,1:09:59.02,1:09:59.58,Default,,0000,0000,0000,,鸡翼呀\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken
+Dialogue: 0,1:10:00.36,1:10:00.79,Default,,0000,0000,0000,,是你？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's you?
+Dialogue: 0,1:10:01.03,1:10:02.39,Default,,0000,0000,0000,,你是不是真的想我离开三哥？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you willing to help me escape from Sam
+Dialogue: 0,1:10:02.63,1:10:03.25,Default,,0000,0000,0000,,当然啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Of course!
+Dialogue: 0,1:10:03.53,1:10:05.79,Default,,0000,0000,0000,,我有两张明天八点的机票去瑞士\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've got 2 ticket for 8 a.m. Tomorrow's flight to Switzerland
+Dialogue: 0,1:10:07.13,1:10:09.03,Default,,0000,0000,0000,,明天早上七点在瑞航柜台见\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}See you at the check-in counter at 7:15a.m.
+Dialogue: 0,1:10:09.33,1:10:10.30,Default,,0000,0000,0000,,究竟你们谈得怎么样？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you alright?
+Dialogue: 0,1:10:10.87,1:10:11.66,Default,,0000,0000,0000,,见到面再说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll tell you tomorrow
+Dialogue: 0,1:10:12.40,1:10:13.17,Default,,0000,0000,0000,,三哥出来了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Brother Sam's coming
+Dialogue: 0,1:10:17.17,1:10:18.27,Default,,0000,0000,0000,,阿敏，你在这里做什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mann, what are you doing here?
+Dialogue: 0,1:10:18.64,1:10:22.04,Default,,0000,0000,0000,,没什么，我有些发票赶着给CECILIA签\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've some urgent invoices for Celilia to sign
+Dialogue: 0,1:10:23.28,1:10:23.97,Default,,0000,0000,0000,,我先走了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm leaving now
+Dialogue: 0,1:10:29.95,1:10:30.48,Default,,0000,0000,0000,,用力一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Harder
+Dialogue: 0,1:10:32.16,1:10:34.18,Default,,0000,0000,0000,,原来你就是为了这个女人去放假享乐呀？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You requested to go off on holiday with that woman
+Dialogue: 0,1:10:34.33,1:10:34.98,Default,,0000,0000,0000,,你不会明白的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't understand
+Dialogue: 0,1:10:35.43,1:10:37.39,Default,,0000,0000,0000,,我不明白，我认识你十多年了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've known you for over 10 years
+Dialogue: 0,1:10:37.56,1:10:38.79,Default,,0000,0000,0000,,我还以为你眼角高\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I thought you had high standards
+Dialogue: 0,1:10:39.00,1:10:41.36,Default,,0000,0000,0000,,原来你是饥不择食随随便便的选一个\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Now I've discovered you don't you just fond of tarts
+Dialogue: 0,1:10:41.47,1:10:44.33,Default,,0000,0000,0000,,专门泡这些丑八怪，咸水草，贱男人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}you chose a bitch indeed
+Dialogue: 0,1:10:44.40,1:10:45.06,Default,,0000,0000,0000,,我们是真心的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're truly love each other
+Dialogue: 0,1:10:46.77,1:10:47.36,Default,,0000,0000,0000,,真心！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}True love?
+Dialogue: 0,1:10:47.67,1:10:49.66,Default,,0000,0000,0000,,我说是黑心才真，好像你这样\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Fake love!
+Dialogue: 0,1:10:49.77,1:10:51.30,Default,,0000,0000,0000,,有阿ANN这么漂亮的私家车你不坐\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've the use of a private car like Ann
+Dialogue: 0,1:10:51.51,1:10:53.57,Default,,0000,0000,0000,,你跑到街上选上这些破的士\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But you take a taxi, like her
+Dialogue: 0,1:10:53.84,1:10:55.74,Default,,0000,0000,0000,,如果我有个像阿ANN那么喜欢你的人喜欢我\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If I had a girlfriend like Ann
+Dialogue: 0,1:10:55.85,1:10:56.87,Default,,0000,0000,0000,,我真是求之不得了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'd be satisfied
+Dialogue: 0,1:10:59.35,1:11:01.51,Default,,0000,0000,0000,,你就偏不要，在街上选破的士\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But you prefer a taxi
+Dialogue: 0,1:11:01.59,1:11:03.58,Default,,0000,0000,0000,,你知道的，所有的士都是任人上落的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Anyone can pick up a taxi
+Dialogue: 0,1:11:03.65,1:11:06.75,Default,,0000,0000,0000,,五个半就可以起旗， 一起了旗就任坐，笨蛋！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It only costs $5.50 to flag down a tax
+Dialogue: 0,1:11:07.19,1:11:08.02,Default,,0000,0000,0000,,你不要再诽谤她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't insult her again
+Dialogue: 0,1:11:08.19,1:11:09.78,Default,,0000,0000,0000,,好！我不诽谤她…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Okay then... I won't insult her
+Dialogue: 0,1:11:09.86,1:11:11.85,Default,,0000,0000,0000,,她是新界的士，横头磡的士， 过海的士   够啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's A New Territories taxi, a tunnel taxi... Enough!
+Dialogue: 0,1:11:13.20,1:11:15.56,Default,,0000,0000,0000,,你知不知道这些咸水草没半点秀气\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She's like an artificial flower without scent
+Dialogue: 0,1:11:15.77,1:11:17.56,Default,,0000,0000,0000,,你是斯文人，干嘛要跟她混上？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're a gentleman. Why pick her up?
+Dialogue: 0,1:11:19.34,1:11:21.60,Default,,0000,0000,0000,,我明白了，我明白她怎么会迷到你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Well, I know why you so devoted to her
+Dialogue: 0,1:11:21.97,1:11:23.41,Default,,0000,0000,0000,,你知不知道？戚近荣先生\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You know why, Mr Chi Ken Wing?
+Dialogue: 0,1:11:23.84,1:11:24.27,Default,,0000,0000,0000,,为什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why?
+Dialogue: 0,1:11:25.04,1:11:26.84,Default,,0000,0000,0000,,你不知道？因为你是鸡翼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Because you're a chicken wing
+Dialogue: 0,1:11:27.01,1:11:29.61,Default,,0000,0000,0000,,她是鸡，她是鸡…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}and she's a chicken...
+Dialogue: 0,1:11:30.85,1:11:31.44,Default,,0000,0000,0000,,鸡！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken!?
+Dialogue: 0,1:11:33.22,1:11:34.65,Default,,0000,0000,0000,,你打我！？你打我！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}How dare you hit me?
+Dialogue: 0,1:11:34.82,1:11:36.29,Default,,0000,0000,0000,,我每天早上替你买早餐！你打我…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I bought breakfast for you every day...
+Dialogue: 0,1:11:41.23,1:11:43.59,Default,,0000,0000,0000,,我告诉你，我们十几年的友谊到此为止\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Listen, my friendship ends here
+Dialogue: 0,1:11:43.76,1:11:44.73,Default,,0000,0000,0000,,你自己慢慢后悔好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You'll regret this
+Dialogue: 0,1:11:46.23,1:11:48.76,Default,,0000,0000,0000,,你试碰我一下，你敢还手？ 看我不打破你的头\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't touch me again or I'll break your head
+Dialogue: 0,1:11:49.23,1:11:50.33,Default,,0000,0000,0000,,贱男人！贱男人！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're cheap, just cheap!
+Dialogue: 0,1:11:59.58,1:12:01.13,Default,,0000,0000,0000,,阿红，甜品弄好了没有？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hung, is the dessert ready?
+Dialogue: 0,1:12:01.65,1:12:02.24,Default,,0000,0000,0000,,很快就好了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Nearly!
+Dialogue: 0,1:12:05.32,1:12:05.87,Default,,0000,0000,0000,,时间到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Time's up
+Dialogue: 0,1:12:07.12,1:12:07.71,Default,,0000,0000,0000,,红心KING\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}King heart
+Dialogue: 0,1:12:51.53,1:12:52.72,Default,,0000,0000,0000,,光线太刺眼了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The light is dazzling your eyes
+Dialogue: 0,1:12:57.87,1:12:58.49,Default,,0000,0000,0000,,到你了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Your turn
+Dialogue: 0,1:13:02.07,1:13:03.56,Default,,0000,0000,0000,,有没有？    有我有香烟？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Any cigarettes? Yes, I have cigarette
+Dialogue: 0,1:13:03.64,1:13:05.20,Default,,0000,0000,0000,,阿红，拿些香烟出来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hung, get me some cigarettes
+Dialogue: 0,1:13:06.31,1:13:07.30,Default,,0000,0000,0000,,让我去拿\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me get them for you
+Dialogue: 0,1:13:09.51,1:13:11.34,Default,,0000,0000,0000,,我自己去拿，阿红…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's okay. I'll get them. Hung...
+Dialogue: 0,1:13:12.98,1:13:13.71,Default,,0000,0000,0000,,一定是睡着了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She must be asleep
+Dialogue: 0,1:13:27.10,1:13:28.09,Default,,0000,0000,0000,,我来发？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I turn to deal?
+Dialogue: 0,1:13:39.74,1:13:40.47,Default,,0000,0000,0000,,上车啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Get in!
+Dialogue: 0,1:13:52.69,1:13:53.25,Default,,0000,0000,0000,,开车啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drive!
+Dialogue: 0,1:13:59.60,1:14:02.39,Default,,0000,0000,0000,,我陪阿ANN来送你，你不要表错情， 痴心梦里人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I came with Ann to see you off don't get any wrong ideas,
+Dialogue: 0,1:14:04.60,1:14:05.16,Default,,0000,0000,0000,,多谢你！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thanks!
+Dialogue: 0,1:14:07.17,1:14:08.97,Default,,0000,0000,0000,,有什么事打电话或寄信回来！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Call or write us you're in any truuble
+Dialogue: 0,1:14:09.81,1:14:10.27,Default,,0000,0000,0000,,我会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I will
+Dialogue: 0,1:14:12.18,1:14:13.17,Default,,0000,0000,0000,,这一荸钱你收好一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Look after the money
+Dialogue: 0,1:14:13.41,1:14:14.90,Default,,0000,0000,0000,,千万别让那一个坏女人知道呀？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't tell that woman about the money
+Dialogue: 0,1:14:15.41,1:14:17.04,Default,,0000,0000,0000,,有什么事用来傍身也好\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's oin case of emergency
+Dialogue: 0,1:14:20.52,1:14:21.14,Default,,0000,0000,0000,,多谢你们！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Thanks!
+Dialogue: 0,1:14:21.29,1:14:23.28,Default,,0000,0000,0000,,什么多谢？即日起钉，三分息\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}For what! There's 30% interest on it
+Dialogue: 0,1:14:28.96,1:14:30.55,Default,,0000,0000,0000,,这一巴掌还给你，无数\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We're even now
+Dialogue: 0,1:14:56.42,1:14:57.32,Default,,0000,0000,0000,,你是怎么开车的？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What a lousy driver!
+Dialogue: 0,1:15:00.72,1:15:01.55,Default,,0000,0000,0000,,调头！谢谢你！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go another way please
+Dialogue: 0,1:15:04.26,1:15:07.75,Default,,0000,0000,0000,,走啦！时间到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Go
+Dialogue: 0,1:15:18.11,1:15:18.60,Default,,0000,0000,0000,,再见！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Goodbye!
+Dialogue: 0,1:15:24.21,1:15:24.84,Default,,0000,0000,0000,,没什么事吧？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Is everything alright?
+Dialogue: 0,1:15:27.28,1:15:28.01,Default,,0000,0000,0000,,命运注定\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's fate
+Dialogue: 0,1:15:30.79,1:15:31.34,Default,,0000,0000,0000,,再见！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Goodbye!
+Dialogue: 0,1:15:34.53,1:15:35.82,Default,,0000,0000,0000,,北帝街，发生车祸\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}A traffic accident in Pak Tai Street
+Dialogue: 0,1:15:43.90,1:15:44.37,Default,,0000,0000,0000,,的士\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Taxi
+Dialogue: 0,1:15:57.98,1:15:59.04,Default,,0000,0000,0000,,司机，请你快一点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Driver, please hurry
+Dialogue: 0,1:16:16.33,1:16:17.66,Default,,0000,0000,0000,,我可以换下一班机吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Can I change to the next flight?
+Dialogue: 0,1:16:32.78,1:16:35.08,Default,,0000,0000,0000,,对不起！八点钟，办登机手续\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Excuse me! 8 o'clock, check in
+Dialogue: 0,1:16:35.59,1:16:37.08,Default,,0000,0000,0000,,对不起！已停止服务了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No, sorry, it's closed
+Dialogue: 0,1:16:40.59,1:16:42.68,Default,,0000,0000,0000,,请问CECILIAYAU在机上吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Excuse me! Ls Cecilia Yau on the flight?
+Dialogue: 0,1:16:44.26,1:16:46.63,Default,,0000,0000,0000,,我记得她刚换了十点钟班机\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Oh! I remember she just changed to the ten o'clock flight
+Dialogue: 0,1:16:47.06,1:16:48.86,Default,,0000,0000,0000,,十点钟起飞，谢谢！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}10:00 o'clock, thank you!
+Dialogue: 0,1:17:18.13,1:17:18.92,Default,,0000,0000,0000,,看着…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Watch out!
+Dialogue: 0,1:17:20.46,1:17:20.83,Default,,0000,0000,0000,,快点\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hurry up!
+Dialogue: 0,1:17:24.00,1:17:24.59,Default,,0000,0000,0000,,干什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What are you doing?
+Dialogue: 0,1:17:25.14,1:17:25.62,Default,,0000,0000,0000,,鸡翼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Chicken Wing
+Dialogue: 0,1:17:27.10,1:17:28.63,Default,,0000,0000,0000,,放开我！鸡翼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me go. Chicken Wing
+Dialogue: 0,1:17:46.59,1:17:47.06,Default,,0000,0000,0000,,你说什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What did you say?
+Dialogue: 0,1:17:50.43,1:17:51.42,Default,,0000,0000,0000,,搅定他们了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We caught them already
+Dialogue: 0,1:17:53.96,1:17:56.16,Default,,0000,0000,0000,,他们查到这件事是阿敏搅鬼\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We found out that Mann betrayed us
+Dialogue: 0,1:17:58.50,1:18:01.67,Default,,0000,0000,0000,,死丫头！食碗面，反碗底\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}What a bitch who bite's the hand that feeds her
+Dialogue: 0,1:18:03.91,1:18:08.17,Default,,0000,0000,0000,,算了吧！我以后介绍一个更漂亮的给你\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Forget her! I'll get you another prettier girl
+Dialogue: 0,1:18:10.11,1:18:10.64,Default,,0000,0000,0000,,撞她！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Run her down
+Dialogue: 0,1:18:15.99,1:18:17.11,Default,,0000,0000,0000,,你撞倒了人就这么跑了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The bastard is going away
+Dialogue: 0,1:18:28.37,1:18:30.66,Default,,0000,0000,0000,,喝了它，让你有多远就去多远\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drink up, then you're free to go
+Dialogue: 0,1:18:31.27,1:18:32.93,Default,,0000,0000,0000,,不要，你放过我们吧！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please let us go!
+Dialogue: 0,1:18:33.00,1:18:34.70,Default,,0000,0000,0000,,你给我的钱和珠宝，我全都还…\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'll return everything you gave me
+Dialogue: 0,1:18:35.74,1:18:36.87,Default,,0000,0000,0000,,不是钱的问题\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Money is not the problem
+Dialogue: 0,1:18:38.31,1:18:41.94,Default,,0000,0000,0000,,问题在那里，我想你该知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You know what the problem is
+Dialogue: 0,1:18:44.15,1:18:45.31,Default,,0000,0000,0000,,你以为可以随便杀人？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You think you can get away with murder
+Dialogue: 0,1:18:45.42,1:18:48.91,Default,,0000,0000,0000,,错，不是我杀人，是你们两个自杀\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Wrong, it's not murder, it's suicide
+Dialogue: 0,1:18:49.55,1:18:51.28,Default,,0000,0000,0000,,明天报纸就会大字标题\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I can imagine tomorrow's headline
+Dialogue: 0,1:18:51.56,1:18:56.75,Default,,0000,0000,0000,,说年青男女效法罗蜜欧与茱丽叶 服毒自杀殉情，多浪漫\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Young Couple kill themseleves like Romeo & Juliet
+Dialogue: 0,1:18:57.09,1:18:59.79,Default,,0000,0000,0000,,罗蜜欧先生，你先喝好吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Remeo, you drink first
+Dialogue: 0,1:19:02.00,1:19:02.79,Default,,0000,0000,0000,,你个口好臭\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've got bad breath!
+Dialogue: 0,1:19:04.94,1:19:06.66,Default,,0000,0000,0000,,喝了它就闻不到了\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drink it and you won't smell it
+Dialogue: 0,1:19:08.71,1:19:10.94,Default,,0000,0000,0000,,你害我好了，不要害阿红\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Let me drink Poison me but not to her
+Dialogue: 0,1:19:11.94,1:19:14.24,Default,,0000,0000,0000,,不是我害她，是你害死她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're poisoning her, not me
+Dialogue: 0,1:19:14.48,1:19:15.91,Default,,0000,0000,0000,,如果不是你这个臭小子出现\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If you hadn't appeared
+Dialogue: 0,1:19:16.01,1:19:17.50,Default,,0000,0000,0000,,阿红会乖乖的留在我身边\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}She'd have stuck to me
+Dialogue: 0,1:19:18.28,1:19:20.41,Default,,0000,0000,0000,,你太自私了，女人对你来说袛是一个玩偶\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Girls are just toys to you
+Dialogue: 0,1:19:20.52,1:19:21.58,Default,,0000,0000,0000,,你要多少有多少\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You can have so many
+Dialogue: 0,1:19:22.15,1:19:23.12,Default,,0000,0000,0000,,这个玩偶是我的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}This doll is mine.
+Dialogue: 0,1:19:23.49,1:19:24.58,Default,,0000,0000,0000,,你有什么资格把它抢走？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You've no right to take it away from me
+Dialogue: 0,1:19:25.26,1:19:25.69,Default,,0000,0000,0000,,喝了它！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Drink it!
+Dialogue: 0,1:19:36.07,1:19:36.53,Default,,0000,0000,0000,,不要呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No!
+Dialogue: 0,1:19:39.70,1:19:42.57,Default,,0000,0000,0000,,你口口声声说爱阿红， 你是不是为了她什么都肯做？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You love her that much, prove it
+Dialogue: 0,1:19:42.91,1:19:43.43,Default,,0000,0000,0000,,舔净它！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Lick it!
+Dialogue: 0,1:19:44.94,1:19:45.37,Default,,0000,0000,0000,,不敢吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Scared?
+Dialogue: 0,1:19:45.81,1:19:46.87,Default,,0000,0000,0000,,怕死呀？   不要呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Scared of death? No!
+Dialogue: 0,1:19:48.61,1:19:49.20,Default,,0000,0000,0000,,没胆量！？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}No guts
+Dialogue: 0,1:19:50.31,1:19:52.04,Default,,0000,0000,0000,,我可以为阿红，什么都肯做\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm ready to do anything for Hung
+Dialogue: 0,1:19:52.38,1:19:56.25,Default,,0000,0000,0000,,可以杀阿敏，可以杀任何人，你舔呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm willing to kill Mann or anybody. Lick it up
+Dialogue: 0,1:19:57.82,1:19:58.15,Default,,0000,0000,0000,,来呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come on!
+Dialogue: 0,1:20:08.27,1:20:09.32,Default,,0000,0000,0000,,阿豹，搅定他！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Pow, kill them
+Dialogue: 0,1:20:10.23,1:20:10.82,Default,,0000,0000,0000,,你不要呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Don't!
+Dialogue: 0,1:20:12.94,1:20:14.80,Default,,0000,0000,0000,,我不会让你死得舒服的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're not going to die that easily
+Dialogue: 0,1:20:24.38,1:20:26.58,Default,,0000,0000,0000,,你杀了我，好让我去陪阿敏\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Kill me, so I can join Mann
+Dialogue: 0,1:20:39.03,1:20:39.65,Default,,0000,0000,0000,,你疯了吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Are you mad?
+Dialogue: 0,1:20:40.16,1:20:42.60,Default,,0000,0000,0000,,我不是说过找一个比阿敏更好 的女孩子给你？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I promised to find you a prettier girl
+Dialogue: 0,1:20:42.67,1:20:43.66,Default,,0000,0000,0000,,阿敏不同其他女孩子\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Mann was different from other girls
+Dialogue: 0,1:20:44.50,1:20:46.03,Default,,0000,0000,0000,,阿敏算是什么女孩子？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Different? Mann was cheap
+Dialogue: 0,1:20:46.67,1:20:49.16,Default,,0000,0000,0000,,我的女人这么好都可以杀， 何况杀死这个贱人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm willing to kill Hung, why not Mann?
+Dialogue: 0,1:20:49.24,1:20:49.67,Default,,0000,0000,0000,,你说什么？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Shut up
+Dialogue: 0,1:20:49.77,1:20:51.07,Default,,0000,0000,0000,,事实如此，她是贱\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}It's true, she really was a tramp
+Dialogue: 0,1:20:51.37,1:20:53.37,Default,,0000,0000,0000,,连我也够胆出卖的就是贱女人\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}One that dares to betray me is a tramp
+Dialogue: 0,1:20:54.78,1:20:55.57,Default,,0000,0000,0000,,我说得对不对吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Am I right?
+Dialogue: 0,1:20:55.78,1:20:56.91,Default,,0000,0000,0000,,你不要再说\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Shut up
+Dialogue: 0,1:20:57.08,1:20:58.31,Default,,0000,0000,0000,,怎么你不觉得她贱格吗？\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You don't believe she was a tramp
+Dialogue: 0,1:20:58.65,1:20:59.27,Default,,0000,0000,0000,,住口！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Shut up!
+Dialogue: 0,1:21:02.05,1:21:03.78,Default,,0000,0000,0000,,我早知道你反骨啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I knew you'd betray me!
+Dialogue: 0,1:21:05.62,1:21:06.18,Default,,0000,0000,0000,,走呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Run her down
+Dialogue: 0,1:21:06.36,1:21:06.79,Default,,0000,0000,0000,,回来！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come back!
+Dialogue: 0,1:21:45.03,1:21:45.32,Default,,0000,0000,0000,,快点！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Quick
+Dialogue: 0,1:21:58.04,1:21:59.53,Default,,0000,0000,0000,,快点！走呀\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Quick
+Dialogue: 0,1:22:02.18,1:22:02.67,Default,,0000,0000,0000,,跳下去！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Jump!
+Dialogue: 0,1:22:14.06,1:22:14.58,Default,,0000,0000,0000,,阿红！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Hung!
+Dialogue: 0,1:23:52.79,1:23:54.52,Default,,0000,0000,0000,,我想我可以做的事暂时袛有这么多\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I didn't think there's anymore I can do now
+Dialogue: 0,1:23:57.26,1:23:59.79,Default,,0000,0000,0000,,医生，我不大明白你的意思\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Doctor, I didn't understand
+Dialogue: 0,1:24:00.23,1:24:02.49,Default,,0000,0000,0000,,就是说病人的情况现在很不稳定\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}The patient's condition is very unsteady
+Dialogue: 0,1:24:02.80,1:24:04.27,Default,,0000,0000,0000,,她最危险的时期是明天早上\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Tomorrow morning is the critical period
+Dialogue: 0,1:24:04.83,1:24:06.27,Default,,0000,0000,0000,,如果明天早上她醒过来的话\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}If she pulls though by tomorrow's morning
+Dialogue: 0,1:24:06.37,1:24:06.96,Default,,0000,0000,0000,,我们还有机会\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}We still have a chance
+Dialogue: 0,1:24:07.80,1:24:09.43,Default,,0000,0000,0000,,我们先出去，明天早上再来\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Come back tomorrow morning
+Dialogue: 0,1:24:11.01,1:24:11.87,Default,,0000,0000,0000,,我想留下来陪着她\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I'm staying
+Dialogue: 0,1:24:12.38,1:24:14.54,Default,,0000,0000,0000,,医生，他们本来快要结婚\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Doctor, they were planning to get married
+Dialogue: 0,1:24:15.11,1:24:16.08,Default,,0000,0000,0000,,请你给他一个人情\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Please let him stay
+Dialogue: 0,1:24:18.52,1:24:19.98,Default,,0000,0000,0000,,O.K.，出去啦！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}O.K.
+Dialogue: 0,1:26:35.92,1:26:37.35,Default,,0000,0000,0000,,我应承过说不会比你早死\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You made me promise not to die before you
+Dialogue: 0,1:26:39.26,1:26:40.35,Default,,0000,0000,0000,,我遵守我的诺言\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I've kept my promise
+Dialogue: 0,1:26:43.46,1:26:45.69,Default,,0000,0000,0000,,但你袛给了我两个月时间，我不够的\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}But we've been together only 2 months, not enough
+Dialogue: 0,1:26:46.30,1:26:48.03,Default,,0000,0000,0000,,我要三十年、四十年！永远呀！\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I want 30 years,40years, forever, together
+Dialogue: 0,1:26:52.40,1:26:53.53,Default,,0000,0000,0000,,我还有很多事没跟你做\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}There was so much I wanted to share with you
+Dialogue: 0,1:26:57.24,1:26:58.57,Default,,0000,0000,0000,,现在甚至连你走了我都不知道\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}I wasn't aware when you died
+Dialogue: 0,1:27:01.04,1:27:01.77,Default,,0000,0000,0000,,你太不公平\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}You're unfair
+Dialogue: 0,1:27:05.92,1:27:06.54,Default,,0000,0000,0000,,太不公平\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Too unfair
+Dialogue: 0,1:27:09.59,1:27:12.38,Default,,0000,0000,0000,,为什么开心的时候永远都是这么短\N{\fnTahoma}{\fs14}{\c&H00FFFF&}{\3c&H000000&}Why is happiness so fleeting
