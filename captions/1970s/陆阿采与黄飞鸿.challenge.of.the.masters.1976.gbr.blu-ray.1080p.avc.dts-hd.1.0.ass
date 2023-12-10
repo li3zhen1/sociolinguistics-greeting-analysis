@@ -1,0 +1,807 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.35,0:00:25.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}刚柔逼直分定寸
+Dialogue: 0,0:00:25.69,0:00:28.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}提留运制订乾坤
+Dialogue: 0,0:01:22.95,0:01:23.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}刚
+Dialogue: 0,0:01:33.46,0:01:34.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}柔
+Dialogue: 0,0:01:46.68,0:01:48.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}逼
+Dialogue: 0,0:01:53.44,0:01:54.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}直
+Dialogue: 0,0:02:03.95,0:02:05.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}提
+Dialogue: 0,0:02:13.04,0:02:14.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}留
+Dialogue: 0,0:02:23.93,0:02:25.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}运
+Dialogue: 0,0:02:42.11,0:02:43.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}制
+Dialogue: 0,0:03:50.10,0:03:52.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}花炮在广东流传悠久
+Dialogue: 0,0:03:52.98,0:03:55.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}每逢神诞 必有抢炮盛会
+Dialogue: 0,0:03:55.98,0:03:58.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}据说 若能抢到花炮
+Dialogue: 0,0:03:58.40,0:04:00.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不但可以扬威武界
+Dialogue: 0,0:04:00.61,0:04:03.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}更能丁财两旺 如意吉祥
+Dialogue: 0,0:04:04.32,0:04:06.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}得炮者 可保存至第二年
+Dialogue: 0,0:04:06.87,0:04:09.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再从新投炮 装饰 挂彩
+Dialogue: 0,0:04:10.08,0:04:13.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}并以金猪果品 酬神还炮
+Dialogue: 0,0:05:04.67,0:05:07.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年还炮的人特别早呀
+Dialogue: 0,0:05:07.47,0:05:10.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是呀 今年比往年热闹得多
+Dialogue: 0,0:05:21.73,0:05:22.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}放在那边
+Dialogue: 0,0:05:23.36,0:05:27.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走开
+Dialogue: 0,0:05:27.86,0:05:29.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}让开
+Dialogue: 0,0:05:30.12,0:05:31.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}把这个炮搬开
+Dialogue: 0,0:05:32.24,0:05:33.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我们的炮本来就放在这里
+Dialogue: 0,0:05:33.45,0:05:34.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}干嘛要搬开
+Dialogue: 0,0:05:37.71,0:05:38.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}滚开
+Dialogue: 0,0:05:41.00,0:05:41.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要动
+Dialogue: 0,0:05:41.84,0:05:43.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们太不讲理了
+Dialogue: 0,0:05:48.43,0:05:49.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么叫讲理呀
+Dialogue: 0,0:05:54.10,0:05:55.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要打
+Dialogue: 0,0:06:04.15,0:06:07.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们不知道抢炮的规矩吗
+Dialogue: 0,0:06:07.90,0:06:09.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不准打架
+Dialogue: 0,0:06:09.74,0:06:12.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们再打架就取消你们的资格
+Dialogue: 0,0:06:13.99,0:06:15.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这种人去年不知道
+Dialogue: 0,0:06:15.24,0:06:17.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}在那里抢了一个炮
+Dialogue: 0,0:06:17.66,0:06:21.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年还想来抢 做梦
+Dialogue: 0,0:06:22.42,0:06:23.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}抢过才知道
+Dialogue: 0,0:06:24.88,0:06:29.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}要抢 叫你师公陆阿采来抢
+Dialogue: 0,0:06:30.09,0:06:34.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再不 请陆阿采到阴间走一趟
+Dialogue: 0,0:06:34.26,0:06:37.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请他师兄洪熙官出来
+Dialogue: 0,0:06:37.60,0:06:38.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}洪熙官
+Dialogue: 0,0:06:42.10,0:06:43.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别吵 别吵了
+Dialogue: 0,0:06:43.69,0:06:45.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}把你们的炮都放好
+Dialogue: 0,0:06:50.28,0:06:51.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}把炮抬过去
+Dialogue: 0,0:06:57.58,0:06:58.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,0:06:58.79,0:07:00.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,0:07:06.96,0:07:08.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}摆到那边去
+Dialogue: 0,0:07:08.71,0:07:15.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}让开
+Dialogue: 0,0:08:14.20,0:08:18.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我抢到了 炮在这儿 我抢到了
+Dialogue: 0,0:08:28.92,0:08:30.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}黄飞鸿 你回去吧
+Dialogue: 0,0:08:30.96,0:08:33.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}和我们在一起 我们的拳脚重
+Dialogue: 0,0:08:33.17,0:08:35.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}要是碰伤了你 总是我们不对
+Dialogue: 0,0:08:35.68,0:08:37.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就是  对
+Dialogue: 0,0:08:37.26,0:08:38.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你又不是学功夫的
+Dialogue: 0,0:08:38.64,0:08:39.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老跟我们在一起干什么
+Dialogue: 0,0:08:40.10,0:08:42.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走 走吧
+Dialogue: 0,0:08:42.68,0:08:46.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}讲动手 我未必打不过你们
+Dialogue: 0,0:09:04.37,0:09:08.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}算了吧 你爸爸的功夫高
+Dialogue: 0,0:09:08.17,0:09:09.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}要是你吃了亏回去
+Dialogue: 0,0:09:09.54,0:09:10.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}又连累我们受罪
+Dialogue: 0,0:09:11.00,0:09:11.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们说对不对
+Dialogue: 0,0:09:11.71,0:09:15.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对 回去吧
+Dialogue: 0,0:09:23.10,0:09:24.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}住手
+Dialogue: 0,0:09:26.48,0:09:28.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们干什么 又在欺负阿鸿
+Dialogue: 0,0:09:28.40,0:09:30.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不是我们不对 是他不对
+Dialogue: 0,0:09:30.61,0:09:32.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是他不对
+Dialogue: 0,0:09:33.11,0:09:35.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿你先回去
+Dialogue: 0,0:09:35.70,0:09:38.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没有人欺负我 谁也不敢欺负我
+Dialogue: 0,0:09:38.99,0:09:40.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我不要你来帮我
+Dialogue: 0,0:09:56.01,0:09:59.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}强哥 行哥 今年抢炮的人
+Dialogue: 0,0:09:59.22,0:10:00.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是不是比往年更多
+Dialogue: 0,0:10:02.47,0:10:05.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你又不学功夫 管这些干什么
+Dialogue: 0,0:10:30.04,0:10:32.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 还不过来叫郑伯伯
+Dialogue: 0,0:10:35.34,0:10:36.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}郑伯伯
+Dialogue: 0,0:10:38.51,0:10:40.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么啦 又跟人打架了
+Dialogue: 0,0:10:40.59,0:10:42.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}打架 我凭什么跟人家打架
+Dialogue: 0,0:10:43.64,0:10:45.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}跟父亲这样讲话 什么规矩
+Dialogue: 0,0:10:46.10,0:10:49.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}算了算了 小孩子嘛 慢慢教
+Dialogue: 0,0:10:49.85,0:10:51.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还不快滚出去
+Dialogue: 0,0:10:51.27,0:10:52.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}快去吧
+Dialogue: 0,0:10:54.44,0:10:55.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请坐
+Dialogue: 0,0:10:57.65,0:11:00.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺英兄 我真不明白
+Dialogue: 0,0:11:00.78,0:11:02.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你一身本事 不收徒弟
+Dialogue: 0,0:11:02.95,0:11:05.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还可以说是恐怕人心难测
+Dialogue: 0,0:11:06.08,0:11:10.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是难道你连自己的儿子也不相信
+Dialogue: 0,0:11:10.96,0:11:14.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你不知道 阿鸿这孩子脾气很强
+Dialogue: 0,0:11:14.63,0:11:17.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他学了功夫一定会闯祸的
+Dialogue: 0,0:11:17.67,0:11:22.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}来 教我学武
+Dialogue: 0,0:11:22.51,0:11:24.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}少爷 我现在很忙呀
+Dialogue: 0,0:11:24.60,0:11:28.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你忙什么 教我学武
+Dialogue: 0,0:11:28.18,0:11:29.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么
+Dialogue: 0,0:11:30.18,0:11:32.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}教我功夫
+Dialogue: 0,0:11:36.61,0:11:39.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我这两下子打出来笑死人
+Dialogue: 0,0:11:40.28,0:11:42.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}总比我连一下子都不会的好
+Dialogue: 0,0:11:43.74,0:11:46.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}少爷 你爸爸是黄祺英
+Dialogue: 0,0:11:46.70,0:11:48.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师公是陆阿采
+Dialogue: 0,0:11:48.66,0:11:51.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}全广州谁敢惹你
+Dialogue: 0,0:11:51.79,0:11:53.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你还练武功干什么
+Dialogue: 0,0:11:53.96,0:11:57.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}学武学得不三不四倒容易
+Dialogue: 0,0:11:57.80,0:12:02.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}要学真功夫 要吃很多苦啊
+Dialogue: 0,0:12:02.84,0:12:04.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你看我是个怕吃苦的人吗
+Dialogue: 0,0:12:05.43,0:12:07.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷不肯教你练功夫
+Dialogue: 0,0:12:07.43,0:12:09.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁说也没有用
+Dialogue: 0,0:12:12.02,0:12:13.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我倒有一个办法
+Dialogue: 0,0:12:13.23,0:12:14.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}保管老爷会教你功夫
+Dialogue: 0,0:12:14.81,0:12:15.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么办法
+Dialogue: 0,0:12:16.48,0:12:17.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你到外面找人打架
+Dialogue: 0,0:12:18.11,0:12:20.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}叫人抬你回来几次
+Dialogue: 0,0:12:20.32,0:12:23.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷看见自己的儿子老是吃亏
+Dialogue: 0,0:12:23.99,0:12:25.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他一定会教你功夫
+Dialogue: 0,0:12:26.03,0:12:27.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}去你的
+Dialogue: 0,0:12:27.95,0:12:28.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只怕我在外面
+Dialogue: 0,0:12:28.66,0:12:31.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}叫人家打断一根骨头
+Dialogue: 0,0:12:31.66,0:12:34.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}回来爸爸就要打断我十根呀
+Dialogue: 0,0:12:36.46,0:12:37.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那我也没办法
+Dialogue: 0,0:12:38.04,0:12:40.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走 走呀
+Dialogue: 0,0:12:42.97,0:12:43.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,0:14:46.76,0:14:48.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何师叔
+Dialogue: 0,0:14:48.76,0:14:49.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们来了
+Dialogue: 0,0:14:50.55,0:14:51.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们到那边坐
+Dialogue: 0,0:14:51.89,0:14:52.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}坐
+Dialogue: 0,0:14:55.26,0:14:57.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何师叔 这次抢炮
+Dialogue: 0,0:14:57.35,0:14:59.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你可得多教我们一点辣手招数
+Dialogue: 0,0:14:59.89,0:15:02.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只怕你们师父
+Dialogue: 0,0:15:02.52,0:15:03.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不答应
+Dialogue: 0,0:15:04.61,0:15:07.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何师叔 只要我们能替师父争面子
+Dialogue: 0,0:15:07.99,0:15:10.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他不会管炮是怎么抢来的
+Dialogue: 0,0:15:13.91,0:15:16.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好 我教
+Dialogue: 0,0:15:27.75,0:15:29.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}用什么招数
+Dialogue: 0,0:15:30.26,0:15:31.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}回去再跟你们说
+Dialogue: 0,0:15:34.64,0:15:36.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我有点事 先走
+Dialogue: 0,0:16:01.16,0:16:02.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何师叔怎么啦
+Dialogue: 0,0:16:06.04,0:16:07.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们过来
+Dialogue: 0,0:16:09.71,0:16:11.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我告诉你们
+Dialogue: 0,0:16:12.22,0:16:14.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}宁可得罪师父
+Dialogue: 0,0:16:14.43,0:16:15.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}也不能得罪何师叔
+Dialogue: 0,0:16:16.80,0:16:20.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有一次我听得师父对何师叔说
+Dialogue: 0,0:16:20.81,0:16:23.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}叫他别将穿心腿
+Dialogue: 0,0:16:23.23,0:16:25.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}和梅花枪随便的使用
+Dialogue: 0,0:16:26.19,0:16:29.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}后来我问师父 本门的功夫
+Dialogue: 0,0:16:29.73,0:16:32.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}根本没有这两样
+Dialogue: 0,0:16:32.40,0:16:34.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还给他骂了一顿
+Dialogue: 0,0:16:34.20,0:16:35.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你有没有问过何师叔
+Dialogue: 0,0:16:36.49,0:16:41.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没有 师父吩咐提也不准提
+Dialogue: 0,0:16:41.37,0:16:45.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只是告诉我梅花枪和穿心腿
+Dialogue: 0,0:16:45.67,0:16:47.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是极厉害的
+Dialogue: 0,0:17:17.32,0:17:18.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}陆师父在家吗
+Dialogue: 0,0:17:20.83,0:17:21.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不知道
+Dialogue: 0,0:17:32.09,0:17:33.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你老是看着我干什么呀
+Dialogue: 0,0:17:34.97,0:17:37.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我以为你是陆师父的门下
+Dialogue: 0,0:17:37.38,0:17:38.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}原来不是
+Dialogue: 0,0:17:40.35,0:17:41.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是就好了
+Dialogue: 0,0:17:41.72,0:17:42.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对不起
+Dialogue: 0,0:17:47.90,0:17:48.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}陆师父在家吗
+Dialogue: 0,0:17:48.85,0:17:49.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}在
+Dialogue: 0,0:18:06.83,0:18:10.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}起来 别客气
+Dialogue: 0,0:18:10.71,0:18:14.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我和你师父不过是点头之交
+Dialogue: 0,0:18:14.84,0:18:17.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你不必自认晚辈 请坐
+Dialogue: 0,0:18:18.13,0:18:19.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请坐
+Dialogue: 0,0:18:22.01,0:18:23.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请用茶
+Dialogue: 0,0:18:26.56,0:18:29.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}陆前辈 我想打听一下
+Dialogue: 0,0:18:29.44,0:18:33.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}广州武林有没有一个会穿心腿
+Dialogue: 0,0:18:33.32,0:18:36.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}和梅花枪的混在其中呀
+Dialogue: 0,0:18:37.03,0:18:40.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}穿心腿 梅花枪
+Dialogue: 0,0:18:41.16,0:18:43.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那是北派最狠辣的招数
+Dialogue: 0,0:18:45.33,0:18:47.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我倒没注意到
+Dialogue: 0,0:18:48.62,0:18:49.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老弟你
+Dialogue: 0,0:18:49.46,0:18:51.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我正在追捕一个强盗
+Dialogue: 0,0:18:51.50,0:18:55.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有人说他一年前到了广州
+Dialogue: 0,0:18:56.30,0:18:59.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是一直查不到他的踪迹
+Dialogue: 0,0:19:00.97,0:19:02.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这就很难说了
+Dialogue: 0,0:19:02.43,0:19:04.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}广州武馆不下百家
+Dialogue: 0,0:19:05.01,0:19:07.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}各门各派的弟子上万人
+Dialogue: 0,0:19:08.02,0:19:11.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}混上一两个人
+Dialogue: 0,0:19:11.52,0:19:13.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}很难找得到
+Dialogue: 0,0:19:16.48,0:19:17.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我来的时候
+Dialogue: 0,0:19:17.69,0:19:19.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}在巷子里看见一个青年人
+Dialogue: 0,0:19:19.74,0:19:22.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我还当他是陆前辈的门下
+Dialogue: 0,0:19:22.74,0:19:26.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这青年双眼有神 矫步捷手
+Dialogue: 0,0:19:27.04,0:19:29.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}真是学功夫的奇才
+Dialogue: 0,0:19:31.29,0:19:33.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}小弟 刚才在巷里
+Dialogue: 0,0:19:33.54,0:19:36.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那个人跟你说了些什么
+Dialogue: 0,0:19:36.38,0:19:37.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}把手放开
+Dialogue: 0,0:19:38.05,0:19:38.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我在问你
+Dialogue: 0,0:19:38.71,0:19:40.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我不想回答你
+Dialogue: 0,0:19:45.93,0:19:47.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我看你说不说
+Dialogue: 0,0:19:56.65,0:19:58.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你说不说
+Dialogue: 0,0:20:08.83,0:20:11.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 别动手 不要再打了
+Dialogue: 0,0:20:13.79,0:20:14.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要打
+Dialogue: 0,0:20:14.96,0:20:16.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这位先生 你看在他父亲面上
+Dialogue: 0,0:20:16.96,0:20:18.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要跟他计较了
+Dialogue: 0,0:20:23.01,0:20:24.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他父亲是谁
+Dialogue: 0,0:20:24.80,0:20:26.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}黄祺英
+Dialogue: 0,0:20:38.98,0:20:39.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么样
+Dialogue: 0,0:20:39.69,0:20:41.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁老弟 一年多不见
+Dialogue: 0,0:20:41.78,0:20:43.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}想不到你的气功这么好
+Dialogue: 0,0:20:43.86,0:20:44.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}佩服 来 请坐
+Dialogue: 0,0:20:48.03,0:20:48.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请用茶
+Dialogue: 0,0:20:48.95,0:20:49.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请
+Dialogue: 0,0:20:59.84,0:21:03.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁老弟最近在肇庆的生意怎么样
+Dialogue: 0,0:21:05.01,0:21:06.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我已经
+Dialogue: 0,0:21:10.97,0:21:11.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么事呀
+Dialogue: 0,0:21:12.14,0:21:13.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}又在发脾气
+Dialogue: 0,0:21:14.44,0:21:15.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁呀
+Dialogue: 0,0:21:15.98,0:21:17.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我的孩子
+Dialogue: 0,0:21:17.86,0:21:19.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你的孩子
+Dialogue: 0,0:21:28.78,0:21:30.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}恭喜 恭喜
+Dialogue: 0,0:21:32.33,0:21:34.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}将来他一定青出于蓝
+Dialogue: 0,0:21:35.71,0:21:38.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要说笑 他根本不会做生意
+Dialogue: 0,0:21:39.38,0:21:41.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我是说功夫
+Dialogue: 0,0:21:41.50,0:21:43.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我根本就没有教他功夫
+Dialogue: 0,0:21:55.35,0:21:58.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父 弟子们常打架
+Dialogue: 0,0:21:59.10,0:22:02.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}打输了 只怪我管教不好
+Dialogue: 0,0:22:02.77,0:22:04.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}学艺不精
+Dialogue: 0,0:22:04.98,0:22:07.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是贵门派门下
+Dialogue: 0,0:22:07.11,0:22:10.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不应该出手太重打伤我弟子
+Dialogue: 0,0:22:10.78,0:22:15.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在我特地请林图强师父主持公道
+Dialogue: 0,0:22:16.16,0:22:17.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请彭师父交代几句
+Dialogue: 0,0:22:18.92,0:22:21.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你自己已经说过学艺不精
+Dialogue: 0,0:22:21.50,0:22:22.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还有什么好讲的
+Dialogue: 0,0:22:22.59,0:22:25.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父 贵派门下时常生事
+Dialogue: 0,0:22:27.47,0:22:29.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别打了
+Dialogue: 0,0:22:46.11,0:22:47.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}打伤了你们什么人
+Dialogue: 0,0:22:47.49,0:22:48.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没有
+Dialogue: 0,0:22:48.15,0:22:49.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那就小心点
+Dialogue: 0,0:22:50.95,0:22:54.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}碰到我的徒弟 让着点路走
+Dialogue: 0,0:22:54.87,0:22:55.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别自讨没趣
+Dialogue: 0,0:22:57.41,0:23:00.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别人怕你们 怕陆阿采
+Dialogue: 0,0:23:00.83,0:23:02.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我姓彭的可不会怕
+Dialogue: 0,0:23:03.13,0:23:07.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}唐师父 走 跟这种人不必讲理
+Dialogue: 0,0:23:21.52,0:23:22.52,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别动手
+Dialogue: 0,0:23:50.09,0:23:51.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}住手
+Dialogue: 0,0:23:53.59,0:23:54.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们两个滚出去
+Dialogue: 0,0:24:07.61,0:24:08.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何老弟
+Dialogue: 0,0:24:13.41,0:24:15.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭大哥 对不起
+Dialogue: 0,0:24:29.00,0:24:30.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}杨冲 人良 过来
+Dialogue: 0,0:24:36.72,0:24:39.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}过几天就要抢炮
+Dialogue: 0,0:24:39.81,0:24:41.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我要安排一下
+Dialogue: 0,0:24:42.06,0:24:45.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我要叫跟陆阿采有关系的人
+Dialogue: 0,0:24:45.73,0:24:46.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}一个炮也抢不到
+Dialogue: 0,0:24:47.02,0:24:48.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好 好
+Dialogue: 0,0:24:50.11,0:24:51.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}黄祺英有几个儿子
+Dialogue: 0,0:24:51.28,0:24:52.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就一个黄飞鸿
+Dialogue: 0,0:24:52.57,0:24:53.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就一个
+Dialogue: 0,0:24:55.28,0:24:57.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}真好笑
+Dialogue: 0,0:24:57.32,0:24:59.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}一点功夫都不会
+Dialogue: 0,0:25:00.74,0:25:02.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不过骨头倒还硬
+Dialogue: 0,0:25:04.16,0:25:05.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}打死了也不肯叫饶
+Dialogue: 0,0:25:07.58,0:25:08.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,0:25:08.25,0:25:08.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}行哥
+Dialogue: 0,0:25:08.92,0:25:09.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你在干什么
+Dialogue: 0,0:25:09.80,0:25:10.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我
+Dialogue: 0,0:25:11.05,0:25:12.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}来 走
+Dialogue: 0,0:25:16.26,0:25:18.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}行哥 我
+Dialogue: 0,0:25:18.80,0:25:21.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你今天这是怎么啦
+Dialogue: 0,0:25:21.56,0:25:23.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你不是做人最爽快的吗
+Dialogue: 0,0:25:24.52,0:25:26.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你既然叫我一声行哥
+Dialogue: 0,0:25:26.60,0:25:29.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你有什么困难 我一定替你抓主意
+Dialogue: 0,0:25:33.24,0:25:34.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们先走吧
+Dialogue: 0,0:25:34.19,0:25:35.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好 我们先走
+Dialogue: 0,0:25:36.16,0:25:39.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}行哥 后天抢炮我想跟你们去
+Dialogue: 0,0:25:42.62,0:25:45.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不行 不行
+Dialogue: 0,0:25:48.17,0:25:50.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你以为那是闹着玩的
+Dialogue: 0,0:25:50.67,0:25:54.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}如果弄得不好 你连命都会丢掉的
+Dialogue: 0,0:25:54.26,0:25:57.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}让我去凑凑热闹 最多我不动手
+Dialogue: 0,0:25:58.84,0:25:59.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不行
+Dialogue: 0,0:26:00.47,0:26:03.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}刚才你还说什么都替我抓主意
+Dialogue: 0,0:26:03.89,0:26:06.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}早知道我去求强哥了
+Dialogue: 0,0:26:08.73,0:26:12.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就算是求你爸爸也没有用
+Dialogue: 0,0:26:24.37,0:26:26.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 来
+Dialogue: 0,0:26:29.29,0:26:30.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}来
+Dialogue: 0,0:27:04.28,0:27:05.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,0:27:19.63,0:27:20.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}曾行
+Dialogue: 0,0:27:58.17,0:28:01.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你看 今年的炮会可比往年热闹
+Dialogue: 0,0:28:01.72,0:28:02.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是呀
+Dialogue: 0,0:28:53.39,0:28:54.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}看什么
+Dialogue: 0,0:28:54.90,0:28:55.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没什么
+Dialogue: 0,0:28:57.98,0:28:59.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我们开始吧
+Dialogue: 0,0:29:18.92,0:29:21.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家静一静 静一静
+Dialogue: 0,0:29:21.76,0:29:23.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}各位乡亲
+Dialogue: 0,0:29:23.84,0:29:26.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}如果有不是来参加抢炮的
+Dialogue: 0,0:29:26.64,0:29:29.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请大家散开点 散开点
+Dialogue: 0,0:29:31.10,0:29:33.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在我来说一下
+Dialogue: 0,0:29:33.23,0:29:36.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年本会所列的各项规矩
+Dialogue: 0,0:29:36.52,0:29:37.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家听着
+Dialogue: 0,0:29:37.73,0:29:43.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好
+Dialogue: 0,0:29:46.82,0:29:48.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}开始抢炮
+Dialogue: 0,0:31:24.42,0:31:25.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,0:31:31.97,0:31:33.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,0:31:57.12,0:31:58.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要打了 不要打了
+Dialogue: 0,0:32:40.20,0:32:41.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好了 我们去领炮
+Dialogue: 0,0:32:42.96,0:32:45.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走 走
+Dialogue: 0,0:32:46.46,0:32:47.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别追
+Dialogue: 0,0:33:35.26,0:33:36.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}吐血
+Dialogue: 0,0:33:41.06,0:33:42.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家让开
+Dialogue: 0,0:33:43.10,0:33:44.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺伯 祺伯
+Dialogue: 0,0:33:44.27,0:33:45.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}让开
+Dialogue: 0,0:33:47.69,0:33:48.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}爸爸
+Dialogue: 0,0:33:49.69,0:33:50.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别动
+Dialogue: 0,0:34:00.70,0:34:03.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他有两条肋骨差不多要断了
+Dialogue: 0,0:34:04.16,0:34:04.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}强哥
+Dialogue: 0,0:34:05.16,0:34:05.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}滚开
+Dialogue: 0,0:34:12.75,0:34:14.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}曾行 跟我去抓药
+Dialogue: 0,0:34:14.34,0:34:15.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,0:34:16.01,0:34:17.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}秀莲
+Dialogue: 0,0:34:17.13,0:34:19.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}用药酒替他敷 不要擦
+Dialogue: 0,0:34:19.55,0:34:21.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}扶他进去躺着 不要让他动
+Dialogue: 0,0:34:21.43,0:34:22.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,0:34:32.86,0:34:34.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}来 快扶他进去
+Dialogue: 0,0:34:35.11,0:34:36.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}小心点
+Dialogue: 0,0:34:40.28,0:34:42.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你
+Dialogue: 0,0:34:42.87,0:34:46.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别说了 全是我不好
+Dialogue: 0,0:34:47.25,0:34:50.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}累得大家都没有脸见人
+Dialogue: 0,0:34:50.83,0:34:53.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还累得林师哥受了伤
+Dialogue: 0,0:34:55.25,0:34:57.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你看
+Dialogue: 0,0:34:57.51,0:34:59.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我真的动起手来
+Dialogue: 0,0:34:59.80,0:35:01.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}连你都打不过
+Dialogue: 0,0:35:04.81,0:35:08.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 祺伯不肯教你学武
+Dialogue: 0,0:35:08.93,0:35:11.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你有没有去求过陆师公呀
+Dialogue: 0,0:35:13.36,0:35:15.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我在陆师公门口
+Dialogue: 0,0:35:15.52,0:35:17.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}每天都站上好久
+Dialogue: 0,0:35:18.36,0:35:21.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是我不敢
+Dialogue: 0,0:35:21.32,0:35:22.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}抢炮那么危险
+Dialogue: 0,0:35:22.61,0:35:25.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你没有练过功夫 倒去拼命
+Dialogue: 0,0:35:25.78,0:35:28.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么现在反而没有勇气了
+Dialogue: 0,0:35:40.01,0:35:42.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}秀莲姐 谢谢你
+Dialogue: 0,0:36:08.41,0:36:09.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我没有说错吧
+Dialogue: 0,0:36:10.50,0:36:13.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我看将来光大洪门
+Dialogue: 0,0:36:13.83,0:36:14.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就是他啦
+Dialogue: 0,0:36:14.88,0:36:18.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对小孩子别太过份夸奖
+Dialogue: 0,0:36:24.93,0:36:27.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今天的事我已经知道
+Dialogue: 0,0:36:27.26,0:36:27.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我
+Dialogue: 0,0:36:27.68,0:36:29.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别说了
+Dialogue: 0,0:36:29.22,0:36:32.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}年青人 总有点古怪事做出来
+Dialogue: 0,0:36:33.27,0:36:34.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}当你学武之后
+Dialogue: 0,0:36:35.02,0:36:37.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就会慢慢懂得武德的修养
+Dialogue: 0,0:36:38.19,0:36:39.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,0:36:41.99,0:36:43.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我收你做徒弟
+Dialogue: 0,0:36:44.28,0:36:46.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好啊 父子同师
+Dialogue: 0,0:36:47.07,0:36:48.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这倒是武林一代佳话
+Dialogue: 0,0:36:49.12,0:36:50.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就可以传颂百年了
+Dialogue: 0,0:36:53.46,0:36:57.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正 你去找祺英来
+Dialogue: 0,0:36:57.71,0:37:00.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}先别告诉他是什么事
+Dialogue: 0,0:37:01.05,0:37:01.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,0:37:04.26,0:37:05.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你怎么谢我
+Dialogue: 0,0:37:08.10,0:37:10.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我跟你说笑 你等着见你爸爸
+Dialogue: 0,0:37:18.02,0:37:19.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正叔叔
+Dialogue: 0,0:37:21.69,0:37:24.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你放心 你爸爸只有高兴
+Dialogue: 0,0:37:24.36,0:37:25.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不会反对的
+Dialogue: 0,0:37:25.28,0:37:26.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不是为这个
+Dialogue: 0,0:37:26.70,0:37:29.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正叔叔 那天 你来这里
+Dialogue: 0,0:37:30.08,0:37:32.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我也在巷子里 对不对
+Dialogue: 0,0:37:33.12,0:37:35.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}后来有人抓住我
+Dialogue: 0,0:37:35.79,0:37:37.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}问你是不是来找陆师父
+Dialogue: 0,0:37:38.08,0:37:39.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好像很紧张
+Dialogue: 0,0:37:40.71,0:37:41.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么人
+Dialogue: 0,0:37:41.55,0:37:42.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我认识他
+Dialogue: 0,0:37:42.67,0:37:44.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他是彭允刚的结拜兄弟
+Dialogue: 0,0:37:44.80,0:37:45.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}叫何虎
+Dialogue: 0,0:37:47.76,0:37:49.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何虎
+Dialogue: 0,0:38:00.36,0:38:01.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是不是他
+Dialogue: 0,0:38:07.78,0:38:09.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有几分像
+Dialogue: 0,0:38:11.87,0:38:14.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁叔叔 这个人
+Dialogue: 0,0:38:15.71,0:38:17.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那不关你的事
+Dialogue: 0,0:38:17.50,0:38:19.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你只要用心练武就行了
+Dialogue: 0,0:38:21.50,0:38:23.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}看你也像小孩子一样
+Dialogue: 0,0:38:23.88,0:38:25.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还计较这一些
+Dialogue: 0,0:38:25.63,0:38:27.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}全是阿鸿这孩子闹出来的
+Dialogue: 0,0:38:31.51,0:38:34.68,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺英 我新收了一个徒弟
+Dialogue: 0,0:38:37.02,0:38:38.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}恭喜师父
+Dialogue: 0,0:38:40.15,0:38:41.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}小师弟呢
+Dialogue: 0,0:38:41.81,0:38:43.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他虽然是我的徒弟
+Dialogue: 0,0:38:43.65,0:38:46.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是你不能叫他做师弟
+Dialogue: 0,0:38:47.82,0:38:49.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那是小师妹
+Dialogue: 0,0:38:49.86,0:38:50.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}胡猜
+Dialogue: 0,0:38:58.46,0:38:59.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}出来
+Dialogue: 0,0:39:00.37,0:39:01.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}爸爸
+Dialogue: 0,0:39:01.71,0:39:04.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是你 师父 他
+Dialogue: 0,0:39:06.34,0:39:10.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺英 你没有时间教他 我来教
+Dialogue: 0,0:39:11.18,0:39:14.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}看看我这个老头是不是还有用
+Dialogue: 0,0:39:15.22,0:39:18.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我知道了 这一定是袁正捣的鬼
+Dialogue: 0,0:39:20.10,0:39:22.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}过几天 我带他到乡下去
+Dialogue: 0,0:39:22.61,0:39:26.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}专心教他两年 你舍得吗
+Dialogue: 0,0:39:27.40,0:39:28.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还不过来
+Dialogue: 0,0:39:31.11,0:39:32.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谢谢师父栽培
+Dialogue: 0,0:39:37.50,0:39:38.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}各位
+Dialogue: 0,0:39:39.58,0:39:41.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请大家静一静
+Dialogue: 0,0:39:42.17,0:39:44.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年我们抢了双炮
+Dialogue: 0,0:39:44.79,0:39:48.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}林图强他们什么也没有得到
+Dialogue: 0,0:39:48.21,0:39:51.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}反叫炮会罚了两年不准参加
+Dialogue: 0,0:39:52.55,0:39:54.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我看这个时候
+Dialogue: 0,0:39:54.39,0:39:58.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}全广州都在说我们师父的本事大
+Dialogue: 0,0:39:59.68,0:40:00.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家随便
+Dialogue: 0,0:40:13.61,0:40:14.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么事
+Dialogue: 0,0:40:14.95,0:40:16.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没什么 外面有人找我
+Dialogue: 0,0:40:17.12,0:40:19.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我出去看看 你们请随便
+Dialogue: 0,0:40:20.25,0:40:21.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家不要客气
+Dialogue: 0,0:40:39.43,0:40:40.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正
+Dialogue: 0,0:40:51.11,0:40:53.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}甄二虎 你真会躲
+Dialogue: 0,0:40:56.95,0:40:58.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你也真会找
+Dialogue: 0,0:40:58.70,0:41:00.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你的手下那些伙计
+Dialogue: 0,0:41:00.37,0:41:03.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}正在肇庆大牢 等着你去团聚
+Dialogue: 0,0:41:03.96,0:41:07.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你想抓我 在这儿动手不方便
+Dialogue: 0,0:41:07.92,0:41:09.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有胆的跟我去榕树林
+Dialogue: 0,0:42:32.71,0:42:36.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁捕头 你的劈挂单刀进步很多
+Dialogue: 0,0:42:37.09,0:42:40.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}甄二虎 你的梅花枪也没有退步
+Dialogue: 0,0:44:18.69,0:44:19.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}气功
+Dialogue: 0,0:44:49.35,0:44:51.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你以为练了一年的气功
+Dialogue: 0,0:44:51.98,0:44:53.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就挡得住我的穿心腿
+Dialogue: 0,0:46:04.26,0:46:07.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们不要为了抢炮的事再生事
+Dialogue: 0,0:46:07.43,0:46:09.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺英 袁正在那里
+Dialogue: 0,0:46:10.26,0:46:13.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 袁正放了一把火
+Dialogue: 0,0:46:13.72,0:46:15.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}又要辛苦你了
+Dialogue: 0,0:46:15.48,0:46:18.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是他现在连影子都不见
+Dialogue: 0,0:46:28.49,0:46:30.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好 你们都回去吧
+Dialogue: 0,0:46:36.54,0:46:37.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}爹
+Dialogue: 0,0:46:37.29,0:46:38.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}知道了
+Dialogue: 0,0:46:39.29,0:46:41.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}见到袁正叔 我可以替你多谢他
+Dialogue: 0,0:46:42.59,0:46:44.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我不知道要怎样谢他才好
+Dialogue: 0,0:46:45.63,0:46:48.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}练功练到辛苦的时候 怕你会恨他
+Dialogue: 0,0:46:48.30,0:46:50.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大师兄 我爸爸是什么人
+Dialogue: 0,0:46:51.09,0:46:52.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我会那么不中用吗
+Dialogue: 0,0:46:52.85,0:46:55.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}跟父亲这样讲话 什么规矩
+Dialogue: 0,0:46:55.22,0:46:56.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}飞鸿 走吧
+Dialogue: 0,0:47:12.37,0:47:14.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿这可好啦
+Dialogue: 0,0:47:14.58,0:47:16.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在有陆师公亲自教他
+Dialogue: 0,0:47:17.62,0:47:19.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷
+Dialogue: 0,0:47:21.04,0:47:21.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷
+Dialogue: 0,0:47:21.67,0:47:23.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么事
+Dialogue: 0,0:47:23.21,0:47:25.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}死了 死了
+Dialogue: 0,0:47:25.25,0:47:27.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿聋 你老婆死了
+Dialogue: 0,0:47:28.09,0:47:29.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你死了老婆啦
+Dialogue: 0,0:47:30.47,0:47:32.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你才死了老婆
+Dialogue: 0,0:47:32.30,0:47:33.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我也没有老婆
+Dialogue: 0,0:47:34.93,0:47:36.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿聋 到底是什么事
+Dialogue: 0,0:47:37.02,0:47:39.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷 袁大爷死了
+Dialogue: 0,0:47:43.06,0:47:44.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正真的死了
+Dialogue: 0,0:47:44.73,0:47:46.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老爷放手 公差吩咐的
+Dialogue: 0,0:47:47.15,0:47:49.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他死在东城榕树林 树林里边
+Dialogue: 0,0:48:19.98,0:48:23.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺叔 你看是谁下的手呀
+Dialogue: 0,0:48:23.81,0:48:25.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是他要找的人
+Dialogue: 0,0:48:25.98,0:48:28.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那个人会穿心腿
+Dialogue: 0,0:48:29.61,0:48:32.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不过凭他的功夫
+Dialogue: 0,0:48:32.28,0:48:35.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}捱上两脚 也不致于会死
+Dialogue: 0,0:48:35.41,0:48:36.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}但是他
+Dialogue: 0,0:48:38.20,0:48:39.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}一定有问题
+Dialogue: 0,0:48:43.25,0:48:45.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他是我的好兄弟
+Dialogue: 0,0:48:45.58,0:48:48.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}官府验完尸 我来殓葬
+Dialogue: 0,0:48:48.92,0:48:49.83,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好
+Dialogue: 0,0:49:42.81,0:49:43.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}麒麟步
+Dialogue: 0,0:49:59.74,0:50:01.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}左右前弓后箭
+Dialogue: 0,0:50:09.33,0:50:10.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}蹬步
+Dialogue: 0,0:50:12.55,0:50:14.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}跳箭腿
+Dialogue: 0,0:50:18.13,0:50:19.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}左箭腿
+Dialogue: 0,0:50:30.02,0:50:31.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这样子就捱不住了
+Dialogue: 0,0:50:38.49,0:50:39.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 我还可以再
+Dialogue: 0,0:50:40.53,0:50:42.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}够了 明天再练
+Dialogue: 0,0:50:51.04,0:50:53.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 这是要练什么的
+Dialogue: 0,0:50:55.51,0:50:57.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这是少林寺的木人巷
+Dialogue: 0,0:50:57.72,0:50:59.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}其中的一个化出来的
+Dialogue: 0,0:51:00.26,0:51:02.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在你还没有资格练
+Dialogue: 0,0:51:02.81,0:51:05.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 这并不难
+Dialogue: 0,0:51:05.35,0:51:07.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}以前少林寺打木人巷
+Dialogue: 0,0:51:07.31,0:51:09.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不是很容易吗
+Dialogue: 0,0:51:09.06,0:51:10.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 让我试试
+Dialogue: 0,0:51:16.53,0:51:17.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好
+Dialogue: 0,0:51:26.79,0:51:28.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 这样做对不对
+Dialogue: 0,0:51:34.80,0:51:35.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再来
+Dialogue: 0,0:51:40.88,0:51:41.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父
+Dialogue: 0,0:51:42.97,0:51:47.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你呀 只顾攻 不顾守
+Dialogue: 0,0:52:18.30,0:52:19.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别练了
+Dialogue: 0,0:52:22.76,0:52:25.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 这样
+Dialogue: 0,0:52:36.48,0:52:39.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}洪拳 虎鹤双形
+Dialogue: 0,0:52:39.69,0:52:43.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}虎取其威 沉 猛 勇
+Dialogue: 0,0:52:45.32,0:52:47.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}瞧你自己像些什么
+Dialogue: 0,0:52:47.58,0:52:50.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}一点不像虎形拳 那是猫形拳
+Dialogue: 0,0:52:52.75,0:52:55.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}为人不可有伤人之意
+Dialogue: 0,0:52:55.71,0:52:58.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}但要万事无畏之勇
+Dialogue: 0,0:52:59.30,0:53:01.70,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你没有这种勇气
+Dialogue: 0,0:53:01.88,0:53:04.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么练得成虎形拳
+Dialogue: 0,0:53:04.89,0:53:06.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我懂 师父
+Dialogue: 0,0:53:07.18,0:53:08.38,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你还是不懂
+Dialogue: 0,0:53:08.56,0:53:09.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我懂了
+Dialogue: 0,0:53:09.68,0:53:15.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我问你 要是袁正叫人打死
+Dialogue: 0,0:53:15.65,0:53:19.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}凶手的武功还在你之上
+Dialogue: 0,0:53:20.40,0:53:21.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你该怎么样
+Dialogue: 0,0:53:22.19,0:53:24.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 袁正叔叔好好的
+Dialogue: 0,0:53:24.36,0:53:25.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你怎么咒他死呢
+Dialogue: 0,0:53:26.45,0:53:30.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}三个月前 我们离开广州的那天
+Dialogue: 0,0:53:30.54,0:53:33.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他中了两招穿心腿
+Dialogue: 0,0:53:36.29,0:53:38.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}死在榕树林
+Dialogue: 0,0:53:38.34,0:53:41.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不 袁正叔叔不会死 不会死的
+Dialogue: 0,0:54:04.15,0:54:05.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁打死袁正叔叔
+Dialogue: 0,0:55:18.77,0:55:19.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}起来
+Dialogue: 0,0:55:23.06,0:55:26.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 我只不过是想回城问爸爸
+Dialogue: 0,0:55:26.65,0:55:28.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁叔叔是怎么死的
+Dialogue: 0,0:55:31.24,0:55:32.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父
+Dialogue: 0,0:55:34.16,0:55:37.44,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我知道袁正叔叔是被谁打死的
+Dialogue: 0,0:55:37.66,0:55:38.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁
+Dialogue: 0,0:55:38.37,0:55:39.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我不说
+Dialogue: 0,0:55:41.37,0:55:43.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我不让你去找他
+Dialogue: 0,0:55:44.25,0:55:46.00,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我要自己替袁正叔叔报仇
+Dialogue: 0,0:55:46.67,0:55:48.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}也好
+Dialogue: 0,0:55:48.72,0:55:51.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}等你的功夫学好了再说吧
+Dialogue: 0,0:55:51.80,0:55:53.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么才算功夫学好
+Dialogue: 0,0:55:55.93,0:55:58.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}功夫学无止境
+Dialogue: 0,0:55:58.56,0:56:02.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你以后跟我过招 我只用一只手
+Dialogue: 0,0:56:02.35,0:56:03.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}练到你能逼得我
+Dialogue: 0,0:56:03.61,0:56:06.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}手里的烟袋非脱手不可 就可以了
+Dialogue: 0,0:56:07.28,0:56:08.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}用家伙算不算
+Dialogue: 0,0:56:08.19,0:56:08.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}练什么家伙
+Dialogue: 0,0:56:08.78,0:56:09.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}单头棍
+Dialogue: 0,0:56:09.61,0:56:12.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对 你已经懂得本门
+Dialogue: 0,0:56:12.24,0:56:14.48,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}以拳为主 以棍为先
+Dialogue: 0,0:56:15.24,0:56:17.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}单头棍有七尺多长
+Dialogue: 0,0:56:17.74,0:56:21.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}使用劲的灵活在棍头的三寸之间
+Dialogue: 0,0:56:21.58,0:56:24.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}所以练棍必须从绕圈的招式
+Dialogue: 0,0:56:24.96,0:56:27.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}去领悟到眼神、机变
+Dialogue: 0,0:56:27.55,0:56:29.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}至攻守自如的过程
+Dialogue: 0,0:56:29.80,0:56:32.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}如果不练到精熟 一不小心
+Dialogue: 0,0:56:38.85,0:56:41.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}练了五天 还打碎这么多碟子
+Dialogue: 0,0:56:41.35,0:56:44.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 你练单头棍 练了多久
+Dialogue: 0,0:56:46.44,0:56:49.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}从碟子转到饭碗
+Dialogue: 0,0:56:50.78,0:56:53.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}饭碗转到酒杯
+Dialogue: 0,0:56:53.86,0:56:55.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我一共练了十个月
+Dialogue: 0,0:56:55.95,0:57:00.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你师伯洪熙官当年只练八个月
+Dialogue: 0,0:57:00.20,0:57:02.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是少林南派第一奇才
+Dialogue: 0,0:57:03.29,0:57:05.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我才练五天
+Dialogue: 0,0:58:28.67,0:58:29.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}起鼓
+Dialogue: 0,0:58:29.38,0:58:30.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,0:58:40.60,0:58:41.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}停
+Dialogue: 0,0:58:42.76,0:58:44.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我们今年不舞狮子了
+Dialogue: 0,0:58:44.39,0:58:46.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}为什么
+Dialogue: 0,0:58:46.60,0:58:48.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}因为陆师公不在
+Dialogue: 0,0:58:48.77,0:58:50.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺伯又出门做生意去了
+Dialogue: 0,0:58:50.73,0:58:51.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那我们怕什么
+Dialogue: 0,0:58:53.07,0:58:54.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭允刚的一伙
+Dialogue: 0,0:58:54.98,0:58:56.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}老是在找我们的麻烦
+Dialogue: 0,0:58:57.49,0:59:00.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我的伤又刚刚好
+Dialogue: 0,0:59:00.36,0:59:02.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}所以今年不舞狮子了
+Dialogue: 0,0:59:03.87,0:59:07.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我看我们跪着向人家叩几个头
+Dialogue: 0,0:59:07.37,0:59:09.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}人家或许会饶过我们
+Dialogue: 0,0:59:09.58,0:59:10.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}住口
+Dialogue: 0,0:59:12.38,0:59:14.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们忘了陆师公走的时候
+Dialogue: 0,0:59:14.80,0:59:16.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是怎么吩咐你们的
+Dialogue: 0,0:59:16.96,0:59:20.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要惹事生非 快把东西收起来
+Dialogue: 0,0:59:24.14,0:59:26.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不舞就不舞 有什么了不起
+Dialogue: 0,0:59:57.84,0:59:58.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们要干什么
+Dialogue: 0,0:59:58.84,1:00:00.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们采青采到我们这条街来
+Dialogue: 0,1:00:00.84,1:00:02.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这不是太过份了吗
+Dialogue: 0,1:00:02.59,1:00:03.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}过份
+Dialogue: 0,1:00:05.64,1:00:07.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们连炮也抢不到一个
+Dialogue: 0,1:00:07.77,1:00:09.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我看你们脸皮再厚
+Dialogue: 0,1:00:09.23,1:00:11.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}也没有脸出狮了吧
+Dialogue: 0,1:00:18.90,1:00:21.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}林图强怎么啦 起不了床了
+Dialogue: 0,1:00:22.61,1:00:23.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别碰我
+Dialogue: 0,1:00:25.24,1:00:27.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对 不该碰他
+Dialogue: 0,1:00:32.71,1:00:33.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}该碰
+Dialogue: 0,1:00:35.96,1:00:36.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}打
+Dialogue: 0,1:01:11.33,1:01:12.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不许打了
+Dialogue: 0,1:01:14.29,1:01:15.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}过来
+Dialogue: 0,1:01:26.18,1:01:27.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁叫你们打架的
+Dialogue: 0,1:01:29.06,1:01:31.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你看 打怕了
+Dialogue: 0,1:01:32.98,1:01:35.22,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}果然不同 识趣得多了
+Dialogue: 0,1:01:36.81,1:01:37.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不许动
+Dialogue: 0,1:01:39.86,1:01:40.89,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大师兄
+Dialogue: 0,1:01:42.11,1:01:44.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你叫大师公也没有用的
+Dialogue: 0,1:01:53.75,1:01:54.49,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,1:01:54.66,1:01:55.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走吧
+Dialogue: 0,1:02:12.39,1:02:13.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}起狮
+Dialogue: 0,1:02:25.15,1:02:26.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家跟我来
+Dialogue: 0,1:02:28.28,1:02:29.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}回来
+Dialogue: 0,1:02:41.42,1:02:43.58,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}恭祝师父身壮力健
+Dialogue: 0,1:03:01.77,1:03:02.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 来
+Dialogue: 0,1:03:05.07,1:03:06.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好
+Dialogue: 0,1:03:39.23,1:03:40.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不错 不错
+Dialogue: 0,1:03:41.10,1:03:43.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 还差得远
+Dialogue: 0,1:03:44.57,1:03:46.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,1:03:49.11,1:03:52.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}功夫不是三两年就学得会的
+Dialogue: 0,1:03:52.87,1:03:58.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}练上两年 可能觉得自己还不错
+Dialogue: 0,1:03:58.12,1:04:02.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是练了二十年
+Dialogue: 0,1:04:02.42,1:04:04.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就会觉得自己还差得远
+Dialogue: 0,1:04:05.21,1:04:08.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在就觉得自己还不行
+Dialogue: 0,1:04:08.67,1:04:11.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那才是真正成功的开始
+Dialogue: 0,1:05:56.20,1:06:00.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你记得我对你说过
+Dialogue: 0,1:06:00.20,1:06:01.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我练单头棍
+Dialogue: 0,1:06:01.91,1:06:04.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}多少日子才练到这个地步
+Dialogue: 0,1:06:08.04,1:06:09.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}十个月
+Dialogue: 0,1:06:09.63,1:06:10.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那你呢
+Dialogue: 0,1:06:10.71,1:06:14.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}九个月 总算不负师父所教
+Dialogue: 0,1:06:19.18,1:06:22.01,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这几个月来
+Dialogue: 0,1:06:22.18,1:06:24.60,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你为什么不向我偷袭
+Dialogue: 0,1:06:24.60,1:06:27.47,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 我越是练下去
+Dialogue: 0,1:06:27.65,1:06:30.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就越觉得不能存侥幸之心
+Dialogue: 0,1:06:30.77,1:06:33.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}在没有练好功夫之前
+Dialogue: 0,1:06:33.03,1:06:36.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}试 也是白试
+Dialogue: 0,1:06:49.88,1:06:52.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}孺子可教
+Dialogue: 0,1:08:58.30,1:08:59.46,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}破排手
+Dialogue: 0,1:09:11.68,1:09:12.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再来
+Dialogue: 0,1:09:55.73,1:09:56.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿
+Dialogue: 0,1:09:59.36,1:10:01.02,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父
+Dialogue: 0,1:10:01.57,1:10:04.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你有两年多没见你爸爸了
+Dialogue: 0,1:10:05.07,1:10:08.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怎么 你不想回家了
+Dialogue: 0,1:10:08.24,1:10:10.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不是
+Dialogue: 0,1:10:10.33,1:10:13.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我觉徥我永远不能迫师父你用双手
+Dialogue: 0,1:10:17.21,1:10:22.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你是怕迫我用双手对付你
+Dialogue: 0,1:10:22.34,1:10:25.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}会叫你心中感到难过
+Dialogue: 0,1:10:25.38,1:10:28.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}感到我老了 不中用了
+Dialogue: 0,1:10:28.22,1:10:29.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 我没有这个意思
+Dialogue: 0,1:10:29.97,1:10:31.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我知道你是这个意思
+Dialogue: 0,1:10:32.39,1:10:35.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 我收你做徒弟
+Dialogue: 0,1:10:35.98,1:10:39.06,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我是希望你能继承光大本门
+Dialogue: 0,1:10:39.23,1:10:42.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你想我会难过吗
+Dialogue: 0,1:10:43.48,1:10:45.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我只有高兴
+Dialogue: 0,1:10:46.95,1:10:50.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你不但懂武功
+Dialogue: 0,1:10:50.03,1:10:52.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没有侥幸成份
+Dialogue: 0,1:10:52.20,1:10:54.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}而且又懂为别人着想
+Dialogue: 0,1:10:54.37,1:10:55.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这就是武德
+Dialogue: 0,1:10:56.08,1:10:59.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这比你在武功上的进步更可贵
+Dialogue: 0,1:10:59.79,1:11:02.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你用武功将一个人打倒
+Dialogue: 0,1:11:02.71,1:11:05.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只不过是打倒对方的身体
+Dialogue: 0,1:11:05.63,1:11:09.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}可是你能替别人着想
+Dialogue: 0,1:11:09.26,1:11:11.50,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}公正 明理
+Dialogue: 0,1:11:11.68,1:11:15.30,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你就能制服对方的心
+Dialogue: 0,1:11:15.48,1:11:18.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那才是真正学武功的真理
+Dialogue: 0,1:11:19.10,1:11:22.31,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}多宽恕 少逞强
+Dialogue: 0,1:11:23.57,1:11:29.74,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 这六个字你要谨记 谨记
+Dialogue: 0,1:11:29.86,1:11:30.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,1:11:31.37,1:11:33.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 弟子谨记
+Dialogue: 0,1:11:45.13,1:11:46.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}起来
+Dialogue: 0,1:11:49.17,1:11:52.84,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿呀 我还有点不服老 来
+Dialogue: 0,1:11:52.84,1:11:53.88,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父
+Dialogue: 0,1:12:58.54,1:12:59.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父
+Dialogue: 0,1:13:05.79,1:13:10.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正在天之灵 也该感到欣慰了
+Dialogue: 0,1:13:53.09,1:13:55.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}看什么 不认得我了
+Dialogue: 0,1:13:55.80,1:13:58.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}认得 不过你跟以前不一样了
+Dialogue: 0,1:13:58.89,1:13:59.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别胡说
+Dialogue: 0,1:14:02.18,1:14:03.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿聋
+Dialogue: 0,1:14:03.94,1:14:06.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你替我到彭允刚武馆去走一趟
+Dialogue: 0,1:14:06.27,1:14:10.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}对 也该找他们算算帐
+Dialogue: 0,1:14:10.90,1:14:13.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这两年 肚子都给他们气破了
+Dialogue: 0,1:14:13.40,1:14:15.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}谁说我去找他们打架
+Dialogue: 0,1:14:16.86,1:14:19.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你去找何虎
+Dialogue: 0,1:14:19.37,1:14:22.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}最好不要让别人看到
+Dialogue: 0,1:14:23.33,1:14:25.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你见到何虎
+Dialogue: 0,1:14:25.29,1:14:27.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只要告诉他一句话
+Dialogue: 0,1:14:27.62,1:14:30.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}榕树林的事发作了
+Dialogue: 0,1:14:30.54,1:14:32.92,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有一个人在榕树林里等他
+Dialogue: 0,1:14:34.09,1:14:35.42,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}榕树林的事发作了
+Dialogue: 0,1:14:35.59,1:14:37.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有一个人在榕树林里等他
+Dialogue: 0,1:14:37.34,1:14:40.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}快去 别提我的名字
+Dialogue: 0,1:14:40.68,1:14:42.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}也别对任何人讲
+Dialogue: 0,1:15:20.89,1:15:23.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}什么人 出来
+Dialogue: 0,1:15:37.78,1:15:38.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你就是
+Dialogue: 0,1:15:38.99,1:15:41.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是死在你脚底下的
+Dialogue: 0,1:15:41.20,1:15:43.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}袁正师父的一个后辈
+Dialogue: 0,1:15:47.46,1:15:48.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}只你一个人
+Dialogue: 0,1:15:48.29,1:15:49.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是
+Dialogue: 0,1:15:51.04,1:15:53.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}而且我没有告诉过任何一个人
+Dialogue: 0,1:15:58.80,1:16:00.18,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你是想
+Dialogue: 0,1:16:00.34,1:16:02.63,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你是袁捕头追缉的巨盗
+Dialogue: 0,1:16:02.85,1:16:05.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我要代他将你送进官府去
+Dialogue: 0,1:16:07.14,1:16:08.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好
+Dialogue: 0,1:16:17.44,1:16:18.85,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}五郎八卦棍
+Dialogue: 0,1:16:21.03,1:16:22.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}少林余孽
+Dialogue: 0,1:18:53.35,1:18:55.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}想抓我 下来
+Dialogue: 0,1:19:56.87,1:19:58.91,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}多宽恕 少逞强
+Dialogue: 0,1:19:58.91,1:20:02.78,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 这六个字你要谨记 谨记
+Dialogue: 0,1:21:07.36,1:21:10.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 何师叔给人抓进衙门去了
+Dialogue: 0,1:21:15.45,1:21:16.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家停手
+Dialogue: 0,1:21:23.83,1:21:24.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是真的吗
+Dialogue: 0,1:21:24.75,1:21:26.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没错 是真的
+Dialogue: 0,1:21:27.21,1:21:29.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何师叔原来不是姓何的
+Dialogue: 0,1:21:29.25,1:21:30.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他叫甄二虎
+Dialogue: 0,1:21:30.63,1:21:32.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是个杀人放火的强盗
+Dialogue: 0,1:21:34.59,1:21:38.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 这事情我们全不知道
+Dialogue: 0,1:21:38.39,1:21:40.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不过师父你尽管放心
+Dialogue: 0,1:21:40.68,1:21:43.09,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}官府里 我会叫我爹去打点
+Dialogue: 0,1:21:44.73,1:21:45.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不用了
+Dialogue: 0,1:21:46.15,1:21:47.73,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我只是看他武功高
+Dialogue: 0,1:21:47.73,1:21:51.15,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}敬佩他一身功夫才和他结义兄弟
+Dialogue: 0,1:21:52.86,1:21:56.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再说他在这里也没有犯过什么案子
+Dialogue: 0,1:21:56.70,1:21:59.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}事情拉不到我头上来
+Dialogue: 0,1:21:59.24,1:22:02.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师父 两年前死在榕树林的袁捕头
+Dialogue: 0,1:22:02.20,1:22:03.45,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}就是他给踢死的
+Dialogue: 0,1:22:03.62,1:22:06.71,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今天在竹林里 他要叫人给押走了
+Dialogue: 0,1:22:07.92,1:22:11.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}以他的功夫而论 谁能把他押走
+Dialogue: 0,1:22:12.09,1:22:13.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}黄飞鸿
+Dialogue: 0,1:22:13.84,1:22:16.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你每天在外面
+Dialogue: 0,1:22:16.34,1:22:18.67,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}连人影都看不到了
+Dialogue: 0,1:22:18.85,1:22:20.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}再过几天就要抢炮
+Dialogue: 0,1:22:21.14,1:22:23.10,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年我得帮强哥他们
+Dialogue: 0,1:22:23.22,1:22:24.17,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}好争一口气
+Dialogue: 0,1:22:25.77,1:22:27.81,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭允刚那里没有动静
+Dialogue: 0,1:22:28.35,1:22:30.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}官府已经查明了甄二虎的身份
+Dialogue: 0,1:22:31.23,1:22:32.51,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他有什么话说
+Dialogue: 0,1:22:32.69,1:22:34.57,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}总不致于替强盗出头吧
+Dialogue: 0,1:22:34.74,1:22:37.41,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}当然 彭允刚还不致于那样
+Dialogue: 0,1:22:37.86,1:22:40.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不过我知道他的为人
+Dialogue: 0,1:22:40.78,1:22:43.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}心里将你恨到极点
+Dialogue: 0,1:22:43.91,1:22:47.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 明枪易挡 暗箭难防
+Dialogue: 0,1:22:49.13,1:22:50.54,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我也听到一点风声
+Dialogue: 0,1:22:50.71,1:22:54.13,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}说是今年抢炮 他们专对付我们
+Dialogue: 0,1:22:54.30,1:22:56.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不过我们也不怕
+Dialogue: 0,1:22:58.76,1:23:02.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}论彭允刚的为人 收徒太滥
+Dialogue: 0,1:23:02.64,1:23:06.26,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}刚愎自用 又喜欢护短
+Dialogue: 0,1:23:06.43,1:23:08.98,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别的也没有什么
+Dialogue: 0,1:23:08.98,1:23:11.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}他的武功造诣很高
+Dialogue: 0,1:23:20.66,1:23:25.37,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在事情已经是这样
+Dialogue: 0,1:23:25.54,1:23:27.95,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}令他多吃一次亏
+Dialogue: 0,1:23:28.12,1:23:30.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怨毒就添多一层
+Dialogue: 0,1:23:30.96,1:23:33.33,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你可想到这一点
+Dialogue: 0,1:23:46.89,1:23:47.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}有没有走漏风声
+Dialogue: 0,1:23:48.14,1:23:48.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}没有
+Dialogue: 0,1:23:48.89,1:23:51.14,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}铁匠铺根本不知道是我们要的
+Dialogue: 0,1:23:54.23,1:23:55.23,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}关门
+Dialogue: 0,1:24:04.99,1:24:06.27,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你们全过来
+Dialogue: 0,1:24:18.21,1:24:19.76,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这就是铁尺
+Dialogue: 0,1:24:26.06,1:24:28.05,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}专打上下五寸
+Dialogue: 0,1:24:29.18,1:24:32.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}出手要快 要重
+Dialogue: 0,1:24:33.31,1:24:35.80,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}来对付那些和陆阿采有关系的人
+Dialogue: 0,1:24:38.57,1:24:40.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}杨冲 你过来
+Dialogue: 0,1:24:43.74,1:24:46.53,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}杨冲 你领一班人用铁尺
+Dialogue: 0,1:24:46.74,1:24:47.94,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}专门对付黄飞鸿
+Dialogue: 0,1:24:49.41,1:24:55.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}人良 你和另外一班人缠着林图强
+Dialogue: 0,1:24:55.38,1:24:59.04,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}今年我要他们连一个炮也抢不到
+Dialogue: 0,1:25:41.76,1:25:42.75,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}你
+Dialogue: 0,1:25:51.56,1:25:52.55,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}给我吧
+Dialogue: 0,1:26:06.61,1:26:07.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}麻油
+Dialogue: 0,1:27:32.45,1:27:36.61,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请大家静一静 静一静
+Dialogue: 0,1:27:39.00,1:27:41.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请大家注意
+Dialogue: 0,1:27:41.29,1:27:44.79,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}如果有不是来参加抢炮的
+Dialogue: 0,1:27:45.00,1:27:47.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请大家往两边散一散
+Dialogue: 0,1:28:00.14,1:28:03.56,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在本人把抢炮的规则说一下
+Dialogue: 0,1:28:03.69,1:28:08.65,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}第一条 不准惹事生非 借故殴斗
+Dialogue: 0,1:28:08.65,1:28:12.35,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}第二条 不得暗藏武器
+Dialogue: 0,1:28:12.53,1:28:15.40,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}第三条 不准无理取闹
+Dialogue: 0,1:28:15.58,1:28:18.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}或故意伤害他人
+Dialogue: 0,1:28:18.25,1:28:21.99,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}第四条 不准抢夺他人已抢到的炮
+Dialogue: 0,1:28:22.17,1:28:25.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}如果各武馆违犯了以上的规则
+Dialogue: 0,1:28:25.46,1:28:27.62,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}停罚抢炮三年
+Dialogue: 0,1:28:28.13,1:28:30.21,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}现在开始抢炮
+Dialogue: 0,1:29:01.96,1:29:03.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}两个圈
+Dialogue: 0,1:29:06.13,1:29:08.08,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家上 上
+Dialogue: 0,1:29:11.30,1:29:12.29,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}接着
+Dialogue: 0,1:29:19.60,1:29:21.39,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}往前冲
+Dialogue: 0,1:29:23.02,1:29:24.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}滚
+Dialogue: 0,1:29:41.04,1:29:43.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不要打
+Dialogue: 0,1:30:23.25,1:30:24.24,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}师兄
+Dialogue: 0,1:30:25.21,1:30:26.07,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}接着
+Dialogue: 0,1:31:32.86,1:31:33.72,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}曾行
+Dialogue: 0,1:31:42.45,1:31:45.12,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我抢到了 我抢到炮了
+Dialogue: 0,1:31:45.58,1:31:46.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我抢到炮了
+Dialogue: 0,1:31:46.83,1:31:48.16,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我抢到了
+Dialogue: 0,1:32:25.70,1:32:27.66,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}走
+Dialogue: 0,1:32:36.67,1:32:39.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}抢到了
+Dialogue: 0,1:33:43.91,1:33:46.86,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}要是你能制服对方的心
+Dialogue: 0,1:33:46.99,1:33:49.03,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}那才是真正的胜利
+Dialogue: 0,1:33:49.20,1:33:51.82,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}令他多吃一次亏
+Dialogue: 0,1:33:51.96,1:33:54.28,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}怨毒就添多一层
+Dialogue: 0,1:33:55.04,1:33:58.87,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}阿鸿 你可曾想到这一点
+Dialogue: 0,1:34:28.03,1:34:29.69,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}别打了
+Dialogue: 0,1:35:44.94,1:35:45.97,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请
+Dialogue: 0,1:35:46.40,1:35:47.90,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}大家武林一脉
+Dialogue: 0,1:35:48.07,1:35:50.19,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}何必这样客气 请 请
+Dialogue: 0,1:35:50.37,1:35:51.36,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}请
+Dialogue: 0,1:35:56.83,1:36:00.11,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}令郎仁义慷慨 真叫人心服
+Dialogue: 0,1:36:00.71,1:36:03.96,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父 对小孩子不要太过夸奖
+Dialogue: 0,1:36:04.13,1:36:06.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}还要请彭师父多多指教
+Dialogue: 0,1:36:06.38,1:36:07.25,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}我常告诫他们
+Dialogue: 0,1:36:07.42,1:36:10.34,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}学武的人 品德为先
+Dialogue: 0,1:36:10.51,1:36:12.59,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父 你说是不是呀
+Dialogue: 0,1:36:13.93,1:36:14.93,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}是呀
+Dialogue: 0,1:36:19.18,1:36:21.64,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}祺伯的话你们都听到了
+Dialogue: 0,1:36:26.32,1:36:29.77,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}这次抢炮本门弟子暗藏铁尺
+Dialogue: 0,1:36:29.99,1:36:31.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}全都是我的主意
+Dialogue: 0,1:36:32.24,1:36:34.32,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父不要再提了
+Dialogue: 0,1:36:37.79,1:36:41.20,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}不成 我要自责
+Dialogue: 0,1:36:59.02,1:37:00.43,Default,,0000,0000,0000,,{\fn微软雅黑\fs20\shad1\pos(192,275)\1c&HECECEC&\b0}彭师父
+
