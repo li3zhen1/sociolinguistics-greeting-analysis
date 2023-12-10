@@ -1,4 +1,4 @@
-﻿1
+1
 00:02:09,542 --> 00:02:13,417
 {\fnCalibri\fs14\1c&H40FF00&\b0}(Brazil)
 
@@ -1480,7 +1480,7 @@
 
 371
 00:29:27,042 --> 00:29:28,667
-{\fnCalibri\fs14\1c&H40FF00&\b0}On Estrada Flor de Lótus, Macau.
+{\fnCalibri\fs14\1c&H40FF00&\b0}On Estrada Flor de LÃ³tus, Macau.
 
 372
 00:29:29,042 --> 00:29:30,875

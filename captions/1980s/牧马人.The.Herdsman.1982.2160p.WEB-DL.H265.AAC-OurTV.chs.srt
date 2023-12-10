@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:03,000 --> 00:00:09,000
 Encodec source with Web-DL@Unkown
 Subtitle created by 北方的龙、满山红叶LTF, Sync & Revised by Aray.
