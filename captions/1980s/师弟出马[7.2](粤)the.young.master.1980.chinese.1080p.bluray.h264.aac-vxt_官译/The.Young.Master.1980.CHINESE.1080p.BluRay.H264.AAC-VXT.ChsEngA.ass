@@ -1,0 +1,1192 @@
+﻿[Script Info]
+;aBu 2020♪
+
+Title: The.Young.Master.1980.CHINESE.1080p.BluRay.H264.AAC-VXT
+Original Script: aBu 2020-12-16
+Original Translation: 官方
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Chs,微软雅黑,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Eng,微软雅黑,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.52,0:00:29.01,Default,,0000,0000,0000,,大师兄 小心点\N{\rEng}Brother, watch out.
+Dialogue: 0,0:00:29.39,0:00:30.12,Default,,0000,0000,0000,,知道了\N{\rEng}Don't worry
+Dialogue: 0,0:00:34.53,0:00:35.66,Default,,0000,0000,0000,,这个金狮在这儿吃惯住惯的\N{\rEng}The golden lion belongs to this school
+Dialogue: 0,0:00:35.86,0:00:37.30,Default,,0000,0000,0000,,自已都知道回来了\N{\rEng}he's never going to leave, right?
+Dialogue: 0,0:00:37.80,0:00:39.46,Default,,0000,0000,0000,,年年都是这样拿出去摆个样子\N{\rEng}Because of him no one's gonna beat us!
+Dialogue: 0,0:00:39.67,0:00:40.83,Default,,0000,0000,0000,,还不是又赢回来\N{\rEng}You can say that again!
+Dialogue: 0,0:00:41.07,0:00:42.80,Default,,0000,0000,0000,,喂 想偷懒呀\N{\rEng}Come on! Do some work!
+Dialogue: 0,0:00:43.17,0:00:43.90,Default,,0000,0000,0000,,我不是在干着活吗\N{\rEng}But l am working!
+Dialogue: 0,0:00:44.11,0:00:45.27,Default,,0000,0000,0000,,手脚俐落点\N{\rEng}Looks like it!
+Dialogue: 0,0:00:53.85,0:00:54.54,Default,,0000,0000,0000,,准备好了没有\N{\rEng}Everything ready?
+Dialogue: 0,0:00:54.75,0:00:55.61,Default,,0000,0000,0000,,准备好了\N{\rEng}Yes, master!
+Dialogue: 0,0:00:57.09,0:00:57.92,Default,,0000,0000,0000,,衣服都送来了吗\N{\rEng}Are the costumes here?
+Dialogue: 0,0:00:58.15,0:00:59.42,Default,,0000,0000,0000,,霞姐等一回就送来\N{\rEng}No, sister Har is bringing them over
+Dialogue: 0,0:01:00.39,0:01:02.45,Default,,0000,0000,0000,,师父 上海婆来了\N{\rEng}Master, sister Har's arrived
+Dialogue: 0,0:01:03.53,0:01:04.86,Default,,0000,0000,0000,,我是赶得及的\N{\rEng}Hello there, master!
+Dialogue: 0,0:01:05.59,0:01:07.96,Default,,0000,0000,0000,,上海婆上海婆\N{\rEng}Hello, sister...
+Dialogue: 0,0:01:08.16,0:01:09.22,Default,,0000,0000,0000,,麻烦你了\N{\rEng}Hello everyone! Hi...
+Dialogue: 0,0:01:13.14,0:01:15.10,Default,,0000,0000,0000,,衣服都来了\N{\rEng}l finished your costumes at last
+Dialogue: 0,0:01:15.37,0:01:16.86,Default,,0000,0000,0000,,要穿新衣服快点来拿去\N{\rEng}Come try them on, everyone!
+Dialogue: 0,0:01:17.64,0:01:20.04,Default,,0000,0000,0000,,大家自已看清楚 不要弄错呀\N{\rEng}Make sure you have the right one, don't mix them up
+Dialogue: 0,0:01:20.58,0:01:22.17,Default,,0000,0000,0000,,各人拿各人的\N{\rEng}Make sure you have the right costume
+Dialogue: 0,0:01:23.25,0:01:24.18,Default,,0000,0000,0000,,你来拿\N{\rEng}Come on, hurry up!
+Dialogue: 0,0:01:24.41,0:01:25.31,Default,,0000,0000,0000,,龙哥\N{\rEng}Brother Lung!
+Dialogue: 0,0:01:25.81,0:01:27.01,Default,,0000,0000,0000,,我就来了\N{\rEng}l'll be right there!
+Dialogue: 0,0:01:27.85,0:01:29.78,Default,,0000,0000,0000,,大师兄 你衣服在这儿\N{\rEng}Here, brother! Here's your costume!
+Dialogue: 0,0:01:31.79,0:01:33.48,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother...
+Dialogue: 0,0:01:35.59,0:01:36.99,Default,,0000,0000,0000,,大师兄\N{\rEng}What's happening?
+Dialogue: 0,0:01:37.19,0:01:38.18,Default,,0000,0000,0000,,大师兄\N{\rEng}Are you alright?
+Dialogue: 0,0:01:40.83,0:01:41.32,Default,,0000,0000,0000,,怎么样\N{\rEng}What happened? You alright?
+Dialogue: 0,0:01:41.53,0:01:42.59,Default,,0000,0000,0000,,我的脚好痛呀\N{\rEng}My leg really hurts!
+Dialogue: 0,0:01:42.80,0:01:44.06,Default,,0000,0000,0000,,谁把木桶放在这里\N{\rEng}Which idiot put the bucket there?
+Dialogue: 0,0:01:44.40,0:01:45.39,Default,,0000,0000,0000,,一定是野孩子\N{\rEng}lt must have been the orphan
+Dialogue: 0,0:01:45.60,0:01:46.07,Default,,0000,0000,0000,,我\N{\rEng}Me?
+Dialogue: 0,0:01:46.27,0:01:47.50,Default,,0000,0000,0000,,快点扶我起来\N{\rEng}Hurry, get me up will you?
+Dialogue: 0,0:01:47.70,0:01:48.73,Default,,0000,0000,0000,,快扶他起来\N{\rEng}Help him up!
+Dialogue: 0,0:01:49.37,0:01:50.36,Default,,0000,0000,0000,,快扶他坐下\N{\rEng}Somebody give him a chair!
+Dialogue: 0,0:01:50.97,0:01:53.57,Default,,0000,0000,0000,,你怎么做事的 还要你舞狮头\N{\rEng}This really couldn't have come at a worse time
+Dialogue: 0,0:01:54.48,0:01:56.31,Default,,0000,0000,0000,,大师兄不能舞狮头 这回输定了\N{\rEng}Brother Jing's supposed to carry the lion's head!
+Dialogue: 0,0:01:56.68,0:01:58.17,Default,,0000,0000,0000,,没有大师兄就没有人会舞狮吗\N{\rEng}Without him, you think we'll lose, right?
+Dialogue: 0,0:01:58.38,0:01:59.31,Default,,0000,0000,0000,,还有我嘛\N{\rEng}But l'm here!
+Dialogue: 0,0:01:59.51,0:02:00.64,Default,,0000,0000,0000,,轮到我也轮不到你\N{\rEng}l was here before you!
+Dialogue: 0,0:02:00.85,0:02:01.75,Default,,0000,0000,0000,,不要吵\N{\rEng}Yeah, l know that!
+Dialogue: 0,0:02:03.72,0:02:05.48,Default,,0000,0000,0000,,看情形要换个人舞狮头了\N{\rEng}lt looks like we'll need a replacement
+Dialogue: 0,0:02:06.72,0:02:08.62,Default,,0000,0000,0000,,我 师父 我不行\N{\rEng}Me, master? l couldn't...
+Dialogue: 0,0:02:08.82,0:02:09.98,Default,,0000,0000,0000,,你当然不行\N{\rEng}No, l didn't mean you!
+Dialogue: 0,0:02:11.33,0:02:12.45,Default,,0000,0000,0000,,阿龙 你来\N{\rEng}Well, Lung?
+Dialogue: 0,0:02:13.16,0:02:14.75,Default,,0000,0000,0000,,野孩子怎么行呢\N{\rEng}Lung's not good enough to do it!
+Dialogue: 0,0:02:15.06,0:02:16.12,Default,,0000,0000,0000,,他不行 我来呀\N{\rEng}lf he isn't, then l'll do it!
+Dialogue: 0,0:02:16.33,0:02:17.16,Default,,0000,0000,0000,,我来才对\N{\rEng}No, you won't. l was...
+Dialogue: 0,0:02:17.73,0:02:18.76,Default,,0000,0000,0000,,别吵\N{\rEng}You two! Be quiet!
+Dialogue: 0,0:02:20.27,0:02:21.29,Default,,0000,0000,0000,,准备出狮\N{\rEng}Lung will do it
+Dialogue: 0,0:02:22.84,0:02:24.67,Default,,0000,0000,0000,,各位观众 在过去的一年\N{\rEng}Citizens and fellow villagers
+Dialogue: 0,0:02:25.37,0:02:28.21,Default,,0000,0000,0000,,本镇风调雨顺 人口平安\N{\rEng}this year has brought us peace and renewed prosperity
+Dialogue: 0,0:02:28.61,0:02:31.51,Default,,0000,0000,0000,,所谓有例不可废 今年我们\N{\rEng}ln accordance with our tradition
+Dialogue: 0,0:02:31.71,0:02:34.68,Default,,0000,0000,0000,,特别准备了一个水陆平安青\N{\rEng}we've created a token symbolizing peace in our land
+Dialogue: 0,0:02:35.08,0:02:36.71,Default,,0000,0000,0000,,由本镇的正风武馆和\N{\rEng}The Jing Fung and Wai Yee martial arts schools
+Dialogue: 0,0:02:36.92,0:02:38.89,Default,,0000,0000,0000,,威义武馆比赛采青\N{\rEng}will be competing for the token
+Dialogue: 0,0:02:39.19,0:02:41.85,Default,,0000,0000,0000,,看那家武馆给我们带来好运的一年\N{\rEng}We will see which school brings us good luck for the coming year
+Dialogue: 0,0:02:45.29,0:02:46.52,Default,,0000,0000,0000,,什么平安青呀\N{\rEng}What kind of token's that?
+Dialogue: 0,0:02:46.96,0:02:47.95,Default,,0000,0000,0000,,面青\N{\rEng}lt's a green token
+Dialogue: 0,0:02:48.16,0:02:48.82,Default,,0000,0000,0000,,什么\N{\rEng}What?
+Dialogue: 0,0:02:49.03,0:02:51.26,Default,,0000,0000,0000,,如果叫我去采 面也青\N{\rEng}lf l don't get it then l'm gonna turn green!
+Dialogue: 0,0:02:53.13,0:02:54.93,Default,,0000,0000,0000,,这个叫做盘龙八卦青\N{\rEng}lt's the 8 Circling Dragons token
+Dialogue: 0,0:03:09.95,0:03:11.58,Default,,0000,0000,0000,,这只狮舞得好生动\N{\rEng}We've got all the right moves
+Dialogue: 0,0:03:14.89,0:03:16.26,Default,,0000,0000,0000,,厉害罢\N{\rEng}Yeah, they're good!
+Dialogue: 0,0:03:17.79,0:03:19.28,Default,,0000,0000,0000,,这只狮舞得好生动\N{\rEng}They've got a good team this year
+Dialogue: 0,0:03:19.83,0:03:21.42,Default,,0000,0000,0000,,步履和身形都不像是威义堂的人\N{\rEng}They have some different techniques this year
+Dialogue: 0,0:03:21.63,0:03:22.96,Default,,0000,0000,0000,,阿龙 你舞狮头 是\N{\rEng}- Are you ready, Lung? - Yes
+Dialogue: 0,0:03:23.16,0:03:24.65,Default,,0000,0000,0000,,阿灿 你舞狮尾 是\N{\rEng}- Chan, you get the tail - Yes
+Dialogue: 0,0:03:25.33,0:03:26.30,Default,,0000,0000,0000,,大家准备\N{\rEng}Everyone gets ready
+Dialogue: 0,0:03:27.10,0:03:28.19,Default,,0000,0000,0000,,你打鼓\N{\rEng}Man the drum!
+Dialogue: 0,0:03:58.60,0:04:00.07,Default,,0000,0000,0000,,你买什么 当然买黑狮\N{\rEng}- What's your bet? - On the black lion
+Dialogue: 0,0:04:00.27,0:04:00.79,Default,,0000,0000,0000,,怎么会买黑狮的\N{\rEng}lt won't win
+Dialogue: 0,0:04:01.00,0:04:02.13,Default,,0000,0000,0000,,我希望爆冷呀\N{\rEng}But l'm rich if it does!
+Dialogue: 0,0:04:03.07,0:04:03.80,Default,,0000,0000,0000,,什么盘口\N{\rEng}What are the odds?
+Dialogue: 0,0:04:04.14,0:04:05.04,Default,,0000,0000,0000,,黑狮一赔十\N{\rEng}10 to 1 for the black
+Dialogue: 0,0:04:05.27,0:04:06.97,Default,,0000,0000,0000,,金狮就一块赔五毛\N{\rEng}For the gold, 2 to 1 on
+Dialogue: 0,0:04:07.18,0:04:08.16,Default,,0000,0000,0000,,那我岂不是输定五毛\N{\rEng}2 to 1 on?
+Dialogue: 0,0:04:08.81,0:04:10.40,Default,,0000,0000,0000,,我也知道是金狮赢定啦\N{\rEng}We all know gold will win
+Dialogue: 0,0:04:10.61,0:04:12.55,Default,,0000,0000,0000,,如果大家都买金狮 我连老婆都赔啦\N{\rEng}l'd be crazy to give any better odds
+Dialogue: 0,0:04:13.82,0:04:14.84,Default,,0000,0000,0000,,那些表格难道不要钱印的\N{\rEng}Good day, l have a business to run
+Dialogue: 0,0:04:15.05,0:04:15.98,Default,,0000,0000,0000,,我买黑狮\N{\rEng}l'll take the black
+Dialogue: 0,0:04:16.48,0:04:17.97,Default,,0000,0000,0000,,去排队\N{\rEng}Just go wait in line
+Dialogue: 0,0:04:18.85,0:04:20.22,Default,,0000,0000,0000,,什么 你买黑狮\N{\rEng}Wait! Did you say black?
+Dialogue: 0,0:04:20.42,0:04:21.39,Default,,0000,0000,0000,,对呀 那不用排队了\N{\rEng}- Yes. - Then no need to line up
+Dialogue: 0,0:04:21.59,0:04:22.78,Default,,0000,0000,0000,,我替你填表\N{\rEng}l'll fill out your ticket right now
+Dialogue: 0,0:06:25.61,0:06:27.44,Default,,0000,0000,0000,,跳过去呀\N{\rEng}Go on! You can do it!
+Dialogue: 0,0:06:27.65,0:06:28.12,Default,,0000,0000,0000,,怎么办\N{\rEng}What should we do?
+Dialogue: 0,0:06:28.32,0:06:29.25,Default,,0000,0000,0000,,敢不敢跳过去 敢\N{\rEng}- Think you can do it? - Sure
+Dialogue: 0,0:06:29.45,0:06:30.11,Default,,0000,0000,0000,,掀尾巴\N{\rEng}Lift up the tail!
+Dialogue: 0,0:06:30.32,0:06:31.65,Default,,0000,0000,0000,,没桥怎么过去呀\N{\rEng}They're never gonna do that
+Dialogue: 0,0:06:46.87,0:06:47.86,Default,,0000,0000,0000,,上\N{\rEng}Go for it!...
+Dialogue: 0,0:06:52.51,0:06:53.60,Default,,0000,0000,0000,,别让他上去\N{\rEng}All right! Keep going!...
+Dialogue: 0,0:06:54.04,0:06:55.53,Default,,0000,0000,0000,,别让他上去 打他\N{\rEng}Go on! Get up there!
+Dialogue: 0,0:06:58.61,0:07:02.14,Default,,0000,0000,0000,,别让他上去 千万别让他上去\N{\rEng}Keep pushing, brother!
+Dialogue: 0,0:07:02.55,0:07:06.51,Default,,0000,0000,0000,,打他 打他\N{\rEng}Push...
+Dialogue: 0,0:07:09.66,0:07:10.99,Default,,0000,0000,0000,,顶硬上\N{\rEng}Keep going!
+Dialogue: 0,0:07:18.90,0:07:20.03,Default,,0000,0000,0000,,阿灿 绑腰带\N{\rEng}Chan! Your belt!
+Dialogue: 0,0:07:20.24,0:07:21.07,Default,,0000,0000,0000,,好\N{\rEng}Right!
+Dialogue: 0,0:07:24.67,0:07:25.80,Default,,0000,0000,0000,,绑好了没有\N{\rEng}Chan! Are you ready?
+Dialogue: 0,0:07:26.01,0:07:26.84,Default,,0000,0000,0000,,绑好了\N{\rEng}l'm all right!
+Dialogue: 0,0:07:50.43,0:07:51.33,Default,,0000,0000,0000,,我下去啦\N{\rEng}Here l go!
+Dialogue: 0,0:08:11.65,0:08:12.45,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother?
+Dialogue: 0,0:08:12.92,0:08:14.86,Default,,0000,0000,0000,,少废话 有本事就抢好了\N{\rEng}We're not brothers! You want it you take it!
+Dialogue: 0,0:08:15.09,0:08:16.02,Default,,0000,0000,0000,,大师兄 你\N{\rEng}But...
+Dialogue: 0,0:08:28.97,0:08:29.90,Default,,0000,0000,0000,,上了\N{\rEng}Go!...
+Dialogue: 0,0:09:06.94,0:09:07.97,Default,,0000,0000,0000,,别放手呀\N{\rEng}Don't let go!
+Dialogue: 0,0:09:37.04,0:09:38.13,Default,,0000,0000,0000,,大师兄 你为什么这样做\N{\rEng}Why are you doing this, brother?
+Dialogue: 0,0:09:38.34,0:09:39.14,Default,,0000,0000,0000,,到底为什么呢\N{\rEng}Why?
+Dialogue: 0,0:09:39.34,0:09:40.36,Default,,0000,0000,0000,,现在各为其主\N{\rEng}lt's not in the rules!
+Dialogue: 0,0:09:40.61,0:09:41.97,Default,,0000,0000,0000,,你别当我是大师兄了\N{\rEng}Forget the rules. l was paid to win this!
+Dialogue: 0,0:09:43.08,0:09:44.17,Default,,0000,0000,0000,,把本事拿出来吧\N{\rEng}And that's what l'm gonna do!
+Dialogue: 0,0:09:44.38,0:09:45.68,Default,,0000,0000,0000,,这不是为难我吗\N{\rEng}Come on, don't do this!
+Dialogue: 0,0:09:47.45,0:09:52.58,Default,,0000,0000,0000,,顶住 顶住呀\N{\rEng}Look out! Hold him up!...
+Dialogue: 0,0:09:52.79,0:09:54.35,Default,,0000,0000,0000,,不要吵 快点抢青\N{\rEng}Shut up! Get the token!
+Dialogue: 0,0:10:04.93,0:10:07.20,Default,,0000,0000,0000,,快抢 抢呀\N{\rEng}Get the token!...
+Dialogue: 0,0:10:58.22,0:10:59.35,Default,,0000,0000,0000,,我们赢了\N{\rEng}Yeah! We won!...
+Dialogue: 0,0:11:01.82,0:11:03.79,Default,,0000,0000,0000,,舅父 替我们舞头的真行\N{\rEng}Who was doing the head? He was really something!
+Dialogue: 0,0:11:04.03,0:11:04.92,Default,,0000,0000,0000,,你在那里找的\N{\rEng}Where do you get him?
+Dialogue: 0,0:11:07.13,0:11:10.22,Default,,0000,0000,0000,,不要问了 快去捧金狮 去\N{\rEng}Alright, don't just stand there! Go and collect the gold lion!
+Dialogue: 0,0:11:12.27,0:11:13.67,Default,,0000,0000,0000,,好了 快收拾东西回去\N{\rEng}Alright, clean up everything!
+Dialogue: 0,0:11:16.70,0:11:17.83,Default,,0000,0000,0000,,还不快下来\N{\rEng}Don't just sit there!
+Dialogue: 0,0:11:25.35,0:11:26.81,Default,,0000,0000,0000,,我赢了 我去拿钱\N{\rEng}l have to collect my winnings!
+Dialogue: 0,0:11:30.89,0:11:32.85,Default,,0000,0000,0000,,都是你呀 害得我输钱\N{\rEng}You idiots! l lost a fortune! You're no good!
+Dialogue: 0,0:11:35.22,0:11:38.66,Default,,0000,0000,0000,,我做黑狮 你做金狮 来呀\N{\rEng}You be the black lion, l'll be the gold lion!
+Dialogue: 0,0:11:39.03,0:11:40.93,Default,,0000,0000,0000,,你点点看 不会亏待你的\N{\rEng}You check it. l don't want complaints
+Dialogue: 0,0:11:41.26,0:11:43.25,Default,,0000,0000,0000,,我们是一次生两次熟\N{\rEng}Good accounting makes good friends
+Dialogue: 0,0:11:43.46,0:11:46.06,Default,,0000,0000,0000,,等土地公公生日再来帮忙\N{\rEng}And we'll do the same thing next year
+Dialogue: 0,0:11:47.54,0:11:48.83,Default,,0000,0000,0000,,做得多了 会露出马脚的\N{\rEng}Someone's gonna find out
+Dialogue: 0,0:11:49.04,0:11:49.83,Default,,0000,0000,0000,,露就露好了\N{\rEng}Then why don't you do as l said
+Dialogue: 0,0:11:50.04,0:11:52.06,Default,,0000,0000,0000,,你到我这儿来给个教头你做好了\N{\rEng}and come and teach at our school?
+Dialogue: 0,0:11:53.47,0:11:54.41,Default,,0000,0000,0000,,回去想想看\N{\rEng}What about it?
+Dialogue: 0,0:11:55.44,0:11:56.57,Default,,0000,0000,0000,,我回去考虑考虑\N{\rEng}l'll think it over
+Dialogue: 0,0:12:15.66,0:12:17.43,Default,,0000,0000,0000,,师父 输了还是赢了\N{\rEng}Master, did we win it?
+Dialogue: 0,0:12:39.72,0:12:41.12,Default,,0000,0000,0000,,输\N{\rEng}Mas...
+Dialogue: 0,0:12:47.33,0:12:49.73,Default,,0000,0000,0000,,输了就输了 愁眉苦脸干什么\N{\rEng}Alright, we lost. lt's in the past now
+Dialogue: 0,0:12:50.70,0:12:51.82,Default,,0000,0000,0000,,还不快点练功\N{\rEng}Get back to practice!
+Dialogue: 0,0:12:59.27,0:13:00.24,Default,,0000,0000,0000,,阿龙\N{\rEng}Lung!
+Dialogue: 0,0:13:01.18,0:13:03.34,Default,,0000,0000,0000,,你耍狮头连狮头都抓不稳\N{\rEng}You can't even hold the lion's head
+Dialogue: 0,0:13:06.48,0:13:07.81,Default,,0000,0000,0000,,搬桌子举一百下\N{\rEng}For your punishment
+Dialogue: 0,0:13:08.08,0:13:09.45,Default,,0000,0000,0000,,练练你的手劲\N{\rEng}you'll lift the table 100 times!
+Dialogue: 0,0:13:53.96,0:13:55.55,Default,,0000,0000,0000,,替我把席擦一擦好吗\N{\rEng}Will you scrub my bed for me?
+Dialogue: 0,0:13:55.76,0:13:59.43,Default,,0000,0000,0000,,替你擦擦那谁替我擦呀\N{\rEng}Who do you think l am, your servant?
+Dialogue: 0,0:14:00.23,0:14:01.50,Default,,0000,0000,0000,,动手擦吧\N{\rEng}Oh, come on!
+Dialogue: 0,0:14:03.91,0:14:04.87,Default,,0000,0000,0000,,现在又不是请你来做大少爷\N{\rEng}Yeah, dream on, brother!
+Dialogue: 0,0:14:05.07,0:14:06.84,Default,,0000,0000,0000,,擦 自已擦吧\N{\rEng}Get on with it!
+Dialogue: 0,0:14:14.55,0:14:15.91,Default,,0000,0000,0000,,又是那挡子事呀\N{\rEng}What? Again?
+Dialogue: 0,0:14:16.12,0:14:19.18,Default,,0000,0000,0000,,叫你去就去啦 快去\N{\rEng}Just do what l say. Go on!
+Dialogue: 0,0:14:34.77,0:14:35.70,Default,,0000,0000,0000,,那边\N{\rEng}That way
+Dialogue: 0,0:14:36.17,0:14:37.36,Default,,0000,0000,0000,,知道啦 进房去嘛\N{\rEng}Don't worry, l know the way
+Dialogue: 0,0:14:37.57,0:14:38.83,Default,,0000,0000,0000,,我又不是第一次来\N{\rEng}This isn't the first time
+Dialogue: 0,0:14:39.64,0:14:42.20,Default,,0000,0000,0000,,别那么大声 师父刚睡呀\N{\rEng}Not so loud! The master's in the bedroom
+Dialogue: 0,0:14:42.81,0:14:44.37,Default,,0000,0000,0000,,去外边又怕人家看见\N{\rEng}lf you're so embarrassed about it
+Dialogue: 0,0:14:44.58,0:14:46.34,Default,,0000,0000,0000,,在里边又怕师父知道\N{\rEng}and so afraid that your master will find out
+Dialogue: 0,0:14:46.55,0:14:48.31,Default,,0000,0000,0000,,胆子那么小就别学人家风流\N{\rEng}why did you bother bringing me here?
+Dialogue: 0,0:14:52.65,0:14:54.21,Default,,0000,0000,0000,,我来了\N{\rEng}Hello handsome! Me again!
+Dialogue: 0,0:14:54.46,0:14:55.65,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother
+Dialogue: 0,0:14:55.96,0:14:56.69,Default,,0000,0000,0000,,什么事啊\N{\rEng}What's the matter?
+Dialogue: 0,0:14:56.89,0:14:57.59,Default,,0000,0000,0000,,怎么又是她呀\N{\rEng}lt's she again?
+Dialogue: 0,0:14:57.79,0:14:58.76,Default,,0000,0000,0000,,你先出去\N{\rEng}Never mind about that!
+Dialogue: 0,0:15:01.70,0:15:03.16,Default,,0000,0000,0000,,大师兄 你可别那么久呀\N{\rEng}Brother, don't take too long!
+Dialogue: 0,0:15:03.36,0:15:06.03,Default,,0000,0000,0000,,知道啦 你先出去 出去\N{\rEng}Let me worry about that. Now get out of here!
+Dialogue: 0,0:15:07.17,0:15:09.19,Default,,0000,0000,0000,,来啊 陪我玩\N{\rEng}Come on! Play with me
+Dialogue: 0,0:15:09.40,0:15:11.20,Default,,0000,0000,0000,,起来 死胖子\N{\rEng}Come on
+Dialogue: 0,0:15:22.95,0:15:24.01,Default,,0000,0000,0000,,糟了 师父来了\N{\rEng}Look out! Master's here!
+Dialogue: 0,0:15:42.67,0:15:43.43,Default,,0000,0000,0000,,师父\N{\rEng}Master!
+Dialogue: 0,0:15:43.80,0:15:44.46,Default,,0000,0000,0000,,你干什么\N{\rEng}What are you doing?
+Dialogue: 0,0:15:44.67,0:15:46.61,Default,,0000,0000,0000,,没什么 这儿凉快嘛\N{\rEng}lt's much cooler in here
+Dialogue: 0,0:15:46.87,0:15:47.47,Default,,0000,0000,0000,,这儿凉快\N{\rEng}Cooler in here?
+Dialogue: 0,0:15:47.68,0:15:48.66,Default,,0000,0000,0000,,对呀\N{\rEng}That's right!
+Dialogue: 0,0:15:52.98,0:15:54.31,Default,,0000,0000,0000,,你想闷死我吗\N{\rEng}You're suffocating me!
+Dialogue: 0,0:15:54.75,0:15:55.58,Default,,0000,0000,0000,,不是\N{\rEng}No, no...
+Dialogue: 0,0:15:55.78,0:15:57.11,Default,,0000,0000,0000,,你干什么 你想揩油呀\N{\rEng}What do you think you're doing?
+Dialogue: 0,0:15:57.39,0:15:58.48,Default,,0000,0000,0000,,揩油\N{\rEng}Nothing!
+Dialogue: 0,0:16:06.63,0:16:07.89,Default,,0000,0000,0000,,师父 我下次不敢啦\N{\rEng}Master, l won't do it again!
+Dialogue: 0,0:16:09.20,0:16:10.32,Default,,0000,0000,0000,,还有下次\N{\rEng}l'll make sure you don't!
+Dialogue: 0,0:16:12.70,0:16:14.50,Default,,0000,0000,0000,,干什么呀你 走\N{\rEng}- Get off me! - Get out!
+Dialogue: 0,0:16:15.80,0:16:18.67,Default,,0000,0000,0000,,这里是武馆 不是妓院 快走\N{\rEng}This is a school, not a brothel. Get out!
+Dialogue: 0,0:16:18.97,0:16:20.84,Default,,0000,0000,0000,,走就走 又不是什么好地方\N{\rEng}Don't worry l'm not wasting any more time here
+Dialogue: 0,0:16:25.98,0:16:27.38,Default,,0000,0000,0000,,看什么 没见过女人呀\N{\rEng}What's up? Never seen a girl before?
+Dialogue: 0,0:16:32.75,0:16:33.95,Default,,0000,0000,0000,,把裤腰带给我\N{\rEng}Lung, give me your belt
+Dialogue: 0,0:16:47.27,0:16:48.24,Default,,0000,0000,0000,,威义堂\N{\rEng}Wai Yee School?
+Dialogue: 0,0:16:48.50,0:16:50.53,Default,,0000,0000,0000,,说 威义堂为什么给你钱\N{\rEng}Why did they give you this money?
+Dialogue: 0,0:16:50.77,0:16:51.80,Default,,0000,0000,0000,,为什么\N{\rEng}Tell me! Why?
+Dialogue: 0,0:16:52.07,0:16:53.37,Default,,0000,0000,0000,,我 说\N{\rEng}- Me... - Speak up!
+Dialogue: 0,0:16:54.38,0:16:58.47,Default,,0000,0000,0000,,说不说 快说\N{\rEng}What did you do for this?
+Dialogue: 0,0:17:00.68,0:17:03.24,Default,,0000,0000,0000,,拿来 拿来\N{\rEng}Tell me! Tell me!
+Dialogue: 0,0:17:07.92,0:17:09.12,Default,,0000,0000,0000,,阿强\N{\rEng}Jing Keung?
+Dialogue: 0,0:17:10.29,0:17:11.22,Default,,0000,0000,0000,,阿强\N{\rEng}Keung
+Dialogue: 0,0:17:15.33,0:17:16.82,Default,,0000,0000,0000,,威义堂为什么要给你钱\N{\rEng}Why did the Wai Yee School pay you?
+Dialogue: 0,0:17:17.20,0:17:18.72,Default,,0000,0000,0000,,你替他做过些什么\N{\rEng}What did you do for them?
+Dialogue: 0,0:17:19.90,0:17:22.89,Default,,0000,0000,0000,,他没跟你说我帮威义堂舞狮吗\N{\rEng}Didn't Lung tell you? l danced for Wai Yee School
+Dialogue: 0,0:17:23.17,0:17:25.50,Default,,0000,0000,0000,,我没说 大师兄 你们走开\N{\rEng}- l didn't say anything, l didn't! - Get out
+Dialogue: 0,0:17:27.04,0:17:28.03,Default,,0000,0000,0000,,你出去\N{\rEng}Get out!
+Dialogue: 0,0:17:29.38,0:17:29.81,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother..
+Dialogue: 0,0:17:30.01,0:17:33.34,Default,,0000,0000,0000,,出去 出去\N{\rEng}l said out! All of you!
+Dialogue: 0,0:17:35.62,0:17:36.58,Default,,0000,0000,0000,,师父\N{\rEng}Master..
+Dialogue: 0,0:17:37.42,0:17:39.39,Default,,0000,0000,0000,,你还有脸叫我师父\N{\rEng}How dare you call me your master?
+Dialogue: 0,0:17:39.72,0:17:42.25,Default,,0000,0000,0000,,你这个没出息吃里扒外的东西\N{\rEng}Don't you realize what you've done? You've betrayed the school!
+Dialogue: 0,0:17:42.49,0:17:46.29,Default,,0000,0000,0000,,你还记得你跟阿龙小时候无父无母\N{\rEng}Don't you remember when you were a young kid living on the streets?
+Dialogue: 0,0:17:46.56,0:17:48.26,Default,,0000,0000,0000,,在街边跟狗抢东西吃\N{\rEng}You and Lung, living among the filth and the rats
+Dialogue: 0,0:17:48.46,0:17:50.83,Default,,0000,0000,0000,,你一身肮脏衣服 破破烂烂\N{\rEng}without any clothes, with nothing to eat!
+Dialogue: 0,0:17:51.23,0:17:52.82,Default,,0000,0000,0000,,谁把你们带回来的\N{\rEng}And who was it that took you in?
+Dialogue: 0,0:17:54.07,0:17:58.00,Default,,0000,0000,0000,,这十几年来我辛辛苦苦把你们养大\N{\rEng}For 10 years l struggled to give you an education,
+Dialogue: 0,0:17:58.57,0:18:01.13,Default,,0000,0000,0000,,像我亲儿子 还供你们念书\N{\rEng}to bring you up like my own sons
+Dialogue: 0,0:18:01.48,0:18:03.14,Default,,0000,0000,0000,,我有没有收过你们一个钱\N{\rEng}l asked for nothing in return
+Dialogue: 0,0:18:03.58,0:18:05.84,Default,,0000,0000,0000,,你为什么要贪钱给别人舞狮\N{\rEng}And this is how you repay me?
+Dialogue: 0,0:18:06.68,0:18:08.11,Default,,0000,0000,0000,,你为什么要这样做\N{\rEng}Why did you do it?
+Dialogue: 0,0:18:08.68,0:18:10.31,Default,,0000,0000,0000,,阿龙又不长进\N{\rEng}Lung is a mediocre student
+Dialogue: 0,0:18:10.65,0:18:12.41,Default,,0000,0000,0000,,我这个武馆全靠你了\N{\rEng}You're the one we depend on!
+Dialogue: 0,0:18:13.39,0:18:15.29,Default,,0000,0000,0000,,你这样做是不是要气死我\N{\rEng}l don't understand how you could do it!
+Dialogue: 0,0:18:15.86,0:18:17.38,Default,,0000,0000,0000,,都说他不可靠\N{\rEng}l don't believe it, he's betrayed us!
+Dialogue: 0,0:18:17.59,0:18:18.89,Default,,0000,0000,0000,,师父早晚给气死了\N{\rEng}How could he do this to the master?
+Dialogue: 0,0:18:20.63,0:18:24.26,Default,,0000,0000,0000,,你说 你说\N{\rEng}Talk!
+Dialogue: 0,0:18:24.60,0:18:25.57,Default,,0000,0000,0000,,不用说了\N{\rEng}No, please!
+Dialogue: 0,0:18:26.47,0:18:30.30,Default,,0000,0000,0000,,你对我好 我对不起你 我走\N{\rEng}You were good to me, l know l did wrong! l'm leaving!
+Dialogue: 0,0:18:31.21,0:18:32.07,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother..
+Dialogue: 0,0:18:32.27,0:18:33.26,Default,,0000,0000,0000,,别拦着我\N{\rEng}Out of my way!
+Dialogue: 0,0:18:34.98,0:18:35.84,Default,,0000,0000,0000,,师父\N{\rEng}Master!
+Dialogue: 0,0:18:36.88,0:18:37.50,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother!
+Dialogue: 0,0:18:37.71,0:18:38.64,Default,,0000,0000,0000,,让他去\N{\rEng}Leave him!
+Dialogue: 0,0:18:41.05,0:18:42.71,Default,,0000,0000,0000,,你只管走 以后不要回来\N{\rEng}And don't you ever come back here you hear me?
+Dialogue: 0,0:18:44.39,0:18:48.91,Default,,0000,0000,0000,,大师兄\N{\rEng}Brother!...Brother!
+Dialogue: 0,0:18:50.02,0:18:54.19,Default,,0000,0000,0000,,听说大哥过两天就解上省府提审\N{\rEng}l've heard that Master Kim's gonna be put on trial in a couple of days
+Dialogue: 0,0:18:54.70,0:18:57.43,Default,,0000,0000,0000,,再不动手恐怕就没有机会了\N{\rEng}lf we don't do something they're gonna send him to prison
+Dialogue: 0,0:18:58.40,0:19:01.10,Default,,0000,0000,0000,,那么容易 你们才两个人\N{\rEng}What're you gonna do? Go and rescue him?
+Dialogue: 0,0:19:01.74,0:19:03.53,Default,,0000,0000,0000,,人手是否太单薄了一点\N{\rEng}You won't get far with just 2 of you
+Dialogue: 0,0:19:04.77,0:19:06.60,Default,,0000,0000,0000,,就我们两个还不够吗\N{\rEng}l'd say the two of us should be plenty
+Dialogue: 0,0:19:06.81,0:19:08.37,Default,,0000,0000,0000,,那些公差只知道要钱\N{\rEng}All those guards are overweight
+Dialogue: 0,0:19:08.58,0:19:09.77,Default,,0000,0000,0000,,也没有练功\N{\rEng}They never practise kung fu
+Dialogue: 0,0:19:09.98,0:19:12.45,Default,,0000,0000,0000,,说打呀 决不是我们的对手\N{\rEng}No sweat. They won't be a match for us!
+Dialogue: 0,0:19:14.22,0:19:16.05,Default,,0000,0000,0000,,那金少爷怎么会让人抓住\N{\rEng}ln that case how come Kim was caught?
+Dialogue: 0,0:19:16.25,0:19:19.08,Default,,0000,0000,0000,,那天他喝醉了才会那么倒霉\N{\rEng}He'd had a little too much to drink that day
+Dialogue: 0,0:19:19.82,0:19:22.72,Default,,0000,0000,0000,,不然十个五省捕头也对付不了他\N{\rEng}Otherwise it'd have taken 10 of them
+Dialogue: 0,0:19:23.42,0:19:26.69,Default,,0000,0000,0000,,话不是这么说 凡事要从长计议\N{\rEng}Maybe so. Still you'll have to plan it very carefully
+Dialogue: 0,0:19:29.20,0:19:31.10,Default,,0000,0000,0000,,舅舅 那么早就起来\N{\rEng}Morning! Uncle, you're up early
+Dialogue: 0,0:19:31.30,0:19:32.60,Default,,0000,0000,0000,,喝茶了没有\N{\rEng}Would you like some hot tea?
+Dialogue: 0,0:19:32.87,0:19:34.30,Default,,0000,0000,0000,,喝茶 还没有\N{\rEng}Not yet
+Dialogue: 0,0:19:34.60,0:19:35.66,Default,,0000,0000,0000,,一块儿去吧\N{\rEng}Let's go together
+Dialogue: 0,0:19:38.74,0:19:41.14,Default,,0000,0000,0000,,是你呀 想来学功夫呀\N{\rEng}lt's you. What do you want? You here for lessons?
+Dialogue: 0,0:19:42.71,0:19:44.11,Default,,0000,0000,0000,,我是来找舅舅的\N{\rEng}l come to see Uncle
+Dialogue: 0,0:19:44.41,0:19:47.51,Default,,0000,0000,0000,,找舅舅 舅舅 找您的\N{\rEng}Uncle! A visitor
+Dialogue: 0,0:19:50.05,0:19:52.52,Default,,0000,0000,0000,,你来这儿干什么\N{\rEng}Well? What are you doing here?
+Dialogue: 0,0:19:53.32,0:19:55.98,Default,,0000,0000,0000,,上次舞狮的钱我不是已经给你吗\N{\rEng}Don't tell me you want money l already paid you, didn't l?
+Dialogue: 0,0:19:56.76,0:19:58.19,Default,,0000,0000,0000,,你想预支点明年的钱\N{\rEng}Tell me what you want
+Dialogue: 0,0:19:58.53,0:19:59.82,Default,,0000,0000,0000,,不是 上次你不是说有个\N{\rEng}No, it's not the money
+Dialogue: 0,0:20:00.03,0:20:02.02,Default,,0000,0000,0000,,教头的空位留给我的吗\N{\rEng}it's the instructor's job you offered me
+Dialogue: 0,0:20:02.40,0:20:03.73,Default,,0000,0000,0000,,那是上个月的事\N{\rEng}But that was last month
+Dialogue: 0,0:20:03.93,0:20:06.30,Default,,0000,0000,0000,,现在我又多了两个师兄\N{\rEng}l've more instructors than l need right now
+Dialogue: 0,0:20:06.50,0:20:08.43,Default,,0000,0000,0000,,如果你那家武馆人手不够\N{\rEng}Maybe if your school is short handed at the moment
+Dialogue: 0,0:20:08.64,0:20:10.60,Default,,0000,0000,0000,,我还想请你关照关照我的人呢\N{\rEng}l could hire them to you
+Dialogue: 0,0:20:11.37,0:20:12.46,Default,,0000,0000,0000,,原来你是骗我\N{\rEng}But you gave your word!
+Dialogue: 0,0:20:13.01,0:20:14.27,Default,,0000,0000,0000,,舅舅 早\N{\rEng}Morning, Uncle!
+Dialogue: 0,0:20:15.28,0:20:17.51,Default,,0000,0000,0000,,你像什么 扣子也不扣好\N{\rEng}Look at the state of you. Fasten those buttons
+Dialogue: 0,0:20:18.48,0:20:19.95,Default,,0000,0000,0000,,舅舅 他来干什么\N{\rEng}Uncle, why's he here?
+Dialogue: 0,0:20:20.58,0:20:22.11,Default,,0000,0000,0000,,他想我们收留他\N{\rEng}He wants us to employ him
+Dialogue: 0,0:20:22.32,0:20:23.68,Default,,0000,0000,0000,,你以为大米便宜呀\N{\rEng}As if rice grew on trees!
+Dialogue: 0,0:20:27.42,0:20:28.89,Default,,0000,0000,0000,,上次你帮我们舞狮\N{\rEng}When you performed the lion dance
+Dialogue: 0,0:20:29.39,0:20:30.76,Default,,0000,0000,0000,,事先我也不知道\N{\rEng}l didn't know about all this
+Dialogue: 0,0:20:31.26,0:20:32.73,Default,,0000,0000,0000,,后来我也过意不去\N{\rEng}l felt bad afterwards
+Dialogue: 0,0:20:33.56,0:20:34.55,Default,,0000,0000,0000,,如果我再收留你\N{\rEng}Look, if we do take you in here
+Dialogue: 0,0:20:34.76,0:20:36.42,Default,,0000,0000,0000,,怕你师父会误会更深\N{\rEng}your master will get even madder
+Dialogue: 0,0:20:37.00,0:20:39.69,Default,,0000,0000,0000,,我想他也是为了这件事赶你出来的\N{\rEng}He found out and kicked you out, didn't he?
+Dialogue: 0,0:20:40.23,0:20:43.03,Default,,0000,0000,0000,,不如我跟你师父说几句好话 求求情\N{\rEng}Maybe l can put in a good word for you
+Dialogue: 0,0:20:43.24,0:20:44.03,Default,,0000,0000,0000,,让你再回去吧\N{\rEng}Maybe then he'll take you back
+Dialogue: 0,0:20:44.24,0:20:45.21,Default,,0000,0000,0000,,不用了\N{\rEng}Forget it
+Dialogue: 0,0:20:46.24,0:20:48.30,Default,,0000,0000,0000,,天下那么大 我不信没地方去\N{\rEng}The world is big, l'll find another place
+Dialogue: 0,0:20:53.35,0:20:54.37,Default,,0000,0000,0000,,等一等\N{\rEng}Wait up there!
+Dialogue: 0,0:20:55.72,0:20:58.62,Default,,0000,0000,0000,,怎么 又有什么好关照\N{\rEng}Well? What is it you want now?
+Dialogue: 0,0:21:03.42,0:21:05.42,Default,,0000,0000,0000,,我这次关照你走条财路\N{\rEng}l've an offer that you might find interesting
+Dialogue: 0,0:21:06.33,0:21:07.99,Default,,0000,0000,0000,,就看你敢不敢做\N{\rEng}and which could make you rich
+Dialogue: 0,0:21:08.80,0:21:11.13,Default,,0000,0000,0000,,现在我还有什么路可走 说吧\N{\rEng}Beggars can't be choosers, l guess. Go ahead
+Dialogue: 0,0:21:23.21,0:21:24.37,Default,,0000,0000,0000,,师父 里面没有位子了\N{\rEng}lt's full inside
+Dialogue: 0,0:21:24.58,0:21:25.64,Default,,0000,0000,0000,,先坐一下吧\N{\rEng}Please wait
+Dialogue: 0,0:21:29.25,0:21:30.58,Default,,0000,0000,0000,,让开一点\N{\rEng}Out of the way!
+Dialogue: 0,0:21:33.92,0:21:36.25,Default,,0000,0000,0000,,田师父 这么早 等位置呀\N{\rEng}Master Tien. Oh, dear! You're still waiting for a table?
+Dialogue: 0,0:21:36.72,0:21:38.19,Default,,0000,0000,0000,,阿标 给你留了位了\N{\rEng}Master, your table's ready
+Dialogue: 0,0:21:38.63,0:21:39.82,Default,,0000,0000,0000,,你们慢慢等吧\N{\rEng}Won't be long. Yes, l'm coming!
+Dialogue: 0,0:21:40.06,0:21:40.89,Default,,0000,0000,0000,,舅舅\N{\rEng}Uncle
+Dialogue: 0,0:21:41.10,0:21:42.36,Default,,0000,0000,0000,,那边有位子\N{\rEng}There's a table
+Dialogue: 0,0:21:44.73,0:21:46.32,Default,,0000,0000,0000,,田师父 早\N{\rEng}Master Tien, good morning
+Dialogue: 0,0:21:47.03,0:21:48.93,Default,,0000,0000,0000,,跟徒弟一块儿来喝茶\N{\rEng}Having breakfast with your student?
+Dialogue: 0,0:21:50.70,0:21:52.04,Default,,0000,0000,0000,,对不起\N{\rEng}Please excuse me
+Dialogue: 0,0:21:53.01,0:21:53.63,Default,,0000,0000,0000,,伙计 结帐\N{\rEng}Waiter, check please!
+Dialogue: 0,0:21:53.84,0:21:54.81,Default,,0000,0000,0000,,来 有位子了\N{\rEng}- Coming! - There's a table
+Dialogue: 0,0:21:55.01,0:21:56.20,Default,,0000,0000,0000,,走喇 对呀\N{\rEng}- You're leaving, sir? - Yes
+Dialogue: 0,0:21:56.84,0:21:58.11,Default,,0000,0000,0000,,三块六\N{\rEng}Check, $3.6!
+Dialogue: 0,0:22:02.18,0:22:04.84,Default,,0000,0000,0000,,谢谢谢谢\N{\rEng}Thank you...Thank you
+Dialogue: 0,0:22:12.63,0:22:15.56,Default,,0000,0000,0000,,阿标 说起昨天你舞那狮子头真棒\N{\rEng}Say, l must say that lion dance of yours was great
+Dialogue: 0,0:22:15.76,0:22:17.56,Default,,0000,0000,0000,,实在了不起 太好了\N{\rEng}l've not seen anything like it!
+Dialogue: 0,0:22:17.77,0:22:20.26,Default,,0000,0000,0000,,我不是吹牛\N{\rEng}What did l tell you? l wasn't lying
+Dialogue: 0,0:22:20.73,0:22:23.20,Default,,0000,0000,0000,,所以我舞狮你一定要看\N{\rEng}When l promise l deliver the goods
+Dialogue: 0,0:22:24.27,0:22:25.90,Default,,0000,0000,0000,,是我们大师兄帮你的\N{\rEng}lt was our big brother who helped you!
+Dialogue: 0,0:22:28.31,0:22:30.07,Default,,0000,0000,0000,,连饭都没得吃\N{\rEng}Your school's so pitiful
+Dialogue: 0,0:22:30.34,0:22:32.47,Default,,0000,0000,0000,,招牌要是有脚也走啦\N{\rEng}Your banner would run away if it could
+Dialogue: 0,0:22:32.88,0:22:35.28,Default,,0000,0000,0000,,你看我们顿顿大鱼大肉\N{\rEng}Look at us here.
+Dialogue: 0,0:22:35.55,0:22:38.14,Default,,0000,0000,0000,,赶他们 他们也不肯走呀\N{\rEng}We're fit and healthy fellas!
+Dialogue: 0,0:22:38.89,0:22:40.29,Default,,0000,0000,0000,,你看看你\N{\rEng}Whereas look at your pathetic students!
+Dialogue: 0,0:22:41.72,0:22:43.38,Default,,0000,0000,0000,,瘦得皮包骨头像个猴\N{\rEng}They're all bags of skin and bone. You're wasting away!
+Dialogue: 0,0:22:43.59,0:22:48.19,Default,,0000,0000,0000,,等我做做好事 请你吃个肉包子\N{\rEng}Why don't you have a nice pork bun on me?
+Dialogue: 0,0:22:50.30,0:22:53.06,Default,,0000,0000,0000,,看他这个样子就是饿坏了\N{\rEng}The poor boy must be starving to death
+Dialogue: 0,0:23:02.88,0:23:04.43,Default,,0000,0000,0000,,你胆子倒不小\N{\rEng}You're pretty brave, sonny!
+Dialogue: 0,0:23:04.75,0:23:05.58,Default,,0000,0000,0000,,揍他\N{\rEng}Beat him up!
+Dialogue: 0,0:23:06.48,0:23:14.41,Default,,0000,0000,0000,,穿抛挂哨插插插\N{\rEng}Straight, upper cut, right hook,
+Dialogue: 0,0:23:18.39,0:23:19.88,Default,,0000,0000,0000,,看看我的挂锤\N{\rEng}left hook, jab...
+Dialogue: 0,0:23:22.66,0:23:27.46,Default,,0000,0000,0000,,阿标 别玩了 你看师父生气啦\N{\rEng}Wait! Calm down. Don't do that You see you've annoyed Master Tien
+Dialogue: 0,0:23:28.10,0:23:30.87,Default,,0000,0000,0000,,人家好歹也是个师父呀\N{\rEng}He's a grand master, he deserves your respect
+Dialogue: 0,0:23:33.31,0:23:34.40,Default,,0000,0000,0000,,走\N{\rEng}Come on!
+Dialogue: 0,0:23:36.84,0:23:39.11,Default,,0000,0000,0000,,师父 你还没给钱啦\N{\rEng}But Master, you haven't paid yet!
+Dialogue: 0,0:23:39.71,0:23:40.84,Default,,0000,0000,0000,,我们没吃东西\N{\rEng}We didn't eat anything
+Dialogue: 0,0:23:41.18,0:23:42.71,Default,,0000,0000,0000,,喝茶也得给钱呀\N{\rEng}What about the cover charge?
+Dialogue: 0,0:23:43.82,0:23:46.72,Default,,0000,0000,0000,,谢谢师父 谢谢\N{\rEng}Thank you master, thank you
+Dialogue: 0,0:23:51.09,0:23:53.06,Default,,0000,0000,0000,,师父 师父\N{\rEng}Master..
+Dialogue: 0,0:23:54.46,0:23:56.09,Default,,0000,0000,0000,,怎么这么快就喝完茶啦\N{\rEng}What's up with master?
+Dialogue: 0,0:23:56.76,0:23:58.25,Default,,0000,0000,0000,,你怎么弄成这个样子\N{\rEng}What happened to your eye?
+Dialogue: 0,0:23:58.53,0:23:59.73,Default,,0000,0000,0000,,都是他\N{\rEng}All this is his fault
+Dialogue: 0,0:24:00.60,0:24:02.57,Default,,0000,0000,0000,,舞狮子已经输了给人家\N{\rEng}The stupid idiot lost the lion contest
+Dialogue: 0,0:24:02.80,0:24:04.67,Default,,0000,0000,0000,,还害得我让人家打成这样\N{\rEng}Now everybody thinks they can beat us up!
+Dialogue: 0,0:24:04.91,0:24:05.74,Default,,0000,0000,0000,,是谁呀\N{\rEng}Who did it?
+Dialogue: 0,0:24:08.38,0:24:10.50,Default,,0000,0000,0000,,功夫不够人打 就真羞死\N{\rEng}Tell me little birdie with your spindly legs
+Dialogue: 0,0:24:10.71,0:24:14.37,Default,,0000,0000,0000,,功夫不够人打 就真羞死\N{\rEng}how can you hope to take us down a peg?
+Dialogue: 0,0:24:15.98,0:24:17.42,Default,,0000,0000,0000,,我们过去给他们见识一下\N{\rEng}Let's show them some real kung fu!
+Dialogue: 0,0:24:18.09,0:24:19.25,Default,,0000,0000,0000,,我不过去了\N{\rEng}l don't think so
+Dialogue: 0,0:24:19.72,0:24:21.02,Default,,0000,0000,0000,,那你还不去\N{\rEng}Go on, show them!
+Dialogue: 0,0:24:21.66,0:24:22.95,Default,,0000,0000,0000,,一块过去\N{\rEng}Let's go get them!
+Dialogue: 0,0:24:23.29,0:24:24.26,Default,,0000,0000,0000,,回来\N{\rEng}Stop!
+Dialogue: 0,0:24:26.33,0:24:29.49,Default,,0000,0000,0000,,你们还没有把脸丢够 回去\N{\rEng}Haven't you all been shamed enough? Let's go!
+Dialogue: 0,0:24:32.37,0:24:33.49,Default,,0000,0000,0000,,你们怎么跟木头似的站在这儿干嘛\N{\rEng}Don't just stand there, you heard the master!
+Dialogue: 0,0:24:33.70,0:24:35.43,Default,,0000,0000,0000,,师父叫回去 快回去 走\N{\rEng}Let's go! Get a move on!
+Dialogue: 0,0:24:35.80,0:24:37.20,Default,,0000,0000,0000,,走啦 师弟\N{\rEng}Come on!
+Dialogue: 0,0:24:39.47,0:24:42.31,Default,,0000,0000,0000,,功夫没学好 尽在外面惹事生非\N{\rEng}You want to cause trouble, but you've no idea at all how to fight
+Dialogue: 0,0:24:43.21,0:24:44.77,Default,,0000,0000,0000,,我什么脸都给你们丢尽\N{\rEng}You've humiliated me once again!
+Dialogue: 0,0:24:45.78,0:24:47.91,Default,,0000,0000,0000,,是他们先惹我们的\N{\rEng}But it was the others, they started it
+Dialogue: 0,0:24:48.65,0:24:50.24,Default,,0000,0000,0000,,如果大师兄在 那我们就\N{\rEng}Without Big Brother, we couldn't...
+Dialogue: 0,0:24:50.45,0:24:53.72,Default,,0000,0000,0000,,多嘴 整天大师兄大师兄的\N{\rEng}Be quiet! All you know is 'Big Brother'!
+Dialogue: 0,0:24:54.05,0:24:57.29,Default,,0000,0000,0000,,难道我只教大师兄 没教你们吗\N{\rEng}l taught all you boys kung fu
+Dialogue: 0,0:25:02.03,0:25:03.86,Default,,0000,0000,0000,,你刚才打的是什么拳\N{\rEng}What kind of fighting did you call that?
+Dialogue: 0,0:25:04.20,0:25:07.36,Default,,0000,0000,0000,,再打给我看看 来\N{\rEng}Show me again!
+Dialogue: 0,0:25:09.30,0:25:10.27,Default,,0000,0000,0000,,打\N{\rEng}Go on!...
+Dialogue: 0,0:25:11.37,0:25:13.31,Default,,0000,0000,0000,,穿抛\N{\rEng}Jab...Hook
+Dialogue: 0,0:25:13.51,0:25:15.63,Default,,0000,0000,0000,,抛 还有什么\N{\rEng}Hook? And the rest?
+Dialogue: 0,0:25:15.91,0:25:16.47,Default,,0000,0000,0000,,挂\N{\rEng}Throw
+Dialogue: 0,0:25:16.68,0:25:20.67,Default,,0000,0000,0000,,挂挂我这样教你吗 还有什么\N{\rEng}Throw? Throw? Did l teach you that? Well, did l?
+Dialogue: 0,0:25:22.35,0:25:23.87,Default,,0000,0000,0000,,插 插\N{\rEng}Jab, jab
+Dialogue: 0,0:25:24.08,0:25:28.18,Default,,0000,0000,0000,,插 插你的头\N{\rEng}Useless! l've never seen anything so pitiful!
+Dialogue: 0,0:25:28.29,0:25:29.12,Default,,0000,0000,0000,,还有什么\N{\rEng}Go on! The rest!
+Dialogue: 0,0:25:29.39,0:25:30.38,Default,,0000,0000,0000,,包 包 包\N{\rEng}Hide!
+Dialogue: 0,0:25:30.59,0:25:33.36,Default,,0000,0000,0000,,包你的皮 你这个臭小子\N{\rEng}Hide? That's all you're good for!
+Dialogue: 0,0:25:33.56,0:25:38.26,Default,,0000,0000,0000,,没用的东西\N{\rEng}You're a disgrace! You're useless, pathetic! Good for nothing! ldiot!
+Dialogue: 0,0:25:44.54,0:25:45.97,Default,,0000,0000,0000,,我做了你们的师父\N{\rEng}Do you know what it's like to be your master?
+Dialogue: 0,0:25:46.17,0:25:47.57,Default,,0000,0000,0000,,真是倒八辈子的霉\N{\rEng}lt's a nightmare!
+Dialogue: 0,0:25:49.04,0:25:50.63,Default,,0000,0000,0000,,你们没一个是好东西\N{\rEng}You're all as useless as each other!
+Dialogue: 0,0:25:50.98,0:25:53.31,Default,,0000,0000,0000,,不是窝囊废就是吃里扒外\N{\rEng}You can't even fight and you're disloyal!
+Dialogue: 0,0:26:01.82,0:26:03.81,Default,,0000,0000,0000,,为了几个臭钱去替别人舞狮\N{\rEng}Performing the lion dance for our competitors
+Dialogue: 0,0:26:04.96,0:26:08.33,Default,,0000,0000,0000,,用我教你们的功夫来拆我的台\N{\rEng}lt's as if you'd used the kung fu l taught you against me!
+Dialogue: 0,0:26:09.03,0:26:10.50,Default,,0000,0000,0000,,弄得我们正风武馆\N{\rEng}And what about our reputation?
+Dialogue: 0,0:26:10.70,0:26:12.39,Default,,0000,0000,0000,,现在什么名誉都没有了\N{\rEng}We've been made a laughing stock!
+Dialogue: 0,0:26:13.63,0:26:15.47,Default,,0000,0000,0000,,连喝口茶都要受人家的气\N{\rEng}They were laughing at me at the tea house
+Dialogue: 0,0:26:16.84,0:26:18.67,Default,,0000,0000,0000,,你们还有什么丢脸的事没有做\N{\rEng}You've ruined 25 years of work!
+Dialogue: 0,0:26:19.34,0:26:20.33,Default,,0000,0000,0000,,还哭\N{\rEng}Shut up!
+Dialogue: 0,0:26:25.05,0:26:27.91,Default,,0000,0000,0000,,你看看你 你功夫怎么练的\N{\rEng}And you! Look at the state of you
+Dialogue: 0,0:26:28.22,0:26:29.74,Default,,0000,0000,0000,,胖得像个猪一样\N{\rEng}You couldn't fight to save your life!
+Dialogue: 0,0:26:30.12,0:26:32.24,Default,,0000,0000,0000,,还有你 最小是你\N{\rEng}And you too! Always hiding away!
+Dialogue: 0,0:26:32.65,0:26:35.25,Default,,0000,0000,0000,,最顽皮也是你 没打你你就哭\N{\rEng}Always whimpering too!
+Dialogue: 0,0:26:35.46,0:26:36.55,Default,,0000,0000,0000,,你哭什么\N{\rEng}l haven't touched you, what's the matter?
+Dialogue: 0,0:26:39.16,0:26:41.35,Default,,0000,0000,0000,,你看你 师父\N{\rEng}- Look at yourself - Master, l...
+Dialogue: 0,0:26:42.00,0:26:45.19,Default,,0000,0000,0000,,你的腰带怎么绑的 你说 你说\N{\rEng}What do you call this?
+Dialogue: 0,0:26:45.40,0:26:48.43,Default,,0000,0000,0000,,我教你这样绑的吗 你说 你说\N{\rEng}Did l teach you to tie your belt this way? Tell me!
+Dialogue: 0,0:26:50.74,0:26:51.90,Default,,0000,0000,0000,,真是气死我了\N{\rEng}You really piss me off!
+Dialogue: 0,0:26:52.91,0:26:56.17,Default,,0000,0000,0000,,你还要哭 不许哭 师父\N{\rEng}- Are you still crying? Just stop it! - Master! Master!
+Dialogue: 0,0:26:56.91,0:26:58.54,Default,,0000,0000,0000,,师父 你为什么要怪我们呢\N{\rEng}lt's not fair blaming us for this!
+Dialogue: 0,0:26:59.41,0:27:00.94,Default,,0000,0000,0000,,都是那野孩子不好\N{\rEng}lt's those orphan boy's fault!
+Dialogue: 0,0:27:01.88,0:27:03.01,Default,,0000,0000,0000,,他吃里扒外\N{\rEng}He sold us out!
+Dialogue: 0,0:27:04.05,0:27:04.95,Default,,0000,0000,0000,,关我们什么事\N{\rEng}Why don't you punish him?
+Dialogue: 0,0:27:05.15,0:27:06.21,Default,,0000,0000,0000,,不许吵\N{\rEng}Be quiet!
+Dialogue: 0,0:27:07.69,0:27:13.56,Default,,0000,0000,0000,,还在顶嘴 顶嘴 顶嘴\N{\rEng}Don't you dare answer me back!
+Dialogue: 0,0:27:13.79,0:27:14.56,Default,,0000,0000,0000,,够了\N{\rEng}That's enough!
+Dialogue: 0,0:27:15.80,0:27:17.42,Default,,0000,0000,0000,,为了那个金狮\N{\rEng}Because we lost the contest
+Dialogue: 0,0:27:17.80,0:27:19.20,Default,,0000,0000,0000,,你赶走了大师兄\N{\rEng}you chased away Brother Jing
+Dialogue: 0,0:27:19.73,0:27:21.29,Default,,0000,0000,0000,,现在又打他们出气\N{\rEng}Now you're taking it out on us
+Dialogue: 0,0:27:21.97,0:27:23.70,Default,,0000,0000,0000,,你把自已的徒弟当成什么呢\N{\rEng}What have we done to deserve it?
+Dialogue: 0,0:27:24.57,0:27:27.51,Default,,0000,0000,0000,,不错 我和大师兄是孤儿\N{\rEng}lt's true, the two of us are orphan boys
+Dialogue: 0,0:27:27.71,0:27:29.37,Default,,0000,0000,0000,,吃你的 住你的\N{\rEng}You house us, feed us
+Dialogue: 0,0:27:29.81,0:27:33.34,Default,,0000,0000,0000,,又没有缴学费 还这么没出息\N{\rEng}We don't pay the fees here
+Dialogue: 0,0:27:33.85,0:27:36.18,Default,,0000,0000,0000,,你要打就打我吧\N{\rEng}lf we've let you down then go ahead, beat me!
+Dialogue: 0,0:27:36.58,0:27:38.21,Default,,0000,0000,0000,,我的肉厚一点\N{\rEng}Don't take it out on the rest
+Dialogue: 0,0:27:42.86,0:27:44.79,Default,,0000,0000,0000,,我知道师父你最恨我\N{\rEng}You see you dislike me the most
+Dialogue: 0,0:27:45.09,0:27:46.56,Default,,0000,0000,0000,,连打我也省了\N{\rEng}You won't even hit me
+Dialogue: 0,0:27:47.63,0:27:49.15,Default,,0000,0000,0000,,要是今天你不打我\N{\rEng}But you'll only have one chance
+Dialogue: 0,0:27:49.43,0:27:51.09,Default,,0000,0000,0000,,以后就没有机会了\N{\rEng}l won't give you another one
+Dialogue: 0,0:27:52.53,0:27:56.06,Default,,0000,0000,0000,,我知道要不是师父你收留我们\N{\rEng}l admit if you hadn't taken us in back then
+Dialogue: 0,0:27:56.77,0:27:59.40,Default,,0000,0000,0000,,我跟大师兄早就饿死了\N{\rEng}Brother Jing and l would be dead by now
+Dialogue: 0,0:28:00.44,0:28:02.10,Default,,0000,0000,0000,,我就不会丢你的脸\N{\rEng}And this wouldn't have happened
+Dialogue: 0,0:28:02.68,0:28:04.77,Default,,0000,0000,0000,,大师兄也不会去帮人家舞狮\N{\rEng}Jing wouldn't have betrayed you master
+Dialogue: 0,0:28:06.45,0:28:08.61,Default,,0000,0000,0000,,更不会被人看不起\N{\rEng}and the others wouldn't all hate us
+Dialogue: 0,0:28:09.32,0:28:10.94,Default,,0000,0000,0000,,管我们叫野孩子\N{\rEng}because we were orphans
+Dialogue: 0,0:28:13.19,0:28:15.71,Default,,0000,0000,0000,,我现在明白大师兄为什么要走\N{\rEng}But maybe it was better for Brother Jing to leave the school
+Dialogue: 0,0:28:17.72,0:28:19.35,Default,,0000,0000,0000,,一个人怎么能够在一个没有人\N{\rEng}Because it saved him from being humiliated
+Dialogue: 0,0:28:19.56,0:28:21.55,Default,,0000,0000,0000,,看得起的地方生活下去呢\N{\rEng}like this in front of everyone!
+Dialogue: 0,0:28:22.90,0:28:26.86,Default,,0000,0000,0000,,师父 大师兄走得太匆忙\N{\rEng}Master, Brother Jing's not here anymore
+Dialogue: 0,0:28:27.57,0:28:29.06,Default,,0000,0000,0000,,没时间跟你说\N{\rEng}so l'll speak for him, too
+Dialogue: 0,0:28:29.84,0:28:32.00,Default,,0000,0000,0000,,我现在替他跟你说了吧\N{\rEng}l know he'd agree with what l'm going to say
+Dialogue: 0,0:28:32.94,0:28:36.31,Default,,0000,0000,0000,,多谢师父你二十几年来的栽培\N{\rEng}Thank you for having raised us like your own sons for all these years
+Dialogue: 0,0:28:42.12,0:28:42.67,Default,,0000,0000,0000,,我走啦\N{\rEng}l'll go now
+Dialogue: 0,0:28:42.88,0:28:43.87,Default,,0000,0000,0000,,到那儿去\N{\rEng}Hold it!
+Dialogue: 0,0:28:46.49,0:28:48.28,Default,,0000,0000,0000,,如果大师兄没有饿死的话\N{\rEng}lf Brother Jing is still alive
+Dialogue: 0,0:28:48.62,0:28:49.85,Default,,0000,0000,0000,,我也会有地方去的\N{\rEng}we'll find a place to go
+Dialogue: 0,0:28:50.06,0:28:51.02,Default,,0000,0000,0000,,站住\N{\rEng}Stay there!
+Dialogue: 0,0:28:56.90,0:28:58.23,Default,,0000,0000,0000,,好 你走\N{\rEng}Go if you want to
+Dialogue: 0,0:29:02.40,0:29:04.10,Default,,0000,0000,0000,,回来的时候把大师兄带回来\N{\rEng}But bring your brother back with you
+Dialogue: 0,0:29:04.64,0:29:07.20,Default,,0000,0000,0000,,我们威义堂何时成了难民收容所\N{\rEng}This school's becoming more of a refugee camp every day
+Dialogue: 0,0:29:08.01,0:29:09.84,Default,,0000,0000,0000,,会有那么多难民来投靠\N{\rEng}How many more are we going to take in?
+Dialogue: 0,0:29:11.21,0:29:12.47,Default,,0000,0000,0000,,用不着这样嘛\N{\rEng}What's your problem?
+Dialogue: 0,0:29:12.68,0:29:14.11,Default,,0000,0000,0000,,大家都是吃武馆饭的\N{\rEng}l haven't asked you for anything, have l?
+Dialogue: 0,0:29:14.31,0:29:17.77,Default,,0000,0000,0000,,我们威义堂顿顿大鱼大肉\N{\rEng}We're the best school, they're hammering on the door to get in!
+Dialogue: 0,0:29:17.98,0:29:20.65,Default,,0000,0000,0000,,你们呢 一块腐乳还得吃三顿\N{\rEng}You pal, you're not up to our standard
+Dialogue: 0,0:29:20.85,0:29:23.29,Default,,0000,0000,0000,,什么叫吃武馆饭的 谁认识你\N{\rEng}What right do you have to be here? You're a nobody!
+Dialogue: 0,0:29:25.39,0:29:27.29,Default,,0000,0000,0000,,标哥 别叫得那么好听\N{\rEng}- Brother, l.. - Did l say we were brothers?
+Dialogue: 0,0:29:27.99,0:29:29.12,Default,,0000,0000,0000,,我今天来的目的是\N{\rEng}Look, l just came here to...
+Dialogue: 0,0:29:29.33,0:29:30.35,Default,,0000,0000,0000,,别说了\N{\rEng}That's enough!
+Dialogue: 0,0:29:30.76,0:29:32.46,Default,,0000,0000,0000,,好不容易就要带那两家伙走啦\N{\rEng}l just got rid of one competitor
+Dialogue: 0,0:29:32.67,0:29:33.79,Default,,0000,0000,0000,,现在我说了算啦\N{\rEng}l'm top dog here
+Dialogue: 0,0:29:34.00,0:29:35.59,Default,,0000,0000,0000,,别在这儿碍手碍脚的\N{\rEng}l don't want you walking on my toes!
+Dialogue: 0,0:29:35.80,0:29:36.79,Default,,0000,0000,0000,,我只不过 走\N{\rEng}- Look, l only... - Get lost!
+Dialogue: 0,0:29:41.27,0:29:43.27,Default,,0000,0000,0000,,野孩子 快滚\N{\rEng}Go to hell, orphan boy!
+Dialogue: 0,0:29:46.21,0:29:47.84,Default,,0000,0000,0000,,用不着出口伤人嘛\N{\rEng}l don't like people calling me that
+Dialogue: 0,0:29:48.05,0:29:49.35,Default,,0000,0000,0000,,出口伤人\N{\rEng}And l don't care what you like
+Dialogue: 0,0:29:50.32,0:29:52.25,Default,,0000,0000,0000,,你再不走我还要出手打人\N{\rEng}Maybe l should explain it to you
+Dialogue: 0,0:29:54.25,0:29:56.22,Default,,0000,0000,0000,,阿标 你没事吧\N{\rEng}Brother! Are you hurt?
+Dialogue: 0,0:29:56.42,0:29:57.52,Default,,0000,0000,0000,,没事\N{\rEng}No, l'm alright
+Dialogue: 0,0:30:00.46,0:30:02.33,Default,,0000,0000,0000,,这么大个子站都站不稳\N{\rEng}You're not very stable for a fat man, are you?
+Dialogue: 0,0:30:02.90,0:30:04.39,Default,,0000,0000,0000,,一定是你师父叫你扎马的时候\N{\rEng}l bet you used to play hooky instead of
+Dialogue: 0,0:30:04.60,0:30:05.96,Default,,0000,0000,0000,,跑去睡懒觉的嘛\N{\rEng}practising your kung fu
+Dialogue: 0,0:30:07.97,0:30:09.20,Default,,0000,0000,0000,,去叫馆主\N{\rEng}Get the owner!
+Dialogue: 0,0:30:09.54,0:30:10.13,Default,,0000,0000,0000,,你真的没事\N{\rEng}Sure you're alright?
+Dialogue: 0,0:30:10.34,0:30:12.90,Default,,0000,0000,0000,,没事没事 你就说有人来踢馆\N{\rEng}Of course, don't worry. Tell him we got trouble!
+Dialogue: 0,0:31:10.90,0:31:11.73,Default,,0000,0000,0000,,躺下\N{\rEng}Good night!
+Dialogue: 0,0:31:14.57,0:31:16.90,Default,,0000,0000,0000,,这么胖起不了来吧\N{\rEng}Fatty, l thought you'd bounce back up!
+Dialogue: 0,0:31:46.37,0:31:48.39,Default,,0000,0000,0000,,别打 别打 别打他了\N{\rEng}Stop it! Stop fighting!
+Dialogue: 0,0:31:48.77,0:31:49.79,Default,,0000,0000,0000,,算你运气好\N{\rEng}l'll let you off this time!
+Dialogue: 0,0:31:52.97,0:31:54.87,Default,,0000,0000,0000,,阿标 别再打他了\N{\rEng}Brother, stop it. No more fighting!
+Dialogue: 0,0:31:55.41,0:31:56.88,Default,,0000,0000,0000,,一直都是他在打我\N{\rEng}He's the one beating me up, master
+Dialogue: 0,0:31:57.08,0:31:58.57,Default,,0000,0000,0000,,你叫他不要打我才对\N{\rEng}Tell him to stop fighting!
+Dialogue: 0,0:31:59.75,0:32:00.77,Default,,0000,0000,0000,,你到这儿来是\N{\rEng}What do you want here?
+Dialogue: 0,0:32:01.05,0:32:03.52,Default,,0000,0000,0000,,我来是看看我大师兄来过了没有\N{\rEng}No sir, l'm here looking for Brother Jing
+Dialogue: 0,0:32:04.05,0:32:06.04,Default,,0000,0000,0000,,他来过 他还让我收留他\N{\rEng}He came here looking for ajob
+Dialogue: 0,0:32:06.32,0:32:07.31,Default,,0000,0000,0000,,可是我没有这样做\N{\rEng}But l couldn't take him
+Dialogue: 0,0:32:08.15,0:32:10.78,Default,,0000,0000,0000,,我还以为你来这儿抢我饭碗呢\N{\rEng}l thought you were looking for trouble, and that you wanted my job!
+Dialogue: 0,0:32:17.70,0:32:19.39,Default,,0000,0000,0000,,馆主 打搅了\N{\rEng}Well, too bad. Thanks a lot
+Dialogue: 0,0:32:19.80,0:32:21.13,Default,,0000,0000,0000,,标哥 对不起呀\N{\rEng}Brother, l'm sorry
+Dialogue: 0,0:32:27.81,0:32:29.54,Default,,0000,0000,0000,,好了 没事啦 回去吧\N{\rEng}Alright, that's enough. Back to work
+Dialogue: 0,0:32:45.39,0:32:46.29,Default,,0000,0000,0000,,停\N{\rEng}Halt!
+Dialogue: 0,0:32:50.73,0:32:51.70,Default,,0000,0000,0000,,休息一会吧\N{\rEng}Here, drink some water. Come on, guys!
+Dialogue: 0,0:33:04.58,0:33:05.37,Default,,0000,0000,0000,,起程\N{\rEng}Let's go!
+Dialogue: 0,0:33:14.09,0:33:15.08,Default,,0000,0000,0000,,来了\N{\rEng}Look, they're here!
+Dialogue: 0,0:33:20.19,0:33:21.16,Default,,0000,0000,0000,,停\N{\rEng}Halt!
+Dialogue: 0,0:33:31.24,0:33:32.03,Default,,0000,0000,0000,,上\N{\rEng}Weapons!
+Dialogue: 0,0:33:40.98,0:33:41.95,Default,,0000,0000,0000,,我要他\N{\rEng}Let him go!
+Dialogue: 0,0:35:23.68,0:35:24.51,Default,,0000,0000,0000,,上\N{\rEng}Get him!
+Dialogue: 0,0:36:24.72,0:36:25.69,Default,,0000,0000,0000,,大哥\N{\rEng}Master! Great to see you!
+Dialogue: 0,0:36:27.99,0:36:29.96,Default,,0000,0000,0000,,大哥 你好吗\N{\rEng}Master, are you alright?
+Dialogue: 0,0:36:30.42,0:36:31.15,Default,,0000,0000,0000,,他是谁\N{\rEng}Who's he?
+Dialogue: 0,0:36:31.36,0:36:33.73,Default,,0000,0000,0000,,大哥 他是自已人呀\N{\rEng}He's with us, master
+Dialogue: 0,0:36:36.00,0:36:36.93,Default,,0000,0000,0000,,走\N{\rEng}Let's go!
+Dialogue: 0,0:36:47.58,0:36:49.41,Default,,0000,0000,0000,,快点回去报告 说囚车被人劫了\N{\rEng}Go quickly! Tell them he escaped!
+Dialogue: 0,0:36:49.71,0:36:50.90,Default,,0000,0000,0000,,说被什么人劫了\N{\rEng}Who shall l say attacked us?
+Dialogue: 0,0:36:51.61,0:36:53.08,Default,,0000,0000,0000,,那个拿白扇子劫的\N{\rEng}A man with a white fan
+Dialogue: 0,0:36:57.49,0:36:58.25,Default,,0000,0000,0000,,多谢\N{\rEng}Thanks.
+Dialogue: 0,0:36:59.25,0:37:00.19,Default,,0000,0000,0000,,随便看看\N{\rEng}Take a look, sir
+Dialogue: 0,0:37:00.79,0:37:03.26,Default,,0000,0000,0000,,朋友 你见过拿这样扇子的人吗\N{\rEng}Tell me, have you seen a man carrying a white fan like this?
+Dialogue: 0,0:37:03.66,0:37:05.18,Default,,0000,0000,0000,,拿钱来买东西的人就见过\N{\rEng}l don't have time to look at people unless they have money
+Dialogue: 0,0:37:05.43,0:37:08.88,Default,,0000,0000,0000,,刚开市你就来搅惑 快给我滚 滚\N{\rEng}Now stop wasting my time. Move!
+Dialogue: 0,0:37:09.86,0:37:10.73,Default,,0000,0000,0000,,还不走\N{\rEng}Hurry up!
+Dialogue: 0,0:37:11.10,0:37:12.53,Default,,0000,0000,0000,,随便看看\N{\rEng}Good morning, sir!
+Dialogue: 0,0:37:17.51,0:37:18.94,Default,,0000,0000,0000,,那不是拿白扇子的吗\N{\rEng}lt's the man with the white fan!
+Dialogue: 0,0:37:19.44,0:37:20.34,Default,,0000,0000,0000,,我看不像\N{\rEng}l don't think so
+Dialogue: 0,0:37:20.54,0:37:21.44,Default,,0000,0000,0000,,看清楚点\N{\rEng}l'm sure he's the one
+Dialogue: 0,0:37:24.45,0:37:25.61,Default,,0000,0000,0000,,像不像啊\N{\rEng}There! You see that?
+Dialogue: 0,0:37:25.85,0:37:26.94,Default,,0000,0000,0000,,还是不像\N{\rEng}lt doesn't look like him
+Dialogue: 0,0:37:27.42,0:37:30.35,Default,,0000,0000,0000,,所以说 官府画的图 何时画得像贼\N{\rEng}You know these sketches are never accurate
+Dialogue: 0,0:37:30.69,0:37:31.85,Default,,0000,0000,0000,,有花红呀\N{\rEng}There's a big reward, you know
+Dialogue: 0,0:37:32.39,0:37:33.38,Default,,0000,0000,0000,,有花红\N{\rEng}A reward?
+Dialogue: 0,0:37:33.79,0:37:35.09,Default,,0000,0000,0000,,这单生意可以做\N{\rEng}ln that case it's definitely the one!
+Dialogue: 0,0:37:35.29,0:37:36.81,Default,,0000,0000,0000,,你去叫兄弟们来\N{\rEng}You get reinforcements, right?
+Dialogue: 0,0:37:37.02,0:37:39.02,Default,,0000,0000,0000,,我去跟着他 快点\N{\rEng}And l'll follow him. Hurry up!
+Dialogue: 0,0:38:11.63,0:38:13.68,Default,,0000,0000,0000,,他在里面 你们跟着来\N{\rEng}He's in the temple. Follow me!
+Dialogue: 0,0:38:18.77,0:38:20.23,Default,,0000,0000,0000,,怎么不见了 是呀\N{\rEng}- What the...? - Where did he go?
+Dialogue: 0,0:38:20.97,0:38:23.10,Default,,0000,0000,0000,,明明在这儿拜神的嘛 到那儿去了\N{\rEng}He was in front of the altar. Where'd he go?
+Dialogue: 0,0:38:23.40,0:38:25.30,Default,,0000,0000,0000,,阿弥陀佛\N{\rEng}Buddha bless you
+Dialogue: 0,0:38:30.34,0:38:31.81,Default,,0000,0000,0000,,你们是来找我的吗\N{\rEng}Can l help you gentlemen?
+Dialogue: 0,0:38:39.02,0:38:42.51,Default,,0000,0000,0000,,五位公差大人 有什么不对吗\N{\rEng}Five constables all together. There must be a problem
+Dialogue: 0,0:38:43.26,0:38:46.35,Default,,0000,0000,0000,,白扇子 你死到临头还要多嘴\N{\rEng}Mr white fan, the game's up
+Dialogue: 0,0:38:46.69,0:38:47.79,Default,,0000,0000,0000,,快点跟我回去\N{\rEng}You're coming back with me. You're under arrest!
+Dialogue: 0,0:38:48.70,0:38:51.10,Default,,0000,0000,0000,,别急公差大人 我没有犯法\N{\rEng}l've done nothing wrong!
+Dialogue: 0,0:38:51.30,0:38:52.46,Default,,0000,0000,0000,,你们找错人了吧\N{\rEng}You made a mistake, you have the wrong man
+Dialogue: 0,0:38:53.20,0:38:54.57,Default,,0000,0000,0000,,我的眼睛还会看错\N{\rEng}l never make any mistake
+Dialogue: 0,0:38:54.94,0:38:58.00,Default,,0000,0000,0000,,难道劫囚车的那个人是你兄弟\N{\rEng}Unless the fugitive we're chasing after is your double!
+Dialogue: 0,0:38:58.21,0:38:59.04,Default,,0000,0000,0000,,给我锁\N{\rEng}Lock him up!
+Dialogue: 0,0:39:01.04,0:39:01.91,Default,,0000,0000,0000,,上呀\N{\rEng}Get him!
+Dialogue: 0,0:39:03.04,0:39:03.84,Default,,0000,0000,0000,,把刀给我\N{\rEng}Give me your sword!
+Dialogue: 0,0:39:11.75,0:39:12.74,Default,,0000,0000,0000,,你没事吧\N{\rEng}You alright?
+Dialogue: 0,0:39:12.99,0:39:14.32,Default,,0000,0000,0000,,没事 把刀给我\N{\rEng}l'm alright. Give me a sword!
+Dialogue: 0,0:39:21.20,0:39:21.96,Default,,0000,0000,0000,,谢谢\N{\rEng}Thank you.
+Dialogue: 0,0:39:37.04,0:39:38.48,Default,,0000,0000,0000,,连菩萨的脑袋你都敢砍\N{\rEng}You chopped off Buddha's head!
+Dialogue: 0,0:39:38.91,0:39:40.01,Default,,0000,0000,0000,,对不起 对不起\N{\rEng}Sorry, sorry... Out of the way!
+Dialogue: 0,0:39:40.21,0:39:42.44,Default,,0000,0000,0000,,我们是不信神的\N{\rEng}You don't fool me! l don't believe in god!
+Dialogue: 0,0:39:44.55,0:39:45.61,Default,,0000,0000,0000,,砍他\N{\rEng}Get him!
+Dialogue: 0,0:39:52.89,0:39:55.59,Default,,0000,0000,0000,,反正你不信神 我就一刀送你上天堂\N{\rEng}l guess if you don't believe in god you won't be going to heaven!
+Dialogue: 0,0:39:56.80,0:39:59.29,Default,,0000,0000,0000,,害怕啦 只是砍到你的手铐\N{\rEng}You were lucky. You were saved by your handcuffs!
+Dialogue: 0,0:39:59.50,0:40:00.30,Default,,0000,0000,0000,,对啊\N{\rEng}Really?
+Dialogue: 0,0:40:01.07,0:40:03.23,Default,,0000,0000,0000,,以前是不信 现在信极了\N{\rEng}l think l changed my mind. l do believe in god now
+Dialogue: 0,0:40:03.44,0:40:05.56,Default,,0000,0000,0000,,信了 还不快去还神\N{\rEng}lf you believe you better go pray
+Dialogue: 0,0:40:07.44,0:40:08.24,Default,,0000,0000,0000,,把刀给我\N{\rEng}Give me your sword!
+Dialogue: 0,0:40:08.64,0:40:09.44,Default,,0000,0000,0000,,你还过来\N{\rEng}Still want to fight?
+Dialogue: 0,0:40:12.95,0:40:14.41,Default,,0000,0000,0000,,十字架你怕不怕\N{\rEng}Aren't you afraid of the cross?
+Dialogue: 0,0:40:17.05,0:40:17.81,Default,,0000,0000,0000,,你没事吧\N{\rEng}Brother, are you alright?
+Dialogue: 0,0:40:18.02,0:40:19.45,Default,,0000,0000,0000,,没事 上\N{\rEng}Of course l am, get him!
+Dialogue: 0,0:40:22.39,0:40:23.91,Default,,0000,0000,0000,,你想走呀\N{\rEng}Brother, are you leaving?
+Dialogue: 0,0:40:24.13,0:40:25.18,Default,,0000,0000,0000,,不是 拿刀给我\N{\rEng}No way, give me a sword!
+Dialogue: 0,0:40:25.39,0:40:26.45,Default,,0000,0000,0000,,都让你拿光了\N{\rEng}We don't have any swords left!
+Dialogue: 0,0:40:27.73,0:40:29.32,Default,,0000,0000,0000,,这下可糟啦 你先盯住\N{\rEng}Things don't look good. You stay here,
+Dialogue: 0,0:40:29.53,0:40:30.39,Default,,0000,0000,0000,,我去找三公\N{\rEng}l'll find Sam Kung
+Dialogue: 0,0:40:30.80,0:40:32.32,Default,,0000,0000,0000,,你那么辛苦 还是我去\N{\rEng}Wait a minute! l'll find Sam Kung, it's no trouble
+Dialogue: 0,0:40:33.90,0:40:35.49,Default,,0000,0000,0000,,你去衙门 我去三公家\N{\rEng}Wait a minute! You find him, l'll help you
+Dialogue: 0,0:40:46.91,0:40:49.91,Default,,0000,0000,0000,,三公 开门呀 三公 开门呀\N{\rEng}Sam Kung! Open up! Sam Kung! Open up!
+Dialogue: 0,0:40:51.55,0:40:53.32,Default,,0000,0000,0000,,四哥 三公在不在家\N{\rEng}Hello, is Sam Kung here?
+Dialogue: 0,0:40:55.59,0:40:57.02,Default,,0000,0000,0000,,四哥\N{\rEng}Hey, brother! Hey!
+Dialogue: 0,0:40:57.89,0:41:00.38,Default,,0000,0000,0000,,你怎么了 叫你那么多声都不理人家\N{\rEng}What's the matter? Have you gone deaf? Why don't you answer him?
+Dialogue: 0,0:41:01.10,0:41:02.82,Default,,0000,0000,0000,,斗鸡眼 什么事\N{\rEng}What's the matter? What do you want?
+Dialogue: 0,0:41:03.03,0:41:04.86,Default,,0000,0000,0000,,秀姐 今天我跟一班兄弟\N{\rEng}Sister, my colleagues and l, we caught the man
+Dialogue: 0,0:41:05.07,0:41:07.26,Default,,0000,0000,0000,,在破庙里抓到白扇子了\N{\rEng}the man with the white fan!
+Dialogue: 0,0:41:08.64,0:41:10.19,Default,,0000,0000,0000,,你抓到了白扇子\N{\rEng}You caught the man with the white fan?
+Dialogue: 0,0:41:10.47,0:41:12.34,Default,,0000,0000,0000,,是呀 所以我现在\N{\rEng}That's right. So l came for Sam Kung
+Dialogue: 0,0:41:12.54,0:41:14.17,Default,,0000,0000,0000,,请三公去跟他录口供呀\N{\rEng}So he can interrogate the man
+Dialogue: 0,0:41:14.44,0:41:16.50,Default,,0000,0000,0000,,我爸爸今天一早到衙门捕房去了\N{\rEng}My father left for the police post early this morning
+Dialogue: 0,0:41:16.71,0:41:19.11,Default,,0000,0000,0000,,三公不在呀那怎么办\N{\rEng}You mean he's not here?
+Dialogue: 0,0:41:20.21,0:41:22.65,Default,,0000,0000,0000,,谁去给他去录口供呀\N{\rEng}ln that case who's going to interrogate him?
+Dialogue: 0,0:41:23.08,0:41:24.31,Default,,0000,0000,0000,,录口供是吧\N{\rEng}You don't need him for that
+Dialogue: 0,0:41:24.55,0:41:25.88,Default,,0000,0000,0000,,既然你已经把他抓到了\N{\rEng}lf you really have him prisoner,
+Dialogue: 0,0:41:26.09,0:41:27.61,Default,,0000,0000,0000,,送到衙门不就得啦\N{\rEng}you can interrogate him yourselves
+Dialogue: 0,0:41:28.79,0:41:30.35,Default,,0000,0000,0000,,可是我请不动他呀\N{\rEng}We haven't quite caught him yet
+Dialogue: 0,0:41:32.49,0:41:34.39,Default,,0000,0000,0000,,我来帮你去请他吧\N{\rEng}l suppose you'll be needing help again!
+Dialogue: 0,0:41:34.86,0:41:37.02,Default,,0000,0000,0000,,你到那儿去呀 又想去打架\N{\rEng}Where are you going? Picking fights again?
+Dialogue: 0,0:41:37.30,0:41:39.13,Default,,0000,0000,0000,,人家戏都散场了 你去干什么\N{\rEng}They didn't say anything about needing help!
+Dialogue: 0,0:41:40.63,0:41:43.69,Default,,0000,0000,0000,,我去了跟着演续集 走吧\N{\rEng}l'm only doing my civic duty. Let's go!
+Dialogue: 0,0:41:45.24,0:41:46.57,Default,,0000,0000,0000,,小心让爸爸知道\N{\rEng}lf father finds out...!
+Dialogue: 0,0:41:47.51,0:41:49.41,Default,,0000,0000,0000,,你不说他怎么会知道\N{\rEng}lf he does l'll know who told him!
+Dialogue: 0,0:42:16.34,0:42:18.17,Default,,0000,0000,0000,,四哥 那个人就在那边\N{\rEng}Brother! That's the man there!
+Dialogue: 0,0:42:18.37,0:42:19.27,Default,,0000,0000,0000,,去呀\N{\rEng}Go on then!
+Dialogue: 0,0:42:19.71,0:42:22.73,Default,,0000,0000,0000,,他见了我就不高兴 还是你去吧\N{\rEng}Yes but we don't see eye to eye. Would you go for me?
+Dialogue: 0,0:42:28.98,0:42:29.81,Default,,0000,0000,0000,,对不起\N{\rEng}Excuse me
+Dialogue: 0,0:42:37.89,0:42:40.19,Default,,0000,0000,0000,,你这个人怎么犯蹩扭 让你先走\N{\rEng}Look l don't want trouble so you just go ahead
+Dialogue: 0,0:42:46.93,0:42:49.40,Default,,0000,0000,0000,,你想抢我东西\N{\rEng}Are you trying to steal my money?
+Dialogue: 0,0:42:49.94,0:42:51.43,Default,,0000,0000,0000,,别欺负我是外地来的呀\N{\rEng}l'm not an easy target you know!
+Dialogue: 0,0:42:52.31,0:42:54.37,Default,,0000,0000,0000,,好小子 给点厉害你瞧瞧\N{\rEng}Alright let's see how good you are!
+Dialogue: 0,0:43:00.05,0:43:01.31,Default,,0000,0000,0000,,想抢我的东西\N{\rEng}You're gonna have to do better
+Dialogue: 0,0:43:08.86,0:43:10.22,Default,,0000,0000,0000,,可没那么容易\N{\rEng}l told you it wouldn't be easy!
+Dialogue: 0,0:43:16.23,0:43:17.06,Default,,0000,0000,0000,,你到底是什么人\N{\rEng}Who the hell are you?
+Dialogue: 0,0:43:24.17,0:43:25.40,Default,,0000,0000,0000,,没空跟你玩\N{\rEng}l don't have time for this
+Dialogue: 0,0:43:28.28,0:43:30.84,Default,,0000,0000,0000,,四哥 想不到你的马步扎得那么好\N{\rEng}Brother, you were really great! That stance of yours, legs part
+Dialogue: 0,0:43:31.05,0:43:33.64,Default,,0000,0000,0000,,手够劲 马四平 双眼似铜铃\N{\rEng}with perfect balance, eyes on your opponent
+Dialogue: 0,0:43:34.11,0:43:35.95,Default,,0000,0000,0000,,这两百块花红咱们拿定了\N{\rEng}Just keep it up, the reward is ours!
+Dialogue: 0,0:43:36.42,0:43:37.35,Default,,0000,0000,0000,,人呢\N{\rEng}Where is he?
+Dialogue: 0,0:43:37.85,0:43:38.94,Default,,0000,0000,0000,,我看见他从那边走了\N{\rEng}l think he went that way
+Dialogue: 0,0:43:39.15,0:43:40.31,Default,,0000,0000,0000,,你怎么不早说\N{\rEng}Keep your eyes open!
+Dialogue: 0,0:43:54.40,0:43:55.93,Default,,0000,0000,0000,,老伯 我喝杯茶行吗\N{\rEng}Old man, may l have some tea please?
+Dialogue: 0,0:43:56.14,0:43:57.43,Default,,0000,0000,0000,,行 不用客气\N{\rEng}Sure
+Dialogue: 0,0:43:57.64,0:43:58.54,Default,,0000,0000,0000,,谢谢\N{\rEng}Thank you
+Dialogue: 0,0:43:59.94,0:44:00.91,Default,,0000,0000,0000,,坐\N{\rEng}Sit down
+Dialogue: 0,0:44:02.04,0:44:03.10,Default,,0000,0000,0000,,谢谢\N{\rEng}Thank you
+Dialogue: 0,0:44:03.68,0:44:06.11,Default,,0000,0000,0000,,看你这一身的汗\N{\rEng}How come you're in such a sweat?
+Dialogue: 0,0:44:07.58,0:44:10.78,Default,,0000,0000,0000,,别提了 今天我倒了八辈子的霉\N{\rEng}To be honest, this has been a pretty terrible day for me
+Dialogue: 0,0:44:11.59,0:44:14.08,Default,,0000,0000,0000,,不知道从什么地方钻出来一条哑吧狗\N{\rEng}l was walking peacefully along the way
+Dialogue: 0,0:44:14.29,0:44:15.98,Default,,0000,0000,0000,,一句话没说就跟我打起来了\N{\rEng}just now and some maniac attacked me
+Dialogue: 0,0:44:16.29,0:44:19.49,Default,,0000,0000,0000,,还有几个衙门里的混蛋想打我一顿\N{\rEng}And earlier on this morning l was set upon by some policemen
+Dialogue: 0,0:44:19.76,0:44:21.35,Default,,0000,0000,0000,,幸亏我跑得快\N{\rEng}Luckily l managed to escape
+Dialogue: 0,0:44:21.80,0:44:24.23,Default,,0000,0000,0000,,要不然我也不会坐在这儿喝茶了\N{\rEng}Otherwise l wouldn't be here now drinking tea with you
+Dialogue: 0,0:44:29.70,0:44:33.47,Default,,0000,0000,0000,,老伯 你的烟杆好漂亮 看看行吗\N{\rEng}That's a really neat pipe you have here. Can l take a look?
+Dialogue: 0,0:44:33.67,0:44:35.40,Default,,0000,0000,0000,,行 随便看吧\N{\rEng}Sure. Take a look, no problem
+Dialogue: 0,0:44:35.88,0:44:39.04,Default,,0000,0000,0000,,看清楚点 以后没机会再看啦\N{\rEng}Take a good look. You won't get another chance to see it
+Dialogue: 0,0:44:41.72,0:44:42.77,Default,,0000,0000,0000,,御赐\N{\rEng}The royal seal?
+Dialogue: 0,0:44:43.68,0:44:45.78,Default,,0000,0000,0000,,可不是鱼翅呀\N{\rEng}And it's not a forgery either
+Dialogue: 0,0:44:45.99,0:44:47.18,Default,,0000,0000,0000,,是古董呢\N{\rEng}Must be worth a fortune!
+Dialogue: 0,0:44:49.06,0:44:51.68,Default,,0000,0000,0000,,兄弟 你这把扇子好大\N{\rEng}That's a big fan you have there
+Dialogue: 0,0:44:52.39,0:44:54.02,Default,,0000,0000,0000,,我倒想见识见识\N{\rEng}Would you mind if l took a look at it, sir?
+Dialogue: 0,0:44:54.26,0:44:56.56,Default,,0000,0000,0000,,老伯 你可真有眼光\N{\rEng}Old man, you have an eye for quality
+Dialogue: 0,0:45:00.00,0:45:01.23,Default,,0000,0000,0000,,有名堂的\N{\rEng}You see it's inscribed
+Dialogue: 0,0:45:02.04,0:45:03.87,Default,,0000,0000,0000,,金龙白纸扇\N{\rEng}The golden dragon white scroll fan
+Dialogue: 0,0:45:04.24,0:45:04.83,Default,,0000,0000,0000,,不错吧\N{\rEng}Nice fan?
+Dialogue: 0,0:45:05.04,0:45:06.10,Default,,0000,0000,0000,,没错\N{\rEng}lt's beautiful!
+Dialogue: 0,0:45:06.54,0:45:09.17,Default,,0000,0000,0000,,说起这把扇子可不简单\N{\rEng}lt's had its glory days l don't mind telling you
+Dialogue: 0,0:45:10.21,0:45:11.61,Default,,0000,0000,0000,,不过跟你说了也没什么用\N{\rEng}l don't suppose you're interested
+Dialogue: 0,0:45:11.91,0:45:13.38,Default,,0000,0000,0000,,再喝一杯茶\N{\rEng}Why don't you have some more tea?
+Dialogue: 0,0:45:13.61,0:45:15.45,Default,,0000,0000,0000,,老伯 你对人真客气 又健谈\N{\rEng}You know you're a very hospitable person
+Dialogue: 0,0:45:15.95,0:45:16.71,Default,,0000,0000,0000,,你是住在这里吗\N{\rEng}So do you live here?
+Dialogue: 0,0:45:16.92,0:45:19.75,Default,,0000,0000,0000,,不是 我是在这儿等人的\N{\rEng}No. l'm just waiting for somebody
+Dialogue: 0,0:45:20.32,0:45:22.72,Default,,0000,0000,0000,,说起这个人可真是不简单\N{\rEng}The person l'm waiting for is someone exceptional
+Dialogue: 0,0:45:23.22,0:45:24.05,Default,,0000,0000,0000,,怎么样不简单\N{\rEng}ln what way?
+Dialogue: 0,0:45:24.26,0:45:28.02,Default,,0000,0000,0000,,他劫囚车 还抢钱庄\N{\rEng}He ambushed a prison convoy and robbed a money lender
+Dialogue: 0,0:45:28.50,0:45:31.29,Default,,0000,0000,0000,,连官府通缉他都不当一回事\N{\rEng}He could be face to face with the police chief
+Dialogue: 0,0:45:31.67,0:45:35.93,Default,,0000,0000,0000,,就算是五省捕头 他也不当一回事\N{\rEng}and not be afraid
+Dialogue: 0,0:45:36.14,0:45:38.70,Default,,0000,0000,0000,,这个人那么厉害\N{\rEng}This man must really be something!
+Dialogue: 0,0:45:40.14,0:45:43.13,Default,,0000,0000,0000,,不过 他是个近视眼\N{\rEng}Except that he's very short sighted
+Dialogue: 0,0:45:43.94,0:45:44.84,Default,,0000,0000,0000,,近视眼\N{\rEng}Really?
+Dialogue: 0,0:45:45.05,0:45:46.34,Default,,0000,0000,0000,,不是什么都看不清楚了吗\N{\rEng}You mean like he could bump into you? He'd never even see you
+Dialogue: 0,0:45:46.55,0:45:49.71,Default,,0000,0000,0000,,他就跟瞎了一样 他已经来啦\N{\rEng}And he's right there!
+Dialogue: 0,0:45:50.58,0:45:52.38,Default,,0000,0000,0000,,来了 没有呀\N{\rEng}He's here?
+Dialogue: 0,0:45:53.62,0:45:55.71,Default,,0000,0000,0000,,你看不见而已\N{\rEng}You can't see him?
+Dialogue: 0,0:45:58.79,0:45:59.76,Default,,0000,0000,0000,,是他呀\N{\rEng}That's the man?
+Dialogue: 0,0:46:00.49,0:46:02.59,Default,,0000,0000,0000,,我说那个哑吧狗就是这小子\N{\rEng}He's the maniac l told you about who attacked me!
+Dialogue: 0,0:46:02.96,0:46:04.06,Default,,0000,0000,0000,,他也咬过您呀\N{\rEng}Did he give you trouble?
+Dialogue: 0,0:46:04.73,0:46:07.79,Default,,0000,0000,0000,,他岂止咬我 住我的吃我的\N{\rEng}No, he didn't give me any trouble. He just eats and sleeps with me
+Dialogue: 0,0:46:08.24,0:46:09.63,Default,,0000,0000,0000,,还吼着我\N{\rEng}keeps an eye on things
+Dialogue: 0,0:46:09.87,0:46:10.60,Default,,0000,0000,0000,,吼着你什么\N{\rEng}An eye on what?
+Dialogue: 0,0:46:10.80,0:46:12.29,Default,,0000,0000,0000,,我的家产\N{\rEng}My money and gold
+Dialogue: 0,0:46:13.31,0:46:15.74,Default,,0000,0000,0000,,你也太缺德了 连老头儿你也欺负\N{\rEng}l know what your game is now, bullying old people!
+Dialogue: 0,0:46:16.24,0:46:19.11,Default,,0000,0000,0000,,我第一眼看你就觉得你不是个好人\N{\rEng}From the moment l set eyes on you l was sure you were up to no good!
+Dialogue: 0,0:46:19.48,0:46:20.91,Default,,0000,0000,0000,,现在被官府通缉啦\N{\rEng}So you're a wanted man?
+Dialogue: 0,0:46:21.68,0:46:24.55,Default,,0000,0000,0000,,说得你多么了不起 你叫什么名字\N{\rEng}l hear that you're quite a legend. So what's your name?
+Dialogue: 0,0:46:26.92,0:46:27.94,Default,,0000,0000,0000,,真哑吧\N{\rEng}Not talking?
+Dialogue: 0,0:46:28.52,0:46:30.29,Default,,0000,0000,0000,,我老听人家说\N{\rEng}What's up? Has the cat got your tongue?
+Dialogue: 0,0:46:30.49,0:46:32.69,Default,,0000,0000,0000,,缺德的人要是生儿子没屁眼的\N{\rEng}Or maybe it's some kind of birth defect?
+Dialogue: 0,0:46:32.89,0:46:36.06,Default,,0000,0000,0000,,他爹生他这个儿子一定是没舌头的\N{\rEng}Maybe his father was such a big mouth that his son was born a mute!
+Dialogue: 0,0:46:37.60,0:46:38.59,Default,,0000,0000,0000,,你还笑\N{\rEng}You be quiet!
+Dialogue: 0,0:46:39.03,0:46:42.63,Default,,0000,0000,0000,,你先别生气 让我来收拾他\N{\rEng}No! Stay out of this! l'll take care of this guy
+Dialogue: 0,0:46:44.57,0:46:48.37,Default,,0000,0000,0000,,板凳仔 你这个小王八蛋\N{\rEng}Alright, funny guy!
+Dialogue: 0,0:46:48.58,0:46:50.48,Default,,0000,0000,0000,,这回我可不放过你\N{\rEng}This time it'll be different. l'm not gonna let you off so easily!
+Dialogue: 0,0:47:08.70,0:47:11.32,Default,,0000,0000,0000,,这小子也会耍板凳\N{\rEng}l must say my son's good with that bench
+Dialogue: 0,0:47:35.02,0:47:36.55,Default,,0000,0000,0000,,好小子 有两下子\N{\rEng}Not bad! But watch this!
+Dialogue: 0,0:48:06.95,0:48:08.55,Default,,0000,0000,0000,,对付这小子\N{\rEng}lf you really want to beat this rascal
+Dialogue: 0,0:48:10.59,0:48:11.72,Default,,0000,0000,0000,,把这个拿去\N{\rEng}you'll need a pole
+Dialogue: 0,0:48:12.83,0:48:13.82,Default,,0000,0000,0000,,多谢老伯\N{\rEng}Thanks, old man
+Dialogue: 0,0:48:50.86,0:48:51.80,Default,,0000,0000,0000,,这回完了吧\N{\rEng}Had enough?
+Dialogue: 0,0:48:54.40,0:48:57.50,Default,,0000,0000,0000,,老伯 您借我的这根东西真好用\N{\rEng}Old man, the pole really worked well. l can't thank you enough
+Dialogue: 0,0:48:58.64,0:49:01.80,Default,,0000,0000,0000,,当然 你不靠我这根东西怎能收拾他\N{\rEng}lt was obvious there was no way to beat him without using the pole
+Dialogue: 0,0:49:02.01,0:49:04.84,Default,,0000,0000,0000,,你现在动也不能动了吧\N{\rEng}That's for sure. You can't move now, can you?
+Dialogue: 0,0:49:06.48,0:49:09.85,Default,,0000,0000,0000,,老伯 这一巴掌是我替你打的\N{\rEng}Old man, just for you, l'll teach him a little lesson
+Dialogue: 0,0:49:11.82,0:49:14.01,Default,,0000,0000,0000,,这一巴掌呢是我打你的\N{\rEng}And this lesson comes from yours truly here
+Dialogue: 0,0:49:16.09,0:49:17.56,Default,,0000,0000,0000,,还有这一巴掌呢\N{\rEng}And this lesson here comes from
+Dialogue: 0,0:49:17.76,0:49:19.62,Default,,0000,0000,0000,,是我替你死鬼老头打的\N{\rEng}your big mouth of a father
+Dialogue: 0,0:49:24.23,0:49:25.60,Default,,0000,0000,0000,,这\N{\rEng}And this...
+Dialogue: 0,0:49:26.73,0:49:28.03,Default,,0000,0000,0000,,老伯 他还瞪你呢\N{\rEng}See that? He's making faces!
+Dialogue: 0,0:49:29.30,0:49:30.20,Default,,0000,0000,0000,,你先站到一旁\N{\rEng}Stand back a moment
+Dialogue: 0,0:49:30.40,0:49:31.80,Default,,0000,0000,0000,,好啊 轮到您打\N{\rEng}Sure. Your turn to beat him
+Dialogue: 0,0:49:33.41,0:49:35.74,Default,,0000,0000,0000,,叫你别出来到处乱跑\N{\rEng}l told you not to go out looking for trouble
+Dialogue: 0,0:49:35.94,0:49:37.47,Default,,0000,0000,0000,,你当我是耳边风\N{\rEng}but you never listen, do you?
+Dialogue: 0,0:49:38.35,0:49:41.44,Default,,0000,0000,0000,,叫你姐姐看着你 你又不练功\N{\rEng}l tell you to practise your kung fu but you're just too lazy!
+Dialogue: 0,0:49:42.98,0:49:46.78,Default,,0000,0000,0000,,以为自已板凳耍得好 就到处显威风\N{\rEng}Just because your bench work is above average you think you can cause trouble?
+Dialogue: 0,0:49:47.29,0:49:50.45,Default,,0000,0000,0000,,现在让人家打得你舒服了吧\N{\rEng}Well, now somebody's given you a good beating!
+Dialogue: 0,0:49:51.16,0:49:52.96,Default,,0000,0000,0000,,老伯 你怎么知道他那么详细\N{\rEng}Old man, how do you know all this?
+Dialogue: 0,0:49:53.29,0:49:54.62,Default,,0000,0000,0000,,他是我的种\N{\rEng}We're like peas in a pod
+Dialogue: 0,0:49:54.90,0:49:55.69,Default,,0000,0000,0000,,你的种\N{\rEng}You're like what?
+Dialogue: 0,0:49:55.90,0:49:57.02,Default,,0000,0000,0000,,他是我的根\N{\rEng}Tree and sapling
+Dialogue: 0,0:49:57.23,0:49:58.46,Default,,0000,0000,0000,,你的根\N{\rEng}l don't get it
+Dialogue: 0,0:49:58.83,0:50:00.13,Default,,0000,0000,0000,,就是我儿子\N{\rEng}l'm the boy's father!
+Dialogue: 0,0:50:01.20,0:50:02.90,Default,,0000,0000,0000,,那你不就是他爹\N{\rEng}You're his old man, l see!
+Dialogue: 0,0:50:11.71,0:50:12.84,Default,,0000,0000,0000,,算起来也有点便宜\N{\rEng}l still won the fight!
+Dialogue: 0,0:50:14.61,0:50:15.74,Default,,0000,0000,0000,,起来呀你\N{\rEng}Come on, get up!
+Dialogue: 0,0:50:18.99,0:50:21.18,Default,,0000,0000,0000,,原来你父子俩是一伙的\N{\rEng}lt's 2 onto 1 now, l should've guessed!
+Dialogue: 0,0:50:23.09,0:50:25.89,Default,,0000,0000,0000,,你这个老家伙戏演得真不错\N{\rEng}That was pretty good acting l must say
+Dialogue: 0,0:50:29.10,0:50:31.06,Default,,0000,0000,0000,,你这个臭小子真该死\N{\rEng}At last we get to the bit where you die
+Dialogue: 0,0:50:31.36,0:50:33.89,Default,,0000,0000,0000,,我等了你一整天 连饭也还没吃\N{\rEng}l had to wait all day without eating for you to turn up
+Dialogue: 0,0:50:34.70,0:50:39.54,Default,,0000,0000,0000,,你等一会 没吃饭是吧 早点说嘛\N{\rEng}This is all about food! Why didn't you say so?
+Dialogue: 0,0:50:40.51,0:50:43.60,Default,,0000,0000,0000,,这个容易 大票我就没有\N{\rEng}lt's no problem. l don't have much cash
+Dialogue: 0,0:50:44.38,0:50:45.57,Default,,0000,0000,0000,,零钱还有一点儿\N{\rEng}But why don't you take this?
+Dialogue: 0,0:50:45.78,0:50:47.68,Default,,0000,0000,0000,,你们两个吃饭也足够啦\N{\rEng}lt's enough to buy dinner for both of you
+Dialogue: 0,0:50:50.25,0:50:51.55,Default,,0000,0000,0000,,有饭吃还打人\N{\rEng}l just offered to buy you dinner!
+Dialogue: 0,0:50:54.52,0:50:55.32,Default,,0000,0000,0000,,跪下\N{\rEng}Kneel down
+Dialogue: 0,0:51:02.56,0:51:03.79,Default,,0000,0000,0000,,用不着你请客\N{\rEng}You can keep your money
+Dialogue: 0,0:51:04.10,0:51:06.16,Default,,0000,0000,0000,,我爹吃了几十年公家饭了\N{\rEng}We get our meals paid courtesy of the emperor!
+Dialogue: 0,0:51:07.43,0:51:08.70,Default,,0000,0000,0000,,你爹是当差呀\N{\rEng}You mean he's a policeman?
+Dialogue: 0,0:51:09.30,0:51:10.74,Default,,0000,0000,0000,,那还用说\N{\rEng}Chief of police!
+Dialogue: 0,0:51:13.01,0:51:14.60,Default,,0000,0000,0000,,你跑出来干什么\N{\rEng}What are you doing out of the house?
+Dialogue: 0,0:51:15.58,0:51:17.17,Default,,0000,0000,0000,,姐姐叫我出来买鱼虫\N{\rEng}Sister told me to do the shopping
+Dialogue: 0,0:51:17.38,0:51:18.40,Default,,0000,0000,0000,,还不快去\N{\rEng}Go do it!
+Dialogue: 0,0:51:20.78,0:51:22.31,Default,,0000,0000,0000,,你最好少多嘴\N{\rEng}You have the right to remain silent
+Dialogue: 0,0:51:22.82,0:51:26.78,Default,,0000,0000,0000,,你所讲的话将会作呈堂证供\N{\rEng}But anything you do say may be taken down and used as evidence in court
+Dialogue: 0,0:51:27.22,0:51:28.55,Default,,0000,0000,0000,,你一定听很多遍\N{\rEng}l've heard that somewhere
+Dialogue: 0,0:51:29.06,0:51:30.08,Default,,0000,0000,0000,,拿着扇子 你还不承认\N{\rEng}before you were carrying a fan
+Dialogue: 0,0:51:30.29,0:51:32.59,Default,,0000,0000,0000,,媒婆也拿着扇子 你怎么不去抓她\N{\rEng}So do matchmakers, why don't you arrest all of them too?
+Dialogue: 0,0:51:32.79,0:51:33.59,Default,,0000,0000,0000,,你儿子也好不到那儿去\N{\rEng}And your son while you're at it
+Dialogue: 0,0:51:33.79,0:51:35.69,Default,,0000,0000,0000,,不声不响到处乱逛\N{\rEng}He's a menace with that stupid bench of his!
+Dialogue: 0,0:51:35.90,0:51:37.09,Default,,0000,0000,0000,,不要再提起他了好吗\N{\rEng}Don't mention that wastrel!
+Dialogue: 0,0:51:37.66,0:51:39.15,Default,,0000,0000,0000,,他一定不是你的亲生儿子\N{\rEng}l doubt whether he's your real son
+Dialogue: 0,0:51:39.40,0:51:41.09,Default,,0000,0000,0000,,要不然他怎会不听你的话\N{\rEng}Otherwise why'd he behave like that?
+Dialogue: 0,0:51:41.33,0:51:42.67,Default,,0000,0000,0000,,一提起他我就有气\N{\rEng}l get mad just looking at him
+Dialogue: 0,0:51:43.20,0:51:44.69,Default,,0000,0000,0000,,一天到晚闷声不响\N{\rEng}He never says a word
+Dialogue: 0,0:51:44.91,0:51:47.70,Default,,0000,0000,0000,,屁都不多放一个 简直像个哑吧\N{\rEng}l don't want to talk about it!
+Dialogue: 0,0:51:47.97,0:51:48.80,Default,,0000,0000,0000,,你们父子俩也没话说\N{\rEng}You don't talk to each other?
+Dialogue: 0,0:51:49.01,0:51:50.10,Default,,0000,0000,0000,,可不是嘛\N{\rEng}Hardly a word.
+Dialogue: 0,0:51:50.31,0:51:51.37,Default,,0000,0000,0000,,那有咱们两个这么聊得来\N{\rEng}Makes a change having you here
+Dialogue: 0,0:51:51.58,0:51:52.81,Default,,0000,0000,0000,,那倒也是\N{\rEng}Yeah, right!
+Dialogue: 0,0:51:54.28,0:51:55.08,Default,,0000,0000,0000,,走吧\N{\rEng}Move it!
+Dialogue: 0,0:51:55.42,0:51:56.51,Default,,0000,0000,0000,,小个便行吗\N{\rEng}Wait! l need to take a leak!
+Dialogue: 0,0:51:56.92,0:51:59.04,Default,,0000,0000,0000,,小便 到前面\N{\rEng}Take a leak? Come on!
+Dialogue: 0,0:51:59.35,0:52:01.41,Default,,0000,0000,0000,,你锁住我 我怎么尿呀\N{\rEng}l can't do it with the handcuffs on!
+Dialogue: 0,0:52:01.89,0:52:04.72,Default,,0000,0000,0000,,把东西放下 我放开你不就行了\N{\rEng}l'll take them off but not for long
+Dialogue: 0,0:52:09.30,0:52:12.09,Default,,0000,0000,0000,,老伯 说实在的你真是个好人\N{\rEng}Old man, you're not a bad person
+Dialogue: 0,0:52:16.20,0:52:18.14,Default,,0000,0000,0000,,你看着我 我怎么尿\N{\rEng}l can't do it with you watching!
+Dialogue: 0,0:52:18.64,0:52:21.00,Default,,0000,0000,0000,,不看着你 你跑了怎么办\N{\rEng}But if l don't watch you you'll be off down the trail!
+Dialogue: 0,0:52:22.74,0:52:25.04,Default,,0000,0000,0000,,这样你看着我也要跑\N{\rEng}l might just run anyway!
+Dialogue: 0,0:52:27.15,0:52:28.77,Default,,0000,0000,0000,,我走\N{\rEng}Here l go, l'm running away!
+Dialogue: 0,0:52:29.15,0:52:31.28,Default,,0000,0000,0000,,你怎么不追我 我真的走啦\N{\rEng}He's nuts. Alright, l'm gone!
+Dialogue: 0,0:52:32.72,0:52:36.75,Default,,0000,0000,0000,,走 走 走 走得快好世界 走\N{\rEng}l'm going, l'm running!
+Dialogue: 0,0:52:37.22,0:52:39.72,Default,,0000,0000,0000,,指那边走那边 真听话\N{\rEng}As l thought, l point the way and off he goes!
+Dialogue: 0,0:52:42.76,0:52:44.06,Default,,0000,0000,0000,,他真的没有追来\N{\rEng}He didn't follow me!
+Dialogue: 0,0:52:44.80,0:52:46.23,Default,,0000,0000,0000,,行了\N{\rEng}Free at last!
+Dialogue: 0,0:52:48.97,0:52:49.94,Default,,0000,0000,0000,,怎么会变成这样的\N{\rEng}What is this? l'm going down!
+Dialogue: 0,0:52:50.20,0:52:52.23,Default,,0000,0000,0000,,软绵绵的 这是怎么搞的\N{\rEng}l'm sinking!
+Dialogue: 0,0:52:55.48,0:52:57.97,Default,,0000,0000,0000,,这个就叫贼人厕所\N{\rEng}This place is called ''The Thieves' Toilet''
+Dialogue: 0,0:52:58.21,0:52:58.80,Default,,0000,0000,0000,,快点救我上来\N{\rEng}Don't leave me here!
+Dialogue: 0,0:52:59.01,0:53:01.98,Default,,0000,0000,0000,,千万别呼气 不然会沉得更加快\N{\rEng}The more you struggle, the further you'll sink in
+Dialogue: 0,0:53:02.32,0:53:03.87,Default,,0000,0000,0000,,你快救我上来\N{\rEng}Please help me out of here!
+Dialogue: 0,0:53:04.22,0:53:06.05,Default,,0000,0000,0000,,凡是犯人到了这儿\N{\rEng}You got yourself into this mess
+Dialogue: 0,0:53:06.32,0:53:08.31,Default,,0000,0000,0000,,个个都会自动走下去的\N{\rEng}So get yourself out without my help
+Dialogue: 0,0:53:08.52,0:53:09.82,Default,,0000,0000,0000,,老伯 你快救救我\N{\rEng}But l could drown in here!
+Dialogue: 0,0:53:10.02,0:53:12.01,Default,,0000,0000,0000,,怕什么 还没有盖过头呢\N{\rEng}As long as your head's above water, it's okay
+Dialogue: 0,0:53:12.29,0:53:13.62,Default,,0000,0000,0000,,救你上来也行\N{\rEng}l tell you what
+Dialogue: 0,0:53:13.83,0:53:15.80,Default,,0000,0000,0000,,你要先唱个歌给我听\N{\rEng}l'll get you out if you sing me a song
+Dialogue: 0,0:53:16.03,0:53:19.62,Default,,0000,0000,0000,,唱得好听呢 我就考虑你的请求\N{\rEng}But you better sing good
+Dialogue: 0,0:53:20.20,0:53:21.19,Default,,0000,0000,0000,,我唱\N{\rEng}Alright
+Dialogue: 0,0:53:22.17,0:53:27.04,Default,,0000,0000,0000,,有只小鸟掉下水 掉下水 掉下水\N{\rEng}London Bridge is falling down...
+Dialogue: 0,0:53:27.24,0:53:29.30,Default,,0000,0000,0000,,有\N{\rEng}Falling...
+Dialogue: 0,0:53:29.81,0:53:31.50,Default,,0000,0000,0000,,怎么不唱下去\N{\rEng}Don't stop, you were doing good!
+Dialogue: 0,0:53:40.89,0:53:44.02,Default,,0000,0000,0000,,捉住竹枝 再沉的话 便很难救\N{\rEng}lf you sink any further it'll be too late!
+Dialogue: 0,0:53:45.33,0:53:47.49,Default,,0000,0000,0000,,抓住 抓住\N{\rEng}Go on! Hold on tight!
+Dialogue: 0,0:53:48.36,0:53:49.29,Default,,0000,0000,0000,,上来\N{\rEng}That's it! Come on!
+Dialogue: 0,0:53:53.10,0:53:54.03,Default,,0000,0000,0000,,慢慢来\N{\rEng}You're almost there.
+Dialogue: 0,0:53:57.10,0:53:58.00,Default,,0000,0000,0000,,快行了\N{\rEng}That's right
+Dialogue: 0,0:53:58.20,0:53:59.23,Default,,0000,0000,0000,,差点淹死\N{\rEng}l nearly drowned
+Dialogue: 0,0:54:09.45,0:54:11.61,Default,,0000,0000,0000,,走开走开 别把东西弄脏了\N{\rEng}Don't stand there, you're making everything dirty
+Dialogue: 0,0:54:17.29,0:54:18.35,Default,,0000,0000,0000,,救我\N{\rEng}Help me!
+Dialogue: 0,0:54:20.09,0:54:22.12,Default,,0000,0000,0000,,快点救我上来\N{\rEng}Get me out of here!
+Dialogue: 0,0:54:31.64,0:54:32.94,Default,,0000,0000,0000,,你这个人倒挺好心的\N{\rEng}You're a good person too
+Dialogue: 0,0:54:33.37,0:54:34.97,Default,,0000,0000,0000,,其实你可以趁机跑掉\N{\rEng}You could have run away and left me
+Dialogue: 0,0:54:35.61,0:54:36.63,Default,,0000,0000,0000,,对呀\N{\rEng}You're right!
+Dialogue: 0,0:54:38.71,0:54:40.08,Default,,0000,0000,0000,,幸亏你提醒我\N{\rEng}Thanks for reminding me of that!
+Dialogue: 0,0:54:40.55,0:54:42.34,Default,,0000,0000,0000,,谢谢你 我走啦\N{\rEng}l'm getting out of here! Goodbye!
+Dialogue: 0,0:54:43.25,0:54:45.72,Default,,0000,0000,0000,,快点 最多我唱只歌给你听\N{\rEng}You can't just leave me here! l'll sing you a song!
+Dialogue: 0,0:54:46.75,0:54:47.52,Default,,0000,0000,0000,,救救我\N{\rEng}What'd you say?
+Dialogue: 0,0:54:47.72,0:54:48.78,Default,,0000,0000,0000,,你唱吧\N{\rEng}Alright, sing!
+Dialogue: 0,0:54:49.32,0:54:52.76,Default,,0000,0000,0000,,有只小鸟掉下水 掉\N{\rEng}London Bridge is falling down...
+Dialogue: 0,0:54:52.96,0:54:54.86,Default,,0000,0000,0000,,别唱了别唱了 你唱得好肉麻\N{\rEng}Forget it! Don't bother it's terrible!
+Dialogue: 0,0:54:55.06,0:54:56.09,Default,,0000,0000,0000,,我救你上来吧\N{\rEng}l'll get you out!
+Dialogue: 0,0:54:57.76,0:54:59.53,Default,,0000,0000,0000,,快点\N{\rEng}Hurry!
+Dialogue: 0,0:55:00.83,0:55:02.80,Default,,0000,0000,0000,,抓紧 断了是你的不幸\N{\rEng}Catch this! Hold on tight! lf it breaks it's your fault!
+Dialogue: 0,0:55:09.98,0:55:12.47,Default,,0000,0000,0000,,有人在吗 有人在吗\N{\rEng}Anyone home? Open the door!
+Dialogue: 0,0:55:15.15,0:55:16.64,Default,,0000,0000,0000,,怎么那么倒霉\N{\rEng}Talk about unlucky
+Dialogue: 0,0:55:24.39,0:55:26.52,Default,,0000,0000,0000,,姑娘 姑娘\N{\rEng}Miss! Over here!
+Dialogue: 0,0:55:27.46,0:55:28.43,Default,,0000,0000,0000,,你是谁呀\N{\rEng}Who are you?
+Dialogue: 0,0:55:29.50,0:55:31.16,Default,,0000,0000,0000,,我就是我\N{\rEng}Me? l'm just me
+Dialogue: 0,0:55:31.56,0:55:32.96,Default,,0000,0000,0000,,你能不能把门开一开呀\N{\rEng}Can you open the door, please?
+Dialogue: 0,0:55:42.58,0:55:49.11,Default,,0000,0000,0000,,行了 我笑着回答讲一声我是我\N{\rEng}lt worked. Me, l'm just me
+Dialogue: 0,0:55:53.65,0:55:55.12,Default,,0000,0000,0000,,姑娘 姑娘\N{\rEng}Hello, Hello
+Dialogue: 0,0:56:00.96,0:56:03.45,Default,,0000,0000,0000,,我替你擦干净 对不起\N{\rEng}l'll clean it off, sorry
+Dialogue: 0,0:56:03.70,0:56:05.89,Default,,0000,0000,0000,,行了行了 你从哪儿来的\N{\rEng}No, forget it. You from round here?
+Dialogue: 0,0:56:06.97,0:56:09.59,Default,,0000,0000,0000,,不是 我是从泥潭来的\N{\rEng}Not really. But this mud is
+Dialogue: 0,0:56:10.37,0:56:12.27,Default,,0000,0000,0000,,我是说你从外地来的\N{\rEng}l thought not, it was pretty obvious
+Dialogue: 0,0:56:12.51,0:56:14.03,Default,,0000,0000,0000,,要不然怎么会掉在泥潭里\N{\rEng}The locals don't fall in the swamp
+Dialogue: 0,0:56:14.24,0:56:16.40,Default,,0000,0000,0000,,可不是 你看我的狼狈相\N{\rEng}l guess not. l must look terrible
+Dialogue: 0,0:56:16.61,0:56:17.87,Default,,0000,0000,0000,,一身都是泥\N{\rEng}l apologize, Miss
+Dialogue: 0,0:56:18.11,0:56:20.05,Default,,0000,0000,0000,,我进去拿桶水冲一冲就行了\N{\rEng}l'll look better if you'd allow me to wash up
+Dialogue: 0,0:56:21.92,0:56:23.41,Default,,0000,0000,0000,,我不会弄脏你的地的\N{\rEng}l won't make any mess
+Dialogue: 0,0:56:28.35,0:56:30.35,Default,,0000,0000,0000,,姑娘 你把那个东西借给我用行吗\N{\rEng}Excuse me, can l borrow that thing there?
+Dialogue: 0,0:56:33.69,0:56:34.46,Default,,0000,0000,0000,,拿去\N{\rEng}Here
+Dialogue: 0,0:56:35.20,0:56:36.09,Default,,0000,0000,0000,,谢谢\N{\rEng}Thank you
+Dialogue: 0,0:56:49.34,0:56:50.47,Default,,0000,0000,0000,,厉害罢\N{\rEng}lt takes practice
+Dialogue: 0,0:57:02.26,0:57:04.72,Default,,0000,0000,0000,,是我带你去洗澡还是你带我去洗澡\N{\rEng}This is my house, l didn't tell you to go inside, did l?
+Dialogue: 0,0:57:08.46,0:57:09.76,Default,,0000,0000,0000,,这法子倒挺好\N{\rEng}Right, you can come in
+Dialogue: 0,0:57:12.47,0:57:14.99,Default,,0000,0000,0000,,当然好了 没有了脚印\N{\rEng}Thank goodness for that. No dirty footprints
+Dialogue: 0,0:57:15.37,0:57:17.06,Default,,0000,0000,0000,,追我的就不太好了\N{\rEng}At least he won't follow me in here
+Dialogue: 0,0:57:25.41,0:57:27.04,Default,,0000,0000,0000,,行了行了 就在这儿下来吧\N{\rEng}lt's alright. You can walk from now on
+Dialogue: 0,0:57:29.98,0:57:31.42,Default,,0000,0000,0000,,谢谢 那儿是洗澡房\N{\rEng}- Thank you - The bathroom's down there.
+Dialogue: 0,0:57:31.62,0:57:32.48,Default,,0000,0000,0000,,你自已进去吧\N{\rEng}Just make yourself at home
+Dialogue: 0,0:57:32.69,0:57:34.38,Default,,0000,0000,0000,,谢谢\N{\rEng}Thanks a lot!
+Dialogue: 0,0:57:38.42,0:57:40.42,Default,,0000,0000,0000,,这是男女不分的\N{\rEng}Men and women together?
+Dialogue: 0,0:57:50.10,0:57:51.93,Default,,0000,0000,0000,,你衣服这么脏 怎么能穿呢\N{\rEng}You can't put those dirty things back on
+Dialogue: 0,0:57:52.27,0:57:54.26,Default,,0000,0000,0000,,我去拿我弟弟衣服给你换\N{\rEng}l'll get you some of my brother's clothes
+Dialogue: 0,0:58:15.20,0:58:16.22,Default,,0000,0000,0000,,衣服挂在这里\N{\rEng}l'll leave them out here
+Dialogue: 0,0:58:16.93,0:58:17.86,Default,,0000,0000,0000,,谢谢\N{\rEng}Thank you
+Dialogue: 0,0:58:27.81,0:58:29.71,Default,,0000,0000,0000,,糟了 忘了买菜\N{\rEng}Oh, no. l forgot the shopping
+Dialogue: 0,0:58:42.59,0:58:43.72,Default,,0000,0000,0000,,我要赶着出去买菜\N{\rEng}l have to go to the market
+Dialogue: 0,0:58:43.92,0:58:45.39,Default,,0000,0000,0000,,你自已在这儿洗可以了吧\N{\rEng}you'll be alright by yourself, won't you?
+Dialogue: 0,0:58:47.09,0:58:50.19,Default,,0000,0000,0000,,行了 你去吧 我自已洗没问题\N{\rEng}Sure, no problem. You go right ahead
+Dialogue: 0,0:58:54.93,0:58:57.37,Default,,0000,0000,0000,,没问题 没问题\N{\rEng}l'll be fine. l'll be fine
+Dialogue: 0,0:58:57.77,0:59:00.24,Default,,0000,0000,0000,,不管多脏都没问题\N{\rEng}l've got no worries, l'll be fine!
+Dialogue: 0,0:59:05.78,0:59:09.31,Default,,0000,0000,0000,,想起了五省捕头可就大问题\N{\rEng}The police chief? Oh who cares!
+Dialogue: 0,0:59:15.76,0:59:17.25,Default,,0000,0000,0000,,岂有此理\N{\rEng}Just you wait!
+Dialogue: 0,0:59:17.92,0:59:20.29,Default,,0000,0000,0000,,下次再让我看到那个臭小子\N{\rEng}lf l set eyes on that good for nothing again
+Dialogue: 0,0:59:20.56,0:59:23.93,Default,,0000,0000,0000,,我就一刀劈死他 免得跟他噜苏\N{\rEng}l won't even say a word to him
+Dialogue: 0,0:59:26.60,0:59:27.62,Default,,0000,0000,0000,,还好他们两个没回来\N{\rEng}Good, there's no one home
+Dialogue: 0,0:59:34.74,0:59:36.21,Default,,0000,0000,0000,,这小子这么快就回来\N{\rEng}That good for nothing son's here
+Dialogue: 0,0:59:58.90,0:59:59.96,Default,,0000,0000,0000,,她弟弟\N{\rEng}Her brother?
+Dialogue: 0,1:01:41.30,1:01:42.46,Default,,0000,0000,0000,,怎么那么脏\N{\rEng}How come it's so dirty?
+Dialogue: 0,1:02:43.50,1:02:46.62,Default,,0000,0000,0000,,没摔着吧 我是跟你开玩笑啦\N{\rEng}l'm sorry, fish. l was only playing around, really!
+Dialogue: 0,1:02:53.11,1:02:54.30,Default,,0000,0000,0000,,人工呼吸都不行\N{\rEng}Mouth to mouth isn't working!
+Dialogue: 0,1:02:54.51,1:02:56.84,Default,,0000,0000,0000,,你这臭小子 鱼都快被你弄死\N{\rEng}Stupid idiot! Now you've killed the goldfish!
+Dialogue: 0,1:02:59.35,1:03:01.25,Default,,0000,0000,0000,,原来是你 真巧\N{\rEng}- What? You here? - lt's a mistake!
+Dialogue: 0,1:03:03.72,1:03:05.41,Default,,0000,0000,0000,,这次我看你往那儿跑\N{\rEng}You won't escape me this time!
+Dialogue: 0,1:03:11.76,1:03:13.75,Default,,0000,0000,0000,,你这个人可真不讲理\N{\rEng}You're a real pain in the rear?
+Dialogue: 0,1:03:13.96,1:03:15.99,Default,,0000,0000,0000,,我跟你都是借人家地方用嘛\N{\rEng}We could've shared like civilized human beings
+Dialogue: 0,1:03:16.23,1:03:17.96,Default,,0000,0000,0000,,你看你把这个地方弄得肮肮脏脏的\N{\rEng}But you messed everything up!
+Dialogue: 0,1:03:18.16,1:03:20.26,Default,,0000,0000,0000,,还躲起来要我帮你\N{\rEng}So l had to clean up after you
+Dialogue: 0,1:03:20.63,1:03:21.90,Default,,0000,0000,0000,,就算我是借\N{\rEng}Now listen you!
+Dialogue: 0,1:03:23.57,1:03:24.93,Default,,0000,0000,0000,,我说过了\N{\rEng}l said when l saw you
+Dialogue: 0,1:03:25.20,1:03:27.80,Default,,0000,0000,0000,,让我再见到你我决不跟你噜苏\N{\rEng}that not one word would pass between us!
+Dialogue: 0,1:03:29.18,1:03:32.04,Default,,0000,0000,0000,,那更好 我们大家耳根都清静\N{\rEng}Suits me fine. l don't want to talk to you in any case
+Dialogue: 0,1:03:33.41,1:03:34.57,Default,,0000,0000,0000,,不关你的事\N{\rEng}Not you, fishy
+Dialogue: 0,1:03:37.55,1:03:38.68,Default,,0000,0000,0000,,它肚子反啦\N{\rEng}lt's dead!
+Dialogue: 0,1:03:40.25,1:03:41.22,Default,,0000,0000,0000,,我替你开刀\N{\rEng}Come back here you!
+Dialogue: 0,1:03:52.43,1:03:54.16,Default,,0000,0000,0000,,你不要滥用私刑\N{\rEng}There are laws in this country!
+Dialogue: 0,1:03:54.50,1:03:56.66,Default,,0000,0000,0000,,我宰了你 就报你个失踪\N{\rEng}l'll kill you and report you're missing
+Dialogue: 0,1:04:52.26,1:04:53.66,Default,,0000,0000,0000,,你那把刀可真快呀\N{\rEng}You're pretty fast with your sword
+Dialogue: 0,1:05:08.21,1:05:10.00,Default,,0000,0000,0000,,原来是御赐\N{\rEng}The pipe with the royal seal!
+Dialogue: 0,1:05:23.19,1:05:24.66,Default,,0000,0000,0000,,虽然是御赐的\N{\rEng}This pipe is pretty well made
+Dialogue: 0,1:05:24.86,1:05:26.83,Default,,0000,0000,0000,,为什么又会刀枪不入呢\N{\rEng}l guess you could use it as a weapon
+Dialogue: 0,1:05:28.23,1:05:31.39,Default,,0000,0000,0000,,御赐砍御赐 御赐胡乱刺 刺\N{\rEng}Royal seal...Royal seal...
+Dialogue: 0,1:05:31.60,1:05:32.89,Default,,0000,0000,0000,,我敲\N{\rEng}Knock it
+Dialogue: 0,1:05:34.17,1:05:35.39,Default,,0000,0000,0000,,敲头敲不破\N{\rEng}lt doesn't break against bone
+Dialogue: 0,1:05:35.60,1:05:37.59,Default,,0000,0000,0000,,不知敲柱破不破\N{\rEng}l wonder what it's like against wood
+Dialogue: 0,1:05:38.54,1:05:40.53,Default,,0000,0000,0000,,还是不破 我再敲\N{\rEng}lt still didn't break!
+Dialogue: 0,1:05:40.94,1:05:42.03,Default,,0000,0000,0000,,怎么还是不破\N{\rEng}Not a scratch!
+Dialogue: 0,1:05:50.52,1:05:52.51,Default,,0000,0000,0000,,先把烟杆放下来\N{\rEng}Put the pipe down right away!
+Dialogue: 0,1:05:52.72,1:05:53.91,Default,,0000,0000,0000,,那你先把刀放下\N{\rEng}First you put down the sword!
+Dialogue: 0,1:05:54.12,1:05:55.71,Default,,0000,0000,0000,,你先放下烟杆\N{\rEng}You put the pipe down first
+Dialogue: 0,1:05:57.36,1:05:59.48,Default,,0000,0000,0000,,好 我先把刀放下\N{\rEng}Alright, l'll put the sword down
+Dialogue: 0,1:05:59.69,1:06:01.02,Default,,0000,0000,0000,,这还差不多\N{\rEng}That's more like it
+Dialogue: 0,1:06:02.09,1:06:04.86,Default,,0000,0000,0000,,我只是把刀插回去\N{\rEng}l'm just putting it back in the scabbard
+Dialogue: 0,1:06:22.92,1:06:24.78,Default,,0000,0000,0000,,你 不是我 是他\N{\rEng}- What's this? - l'm sorry but it's him!
+Dialogue: 0,1:06:25.08,1:06:26.31,Default,,0000,0000,0000,,这些家俱都是他打坏的\N{\rEng}He started breaking the furniture
+Dialogue: 0,1:06:26.52,1:06:29.11,Default,,0000,0000,0000,,是他 是他 你打他呀 打他\N{\rEng}lt's his fault. Beat him up! Go on!
+Dialogue: 0,1:06:29.32,1:06:30.48,Default,,0000,0000,0000,,你快打他呀\N{\rEng}What're you waiting for?
+Dialogue: 0,1:06:32.12,1:06:33.02,Default,,0000,0000,0000,,爸爸\N{\rEng}Father!
+Dialogue: 0,1:06:33.59,1:06:35.75,Default,,0000,0000,0000,,又是你爸爸 你可真有福气\N{\rEng}He's your father? What's wrong with you?
+Dialogue: 0,1:06:35.96,1:06:37.43,Default,,0000,0000,0000,,满街都是你儿女\N{\rEng}You've got children everywhere!
+Dialogue: 0,1:07:11.36,1:07:12.35,Default,,0000,0000,0000,,够了吧\N{\rEng}That's enough!
+Dialogue: 0,1:07:24.68,1:07:25.70,Default,,0000,0000,0000,,我扫\N{\rEng}Right!
+Dialogue: 0,1:07:45.23,1:07:46.32,Default,,0000,0000,0000,,算我倒霉\N{\rEng}Now l'm really mad!
+Dialogue: 0,1:07:59.51,1:08:00.44,Default,,0000,0000,0000,,我可是让你的呀\N{\rEng}l'll let you win this once!
+Dialogue: 0,1:08:05.32,1:08:06.68,Default,,0000,0000,0000,,玩完了没有呀\N{\rEng}Have you finished playing?
+Dialogue: 0,1:08:07.79,1:08:09.12,Default,,0000,0000,0000,,玩完了\N{\rEng}Yes, l've finished
+Dialogue: 0,1:08:14.73,1:08:15.89,Default,,0000,0000,0000,,好了 就在这儿休息一会吧\N{\rEng}Alright, we'll rest here
+Dialogue: 0,1:08:16.56,1:08:17.62,Default,,0000,0000,0000,,这儿是条死路\N{\rEng}You mean here? A dead end?
+Dialogue: 0,1:08:17.83,1:08:19.39,Default,,0000,0000,0000,,无遮无盖 有什么好\N{\rEng}There isn't any shelter. Forget it!
+Dialogue: 0,1:08:19.90,1:08:21.53,Default,,0000,0000,0000,,好就好在是死路\N{\rEng}A dead end is easier to defend
+Dialogue: 0,1:08:21.73,1:08:23.33,Default,,0000,0000,0000,,三公 我好急呀\N{\rEng}Mister Kung, l really need to pee
+Dialogue: 0,1:08:23.54,1:08:26.10,Default,,0000,0000,0000,,听见了没有 又要撒尿了 请便\N{\rEng}Right, he needs to pee. Go ahead
+Dialogue: 0,1:08:26.91,1:08:29.31,Default,,0000,0000,0000,,除非你撒尿射塌了墙\N{\rEng}Unless you can break down a brick wall with your pee
+Dialogue: 0,1:08:29.78,1:08:32.27,Default,,0000,0000,0000,,再想借尿遁可别要指望了\N{\rEng}there's no way of escaping
+Dialogue: 0,1:08:32.51,1:08:35.74,Default,,0000,0000,0000,,不是呀 我这次是真的\N{\rEng}l promise, l'm not making it up
+Dialogue: 0,1:08:36.62,1:08:37.60,Default,,0000,0000,0000,,好 把他解开\N{\rEng}Son, release him
+Dialogue: 0,1:08:38.78,1:08:39.77,Default,,0000,0000,0000,,谢谢\N{\rEng}Thanks.
+Dialogue: 0,1:08:42.52,1:08:43.61,Default,,0000,0000,0000,,谢谢四哥\N{\rEng}Thank you, brother
+Dialogue: 0,1:08:45.16,1:08:47.39,Default,,0000,0000,0000,,你别看着我 要不然我尿得不痛快\N{\rEng}Please don't watch me, otherwise l can't pee
+Dialogue: 0,1:09:07.18,1:09:07.80,Default,,0000,0000,0000,,干什么\N{\rEng}What're you doing?
+Dialogue: 0,1:09:08.01,1:09:09.78,Default,,0000,0000,0000,,没什么 我习惯了这样撒尿\N{\rEng}lt's just a bad habit of mine
+Dialogue: 0,1:09:36.84,1:09:40.01,Default,,0000,0000,0000,,手力很好 干什么 练功呀\N{\rEng}Practising your kung fu?
+Dialogue: 0,1:09:40.41,1:09:41.97,Default,,0000,0000,0000,,不是 我在量这条巷有多宽\N{\rEng}No l was just measuring the width of the alley
+Dialogue: 0,1:09:42.18,1:09:43.81,Default,,0000,0000,0000,,量完了吧 还不下去\N{\rEng}Now you know. Back you go!
+Dialogue: 0,1:10:10.94,1:10:11.84,Default,,0000,0000,0000,,吃吧\N{\rEng}Want some?
+Dialogue: 0,1:10:13.35,1:10:15.28,Default,,0000,0000,0000,,四哥 你爹在我面前把你臭得\N{\rEng}Tell me this, why does your dad always belittle you in front of me
+Dialogue: 0,1:10:15.48,1:10:17.85,Default,,0000,0000,0000,,一无是处 我真替你不值\N{\rEng}l almost feel sorry for you
+Dialogue: 0,1:10:19.69,1:10:22.12,Default,,0000,0000,0000,,真难为你想出这样的法子来锁我\N{\rEng}What are all the bells and the chains for?
+Dialogue: 0,1:10:22.89,1:10:25.15,Default,,0000,0000,0000,,你一定是以为我随时都会逃跑吧\N{\rEng}Don't tell me you really expect me to escape?
+Dialogue: 0,1:10:25.36,1:10:27.15,Default,,0000,0000,0000,,你想跑就摇摇个铃铛\N{\rEng}lf you do escape you'll be easy to find
+Dialogue: 0,1:10:27.36,1:10:28.55,Default,,0000,0000,0000,,好让我有个准备\N{\rEng}l'll just follow the ringing
+Dialogue: 0,1:11:02.56,1:11:05.69,Default,,0000,0000,0000,,白日依山尽 黄河入海流\N{\rEng}The grand old duke of York, he had 10 thousand men
+Dialogue: 0,1:11:05.90,1:11:09.70,Default,,0000,0000,0000,,欲穷千里目 更上一层楼\N{\rEng}He marched them up to the top of the hill and...
+Dialogue: 0,1:11:12.60,1:11:15.94,Default,,0000,0000,0000,,楼上没什么看 请你快下楼\N{\rEng}How does the rest of it go?
+Dialogue: 0,1:11:16.14,1:11:18.30,Default,,0000,0000,0000,,成个跟屁虫 生他气 他又不知\N{\rEng}l don't believe this, he's sticking to me
+Dialogue: 0,1:11:18.51,1:11:19.70,Default,,0000,0000,0000,,骂他又不好意思\N{\rEng}closer than my own shadow!
+Dialogue: 0,1:11:22.98,1:11:25.97,Default,,0000,0000,0000,,五省捕快 五省捕快\N{\rEng}Wait up, Chief Sam Kung!
+Dialogue: 0,1:11:26.65,1:11:27.88,Default,,0000,0000,0000,,我找得你好苦呀\N{\rEng}You're such a hard man to find
+Dialogue: 0,1:11:28.42,1:11:29.61,Default,,0000,0000,0000,,是你呀 是我\N{\rEng}- lt's you - Yes, is me.
+Dialogue: 0,1:11:29.82,1:11:30.88,Default,,0000,0000,0000,,找我有什么事\N{\rEng}What do you want?
+Dialogue: 0,1:11:31.19,1:11:32.56,Default,,0000,0000,0000,,我刚刚经过路边社\N{\rEng}l was in the market today and l overheard two men talking about...
+Dialogue: 0,1:11:32.76,1:11:37.53,Default,,0000,0000,0000,,我听说不知道什么人抢什么\N{\rEng}lt's gone right out of my head
+Dialogue: 0,1:11:37.57,1:11:41.19,Default,,0000,0000,0000,,抢抢劫钱庄\N{\rEng}l remember what it was now
+Dialogue: 0,1:11:41.40,1:11:42.27,Default,,0000,0000,0000,,白扇子跟几个人\N{\rEng}The man with the white fan
+Dialogue: 0,1:11:42.47,1:11:44.84,Default,,0000,0000,0000,,准备在午时抢劫万隆钱庄\N{\rEng}is going to rob the Man Lung Bank at five o'clock!
+Dialogue: 0,1:11:45.44,1:11:46.63,Default,,0000,0000,0000,,白扇子\N{\rEng}White Fan?
+Dialogue: 0,1:11:47.17,1:11:48.33,Default,,0000,0000,0000,,午时\N{\rEng}At five o'clock?
+Dialogue: 0,1:11:49.18,1:11:49.87,Default,,0000,0000,0000,,你没有骗我吧\N{\rEng}You're not telling me lies?
+Dialogue: 0,1:11:50.08,1:11:52.20,Default,,0000,0000,0000,,不会 这么久以来何时骗过你\N{\rEng}No, have l ever lied to you before, chief?
+Dialogue: 0,1:11:58.32,1:12:00.48,Default,,0000,0000,0000,,刚才线人说白扇子去抢劫钱庄\N{\rEng}My informerjust told me White Fan is planning a robbery
+Dialogue: 0,1:12:00.85,1:12:01.79,Default,,0000,0000,0000,,那我岂不是抓错人\N{\rEng}So he is the wrong man?
+Dialogue: 0,1:12:02.66,1:12:04.56,Default,,0000,0000,0000,,你看 我早就说你们抓错人\N{\rEng}l told you, didn't l? l'm not the bandit...
+Dialogue: 0,1:12:04.76,1:12:05.92,Default,,0000,0000,0000,,吵什么\N{\rEng}Shut up!
+Dialogue: 0,1:12:06.36,1:12:08.69,Default,,0000,0000,0000,,真凶一天没有抓到你都是疑犯\N{\rEng}As long as we haven't caught him, you're a suspect!
+Dialogue: 0,1:12:10.06,1:12:12.06,Default,,0000,0000,0000,,你再不放我 我就要告你们爷俩\N{\rEng}lf you don't release me l'll sue you!
+Dialogue: 0,1:12:12.60,1:12:14.09,Default,,0000,0000,0000,,不告你 只告你这个老家伙\N{\rEng}Not you. Just your dad
+Dialogue: 0,1:12:14.70,1:12:16.64,Default,,0000,0000,0000,,刚才你阻差办公 我就可以控告你\N{\rEng}l could lock you up for obstructing justice!
+Dialogue: 0,1:12:16.84,1:12:17.90,Default,,0000,0000,0000,,你看着他 我去找人来\N{\rEng}You watch him! l'll be back!
+Dialogue: 0,1:12:18.11,1:12:20.34,Default,,0000,0000,0000,,你这算什么 不讲理你这个人\N{\rEng}How can you do this? lt's unfair!
+Dialogue: 0,1:12:21.68,1:12:23.04,Default,,0000,0000,0000,,我们合作一点 我不看着你\N{\rEng}Tell you what
+Dialogue: 0,1:12:23.24,1:12:23.94,Default,,0000,0000,0000,,你也不要跑\N{\rEng}l won't watch you if you don't run
+Dialogue: 0,1:12:24.14,1:12:24.97,Default,,0000,0000,0000,,那你把钥匙给我\N{\rEng}So you'll give me the key?
+Dialogue: 0,1:12:25.18,1:12:26.15,Default,,0000,0000,0000,,等我回来再说\N{\rEng}When l get back
+Dialogue: 0,1:12:27.08,1:12:28.48,Default,,0000,0000,0000,,我在这儿等你\N{\rEng}Alright, but don't be too long
+Dialogue: 0,1:12:29.78,1:12:31.55,Default,,0000,0000,0000,,还不走 等神仙打救\N{\rEng}He can't leave me!
+Dialogue: 0,1:12:46.83,1:12:48.03,Default,,0000,0000,0000,,怎么白扇子还不来\N{\rEng}How come White Fan isn't here?
+Dialogue: 0,1:12:52.21,1:12:53.57,Default,,0000,0000,0000,,他们两个已经去了\N{\rEng}All the others have left already
+Dialogue: 0,1:12:53.81,1:12:54.97,Default,,0000,0000,0000,,你怎么样呀\N{\rEng}So where were you?
+Dialogue: 0,1:12:55.54,1:12:56.63,Default,,0000,0000,0000,,想打退堂鼓呀\N{\rEng}Maybe he's afraid
+Dialogue: 0,1:12:58.85,1:13:00.81,Default,,0000,0000,0000,,怕什么 我才不怕\N{\rEng}l've never been afraid in my whole life
+Dialogue: 0,1:13:01.65,1:13:03.24,Default,,0000,0000,0000,,那你现在还不去\N{\rEng}You better go and join the others
+Dialogue: 0,1:13:03.48,1:13:04.78,Default,,0000,0000,0000,,不是说未时动身\N{\rEng}l thought we weren't ready
+Dialogue: 0,1:13:05.82,1:13:08.29,Default,,0000,0000,0000,,还是早点好 反正也没订合同\N{\rEng}Know what they say? No time like the present
+Dialogue: 0,1:13:08.92,1:13:10.18,Default,,0000,0000,0000,,好吧 我去了\N{\rEng}Alright, l'm going
+Dialogue: 0,1:13:15.30,1:13:17.09,Default,,0000,0000,0000,,没有这小子碍手碍脚的\N{\rEng}We'll get rid of that kid afterwards
+Dialogue: 0,1:13:17.40,1:13:18.89,Default,,0000,0000,0000,,咱们俩分得更多\N{\rEng}then we can split his share
+Dialogue: 0,1:13:19.50,1:13:22.23,Default,,0000,0000,0000,,金爷 等这条借刀杀人之计\N{\rEng}What we'll do is set him up
+Dialogue: 0,1:13:22.44,1:13:23.90,Default,,0000,0000,0000,,除掉这小子之后\N{\rEng}so he takes the rap for the robbery
+Dialogue: 0,1:13:24.10,1:13:26.37,Default,,0000,0000,0000,,明天到伏处岭把赃物起出来\N{\rEng}Then we can share out the loot at Tiger Peak
+Dialogue: 0,1:13:29.41,1:13:30.31,Default,,0000,0000,0000,,放我出来\N{\rEng}Let me go, please
+Dialogue: 0,1:13:30.94,1:13:32.04,Default,,0000,0000,0000,,叫也没有用\N{\rEng}Shut up, you fool!
+Dialogue: 0,1:13:33.05,1:13:33.98,Default,,0000,0000,0000,,我跟你分了它吧\N{\rEng}Come on, let's go
+Dialogue: 0,1:13:34.35,1:13:35.34,Default,,0000,0000,0000,,弄出人命怎么办\N{\rEng}What're we gonna do with him?
+Dialogue: 0,1:13:35.55,1:13:37.04,Default,,0000,0000,0000,,弄出人命有人负责\N{\rEng}Maybe you should put his lights out
+Dialogue: 0,1:13:38.05,1:13:39.75,Default,,0000,0000,0000,,你的扇子在里面 去拿吧\N{\rEng}Your fan's in there, don't forget it
+Dialogue: 0,1:13:44.06,1:13:47.15,Default,,0000,0000,0000,,你你什么意思\N{\rEng}What do you think you're doing?
+Dialogue: 0,1:13:47.83,1:13:49.06,Default,,0000,0000,0000,,我告诉你\N{\rEng}lf you want to know, the kick
+Dialogue: 0,1:13:49.33,1:13:51.76,Default,,0000,0000,0000,,这一脚是替金爷赐你的\N{\rEng}in the pants was a present from brother Kim!
+Dialogue: 0,1:13:54.67,1:13:57.10,Default,,0000,0000,0000,,想跟我们一块平起平坐\N{\rEng}lf you thought we'd give you a share
+Dialogue: 0,1:13:57.30,1:13:58.67,Default,,0000,0000,0000,,差得远啦\N{\rEng}in the loot my friend, then you were mistaken
+Dialogue: 0,1:13:58.87,1:14:00.13,Default,,0000,0000,0000,,做我们的替死鬼吧\N{\rEng}But we need a scapegoat!
+Dialogue: 0,1:14:00.37,1:14:03.57,Default,,0000,0000,0000,,就这么说 捡回扇子 牢里很热的\N{\rEng}Don't forget your fan! Prisons are hot
+Dialogue: 0,1:14:10.08,1:14:10.81,Default,,0000,0000,0000,,看什么 看什么\N{\rEng}- What's up? - What's up?
+Dialogue: 0,1:14:11.02,1:14:12.14,Default,,0000,0000,0000,,走开 有什么好看的\N{\rEng}Get lost!
+Dialogue: 0,1:14:12.35,1:14:13.61,Default,,0000,0000,0000,,人看人有什么好看\N{\rEng}Nothing to see here! Go on!
+Dialogue: 0,1:14:13.82,1:14:16.65,Default,,0000,0000,0000,,走开\N{\rEng}Move it! Go on home!
+Dialogue: 0,1:14:21.53,1:14:23.26,Default,,0000,0000,0000,,我早就说过这儿有钱捡\N{\rEng}l told you there'd be money for you all
+Dialogue: 0,1:14:24.53,1:14:26.59,Default,,0000,0000,0000,,你这个死老头 竟敢捉弄我\N{\rEng}lf you're looking for trouble
+Dialogue: 0,1:14:28.44,1:14:29.56,Default,,0000,0000,0000,,最多我还给你\N{\rEng}l'll give it back to you!
+Dialogue: 0,1:14:39.68,1:14:41.34,Default,,0000,0000,0000,,你打呀 你打 打呀\N{\rEng}On my head! On my head!
+Dialogue: 0,1:14:45.69,1:14:46.95,Default,,0000,0000,0000,,手挺快的\N{\rEng}He's pretty fast
+Dialogue: 0,1:14:58.50,1:15:01.47,Default,,0000,0000,0000,,打死我了 打死我了\N{\rEng}Please stop it! You're hurting me!
+Dialogue: 0,1:15:01.70,1:15:05.43,Default,,0000,0000,0000,,哎呀这个老头就要给打死了\N{\rEng}Look! They're gonna beat up that poor old man!
+Dialogue: 0,1:15:05.64,1:15:07.23,Default,,0000,0000,0000,,不要\N{\rEng}No, please!...
+Dialogue: 0,1:15:07.44,1:15:08.27,Default,,0000,0000,0000,,死老头儿\N{\rEng}Troublemaker!
+Dialogue: 0,1:15:13.91,1:15:16.97,Default,,0000,0000,0000,,不要踩死我了\N{\rEng}No!...
+Dialogue: 0,1:15:17.18,1:15:18.55,Default,,0000,0000,0000,,你想要我的老命\N{\rEng}Please don't trample on me...
+Dialogue: 0,1:15:18.75,1:15:23.35,Default,,0000,0000,0000,,我快死了\N{\rEng}Please don't trample on me...
+Dialogue: 0,1:15:26.53,1:15:33.40,Default,,0000,0000,0000,,不要\N{\rEng}No...
+Dialogue: 0,1:15:40.07,1:15:41.34,Default,,0000,0000,0000,,他的摊子散了\N{\rEng}There goes your market stall!
+Dialogue: 0,1:15:41.54,1:15:43.20,Default,,0000,0000,0000,,我的布可不愁卖不出去了\N{\rEng}Now l've got no more competition!
+Dialogue: 0,1:15:43.41,1:15:44.04,Default,,0000,0000,0000,,你没事吧\N{\rEng}Are you alright?
+Dialogue: 0,1:15:44.24,1:15:45.11,Default,,0000,0000,0000,,走开\N{\rEng}Move!
+Dialogue: 0,1:15:46.38,1:15:47.94,Default,,0000,0000,0000,,真会装蒜 不要\N{\rEng}- Don't give me that! - No...
+Dialogue: 0,1:15:48.18,1:15:48.94,Default,,0000,0000,0000,,不要打了\N{\rEng}Leave him alone!
+Dialogue: 0,1:15:49.15,1:15:49.95,Default,,0000,0000,0000,,走\N{\rEng}Get off!
+Dialogue: 0,1:15:55.69,1:15:56.71,Default,,0000,0000,0000,,我死了\N{\rEng}Take that!
+Dialogue: 0,1:16:04.03,1:16:04.93,Default,,0000,0000,0000,,胡子掉了\N{\rEng}l see you lost your beard?
+Dialogue: 0,1:16:44.44,1:16:45.60,Default,,0000,0000,0000,,不可以跌\N{\rEng}Can't fall
+Dialogue: 0,1:16:47.14,1:16:48.80,Default,,0000,0000,0000,,谢谢 多谢捧场\N{\rEng}Thank you! Thank you for your support!
+Dialogue: 0,1:17:04.59,1:17:05.06,Default,,0000,0000,0000,,玩完\N{\rEng}Game over.
+Dialogue: 0,1:17:05.26,1:17:06.45,Default,,0000,0000,0000,,还不死 没死\N{\rEng}- Are you dead yet? - Not quite!
+Dialogue: 0,1:17:14.97,1:17:15.87,Default,,0000,0000,0000,,你究竟是谁\N{\rEng}Who the hell are you?
+Dialogue: 0,1:17:30.78,1:17:31.65,Default,,0000,0000,0000,,拿去用吧\N{\rEng}No, no! My shop!
+Dialogue: 0,1:17:32.19,1:17:33.21,Default,,0000,0000,0000,,我的布呀\N{\rEng}My god!
+Dialogue: 0,1:17:33.59,1:17:34.61,Default,,0000,0000,0000,,别那么小器\N{\rEng}Be generous
+Dialogue: 0,1:17:35.39,1:17:39.52,Default,,0000,0000,0000,,反正不是我的 拿去 统统拿去\N{\rEng}Let away!
+Dialogue: 0,1:17:47.60,1:17:49.09,Default,,0000,0000,0000,,干什么呀你 要死啦你\N{\rEng}What are you doing? Get out of there!
+Dialogue: 0,1:17:49.30,1:17:50.43,Default,,0000,0000,0000,,让我躲一下\N{\rEng}Let me in
+Dialogue: 0,1:17:51.94,1:17:53.46,Default,,0000,0000,0000,,出来 出来\N{\rEng}Get out of there!
+Dialogue: 0,1:17:54.91,1:17:56.88,Default,,0000,0000,0000,,死鬼 干什么呀你 真是色鬼\N{\rEng}Stop it! Get out of there!
+Dialogue: 0,1:18:00.18,1:18:01.84,Default,,0000,0000,0000,,打得好痛\N{\rEng}My ear really hurts!
+Dialogue: 0,1:18:02.05,1:18:04.28,Default,,0000,0000,0000,,不要脸 掀女人的裙子\N{\rEng}Dirty old man, we'll call the police on you!
+Dialogue: 0,1:18:04.92,1:18:05.89,Default,,0000,0000,0000,,裙子\N{\rEng}Skirts?
+Dialogue: 0,1:18:53.23,1:18:54.50,Default,,0000,0000,0000,,不可以跌\N{\rEng}No...
+Dialogue: 0,1:18:57.34,1:18:58.80,Default,,0000,0000,0000,,我弹\N{\rEng}l jump
+Dialogue: 0,1:19:06.85,1:19:09.75,Default,,0000,0000,0000,,又要马儿好 又要马儿不吃草\N{\rEng}Time to go for a ride! Time to get off!
+Dialogue: 0,1:20:13.75,1:20:14.77,Default,,0000,0000,0000,,怎么老打一个地方\N{\rEng}He keeps hitting my ear!
+Dialogue: 0,1:20:14.98,1:20:15.97,Default,,0000,0000,0000,,机灵点嘛\N{\rEng}We better be careful!
+Dialogue: 0,1:20:29.03,1:20:31.12,Default,,0000,0000,0000,,那儿去了 在后面\N{\rEng}Where is he? At the back
+Dialogue: 0,1:20:32.77,1:20:33.86,Default,,0000,0000,0000,,等我打断你的脚\N{\rEng}We'll see how tough you are!
+Dialogue: 0,1:20:36.27,1:20:39.26,Default,,0000,0000,0000,,是他的 又打错啦\N{\rEng}Didn't even hurt!
+Dialogue: 0,1:20:42.21,1:20:43.14,Default,,0000,0000,0000,,去死吧你\N{\rEng}Go to hell
+Dialogue: 0,1:20:50.15,1:20:52.52,Default,,0000,0000,0000,,叫你机灵点 你还要来\N{\rEng}lt's rude to peek in through windows!
+Dialogue: 0,1:20:54.96,1:20:55.92,Default,,0000,0000,0000,,别过去\N{\rEng}No, stay out of it!
+Dialogue: 0,1:20:56.79,1:20:57.45,Default,,0000,0000,0000,,捡回钥匙\N{\rEng}Where are those keys?
+Dialogue: 0,1:20:57.66,1:20:58.56,Default,,0000,0000,0000,,我的布 一会儿还给你\N{\rEng}- What about my fabric? - You'll get it back!
+Dialogue: 0,1:20:58.76,1:20:59.75,Default,,0000,0000,0000,,官差来啦\N{\rEng}Here's the police!
+Dialogue: 0,1:21:04.53,1:21:05.79,Default,,0000,0000,0000,,快走 官差来了\N{\rEng}Let's go! Here's the police!
+Dialogue: 0,1:21:08.00,1:21:08.97,Default,,0000,0000,0000,,包围钱庄\N{\rEng}Surround the door!
+Dialogue: 0,1:21:15.51,1:21:16.57,Default,,0000,0000,0000,,里面的人听着\N{\rEng}Alright, you inside!
+Dialogue: 0,1:21:17.04,1:21:18.41,Default,,0000,0000,0000,,你们已经被你包围了\N{\rEng}Come out, the place is surrounded!
+Dialogue: 0,1:21:19.08,1:21:20.41,Default,,0000,0000,0000,,我现在数三下\N{\rEng}l'm gonna count to 3!
+Dialogue: 0,1:21:20.88,1:21:22.97,Default,,0000,0000,0000,,你们马上放下兵器出来投降\N{\rEng}You'll come out quietly and put down your weapons!
+Dialogue: 0,1:21:23.38,1:21:25.51,Default,,0000,0000,0000,,一 二 三\N{\rEng}One! Two! Three!
+Dialogue: 0,1:21:31.63,1:21:32.49,Default,,0000,0000,0000,,别动\N{\rEng}Don't move!
+Dialogue: 0,1:21:32.83,1:21:34.56,Default,,0000,0000,0000,,我这个样子怎么能动呀\N{\rEng}Come on, are you kidding?
+Dialogue: 0,1:21:35.33,1:21:37.06,Default,,0000,0000,0000,,大师兄 你别生气\N{\rEng}Brother, don't be angry!
+Dialogue: 0,1:21:37.96,1:21:39.96,Default,,0000,0000,0000,,大师兄 我知道这样走很辛苦\N{\rEng}Brother, l know it must be tough for you
+Dialogue: 0,1:21:40.17,1:21:41.36,Default,,0000,0000,0000,,顶多我陪你这样走\N{\rEng}so l'll walk the same way, alright?
+Dialogue: 0,1:21:41.57,1:21:44.20,Default,,0000,0000,0000,,来 我答应过师父要带你回去见他的\N{\rEng}l promised master l'd bring you home with me
+Dialogue: 0,1:21:44.44,1:21:46.30,Default,,0000,0000,0000,,如果你给人通缉 我怎样带你回去\N{\rEng}l had to make sure you wouldn't run away again
+Dialogue: 0,1:21:46.51,1:21:48.10,Default,,0000,0000,0000,,所以你趁我不留意就把我锁住\N{\rEng}You didn't have to tie me up like this!
+Dialogue: 0,1:21:48.31,1:21:50.14,Default,,0000,0000,0000,,我带你去和五省捕快谈判\N{\rEng}l gotta take you to the police chief first
+Dialogue: 0,1:21:50.34,1:21:51.81,Default,,0000,0000,0000,,叫他不好再通缉你\N{\rEng}he's the only one who can drop the charges!
+Dialogue: 0,1:21:52.71,1:21:56.74,Default,,0000,0000,0000,,混帐 你以为菜场买菜可以讲价的\N{\rEng}Forget it! Do you think the law was made to be bargained away when it suits you?
+Dialogue: 0,1:21:57.98,1:21:59.35,Default,,0000,0000,0000,,法律不外乎人情\N{\rEng}The law's meant to be compassionate!
+Dialogue: 0,1:22:00.35,1:22:02.65,Default,,0000,0000,0000,,国有国法 没得商量\N{\rEng}lt's the same for everybody. No exceptions!
+Dialogue: 0,1:22:03.22,1:22:04.69,Default,,0000,0000,0000,,让人家将功赎罪也不行\N{\rEng}But he repents what he did wrong
+Dialogue: 0,1:22:04.99,1:22:08.95,Default,,0000,0000,0000,,他劫囚车 做尽坏事 没有人情好讲\N{\rEng}Attacking a police convoy can't be excused!
+Dialogue: 0,1:22:09.76,1:22:11.99,Default,,0000,0000,0000,,那你们公差有时候也会做坏事呀\N{\rEng}But even government officials commit crimes
+Dialogue: 0,1:22:12.20,1:22:15.17,Default,,0000,0000,0000,,混帐 劫囚车是很大的罪名\N{\rEng}Says who? At least we don't ambush convoys!
+Dialogue: 0,1:22:15.37,1:22:17.30,Default,,0000,0000,0000,,我把他捉回来不是等于没劫啦\N{\rEng}lf l brought back the convict would it change things?
+Dialogue: 0,1:22:17.54,1:22:18.40,Default,,0000,0000,0000,,混帐\N{\rEng}Ridiculous!
+Dialogue: 0,1:22:18.61,1:22:20.44,Default,,0000,0000,0000,,混帐 你就知道说混帐\N{\rEng}What's ridiculous about it?
+Dialogue: 0,1:22:21.07,1:22:23.94,Default,,0000,0000,0000,,你砍了人一刀 人家伤好了\N{\rEng}lf you cut somebody's arm the wound will heal
+Dialogue: 0,1:22:24.18,1:22:25.58,Default,,0000,0000,0000,,难道你说你没砍过\N{\rEng}but you still cut his arm
+Dialogue: 0,1:22:27.15,1:22:30.61,Default,,0000,0000,0000,,好 现在我拿了你的烟杆\N{\rEng}Alright. What if l take your pipe?
+Dialogue: 0,1:22:31.28,1:22:32.65,Default,,0000,0000,0000,,快放下我的烟杆\N{\rEng}Put it down right now!
+Dialogue: 0,1:22:33.09,1:22:35.92,Default,,0000,0000,0000,,我现在放回去了不等于没拿吗\N{\rEng}lf l put it back down then it's like l never took it
+Dialogue: 0,1:22:36.16,1:22:37.82,Default,,0000,0000,0000,,爹 反正上面追得这么急\N{\rEng}Father, you don't have much time
+Dialogue: 0,1:22:38.02,1:22:39.75,Default,,0000,0000,0000,,他肯帮你捉 这不是很好吗\N{\rEng}lf he wants to let him find Kim
+Dialogue: 0,1:22:39.96,1:22:41.98,Default,,0000,0000,0000,,捉人 难道我自已不会捉吗\N{\rEng}Don't interfere. l can find Kim myself
+Dialogue: 0,1:22:42.20,1:22:43.92,Default,,0000,0000,0000,,你不知道他在那儿 我知道\N{\rEng}You don't know where he is and l do
+Dialogue: 0,1:22:44.13,1:22:44.69,Default,,0000,0000,0000,,你不肯是吧\N{\rEng}But if you don't want to do a deal
+Dialogue: 0,1:22:44.90,1:22:46.53,Default,,0000,0000,0000,,我和大师兄喝茶去不管啦\N{\rEng}then it's your problem, mister
+Dialogue: 0,1:22:46.73,1:22:47.76,Default,,0000,0000,0000,,不许走\N{\rEng}Wait a minute!
+Dialogue: 0,1:22:48.00,1:22:51.10,Default,,0000,0000,0000,,你窝藏通缉犯 连你一块抓\N{\rEng}lf you're sheltering a fugitive, l'll have you arrested!
+Dialogue: 0,1:22:53.21,1:22:55.11,Default,,0000,0000,0000,,五省捕头 你不要迫人太甚\N{\rEng}l wouldn't push too far if l were you!
+Dialogue: 0,1:22:57.51,1:23:00.24,Default,,0000,0000,0000,,话我可说到这儿 你自已考虑考虑\N{\rEng}Here's the deal. l'll let you think it over
+Dialogue: 0,1:23:00.45,1:23:01.88,Default,,0000,0000,0000,,我敲三下就落锤成交\N{\rEng}l'll count to 3 and bang on the table
+Dialogue: 0,1:23:02.08,1:23:04.21,Default,,0000,0000,0000,,肯不肯随你的便 一二三\N{\rEng}and you give me your answer. Ready, 3!
+Dialogue: 0,1:23:05.49,1:23:07.11,Default,,0000,0000,0000,,好 好 好\N{\rEng}Wait! Alright, alright!
+Dialogue: 0,1:23:07.72,1:23:10.42,Default,,0000,0000,0000,,那如果你抓不到金脚带回来\N{\rEng}You'd better bring that criminal back with you
+Dialogue: 0,1:23:10.82,1:23:11.95,Default,,0000,0000,0000,,你就准备探监吧\N{\rEng}or you'll be sharing his cell!
+Dialogue: 0,1:23:12.16,1:23:16.72,Default,,0000,0000,0000,,四六 五五 三七 你七我三\N{\rEng}50! No, 40! Alright, 30!...
+Dialogue: 0,1:23:24.37,1:23:26.10,Default,,0000,0000,0000,,找人给你去做三七吧\N{\rEng}Alright, you can take 70 percent!
+Dialogue: 0,1:23:41.69,1:23:42.55,Default,,0000,0000,0000,,金爷 我们朋友一场\N{\rEng}lt's not in my nature to share things
+Dialogue: 0,1:23:42.76,1:23:45.32,Default,,0000,0000,0000,,给我留点纪念品总可以吧\N{\rEng}For old times sake, leave me a small souvenir, won't you?
+Dialogue: 0,1:23:52.17,1:23:54.76,Default,,0000,0000,0000,,你想拿点去做纪念品是吗\N{\rEng}You did say you wanted a souvenir
+Dialogue: 0,1:23:57.87,1:24:00.86,Default,,0000,0000,0000,,可以 拿去放骨头去吧\N{\rEng}Alright, here. To bury your bones!
+Dialogue: 0,1:24:01.37,1:24:02.27,Default,,0000,0000,0000,,救命吧\N{\rEng}No, please don't!
+Dialogue: 0,1:24:07.78,1:24:08.91,Default,,0000,0000,0000,,我接住了\N{\rEng}lt's alright, l caught it!
+Dialogue: 0,1:24:12.02,1:24:12.48,Default,,0000,0000,0000,,是你呀\N{\rEng}lt's you!
+Dialogue: 0,1:24:12.69,1:24:16.05,Default,,0000,0000,0000,,你可真毒辣 串谋金脚带害我大师兄\N{\rEng}You really are a slimebag. You teamed up with him to trap my brother
+Dialogue: 0,1:24:16.26,1:24:17.85,Default,,0000,0000,0000,,你死一百次都应该\N{\rEng}You're lucky l don't rip you apart!
+Dialogue: 0,1:24:18.46,1:24:20.09,Default,,0000,0000,0000,,那你为什么帮我接着这东西\N{\rEng}Then why did you catch the pot?
+Dialogue: 0,1:24:20.39,1:24:22.12,Default,,0000,0000,0000,,我是怕埕了破了 伤害那些小孩\N{\rEng}l don't like seeing nice things getting broken
+Dialogue: 0,1:24:22.33,1:24:25.06,Default,,0000,0000,0000,,臭小子碍手碍脚的\N{\rEng}You're always in the way
+Dialogue: 0,1:24:25.70,1:24:26.76,Default,,0000,0000,0000,,你到这儿来干什么\N{\rEng}So what are you doing here?
+Dialogue: 0,1:24:27.07,1:24:30.63,Default,,0000,0000,0000,,我 捉你回去交给五省捕头\N{\rEng}l'm here to take you back to the police!
+Dialogue: 0,1:24:32.57,1:24:35.30,Default,,0000,0000,0000,,金脚带 捉蛇的来了\N{\rEng}Serves you right. He's come to take you in
+Dialogue: 0,1:24:35.51,1:24:38.31,Default,,0000,0000,0000,,捉我 就凭你\N{\rEng}You what? This squirt?
+Dialogue: 0,1:24:41.95,1:24:42.97,Default,,0000,0000,0000,,有什么好笑\N{\rEng}What's so funny?
+Dialogue: 0,1:24:44.88,1:24:46.32,Default,,0000,0000,0000,,想想倒是挺好笑\N{\rEng}lt's true, it does sound funny
+Dialogue: 0,1:24:46.52,1:24:47.71,Default,,0000,0000,0000,,亏你笑得出来\N{\rEng}l don't hear you laughing!
+Dialogue: 0,1:24:51.09,1:24:52.06,Default,,0000,0000,0000,,你要小心点\N{\rEng}You'd better be careful
+Dialogue: 0,1:24:52.26,1:24:54.16,Default,,0000,0000,0000,,这条金脚带很厉害的\N{\rEng}He's an extremely dangerous fellow
+Dialogue: 0,1:24:54.43,1:24:56.73,Default,,0000,0000,0000,,尤其是他的虎尾脚\N{\rEng}You better watch out for his Tiger Tail move
+Dialogue: 0,1:25:13.81,1:25:19.05,Default,,0000,0000,0000,,你这样的武功想捉我 作梦\N{\rEng}Take me in? There's no chance!
+Dialogue: 0,1:25:21.99,1:25:25.69,Default,,0000,0000,0000,,完了 这小子要是打不过他\N{\rEng}Damn! Whichever way this ends
+Dialogue: 0,1:25:25.89,1:25:27.05,Default,,0000,0000,0000,,我跟他一样的没命\N{\rEng}the situation doesn't look good for me
+Dialogue: 0,1:25:27.26,1:25:29.19,Default,,0000,0000,0000,,我一定帮他打赢金脚带\N{\rEng}l'd rather take my chances with the kid!
+Dialogue: 0,1:25:40.81,1:25:43.97,Default,,0000,0000,0000,,看着呀 中\N{\rEng}Are you watching?
+Dialogue: 0,1:25:45.31,1:25:47.18,Default,,0000,0000,0000,,中上路 中下路\N{\rEng}The legs! Legs head!
+Dialogue: 0,1:25:54.55,1:25:57.11,Default,,0000,0000,0000,,等会 我还没叫你你就冲出去了\N{\rEng}Wait! Don't run back in there you'll get massacred!
+Dialogue: 0,1:25:57.42,1:26:00.52,Default,,0000,0000,0000,,他的下盘功夫很厉害\N{\rEng}His leg skills are legendary, you don't have a chance
+Dialogue: 0,1:26:01.19,1:26:03.19,Default,,0000,0000,0000,,不如攻他的上三路\N{\rEng}lnstead, you should attack his upper body
+Dialogue: 0,1:26:03.53,1:26:04.22,Default,,0000,0000,0000,,上三路\N{\rEng}Upper body?
+Dialogue: 0,1:27:30.05,1:27:30.95,Default,,0000,0000,0000,,好呀\N{\rEng}You're learning fast
+Dialogue: 0,1:27:43.86,1:27:45.92,Default,,0000,0000,0000,,真有你的 两三招下来\N{\rEng}You've found out already
+Dialogue: 0,1:27:46.13,1:27:47.96,Default,,0000,0000,0000,,你就试探出他的上三路更厉害\N{\rEng}that his upper body's even deadlier!
+Dialogue: 0,1:27:48.17,1:27:49.23,Default,,0000,0000,0000,,你怎么不早点说\N{\rEng}Why didn't you tell me?
+Dialogue: 0,1:27:49.44,1:27:50.33,Default,,0000,0000,0000,,怕打终须打\N{\rEng}lf you want to win a battle you have to take a few hits
+Dialogue: 0,1:27:50.54,1:27:52.97,Default,,0000,0000,0000,,多挨几下你就会习惯了嘛\N{\rEng}You'll get used to it!
+Dialogue: 0,1:27:53.27,1:27:55.10,Default,,0000,0000,0000,,打的不是你 当然说得轻松呀\N{\rEng}You can talk, you're not the one getting hit!
+Dialogue: 0,1:27:55.91,1:27:56.74,Default,,0000,0000,0000,,打到现在\N{\rEng}Haven't you noticed something?
+Dialogue: 0,1:27:56.94,1:27:58.67,Default,,0000,0000,0000,,你还看不出他是单蹄马\N{\rEng}Your opponent is a one legged horse
+Dialogue: 0,1:27:59.35,1:28:01.01,Default,,0000,0000,0000,,他只有左脚能使用\N{\rEng}He always relies on his left leg!
+Dialogue: 0,1:28:07.05,1:28:08.92,Default,,0000,0000,0000,,你那么了解他 你去打好了\N{\rEng}You're such an expert, you fight him!
+Dialogue: 0,1:28:10.22,1:28:13.28,Default,,0000,0000,0000,,我去了 谁替你做武术指导\N{\rEng}lf l fight, there'll be no one to coach you
+Dialogue: 0,1:28:18.70,1:28:20.93,Default,,0000,0000,0000,,克难时期吃点苦 算不了什么\N{\rEng}Pain means the muscle's working. You're doing just fine
+Dialogue: 0,1:28:21.13,1:28:22.73,Default,,0000,0000,0000,,不用怕 去\N{\rEng}Go on!
+Dialogue: 0,1:28:56.00,1:28:58.27,Default,,0000,0000,0000,,起来 快 快起来\N{\rEng}Come on, get up. What's the matter?
+Dialogue: 0,1:28:58.77,1:29:00.17,Default,,0000,0000,0000,,你为什么不还手\N{\rEng}Go on, what're you doing?
+Dialogue: 0,1:29:00.61,1:29:01.94,Default,,0000,0000,0000,,我打不到他啊\N{\rEng}l'm trying, you idiot!
+Dialogue: 0,1:29:02.21,1:29:03.61,Default,,0000,0000,0000,,现在不是打让赛\N{\rEng}Stop playing and get stuck in!
+Dialogue: 0,1:29:35.88,1:29:38.74,Default,,0000,0000,0000,,别放手 就算是天塌下来也不要放手\N{\rEng}Don't let go even if you're struck by lightning!
+Dialogue: 0,1:30:06.64,1:30:09.73,Default,,0000,0000,0000,,我打中他啦\N{\rEng}Did you see that? l did it!
+Dialogue: 0,1:30:10.24,1:30:13.08,Default,,0000,0000,0000,,再接再励呀 你小心呀\N{\rEng}Watch out! lt's not over! Behind you!
+Dialogue: 0,1:30:16.85,1:30:18.75,Default,,0000,0000,0000,,怎么会这么巧呀\N{\rEng}l told you to be careful of him, didn't l?
+Dialogue: 0,1:30:19.25,1:30:20.84,Default,,0000,0000,0000,,这脚是踢得比较重\N{\rEng}You walked right into that one, sonny!
+Dialogue: 0,1:30:23.39,1:30:24.38,Default,,0000,0000,0000,,他来了 他来了\N{\rEng}Look out, here he comes!
+Dialogue: 0,1:30:24.59,1:30:31.52,Default,,0000,0000,0000,,快起来 快起来\N{\rEng}Get up, kid, get up!
+Dialogue: 0,1:30:33.27,1:30:34.36,Default,,0000,0000,0000,,再接再励\N{\rEng}Now get going, go on!
+Dialogue: 0,1:31:01.13,1:31:02.12,Default,,0000,0000,0000,,不要看了\N{\rEng}l don't know to see
+Dialogue: 0,1:31:23.42,1:31:26.39,Default,,0000,0000,0000,,振作点 振作点\N{\rEng}Don't give up, kid! Don't give up!
+Dialogue: 0,1:31:26.92,1:31:28.15,Default,,0000,0000,0000,,他再踢几脚就没气了\N{\rEng}l know you can do it
+Dialogue: 0,1:31:28.35,1:31:29.34,Default,,0000,0000,0000,,没气脚就发软\N{\rEng}Another couple of good kicks and he'll be on the ground
+Dialogue: 0,1:31:29.56,1:31:30.99,Default,,0000,0000,0000,,脚发软就轮到你发威啦\N{\rEng}l know you can do it, kid!
+Dialogue: 0,1:31:35.76,1:31:36.92,Default,,0000,0000,0000,,我也没有气了\N{\rEng}Stay with me!
+Dialogue: 0,1:31:37.13,1:31:38.65,Default,,0000,0000,0000,,有有有\N{\rEng}You need some fresh air
+Dialogue: 0,1:31:39.80,1:31:41.99,Default,,0000,0000,0000,,新鲜空气新鲜空气来了\N{\rEng}You'll feel better
+Dialogue: 0,1:31:42.20,1:31:43.29,Default,,0000,0000,0000,,水\N{\rEng}Water...water...
+Dialogue: 0,1:31:43.50,1:31:45.23,Default,,0000,0000,0000,,水有\N{\rEng}Stay right there!
+Dialogue: 0,1:31:50.18,1:31:51.47,Default,,0000,0000,0000,,神仙水到\N{\rEng}This is angel's water
+Dialogue: 0,1:31:51.91,1:31:53.07,Default,,0000,0000,0000,,水到渠成\N{\rEng}lt'll do you good
+Dialogue: 0,1:32:00.59,1:32:02.55,Default,,0000,0000,0000,,现在才第一个回合\N{\rEng}This is only the first round, remember
+Dialogue: 0,1:32:04.26,1:32:05.35,Default,,0000,0000,0000,,现在才第一个回合呀\N{\rEng}What you mean it's just the first round?
+Dialogue: 0,1:32:05.56,1:32:07.65,Default,,0000,0000,0000,,是呀 你再捱三个回合\N{\rEng}Hold on for another 3 rounds
+Dialogue: 0,1:32:07.89,1:32:09.45,Default,,0000,0000,0000,,那老家伙就没力气\N{\rEng}the old fart doesn't have it in him
+Dialogue: 0,1:32:09.93,1:32:11.09,Default,,0000,0000,0000,,他过来了\N{\rEng}l don't think l have either, honest!
+Dialogue: 0,1:32:11.46,1:32:13.80,Default,,0000,0000,0000,,糟了 上\N{\rEng}Go on, go on! Quick!
+Dialogue: 0,1:32:16.14,1:32:18.40,Default,,0000,0000,0000,,好好的打他一顿\N{\rEng}Let him have it, kid! Go on, get him!
+Dialogue: 0,1:32:19.84,1:32:21.81,Default,,0000,0000,0000,,你想干什么 你不要走过来呀\N{\rEng}What're you doing? l'm the referee!
+Dialogue: 0,1:32:22.24,1:32:24.04,Default,,0000,0000,0000,,不准打公证人\N{\rEng}He's attacking the referee, you must stop him!
+Dialogue: 0,1:32:24.31,1:32:25.47,Default,,0000,0000,0000,,打公证人是犯规的\N{\rEng}He's not allowed to do that!
+Dialogue: 0,1:32:25.81,1:32:26.68,Default,,0000,0000,0000,,你帮我顶住\N{\rEng}Go on, do your stuff!
+Dialogue: 0,1:32:30.38,1:32:32.08,Default,,0000,0000,0000,,你还不帮我顶住\N{\rEng}Go on, don't just stand there watching!
+Dialogue: 0,1:32:32.29,1:32:33.95,Default,,0000,0000,0000,,别对老家伙客气\N{\rEng}The best defence is attack, remember?
+Dialogue: 0,1:32:34.19,1:32:35.68,Default,,0000,0000,0000,,现在又不是开敬老会\N{\rEng}Go on, what are you waiting for?
+Dialogue: 0,1:32:36.02,1:32:39.69,Default,,0000,0000,0000,,上呀 上呀 快点上 快上\N{\rEng}Go on, go ahead!
+Dialogue: 0,1:34:00.77,1:34:02.80,Default,,0000,0000,0000,,新鲜空气 新鲜空气\N{\rEng}Come here! You need more fresh air
+Dialogue: 0,1:34:03.01,1:34:05.67,Default,,0000,0000,0000,,水 水\N{\rEng}Water...
+Dialogue: 0,1:34:05.88,1:34:07.68,Default,,0000,0000,0000,,水 水\N{\rEng}Water
+Dialogue: 0,1:34:08.41,1:34:09.47,Default,,0000,0000,0000,,这个回合你赢啦\N{\rEng}You're doing just fine. l think you won that round
+Dialogue: 0,1:34:09.88,1:34:10.75,Default,,0000,0000,0000,,怎么会呢\N{\rEng}Why'd you say that?
+Dialogue: 0,1:34:11.25,1:34:12.38,Default,,0000,0000,0000,,我做公证人嘛\N{\rEng}Because l'm the referee
+Dialogue: 0,1:34:15.65,1:34:16.88,Default,,0000,0000,0000,,又来了 快上\N{\rEng}Look out, here he comes! Go on!
+Dialogue: 0,1:34:22.29,1:34:23.45,Default,,0000,0000,0000,,再接再励\N{\rEng}Go on!
+Dialogue: 0,1:34:41.05,1:34:42.38,Default,,0000,0000,0000,,锁死他的脚\N{\rEng}Try to lock his leg!
+Dialogue: 0,1:34:43.28,1:34:44.75,Default,,0000,0000,0000,,千万别让他回气呀\N{\rEng}lt's the only way to slow him up!
+Dialogue: 0,1:35:16.55,1:35:19.04,Default,,0000,0000,0000,,喝水 喝水\N{\rEng}Take this. Go on, you need it!
+Dialogue: 0,1:35:19.35,1:35:22.79,Default,,0000,0000,0000,,他又来了 幸亏有第一度防线\N{\rEng}At least l have you to protect me!
+Dialogue: 0,1:35:31.23,1:35:33.70,Default,,0000,0000,0000,,第三类接触 怎么这么厉害呀\N{\rEng}l'm getting too old for this kind of shit!
+Dialogue: 0,1:35:58.56,1:36:00.92,Default,,0000,0000,0000,,真有你的 我真服了你\N{\rEng}You're doing just great, kid!
+Dialogue: 0,1:36:01.13,1:36:02.18,Default,,0000,0000,0000,,我现在才知道\N{\rEng}Sitting there, watching you fighting
+Dialogue: 0,1:36:02.39,1:36:04.49,Default,,0000,0000,0000,,什么叫做真正的年轻人\N{\rEng}it reminded me of me when l was younger!
+Dialogue: 0,1:36:05.03,1:36:06.83,Default,,0000,0000,0000,,你何止是打不死\N{\rEng}Not only are you unbeatable
+Dialogue: 0,1:36:07.20,1:36:09.06,Default,,0000,0000,0000,,简直是永不磨损型\N{\rEng}but you're also indestructible!
+Dialogue: 0,1:36:10.57,1:36:14.30,Default,,0000,0000,0000,,你不用安慰我了 水 给我水\N{\rEng}l'm glad you're so confident
+Dialogue: 0,1:36:14.51,1:36:15.87,Default,,0000,0000,0000,,水 有 有\N{\rEng}Water...l need water!
+Dialogue: 0,1:36:28.09,1:36:29.08,Default,,0000,0000,0000,,水来了\N{\rEng}Here's the water. Now drink up
+Dialogue: 0,1:36:29.29,1:36:32.02,Default,,0000,0000,0000,,老弟 我绝不会让你渴死的\N{\rEng}This should give you a kick, hold tight!
+Dialogue: 0,1:36:34.03,1:36:35.58,Default,,0000,0000,0000,,你打到那儿喝到那儿\N{\rEng}Don't worry. lt's alright
+Dialogue: 0,1:36:35.79,1:36:37.42,Default,,0000,0000,0000,,比神仙还要快乐\N{\rEng}lt just has a funny taste
+Dialogue: 0,1:36:38.06,1:36:40.05,Default,,0000,0000,0000,,这枝十年的烟袋水 杀菌的\N{\rEng}lt's just the water from my pipe, it won't kill you
+Dialogue: 0,1:36:49.21,1:36:51.97,Default,,0000,0000,0000,,烟水也是水呀 不过比较苦一点\N{\rEng}Bet you feel better, don't you?
+Dialogue: 0,1:36:54.98,1:36:56.54,Default,,0000,0000,0000,,来来来 新鲜空气\N{\rEng}Here, have some fresh air
+Dialogue: 0,1:37:02.59,1:37:03.75,Default,,0000,0000,0000,,你这个金脚带\N{\rEng}That was unfair!
+Dialogue: 0,1:37:03.96,1:37:07.15,Default,,0000,0000,0000,,不作一声踢我的椰青\N{\rEng}Kicking an old age pensioner like that!
+Dialogue: 0,1:38:03.22,1:38:06.12,Default,,0000,0000,0000,,挑金不挑银 你倒挺会挑的\N{\rEng}lt's pretty smart of you to take all the gold and leave the silver
+Dialogue: 0,1:38:06.72,1:38:08.15,Default,,0000,0000,0000,,金价起了嘛\N{\rEng}The price of gold nowadays...
+Dialogue: 0,1:38:12.73,1:38:15.66,Default,,0000,0000,0000,,真是起得快 跌得快\N{\rEng}What goes up must come down again!
+Dialogue: 0,1:41:33.23,1:41:34.75,Default,,0000,0000,0000,,打得好 打得好\N{\rEng}Good boy! Good boy!
+Dialogue: 0,1:42:16.24,1:42:17.40,Default,,0000,0000,0000,,站住\N{\rEng}Come here!
+Dialogue: 0,1:42:19.54,1:42:23.13,Default,,0000,0000,0000,,兄弟 了不起 了不起\N{\rEng}Kid, you were great!
+Dialogue: 0,1:42:23.54,1:42:24.70,Default,,0000,0000,0000,,你赢了\N{\rEng}You were just great! You're the winner!
+Dialogue: 0,1:42:26.14,1:42:27.48,Default,,0000,0000,0000,,这些黄金 我们一人分一半\N{\rEng}We'll split the prize 5050
+Dialogue: 0,1:42:28.11,1:42:29.24,Default,,0000,0000,0000,,干什么\N{\rEng}Stop it! What are you...?
+Dialogue: 0,1:42:31.18,1:42:33.08,Default,,0000,0000,0000,,裤带嘛 拿去用吧\N{\rEng}You can have my belt if you want it
+Dialogue: 0,1:42:44.63,1:42:46.26,Default,,0000,0000,0000,,师父 大师兄回来啦\N{\rEng}Master! Brother Jing is coming!
+Dialogue: 0,1:42:47.27,1:42:53.97,Default,,0000,0000,0000,,师父 大师兄回来啦\N{\rEng}Master, Jing's back!...
+Dialogue: 0,1:42:55.37,1:42:56.24,Default,,0000,0000,0000,,师父\N{\rEng}Master!
+Dialogue: 0,1:42:56.71,1:43:00.37,Default,,0000,0000,0000,,起来 起来 阿龙呢\N{\rEng}Get up. get up. Where is Ah Lung?
+Dialogue: 0,1:43:05.12,1:43:09.61,Default,,0000,0000,0000,,快点 快点 龙哥在那儿\N{\rEng}Brother Lung!... Come on!
+Dialogue: 0,1:43:23.67,1:43:25.60,Default,,0000,0000,0000,,师父 我回来啦\N{\rEng}Master, l said l'd return
+Dialogue: 0,1:43:27.84,1:43:29.10,Default,,0000,0000,0000,,怎么弄成这个样子\N{\rEng}Lung, what happened to you?
+Dialogue: 0,1:43:29.31,1:43:30.64,Default,,0000,0000,0000,,快抬他回去\N{\rEng}Bring him in! Come on, hurry up!
+

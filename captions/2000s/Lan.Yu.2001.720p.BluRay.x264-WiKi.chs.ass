@@ -1,0 +1,1048 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,16,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:38.66,0:00:40.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那天早上你走了以后
+Dialogue: 0,0:00:41.37,0:00:42.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我一直为你悬着心
+Dialogue: 0,0:00:44.58,0:00:46.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一直觉得你仍然在我身边
+Dialogue: 0,0:00:48.00,0:00:49.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道吗
+Dialogue: 0,0:01:29.16,0:01:30.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东  该你啦
+Dialogue: 0,0:01:33.74,0:01:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我操
+Dialogue: 0,0:01:35.03,0:01:37.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这他妈黑球一晚上尽跟我捣蛋
+Dialogue: 0,0:01:37.79,0:01:39.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再这样下去  看我非把丫给吃了不可
+Dialogue: 0,0:01:39.79,0:01:43.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可别介  你要是把它给吃了\N我们可就没戏看了
+Dialogue: 0,0:01:43.38,0:01:44.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们也该撤了  对吧
+Dialogue: 0,0:01:45.54,0:01:47.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行了  行了  小彬子
+Dialogue: 0,0:01:49.13,0:01:51.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}替我给他们来两瓶威士忌  要黑的
+Dialogue: 0,0:01:51.67,0:01:53.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上次弄个红的来  多难喝啊
+Dialogue: 0,0:01:54.25,0:01:55.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好球
+Dialogue: 0,0:01:58.25,0:01:59.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我可是听说了
+Dialogue: 0,0:01:59.96,0:02:02.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上一次您可是把人家弄的
+Dialogue: 0,0:02:03.67,0:02:04.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说的哪一个
+Dialogue: 0,0:02:04.92,0:02:08.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么哪一个  人家可是有名有姓的大闺女
+Dialogue: 0,0:02:08.54,0:02:09.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叫什么来着
+Dialogue: 0,0:02:10.67,0:02:11.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你问他
+Dialogue: 0,0:02:12.25,0:02:13.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家玩得还开心吧
+Dialogue: 0,0:02:13.67,0:02:15.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征  你丫跑哪儿去了
+Dialogue: 0,0:02:15.50,0:02:16.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是呀  刘征
+Dialogue: 0,0:02:16.83,0:02:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这红的不好喝黑的又不听话
+Dialogue: 0,0:02:19.33,0:02:21.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天晚上可看你的本事了
+Dialogue: 0,0:02:21.58,0:02:23.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总  你要的两瓶黑方来了
+Dialogue: 0,0:02:26.33,0:02:29.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘大力  我可提醒着你  欠我三杯呢
+Dialogue: 0,0:02:30.00,0:02:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧还上
+Dialogue: 0,0:02:31.13,0:02:32.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}张姐你就饶了我吧
+Dialogue: 0,0:02:32.58,0:02:34.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你就赶紧过来给我喝酒  来
+Dialogue: 0,0:02:43.21,0:02:44.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征  你怎么还不进来
+Dialogue: 0,0:02:45.33,0:02:47.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先等会儿  还有点事没办完呢
+Dialogue: 0,0:02:47.79,0:02:49.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我操  神秘兮兮干什么呀
+Dialogue: 0,0:02:50.54,0:02:51.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没你的事  你别管
+Dialogue: 0,0:02:51.79,0:02:53.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还是不是我的员工
+Dialogue: 0,0:02:58.79,0:03:00.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁呀
+Dialogue: 0,0:03:00.83,0:03:02.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个朋友的弟弟
+Dialogue: 0,0:03:02.58,0:03:04.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就你还有朋友呢
+Dialogue: 0,0:03:04.54,0:03:05.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你没几个朋友
+Dialogue: 0,0:03:08.88,0:03:10.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着
+Dialogue: 0,0:03:11.00,0:03:12.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大学生缺钱嘛
+Dialogue: 0,0:03:13.67,0:03:15.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你把他领到这里来赢咱哥儿几个的钱来了
+Dialogue: 0,0:03:15.58,0:03:16.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那不敢
+Dialogue: 0,0:03:17.25,0:03:19.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是要把他介绍给这儿的王总
+Dialogue: 0,0:03:20.83,0:03:22.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王八
+Dialogue: 0,0:03:22.92,0:03:24.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干什么呀
+Dialogue: 0,0:03:24.13,0:03:25.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是介绍嘛  别问那么多
+Dialogue: 0,0:03:26.21,0:03:27.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈扞东  你还来不来了
+Dialogue: 0,0:03:27.75,0:03:28.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  等会儿
+Dialogue: 0,0:03:31.25,0:03:33.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不是开玩笑吧  王八也玩这个
+Dialogue: 0,0:03:34.25,0:03:35.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哪个
+Dialogue: 0,0:03:36.88,0:03:38.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多少钱
+Dialogue: 0,0:03:39.33,0:03:40.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么多少钱
+Dialogue: 0,0:03:40.88,0:03:42.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你丫甭装蒜啊
+Dialogue: 0,0:03:44.92,0:03:46.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一本吧
+Dialogue: 0,0:03:48.33,0:03:49.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}才他妈的一本
+Dialogue: 0,0:03:55.13,0:03:56.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干净吗
+Dialogue: 0,0:03:57.67,0:04:00.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看上去挺健康的  大概一洗就好
+Dialogue: 0,0:04:02.13,0:04:03.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}功夫怎么样
+Dialogue: 0,0:04:03.88,0:04:07.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么怎么样  人家是走投无路才出此下策
+Dialogue: 0,0:04:08.83,0:04:10.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你把他介绍给王八就是上策了
+Dialogue: 0,0:04:13.21,0:04:18.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这样吧  今天晚上咱们跟你朋友的弟弟
+Dialogue: 0,0:04:18.38,0:04:19.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一块吃顿饭  怎么样
+Dialogue: 0,0:04:20.21,0:04:21.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,0:04:23.13,0:04:26.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别闹了  你瞎折腾什么呀
+Dialogue: 0,0:04:31.21,0:04:32.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他叫什么来着
+Dialogue: 0,0:04:33.29,0:04:33.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,0:04:47.21,0:04:48.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还坐这儿
+Dialogue: 0,0:04:50.96,0:04:52.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:05:03.79,0:05:05.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是说
+Dialogue: 0,0:05:05.42,0:05:07.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我还以为你把我所有的东西
+Dialogue: 0,0:05:07.63,0:05:09.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全都打包带起来一块颠儿了呢
+Dialogue: 0,0:05:35.67,0:05:36.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不早了
+Dialogue: 0,0:05:37.25,0:05:38.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去洗个澡吧
+Dialogue: 0,0:05:40.54,0:05:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大哥
+Dialogue: 0,0:05:43.46,0:05:44.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}您去过美国吗
+Dialogue: 0,0:06:22.25,0:06:23.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么时候了
+Dialogue: 0,0:06:33.58,0:06:34.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}操
+Dialogue: 0,0:06:34.96,0:06:36.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这帮欧洲大款
+Dialogue: 0,0:06:36.79,0:06:38.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没一个守时的
+Dialogue: 0,0:06:38.79,0:06:40.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怪不得他们国家那么穷
+Dialogue: 0,0:06:42.79,0:06:44.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不急着走吧
+Dialogue: 0,0:06:47.88,0:06:49.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明早没课
+Dialogue: 0,0:06:50.21,0:06:51.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大学生啊
+Dialogue: 0,0:06:53.00,0:06:54.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}念建筑的
+Dialogue: 0,0:06:54.83,0:06:56.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}念建筑还缺钱
+Dialogue: 0,0:06:58.92,0:07:00.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哪儿人那
+Dialogue: 0,0:07:02.33,0:07:03.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东北
+Dialogue: 0,0:07:04.38,0:07:09.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我呀  是念文科的  成绩是不大好
+Dialogue: 0,0:07:09.46,0:07:11.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是我的公司  今天可是市值逾亿呀
+Dialogue: 0,0:07:13.25,0:07:15.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你哪来那么多  喷得我混身都是
+Dialogue: 0,0:07:19.96,0:07:21.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也擦擦
+Dialogue: 0,0:07:28.00,0:07:30.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天晚上就住这儿吧
+Dialogue: 0,0:07:38.96,0:07:40.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}第一次吧
+Dialogue: 0,0:07:45.63,0:07:46.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有女朋友吗
+Dialogue: 0,0:07:47.33,0:07:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有
+Dialogue: 0,0:07:52.71,0:07:53.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}又硬起来
+Dialogue: 0,0:07:59.46,0:08:00.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}接过吻吗
+Dialogue: 0,0:08:01.42,0:08:02.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没
+Dialogue: 0,0:08:04.21,0:08:05.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不要我教你
+Dialogue: 0,0:08:47.96,0:08:50.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呦  大学生
+Dialogue: 0,0:08:51.33,0:08:53.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我还以为你熬不住跑回老家去了
+Dialogue: 0,0:08:55.38,0:08:56.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我可没那么容易放弃
+Dialogue: 0,0:08:58.92,0:09:00.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么久不见  还成吧
+Dialogue: 0,0:09:02.50,0:09:03.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}四个月
+Dialogue: 0,0:09:04.33,0:09:05.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:09:05.88,0:09:07.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}昨天  刚四个月
+Dialogue: 0,0:09:07.50,0:09:09.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哦  对
+Dialogue: 0,0:09:13.42,0:09:14.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你今天  你
+Dialogue: 0,0:09:14.88,0:09:15.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:09:15.71,0:09:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先说
+Dialogue: 0,0:09:18.21,0:09:19.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也没什么
+Dialogue: 0,0:09:20.50,0:09:22.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上次留个电话号码给你
+Dialogue: 0,0:09:22.29,0:09:23.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是让你来找我的嘛
+Dialogue: 0,0:09:24.21,0:09:28.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那张纸条让我给忘了  洗衣服的时候没发现
+Dialogue: 0,0:09:29.21,0:09:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}晾衣服那会儿才想起来
+Dialogue: 0,0:09:32.21,0:09:33.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那一千块钱还可以
+Dialogue: 0,0:09:34.75,0:09:36.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那纸条早不成了
+Dialogue: 0,0:09:37.54,0:09:40.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征说你这小子挺古怪的
+Dialogue: 0,0:09:43.88,0:09:46.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他真的这么说  他还说什么了
+Dialogue: 0,0:09:49.50,0:09:50.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}忘了
+Dialogue: 0,0:09:50.75,0:09:51.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不相信
+Dialogue: 0,0:09:53.79,0:09:56.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不相信也没有用  忘了就是忘了嘛
+Dialogue: 0,0:09:57.00,0:09:58.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘哥  他是个好人
+Dialogue: 0,0:09:58.92,0:10:01.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着  指桑骂槐呢
+Dialogue: 0,0:10:02.79,0:10:04.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哎  你这样子  不冷啊
+Dialogue: 0,0:10:05.33,0:10:07.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出门的时候太急了  忘了带围巾
+Dialogue: 0,0:10:11.63,0:10:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先用这个
+Dialogue: 0,0:10:13.33,0:10:14.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}过来
+Dialogue: 0,0:10:23.88,0:10:25.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢
+Dialogue: 0,0:10:26.21,0:10:27.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}晚上  没事吧
+Dialogue: 0,0:10:28.79,0:10:31.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}寒假到了  人都走了  就剩我一个人
+Dialogue: 0,0:10:33.17,0:10:34.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有我呢
+Dialogue: 0,0:10:34.96,0:10:36.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不回家过冬啊
+Dialogue: 0,0:10:36.63,0:10:37.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我最讨厌过节了
+Dialogue: 0,0:10:37.83,0:10:39.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}成天吃吃喝喝的  没完没了
+Dialogue: 0,0:10:40.54,0:10:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你真那么讨厌吃啊
+Dialogue: 0,0:10:44.08,0:10:45.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你真想知道吗
+Dialogue: 0,0:10:46.71,0:10:47.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到我那  我告诉你
+Dialogue: 0,0:11:12.13,0:11:13.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}新年快乐
+Dialogue: 0,0:11:16.21,0:11:17.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么早就起来了
+Dialogue: 0,0:11:18.04,0:11:20.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还他妈早呢  这时间够吃中饭了
+Dialogue: 0,0:11:21.04,0:11:22.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧换衣服去
+Dialogue: 0,0:11:23.75,0:11:24.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出去吃吗
+Dialogue: 0,0:11:26.17,0:11:30.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在外面订了一张桌子  新开了一家菜馆
+Dialogue: 0,0:11:30.13,0:11:31.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听说贵得不得了
+Dialogue: 0,0:11:33.79,0:11:35.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃吃吃的没完没了
+Dialogue: 0,0:11:35.58,0:11:36.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:11:38.67,0:11:39.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你丫找死呢吧
+Dialogue: 0,0:11:40.54,0:11:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}过来
+Dialogue: 0,0:11:42.42,0:11:44.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是说换好衣服去吃饭吗
+Dialogue: 0,0:11:44.88,0:11:46.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先过来嘛
+Dialogue: 0,0:11:48.17,0:11:49.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先过来嘛
+Dialogue: 0,0:11:51.21,0:11:53.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你过来  我有好东西给你
+Dialogue: 0,0:11:54.25,0:11:55.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在哪儿
+Dialogue: 0,0:11:55.96,0:11:58.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才我跟你说新年快乐  你干嘛不理我
+Dialogue: 0,0:12:02.21,0:12:03.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}新年快乐
+Dialogue: 0,0:12:04.71,0:12:06.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}礼物在衣柜里  自己去看
+Dialogue: 0,0:12:20.17,0:12:21.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}买那么多东西给我
+Dialogue: 0,0:12:22.88,0:12:24.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你那身衣服真够土的
+Dialogue: 0,0:12:26.25,0:12:27.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人家本来就是个土包子嘛
+Dialogue: 0,0:12:31.38,0:12:32.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}穿这种衣服上学
+Dialogue: 0,0:12:33.38,0:12:35.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人家还以为怎么来了个小日本呢
+Dialogue: 0,0:12:35.92,0:12:37.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我就是要把你变成个小日本
+Dialogue: 0,0:12:39.38,0:12:40.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看他们怎么说
+Dialogue: 0,0:12:41.96,0:12:43.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说今天穿什么好呢
+Dialogue: 0,0:12:47.33,0:12:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我觉得
+Dialogue: 0,0:12:52.67,0:12:53.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不穿也挺好的
+Dialogue: 0,0:12:54.08,0:12:56.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不好  绝对不好
+Dialogue: 0,0:12:57.08,0:12:58.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人家昨天晚上给你折腾了一整夜
+Dialogue: 0,0:12:58.96,0:13:01.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}折腾  你他妈不会吧
+Dialogue: 0,0:13:02.79,0:13:03.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我下边那个人
+Dialogue: 0,0:13:04.29,0:13:05.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是挺舒服的嘛
+Dialogue: 0,0:13:22.25,0:13:23.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起  来晚了
+Dialogue: 0,0:13:23.58,0:13:24.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么来的你
+Dialogue: 0,0:13:24.83,0:13:26.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐公车
+Dialogue: 0,0:13:26.88,0:13:30.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以后来见我打的就行了\N有时间  我去接你
+Dialogue: 0,0:13:30.38,0:13:33.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不喝啤酒  待会还有两个家教得去呢
+Dialogue: 0,0:13:34.67,0:13:37.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你那些家教  也真够烦的\N你现在还缺钱啊
+Dialogue: 0,0:13:37.63,0:13:38.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是那个问题
+Dialogue: 0,0:13:41.08,0:13:44.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}麻烦你给我一个可乐  一个杂锦锅面
+Dialogue: 0,0:13:45.08,0:13:46.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那是什么问题呀
+Dialogue: 0,0:13:46.79,0:13:48.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧后面看看去  谁在吵架啊
+Dialogue: 0,0:13:48.46,0:13:49.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让不让人吃饭了
+Dialogue: 0,0:13:49.50,0:13:50.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  马上去看看
+Dialogue: 0,0:13:52.17,0:13:53.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吵吵吵  吵什么
+Dialogue: 0,0:13:53.63,0:13:56.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别吵啦  客人都不高兴了
+Dialogue: 0,0:13:58.29,0:14:00.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我把你给我的钱全都存起来了
+Dialogue: 0,0:14:01.33,0:14:02.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那敢情好
+Dialogue: 0,0:14:02.75,0:14:06.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果有一天我落难了  \N还能管你借点钱花呢
+Dialogue: 0,0:14:06.38,0:14:07.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过也没多少
+Dialogue: 0,0:14:08.75,0:14:09.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,0:14:10.21,0:14:11.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你有病吧
+Dialogue: 0,0:14:11.42,0:14:12.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  我有病
+Dialogue: 0,0:14:13.33,0:14:16.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大学那么多女同学不喜欢  偏偏喜欢上你
+Dialogue: 0,0:14:28.58,0:14:30.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哎  不冷吗
+Dialogue: 0,0:14:31.29,0:14:32.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还可以
+Dialogue: 0,0:14:32.54,0:14:33.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这几天的风可大
+Dialogue: 0,0:14:33.83,0:14:35.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不碍事
+Dialogue: 0,0:14:36.00,0:14:37.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老兄抽什么烟
+Dialogue: 0,0:14:38.04,0:14:39.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个  来一根
+Dialogue: 0,0:14:40.33,0:14:41.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也好
+Dialogue: 0,0:14:54.79,0:14:57.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}Mercedes  这么名贵的车在这儿可不多见
+Dialogue: 0,0:14:59.38,0:15:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在等我弟弟
+Dialogue: 0,0:15:01.13,0:15:02.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你弟弟
+Dialogue: 0,0:15:11.75,0:15:14.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}寒假一到  宿舍都空了  一个人都没有了
+Dialogue: 0,0:15:16.00,0:15:17.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你很饿啊
+Dialogue: 0,0:15:17.21,0:15:19.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}工地那边挺忙的  还没来得及吃中饭
+Dialogue: 0,0:15:21.08,0:15:22.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}工地
+Dialogue: 0,0:15:22.04,0:15:24.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘哥给我找了个工作  工资虽然不高
+Dialogue: 0,0:15:27.50,0:15:28.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们说好了不让你知道的
+Dialogue: 0,0:15:30.17,0:15:33.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征这个小子老是背着我\N干这些莫名其妙的勾当
+Dialogue: 0,0:15:33.75,0:15:35.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他还拿不拿我当老板了
+Dialogue: 0,0:15:35.63,0:15:36.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘哥  他很尊重你的
+Dialogue: 0,0:15:38.71,0:15:41.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你呢  你拿我当什么人啊
+Dialogue: 0,0:15:42.67,0:15:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我  我没拿你当什么人
+Dialogue: 0,0:15:54.96,0:15:58.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有些事情要跟你说清楚  工地上的事
+Dialogue: 0,0:15:59.17,0:16:00.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么不让我知道
+Dialogue: 0,0:16:01.46,0:16:02.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我担心你会不高兴
+Dialogue: 0,0:16:03.42,0:16:04.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对呀
+Dialogue: 0,0:16:04.92,0:16:07.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你为什么担心我会不高兴呢
+Dialogue: 0,0:16:11.21,0:16:12.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你听我说清楚了啊
+Dialogue: 0,0:16:13.79,0:16:16.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们俩认识  算是挺有缘的
+Dialogue: 0,0:16:18.00,0:16:19.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是不可能一辈子这样下去吧
+Dialogue: 0,0:16:21.08,0:16:27.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我和你在一起  全凭自愿\N合得来呢就在一起
+Dialogue: 0,0:16:27.54,0:16:28.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}感觉不好也就算了
+Dialogue: 0,0:16:33.50,0:16:34.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我  感觉挺好的
+Dialogue: 0,0:16:37.63,0:16:38.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个人  要是太熟了
+Dialogue: 0,0:16:40.42,0:16:42.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}倒不好意思再玩下去了
+Dialogue: 0,0:16:43.21,0:16:44.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也就是到了该散的时候
+Dialogue: 0,0:16:45.50,0:16:46.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白了吗
+Dialogue: 0,0:16:50.88,0:16:55.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你甭说  你穿这身衣服  倒真像个小日本
+Dialogue: 0,0:16:58.38,0:17:00.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们  还没太熟吧
+Dialogue: 0,0:17:05.17,0:17:06.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像还没有
+Dialogue: 0,0:17:17.67,0:17:19.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在用什么牌子的洗发水呢
+Dialogue: 0,0:17:35.71,0:17:36.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别干坐着
+Dialogue: 0,0:17:37.13,0:17:40.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去  把那套斗彩杯碟给拿下来\N一会儿喝茶好用
+Dialogue: 0,0:17:41.92,0:17:43.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心别碰了
+Dialogue: 0,0:17:44.75,0:17:46.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这大宁怎么还不到呀
+Dialogue: 0,0:17:50.25,0:17:51.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}牛妈
+Dialogue: 0,0:17:52.00,0:17:53.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}甲鱼炖好了吧
+Dialogue: 0,0:17:55.00,0:17:57.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这不明摆着男女不平等嘛
+Dialogue: 0,0:17:57.42,0:18:00.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们俩不也干坐着  凭什么让我去
+Dialogue: 0,0:18:00.46,0:18:01.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇  你去
+Dialogue: 0,0:18:02.58,0:18:06.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去  别瞎闹  他知道什么是斗彩呀
+Dialogue: 0,0:18:07.08,0:18:09.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}待会儿再给砸了  我可给老太太赔不起啊
+Dialogue: 0,0:18:09.58,0:18:12.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈  您刚多大年纪了
+Dialogue: 0,0:18:12.25,0:18:14.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我怎么听见有人管您叫老太太呀
+Dialogue: 0,0:18:16.04,0:18:21.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么多年了  跟你说过多少遍了\N说话别老是那么大声嚷嚷
+Dialogue: 0,0:18:21.50,0:18:23.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以后怎么教你的儿子呀
+Dialogue: 0,0:18:25.13,0:18:26.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈  我来
+Dialogue: 0,0:18:29.83,0:18:31.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么老太太
+Dialogue: 0,0:18:31.46,0:18:32.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我  我没有
+Dialogue: 0,0:18:33.21,0:18:34.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}懦夫
+Dialogue: 0,0:18:37.29,0:18:38.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哥  妈  姊
+Dialogue: 0,0:18:40.38,0:18:42.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇  我大学同学的弟弟
+Dialogue: 0,0:18:42.67,0:18:43.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是我弟弟卫东
+Dialogue: 0,0:18:43.92,0:18:45.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,0:18:46.00,0:18:47.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哥
+Dialogue: 0,0:18:47.21,0:18:50.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上次让你从香港\N替我买的那些东西  带来了吗
+Dialogue: 0,0:18:50.25,0:18:51.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在你屋呢
+Dialogue: 0,0:18:51.54,0:18:52.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你喜欢听日本音乐呀
+Dialogue: 0,0:18:53.04,0:18:54.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}买了那么多杂志和磁带
+Dialogue: 0,0:18:54.63,0:18:56.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}阪本龙一  喜欢吗
+Dialogue: 0,0:18:56.88,0:18:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}音乐  不太懂
+Dialogue: 0,0:19:00.29,0:19:02.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了  卫东  洗把脸去
+Dialogue: 0,0:19:02.79,0:19:06.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再把那套斗彩杯碟给拿下来  小心别碰着了啊
+Dialogue: 0,0:19:07.88,0:19:09.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}牛妈
+Dialogue: 0,0:19:09.50,0:19:11.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}烤鸭好了没有
+Dialogue: 0,0:19:12.50,0:19:14.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干嘛  又得拿那破东西喝茶
+Dialogue: 0,0:19:14.79,0:19:15.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么破东西
+Dialogue: 0,0:19:15.96,0:19:17.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老太太的压岁钱还没给你呢吧
+Dialogue: 0,0:19:17.96,0:19:22.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}年年如此  就让我一个人\N去冒这种险把那些破玩意搬来搬去
+Dialogue: 0,0:19:22.92,0:19:24.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}又不是没别的用
+Dialogue: 0,0:19:24.46,0:19:27.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算了吧  你要不乖乖把它拿下来
+Dialogue: 0,0:19:27.58,0:19:29.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈一会儿又开始讲笑话了
+Dialogue: 0,0:19:30.00,0:19:31.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家好
+Dialogue: 0,0:19:31.21,0:19:32.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈又说什么笑话了
+Dialogue: 0,0:19:32.79,0:19:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没你事
+Dialogue: 0,0:19:34.92,0:19:36.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧劳动劳动去吧
+Dialogue: 0,0:19:36.83,0:19:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么  今年又是你啊
+Dialogue: 0,0:19:41.42,0:19:42.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么这么晚呀
+Dialogue: 0,0:19:42.67,0:19:44.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚要出门就出了点事情
+Dialogue: 0,0:19:44.79,0:19:45.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去帮帮他
+Dialogue: 0,0:19:48.17,0:19:49.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是谁
+Dialogue: 0,0:19:49.58,0:19:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哥朋友的弟弟
+Dialogue: 0,0:19:56.88,0:20:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小红  太太说要是你那位来了\N咱们就可以吃饭了
+Dialogue: 0,0:20:01.08,0:20:03.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}牛妈  告诉老太太我今儿来晚了
+Dialogue: 0,0:20:03.79,0:20:05.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一会儿先罚我三杯吧
+Dialogue: 0,0:20:05.88,0:20:08.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行了吧  妈一直喝着呢
+Dialogue: 0,0:20:10.96,0:20:12.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  我帮你上菜去
+Dialogue: 0,0:20:19.13,0:20:21.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东  咱们有日子没见了吧
+Dialogue: 0,0:20:22.08,0:20:24.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可不  这些天比较忙
+Dialogue: 0,0:20:24.88,0:20:27.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也难怪  你的生意是越做越大了
+Dialogue: 0,0:20:28.00,0:20:29.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也没多大  还凑合吧
+Dialogue: 0,0:20:29.92,0:20:31.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}凑合
+Dialogue: 0,0:20:31.88,0:20:35.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟外贸部的那三千万元贷款合同  也算凑合啊
+Dialogue: 0,0:20:36.04,0:20:37.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个批下来了
+Dialogue: 0,0:20:37.83,0:20:39.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也是道听涂说
+Dialogue: 0,0:20:39.75,0:20:42.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你关系这么铁  佩服
+Dialogue: 0,0:20:44.96,0:20:47.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是我有个看法
+Dialogue: 0,0:20:48.58,0:20:49.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:20:50.67,0:20:52.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哥  大宁  吃饭了
+Dialogue: 0,0:20:53.13,0:20:54.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来了
+Dialogue: 0,0:20:55.29,0:20:56.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么看法
+Dialogue: 0,0:20:57.75,0:21:00.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也没什么  我就是想起一句老话来
+Dialogue: 0,0:21:01.71,0:21:04.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}身后有余忘缩手  眼前无路想回头
+Dialogue: 0,0:21:10.29,0:21:12.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  大节当前  咱喝酒去
+Dialogue: 0,0:21:28.00,0:21:29.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这些  都是送我的
+Dialogue: 0,0:21:30.38,0:21:31.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要是喜欢  都拿去
+Dialogue: 0,0:21:32.54,0:21:33.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总真大方
+Dialogue: 0,0:21:34.96,0:21:37.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这些东西  那些人穿着不好看
+Dialogue: 0,0:21:37.46,0:21:39.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就你穿还有个样儿
+Dialogue: 0,0:21:39.71,0:21:41.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}同学都说我应该去做model
+Dialogue: 0,0:21:41.33,0:21:43.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是没有关系  进不去呀
+Dialogue: 0,0:21:47.04,0:21:48.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出来坐呀
+Dialogue: 0,0:21:51.88,0:21:52.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐
+Dialogue: 0,0:22:04.33,0:22:05.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别那么紧张嘛
+Dialogue: 0,0:22:06.92,0:22:08.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}喝杯酒暖和暖和
+Dialogue: 0,0:22:09.17,0:22:11.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为我们未来的模特儿干杯
+Dialogue: 0,0:22:12.29,0:22:14.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哎哟  对不起
+Dialogue: 0,0:22:14.58,0:22:16.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事没事  我自己擦
+Dialogue: 0,0:22:21.13,0:22:22.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干脆把它脱了算了
+Dialogue: 0,0:22:24.17,0:22:25.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我听说做模特儿的
+Dialogue: 0,0:22:25.38,0:22:28.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在后台都是光着身子走来走去的
+Dialogue: 0,0:22:36.46,0:22:39.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有客人在啊  在外边都听见你说话了
+Dialogue: 0,0:22:39.67,0:22:41.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个星期不见你  真想你
+Dialogue: 0,0:22:42.33,0:22:43.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别这样
+Dialogue: 0,0:22:44.42,0:22:46.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么来了  也不事先说一声
+Dialogue: 0,0:22:47.33,0:22:48.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是约好了吗
+Dialogue: 0,0:22:48.54,0:22:50.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这礼拜六下午交完功课见面的
+Dialogue: 0,0:22:51.13,0:22:52.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你也应该先来个电话吧
+Dialogue: 0,0:22:52.79,0:22:54.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你真把这儿当家了
+Dialogue: 0,0:22:54.33,0:22:55.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这样子可以了吗
+Dialogue: 0,0:22:59.75,0:23:02.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道你正忙着呢  我先走了
+Dialogue: 0,0:23:03.17,0:23:04.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么事
+Dialogue: 0,0:23:04.58,0:23:06.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事  你先等我会儿
+Dialogue: 0,0:23:09.63,0:23:11.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,0:23:14.92,0:23:17.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇  你先听我说句话
+Dialogue: 0,0:23:18.50,0:23:19.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请讲
+Dialogue: 0,0:23:20.00,0:23:21.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我不对
+Dialogue: 0,0:23:22.04,0:23:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}忘了今天约好了你
+Dialogue: 0,0:23:25.38,0:23:26.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真是的
+Dialogue: 0,0:23:27.38,0:23:29.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还头一趟打的过来的呢
+Dialogue: 0,0:23:30.00,0:23:32.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个  害你白跑一趟了
+Dialogue: 0,0:23:36.42,0:23:37.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说完了吧
+Dialogue: 0,0:23:37.67,0:23:38.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还不快进去
+Dialogue: 0,0:23:39.21,0:23:40.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人家都快浪出火来了
+Dialogue: 0,0:23:43.46,0:23:44.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我又不是没跟你讲过
+Dialogue: 0,0:23:44.88,0:23:46.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}玩这个没有那么认真的
+Dialogue: 0,0:23:46.63,0:23:47.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你玩什么认真
+Dialogue: 0,0:23:49.21,0:23:50.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我还是那句话
+Dialogue: 0,0:23:50.58,0:23:53.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想在一起就高高兴兴的  要不然就算了
+Dialogue: 0,0:23:53.54,0:23:54.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}清楚
+Dialogue: 0,0:23:54.71,0:23:57.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你清楚  你清楚个屁
+Dialogue: 0,0:23:58.13,0:24:01.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不给我玩你给谁玩  你睁开眼睛看看
+Dialogue: 0,0:24:01.29,0:24:02.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你以为刘征还能再给你找
+Dialogue: 0,0:24:02.64,0:24:04.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个像我出手那么阔绰的客人
+Dialogue: 0,0:24:04.54,0:24:05.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你甭他妈天真了
+Dialogue: 0,0:24:06.38,0:24:08.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是说那些钱  那倒容易
+Dialogue: 0,0:24:08.96,0:24:11.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明天我就让刘哥去银行把钱还给你
+Dialogue: 0,0:24:11.42,0:24:12.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以了吧
+Dialogue: 0,0:24:14.17,0:24:15.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇  你跑呀你
+Dialogue: 0,0:24:15.79,0:24:17.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别以为不拿我的钱  我就不是玩你
+Dialogue: 0,0:24:18.13,0:24:19.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我可不是什么正人君子
+Dialogue: 0,0:24:25.21,0:24:26.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}操他妈的
+Dialogue: 0,0:24:27.71,0:24:30.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这屋的空调坏了\N怎么老没人给我收拾一下
+Dialogue: 0,0:24:31.04,0:24:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总  您先别着急  我给您倒杯冰水
+Dialogue: 0,0:24:34.46,0:24:36.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}空调的事  我早跟他们说过
+Dialogue: 0,0:24:36.71,0:24:39.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是他们说  这几个星期\N又闹罢工又闹什么的
+Dialogue: 0,0:24:40.38,0:24:42.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}维修部早垮掉了
+Dialogue: 0,0:24:42.96,0:24:44.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还说什么让我们给担待一下
+Dialogue: 0,0:24:44.79,0:24:45.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}担待个屁
+Dialogue: 0,0:24:46.25,0:24:48.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}罢工  装他妈的什么善男信女
+Dialogue: 0,0:24:49.00,0:24:52.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道换一批工人  全首都的工人\N除了罢工的都他妈的死绝了
+Dialogue: 0,0:24:57.42,0:25:00.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征呢  怎么老半天没见他一眼
+Dialogue: 0,0:25:01.88,0:25:04.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征老婆住医院了\N打电话来  正往回赶呢
+Dialogue: 0,0:25:05.04,0:25:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对了  东柏林那边有什么消息没有
+Dialogue: 0,0:25:07.79,0:25:09.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有
+Dialogue: 0,0:25:09.04,0:25:11.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}传真呀什么都没有  你看清楚了吗
+Dialogue: 0,0:25:33.63,0:25:35.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东  没什么事  我先走了
+Dialogue: 0,0:25:36.21,0:25:38.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么早  还想着晚一点跟你喝一杯呢
+Dialogue: 0,0:25:40.21,0:25:42.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对了  诗玲还在医院  来  坐
+Dialogue: 0,0:25:46.46,0:25:47.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那边有消息没有
+Dialogue: 0,0:25:48.42,0:25:49.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还没生出来
+Dialogue: 0,0:25:50.21,0:25:51.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么会呢
+Dialogue: 0,0:25:53.92,0:25:55.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}医生也没有很具体的讲
+Dialogue: 0,0:25:57.92,0:25:59.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是  他提醒我
+Dialogue: 0,0:26:01.21,0:26:02.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让我做好心理准备
+Dialogue: 0,0:26:03.21,0:26:04.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真的会有危险
+Dialogue: 0,0:26:08.50,0:26:09.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道该怎么说
+Dialogue: 0,0:26:12.58,0:26:13.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我很害怕
+Dialogue: 0,0:26:15.33,0:26:16.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我真的特别  特别害怕
+Dialogue: 0,0:26:17.04,0:26:20.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行了  诗玲  她会吉人天相的
+Dialogue: 0,0:26:22.63,0:26:23.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也只能这么希望了
+Dialogue: 0,0:26:27.46,0:26:28.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我今天一直在想
+Dialogue: 0,0:26:32.21,0:26:33.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这世上
+Dialogue: 0,0:26:34.71,0:26:36.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我只有诗玲一个
+Dialogue: 0,0:26:42.63,0:26:43.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别想太多
+Dialogue: 0,0:26:44.17,0:26:47.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这时候  千万不要想太多啊
+Dialogue: 0,0:26:48.00,0:26:50.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总  这有位罗先生找
+Dialogue: 0,0:26:52.58,0:26:53.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我先去医院了
+Dialogue: 0,0:26:53.61,0:26:55.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  你先去吧  代我问诗玲好
+Dialogue: 0,0:27:01.79,0:27:03.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起  打扰了
+Dialogue: 0,0:27:03.33,0:27:05.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大宁啊  我还以为是哪位罗先生呢
+Dialogue: 0,0:27:05.54,0:27:07.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  进来坐呀  喝什么
+Dialogue: 0,0:27:07.63,0:27:09.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不用了  我还有事  得马上走
+Dialogue: 0,0:27:10.21,0:27:11.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有那么严重吗
+Dialogue: 0,0:27:12.58,0:27:14.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我今天来是顺路给你捎个口讯
+Dialogue: 0,0:27:14.25,0:27:15.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要是你不在  也就算了
+Dialogue: 0,0:27:15.79,0:27:17.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这事儿  电话里没法讲
+Dialogue: 0,0:27:17.79,0:27:18.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我明白
+Dialogue: 0,0:27:18.96,0:27:19.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白就好
+Dialogue: 0,0:27:24.42,0:27:25.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}君子不立危墙之下
+Dialogue: 0,0:27:26.17,0:27:29.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要有什么朋友  同学\N或者同学的兄弟姊妹
+Dialogue: 0,0:27:29.25,0:27:30.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在广场的话
+Dialogue: 0,0:27:30.46,0:27:32.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}告诉他们务必撤  情况有点紧张
+Dialogue: 0,0:27:33.04,0:27:34.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说什么
+Dialogue: 0,0:27:34.38,0:27:35.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天晚上要清场了
+Dialogue: 0,0:27:36.33,0:27:37.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我操
+Dialogue: 0,0:27:40.75,0:27:44.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}年轻人留在家里  以后的日子还长着呢
+Dialogue: 0,0:27:45.42,0:27:47.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算了  不说废话了
+Dialogue: 0,0:27:47.25,0:27:49.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真想把事办完  回家睡一觉
+Dialogue: 0,0:27:49.79,0:27:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了  我先走了
+Dialogue: 0,0:27:53.58,0:27:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对了
+Dialogue: 0,0:27:54.79,0:27:58.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那天我在广场周边看见\N那位小朋友  叫蓝宇是吧
+Dialogue: 0,0:27:59.00,0:28:01.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像在当纠察  端着盒饭在路边吃呢
+Dialogue: 0,0:28:02.08,0:28:03.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,0:28:03.63,0:28:04.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我很长时间没有看见他了
+Dialogue: 0,0:28:04.92,0:28:06.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他跑那里干什么去了
+Dialogue: 0,0:28:06.29,0:28:08.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也只是远远看见他一眼  他没看见我
+Dialogue: 0,0:28:08.92,0:28:10.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走了  多保重
+Dialogue: 0,0:31:35.63,0:31:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}六月四日凌晨四点半
+Dialogue: 0,0:31:45.88,0:31:47.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}累不累
+Dialogue: 0,0:31:47.92,0:31:49.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还成
+Dialogue: 0,0:31:49.92,0:31:51.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这车子没什么问题吧
+Dialogue: 0,0:31:52.25,0:31:53.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还成
+Dialogue: 0,0:31:54.88,0:31:56.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你小子可越来越大爷了啊
+Dialogue: 0,0:31:57.17,0:31:58.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么讲
+Dialogue: 0,0:31:59.21,0:32:01.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好好一份毕业礼物送给你
+Dialogue: 0,0:32:01.25,0:32:04.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}连个谢字也不多说一句  单说个还成啊
+Dialogue: 0,0:32:04.75,0:32:07.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这些礼物  也不知多少个男男女女收过
+Dialogue: 0,0:32:09.33,0:32:10.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这话不是认真的吧
+Dialogue: 0,0:32:11.38,0:32:14.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}反正我真的不知道  也不想知道
+Dialogue: 0,0:32:14.88,0:32:16.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我知道你对我好啊  就够了
+Dialogue: 0,0:32:18.83,0:32:21.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算了  咱们不谈这个
+Dialogue: 0,0:32:21.33,0:32:22.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也好
+Dialogue: 0,0:32:22.54,0:32:28.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你的心到底在想些什么
+Dialogue: 0,0:32:28.38,0:32:33.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么留下这个结局让我承受
+Dialogue: 0,0:32:39.88,0:32:41.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们到底要去哪儿
+Dialogue: 0,0:32:41.33,0:32:43.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚下飞机也不回家  神秘兮兮的
+Dialogue: 0,0:32:45.42,0:32:46.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带你去看个地方
+Dialogue: 0,0:32:47.96,0:32:49.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前面右转
+Dialogue: 0,0:33:07.79,0:33:09.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}喜欢吗
+Dialogue: 0,0:33:43.46,0:33:45.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这几天  你的烟抽得特别凶
+Dialogue: 0,0:33:46.13,0:33:47.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是吗
+Dialogue: 0,0:33:48.38,0:33:49.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事
+Dialogue: 0,0:33:49.88,0:33:51.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算命的都说我命挺硬的
+Dialogue: 0,0:33:52.75,0:33:53.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没那么容易趴下
+Dialogue: 0,0:33:55.42,0:33:57.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}治丧的事  都处理好了吗
+Dialogue: 0,0:33:58.63,0:33:59.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有程书记负责
+Dialogue: 0,0:34:01.13,0:34:04.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们这些孝子贤孙去了也是闲呆着
+Dialogue: 0,0:34:04.54,0:34:08.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}倒是房子装修的事情\N我一时是帮不上忙了
+Dialogue: 0,0:34:09.38,0:34:11.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不忙  慢慢的做呗
+Dialogue: 0,0:34:12.04,0:34:13.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱妈还好吧
+Dialogue: 0,0:34:13.54,0:34:15.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天几位部长的花圈都送到了
+Dialogue: 0,0:34:16.25,0:34:18.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她好像挺高兴的样子
+Dialogue: 0,0:34:18.67,0:34:20.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们家也真够体面的
+Dialogue: 0,0:34:22.13,0:34:23.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}体面管什么用呢
+Dialogue: 0,0:34:24.71,0:34:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人在医院里住了这几年
+Dialogue: 0,0:34:27.21,0:34:30.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}临走的时候统共才剩下一副骨头
+Dialogue: 0,0:34:30.75,0:34:33.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你瞧瞧  我这土包子又说错话了吧
+Dialogue: 0,0:34:36.42,0:34:37.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天挺怪的
+Dialogue: 0,0:34:39.04,0:34:42.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我突然想起来  那年毛主席去世
+Dialogue: 0,0:34:44.50,0:34:47.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我一听到消息  哇的一下子就哭出来了
+Dialogue: 0,0:34:49.29,0:34:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}连续哭了好几个晚上
+Dialogue: 0,0:34:51.79,0:34:53.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}眼睛都哭肿了
+Dialogue: 0,0:34:55.58,0:34:56.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是这一回
+Dialogue: 0,0:34:58.96,0:35:00.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我却没哭过
+Dialogue: 0,0:35:08.83,0:35:10.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我记得那时候我才几岁呀
+Dialogue: 0,0:35:11.17,0:35:12.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全村大人全都哭了
+Dialogue: 0,0:35:13.67,0:35:15.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我还头一次看我爸哭得那么厉害呢
+Dialogue: 0,0:35:18.75,0:35:19.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哭有什么用
+Dialogue: 0,0:35:21.92,0:35:25.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人一死  就什么都完了
+Dialogue: 0,0:35:27.04,0:35:31.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没完  留下来的记忆啊还没完呢
+Dialogue: 0,0:35:35.21,0:35:36.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们出去吃点东西吧
+Dialogue: 0,0:35:37.63,0:35:39.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才那顿饭没劲透了
+Dialogue: 0,0:35:40.54,0:35:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好啊
+Dialogue: 0,0:35:45.08,0:35:47.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈  我  蓝宇
+Dialogue: 0,0:35:50.25,0:35:53.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}啥不给你打电话  现在忙呗
+Dialogue: 0,0:35:55.04,0:35:56.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在弄一个
+Dialogue: 0,0:35:56.42,0:35:58.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}建筑小区  不是
+Dialogue: 0,0:35:58.67,0:36:00.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边跟咱家那边不一样
+Dialogue: 0,0:36:05.17,0:36:07.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}五层的吧  大概五层
+Dialogue: 0,0:36:08.75,0:36:10.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈  啥时候你也过这边来玩呗
+Dialogue: 0,0:36:13.42,0:36:16.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁说的  我爸现在身体怎么样啊
+Dialogue: 0,0:36:16.33,0:36:18.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果有时间
+Dialogue: 0,0:36:18.38,0:36:22.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈先生想请大家喝点香槟
+Dialogue: 0,0:36:23.38,0:36:25.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多谢了
+Dialogue: 0,0:36:28.00,0:36:30.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我看香槟还是留到下次\N陈先生来莫斯科再喝吧
+Dialogue: 0,0:36:30.29,0:36:33.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  这次合作成功  以后还有很多机会见面
+Dialogue: 0,0:36:37.33,0:36:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们拒绝了
+Dialogue: 0,0:36:38.54,0:36:40.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们要到里面买免税品回去给太太
+Dialogue: 0,0:36:42.83,0:36:44.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们这么说的
+Dialogue: 0,0:36:44.13,0:36:45.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有  是我偷听到的
+Dialogue: 0,0:36:46.50,0:36:50.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那好  那我就不耽误\N各位俄罗斯同志回国慰妻了
+Dialogue: 0,0:36:51.46,0:36:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那么  这次见面就到此结束了
+Dialogue: 0,0:36:56.92,0:36:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}合作愉快
+Dialogue: 0,0:36:59.04,0:37:00.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}合作愉快
+Dialogue: 0,0:37:00.38,0:37:01.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}林小姐  我真希望我们国家
+Dialogue: 0,0:37:01.94,0:37:05.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也有像你这么出色而且美丽的翻译
+Dialogue: 0,0:37:05.50,0:37:06.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多谢你
+Dialogue: 0,0:37:07.08,0:37:16.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也希望以后有机会跟你们做买卖\N而不是以翻译的身份
+Dialogue: 0,0:37:17.00,0:37:23.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}（俄文）
+Dialogue: 0,0:37:23.71,0:37:26.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再见
+Dialogue: 0,0:37:29.33,0:37:31.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才我说的最后那一句  你没翻过去吧
+Dialogue: 0,0:37:39.58,0:37:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们都走了  那我订的香槟怎么办
+Dialogue: 0,0:37:42.08,0:37:45.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么怎么办  我还在这呢  林小姐也在呀
+Dialogue: 0,0:37:45.92,0:37:47.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}林小姐
+Dialogue: 0,0:37:47.13,0:37:49.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这次生意能够这么顺利谈成  多亏你了
+Dialogue: 0,0:37:49.67,0:37:51.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天咱们先喝个香槟
+Dialogue: 0,0:37:51.13,0:37:52.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}改天我们请你好好吃一顿
+Dialogue: 0,0:37:53.38,0:37:54.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘征
+Dialogue: 0,0:37:54.58,0:37:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最近新开的法国菜馆  叫什么名字来着
+Dialogue: 0,0:37:57.25,0:37:58.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道
+Dialogue: 0,0:38:00.39,0:38:01.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,0:38:01.83,0:38:03.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是指在使馆区附近那一家吗
+Dialogue: 0,0:38:04.21,0:38:05.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叫La  Vie  en  Rose
+Dialogue: 0,0:38:06.75,0:38:09.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实那里做的菜也不怎么样
+Dialogue: 0,0:38:09.92,0:38:13.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是他们的酒库  是全北京藏酒量最丰富的
+Dialogue: 0,0:38:14.50,0:38:16.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈先生也喜欢喝红酒吗
+Dialogue: 0,0:38:18.13,0:38:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起
+Dialogue: 0,0:38:21.21,0:38:23.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈先生也喜欢喝红酒吗
+Dialogue: 0,0:38:24.29,0:38:26.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么出色的女人你哪儿找来的
+Dialogue: 0,0:38:27.67,0:38:28.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不告诉你
+Dialogue: 0,0:38:33.13,0:38:34.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个地方怎么样
+Dialogue: 0,0:38:34.33,0:38:35.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}挺好的
+Dialogue: 0,0:38:35.96,0:38:37.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这叫酒香不怕巷子深
+Dialogue: 0,0:38:38.21,0:38:40.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过他们的手扒羊肉倒是新添的
+Dialogue: 0,0:38:41.92,0:38:43.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要是知道你那么喜欢吃羊
+Dialogue: 0,0:38:43.71,0:38:46.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天就应该带你去一个专门涮羊肉的馆子
+Dialogue: 0,0:38:46.58,0:38:47.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过那地方就是有点脏
+Dialogue: 0,0:38:49.56,0:38:51.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我属虎  每次吃羊
+Dialogue: 0,0:38:51.97,0:38:53.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都给朋友说成羊入虎口
+Dialogue: 0,0:38:59.71,0:39:02.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着  在算计我今年有多大了
+Dialogue: 0,0:39:03.08,0:39:04.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我呀  没有
+Dialogue: 0,0:39:05.04,0:39:06.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不说我也知道
+Dialogue: 0,0:39:06.79,0:39:08.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你在想一些不干不净的东西
+Dialogue: 0,0:39:09.04,0:39:10.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以你不好意思说
+Dialogue: 0,0:39:11.50,0:39:13.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是我肚子里的蛔虫
+Dialogue: 0,0:39:13.21,0:39:14.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在想什么你会知道
+Dialogue: 0,0:39:14.96,0:39:17.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对你  我还是有点把握的
+Dialogue: 0,0:39:18.42,0:39:19.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对你  我可没有
+Dialogue: 0,0:39:19.88,0:39:21.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就算钻进你肚子里也没用
+Dialogue: 0,0:39:24.58,0:39:26.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}俄文我都听不懂
+Dialogue: 0,0:39:26.33,0:39:28.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁告诉你我肚子里都是俄文的
+Dialogue: 0,0:39:31.63,0:39:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}男人的直觉
+Dialogue: 0,0:39:33.25,0:39:37.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看啊  女人总想把所有的事情\N全部藏在自己的肚子里
+Dialogue: 0,0:39:37.46,0:39:39.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就算这样  她们也不会觉得安全
+Dialogue: 0,0:39:39.83,0:39:42.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}总怕有人溜进去偷听了
+Dialogue: 0,0:39:44.71,0:39:49.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那也不对  要是有俄罗斯人\N混进去了  那还是不安全
+Dialogue: 0,0:39:53.13,0:39:54.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你肚子里有俄罗斯人吗
+Dialogue: 0,0:39:56.38,0:39:58.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有  什么人也没有
+Dialogue: 0,0:39:59.88,0:40:02.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那我能不能申请到里面参观一下
+Dialogue: 0,0:40:05.13,0:40:07.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}申请表格早已专递到府上了
+Dialogue: 0,0:40:08.13,0:40:09.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你没看见啊
+Dialogue: 0,0:40:11.00,0:40:12.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这个人太粗心大意了
+Dialogue: 0,0:40:13.25,0:40:16.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心眼的男人最可怕  我姑姑说的
+Dialogue: 0,0:40:17.17,0:40:21.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs22\bord1\shad1\b0}你怎么一天到晚老把你姑姑挂在嘴边\N她是什么人  哪天也让我见见
+Dialogue: 0,0:40:21.79,0:40:23.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她不见人
+Dialogue: 0,0:40:23.17,0:40:24.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}连你也不见嘛
+Dialogue: 0,0:40:25.88,0:40:30.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们没有搞错吧  你打算\N在这风里站在路灯底下
+Dialogue: 0,0:40:30.75,0:40:32.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟我谈论我的姑姑呀
+Dialogue: 0,0:40:34.13,0:40:38.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也不是  这样吧  咱们谈论谈论\N我妈养的鸡  怎么样
+Dialogue: 0,0:40:46.13,0:40:47.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说完了
+Dialogue: 0,0:40:48.75,0:40:53.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看上了一个女人\N要跟她结婚  就那么多呀
+Dialogue: 0,0:41:04.58,0:41:06.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}房子的事  你不用担心
+Dialogue: 0,0:41:07.96,0:41:09.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这儿早就转到你名下了
+Dialogue: 0,0:41:12.79,0:41:14.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会另找地方住的
+Dialogue: 0,0:41:15.58,0:41:19.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}然后有空就过来看看\N看这房子装修好了没有
+Dialogue: 0,0:41:28.88,0:41:31.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要是你喜欢  可以把这里卖了
+Dialogue: 0,0:41:31.95,0:41:34.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}整一笔钱  足够你开一家公司了
+Dialogue: 0,0:41:38.13,0:41:42.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把这卖了  你想得也真周到
+Dialogue: 0,0:41:50.96,0:41:52.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人长大了就得结婚生子
+Dialogue: 0,0:41:53.92,0:41:55.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我一直是这么想的
+Dialogue: 0,0:41:56.04,0:41:59.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个  你应该是知道的
+Dialogue: 0,0:42:05.63,0:42:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么忘了
+Dialogue: 0,0:42:08.67,0:42:09.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}完了
+Dialogue: 0,0:42:10.90,0:42:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这样子  太没意思了吧
+Dialogue: 0,0:42:14.33,0:42:15.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我上去洗个脸
+Dialogue: 0,0:42:15.54,0:42:16.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你就不能陪我多坐一会儿
+Dialogue: 0,0:42:22.42,0:42:23.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以吗
+Dialogue: 0,0:42:48.67,0:42:49.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}住了这么长时间了
+Dialogue: 0,0:42:50.63,0:42:52.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天才头一次那么闲坐着
+Dialogue: 0,0:42:54.38,0:42:58.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小时候  我老喜欢跟我妈上山闲坐着
+Dialogue: 0,0:43:01.17,0:43:02.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想家了
+Dialogue: 0,0:43:04.38,0:43:07.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不想家  谁都不想
+Dialogue: 0,0:43:12.42,0:43:16.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有一天那边挂了个彩虹  大得不得了
+Dialogue: 0,0:43:18.46,0:43:19.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我赶紧去拿摄影机
+Dialogue: 0,0:43:21.08,0:43:24.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可出来的时候  彩虹已经不见了
+Dialogue: 0,0:43:28.00,0:43:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}彩虹都害羞  不愿上镜头
+Dialogue: 0,0:43:31.50,0:43:32.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}瞎说
+Dialogue: 0,0:43:37.63,0:43:38.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道
+Dialogue: 0,0:43:40.67,0:43:42.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以后  我是不会坐这儿等你了
+Dialogue: 0,0:43:50.33,0:43:52.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个  我大概也猜到了
+Dialogue: 0,0:43:56.25,0:43:57.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真是的
+Dialogue: 0,0:43:59.42,0:44:01.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这房子还没有装修好呢
+Dialogue: 0,0:44:02.83,0:44:04.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可能不相信
+Dialogue: 0,0:44:06.88,0:44:08.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是真喜欢你的
+Dialogue: 0,0:44:10.42,0:44:11.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别招我哭
+Dialogue: 0,0:44:21.38,0:44:22.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可能也不知道
+Dialogue: 0,0:44:25.88,0:44:27.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也是真喜欢你
+Dialogue: 0,0:44:47.18,0:44:48.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么早就下来了
+Dialogue: 0,0:44:49.90,0:44:50.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没睡
+Dialogue: 0,0:44:52.33,0:44:55.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没睡  你也真够情绪化的
+Dialogue: 0,0:44:56.42,0:44:58.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要喝什么  威士忌
+Dialogue: 0,0:44:59.58,0:45:00.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你妈的没病吧
+Dialogue: 0,0:45:02.54,0:45:05.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}污言秽语的  女人都不会喜欢
+Dialogue: 0,0:45:07.71,0:45:11.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}少在这装蒜  你知道女人喜欢什么呀
+Dialogue: 0,0:45:11.54,0:45:14.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  我不懂  您可是专家啊
+Dialogue: 0,0:45:20.08,0:45:24.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呦  怎么着  今天就要走了
+Dialogue: 0,0:45:24.58,0:45:27.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}贵人多忘事  你去香港前已经告诉过你
+Dialogue: 0,0:45:28.04,0:45:30.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要结婚了  我留在这儿也没什么意思
+Dialogue: 0,0:45:33.13,0:45:34.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}结婚也没什么大不了的呀
+Dialogue: 0,0:45:36.58,0:45:37.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没什么大不了的
+Dialogue: 0,0:45:38.54,0:45:40.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没什么大不了的  你跟你老婆也这么讲话
+Dialogue: 0,0:45:47.33,0:45:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你给我听好了
+Dialogue: 0,0:45:49.17,0:45:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我陈扞东可从来没有赶你走过
+Dialogue: 0,0:45:52.21,0:45:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我自己赶自己走的  那可以了吧
+Dialogue: 0,0:46:02.08,0:46:04.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对呀  提着行李边走边唱啊
+Dialogue: 0,0:46:05.33,0:46:07.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最爱你的人是我
+Dialogue: 0,0:46:07.21,0:46:09.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么舍得我难过
+Dialogue: 0,0:46:09.75,0:46:11.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要多煽情有多煽情
+Dialogue: 0,0:46:14.83,0:46:16.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说话呀
+Dialogue: 0,0:46:17.58,0:46:19.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我陈扞东花在这破房子上的钱还不少呢
+Dialogue: 0,0:46:19.63,0:46:20.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还懂怎么报答我的
+Dialogue: 0,0:46:26.87,0:46:31.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  现在应该是我报答你的时候了
+Dialogue: 0,0:46:41.50,0:46:44.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老板  喜欢来哪一种姿势  你说好了
+Dialogue: 0,0:46:51.91,0:46:53.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别这样
+Dialogue: 0,0:46:55.31,0:46:56.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}穿好衣服再说吧
+Dialogue: 0,0:47:00.00,0:47:01.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像已经没有什么好说的了
+Dialogue: 0,0:47:09.58,0:47:15.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别那样说嘛  你这个人
+Dialogue: 0,0:47:16.04,0:47:19.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一向不知道怎么照顾你自己\N总是晃来晃去的
+Dialogue: 0,0:47:22.58,0:47:27.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发烧得去看  有病得去医院这是常识
+Dialogue: 0,0:47:30.08,0:47:31.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听见了吗
+Dialogue: 0,0:47:32.17,0:47:33.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听见了
+Dialogue: 0,0:47:39.08,0:47:42.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}钱这方面  你也不要太省了
+Dialogue: 0,0:47:44.17,0:47:48.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果有人找你合伙做生意\N不要胡乱地相信别人
+Dialogue: 0,0:47:50.29,0:47:51.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有什么不明白的
+Dialogue: 0,0:47:53.08,0:47:54.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去问一下刘征
+Dialogue: 0,0:47:55.75,0:47:56.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}知道了吗
+Dialogue: 0,0:47:59.38,0:48:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}知道了
+Dialogue: 0,0:48:13.15,0:48:14.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}虽然我们都说好了
+Dialogue: 0,0:48:17.42,0:48:19.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有必要的话不再联络
+Dialogue: 0,0:48:20.75,0:48:24.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是  如果你遇到什么急事
+Dialogue: 0,0:48:25.79,0:48:27.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记得千万要来找我
+Dialogue: 0,0:48:36.04,0:48:37.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我记得你开始跟我讲过
+Dialogue: 0,0:48:39.35,0:48:41.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个人  要是太熟了
+Dialogue: 0,0:48:42.88,0:48:44.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}倒不好意思再玩了
+Dialogue: 0,0:48:46.13,0:48:47.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也就是说要散了
+Dialogue: 0,0:48:49.33,0:48:56.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以老这么想  第二天早上起来的时候
+Dialogue: 0,0:48:57.21,0:49:01.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就少喜欢你一点  免得自己到时候难过
+Dialogue: 0,0:49:22.29,0:49:23.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道吗
+Dialogue: 0,0:49:25.50,0:49:26.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我向自己保证过
+Dialogue: 0,0:49:29.51,0:49:30.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以后
+Dialogue: 0,0:49:34.25,0:49:35.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以后再不会
+Dialogue: 0,0:49:35.75,0:49:37.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再不会为别人伤心了
+Dialogue: 0,0:50:07.25,0:50:08.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东跑哪儿去了
+Dialogue: 0,0:50:08.75,0:50:11.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他忘了替我拿耳环  现在正赶过来
+Dialogue: 0,0:50:11.67,0:50:13.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这种事情  还得他自己跑
+Dialogue: 0,0:50:14.13,0:50:16.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也这么说  可他就是不放心
+Dialogue: 0,0:50:19.92,0:50:21.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}婆婆的头发乱了  替她理一下吧
+Dialogue: 0,0:50:22.54,0:50:24.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叫人给我扑点粉
+Dialogue: 0,0:50:30.42,0:50:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小林家的人都已经到北京了吧
+Dialogue: 0,0:50:33.29,0:50:35.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还没呢  我姑姑正在上海
+Dialogue: 0,0:50:35.58,0:50:37.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等师傅把她的旗袍弄好
+Dialogue: 0,0:50:37.92,0:50:39.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要是早一点说
+Dialogue: 0,0:50:39.42,0:50:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这边有位师傅  手工还是不错的
+Dialogue: 0,0:50:43.33,0:50:45.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我姑姑一把年纪了还特别挑剔
+Dialogue: 0,0:50:46.21,0:50:48.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们一家人都说她让上海宠坏了
+Dialogue: 0,0:50:48.83,0:50:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}变老宝贝了
+Dialogue: 0,0:50:50.96,0:50:52.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聊什么呢  那么高兴
+Dialogue: 0,0:50:53.00,0:50:55.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小林一开口就特别讨人喜欢
+Dialogue: 0,0:50:56.17,0:50:58.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}难怪我们扞东挑上了
+Dialogue: 0,0:50:58.96,0:51:00.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才跟妈说什么来着
+Dialogue: 0,0:51:00.21,0:51:02.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没说什么呀  耳环呢
+Dialogue: 0,0:51:14.96,0:51:16.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}婆婆  给您扑点粉
+Dialogue: 0,0:51:23.38,0:51:24.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}几点的飞机
+Dialogue: 0,0:51:25.00,0:51:26.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}七点
+Dialogue: 0,0:51:36.67,0:51:38.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有的事情都解决了
+Dialogue: 0,0:51:39.46,0:51:40.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东
+Dialogue: 0,0:51:40.50,0:51:43.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给我找卫东  待会儿让他来接我跟牛妈
+Dialogue: 0,0:51:43.83,0:51:45.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈  您着什么急啊
+Dialogue: 0,0:51:45.42,0:51:47.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一会儿赵明开车送我去机场
+Dialogue: 0,0:51:47.79,0:51:49.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}捎带脚一块让他把你们都送了
+Dialogue: 0,0:51:49.29,0:51:50.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}搞定什么呀
+Dialogue: 0,0:51:50.46,0:51:52.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}各位  稍等一下就可以拍了
+Dialogue: 0,0:51:53.33,0:51:56.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没什么  我只是忽然想起来
+Dialogue: 0,0:51:56.54,0:51:58.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你在外边要是有什么感情纠葛
+Dialogue: 0,0:51:59.00,0:52:01.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我希望你不要带进我们将来的小家庭
+Dialogue: 0,0:52:01.75,0:52:03.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这时候  你还要上哪儿呀
+Dialogue: 0,0:52:03.76,0:52:04.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去香港
+Dialogue: 0,0:52:05.63,0:52:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么感情纠葛
+Dialogue: 0,0:52:07.67,0:52:10.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我发现你这人的想像力  挺丰富的
+Dialogue: 0,0:52:10.96,0:52:13.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是想像力  是女人的直觉
+Dialogue: 0,0:52:14.79,0:52:16.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈扞东  少跟我来这一套
+Dialogue: 0,0:52:17.13,0:52:18.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们可不是童男童女了
+Dialogue: 0,0:52:19.06,0:52:20.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一点点历史  算什么呢
+Dialogue: 0,0:52:24.21,0:52:25.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在跟静平的这些日子里
+Dialogue: 0,0:52:26.75,0:52:28.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我以为我可以把你给忘了
+Dialogue: 0,0:52:29.63,0:52:32.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我以为我是一个可以让女人幸福的男人
+Dialogue: 0,0:52:33.25,0:52:34.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在机场呢
+Dialogue: 0,0:52:37.04,0:52:38.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么  这事我知道
+Dialogue: 0,0:52:40.92,0:52:42.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你跟我说那么多根本没有用
+Dialogue: 0,0:52:43.00,0:52:44.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人家要压价咱们也没辙呀
+Dialogue: 0,0:52:45.84,0:52:47.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  我知道
+Dialogue: 0,0:52:47.09,0:52:49.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这批货  咱们是砸定了
+Dialogue: 0,0:52:50.63,0:52:51.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定要出手
+Dialogue: 0,0:52:55.00,0:52:56.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,0:53:03.29,0:53:04.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一会儿再打给你
+Dialogue: 0,0:53:07.33,0:53:09.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先去车上等我
+Dialogue: 0,0:53:09.25,0:53:10.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  我在车上等你
+Dialogue: 0,0:53:12.17,0:53:14.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没想到能在这儿看到你
+Dialogue: 0,0:53:14.92,0:53:16.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}送老板的机
+Dialogue: 0,0:53:22.42,0:53:23.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最近工作挺顺利的吧
+Dialogue: 0,0:53:24.63,0:53:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在有很多工地都在发展
+Dialogue: 0,0:53:26.63,0:53:27.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}建筑师蛮吃香的
+Dialogue: 0,0:53:28.38,0:53:29.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}凑合
+Dialogue: 0,0:53:31.00,0:53:32.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也真是
+Dialogue: 0,0:53:35.04,0:53:36.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是你朋友
+Dialogue: 0,0:53:36.63,0:53:37.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}同事
+Dialogue: 0,0:53:42.92,0:53:45.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你老穿得那么少  冷不冷
+Dialogue: 0,0:53:46.79,0:53:48.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还行  不冷
+Dialogue: 0,0:53:49.54,0:53:50.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶时间吗
+Dialogue: 0,0:53:50.90,0:53:51.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还得回公司
+Dialogue: 0,0:53:53.13,0:53:54.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也是
+Dialogue: 0,0:53:54.63,0:53:56.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不然今天晚上咱们一块吃顿饭吧
+Dialogue: 0,0:53:56.67,0:53:57.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我公司附近
+Dialogue: 0,0:53:57.39,0:53:58.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不成  约了朋友
+Dialogue: 0,0:54:00.00,0:54:02.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是这样  那改天吧
+Dialogue: 0,0:54:02.38,0:54:03.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这几个月都比较忙
+Dialogue: 0,0:54:04.13,0:54:05.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再忙  也得吃饭啊
+Dialogue: 0,0:54:06.00,0:54:07.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃盒饭
+Dialogue: 0,0:54:11.63,0:54:14.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不好意思  不好让同事多等
+Dialogue: 0,0:54:15.33,0:54:17.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你瞧  我都忘了
+Dialogue: 0,0:54:18.54,0:54:19.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再见
+Dialogue: 0,0:54:20.79,0:54:25.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哎  我怎么找你
+Dialogue: 0,0:54:34.50,0:54:35.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那我给你打电话
+Dialogue: 0,0:54:53.75,0:54:54.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}待会儿就可以吃了
+Dialogue: 0,0:54:55.79,0:54:56.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不忙
+Dialogue: 0,0:54:56.96,0:54:58.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}烟灰弹这儿吧
+Dialogue: 0,0:55:00.50,0:55:03.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起  空调坏了  还没来得及修呢
+Dialogue: 0,0:55:04.96,0:55:06.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没关系
+Dialogue: 0,0:55:06.17,0:55:07.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这两天倒是一下子热起来了
+Dialogue: 0,0:55:10.38,0:55:12.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}忘了  今天不该请你来这儿受罪
+Dialogue: 0,0:55:13.38,0:55:14.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有的事
+Dialogue: 0,0:55:14.79,0:55:16.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实我应该多谢你才对
+Dialogue: 0,0:55:17.42,0:55:19.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道多久没有吃过家里做的饭了
+Dialogue: 0,0:55:21.42,0:55:24.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有老婆的日子  两人总在外边吃
+Dialogue: 0,0:55:25.42,0:55:27.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}离了婚  更是一个人在外边了
+Dialogue: 0,0:55:30.79,0:55:32.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来的时候路还好找吧
+Dialogue: 0,0:55:33.04,0:55:34.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还成
+Dialogue: 0,0:55:49.00,0:55:51.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放假了  自己也不出去走走
+Dialogue: 0,0:55:51.63,0:55:52.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在存钱呢
+Dialogue: 0,0:55:53.17,0:55:54.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是准备要结婚了吧
+Dialogue: 0,0:55:57.17,0:56:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我又不像你  老想着娶妻生孩子
+Dialogue: 0,0:56:04.63,0:56:05.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想着去美国读书呢
+Dialogue: 0,0:56:06.25,0:56:07.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去美国
+Dialogue: 0,0:56:10.25,0:56:11.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先吃点东西吧
+Dialogue: 0,0:56:13.83,0:56:15.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么时候走啊
+Dialogue: 0,0:56:16.42,0:56:17.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道
+Dialogue: 0,0:56:17.63,0:56:19.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}护照呀签证的  都特难搞
+Dialogue: 0,0:56:24.00,0:56:26.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这阵子  有朋友了吧
+Dialogue: 0,0:56:31.54,0:56:32.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有
+Dialogue: 0,0:56:34.54,0:56:36.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么时候给我认识认识
+Dialogue: 0,0:56:37.91,0:56:39.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不成  人家很害羞的
+Dialogue: 0,0:56:41.50,0:56:44.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么人家煮东西那么香  是咖喱吧
+Dialogue: 0,0:56:49.58,0:56:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他出国好一阵子了
+Dialogue: 0,0:56:54.58,0:56:55.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干什么生意的
+Dialogue: 0,0:56:56.88,0:56:59.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不干什么生意  去念书
+Dialogue: 0,0:57:00.75,0:57:05.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}学生啊  你们怎么认识的
+Dialogue: 0,0:57:07.25,0:57:09.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别老说我  也说说你呀
+Dialogue: 0,0:57:11.29,0:57:13.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我  我怎么了
+Dialogue: 0,0:57:14.88,0:57:16.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是离婚了吗  什么时候的事
+Dialogue: 0,0:57:24.13,0:57:26.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个地方  是租的还是买的
+Dialogue: 0,0:57:28.71,0:57:31.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}日本老板的房子  租金特便宜
+Dialogue: 0,0:57:33.46,0:57:35.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后面有块空地  我都种了花
+Dialogue: 0,0:57:38.04,0:57:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还是那么喜欢花  你记得吗
+Dialogue: 0,0:57:42.71,0:57:45.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那年我过生日  我一回来
+Dialogue: 0,0:57:45.92,0:57:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你已经在咱们的房子里\N摆了一天一地的花
+Dialogue: 0,0:57:48.79,0:57:50.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}害得我过敏症都跑出来了
+Dialogue: 0,0:57:50.63,0:57:52.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}结果咱们俩连夜把花全给扔了
+Dialogue: 0,0:57:58.83,0:58:00.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真的吗
+Dialogue: 0,0:58:04.21,0:58:05.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像是有这么回事
+Dialogue: 0,0:58:10.21,0:58:11.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看来你全忘了
+Dialogue: 0,0:58:12.63,0:58:15.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天连我公司的电话号码  你都不记得了
+Dialogue: 0,0:58:16.54,0:58:20.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有些事情  忘记了好像好一点
+Dialogue: 0,0:58:48.29,0:58:49.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有啤酒吗
+Dialogue: 0,0:58:53.00,0:58:54.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}喝那么多
+Dialogue: 0,0:58:55.67,0:58:56.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}待会儿还得开车呢
+Dialogue: 0,0:58:58.83,0:59:03.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}车前天就给撞了  我是打的来的
+Dialogue: 0,0:59:04.88,0:59:06.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有人说我今年犯太岁
+Dialogue: 0,0:59:06.83,0:59:09.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还真他妈的灵  诸事不利
+Dialogue: 0,0:59:10.25,0:59:11.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人没事  也就好了
+Dialogue: 0,0:59:16.29,0:59:17.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这小子  真成熟了啊
+Dialogue: 0,0:59:20.63,0:59:22.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还小子呢  都快28了
+Dialogue: 0,0:59:27.00,0:59:28.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那么快
+Dialogue: 0,1:00:00.96,1:00:02.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是你啊
+Dialogue: 0,1:00:03.25,1:00:05.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}起来了  得睡觉了
+Dialogue: 0,1:00:09.00,1:00:10.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我给你叫计程车
+Dialogue: 0,1:00:21.00,1:00:22.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是用那种洗发水呢
+Dialogue: 0,1:00:27.00,1:00:28.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是用那种洗发水
+Dialogue: 0,1:00:38.21,1:00:39.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真想抱抱你
+Dialogue: 0,1:00:56.67,1:00:57.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你胖了
+Dialogue: 0,1:01:08.75,1:01:12.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那时候  我怎么会放你走的
+Dialogue: 0,1:02:01.67,1:02:03.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}起来了  该上班了
+Dialogue: 0,1:02:13.25,1:02:14.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}早
+Dialogue: 0,1:02:15.17,1:02:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真想再多睡会儿
+Dialogue: 0,1:02:19.92,1:02:23.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不是说今天上午有客户会议的吗
+Dialogue: 0,1:02:24.92,1:02:26.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对
+Dialogue: 0,1:02:31.17,1:02:34.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真该死  你怎么不早叫我
+Dialogue: 0,1:02:53.46,1:02:54.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冬天快到了
+Dialogue: 0,1:02:54.96,1:02:57.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这空调我看是修不好了
+Dialogue: 0,1:03:12.27,1:03:13.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁
+Dialogue: 0,1:03:16.54,1:03:17.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行长被捕了
+Dialogue: 0,1:03:21.17,1:03:22.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没想到他们的动作那么快
+Dialogue: 0,1:03:25.83,1:03:27.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  再说吧
+Dialogue: 0,1:03:32.46,1:03:33.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁那么早
+Dialogue: 0,1:03:41.38,1:03:42.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没你的事
+Dialogue: 0,1:03:47.00,1:03:48.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那我先走了
+Dialogue: 0,1:03:49.46,1:03:50.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么
+Dialogue: 0,1:03:51.50,1:03:53.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有  一切小心啊
+Dialogue: 0,1:03:54.21,1:03:55.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}傻瓜
+Dialogue: 0,1:04:00.54,1:04:01.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}又怎么了
+Dialogue: 0,1:04:01.75,1:04:03.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这两天  我可能比较忙
+Dialogue: 0,1:04:04.38,1:04:06.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以呀  有空给我电话
+Dialogue: 0,1:04:06.88,1:04:08.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}成
+Dialogue: 0,1:04:26.63,1:04:27.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事  你放心吧
+Dialogue: 0,1:04:29.42,1:04:34.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我再跟扞东聊一会儿  不会太晚
+Dialogue: 0,1:04:35.17,1:04:40.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先带孩子睡吧  再见
+Dialogue: 0,1:04:46.92,1:04:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  喝一杯吧
+Dialogue: 0,1:05:00.38,1:05:03.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着  诗玲  她知道了
+Dialogue: 0,1:05:04.04,1:05:05.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟她说了
+Dialogue: 0,1:05:06.21,1:05:07.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她怎么想
+Dialogue: 0,1:05:11.08,1:05:17.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她说  夫妻本是同林鸟  大难临头各自飞
+Dialogue: 0,1:05:18.42,1:05:19.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}问我要飞到什么地方去
+Dialogue: 0,1:05:22.54,1:05:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后来好像又躲进浴室哭了
+Dialogue: 0,1:05:30.00,1:05:32.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}公司的名单上  你只是雇员而已
+Dialogue: 0,1:05:32.96,1:05:35.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么走私  贿赂
+Dialogue: 0,1:05:35.96,1:05:37.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}非法集资的罪名
+Dialogue: 0,1:05:37.79,1:05:41.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不会轻易落到你头上的  还有我顶着呢
+Dialogue: 0,1:05:42.75,1:05:43.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你叫她
+Dialogue: 0,1:05:44.13,1:05:45.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别太担心
+Dialogue: 0,1:05:45.46,1:05:46.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她也不只是担心我
+Dialogue: 0,1:05:51.63,1:05:52.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}公司被查封
+Dialogue: 0,1:05:53.25,1:05:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要你写什么交代材料的话
+Dialogue: 0,1:05:55.42,1:05:57.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}千万要记住让诗玲多帮忙
+Dialogue: 0,1:05:58.21,1:06:00.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你写的东西  没一个人能看得懂
+Dialogue: 0,1:06:01.42,1:06:02.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哪有你说得那么严重
+Dialogue: 0,1:06:08.25,1:06:11.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的逮捕令  这两天就应该要下来了吧
+Dialogue: 0,1:06:11.75,1:06:15.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我已经想了很多办法  看能不能再拖几天
+Dialogue: 0,1:06:25.13,1:06:28.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我进去以后  外边的一切  全靠你托着了
+Dialogue: 0,1:06:39.79,1:06:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么急找我
+Dialogue: 0,1:06:45.42,1:06:47.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里面有帮你办好的护照
+Dialogue: 0,1:06:47.50,1:06:50.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有国内以及美国银行的担保
+Dialogue: 0,1:06:53.58,1:06:56.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那边的大学录取通知书  你可要收好了
+Dialogue: 0,1:06:57.55,1:06:58.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这是
+Dialogue: 0,1:06:58.72,1:06:59.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另外还有个名片
+Dialogue: 0,1:06:59.96,1:07:02.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个人曾经在经贸部管外国签证
+Dialogue: 0,1:07:02.92,1:07:05.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你去找她  她会帮你把一切事情办好的
+Dialogue: 0,1:07:10.21,1:07:13.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你什么意思  谁说我要去美国了
+Dialogue: 0,1:07:13.42,1:07:14.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我说的
+Dialogue: 0,1:07:16.13,1:07:19.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不是一直想去那边念书吗
+Dialogue: 0,1:07:23.00,1:07:24.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真不知道你想干嘛
+Dialogue: 0,1:07:24.25,1:07:26.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么急要我过来  就是为了这事
+Dialogue: 0,1:07:28.50,1:07:32.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明天就去把这一切事情办妥  好吗
+Dialogue: 0,1:07:34.54,1:07:38.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我最近挺忙的  大概没有时间给你送行了
+Dialogue: 0,1:07:43.21,1:07:44.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你告诉我
+Dialogue: 0,1:07:47.13,1:07:50.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是不是有什么不好的事情发生了
+Dialogue: 0,1:08:00.13,1:08:02.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了那边  要是有空
+Dialogue: 0,1:08:03.63,1:08:05.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}寄张明信片回来
+Dialogue: 0,1:08:08.96,1:08:10.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈扞东在吗
+Dialogue: 0,1:08:10.25,1:08:12.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总在  你找他有什么事吗
+Dialogue: 0,1:08:13.00,1:08:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们刑事局的  找他有点事
+Dialogue: 0,1:08:15.63,1:08:18.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}陈总现在有重要的客人  请你们稍等一下
+Dialogue: 0,1:08:18.13,1:08:19.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们的事比什么事都重要
+Dialogue: 0,1:08:22.04,1:08:23.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是这里的会计
+Dialogue: 0,1:08:23.25,1:08:24.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先生  你们稍等一下
+Dialogue: 0,1:08:30.75,1:08:32.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是怕把大宁给连累了
+Dialogue: 0,1:08:32.79,1:08:34.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个你就甭担心了
+Dialogue: 0,1:08:34.67,1:08:38.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的交代材料写得很清楚\N咱们俩是姻亲关系  也没其他的
+Dialogue: 0,1:08:40.42,1:08:41.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}连你也得写交代材料
+Dialogue: 0,1:08:42.08,1:08:43.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这没什么
+Dialogue: 0,1:08:43.29,1:08:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小红  你赶紧把外边的情况说一下
+Dialogue: 0,1:08:46.38,1:08:50.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哥  你现在个人财产和公司名下的资产
+Dialogue: 0,1:08:50.25,1:08:51.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全都冻结待查
+Dialogue: 0,1:08:52.17,1:08:56.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也就是说  基本上  你的公司\N已经停止运作了
+Dialogue: 0,1:09:00.04,1:09:01.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我操
+Dialogue: 0,1:09:02.79,1:09:06.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好消息是  他们好像还没有掌握足够的证据
+Dialogue: 0,1:09:10.33,1:09:14.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冻结待查  那一切就全都完了
+Dialogue: 0,1:09:19.04,1:09:20.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}希望  还是有的
+Dialogue: 0,1:09:26.04,1:09:30.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有现金  刘征就是再努力\N奔走也疏通不来的
+Dialogue: 0,1:09:32.75,1:09:35.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}路是搭好了  三百万搞定
+Dialogue: 0,1:09:37.54,1:09:39.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁搭的路  可靠吗
+Dialogue: 0,1:09:39.79,1:09:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}进来
+Dialogue: 0,1:09:44.08,1:09:45.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐这里等一会儿
+Dialogue: 0,1:09:48.00,1:09:50.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个你甭管  问了  我也不知道
+Dialogue: 0,1:09:53.63,1:09:55.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可上哪儿去弄这三百万现金呢
+Dialogue: 0,1:09:56.21,1:09:59.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们左拼右凑的  刘征把房子都给押上了
+Dialogue: 0,1:09:59.67,1:10:00.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也就那么一点儿
+Dialogue: 0,1:10:01.13,1:10:03.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前两天让蓝宇听见了
+Dialogue: 0,1:10:03.21,1:10:06.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二话没说  今儿一大早\N就把现金给抬来了
+Dialogue: 0,1:10:07.42,1:10:08.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}蓝宇
+Dialogue: 0,1:10:08.96,1:10:10.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他没去美国啊
+Dialogue: 0,1:10:11.54,1:10:15.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这都什么时候了  你的罪\N可是死罪  你知道吗
+Dialogue: 0,1:10:15.96,1:10:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他要是去美国  也忒没情没义了吧
+Dialogue: 0,1:10:21.79,1:10:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可他哪来那么多钱呢
+Dialogue: 0,1:10:24.00,1:10:26.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听说把你送他的一个屋子给卖了
+Dialogue: 0,1:10:27.17,1:10:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}加上这几年的房租  还有一笔积蓄全搭里头了
+Dialogue: 0,1:10:34.00,1:10:35.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}钱  花了是可以挣的
+Dialogue: 0,1:10:35.88,1:10:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人的命  只有一条\N这道理  他还是明白的
+Dialogue: 0,1:10:51.58,1:10:52.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们喝一杯
+Dialogue: 0,1:10:53.17,1:10:54.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你什么时候改喝啤酒了
+Dialogue: 0,1:10:54.63,1:10:55.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我一直喝啤酒
+Dialogue: 0,1:10:55.92,1:10:58.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把那个给干了  喝这个
+Dialogue: 0,1:11:01.00,1:11:04.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当心手呀  没想到你还挺会买菜
+Dialogue: 0,1:11:06.62,1:11:09.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小红  有豆腐吗  拿点豆腐来好吗
+Dialogue: 0,1:11:10.83,1:11:12.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最好是冻豆腐啊
+Dialogue: 0,1:11:12.63,1:11:13.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}豆腐
+Dialogue: 0,1:11:15.00,1:11:16.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我好像搁冰箱了吧
+Dialogue: 0,1:11:16.58,1:11:17.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我来
+Dialogue: 0,1:11:21.04,1:11:22.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今儿买得吃的可够多的了
+Dialogue: 0,1:11:23.13,1:11:26.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这下惨了  够我们俩个人啊吃一星期了
+Dialogue: 0,1:11:27.46,1:11:29.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没关系  你和我哥要是吃不了
+Dialogue: 0,1:11:29.75,1:11:30.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我让大宁过来帮你们
+Dialogue: 0,1:11:31.25,1:11:33.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大宁特能吃  比蝗虫还能吃
+Dialogue: 0,1:11:37.71,1:11:40.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们俩在这闲聊什么呢  也不进去吃东西
+Dialogue: 0,1:11:40.75,1:11:42.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我先把豆腐拿进去
+Dialogue: 0,1:11:50.50,1:11:52.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也出去呀  呆这儿干嘛
+Dialogue: 0,1:11:53.25,1:11:54.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在里边饿疯了吧
+Dialogue: 0,1:11:55.31,1:11:56.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃东西去
+Dialogue: 0,1:11:56.35,1:11:57.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  走
+Dialogue: 0,1:12:06.28,1:12:08.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}觉得老花  手有点怔
+Dialogue: 0,1:12:08.21,1:12:09.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不争气
+Dialogue: 0,1:12:09.08,1:12:10.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想喝酒啊
+Dialogue: 0,1:12:10.13,1:12:11.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来来来
+Dialogue: 0,1:12:17.29,1:12:18.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来吧
+Dialogue: 0,1:12:18.96,1:12:20.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先押一口
+Dialogue: 0,1:12:20.75,1:12:22.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}春节放假  有什么安排
+Dialogue: 0,1:12:23.29,1:12:26.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}得加班  有个工地赶着开工  你们呢
+Dialogue: 0,1:12:30.00,1:12:31.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果可能的话
+Dialogue: 0,1:12:31.11,1:12:33.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}诗玲想把孩子带去黄山看日出
+Dialogue: 0,1:12:33.88,1:12:37.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}黄山特好玩  刚结婚那年  我们去过
+Dialogue: 0,1:12:37.88,1:12:39.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们也应该去一趟
+Dialogue: 0,1:12:39.63,1:12:40.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他
+Dialogue: 0,1:12:42.38,1:12:43.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没劲透了
+Dialogue: 0,1:12:47.58,1:12:48.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我喝我喝
+Dialogue: 0,1:12:48.88,1:12:49.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也陪我喝一杯
+Dialogue: 0,1:12:49.88,1:12:50.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}凭什么  我赢了吧
+Dialogue: 0,1:12:52.33,1:12:54.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小红  咱俩好久没划拳了  来
+Dialogue: 0,1:12:54.63,1:12:56.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我  我什么时候跟你划过拳呀
+Dialogue: 0,1:12:56.88,1:12:58.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  人家什么时候跟你\N划过拳呀  你自己喝吧
+Dialogue: 0,1:12:58.42,1:12:59.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  我自罚一杯
+Dialogue: 0,1:12:59.79,1:13:02.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扞东  咱们俩真好长时间没一块划过拳了
+Dialogue: 0,1:13:03.00,1:13:04.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着  战一局
+Dialogue: 0,1:13:07.17,1:13:10.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}倒酒  倒酒  整一下  整一下
+Dialogue: 0,1:13:19.33,1:13:22.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  小蓝宇  咱们俩还没划拳呢
+Dialogue: 0,1:13:22.63,1:13:25.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}成  以后你教我  现在好好吃东西  成吧
+Dialogue: 0,1:13:25.79,1:13:27.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃东西  来  吃东西
+Dialogue: 0,1:13:29.21,1:13:31.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对了  咱们还没和扞东喝一杯呢
+Dialogue: 0,1:13:33.74,1:13:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  扞东
+Dialogue: 0,1:13:36.13,1:13:37.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}雨过天晴了
+Dialogue: 0,1:13:37.54,1:13:40.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢  一块干了
+Dialogue: 0,1:14:02.08,1:14:03.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么早就起来了
+Dialogue: 0,1:14:05.04,1:14:06.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有点渴
+Dialogue: 0,1:14:08.21,1:14:09.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好冷
+Dialogue: 0,1:14:19.04,1:14:20.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是不是我让你睡得不好了
+Dialogue: 0,1:14:22.91,1:14:23.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么会
+Dialogue: 0,1:14:26.83,1:14:29.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这两天我一直在想  我一搬进来
+Dialogue: 0,1:14:31.00,1:14:32.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把你的生活全打乱了
+Dialogue: 0,1:14:35.21,1:14:37.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不然  我到外面找间房子住去
+Dialogue: 0,1:14:39.58,1:14:40.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}掉了颗钮扣
+Dialogue: 0,1:14:43.25,1:14:44.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你嫌这房子太小
+Dialogue: 0,1:14:48.04,1:14:51.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你一个人住刚好  我搬进来
+Dialogue: 0,1:14:51.58,1:14:52.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}搬进来就容不下你了
+Dialogue: 0,1:14:54.13,1:14:55.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能有多大
+Dialogue: 0,1:14:57.79,1:15:02.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我年龄比你大  什么都比你大呀
+Dialogue: 0,1:15:05.38,1:15:06.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么都比我大
+Dialogue: 0,1:15:07.50,1:15:08.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像不是吧
+Dialogue: 0,1:15:10.17,1:15:11.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你干嘛
+Dialogue: 0,1:15:11.28,1:15:12.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}量一下你到底有多大
+Dialogue: 0,1:15:22.71,1:15:24.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大起来了  怎么办
+Dialogue: 0,1:15:25.54,1:15:28.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么办  我来告诉你怎么办
+Dialogue: 0,1:15:55.38,1:15:56.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是不是有病
+Dialogue: 0,1:15:58.25,1:15:59.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我怎么可能这么喜欢你的
+Dialogue: 0,1:16:18.46,1:16:22.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道吗  在狱中这几个月
+Dialogue: 0,1:16:23.92,1:16:25.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我终于弄明白了一件事情
+Dialogue: 0,1:16:28.38,1:16:30.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟你是天生注定得走在一起的
+Dialogue: 0,1:16:33.50,1:16:34.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我很高兴
+Dialogue: 0,1:17:24.75,1:17:27.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回到这儿才感觉到  真像做了场梦
+Dialogue: 0,1:17:29.96,1:17:31.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你最近是闲过头了吧
+Dialogue: 0,1:17:31.67,1:17:32.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说话都咬文嚼字的
+Dialogue: 0,1:17:44.46,1:17:48.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天不知道怎么了  我总觉得心惊肉跳的
+Dialogue: 0,1:17:49.17,1:17:50.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是不是担心会计那本账
+Dialogue: 0,1:17:51.92,1:17:53.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还没出来呢
+Dialogue: 0,1:17:54.08,1:17:55.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}退回来的资产
+Dialogue: 0,1:17:55.75,1:17:58.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}减去偷税漏税的那大笔罚款
+Dialogue: 0,1:17:59.04,1:18:02.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有律师费和其他支出  都还在算呢
+Dialogue: 0,1:18:03.88,1:18:05.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所剩无几了吧
+Dialogue: 0,1:18:06.54,1:18:11.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}剩不了太多  不过足够我们东山再起了
+Dialogue: 0,1:18:15.63,1:18:18.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我他妈还真担心  你会跟我说另谋高就呢
+Dialogue: 0,1:18:19.29,1:18:21.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这家伙没那么容易把我甩了
+Dialogue: 0,1:18:23.71,1:18:25.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撒泡尿去  一起去
+Dialogue: 0,1:18:27.54,1:18:28.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去你的
+Dialogue: 0,1:18:33.54,1:18:34.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是
+Dialogue: 0,1:20:38.66,1:20:39.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道吗
+Dialogue: 0,1:20:40.65,1:20:42.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这些年  北京还是老样子
+Dialogue: 0,1:20:44.02,1:20:45.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到处都在拆呀建呀的
+Dialogue: 0,1:20:47.58,1:20:49.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}每次经过你出事的地方
+Dialogue: 0,1:20:50.91,1:20:52.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我都会停下来
+Dialogue: 0,1:20:53.45,1:20:56.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过心里倒很平静
+Dialogue: 0,1:20:58.95,1:21:01.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为总觉得你根本就没有走

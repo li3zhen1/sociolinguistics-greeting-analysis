@@ -1,0 +1,4825 @@
+﻿1
+00:02:20,897 --> 00:02:21,488
+喂！
+Hello!
+
+2
+00:02:21,631 --> 00:02:23,826
+喂，虾头呀，四姨婆呀！
+Hello, is it Ha-tau? I'm Auntie!
+
+3
+00:02:24,000 --> 00:02:24,761
+什么事？
+What's the matter?
+
+4
+00:02:24,934 --> 00:02:27,402
+你还没醒呀，我迟点再打来
+Are you still sleeping? I'll call you later
+
+5
+00:02:28,005 --> 00:02:29,029
+好！
+OK!
+
+6
+00:02:47,724 --> 00:02:48,418
+喂！
+Hello!
+
+7
+00:02:48,991 --> 00:02:50,356
+又是四姨婆呀！
+It's you again, Auntie!
+
+8
+00:02:50,494 --> 00:02:53,394
+你还没起床，那我再迟点打来
+You still didn't get up! Then I call you later
+
+9
+00:02:53,564 --> 00:02:57,226
+不要了，有什么事你说好了
+Oh, no need! Just go on!
+
+10
+00:02:57,367 --> 00:03:00,301
+是这样的，你表妹最近不大舒服
+The problem is that your cousin is not feeling well
+
+11
+00:03:00,603 --> 00:03:04,130
+要出来看医生，为了免她进进出出的
+and will go to see doctor! To avoid wasting time in travelling
+
+12
+00:03:04,274 --> 00:03:06,469
+所以索性叫她在你那里住两天好不好
+I'll let her live with you for several day! OK?
+
+13
+00:03:08,045 --> 00:03:09,478
+原来我还有表妹吗？
+Didn't I have a cousin really?
+
+14
+00:03:09,812 --> 00:03:12,940
+就是你二舅父的女儿阿娥呀！
+She's your second uncle's daughter, Ah-ngor!
+
+15
+00:03:23,026 --> 00:03:24,323
+是谁呢？
+Who is it?
+
+16
+00:03:36,373 --> 00:03:39,603
+我以为你不在家呢，我是阿娥！
+I just thought that you were out! I'm Ah-ngor!
+
+17
+00:03:40,244 --> 00:03:41,268
+你是不是表哥呀？
+You are my cousin, aren't you?
+
+18
+00:03:41,744 --> 00:03:43,734
+当自己家里一样好了
+Just treat yourself at home!
+
+19
+00:03:43,946 --> 00:03:45,640
+厕所、厨房都在那边
+There are kitchen and washroom
+
+20
+00:03:46,716 --> 00:03:49,913
+喂，有人CaII我，叫他迟些打来给我
+Hello! Someone's calling me! Tell him to call me later!
+
+21
+00:04:05,435 --> 00:04:06,093
+喂！
+Hello!
+
+22
+00:04:06,270 --> 00:04:07,567
+喂，麻烦你叫华哥听电话？
+Hello! Can I speak to Brother Wah?
+
+23
+00:04:08,805 --> 00:04:10,669
+他在睡觉，你那位找他？
+He's sleeping. Who is calling?
+
+24
+00:04:11,141 --> 00:04:12,004
+连我你都不认识
+You don't even know me
+
+25
+00:04:12,109 --> 00:04:13,542
+那你认识他也不会有多久
+You must be his new friend
+
+26
+00:04:13,676 --> 00:04:15,007
+我叫乌蝇，你是谁呀？
+I'm Fly! Who are you?
+
+27
+00:04:15,279 --> 00:04:16,337
+我是他表妹呀！
+I am his cousin!
+
+28
+00:04:16,513 --> 00:04:18,980
+表妹？！随便啦！
+Cousin?! Never mind!
+
+29
+00:04:19,149 --> 00:04:21,379
+你告诉他我正在等肥九出来讲数
+Tell him that I'm waiting for bargaining with Fat-karl
+
+30
+00:04:21,585 --> 00:04:22,551
+你叫他醒了就Call我
+Tell him to contact me when he get up
+
+31
+00:04:22,685 --> 00:04:23,413
+好！
+OK!
+
+32
+00:05:27,050 --> 00:05:27,573
+喂！
+Hello!
+
+33
+00:05:27,683 --> 00:05:29,776
+喂，表妹呀，华哥还没起床吗？
+Hello, Cousin! Didn't Brother Wah get up?
+
+34
+00:05:30,720 --> 00:05:33,450
+还没有，你是不是有要紧事找他？
+Didn't still! Is it urgent?
+
+35
+00:05:33,590 --> 00:05:34,578
+要不要我去叫醒他？
+Didn't you want me to wake him up?
+
+36
+00:05:34,957 --> 00:05:36,424
+不用了，如果他起来了
+No, thanks! If he get up,
+
+37
+00:05:36,593 --> 00:05:38,321
+你告诉他我还在等肥九来讲数
+tell him that I'm still waiting for Fat-karl
+
+38
+00:05:38,428 --> 00:05:39,291
+叫他CaII我啦！
+and tell him to call me!
+
+39
+00:05:39,529 --> 00:05:40,324
+好的！
+OK!
+
+40
+00:06:32,682 --> 00:06:34,149
+眼困就进房去睡吧！
+Go to sleep if you are tired!
+
+41
+00:06:34,318 --> 00:06:35,682
+我今晚睡客厅行啦
+I could sleep in the living room tonight!
+
+42
+00:06:43,560 --> 00:06:45,186
+为什么戴口罩？
+Why do you wear a gauze-mask?
+
+43
+00:06:45,529 --> 00:06:46,893
+费事传染啦！
+To avoid infecting other!
+
+44
+00:06:50,666 --> 00:06:51,598
+什么病呀？
+What kind of disease?
+
+45
+00:06:51,734 --> 00:06:53,429
+医生说可能是月市有事
+The doctor said that my lung is malfunctioning
+
+46
+00:06:53,570 --> 00:06:55,799
+所以叫我出来找个专科看看
+and tell me to see a specialist
+
+47
+00:06:57,740 --> 00:07:00,402
+死不了的，不用害怕
+You won't die!
+
+48
+00:07:02,979 --> 00:07:04,707
+多吃些橙就没事啦！
+Just eat more oranges and you'll be alright!
+
+49
+00:07:09,386 --> 00:07:10,374
+怪怪的！
+So strange!
+
+50
+00:07:19,895 --> 00:07:21,157
+刚才有个叫乌蝇的
+A guy called Fly had phoned you
+
+51
+00:07:21,298 --> 00:07:22,958
+打了几次电话来找你
+several time a while ago!
+
+52
+00:07:26,036 --> 00:07:27,662
+是吗？他说什么？
+Really? What did he say?
+
+53
+00:07:31,308 --> 00:07:31,796
+喂！
+Hello!
+
+54
+00:07:31,941 --> 00:07:32,907
+喂，表妹呀？
+Hello, little cousin!
+
+55
+00:07:33,176 --> 00:07:34,302
+华哥起床了没有？
+Haven't Brother Wah get up?
+
+56
+00:07:35,412 --> 00:07:36,207
+喂！
+Hello!
+
+57
+00:07:36,313 --> 00:07:37,939
+我现在还在肥九那儿收数
+I'm still staying with Fat-karl for collecting debt
+
+58
+00:07:38,248 --> 00:07:40,875
+有没搞错，今早收到现在还没收到
+Damn it! You still haven't get the money till now?
+
+59
+00:07:41,184 --> 00:07:43,516
+明明是玩你，你不要走开，我马上来
+He's just making fun of you! You stay there and I come at once!
+
+60
+00:07:56,599 --> 00:07:57,998
+我今晚没空陪你吃饭
+I cannot go for dinner
+
+61
+00:07:58,135 --> 00:07:59,193
+你自己出去吃吧
+with you tonight!
+
+62
+00:08:02,905 --> 00:08:04,532
+这里有一百元，你拿去吃饭
+Here's one hundred dollars for your dinner!
+
+63
+00:08:04,840 --> 00:08:05,966
+钥匙在地毯底下
+The key is under the carpet!
+
+64
+00:08:08,211 --> 00:08:10,041
+除了它吧，很好看吗？！
+Take it off, would you? It isn't looking good
+
+65
+00:08:22,159 --> 00:08:23,592
+先喝杯茶吧！
+Have a cup of tea first!
+
+66
+00:08:28,098 --> 00:08:30,464
+肥九，我跟你讲
+Fat-karl, I tell you...
+
+67
+00:08:31,001 --> 00:08:32,661
+我乌蝇肯跟你讲这么久
+I'm doing you favour to talk with you
+
+68
+00:08:32,868 --> 00:08:34,165
+算是给足面子你了
+for such a long time
+
+69
+00:08:35,871 --> 00:08:37,236
+我乌蝇的名字不够响
+I, Fly, am not famous
+
+70
+00:08:37,441 --> 00:08:38,907
+不是我不够QuaIi
+because I'm not qualified
+
+71
+00:08:39,276 --> 00:08:41,766
+是我大佬教我做人要深藏不露
+also my Big Brother always tell me to be subtle
+
+72
+00:08:42,245 --> 00:08:43,836
+牛池湾飞机你认识吧？！
+Did you know Mr Aeroplane of Agah-chee Wan?!
+
+73
+00:08:44,014 --> 00:08:45,810
+他在我们场里签了一千六百元的单
+He had made a debt of $1600
+
+74
+00:08:45,981 --> 00:08:47,209
+不过是拖了两天
+and just paid it late for two days,
+
+75
+00:08:47,384 --> 00:08:49,579
+现在飞不起啦，还要坐轮椅呢！
+now he cannot fly, and have to sit on a wheel chair
+
+76
+00:08:50,020 --> 00:08:53,046
+这件事还是我乌蝇亲手做的
+I did that with my own hands
+
+77
+00:08:54,623 --> 00:08:55,954
+你这是抛我啦？！
+Are you trying to frighten me?
+
+78
+00:08:56,159 --> 00:08:59,253
+飞机他算是老几呀？拿他来跟我比
+He, Aeroplane, is a nobody and cannot be compared to me
+
+79
+00:08:59,496 --> 00:09:00,689
+我告诉你呀
+I tell you...
+
+80
+00:09:00,930 --> 00:09:01,896
+我肥九出来混
+I, Fat-karl,
+
+81
+00:09:02,065 --> 00:09:03,759
+向来没有找数这个习惯
+never before have the habit of paying debt
+
+82
+00:09:03,966 --> 00:09:07,458
+别说是你，大圈那个向东够恶了吧？
+Let's say that Big-Circle who were more powerful...
+
+83
+00:09:07,636 --> 00:09:08,967
+现在也变成细圈啦！
+and now Big-Circle becomes Small-Circle!
+
+84
+00:09:09,172 --> 00:09:10,832
+你知道是为了什么？
+Do you know why?
+
+85
+00:09:11,007 --> 00:09:12,906
+就是因为他拿叠单来叫我找数
+It was because he forced me to pay his debt,
+
+86
+00:09:13,009 --> 00:09:14,442
+被我打得他五官不全
+so I hit him nearly into death
+
+87
+00:09:14,610 --> 00:09:16,407
+现在只剩下一只眼啦！
+He now get only one eye left!
+
+88
+00:09:17,780 --> 00:09:18,940
+出来混了才不过两年
+Just having two years experience
+
+89
+00:09:19,149 --> 00:09:20,979
+够胆来向我肥九收数？
+don't you have the guts to collect my debt?
+
+90
+00:09:21,251 --> 00:09:24,913
+我肥九的刀疤多过你的脚毛呀！
+I got knife-scars more than the number of your leg's hair!
+
+91
+00:09:25,322 --> 00:09:28,416
+刀疤？我大哥得一条，你有，我切！
+Scar? My Big Brother has one! I'll cut myself if you have!
+
+92
+00:09:29,092 --> 00:09:30,615
+你切啦！
+Cut yourself then!
+
+93
+00:09:32,262 --> 00:09:33,250
+还没讲完？！
+Haven't you finish talking?
+
+94
+00:09:33,597 --> 00:09:35,257
+还在讲开场白
+We're in the beginning still!
+
+95
+00:09:35,965 --> 00:09:37,829
+讲了几个钟头，还只是讲开场白？
+Still in the beginning for so many hours!
+
+96
+00:09:38,268 --> 00:09:39,097
+你找死呀？！
+Don't you want to die?
+
+97
+00:09:39,236 --> 00:09:41,135
+别动，统统不要动！
+Don't move! Everybody don't move!
+
+98
+00:09:41,304 --> 00:09:43,794
+给不给钱？给不给？！
+Would you pay the debt?
+
+99
+00:09:44,474 --> 00:09:47,806
+给，给，我没说不给！
+Yes, yes! Why wouldn't I?
+
+100
+00:09:50,313 --> 00:09:52,406
+想不到会这么顺利的
+It's unbelievable! So easy!
+
+101
+00:09:52,982 --> 00:09:54,972
+看他的样就知道是鳄鱼头，老衬底啦
+I know, just by his face, that he is a sheep wearing tiger's skin
+
+102
+00:09:55,218 --> 00:09:56,013
+有这么多人在
+With so many companions,
+
+103
+00:09:56,186 --> 00:09:57,777
+要有本事的话，早就动你了
+they will strike you in the very beginning if they have guts
+
+104
+00:09:57,920 --> 00:09:58,647
+你说得对！
+You are right!
+
+105
+00:09:58,754 --> 00:09:59,413
+这个给你！
+This is for you!
+
+106
+00:09:59,556 --> 00:10:00,419
+谢谢大佬！
+Thank you, Brother!
+
+107
+00:10:04,427 --> 00:10:05,085
+大佬，你到那里去？
+Where are you going Big Brother?
+
+108
+00:10:12,402 --> 00:10:13,231
+华哥！
+Brother Wah!
+
+109
+00:10:15,572 --> 00:10:16,333
+你来找Mabel？
+Visiting Mabel?
+
+110
+00:10:16,473 --> 00:10:16,801
+是呀！
+Yeah!
+
+111
+00:10:16,972 --> 00:10:17,960
+她还没上班呢！
+She hasn't go for work yet!
+
+112
+00:10:18,441 --> 00:10:19,202
+我到下面去等她
+I'll wait for her downstairs
+
+113
+00:10:19,276 --> 00:10:19,969
+好呀！
+OK!
+
+114
+00:10:35,325 --> 00:10:36,951
+那间Boutique有好多新货到了
+That boutique has a lot of new arrival!
+
+115
+00:10:37,127 --> 00:10:37,717
+是吗？
+Really?
+
+116
+00:10:37,893 --> 00:10:38,587
+改天跟你一起去看吧！
+I'll go to the boutique with you some other day!
+
+117
+00:10:38,727 --> 00:10:39,591
+好呀！
+OK!
+
+118
+00:10:45,402 --> 00:10:48,234
+Mabel!
+Mabel!
+
+119
+00:10:48,704 --> 00:10:49,728
+来！
+Come here!
+
+120
+00:10:51,840 --> 00:10:54,070
+我还没吃饭，一齐去宵夜吧！
+I didn't have my dinner! Would you go eating with me!
+
+121
+00:10:58,114 --> 00:10:59,637
+不喜欢就算了
+That's OK if you don't like to!
+
+122
+00:11:02,818 --> 00:11:05,718
+为什么这么晚才返工？
+Why did you go to work so lately?
+
+123
+00:11:05,888 --> 00:11:06,854
+我刚刚才出院
+I just left from the hospital
+
+124
+00:11:07,957 --> 00:11:11,290
+刚刚出院？！又去洗胃？！
+Just from the hospital? Why? Stomach-washing again?
+
+125
+00:11:11,428 --> 00:11:12,894
+不是洗胃，是堕胎呀！
+Not stomach-washing! It's abortion!
+
+126
+00:11:18,601 --> 00:11:19,693
+讲笑是吗？
+Are you kidding?
+
+127
+00:11:19,835 --> 00:11:21,200
+你可以当我讲笑
+You can treat it as kidding if you like to!
+
+128
+00:11:25,208 --> 00:11:27,675
+不是吧，有了也不告诉我？
+No it won't! Why didn't you tell me that you were pregnant?
+
+129
+00:11:28,211 --> 00:11:29,542
+你有给机会我跟你讲吗？
+Had you gave me a chance to tell me?
+
+130
+00:11:29,745 --> 00:11:31,838
+我等了你三天，你有没CaII过我？
+I had waited for three day! But didn't you call me?
+
+131
+00:11:32,982 --> 00:11:35,814
+我没有CaII你，你可以CaII我呀！
+You could call me if I didn't!
+
+132
+00:11:37,053 --> 00:11:38,883
+CaII你，跟你讲什么？
+Call you! What could I tell you?
+
+133
+00:11:39,022 --> 00:11:40,353
+告诉你我要去堕胎
+Tell you I'm going for abortion
+
+134
+00:11:40,490 --> 00:11:41,456
+还是叫你跟我结婚？
+or tell you to marry me?
+
+135
+00:11:41,591 --> 00:11:44,081
+认识了你六年，我得到些什么？
+We'd been together for six years! What did I get finally?
+
+136
+00:11:44,394 --> 00:11:46,487
+人，我有等于没有
+I felt like not knowing you
+
+137
+00:11:46,629 --> 00:11:48,221
+钱，就更加不用说了
+and didn't even get any money
+
+138
+00:11:48,465 --> 00:11:51,559
+我霉得连堕胎的钱都要向老妈借呢！
+I'm so poor that I had to borrow my mother's money for abortion!
+
+139
+00:11:51,700 --> 00:11:52,666
+你说，我到底为了什么？
+Speak up! What did I do for?
+
+140
+00:11:52,901 --> 00:11:54,129
+住口！
+Shut up!
+
+141
+00:11:57,740 --> 00:11:58,297
+你从认识我那天开始
+Stop saying! Since the day we'd met,
+
+142
+00:11:58,575 --> 00:11:59,734
+就知道我是个什么人
+you knew already what kind of person I am
+
+143
+00:12:02,078 --> 00:12:05,514
+你想结婚，想赚钱就不要跟着我
+Don't stay with me if you want to marry & want money
+
+144
+00:12:06,915 --> 00:12:08,507
+你别以为一声不响的去堕了胎
+Don't think that because you had abortion so secretly
+
+145
+00:12:08,717 --> 00:12:09,911
+我就会一世都不安乐
+that I would feel sorry for all the rest of my life
+
+146
+00:12:10,120 --> 00:12:11,348
+我不会的！
+I won't!
+
+147
+00:12:11,521 --> 00:12:13,511
+你口里说不会，你的心一定会
+Your mouth said you won't but your heart said you will
+
+148
+00:12:14,890 --> 00:12:18,417
+就因为你不重视我，你不紧张我
+Because you didn't bother me, didn't care about me
+
+149
+00:12:18,561 --> 00:12:19,959
+我就要糟蹋你的孩子
+I spoiled your baby
+
+150
+00:12:20,430 --> 00:12:22,158
+我还要告诉全世界人知道
+And I am going to tell everybody
+
+151
+00:12:22,365 --> 00:12:23,353
+我为了你堕胎
+that I had your baby aborted,
+
+152
+00:12:23,500 --> 00:12:24,796
+等你这一辈子都不安乐
+so that you'll feel guilty for the rest of your life
+
+153
+00:12:30,373 --> 00:12:33,205
+你行，算你行！
+You've got the guts!
+
+154
+00:13:13,949 --> 00:13:14,846
+表哥！
+Cousin!
+
+155
+00:13:18,088 --> 00:13:19,112
+你没事吧？
+Are you alright?
+
+156
+00:13:44,314 --> 00:13:45,177
+表哥！
+Cousin!
+
+157
+00:13:48,385 --> 00:13:52,081
+表哥，有什么事吗？
+What's the matter, cousin?
+
+158
+00:13:53,490 --> 00:13:54,922
+你是不是失恋了？
+Are you lovelorned?
+
+159
+00:14:00,330 --> 00:14:01,558
+你说什么？
+What did you say?
+
+160
+00:14:06,102 --> 00:14:07,090
+你说什么呀？
+What did you say?
+
+161
+00:14:16,212 --> 00:14:20,410
+我告诉你，以后你不要再说这两个字
+I tell you! Never talk about lovelorn again
+
+162
+00:14:21,284 --> 00:14:22,875
+否则的话，我就扔你出去
+Or else, I'll throw you out!
+
+163
+00:15:37,893 --> 00:15:38,951
+你不用去看医生？
+Did you see the doctor?
+
+164
+00:15:39,928 --> 00:15:41,293
+刚刚看完回来
+I just returned from the hospital
+
+165
+00:15:43,599 --> 00:15:44,725
+医生怎么说？
+What have the doctor said?
+
+166
+00:15:45,701 --> 00:15:47,032
+明天才有报告
+I will get the report tomorrow!
+
+167
+00:15:57,580 --> 00:16:00,377
+吃过饭没有？我跟你出去吃吧！
+Haven't you have your meal? Go eating with me!
+
+168
+00:16:01,884 --> 00:16:03,078
+我煮了饭啦！
+I have make the meal!
+
+169
+00:16:14,063 --> 00:16:15,757
+今早乌蝇又打过电话来
+Fly had phoned you again this morning
+
+170
+00:16:18,067 --> 00:16:19,193
+那衰仔有什么话讲呀？
+What had the dirty guy said?
+
+171
+00:16:20,570 --> 00:16:23,504
+没什么，只聊了两句
+Nothing special! Just some casual talk!
+
+172
+00:16:25,008 --> 00:16:26,373
+有没有问我的事呀？
+Didn't he ask anything about me?
+
+173
+00:16:26,975 --> 00:16:27,770
+你什么事？
+What kind of thing?
+
+174
+00:16:30,679 --> 00:16:32,203
+昨晚的事呀
+The thing happened last night!
+
+175
+00:16:36,952 --> 00:16:38,510
+乌蝇只是问了一句
+Fly had asked only once!
+
+176
+00:16:40,622 --> 00:16:43,955
+问一句？问些什么？
+What? What did he ask?
+
+177
+00:16:44,960 --> 00:16:46,393
+我不敢讲！
+I'm afraid to tell you!
+
+178
+00:16:48,431 --> 00:16:49,988
+有什么话你讲好了
+Just tell me what you heard!
+
+179
+00:16:50,832 --> 00:16:52,163
+真的讲呀？！
+Do you insist me to tell you?
+
+180
+00:16:54,504 --> 00:16:56,027
+他问你是不是失恋了
+He asked me if you were lovelorned
+
+181
+00:17:09,052 --> 00:17:12,317
+整天坐在这里，怎么不出去走走？
+You have been here for all day! What didn't you go out?
+
+182
+00:17:13,922 --> 00:17:18,120
+没什么地方好去，九龙我没有朋友
+No place to go! I have no friend in Kowloon
+
+183
+00:17:23,266 --> 00:17:26,429
+快点吃呀，今晚我同你出去走走
+Eat quickly! We'll go out together tonight
+
+184
+00:17:38,947 --> 00:17:40,380
+表妹，你在读书还是做事？
+Cousin, are you studying or working?
+
+185
+00:17:41,584 --> 00:17:42,845
+在做事啦！
+I'm working already!
+
+186
+00:17:43,553 --> 00:17:44,577
+做什么工作？
+What kind of job?
+
+187
+00:17:45,488 --> 00:17:47,352
+在朋友的餐厅里做帮手
+I'm working in a friend's restaurant
+
+188
+00:17:48,790 --> 00:17:50,018
+男朋友呀？
+Boy friend?
+
+189
+00:17:53,329 --> 00:17:55,023
+不算是男朋友
+Well! Not quite!
+
+190
+00:17:55,465 --> 00:17:56,954
+人人都叫他做邓伯
+Everybody call him Uncle Tang
+
+191
+00:18:00,736 --> 00:18:03,636
+等会儿我们去看戏
+Let us go to the cinema a while later!
+
+192
+00:18:03,739 --> 00:18:06,537
+等你有空才说吧，你不一定要陪我的
+We'll go if you are free! You have no need to stay with me
+
+193
+00:18:34,670 --> 00:18:36,001
+班救兵呀？！
+Calling rescue?
+
+194
+00:18:37,939 --> 00:18:39,998
+阿西，输了多少钱？
+Ah-site, how much have you lose?
+
+195
+00:18:40,809 --> 00:18:42,003
+五百元！
+Five hundreds!
+
+196
+00:18:45,048 --> 00:18:47,312
+五百元这么少我才不打
+I won't play for so little money!
+
+197
+00:18:48,384 --> 00:18:52,979
+棺材山地一铺过，一千元，怎么样？
+One thousand for one game, agree for not?
+
+198
+00:18:54,557 --> 00:18:57,081
+一千元，波王，怎么看？
+One thousand? What's your opinion, King of snooker?
+
+199
+00:18:57,793 --> 00:19:00,956
+什么？一千元就想看我的实力
+What? To see my quality just by one thousand dollar?
+
+200
+00:19:01,130 --> 00:19:02,529
+这盘我用单手让你
+I play with single-hand in this game,
+
+201
+00:19:02,698 --> 00:19:04,165
+有种的就赌两千元
+for two thousands
+
+202
+00:19:04,534 --> 00:19:07,502
+单手让我，即刻签约
+Single hand! Let's sign contract at once!
+
+203
+00:19:09,738 --> 00:19:10,635
+阿西！
+Ah-site!
+
+204
+00:19:13,409 --> 00:19:14,306
+单顶！
+Single-head!
+
+205
+00:19:30,259 --> 00:19:31,987
+又入，怎么看呀？
+Another ball into pocket! What's your opinion?
+
+206
+00:19:44,107 --> 00:19:46,836
+是不是，我说波王厉害嘛！
+Right, King of snooker is really great!
+
+207
+00:19:54,250 --> 00:19:57,150
+西呀，看看输了人家几度？
+Ah-site, how many scores have I lost?
+
+208
+00:20:00,323 --> 00:20:03,383
+不用计了，暂时赢你三十度
+No need to calculate! He has thirty scores more than you
+
+209
+00:20:03,526 --> 00:20:05,551
+给你全部入了，都赢你五度
+Still has five scores more than you even if you win all the ball rested
+
+210
+00:20:06,062 --> 00:20:07,222
+怎么看呢？
+How do you look?
+
+211
+00:20:08,864 --> 00:20:10,694
+那就是要SetLOOk架啦！
+That means we need a targeting stick!
+
+212
+00:20:12,335 --> 00:20:15,030
+西呀，拿枝私家Q来
+Ah-site, bring me my private cue
+
+213
+00:20:27,316 --> 00:20:28,578
+开波，开波！
+Start, start!
+
+214
+00:20:30,419 --> 00:20:32,181
+子工西呀！
+Stunt Follow
+
+215
+00:20:33,156 --> 00:20:34,850
+走开呀！
+Get away!
+
+216
+00:20:38,660 --> 00:20:40,594
+走开呀！
+Get out of my way!
+
+217
+00:20:41,264 --> 00:20:46,292
+ScreWBack，现在到SetLOOk架啦
+Now, set the targeting stick!
+
+218
+00:20:51,474 --> 00:20:54,704
+不稳阵，锤稳阵点
+Not stable! Make it more stable!
+
+219
+00:20:55,811 --> 00:20:59,508
+小心点呀，输七度
+Beware! You will lost 7 scores!
+
+220
+00:20:59,648 --> 00:21:05,450
+救波啦，救呀，救呀！
+Save that balls! Save it!
+
+221
+00:21:05,821 --> 00:21:06,752
+你当我死的？！
+Are you taking me as a dead!
+
+222
+00:21:08,890 --> 00:21:09,685
+去你的
+Fuck off!
+
+223
+00:21:11,527 --> 00:21:12,117
+大佬！
+Big Brother!
+
+224
+00:21:13,529 --> 00:21:14,256
+怎么啦？大佬！
+What's the matter, Big Brother?
+
+225
+00:21:14,330 --> 00:21:15,159
+走啦！
+Get away!
+
+226
+00:21:40,056 --> 00:21:41,216
+走呀，去你的
+Go away, bastard!
+
+227
+00:21:42,458 --> 00:21:43,754
+别走！
+Don't go!
+
+228
+00:21:44,427 --> 00:21:45,620
+别走呀！
+Don't go!
+
+229
+00:21:53,668 --> 00:21:55,101
+你妈的，不要阻着！
+Bastard, don't block the way!
+
+230
+00:22:00,709 --> 00:22:01,733
+死呀你！
+Damn you!
+
+231
+00:22:16,292 --> 00:22:18,782
+死呀，死呀！
+Damn it! Damn it!
+
+232
+00:22:33,642 --> 00:22:35,166
+他妈的
+Fuck off
+
+233
+00:22:56,299 --> 00:22:59,496
+大佬！大佬！
+Big Brother!
+
+234
+00:23:23,025 --> 00:23:23,956
+可以走了吗？
+Could we leave now?
+
+235
+00:23:26,628 --> 00:23:27,390
+好了！
+It's OK!
+
+236
+00:23:53,122 --> 00:23:54,316
+静点好不好？
+Be quiet, would you?
+
+237
+00:27:09,851 --> 00:27:11,045
+你没事吧？
+Are you alright?
+
+238
+00:27:11,920 --> 00:27:12,978
+我没事！
+I'm alright!
+
+239
+00:27:27,702 --> 00:27:29,294
+为什么这么晚了还不睡？
+Why don't you go to sleep? It's so late
+
+240
+00:28:10,745 --> 00:28:13,213
+表哥，我的报告出来了
+Cousin, my report said that
+
+241
+00:28:13,449 --> 00:28:15,075
+医生说我没事
+my health is alright
+
+242
+00:28:15,351 --> 00:28:17,614
+我本来想跟你庆祝一下
+I want to celebrate with you at first,
+
+243
+00:28:17,752 --> 00:28:19,242
+不过，四姨婆说这几天
+but, Auntie said the weather is fine
+
+244
+00:28:19,421 --> 00:28:21,217
+天气暖和了，餐厅好忙
+& the restaurant is busy these days
+
+245
+00:28:21,423 --> 00:28:23,390
+邓伯叫我早点回去
+Uncle Tang want me to go back earlier
+
+246
+00:28:23,658 --> 00:28:26,559
+我叫了你两次，不过你都没有反应
+I have called you twice, but you have no response
+
+247
+00:28:26,761 --> 00:28:28,490
+我想你一定很倦了
+You must be very tired, I think
+
+248
+00:28:28,796 --> 00:28:30,127
+热天快到了
+Summer is coming
+
+249
+00:28:30,366 --> 00:28:32,527
+大屿山有很多人进来渡假
+& many people will spend their holiday in Lantau Island
+
+250
+00:28:32,767 --> 00:28:35,201
+不知道你那行有没有假期呢？
+Do you have holiday working in such career?
+
+251
+00:28:35,937 --> 00:28:38,201
+厨房里我煮下了饭
+I've made a meal for you in the kitchen
+
+252
+00:28:38,673 --> 00:28:40,800
+另外我买了几只杯
+Besides, I've bought several glasses
+
+253
+00:28:41,343 --> 00:28:43,867
+我知道，不用多久就全部都会打烂了
+I know, they will be all broken sooner or later
+
+254
+00:28:44,046 --> 00:28:45,740
+所以我藏起了一只
+So I've hid one of them
+
+255
+00:28:45,913 --> 00:28:47,938
+到有一天你需要这只杯的时候
+One day when you need this glass,
+
+256
+00:28:48,117 --> 00:28:49,175
+打个电话给我
+give me a phone, and...
+
+257
+00:28:49,385 --> 00:28:51,614
+我会告诉你藏在什么地方
+I'll tell you where it was hidden
+
+258
+00:28:51,719 --> 00:28:53,016
+拜拜！阿娥！
+Goodbye, Ah-ngor!
+
+259
+00:29:30,392 --> 00:29:31,518
+各位！
+Everybody!
+
+260
+00:29:34,263 --> 00:29:37,528
+小声点呀，小声点呀！
+Be quiet! Be quiet!
+
+261
+00:29:44,806 --> 00:29:46,899
+各位亲友，各位嘉宾
+All my relatives and all my guests,
+
+262
+00:29:47,242 --> 00:29:50,108
+今天就是我弟弟阿西结婚的大好日子
+today is the wedding of my brother, Ah-site
+
+263
+00:29:50,512 --> 00:29:52,945
+酒微菜薄，没什么招呼大家
+We've prepared some simple food to serve you
+
+264
+00:29:53,082 --> 00:29:55,312
+请各位多饮一杯，我先饮为敬！
+Would we all raise our glasses I drink first
+
+265
+00:29:55,484 --> 00:29:57,815
+饮杯！
+Cheer!
+
+266
+00:29:59,588 --> 00:30:01,782
+叫了你礼金不用两百元那么多
+I've already said that two hundred dollars were too much
+
+267
+00:30:01,956 --> 00:30:02,944
+我怎么知道他会在天台摆酒
+How would I know he would
+
+268
+00:30:03,192 --> 00:30:04,158
+那么“缩骨”呢！
+hold the ceremony on the roof!
+
+269
+00:30:04,792 --> 00:30:05,780
+请起筷！
+Please eat!
+
+270
+00:30:06,495 --> 00:30:08,121
+起筷啦，起筷啦！
+Use your meal, please!
+
+271
+00:30:13,502 --> 00:30:15,799
+不要这样，起筷啦！
+Don't behave this way! Eat!
+
+272
+00:30:16,271 --> 00:30:17,168
+看这边！
+Look at this way!
+
+273
+00:30:18,673 --> 00:30:20,265
+多影一张，多影一张
+Take one more photograph!
+
+274
+00:30:21,276 --> 00:30:22,139
+好，好！
+OK! OK!
+
+275
+00:30:22,277 --> 00:30:23,106
+谢谢，谢谢！
+Thank you!
+
+276
+00:30:23,212 --> 00:30:25,578
+快去叫你外父外母出来影相，快点啦
+Go bring your mother-in-law and father-in-law to take a photograph!
+
+277
+00:30:25,847 --> 00:30:27,109
+快点呀！
+Hurry up!
+
+278
+00:30:33,721 --> 00:30:35,279
+阿爸，过去影张相吧！
+Father, would you take a photograph!
+
+279
+00:30:35,857 --> 00:30:36,788
+不影！
+No!
+
+280
+00:30:36,991 --> 00:30:37,854
+影嘛，阿爸！
+Take it, father!
+
+281
+00:30:37,925 --> 00:30:38,720
+不影！
+No!
+
+282
+00:30:41,163 --> 00:30:44,189
+不要这样，去啦，去影嘛！
+Don't be like that, go take a photograph!
+
+283
+00:30:44,433 --> 00:30:48,027
+不影，影鬼影马嘛，影来献世呀！
+No! What for? It's really a shame!
+
+284
+00:30:49,004 --> 00:30:50,369
+要吃你就快点吃
+Eat quickly if you want to!
+
+285
+00:30:50,472 --> 00:30:52,200
+多坐一会儿都会中暑呀！
+We must leave soon or else I'll faint
+
+286
+00:30:52,374 --> 00:30:54,170
+不要这样嘛，老头子！
+Don't be like that, father!
+
+287
+00:30:54,376 --> 00:30:56,775
+没有钱就别学人家摆酒
+Don't hold any celebration if you don't have money
+
+288
+00:30:56,978 --> 00:30:59,572
+在天台摆酒，简直是离谱
+Celebrating on the roof is extremely unbelievable
+
+289
+00:31:05,853 --> 00:31:07,445
+我都不知道要怎样教你
+I just don't know how to teach you
+
+290
+00:31:07,922 --> 00:31:10,719
+你一世人做事有那样是好看的
+You have never done a good work in the past
+
+291
+00:31:10,992 --> 00:31:13,517
+你弟弟，你弟弟结婚
+It's your brother's wedding!
+
+292
+00:31:13,661 --> 00:31:15,060
+你搞得现在这么寒酸？
+Why did you made it so shabby?
+
+293
+00:31:15,696 --> 00:31:18,187
+大哥呀，我不想办得风风光光吗？
+Don't you think that I didn't want to make it luxurious?
+
+294
+00:31:18,367 --> 00:31:20,528
+不过现在没有偏财，你叫我怎么办？
+But I have no money! What can I do?
+
+295
+00:31:24,440 --> 00:31:25,906
+你妈的，这么多说话
+Damn it! So noisy!
+
+296
+00:31:40,922 --> 00:31:42,389
+“屎忽鬼”  ！
+Gay fellow!
+
+297
+00:31:43,425 --> 00:31:44,618
+你说什么？
+What did you say?
+
+298
+00:31:45,427 --> 00:31:49,123
+我说什么？！我说你是“屎忽鬼”呀！
+What did I say? I said you are gay!
+
+299
+00:31:49,298 --> 00:31:51,357
+没有鱼翅你吃吗？没有鲍鱼你吃吗？
+I did serve you shark's fin or abalone, didn't you?
+
+300
+00:31:52,034 --> 00:31:54,332
+就只差些冷气，你这么多说话做什么
+It has no air-conditioning! Why are you so talkative?
+
+301
+00:31:54,503 --> 00:31:58,302
+照我的意思，你只配吃斋鲍鱼
+You only deserved vegetal abalone
+
+302
+00:31:58,574 --> 00:32:00,131
+要不是你女婿说你喜欢吃鲍鱼
+If your son-in-law didn't say you love eating abalone,
+
+303
+00:32:00,275 --> 00:32:01,367
+我会给你吃？！
+I won't let you have it!
+
+304
+00:32:01,642 --> 00:32:03,701
+早知道你这么老土
+If I know you are so troublesome,
+
+305
+00:32:03,978 --> 00:32:06,605
+吃鲍鱼，去吃屎啦你！
+I'll give you shit, not abalone!
+
+306
+00:32:07,416 --> 00:32:08,643
+你这小子想找死是吗？
+Are you looking for death?
+
+307
+00:32:08,816 --> 00:32:09,942
+用东西扔我？！
+Don't you dare throwing things to me?
+
+308
+00:32:10,085 --> 00:32:11,915
+你不要阻着我，让我打死他
+Don't block my way! Let me kill him
+
+309
+00:32:12,087 --> 00:32:13,075
+是不是想打架呀？
+Don't you want to fight?
+
+310
+00:32:13,255 --> 00:32:14,778
+大哥，不要这样呀，大哥！
+Don't do that, Big Brother!
+
+311
+00:32:15,023 --> 00:32:16,853
+想比划一下是吗？
+Want to fight, don't you?
+
+312
+00:32:17,025 --> 00:32:19,323
+喂，你现在想怎么样？走开呀！
+Hey, now what do you want? Get away!
+
+313
+00:32:20,195 --> 00:32:22,185
+我告诉你，你不要出声呀！
+I tell you, don't make any noise!
+
+314
+00:32:22,531 --> 00:32:22,894
+为什么不出声？
+What can't I speak?
+
+315
+00:32:23,031 --> 00:32:23,463
+坐下！
+Sit down!
+
+316
+00:32:24,099 --> 00:32:25,123
+走开呀！
+Get lost!
+
+317
+00:32:25,300 --> 00:32:25,731
+好小子！
+Good boy!
+
+318
+00:32:25,900 --> 00:32:27,662
+坐下，坐下呀！
+Sit, sit down!
+
+319
+00:32:28,403 --> 00:32:31,894
+怎么？不对呀，他是屎忽鬼嘛！
+Hey! Is it right? He's really bastard
+
+320
+00:32:32,040 --> 00:32:33,302
+你是不是要在大哥面前动手？
+Do you really want to fight before Big Brother?
+
+321
+00:32:33,442 --> 00:32:34,305
+是不是呀？
+Don't you?
+
+322
+00:32:34,543 --> 00:32:37,170
+你讲呀，你讲多一次
+Speak up! Speak once more!
+
+323
+00:32:41,550 --> 00:32:43,608
+他怎么样都是阿西的外父
+Anyway, he is Ah-site's father-in-law
+
+324
+00:32:44,186 --> 00:32:46,881
+你这样搞法，即是令你弟弟难做？
+If you make trouble, your young brother will be embarrassed
+
+325
+00:32:47,122 --> 00:32:47,746
+你说对不对？
+Do you agree?
+
+326
+00:32:47,955 --> 00:32:52,415
+好，好，我不对，我错，是我不对！
+OK! It's my fault! I'm wrong!
+
+327
+00:32:58,599 --> 00:33:04,538
+弟弟，今天大哥要你受委屈
+My young brother, I make you suffered today
+
+328
+00:33:05,873 --> 00:33:11,640
+将来大哥赚到了钱，一定替你补数
+I'll pay for it when I have money some days
+
+329
+00:33:25,726 --> 00:33:28,058
+早已知道轮到我们社团的了
+I knew that it's our turn
+
+330
+00:33:28,196 --> 00:33:29,753
+估不到那么快的
+But it happens so soon
+
+331
+00:33:29,997 --> 00:33:32,090
+昨晚警察拘捕了我们二十多人
+The cops arrested us last night.
+
+332
+00:33:32,301 --> 00:33:34,462
+拘捕了那些卒子不紧要
+They're just small fry, It's not a big deal
+
+333
+00:33:34,602 --> 00:33:36,797
+大口基是揸数的
+Big-mouth kay controls the money
+
+334
+00:33:44,946 --> 00:33:46,311
+听里面的人说
+They said that
+
+335
+00:33:46,481 --> 00:33:51,144
+警察正和他谈判，想转他做污点证人
+The cops are making a deal with him. They wont him to be turncoat witness
+
+336
+00:33:51,420 --> 00:33:54,252
+这件事可大可小呀！
+This case is quite serious!
+
+337
+00:33:54,456 --> 00:33:56,719
+所以“阿公”叫我来通知你们
+So that Godfather sent me to inform you that,
+
+338
+00:33:56,891 --> 00:34:00,327
+这阵子没什么事就不要搞那么多事
+don't make any trouble if it is not necessarily these days
+
+339
+00:34:02,863 --> 00:34:04,853
+喂，外面哈林大行动呀！
+Hey, the police has a great action outside!
+
+340
+00:34:05,000 --> 00:34:05,591
+你们这班仆街
+All of you bastards
+
+341
+00:34:05,766 --> 00:34:07,028
+那个身上有毒品、家生呀！
+who have drugs and weapons,
+
+342
+00:34:07,302 --> 00:34:09,269
+快点自己搞定
+go hide them away quickly!
+
+343
+00:34:11,106 --> 00:34:13,096
+华仔，外面有人找你呀！
+Ah-wah, someone visiting you outside!
+
+344
+00:34:13,375 --> 00:34:14,136
+谢谢！
+Thank you!
+
+345
+00:34:20,815 --> 00:34:21,712
+你来做什么？
+What are you coming for?
+
+346
+00:34:21,882 --> 00:34:22,940
+专诚来找你的
+I visit you with special reason
+
+347
+00:34:23,185 --> 00:34:25,244
+你弟弟乌蝇在我们这里欠了条数
+Your brother, Fly, owe us a sum of money
+
+348
+00:34:25,454 --> 00:34:28,582
+几期没还，CaII他，他又不覆机
+He hasn't pay the debt for several period and didn't reply our call
+
+349
+00:34:29,291 --> 00:34:31,350
+我大哥叫我来知会你一声
+My big brother sent me to inform you that...
+
+350
+00:34:31,659 --> 00:34:33,626
+如果明天还不见他露面的话
+If he don't show up tomorrow,
+
+351
+00:34:33,794 --> 00:34:35,591
+就算自己人也没情面给了
+we won't give him any chance
+
+352
+00:34:36,731 --> 00:34:40,632
+你回去告诉TOny，教弟弟我自己会教
+Tell Tony that I know how to teach my own man,
+
+353
+00:34:40,901 --> 00:34:43,131
+至于这笔数，我会问乌蝇的
+and, about the debt, I will ask Fly
+
+354
+00:34:43,305 --> 00:34:44,066
+如果是真的
+If it's true,
+
+355
+00:34:44,206 --> 00:34:45,832
+我明天带他上竹馆去找他
+I will bring him to see Tony tomorrow
+
+356
+00:34:55,883 --> 00:34:58,010
+大哥，找我吗？
+Do you want to see me?
+
+357
+00:35:03,891 --> 00:35:05,381
+你最近很需要钱用吗？
+You need money don't you?
+
+358
+00:35:07,162 --> 00:35:10,824
+什么最近呀，我什么时候也需要钱用
+I always need money
+
+359
+00:35:11,366 --> 00:35:16,962
+不过也惯了，我乌蝇看得很远大的
+I'm used to it. I have big prospects
+
+360
+00:35:17,838 --> 00:35:20,806
+相士说我三十岁行鼻运
+The fortune teller told me I'll be freat at the age of 30
+
+361
+00:35:21,109 --> 00:35:25,443
+到时便一帆风顺，扶摇直上
+Every thing is finethen
+
+362
+00:35:25,613 --> 00:35:27,376
+那还需要在这里过活
+No need to stay here
+
+363
+00:35:29,351 --> 00:35:33,047
+相士有没有说你等不到三十岁
+Did he told you that you can't live to 30
+
+364
+00:35:33,188 --> 00:35:34,677
+没有呀！
+No!
+
+365
+00:35:35,323 --> 00:35:38,155
+我现在收到消息，说你借了TOny钱
+I heard that you borrowed money from Tony
+
+366
+00:35:38,326 --> 00:35:39,189
+Who is Tony?
+Who is Tony?
+
+367
+00:35:39,394 --> 00:35:40,621
+I don't know him.
+I don't know him.
+
+368
+00:35:42,297 --> 00:35:43,763
+你在说什么呀？
+What did you say?
+
+369
+00:35:44,232 --> 00:35:45,529
+英文罗！
+English
+
+370
+00:35:45,633 --> 00:35:48,101
+你明知我不懂英文你和我说英文
+You knew that I don't know English
+
+371
+00:35:49,504 --> 00:35:52,666
+我问你，你是不是在TOny里借了钱
+I ask you. Did you borrow money from Tony?
+
+372
+00:35:52,840 --> 00:35:54,034
+没有呀！
+No!
+
+373
+00:35:55,343 --> 00:35:58,072
+没有？为什么他们那么紧张到处找你
+No? Why are they looking for you?
+
+374
+00:35:58,313 --> 00:36:00,075
+现在他们在对面宵夜
+They are eating around the corner
+
+375
+00:36:00,315 --> 00:36:01,509
+要不要caII他们过来？
+Do you want me to tell them you're here?
+
+376
+00:36:01,682 --> 00:36:02,670
+好呀！
+Yes!
+
+377
+00:36:09,591 --> 00:36:11,080
+眨什么眼呀
+Who are you winking to?
+
+378
+00:36:12,427 --> 00:36:16,328
+到底问人借了多少？多少呀？
+How much did you borrow?
+
+379
+00:36:17,499 --> 00:36:19,558
+少数目吧，不用那么紧张
+Just a small sum. Take it easy
+
+380
+00:36:19,734 --> 00:36:21,133
+少数不是数吗？
+Small sum is also money
+
+381
+00:36:21,369 --> 00:36:22,495
+多少呀？
+How much?
+
+382
+00:36:23,004 --> 00:36:26,235
+一千几百吧，小儿科啦，不用理他
+Hundreds bucks. It's not a big deal, leave him alone
+
+383
+00:36:26,607 --> 00:36:29,075
+一千几百他们那么紧张来找我
+But they come to me
+
+384
+00:36:31,213 --> 00:36:32,510
+你说不说
+Tell me
+
+385
+00:36:37,785 --> 00:36:41,585
+四围到会，一对龙凤厄，你自己计吧
+4 meals and a pair of gold bracelets
+
+386
+00:36:58,073 --> 00:36:59,039
+这里是八千！
+Here are eight thousands!
+
+387
+00:37:02,977 --> 00:37:08,347
+什么？八千？！你这钱一张当两张用呀
+What? Eight thousands? Are you using one dollar as two?
+
+388
+00:37:10,718 --> 00:37:12,379
+他说就这么多
+It's so if he said it is!
+
+389
+00:37:13,522 --> 00:37:16,490
+大数是八千，还有尾数呢？
+The principal is eight thousands! What about the rest?
+
+390
+00:37:16,957 --> 00:37:19,255
+他呀，四期没供
+He haven't paid for four instalments
+
+391
+00:37:20,262 --> 00:37:23,425
+零头不计，就收他一万三千五
+Omitting the odd, he still owe us thirteen thousand and five
+
+392
+00:37:23,598 --> 00:37:24,723
+当自己人才这样收顺的啦
+We are giving you benefit because we know you
+
+393
+00:37:24,832 --> 00:37:25,856
+你去抢吧！
+Why don't you go robbing?
+
+394
+00:37:30,105 --> 00:37:32,335
+你是什么辈份，跟我讲话？
+Who do you think you are? Speak to me?
+
+395
+00:37:32,474 --> 00:37:33,701
+这么喜欢讲话
+So fond of talking
+
+396
+00:37:33,841 --> 00:37:36,366
+光仔，陪他走过一边去讲足三个钟头
+Ah-kwong, talk to him for several hours at there!
+
+397
+00:37:36,511 --> 00:37:36,839
+是！
+Yes!
+
+398
+00:37:37,012 --> 00:37:37,739
+讲你老母！
+Fuck off, you son of bitch!
+
+399
+00:37:37,912 --> 00:37:40,744
+收声，你同我出去！
+Shut up! Get out!
+
+400
+00:37:42,950 --> 00:37:43,974
+出去呀！
+Get out!
+
+401
+00:37:55,463 --> 00:37:58,158
+你这个细佬好命，跟着你
+Your brother is lucky in working under you
+
+402
+00:37:59,067 --> 00:38:00,931
+如果跟第二瓣，怕死了很久啦！
+If he is working for other, he have already died!
+
+403
+00:38:02,070 --> 00:38:06,439
+不要多讲了，我不跟你计这些婆母数
+Don't talk anymore I don't want to talk about that
+
+404
+00:38:10,312 --> 00:38:11,744
+本呢你就先收回
+I return you the principal first
+
+405
+00:38:12,013 --> 00:38:14,606
+至于息呢，他现在真的没有
+But he really didn't have money to paid the interest
+
+406
+00:38:14,748 --> 00:38:15,679
+拖多你两期了
+So we have to delay for two instalments more
+
+407
+00:38:16,617 --> 00:38:17,709
+又要拖多两期？
+Two instalments delay?
+
+408
+00:38:17,852 --> 00:38:20,013
+不是要拖到我死了才烧回给我吧？
+Why not return to me after my death?
+
+409
+00:38:21,590 --> 00:38:22,988
+你不信他，信我呀！
+You must trust me even if you don't trust him!
+
+410
+00:38:23,091 --> 00:38:24,524
+现在我背上了这条数
+I'll responsible for this debt
+
+411
+00:38:26,261 --> 00:38:27,592
+我现在身上没钱
+But I have no money now
+
+412
+00:38:27,928 --> 00:38:29,895
+过两天我亲自拿来给你
+I'll give you after two days
+
+413
+00:38:32,400 --> 00:38:35,732
+一万八千都没有，你怎么做人大佬呀
+How can you be a Big Brother if you don't have any money at hand
+
+414
+00:38:35,903 --> 00:38:37,598
+不如回乡下耕田啦
+I think you better go farming!
+
+415
+00:38:37,872 --> 00:38:41,467
+我以为你有钱才坐在这里同你谈谈
+I thought that you had money so I dared to talk with you
+
+416
+00:38:41,942 --> 00:38:44,876
+做大佬做得像你这么霉…
+You are such a poor Big Brother...
+
+417
+00:38:51,286 --> 00:38:54,254
+是不是真的要呢？
+Did you really want it?
+
+418
+00:38:55,856 --> 00:38:56,948
+怎么？
+What's the matter?
+
+419
+00:38:57,225 --> 00:38:58,885
+什么？你都丧的
+What? You are crazy!
+
+420
+00:38:59,627 --> 00:39:01,652
+你给得出，我收得起呀，细佬！
+I have the gut to take it if you have it now
+
+421
+00:39:05,066 --> 00:39:06,556
+好，我先打个电话
+OK! I dial a phone first
+
+422
+00:39:17,379 --> 00:39:19,039
+你呀，还在这里做什么？
+Why are you standing here still?
+
+423
+00:39:19,547 --> 00:39:21,878
+你大佬叫你同我讲话，怎么你不讲呀
+Your boss told you to talk with me, why didn't you speak?
+
+424
+00:39:22,050 --> 00:39:22,845
+你老爸叫什么名？
+What's your father name?
+
+425
+00:39:23,018 --> 00:39:23,881
+你老妈叫什么名呀？
+What's your mother called?
+
+426
+00:39:24,019 --> 00:39:25,043
+不要玩了，乌蝇！
+Stop joking, Fly!
+
+427
+00:39:25,853 --> 00:39:26,877
+为什么不讲呀？
+Why didn't you speak?
+
+428
+00:39:27,022 --> 00:39:28,250
+你没有爸爸妈妈的吗？
+You don't have parents?
+
+429
+00:39:35,397 --> 00:39:36,455
+你是不是老板呀？
+Aren't you the boss?
+
+430
+00:39:39,934 --> 00:39:40,900
+不要过来呀
+Don't come near to me
+
+431
+00:39:42,003 --> 00:39:44,028
+我现在有困难，想问你借点钱？
+I have some problem now, can you lend me some money?
+
+432
+00:39:44,172 --> 00:39:44,865
+行不行？
+Could you?
+
+433
+00:39:45,273 --> 00:39:45,897
+行！行！
+Yes, I could!
+
+434
+00:39:46,041 --> 00:39:46,530
+行是吗？
+Really?
+
+435
+00:39:46,674 --> 00:39:47,538
+行！行！
+Really! No problem!
+
+436
+00:39:47,675 --> 00:39:48,437
+乌蝇！
+Fly!
+
+437
+00:39:51,612 --> 00:39:53,739
+今天这些钱是我问你老板借的
+Now I borrow these money from your boss
+
+438
+00:39:54,049 --> 00:39:55,640
+要不要就随便你
+It's up to you, take it or not!
+
+439
+00:39:55,916 --> 00:39:58,146
+不过，我同你就没拖没欠了
+But, there's no debt between us from now on
+
+440
+00:39:58,619 --> 00:40:00,712
+我告诉你，将来如果我有好景
+I tell you, if I become rich in the future
+
+441
+00:40:00,888 --> 00:40:02,378
+我一定会还给你的
+I will paid back to you
+
+442
+00:40:02,557 --> 00:40:03,284
+今日你帮着外人
+Today, you are wrong in helping outsider
+
+443
+00:40:03,491 --> 00:40:04,821
+来对付自己人就是你不对
+to beat your own people
+
+444
+00:40:04,992 --> 00:40:05,958
+是不是？
+Is it right?
+
+445
+00:40:07,062 --> 00:40:09,087
+还不快拿钱去还给TOny？！
+What are you waiting for? Take the money to Tony!
+
+446
+00:40:09,264 --> 00:40:10,195
+算无数！
+Cancel each other!
+
+447
+00:40:13,600 --> 00:40:16,467
+这个，是醒你的
+This is given you as bonus!
+
+448
+00:40:22,043 --> 00:40:25,103
+你真行，在我的场里玩花样
+You are really something! Playing trick in my place
+
+449
+00:40:27,648 --> 00:40:29,878
+你更行呢，玩我呢
+You are also great! You've make fun of me!
+
+450
+00:40:30,352 --> 00:40:31,784
+阻多你一阵
+Wait a moment
+
+451
+00:40:32,820 --> 00:40:33,683
+走呀！
+Get away!
+
+452
+00:40:43,231 --> 00:40:46,666
+TOny，我是叫你来看场
+Tony, I'm employing you to guard this place,
+
+453
+00:40:46,834 --> 00:40:49,598
+不是叫你找人来打劫我
+instead of inviting robber to rob me
+
+454
+00:40:49,737 --> 00:40:51,261
+你现在算什么意思？
+What do you mean by that?
+
+455
+00:40:51,473 --> 00:40:53,804
+老板，他是一时冲动
+Boss, he is just losing temper!
+
+456
+00:41:10,325 --> 00:41:12,053
+现在风头火势
+The situation is bad now,
+
+457
+00:41:12,460 --> 00:41:14,450
+你两个还在狗咬狗骨的
+but you two still fighting each other
+
+458
+00:41:14,661 --> 00:41:16,322
+这是当我死的？！
+Are you treating me as a dead?
+
+459
+00:41:17,298 --> 00:41:22,132
+是他不对在先，欠我的钱不还
+It's him who done wrong first Borrowed my money
+
+460
+00:41:22,270 --> 00:41:24,897
+又来我的场找麻烦，还打劫我的老板
+causing trouble in my place, and robbing my boss
+
+461
+00:41:25,440 --> 00:41:28,431
+话到尾都讲不通啦，阿公！
+He was wrong in the whole situation, Godfather!
+
+462
+00:41:28,876 --> 00:41:31,936
+你明知道他丧，就不要去动他
+You know he is crazy already, so don't bother him
+
+463
+00:41:32,946 --> 00:41:36,143
+你也是太离谱了点，这样过兄弟一同戈
+And you are doing too much, taking advantage from him
+
+464
+00:41:37,785 --> 00:41:40,117
+你明知那个场是他看的嘛
+You must know that he was guarding that place!
+
+465
+00:41:41,156 --> 00:41:44,353
+阿公，我都是下爬呀
+Godfather, I'm giving back!
+
+466
+00:41:44,792 --> 00:41:47,090
+如果要还钱的，不是还给他罗
+He want the money back, so I paid the debt
+
+467
+00:41:47,228 --> 00:41:48,490
+我们无数了
+We've made an equal exchange!
+
+468
+00:41:48,762 --> 00:41:49,693
+无数？！
+Equal?
+
+469
+00:41:50,498 --> 00:41:51,657
+你们俩做什么？
+What are you doing?
+
+470
+00:41:52,033 --> 00:41:54,263
+有我在一日就由我揸主意
+I'm the one who make decision till I die
+
+471
+00:41:54,835 --> 00:41:55,698
+这么多事！
+So troublesome!
+
+472
+00:41:55,803 --> 00:41:58,771
+我现在告诉你们，你每个月供还给他
+Now I tell you two, you paid the instalments every month
+
+473
+00:41:58,939 --> 00:42:01,965
+这件事就这样算数，揸爬啦！
+And the event is settled in this way Make a vow!
+
+474
+00:42:05,813 --> 00:42:08,679
+你们两个还做什么？我叫你们妥就妥
+What are you two doing? I told you two to make agreement!
+
+475
+00:42:08,849 --> 00:42:12,046
+还不揸？！揸！
+Have a hand-shake? Shake
+
+476
+00:42:17,925 --> 00:42:20,688
+阿基那个反骨仔现在做了污点证人
+Ah-kay, the traitor, is a witness for the police
+
+477
+00:42:21,396 --> 00:42:23,329
+这个人不可以留着
+We cannot let this guy survived
+
+478
+00:42:23,864 --> 00:42:26,128
+在没上庭之前杀了他
+Kill him before he go to court
+
+479
+00:42:26,334 --> 00:42:27,630
+你们俩怎么看呢？
+What's your opinion?
+
+480
+00:42:28,702 --> 00:42:31,636
+难道这么高，叫那个呢？
+The task is difficult! Which one should we send?
+
+481
+00:42:32,140 --> 00:42:34,664
+这件事我不想找外人做
+I don't want outsider to take this case
+
+482
+00:42:34,875 --> 00:42:35,933
+不如这样
+Let's make it this way
+
+483
+00:42:36,111 --> 00:42:38,908
+你们俩找几个醒目点的靓仔
+You two, find some smart boys
+
+484
+00:42:39,280 --> 00:42:41,179
+过两天执生死筹
+to draw dead lots two days later
+
+485
+00:42:42,916 --> 00:42:47,648
+就他好了，又够胆，又够串
+He's the one, brave, and haughty
+
+486
+00:42:47,988 --> 00:42:49,955
+叫你细佬呀，他肯做的话
+Send your younger brother if he wish to do it
+
+487
+00:42:50,191 --> 00:42:52,750
+我就蚀底点，他欠我的钱不用还
+I'll let him go! I'll let him not paying my debt
+
+488
+00:42:52,893 --> 00:42:54,292
+衰了还有安家费
+His family can have subsidize if he fail
+
+489
+00:42:54,661 --> 00:42:55,787
+够不够姜先？！
+Do you have the guts?
+
+490
+00:42:55,896 --> 00:42:58,194
+什么？你说什么？大我呀？！
+What? What did you say? Frightening me?
+
+491
+00:42:58,732 --> 00:42:59,824
+收声！
+Shut up!
+
+492
+00:43:01,768 --> 00:43:03,065
+不要玩那些兄弟
+Don't making fun of the followers
+
+493
+00:43:03,238 --> 00:43:05,603
+这里最姜的就是你同我
+You and me are the bravest
+
+494
+00:43:06,174 --> 00:43:08,335
+这件事不是你就是我了
+It's either you or me to take this case
+
+495
+00:43:08,642 --> 00:43:12,703
+你不做就我做，你开声就无所谓了
+I'll do it if you don't, say it and I'll take it!
+
+496
+00:43:14,748 --> 00:43:18,013
+不出声就当你做了
+You'll do if you don't speak up
+
+497
+00:43:18,319 --> 00:43:22,517
+你肯认衰仔讲声不做，就我好了
+Say you don't and admit that you are a coward. And I'll take the case
+
+498
+00:43:23,024 --> 00:43:24,355
+省省吧！
+Wake up!
+
+499
+00:43:25,360 --> 00:43:27,350
+现在你两兄弟是夹埋来屈我了？！
+Now you two are pushing me together?
+
+500
+00:43:27,529 --> 00:43:29,655
+好啦，我劈完你们俩再去劈他
+OK! I kill you two first and then I'll kill him
+
+501
+00:43:30,265 --> 00:43:32,290
+又来啦，别吵！
+Not again! Stop quarrelling!
+
+502
+00:43:32,799 --> 00:43:34,732
+这件事怎样做我自然有分数
+I have my plan in handling this case
+
+503
+00:43:34,868 --> 00:43:35,994
+你们先出去！
+All of you go out first
+
+504
+00:43:36,637 --> 00:43:38,604
+走了，阿公！
+I leave now, Godfather!
+
+505
+00:43:39,073 --> 00:43:40,267
+走了，阿公！
+I leave now, Godfather!
+
+506
+00:43:40,774 --> 00:43:42,298
+华仔，回来！
+Ah-wah, come back!
+
+507
+00:43:45,513 --> 00:43:48,913
+我知道你同你条“靓”好好感情
+I know that you and your brother are good friends
+
+508
+00:43:49,217 --> 00:43:52,845
+但是他做事太癫啦，多教教他
+But he is too crazy. Teach him...
+
+509
+00:43:53,021 --> 00:43:55,046
+否则就等于放个计时炸弹在身边
+or he will like a time-bomb beside you
+
+510
+00:43:55,256 --> 00:43:56,654
+迟早会害死你的
+and some day he will cause you deadly trouble
+
+511
+00:43:56,990 --> 00:44:00,652
+我知道，我也想过了
+I know, I have think of it
+
+512
+00:44:00,861 --> 00:44:03,022
+我想找个正行他做
+I want to find him a job
+
+513
+00:44:03,331 --> 00:44:04,126
+这就好啦！
+It's good to do it!
+
+514
+00:44:04,665 --> 00:44:07,759
+鱼旦，鱼…
+Fishballs...
+
+515
+00:44:11,139 --> 00:44:12,935
+今天完了，收工
+That's all for today
+
+516
+00:44:14,209 --> 00:44:15,698
+乌蝇哥，华哥来了
+Brother fly, brother wah is here
+
+517
+00:44:19,846 --> 00:44:21,473
+喂！顶住先呀！
+Hey, you deal with him
+
+518
+00:44:27,854 --> 00:44:31,517
+鱼旦，鱼旦呀！…
+Fishballs...
+
+519
+00:44:33,127 --> 00:44:34,253
+喂乌蝇    大哥
+Fly Big brother
+
+520
+00:44:34,429 --> 00:44:35,793
+拿一串来，怎样呀？
+Give me one
+
+521
+00:44:37,232 --> 00:44:38,426
+什么怎样呀
+What?
+
+522
+00:44:38,566 --> 00:44:41,125
+做那一个几毫生意也不行吗？
+Do you mean I can't do small business?
+
+523
+00:44:42,170 --> 00:44:43,966
+我是什么人呀
+Do you know who I am?
+
+524
+00:44:45,739 --> 00:44:50,698
+是罗，慢慢做，迟些越做越发的
+You'll develop into big business
+
+525
+00:44:50,844 --> 00:44:53,540
+是呀，今天我在这里卖鱼旦
+Yeah, I sell fishballs here today
+
+526
+00:44:54,315 --> 00:44:56,282
+迟些我在中东卖飞弹
+Someday I'll sell bounbs in Middle East
+
+527
+00:44:56,451 --> 00:44:58,384
+乱说啦    走鬼呀
+Bull shit Police is coming
+
+528
+00:45:01,655 --> 00:45:03,486
+不要走…
+Wait a minute...
+
+529
+00:45:03,657 --> 00:45:05,249
+喂走鬼呀
+Police is coming
+
+530
+00:45:05,626 --> 00:45:07,321
+走什么鬼
+What the hell!
+
+531
+00:45:07,495 --> 00:45:09,554
+喂鱼旦佬，架车是不是你的？
+Does this cart belong to you. Fishball man
+
+532
+00:45:09,696 --> 00:45:11,527
+你叫谁呀    鱼旦佬罗
+What's your name? Fishball man
+
+533
+00:45:11,732 --> 00:45:12,629
+什么鱼旦佬呀？
+What?
+
+534
+00:45:12,766 --> 00:45:13,494
+不是卖鱼旦
+If you don't sell fishballs
+
+535
+00:45:13,700 --> 00:45:15,224
+拿着剪刀企在这里做什么呀？
+You stand here with scissors?
+
+536
+00:45:15,869 --> 00:45:17,029
+拿着剪刀就是鱼旦佬呀
+How come so you're Fishball man
+
+537
+00:45:17,205 --> 00:45:20,173
+你发鸡盲呀，我剪鼻毛吧
+I'm just cutting my vibrissae
+
+538
+00:45:21,075 --> 00:45:22,599
+不是你吗？搬它走
+So it's not your cart. Take it away
+
+539
+00:45:22,776 --> 00:45:25,301
+搬走吧，无眼看
+Take it
+
+540
+00:45:25,480 --> 00:45:27,573
+喂！你算怎样呀
+Hey! What are you doing?
+
+541
+00:45:27,748 --> 00:45:28,942
+架车仔和鱼旦不用钱买的吗？
+The cart and the fishballs are bought by money
+
+542
+00:45:29,117 --> 00:45:30,640
+钱是小，面子是大
+Money doesn't matter. But pride matters
+
+543
+00:45:30,817 --> 00:45:33,581
+我乌蝇的名字虽然不出名，但有人知
+I'm not famous. But people know me
+
+544
+00:45:33,754 --> 00:45:35,551
+叫我推着架鱼旦车到处走
+I don't want to sell fishballs
+
+545
+00:45:35,756 --> 00:45:36,848
+我还用出来行吗？
+I Want to hang around
+
+546
+00:45:39,626 --> 00:45:42,754
+走开，买了间戏院呀，走开
+Get lost, get away
+
+547
+00:45:43,997 --> 00:45:46,295
+现在叫你去干活，跟出来行没有关系
+I want you to have a job
+
+548
+00:45:46,633 --> 00:45:47,998
+我不喜欢卖鱼旦呀
+I don't like selling fishballs
+
+549
+00:45:48,236 --> 00:45:49,930
+你不卖鱼旦，你喜欢卖什么呀？
+What do you like to sell?
+
+550
+00:45:50,238 --> 00:45:51,296
+文又不行，武也不行
+You can't do anything
+
+551
+00:45:51,439 --> 00:45:52,735
+整天紧着出来行
+Just hang around
+
+552
+00:45:53,041 --> 00:45:54,599
+说了你不是这种材料啦
+You are not anything
+
+553
+00:45:54,741 --> 00:45:56,504
+是，我不是这种材料
+Yeah, I'm not anything
+
+554
+00:45:56,677 --> 00:45:58,008
+我最适合去卖鱼旦
+I can only sell fishballs
+
+555
+00:45:59,280 --> 00:46:01,179
+好，你叫我卖我便去卖罗
+You ask me to do that
+
+556
+00:46:01,882 --> 00:46:03,008
+卖到有一天我受不了
+If I can't stand anymore
+
+557
+00:46:03,184 --> 00:46:05,083
+我放些山埃落去毒死他们吧
+I'll put poison on the fishballs
+
+558
+00:46:08,955 --> 00:46:10,354
+为你好吧，你知不知呀？
+It's good for you. Do you understand?
+
+559
+00:46:28,309 --> 00:46:32,473
+Hi，这么巧呀？
+Hi, what a coincident!
+
+560
+00:46:32,713 --> 00:46:34,146
+对呀，真巧！
+Right! Really a coincident!
+
+561
+00:46:37,784 --> 00:46:38,750
+你好吗？
+How are you?
+
+562
+00:46:39,920 --> 00:46:48,259
+好！…我结婚了
+Fine! I have married!
+
+563
+00:46:55,570 --> 00:46:59,562
+好事，你老公对你怎么样？
+Good! Are your husband treating you good?
+
+564
+00:47:00,441 --> 00:47:01,600
+不错！
+Quite good!
+
+565
+00:47:07,181 --> 00:47:09,342
+这么大的雨，也不知要等到什么时候
+So heavy is the rain! Who knows hot long will I have to wait!
+
+566
+00:47:10,184 --> 00:47:12,151
+我在等我老公来接我
+I'm waiting for my husband!
+
+567
+00:47:15,223 --> 00:47:16,485
+抽不抽烟呀？
+Have a cigarette?
+
+568
+00:47:16,957 --> 00:47:18,219
+我戒了！
+I didn't smoke anymore!
+
+569
+00:47:31,838 --> 00:47:33,203
+不是你的
+It's not yours
+
+570
+00:47:37,644 --> 00:47:38,576
+我走了！
+I leave now!
+
+571
+00:47:47,121 --> 00:47:47,984
+拜拜！
+Goodbye!
+
+572
+00:47:58,299 --> 00:47:59,561
+阿娥在吗？
+Is Ah-ngor here?
+
+573
+00:47:59,733 --> 00:48:01,758
+她不在，是谁找她呀？
+She is not here. Who are you?
+
+574
+00:48:03,571 --> 00:48:05,596
+不用了，谢谢！
+It's alright. Thanks
+
+575
+00:49:40,468 --> 00:49:41,126
+小姐！
+Lady!
+
+576
+00:49:41,502 --> 00:49:42,399
+什么事？
+What's the matter?
+
+577
+00:49:42,602 --> 00:49:43,626
+阿娥在吗？
+Is Ah-ngor here?
+
+578
+00:49:43,837 --> 00:49:46,237
+不清楚，她好像去了九龙还没回来
+I'm not sure! She had went to Kowloon and still haven't returned
+
+579
+00:49:47,341 --> 00:49:47,704
+去了九龙？！
+To Kowloon?
+
+580
+00:49:47,741 --> 00:49:48,672
+是呀！
+Yes!
+
+581
+00:49:51,412 --> 00:49:52,139
+谢谢！
+Thank you
+
+582
+00:49:52,246 --> 00:49:53,177
+不客气！
+You're welcome
+
+583
+00:50:45,333 --> 00:50:46,459
+几时来的？
+When did you arrive?
+
+584
+00:50:48,336 --> 00:50:49,496
+刚刚来的？
+I just arrived
+
+585
+00:50:55,109 --> 00:50:56,474
+你好像肥了些！
+You look a bit fatter than before
+
+586
+00:50:59,679 --> 00:51:00,703
+少少！
+A little bit
+
+587
+00:51:01,549 --> 00:51:02,742
+你也是！
+So are you
+
+588
+00:51:04,185 --> 00:51:07,211
+全靠他，他是我的医生
+It's all because of him He's my doctor
+
+589
+00:51:13,194 --> 00:51:14,593
+你今晚在这里过夜？！
+Would you stay up here tonight?
+
+590
+00:51:15,829 --> 00:51:18,992
+不…我现在要回去了
+No... I'm going home now
+
+591
+00:51:27,741 --> 00:51:28,469
+阿娥
+Ah-ngor!
+
+592
+00:51:31,878 --> 00:51:36,110
+我想告诉你，我找到那只杯啦！
+I just wanted to you tell that I've found that glass
+
+593
+00:52:33,606 --> 00:52:34,573
+张小姐CaII你
+Miss Cheung called you just now
+
+594
+00:52:34,741 --> 00:52:36,038
+她说她现在正赶去梅窝码头
+She said that she was going to the pier of Silver-mine Bay
+
+595
+00:52:36,243 --> 00:52:37,766
+叫你无论如何都要等她
+and told you to wait for her anyway
+
+596
+00:54:42,802 --> 00:54:43,962
+你可以先上去睡觉
+You may go to sleep
+
+597
+00:54:44,138 --> 00:54:45,627
+明天我再帮你Checkin
+& I'll check in for you tomorrow
+
+598
+00:54:47,074 --> 00:54:47,971
+好
+OK!
+
+599
+00:55:07,261 --> 00:55:08,558
+明早几点返工？
+When do you go to work next morning?
+
+600
+00:55:08,962 --> 00:55:12,761
+很早的，我煮早餐你吃好吗？
+Very early! I'll make breakfast for you
+
+601
+00:55:13,933 --> 00:55:14,921
+好
+Good!
+
+602
+00:55:19,639 --> 00:55:21,231
+你打算住多久？
+How long will you live in here?
+
+603
+00:55:23,143 --> 00:55:24,269
+无所谓
+It depends!
+
+604
+00:55:41,595 --> 00:55:42,925
+我先走了
+I leave now
+
+605
+00:55:45,299 --> 00:55:46,425
+我送你
+I see you off
+
+606
+00:55:46,733 --> 00:55:48,700
+不用了，很近呀
+That's OK! It's near
+
+607
+00:55:50,970 --> 00:55:52,630
+你今晚可以不回去吗？
+Would you not go home tonight?
+
+608
+00:55:56,510 --> 00:55:58,033
+为什么到现在才来找我？
+Why do you not visit me until now?
+
+609
+00:56:02,615 --> 00:56:04,549
+因为我自己知道自己的事
+Because, I know myself clearly
+
+610
+00:56:06,086 --> 00:56:07,814
+我不可以答应你些什么
+I cannot promise you anything
+
+611
+00:56:11,191 --> 00:56:17,823
+如果我不是挂着你，我不会进来找你
+If I'm not missing you, I won't visit you today
+
+612
+00:56:20,367 --> 00:56:22,392
+如果你再不来找我
+If you don't visit me in these days
+
+613
+00:56:22,735 --> 00:56:24,566
+我可能同那个医生结婚
+I will probably marry that doctor
+
+614
+00:57:29,470 --> 00:57:32,700
+鱼蛋佬，我要一元，要多点酱
+Fish-ball guy, give me one dollar of fish-ball with more dressing
+
+615
+00:57:40,280 --> 00:57:44,512
+摆呀，怎么不摆？多点酱嘛
+Take it, why don't you take it? You've said you want more dressing!
+
+616
+00:57:44,884 --> 00:57:48,012
+摆呀，不摆我会庆的
+Take it or I'll get mad
+
+617
+00:57:51,791 --> 00:57:54,885
+鱼蛋佬？！你妈的！
+Fish-ball guy? Damn you!
+
+618
+00:57:56,497 --> 00:58:00,694
+不是吧，乌蝇哥，怎么霉成这样？
+It won't, Mr Fly! Why are you so poor?
+
+619
+00:58:00,900 --> 00:58:02,424
+搞到摆鱼蛋档？！
+You don't have to sell fish-ball, do you?
+
+620
+00:58:03,003 --> 00:58:06,029
+阴功罗
+Poor guy
+
+621
+00:58:06,939 --> 00:58:08,803
+一定是你大佬指使你的
+It must be your Big Brother who told you to do so
+
+622
+00:58:09,675 --> 00:58:11,802
+你呀就不要跟他了
+You should leave your Big Brother
+
+623
+00:58:11,911 --> 00:58:15,403
+你看我的马，个个身光颈靓
+Look at my followers, all dressed up!
+
+624
+00:58:15,549 --> 00:58:17,448
+摆大哥电话，用得着做吗？
+Taking wireless telephone, do you need that?
+
+625
+00:58:17,984 --> 00:58:20,111
+你跟的那个大佬
+You bastard! Your Big Brother sent you
+
+626
+00:58:20,287 --> 00:58:21,651
+叫你站在街上卖鱼蛋
+selling fish-ball in the street
+
+627
+00:58:21,854 --> 00:58:23,378
+跟我不是更好
+Working for me is better!
+
+628
+00:58:23,623 --> 00:58:24,920
+走鬼呀！
+Escape
+
+629
+00:58:29,129 --> 00:58:31,256
+走什么走呢？你是古惑仔呀
+Escape for what? You are a gangster!
+
+630
+00:58:31,398 --> 00:58:32,762
+有这么多兄弟在这里，你怕差人？！
+We have so crowd of gangsters here! It's no need to afraid!
+
+631
+00:58:32,932 --> 00:58:33,727
+动他呀！
+Beat him!
+
+632
+00:58:36,236 --> 00:58:38,931
+不用怕，有什么事进去了也不用怕
+Don't be afraid! You'll be alright even if you're in jail
+
+633
+00:58:39,073 --> 00:58:40,370
+有人敢动你马上还手
+Fight back at one if someone beat you
+
+634
+00:58:40,507 --> 00:58:41,599
+不要影衰班兄弟
+Don't make us lose faces
+
+635
+00:58:42,209 --> 00:58:43,835
+你这衰人，你…
+You bastard, you...
+
+636
+00:58:44,011 --> 00:58:46,241
+不用这么紧张，没事的
+Take it easy! It's OK!
+
+637
+00:58:46,380 --> 00:58:48,745
+你又不是卖白粉，只是卖鱼蛋嘛
+You are not selling drugs, just fish-ball
+
+638
+00:58:49,849 --> 00:58:50,610
+看戏！
+Something good to be seen
+
+639
+00:59:24,984 --> 00:59:25,881
+打四万啦！
+Beat him!
+
+640
+00:59:39,333 --> 00:59:41,823
+他妈的，别走呀！
+Hey, don't go you bastard
+
+641
+00:59:42,569 --> 00:59:43,796
+还走？
+Don't go!
+
+642
+00:59:45,405 --> 00:59:46,531
+去死啦！
+Go to hell, bastard!
+
+643
+01:00:02,422 --> 01:00:04,389
+拖他过来！
+Take him here
+
+644
+01:00:14,001 --> 01:00:15,298
+饮完啦！
+Finished drinking
+
+645
+01:00:18,172 --> 01:00:20,105
+对了，两箱鸡翼你猜有多少只？
+Right! How many chicken wings are there in two boxes
+
+646
+01:00:21,542 --> 01:00:23,133
+二、三百只啦！
+About two or three hundreds!
+
+647
+01:00:24,511 --> 01:00:26,137
+二、三百只？！
+Two or three hundreds?
+
+648
+01:00:31,151 --> 01:00:33,517
+喂，你回去了记得告诉你老板
+Hey, go back and tell your boss...
+
+649
+01:00:33,653 --> 01:00:37,885
+以后不要再叫你一个人搬
+not to send you to take thing
+
+650
+01:00:38,125 --> 01:00:39,422
+这么重的东西
+so heavy alone
+
+651
+01:00:39,560 --> 01:00:42,687
+告诉他，一只鸡翼打一捶
+Or else, I'll give him one fist for one wing in return
+
+652
+01:00:43,629 --> 01:00:44,561
+神经病！
+You are crazy
+
+653
+01:00:44,697 --> 01:00:45,685
+我神经病？
+I am crazy?
+
+654
+01:00:48,968 --> 01:00:50,696
+是不是不想我帮你？
+Do you want me to help you?
+
+655
+01:00:50,870 --> 01:00:53,361
+无所谓，反正我都不打算做了
+It's OK! Anyway, I will quit!
+
+656
+01:00:53,706 --> 01:00:58,302
+不做，为什么？
+Quit! Why?
+
+657
+01:00:59,946 --> 01:01:01,971
+我想到九龙去找工做
+I want to find a job in Kowloon
+
+658
+01:01:03,883 --> 01:01:06,511
+好呀，方便我，搬到我家来呀
+Good! It's doing me favour! You can live in my house!
+
+659
+01:01:08,355 --> 01:01:09,946
+你不要讲第二次
+Don't say the second time
+
+660
+01:01:10,723 --> 01:01:12,281
+讲了第二次就收不回了
+You can't deny it if you say it twice
+
+661
+01:01:14,027 --> 01:01:15,687
+我不是讲笑的
+I'm not kidding!
+
+662
+01:01:16,896 --> 01:01:18,658
+我出了去就不会再回来
+I go out and will never come back
+
+663
+01:01:30,210 --> 01:01:31,642
+喂，你吃什么呀？
+Hey, what do you want to eat?
+
+664
+01:01:40,853 --> 01:01:43,344
+你告诉他，我会准时上竹馆找他
+Tell him that I'll go to find him on time
+
+665
+01:01:43,856 --> 01:01:45,881
+如果乌蝇少了一条毛，唯他是问
+If Fly has anything wrong, he'll pay for it
+
+666
+01:01:46,126 --> 01:01:46,955
+就这样啦
+It's finished!
+
+667
+01:01:48,661 --> 01:01:49,685
+什么事呀？
+What's the matter?
+
+668
+01:01:50,330 --> 01:01:52,729
+没什么，我现在要出去，乌蝇出了事
+Nothing special! Fly has some problem and I'm going out now
+
+669
+01:01:52,932 --> 01:01:54,092
+会不会有危险？！
+Would it be dangerous?
+
+670
+01:01:54,301 --> 01:01:57,498
+没事的，我今晚就回来放心
+No, it'll be alright, I'll be back tonight
+
+671
+01:03:07,240 --> 01:03:09,173
+土申叔，这么多人呀？
+Uncle Kwan, so many people here?
+
+672
+01:03:09,343 --> 01:03:12,311
+华仔，这件事是乌蝇不对
+Ah-wah, it's Fly doing wrong in this case
+
+673
+01:03:12,512 --> 01:03:15,776
+不过，大家是自己人，无谓搞大了
+But, I don't want to make it big since we all know each other
+
+674
+01:03:16,249 --> 01:03:19,046
+过去跟TOny讲几句好话吧！
+Say something good to Tony & the case will be settled
+
+675
+01:03:29,196 --> 01:03:32,631
+TOny，乌蝇就算有什么不对
+Tony, no matter what did Fly do,
+
+676
+01:03:32,765 --> 01:03:34,198
+我都会执行家法
+I'll punish him according to my rules
+
+677
+01:03:34,867 --> 01:03:36,300
+请你把我细佬交给我
+So please give me back my brother
+
+678
+01:03:36,470 --> 01:03:39,870
+细佬？！什么细佬呀？
+Brother? What kind of brother?
+
+679
+01:03:40,040 --> 01:03:42,872
+这个是细佬吗？你喜欢掩住你的细佬
+Is this a brother? You like to protect your brother
+
+680
+01:03:43,043 --> 01:03:44,976
+现在掩住他呀
+now you are protecting him!
+
+681
+01:03:45,644 --> 01:03:49,444
+同我玩花样？是好马就该掩住他
+Making fun of me? You should protect him if he is good
+
+682
+01:03:49,615 --> 01:03:52,584
+你掩住“劈”屎，你怎么做人大佬呀
+Now you are just protecting a lump of shit How can you be a Big Brother?
+
+683
+01:03:52,752 --> 01:03:54,719
+TOny，拿回个彩就算了
+Tony, stop when you have some advantage
+
+684
+01:03:54,887 --> 01:03:55,716
+无谓去得这么尽
+Don't go too far
+
+685
+01:03:55,888 --> 01:03:59,289
+坤叔，你省省吧，我是教识他做人
+Uncle Kwan, save it for yourself! I'm teaching him to grow up
+
+686
+01:04:00,060 --> 01:04:02,255
+他的马可以这样对我
+His gangster can treat me like this
+
+687
+01:04:02,828 --> 01:04:04,795
+将来你们还有地方立足吗？
+Where can we stand in the future then?
+
+688
+01:04:05,599 --> 01:04:08,123
+人呢，我一定会做
+I'll release him surely!
+
+689
+01:04:08,368 --> 01:04:11,268
+不过一定要我麻，我的要求好低
+But I must be satisfied My requirement is low
+
+690
+01:04:11,438 --> 01:04:13,132
+只要你讲一句我喜欢听的
+Just say one sentence I like
+
+691
+01:04:13,340 --> 01:04:14,568
+我就速速放人
+I'll release him
+
+692
+01:04:20,380 --> 01:04:21,937
+这句说话你喜不喜欢听？
+Do you like to hear these words
+
+693
+01:04:21,981 --> 01:04:23,039
+你要不要你弟弟？
+Do you want your brother?
+
+694
+01:04:23,183 --> 01:04:24,046
+华仔！
+Ah-wah!
+
+695
+01:04:44,204 --> 01:04:45,727
+大佬！
+Big Brother
+
+696
+01:04:51,077 --> 01:04:52,271
+你好！
+Are you alright?
+
+697
+01:04:55,215 --> 01:04:56,273
+能不能走？
+Can you walk?
+
+698
+01:04:58,318 --> 01:04:59,512
+能！
+Yes, I can
+
+699
+01:05:09,563 --> 01:05:12,053
+你的“靓”扶起他，叫呀！
+Tell your follower to help him stand
+
+700
+01:05:12,532 --> 01:05:13,520
+扶起他！
+Help him stand
+
+701
+01:05:15,168 --> 01:05:18,501
+不用，我自己起来！
+No, I can stand by myself
+
+702
+01:05:47,833 --> 01:05:49,323
+我自己走可以了
+I can walk by myself
+
+703
+01:06:02,048 --> 01:06:03,106
+不要过来
+Don't get near to me
+
+704
+01:06:05,285 --> 01:06:06,148
+大佬！大佬！
+Big Brother! Big Brother!
+
+705
+01:06:15,694 --> 01:06:16,786
+我告诉你们俩
+I tell you two,
+
+706
+01:06:16,929 --> 01:06:18,896
+这件事就算找天皇出来也没得拆
+this case can't be settled even if you bring the highest King
+
+707
+01:06:32,145 --> 01:06:36,911
+乌蝇，这件事情肯定还有下文
+Fly, this case certainly won't end up this way
+
+708
+01:06:37,083 --> 01:06:38,071
+这些钱你拿去
+You take this money
+
+709
+01:06:38,385 --> 01:06:40,909
+回调景岭要等事情淡了些才好出来
+And go back to Til-gang Lin and wait for the case to fade out
+
+710
+01:06:41,087 --> 01:06:42,111
+我不回去！
+I won't go!
+
+711
+01:06:42,821 --> 01:06:43,412
+我发过誓
+I've made a vow
+
+712
+01:06:43,622 --> 01:06:45,920
+我不发达就不回调景岭见我老妈
+I won't go back to see my mother if I do not succeed
+
+713
+01:06:47,826 --> 01:06:50,920
+好，我同你去大屿山
+OK, I go to Lantau Island with you
+
+714
+01:06:52,465 --> 01:06:53,624
+为什么你一定要我走呢？
+Why do you drive me away so insistly?
+
+715
+01:06:53,766 --> 01:06:57,099
+为什么？我不想明天你一出门口
+Why? I don't want you to be killed tomorrow
+
+716
+01:06:57,337 --> 01:06:58,701
+就被人斩开几碌
+when you go out
+
+717
+01:06:59,838 --> 01:07:00,998
+你明知道那只是癫狗
+You know he is just a mad dog
+
+718
+01:07:01,174 --> 01:07:03,267
+为什么你不听我的话，偏要去惹他
+Why don't you listen to me not to provoke him?
+
+719
+01:07:03,476 --> 01:07:06,774
+不是我惹他，是他先来惹我呀
+It's him who provoked me, I didn't provoke him
+
+720
+01:07:06,946 --> 01:07:09,380
+难道我不该玩他，现在我玩他不起吗
+Don't you think I should just about it! I have the power to play, haven't I?
+
+721
+01:07:10,749 --> 01:07:12,148
+你玩得起吗？！
+Don't you have the power to play with him?
+
+722
+01:07:13,219 --> 01:07:16,153
+你玩得起就不会被人打到像个猪头炳
+If you have, you won't be beaten so heavily and have face swollen up
+
+723
+01:07:19,159 --> 01:07:21,956
+是，我是被人打得像猪头炳
+Yes, I was beaten to have face swollen
+
+724
+01:07:22,095 --> 01:07:24,359
+你嫌我映衰你，就别理我好了
+You are blaming me on losing you face, you can leave me alone
+
+725
+01:07:29,569 --> 01:07:34,562
+是你自己说的，不要贪口爽呀
+No one force you to speak this Don't speak it for fun
+
+726
+01:07:36,209 --> 01:07:37,869
+我现在就不理你
+I leave you alone now
+
+727
+01:07:38,144 --> 01:07:39,577
+如果你明天出门口没事的话
+If you are safe when you go out tomorrow
+
+728
+01:07:39,812 --> 01:07:41,143
+我就替你挽鞋
+I'll do anything for you
+
+729
+01:08:23,822 --> 01:08:26,086
+我们一向都不知道明天会怎么样？
+We all don't know what will happen tomorrow
+
+730
+01:08:26,992 --> 01:08:28,016
+对不对？
+Do you agree?
+
+731
+01:08:39,072 --> 01:08:39,901
+去宵夜
+Let's go eating out!
+
+732
+01:08:43,476 --> 01:08:44,407
+走啦
+Come along!
+
+733
+01:09:18,445 --> 01:09:19,274
+打他
+Beat him!
+
+734
+01:09:23,749 --> 01:09:26,240
+乌蝇，我灭你，我灭死你呀！
+Fly, I twist your face I twist you to death
+
+735
+01:09:29,189 --> 01:09:31,248
+这次我还暗算不到你
+I can plot against you this time, can't I?
+
+736
+01:09:32,492 --> 01:09:33,753
+你不要打我大佬呀
+Don't beat my Big Brother
+
+737
+01:09:33,892 --> 01:09:37,089
+和他无关的，要打便打我吧
+Leave him alone. Just beat me up
+
+738
+01:09:37,230 --> 01:09:38,890
+打你，我还打得你不够麻呀
+Not enough?
+
+739
+01:09:39,032 --> 01:09:41,523
+我现在打埋你大佬，待你们相映成趣
+Let me beat your brother up. That makes you two pairs
+
+740
+01:09:41,667 --> 01:09:44,101
+我要你亲眼看着，我怎样玩残你大佬
+I want you to see how I fool around your brother
+
+741
+01:09:44,270 --> 01:09:45,498
+他妈的
+Shit
+
+742
+01:09:49,576 --> 01:09:50,906
+反抗呀
+fight back
+
+743
+01:09:55,148 --> 01:09:57,275
+我TOny这份人是最讲公道的
+I, Tony, is very justified
+
+744
+01:09:57,816 --> 01:10:01,547
+你怎样对我，我就怎样对你了
+An eye for an eye, and a tooth for a tooth
+
+745
+01:10:05,691 --> 01:10:09,923
+你别动呀，你那里是最敏感的
+Don't move! It's the most sensitive place of you
+
+746
+01:10:10,096 --> 01:10:12,496
+你一动，就不知道会射到那里去了
+I don't know where will you eject if you move
+
+747
+01:10:19,172 --> 01:10:23,336
+真行，这次真好彩
+Great! I'm lucky this time
+
+748
+01:10:23,443 --> 01:10:27,071
+跟着不知道会不会这么好彩呢？
+Will I still be so lucky next time?
+
+749
+01:10:30,949 --> 01:10:32,416
+你这么兴奋呀
+You are so excited
+
+750
+01:10:32,618 --> 01:10:33,778
+想一齐玩这个Party呀
+Do you want to join our party?
+
+751
+01:10:33,919 --> 01:10:35,749
+好呀，来玩呀！来呀！
+OK! Come join us! Come on!
+
+752
+01:10:38,657 --> 01:10:40,522
+你千万不要动
+You cannot move a little
+
+753
+01:10:41,094 --> 01:10:43,687
+一动就不知道会射到这个细佬
+You will eject on this brother
+
+754
+01:10:43,829 --> 01:10:45,490
+还是那个细佬
+or that if you move
+
+755
+01:10:49,835 --> 01:10:56,035
+不要衰给人家看，知道吗？
+Don't let them look down on you?
+
+756
+01:10:57,010 --> 01:10:59,478
+如果大佬今天没命走出去
+If I cannot escape today
+
+757
+01:11:00,280 --> 01:11:01,940
+你就回调景岭去
+You must go back to Til-gang Lin
+
+758
+01:11:02,248 --> 01:11:05,411
+不要再出来蒲了，知不知道？
+& never go out again
+
+759
+01:11:10,023 --> 01:11:11,547
+硬汉
+Tough guy
+
+760
+01:11:11,690 --> 01:11:13,817
+不过不知道硬不硬过我这个东西
+But whether you are tougher than this thing
+
+761
+01:11:15,495 --> 01:11:17,428
+硬呀，硬呀…
+It's very hard... very hard...
+
+762
+01:11:17,564 --> 01:11:22,262
+硬是吗…硬是吗…
+Very, hard, isn't it... very hard isn't it...
+
+763
+01:11:41,187 --> 01:11:42,778
+看你这臭鸡
+Look at you, bitch!
+
+764
+01:11:54,967 --> 01:11:56,992
+又玩谢了一件
+Another one collapsed
+
+765
+01:11:58,904 --> 01:12:01,429
+你这衰仔，你赖尿呀
+Damn you! You are pissing!
+
+766
+01:12:01,574 --> 01:12:04,474
+你呀应该替他穿了尿片才出来走嘛
+You should wear him a napkin before taking him out
+
+767
+01:12:04,643 --> 01:12:07,305
+人做大佬，你做大佬
+What kind of Big Brother are you?
+
+768
+01:12:09,249 --> 01:12:12,446
+对了，  “得”低个头
+Right! Let your head down
+
+769
+01:12:12,684 --> 01:12:15,312
+用尿照照自己的衰样
+so that you can see your face by the urine
+
+770
+01:12:16,256 --> 01:12:18,815
+看看怎么会这么失败
+And see why you are such a failure
+
+771
+01:12:20,560 --> 01:12:24,495
+然后陪你的威威大佬回乡下耕田
+Then, go back to your motherland and farm with your Big Brother
+
+772
+01:12:25,697 --> 01:12:29,895
+市区的路，不是你们走的，明不明白
+Urban road is not suitable for you? Do you understand?
+
+773
+01:12:53,992 --> 01:12:56,586
+没事啦，没事
+It's alright, alright!
+
+774
+01:13:03,602 --> 01:13:06,696
+你…去那里？
+Where... are you going?
+
+775
+01:13:14,746 --> 01:13:16,713
+我不配做你细佬
+I'm letting you lose face
+
+776
+01:13:17,783 --> 01:13:19,716
+你就当没我这个细佬
+Just treat that you've never know me
+
+777
+01:13:21,387 --> 01:13:23,854
+我都不会再连累你
+From now on I have no business to do with you
+
+778
+01:13:24,023 --> 01:13:25,649
+由我自生自灭啦
+Just leave me alone
+
+779
+01:14:34,926 --> 01:14:37,486
+表哥
+Cousin
+
+780
+01:14:42,335 --> 01:14:44,462
+开门呀，开门呀
+Open the door! Open up!
+
+781
+01:14:45,804 --> 01:14:46,998
+开门呀
+Open the door!
+
+782
+01:14:50,009 --> 01:14:51,033
+快点开门呀
+Hurry up! Open the door!
+
+783
+01:14:52,412 --> 01:14:53,139
+什么事？
+What's the matter?
+
+784
+01:14:53,312 --> 01:14:54,608
+我表哥跌伤了
+My cousin felt to the ground & hurt himself
+
+785
+01:14:59,985 --> 01:15:02,146
+他没事，先让他休息一会
+He's alright. Let him take a rest first
+
+786
+01:15:09,694 --> 01:15:10,991
+你昨晚去了那里？
+Where have you been last night?
+
+787
+01:15:13,433 --> 01:15:14,593
+我同表哥在一齐
+I was staying with cousin
+
+788
+01:15:24,010 --> 01:15:25,840
+你走的时候帮我锁门
+Lock the door when you leave!
+
+789
+01:15:26,978 --> 01:15:28,808
+如果有什么事CaII我好了
+Give me a phone if anything happens
+
+790
+01:16:16,129 --> 01:16:17,255
+她快过来啦
+She's coming
+
+791
+01:16:17,430 --> 01:16:18,794
+喂，招呼人客呀
+Hey, receive guests
+
+792
+01:16:18,997 --> 01:16:19,724
+不好意思呀
+I'm sorry
+
+793
+01:16:19,898 --> 01:16:21,195
+你们慢慢谈吧
+You talk to each other first
+
+794
+01:16:32,011 --> 01:16:35,139
+在差馆开枪嘛，未必会死人的
+Shooting in a police station won't cause death penalty
+
+795
+01:16:35,548 --> 01:16:37,208
+好彩的就坐三、五、七年
+Go to jail for several years
+
+796
+01:16:37,383 --> 01:16:38,713
+出来就是大人啦
+and become a man when you come out!
+
+797
+01:16:39,452 --> 01:16:41,180
+现在人家叫你银仔
+Now people call you boy,
+
+798
+01:16:41,320 --> 01:16:43,048
+将来就叫你做银哥
+and they'll call you "sir" tomorrow
+
+799
+01:16:43,489 --> 01:16:46,685
+想起朵就靠这镬了，知道吗？
+It's a chance to be famous! Understanding?
+
+800
+01:16:46,925 --> 01:16:48,187
+阿公，我不敢呀
+Godfather. I'm afraid!
+
+801
+01:16:48,528 --> 01:16:52,463
+什么？不敢，抽到签你说不敢？
+What? Afraid! You've drew the lots and now you said you afraid
+
+802
+01:16:52,631 --> 01:16:55,964
+就算我不出声，兄弟们都会劈死你
+Every colleague will kill you even if I let you go
+
+803
+01:16:56,735 --> 01:16:59,533
+不要多说了，走吧
+Don't say so much! Keep going!
+
+804
+01:16:59,771 --> 01:17:01,670
+阿公，我真的不敢呀
+Godfather, I'm really afraid
+
+805
+01:17:02,441 --> 01:17:03,372
+没出息
+Chicken-hearted
+
+806
+01:17:04,910 --> 01:17:09,108
+阿公呀，我有些话要同你讲
+Godfather, I've got something to talk to you
+
+807
+01:17:09,681 --> 01:17:12,445
+$23.5连罐，$30不用找了，多谢
+$23.5 with tin. Here is $30. No change. Thanks
+
+808
+01:17:17,089 --> 01:17:17,952
+阿西
+Ah-site
+
+809
+01:17:19,091 --> 01:17:19,852
+大佬
+Brother
+
+810
+01:17:21,394 --> 01:17:24,760
+啊！做了爸爸真是不同的
+You're a different person after you become a fahter
+
+811
+01:17:27,799 --> 01:17:30,563
+无办法，仔细老婆嫩
+I have no choice. I have a young wife and baby
+
+812
+01:17:30,969 --> 01:17:32,596
+为生活，什么也要做的
+I'll do anything for living
+
+813
+01:17:33,372 --> 01:17:38,001
+是的，这些钱拿去吧，拿着
+Take the money
+
+814
+01:17:38,244 --> 01:17:38,937
+做什么呀
+What are you doing?
+
+815
+01:17:39,512 --> 01:17:40,978
+大佬应允了你的
+I promised you
+
+816
+01:17:42,481 --> 01:17:44,072
+上次委屈了你
+I'm sorry for last time
+
+817
+01:17:45,084 --> 01:17:48,883
+今次找一间又贵又不饱补请亲戚朋友
+Please find a luxurious resturant this time
+
+818
+01:17:50,822 --> 01:17:53,619
+剩下的钱，留给儿子摆满月酒
+And the lest of the money is for the celebratim of your son's first month
+
+819
+01:17:54,893 --> 01:17:58,158
+记住，不要衰给老婆外家看
+Remember, don't let your wife's famlty look down on you
+
+820
+01:17:58,331 --> 01:18:00,230
+争一口气，明白吗？
+Do you understand?
+
+821
+01:18:00,399 --> 01:18:01,160
+那些钱怎样得来的？
+How can you get the money?
+
+822
+01:18:01,334 --> 01:18:03,733
+不要理我，不要理我好不好
+It's none of your business
+
+823
+01:18:13,778 --> 01:18:18,215
+迟些大佬不在，有事便找华哥
+I'll not around. Call borther wah if you get in trouble
+
+824
+01:18:21,953 --> 01:18:24,319
+你跟了我这么久，什么大事也没做过
+We didn't do any big thing
+
+825
+01:18:24,823 --> 01:18:26,290
+我做大佬的很惭愧
+I feel ashamed
+
+826
+01:18:27,193 --> 01:18:27,920
+大佬，你不要这样说
+Don't say that, brother
+
+827
+01:18:28,027 --> 01:18:29,153
+听我说完先
+Linsten to me
+
+828
+01:18:36,935 --> 01:18:46,936
+我知，以前在你心里，可能会小看我
+You may despise me in the past
+
+829
+01:18:51,350 --> 01:18:56,447
+是的，我是值得给人小看的
+Yes, I deserve that
+
+830
+01:18:57,656 --> 01:19:07,054
+但是过两天，你看报纸，看电视
+But 2 days later, when you read paper and watch TV
+
+831
+01:19:08,633 --> 01:19:12,433
+你便知你大佬乌蝇不是莫姜的
+You'll realize that I'm not an idiot
+
+832
+01:19:16,375 --> 01:19:18,400
+我够资格做你大佬有余
+I can be your big brother
+
+833
+01:19:30,523 --> 01:19:35,687
+记得告诉人，你今天有个很劲的大佬
+Remember to tell everyone you
+
+834
+01:19:42,867 --> 01:19:43,628
+记住呀
+Remember
+
+835
+01:20:08,960 --> 01:20:10,188
+这些衣服合身吗？
+Do these clothes suit you?
+
+836
+01:20:12,331 --> 01:20:13,991
+整晚没睡，去休息一下吧
+You didn't sleep the whole night! Take a rest!
+
+837
+01:20:15,934 --> 01:20:17,026
+我睡不着
+I can't sleep!
+
+838
+01:20:27,279 --> 01:20:31,477
+不用担心，是皮外伤，无事的
+Don't worry! Just slight injury! It's alright!
+
+839
+01:20:32,551 --> 01:20:35,348
+今次就说好彩无事，那下次呢？
+You're lucky this time, but what about the next time?
+
+840
+01:20:37,022 --> 01:20:38,648
+我做事从来没想过下次
+I've never thought about next time in doing anything
+
+841
+01:20:40,493 --> 01:20:46,021
+除了一样，就是下次我出香港
+Just one thing
+
+842
+01:20:47,299 --> 01:20:49,061
+我要你跟我一齐出去
+I want to be with you next time when I go touring
+
+843
+01:20:51,570 --> 01:20:55,938
+这句说话我讲了两次，亦不打算收回
+I've said this twice I won't take it back
+
+844
+01:20:57,243 --> 01:20:58,505
+你的意思怎么样？
+What are your opinion?
+
+845
+01:21:08,154 --> 01:21:14,149
+来呀，来呀，过来呀
+Come on! Come to me!
+
+846
+01:22:06,579 --> 01:22:09,103
+华哥呀，大佬昨晚给了我很多钱
+Brother Wah! My Big Brother have given me a lot of money last night
+
+847
+01:22:10,449 --> 01:22:12,006
+叫我再摆一次酒
+and told me to hold banquet again
+
+848
+01:22:12,551 --> 01:22:13,915
+他说过两天后看报纸
+And he said I would know
+
+849
+01:22:14,186 --> 01:22:15,551
+就知道他不是莫姜
+he was not coward when I read newspaper two days later,
+
+850
+01:22:15,687 --> 01:22:17,211
+华哥，你快点出来呀
+Brother Wah, would you come out at once
+
+851
+01:22:18,923 --> 01:22:21,289
+你不理他，就没人理他啦
+Nobody will care about him if you don't
+
+852
+01:22:32,037 --> 01:22:33,402
+我现在出来
+I'm coming now
+
+853
+01:22:39,911 --> 01:22:40,808
+又要出去呀？
+Going out again?
+
+854
+01:22:41,646 --> 01:22:43,045
+没什么，是朋友打电话来
+Nothing! Some kind of friend
+
+855
+01:22:43,215 --> 01:22:44,375
+叫我出去聊聊
+called me out to talk a while
+
+856
+01:22:45,217 --> 01:22:47,276
+对了，等一下我要出梅窝
+Right! I'll go to buy some medicine
+
+857
+01:22:47,419 --> 01:22:48,579
+去买两剂铁打药
+in Silver Mine Bay
+
+858
+01:23:10,209 --> 01:23:11,574
+有没有什么东西要买？
+Do you want me to buy anything for you?
+
+859
+01:23:14,646 --> 01:23:16,011
+我好快就回来啦！
+I'll be back soon
+
+860
+01:24:41,799 --> 01:24:42,730
+仔八
+Double eight
+
+861
+01:24:42,967 --> 01:24:44,366
+张小姐Call你
+Miss Cheung called you
+
+862
+01:24:44,536 --> 01:24:46,025
+说跌打药买不买不要紧
+to tell you that medicine was not important
+
+863
+01:24:46,205 --> 01:24:49,799
+最要紧小心点，早点回来
+But took care of yourself and came back earlier
+
+864
+01:25:20,572 --> 01:25:21,697
+又食糊呀
+I win again
+
+865
+01:25:22,374 --> 01:25:24,170
+给钱，给钱呀
+Give me money
+
+866
+01:25:26,512 --> 01:25:27,443
+上数
+Count it later
+
+867
+01:25:40,758 --> 01:25:43,454
+为什么转了地方也不通知我，TOny哥
+Why not tell me you're changed your address, Tony?
+
+868
+01:25:45,297 --> 01:25:46,627
+起身…
+Get up...
+
+869
+01:25:46,764 --> 01:25:49,164
+你知不知这里打几大呀
+Do you know the game rules here?
+
+870
+01:25:51,136 --> 01:25:52,693
+是不是不招呼我呀
+You don't welcome me?
+
+871
+01:25:55,240 --> 01:25:58,300
+拿些安家费来益我
+Give me money
+
+872
+01:25:59,044 --> 01:26:00,670
+我惊会折堕
+I don't want to be screwed up
+
+873
+01:26:03,115 --> 01:26:06,845
+你呀，你已经堕到尽了
+You're been screwed up
+
+874
+01:26:06,984 --> 01:26:09,111
+日日食长斋，生仔也不会有屁股
+Even you feel sorry, your son will have no ass
+
+875
+01:26:09,254 --> 01:26:09,776
+你说什么呀靓仔
+What are you talking?
+
+876
+01:26:09,921 --> 01:26:11,218
+什么呀    什么呀
+What? What?
+
+877
+01:26:11,989 --> 01:26:13,649
+给他威两天好了
+Let him be the boss 2 days
+
+878
+01:26:13,825 --> 01:26:17,056
+他成世也未威过，他拿了性命来搏的
+He never be the boss. He risks his lefe for that
+
+879
+01:26:17,296 --> 01:26:20,162
+威两天也不能，乌蝇哥是吗？
+Just 2 days
+
+880
+01:26:24,536 --> 01:26:25,934
+来吧
+Come on
+
+881
+01:26:26,538 --> 01:26:27,799
+过七筒
+seven tile of cirdes
+
+882
+01:26:36,415 --> 01:26:40,714
+喂，你知不知规矩的，打过啦
+Do you know the rules? Get another tile
+
+883
+01:26:46,191 --> 01:26:46,952
+八呀
+Eight
+
+884
+01:26:55,434 --> 01:26:58,994
+不好意思，自己喷了出来的
+I'm sorry
+
+885
+01:26:59,338 --> 01:27:00,770
+喂，打麻雀吧！
+Come on
+
+886
+01:27:03,674 --> 01:27:04,504
+不要玩花样呀靓仔
+Don't fool me
+
+887
+01:27:04,576 --> 01:27:05,405
+随便他
+Leave him alone
+
+888
+01:27:06,677 --> 01:27:08,110
+给他做多两天英雄
+Let him be a two days hero
+
+889
+01:27:10,681 --> 01:27:14,412
+真忍得呀，食屎啦你
+You're very patient. Goddam you!
+
+890
+01:27:23,861 --> 01:27:27,319
+你不要以为我真的不敢打你呀
+You think I don't dare to beat you?
+
+891
+01:27:27,865 --> 01:27:29,059
+打我呀笨
+Come and beat me
+
+892
+01:27:29,568 --> 01:27:31,000
+你敢打我
+If you beat me
+
+893
+01:27:31,969 --> 01:27:35,063
+你打我一下，我立即躺在这里
+I'll lie down
+
+894
+01:27:35,407 --> 01:27:37,466
+大口基的事你便要背上身
+And you'll get into big-mouth kay's trouble
+
+895
+01:27:37,642 --> 01:27:43,171
+打我呀…
+Come on
+
+896
+01:27:43,781 --> 01:27:44,769
+去死啦
+Goddam you!
+
+897
+01:27:45,616 --> 01:27:46,913
+他妈的
+Shit
+
+898
+01:27:47,452 --> 01:27:51,251
+过来呀，够胆过来我便射死他
+I'll shoot him if you move
+
+899
+01:27:53,091 --> 01:27:55,024
+射呀，够胆你便开枪
+Shoot him if you dare
+
+900
+01:27:55,260 --> 01:27:57,524
+大我呀，是不是大我呀
+Are you threatening me?
+
+901
+01:27:57,628 --> 01:27:59,926
+射我呀，拉鸡射我呀
+Pull the trigger and shoot me
+
+902
+01:28:05,470 --> 01:28:07,198
+不要开枪呀
+Don't shoot
+
+903
+01:28:08,507 --> 01:28:11,942
+不要呀…
+No...
+
+904
+01:28:18,749 --> 01:28:23,277
+惊呀，惊死了吗？屎忽鬼
+Are you scared, Asshole?
+
+905
+01:28:23,422 --> 01:28:24,251
+射爆你的头
+Let me blow off your head
+
+906
+01:28:24,556 --> 01:28:28,218
+不要…，不要开枪呀乌蝇哥
+No..., don't shoot him
+
+907
+01:28:28,427 --> 01:28:30,520
+我本来想一枪射死他
+I wanted to shoot him
+
+908
+01:28:30,695 --> 01:28:32,595
+但你不配
+But you're not worth to be shot
+
+909
+01:28:35,700 --> 01:28:39,329
+这些钱还给你的，拾吧
+These are the money that I owe you. Take it
+
+910
+01:28:41,173 --> 01:28:44,438
+一定要拾，不拾便没有机会的
+You must take it. Or you'll lose your chance
+
+911
+01:28:44,576 --> 01:28:47,271
+我一枪射死你的，拾吧
+Take it. Or I'll shoot you
+
+912
+01:28:52,484 --> 01:28:54,075
+说声多谢乌蝇哥
+Say thank you
+
+913
+01:28:56,588 --> 01:28:58,919
+多谢，多谢乌蝇哥
+Thank you
+
+914
+01:29:03,528 --> 01:29:06,519
+穿西装打太，拿大哥大电话有用吗？
+You're nothing even you wear suits with call phone
+
+915
+01:29:08,433 --> 01:29:09,956
+跟着这些大佬
+Be the man of such brother
+
+916
+01:29:12,770 --> 01:29:14,465
+食屎啦你
+And you'll go to hell
+
+917
+01:29:26,351 --> 01:29:27,840
+大家出来求财的
+We just want to make money
+
+918
+01:29:27,985 --> 01:29:30,351
+他还钱给我也不要吗？
+You mean I shouldn't take the money even he pay me back?
+
+919
+01:29:31,023 --> 01:29:32,251
+拿去跳舞吧
+Take it and go dancing
+
+920
+01:29:37,195 --> 01:29:40,323
+喂！不是这样对大佬呀
+You treat your brother like that
+
+921
+01:29:53,744 --> 01:29:57,611
+喂，妈，我在士多，你上来好吗？
+I'm in grocery, mon. Do you come up?
+
+922
+01:29:58,083 --> 01:29:59,175
+什么事呀？
+What is going on?
+
+923
+01:29:59,451 --> 01:30:01,384
+没有，我知你怕热
+Nothing. I know you don't like feeling hot
+
+924
+01:30:01,619 --> 01:30:03,484
+买了一部冷气给你
+So I buy you a air conditioner
+
+925
+01:30:04,289 --> 01:30:07,621
+我们下面装了，你留给自己用吧
+We're installed it down there. This one just leave in to you
+
+926
+01:30:08,826 --> 01:30:11,556
+我不上来了，你爸爸在
+I don't come up. Your father is here
+
+927
+01:30:12,431 --> 01:30:14,796
+那个是你老公，不是我爸爸
+He's your husband, not my father
+
+928
+01:30:50,768 --> 01:30:52,395
+你走到几时才安乐呀
+When will you calm down and stop escaping?
+
+929
+01:30:53,271 --> 01:30:54,760
+你出来找我做什么？
+Why did you come out to see me?
+
+930
+01:30:55,940 --> 01:30:57,498
+你不要理我好不好？
+Why don't you leave me alone?
+
+931
+01:30:59,244 --> 01:31:02,475
+我不理你？我不理你那个理你呀？
+Who will care for you if I don't?
+
+932
+01:31:09,221 --> 01:31:11,688
+不要以为做完这件事就好威了
+Don't think that you'll be famous after this task
+
+933
+01:31:13,724 --> 01:31:19,458
+对，你今天做完，个个就会说你够姜
+Right, everybody will say you are brave this time when you do that
+
+934
+01:31:21,133 --> 01:31:23,294
+下个礼拜，还有人知道你是那一个
+But no one will remember you next week
+
+935
+01:31:24,536 --> 01:31:25,968
+但是那又怎么样？
+But what become of you then?
+
+936
+01:31:26,505 --> 01:31:28,631
+再迟点就没有人认识你乌蝇啦
+No one will know you later
+
+937
+01:31:41,053 --> 01:31:43,317
+我也为阿公做了不少事
+I've done many things for godfather also
+
+938
+01:31:46,058 --> 01:31:50,926
+我十四岁，十四岁就拿安家费
+I had received money for death when I was fourteen
+
+939
+01:31:54,199 --> 01:31:55,756
+我威过好多人啦？
+I was greater than a lot of people, right?
+
+940
+01:31:56,801 --> 01:31:59,735
+那又怎么样？现在不也是这个样子
+But look at me! I'm just an ordinary man now
+
+941
+01:32:00,072 --> 01:32:03,768
+你威风，你总算威风过呀
+Anyway, you were famous for sometime!
+
+942
+01:32:04,875 --> 01:32:08,106
+我呢？我怎么样？
+But what about me?
+
+943
+01:32:10,748 --> 01:32:13,979
+没有人看得起我，你就开心啦
+No one notice me and you are happy about that
+
+944
+01:32:14,486 --> 01:32:16,385
+我样样都被人家看小
+People look down upon everything of me
+
+945
+01:32:16,687 --> 01:32:19,485
+他们还说我是你裤档里的一条狗
+They even said that I was a dog beneath you ass
+
+946
+01:32:19,657 --> 01:32:20,954
+你知不知道？
+Do you know that?
+
+947
+01:32:24,695 --> 01:32:27,629
+我乌蝇宁愿做一日英雄
+I would rather be three-minute hero
+
+948
+01:32:27,832 --> 01:32:29,765
+都不想做一世乌蝇
+I don't want to be a fly for all my life
+
+949
+01:32:32,070 --> 01:32:34,765
+你让我一手一脚的做一件事好不好？
+Let me finish a great task on my own, would you?
+
+950
+01:32:35,440 --> 01:32:36,872
+就这一次啦
+Just for this time
+
+951
+01:32:51,456 --> 01:32:56,893
+好，你是不是决定要去？
+OK! Did you decide to go?
+
+952
+01:32:58,530 --> 01:33:00,292
+如果你去我就陪你去
+I'll go with you if you want to
+
+953
+01:33:01,466 --> 01:33:03,194
+要是你被人射到了我都替你补飞
+I'll take revenge for you if you are shoot down
+
+954
+01:33:03,368 --> 01:33:06,200
+你不要对我这么好呀，行不行？
+Don't treat me so good, would you?
+
+955
+01:33:10,342 --> 01:33:12,241
+我还你不起的
+I can't pay you back
+
+956
+01:33:13,844 --> 01:33:15,834
+我不想跟你讲这么多话
+I don't want to talk so much with you
+
+957
+01:33:15,980 --> 01:33:18,107
+只要你说去，我就陪你去
+Just say it, and I'll go with you
+
+958
+01:33:19,551 --> 01:33:23,543
+如果你不去的话，一齐回大屿山
+We'll go to Lantau Island if you say no
+
+959
+01:33:26,824 --> 01:33:28,791
+以后的事，我会搞定
+I'll settle anything following
+
+960
+01:33:36,000 --> 01:33:40,334
+好！好！好！
+OK! OK! OK!
+
+961
+01:33:40,539 --> 01:33:41,800
+我跟你回去
+I go back with you
+
+962
+01:33:57,688 --> 01:33:58,985
+阿财，阿财，你不要看不起人
+Ah-choi, Ah-choi
+
+963
+01:33:59,191 --> 01:34:00,680
+怎么你残成这样？
+Don't look down upon other
+
+964
+01:34:01,193 --> 01:34:03,559
+快点同大佬打招呼了
+He used to be great and famous but now he was finished
+
+965
+01:34:05,030 --> 01:34:08,591
+不要这么独食，分一些给阿财啦
+Don't be so stingily! Give something to Ah-cho
+

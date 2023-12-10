@@ -1,0 +1,1162 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,14,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:38.23,0:01:40.99,Default,,0000,0000,0000,,各位请跟我到另一房间\N{\fn微软雅黑\fs12} This way please, we'll go to the next room
+Dialogue: 0,0:01:41.66,0:01:44.76,Default,,0000,0000,0000,,这里有一幅名为赫林之女仆的名画\N{\fn微软雅黑\fs12} Here, there was a painting by Trouillebeut called "Harem's Servant"
+Dialogue: 0,0:01:44.77,0:01:47.39,Default,,0000,0000,0000,,在不久之前被盗窃了\N{\fn微软雅黑\fs12} It was stolen a few weeks ago
+Dialogue: 0,0:01:47.40,0:01:50.13,Default,,0000,0000,0000,,所以这老馆长非常伤心\N{\fn微软雅黑\fs12} That's why our director is so upset
+Dialogue: 0,0:01:50.24,0:01:53.73,Default,,0000,0000,0000,,他天天在这里等待着\N{\fn微软雅黑\fs12} He is waiting here everyday
+Dialogue: 0,0:01:53.74,0:01:55.77,Default,,0000,0000,0000,,希望有一天 能有奇迹出现\N{\fn微软雅黑\fs12} Hoping that miracle will happen
+Dialogue: 0,0:01:55.78,0:01:58.80,Default,,0000,0000,0000,,名画会再出现\N{\fn微软雅黑\fs12} The painting will be re-appear
+Dialogue: 0,0:01:59.51,0:02:01.31,Default,,0000,0000,0000,,大家请跟我往那边走\N{\fn微软雅黑\fs12} Please follow me to another room
+Dialogue: 0,0:02:02.92,0:02:03.78,Default,,0000,0000,0000,,你喜欢这画家吗\N{\fn微软雅黑\fs12} Do you like this painting?
+Dialogue: 0,0:02:03.79,0:02:05.45,Default,,0000,0000,0000,,喜欢 失去了真可惜\N{\fn微软雅黑\fs12} Oh yes, quite a lot!
+Dialogue: 0,0:02:20.17,0:02:21.47,Default,,0000,0000,0000,,不用客气\N{\fn微软雅黑\fs12} No, thanks!
+Dialogue: 0,0:02:28.18,0:02:29.47,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} Good
+Dialogue: 0,0:03:36.58,0:03:38.55,Default,,0000,0000,0000,,小姐 你没事吧\N{\fn微软雅黑\fs12} Miss, are you alright?
+Dialogue: 0,0:03:38.75,0:03:40.18,Default,,0000,0000,0000,,有什么可以帮忙吗\N{\fn微软雅黑\fs12} Does it hurt? Please sit down
+Dialogue: 0,0:03:42.78,0:03:45.58,Default,,0000,0000,0000,,小姐 你不可以坐在这个箱子上面\N{\fn微软雅黑\fs12} No Miss, you can't sit on this box
+Dialogue: 0,0:03:45.59,0:03:47.42,Default,,0000,0000,0000,,里边有幅画好贵重的\N{\fn微软雅黑\fs12} There's a very valuable painting inside
+Dialogue: 0,0:03:48.09,0:03:48.75,Default,,0000,0000,0000,,蒙娜丽莎\N{\fn微软雅黑\fs12} MonaLisa?
+Dialogue: 0,0:03:48.89,0:03:49.86,Default,,0000,0000,0000,,不是\N{\fn微软雅黑\fs12} No it's not,
+Dialogue: 0,0:03:49.86,0:03:52.59,Default,,0000,0000,0000,,是一幅叫做“珍夏梦布丹”的名画\N{\fn微软雅黑\fs12} it's a Modigliani portrait
+Dialogue: 0,0:03:56.23,0:04:01.60,Default,,0000,0000,0000,,很名贵的 请你尽快起来\N{\fn微软雅黑\fs12} Please sit elsewhere, or I'll get into trouble
+Dialogue: 0,0:04:01.60,0:04:02.87,Default,,0000,0000,0000,,好 好\N{\fn微软雅黑\fs12} OK...OK...
+Dialogue: 0,0:04:02.87,0:04:07.64,Default,,0000,0000,0000,,她的鞋子修好了吗 箱子要小心啊\N{\fn微软雅黑\fs12} Miss here, your shoe is fixed
+Dialogue: 0,0:04:08.48,0:04:09.54,Default,,0000,0000,0000,,很名贵的请你尽快起来\N{\fn微软雅黑\fs12} There's a very valuable
+Dialogue: 0,0:04:09.54,0:04:10.20,Default,,0000,0000,0000,,小姐 我帮你修好了\N{\fn微软雅黑\fs12} Miss please, I'm serious
+Dialogue: 0,0:04:10.21,0:04:11.37,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks!
+Dialogue: 0,0:04:15.38,0:04:17.25,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks!
+Dialogue: 0,0:04:19.59,0:04:21.15,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} Bye
+Dialogue: 0,0:04:23.26,0:04:24.78,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} Bye
+Dialogue: 0,0:04:31.17,0:04:32.60,Default,,0000,0000,0000,,GIGI 早安\N{\fn微软雅黑\fs12} GiGi. Good morning
+Dialogue: 0,0:04:32.67,0:04:33.46,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks!
+Dialogue: 0,0:04:36.91,0:04:40.27,Default,,0000,0000,0000,,唔 今天的香水特别香 一定是名牌\N{\fn微软雅黑\fs12} Today's perfume is so fragrant, must be fantastic!
+Dialogue: 0,0:04:40.68,0:04:42.61,Default,,0000,0000,0000,,我喷了整瓶的香水在那名画的箱子上\N{\fn微软雅黑\fs12} I almost used the whole bottle
+Dialogue: 0,0:04:42.61,0:04:46.95,Default,,0000,0000,0000,,嗯 谢谢 另外再给你买一支\N{\fn微软雅黑\fs12} I'll buy you another at Lafayette!
+Dialogue: 0,0:04:47.65,0:04:48.84,Default,,0000,0000,0000,,来块点心\N{\fn微软雅黑\fs12} Give me a dimsum first
+Dialogue: 0,0:04:50.12,0:04:51.45,Default,,0000,0000,0000,,你小心来不及\N{\fn微软雅黑\fs12} Well jurry, time is running out
+Dialogue: 0,0:04:51.99,0:04:53.11,Default,,0000,0000,0000,,你赶时间吗\N{\fn微软雅黑\fs12} What's the hurry?
+Dialogue: 0,0:04:53.36,0:04:55.08,Default,,0000,0000,0000,,你正经一点行不行\N{\fn微软雅黑\fs12} Don't interrupt me
+Dialogue: 0,0:04:55.69,0:04:57.78,Default,,0000,0000,0000,,我不赶时间 天还没黑呢\N{\fn微软雅黑\fs12} I'm in no hurry, it's not dark yet
+Dialogue: 0,0:05:03.70,0:05:04.49,Default,,0000,0000,0000,,GI GI\N{\fn微软雅黑\fs12}Gi Gi!
+Dialogue: 0,0:05:04.70,0:05:06.67,Default,,0000,0000,0000,,你这个人老是吊儿郎当的\N{\fn微软雅黑\fs12} You're just a big baby
+Dialogue: 0,0:05:06.67,0:05:08.36,Default,,0000,0000,0000,,法国这个地方就最合你了\N{\fn微软雅黑\fs12} France is the best place for you
+Dialogue: 0,0:05:08.54,0:05:09.09,Default,,0000,0000,0000,,真的\N{\fn微软雅黑\fs12} Yeah!
+Dialogue: 0,0:05:09.10,0:05:09.93,Default,,0000,0000,0000,,还有法国女人\N{\fn微软雅黑\fs12} Especially French women
+Dialogue: 0,0:05:09.94,0:05:13.60,Default,,0000,0000,0000,,GI GI\N{\fn微软雅黑\fs12} Gi Gi!
+Dialogue: 0,0:05:19.71,0:05:20.81,Default,,0000,0000,0000,,你知道那是什么地方吗\N{\fn微软雅黑\fs12} Do you know what that is?
+Dialogue: 0,0:05:20.98,0:05:23.82,Default,,0000,0000,0000,,知道 大众妈妈院嘛\N{\fn微软雅黑\fs12} Of course! It's Naughty Dame!
+Dialogue: 0,0:05:25.95,0:05:27.82,Default,,0000,0000,0000,,那是巴黎圣母院呀\N{\fn微软雅黑\fs12} Of course not! It's Notre-Dame!
+Dialogue: 0,0:05:28.86,0:05:31.16,Default,,0000,0000,0000,,真希望可以在那举行婚礼\N{\fn微软雅黑\fs12} I always wanted to get married there
+Dialogue: 0,0:05:31.16,0:05:32.56,Default,,0000,0000,0000,,很多花童花女陪我一起走进教堂\N{\fn微软雅黑\fs12} with those little boys and girls...
+Dialogue: 0,0:05:33.83,0:05:36.96,Default,,0000,0000,0000,,整条路上铺满了牵牛花\N{\fn微软雅黑\fs12} along the aisle throwing morning glories
+Dialogue: 0,0:05:54.08,0:05:56.31,Default,,0000,0000,0000,,关上车门 出发\N{\fn微软雅黑\fs12} Close the door, let's go
+Dialogue: 0,0:06:18.74,0:06:19.71,Default,,0000,0000,0000,,你认得我吗\N{\fn微软雅黑\fs12} Do you know me?
+Dialogue: 0,0:06:19.71,0:06:20.44,Default,,0000,0000,0000,,不\N{\fn微软雅黑\fs12} No
+Dialogue: 0,0:06:26.75,0:06:33.28,Default,,0000,0000,0000,,我的名字叫阿真 谢谢\N{\fn微软雅黑\fs12} My name is James, thanks
+Dialogue: 0,0:06:34.52,0:06:38.75,Default,,0000,0000,0000,,我是通天大盗 明天看报纸吧\N{\fn微软雅黑\fs12} I'm notorious thief, read tomorrow papers
+Dialogue: 0,0:07:38.42,0:07:40.62,Default,,0000,0000,0000,,你看那架车\N{\fn微软雅黑\fs12} Look at that car!
+Dialogue: 0,0:07:45.79,0:07:46.69,Default,,0000,0000,0000,,前面那对男女真热情呀\N{\fn微软雅黑\fs12} Hey! Did you see what they're doing there?
+Dialogue: 0,0:07:46.70,0:07:48.69,Default,,0000,0000,0000,,现在的年青人什么都做得出\N{\fn微软雅黑\fs12} Youngsters these days do anything they want
+Dialogue: 0,0:08:42.29,0:08:45.26,Default,,0000,0000,0000,,踩着油门向前 抓稳方向盘\N{\fn微软雅黑\fs12} Step on the gas, get closer, take it
+Dialogue: 0,0:08:51.06,0:08:52.05,Default,,0000,0000,0000,,帮帮忙 快接近啊\N{\fn微软雅黑\fs12} Hey, be a pal and help me out?
+Dialogue: 0,0:08:52.06,0:08:52.82,Default,,0000,0000,0000,,记住呀 香水\N{\fn微软雅黑\fs12} Remember, the perfume!
+Dialogue: 0,0:08:52.82,0:08:54.02,Default,,0000,0000,0000,,接我的时候一定要用慢档\N{\fn微软雅黑\fs12} Don't forget to drive in lowgear when you collect me
+Dialogue: 0,0:08:54.02,0:08:55.02,Default,,0000,0000,0000,,知道啦\N{\fn微软雅黑\fs12} Don't worry Don't forget!
+Dialogue: 0,0:09:10.61,0:09:12.01,Default,,0000,0000,0000,,走吧\N{\fn微软雅黑\fs12} Go away
+Dialogue: 0,0:09:45.05,0:09:49.11,Default,,0000,0000,0000,,闻不到啊 奇怪\N{\fn微软雅黑\fs12} I don't smell a thing, how come?
+Dialogue: 0,0:10:02.30,0:10:06.23,Default,,0000,0000,0000,,呜啊 什么香水这么臭啊\N{\fn微软雅黑\fs12} Jeez, the perfume stinks
+Dialogue: 0,0:10:09.44,0:10:10.50,Default,,0000,0000,0000,,臭过他妈的尿\N{\fn微软雅黑\fs12} More than a horse's, shit!
+Dialogue: 0,0:10:11.27,0:10:12.60,Default,,0000,0000,0000,,啊 过期香水\N{\fn微软雅黑\fs12} Oh, the perfume must be too old
+Dialogue: 0,0:12:43.93,0:12:44.91,Default,,0000,0000,0000,,停止 妈的\N{\fn微软雅黑\fs12} Freeze, shit!
+Dialogue: 0,0:12:45.13,0:12:47.62,Default,,0000,0000,0000,,咦 货卡发生什么事呢\N{\fn微软雅黑\fs12} Hey, what's going up there?
+Dialogue: 0,0:13:03.85,0:13:07.44,Default,,0000,0000,0000,,嗨 阿贵 他下来了 我去接他\N{\fn微软雅黑\fs12} Hey, Joe is coming
+Dialogue: 0,0:13:07.45,0:13:08.57,Default,,0000,0000,0000,,哦\N{\fn微软雅黑\fs12} Oh
+Dialogue: 0,0:13:08.68,0:13:09.81,Default,,0000,0000,0000,,哎\N{\fn微软雅黑\fs12} Let's go get him, come on
+Dialogue: 0,0:13:10.45,0:13:12.42,Default,,0000,0000,0000,,喂 过来\N{\fn微软雅黑\fs12} Hey, over here, hurry
+Dialogue: 0,0:13:12.79,0:13:14.52,Default,,0000,0000,0000,,过来呀 这边\N{\fn微软雅黑\fs12} Hey, over here
+Dialogue: 0,0:13:17.43,0:13:18.09,Default,,0000,0000,0000,,收油\N{\fn微软雅黑\fs12} Slow down
+Dialogue: 0,0:13:20.09,0:13:22.16,Default,,0000,0000,0000,,踩车闸\N{\fn微软雅黑\fs12} Almost there
+Dialogue: 0,0:13:23.16,0:13:25.16,Default,,0000,0000,0000,,低档啊 三八\N{\fn微软雅黑\fs12} Lowgear, stupid broad
+Dialogue: 0,0:13:27.20,0:13:28.43,Default,,0000,0000,0000,,我捉到他了 捉到他了\N{\fn微软雅黑\fs12} I got him, I got him
+Dialogue: 0,0:13:28.44,0:13:30.37,Default,,0000,0000,0000,,收油啊 哎呀\N{\fn微软雅黑\fs12} Slow down, slow down
+Dialogue: 0,0:13:32.71,0:13:34.44,Default,,0000,0000,0000,,喂 喂 停车 停车啊\N{\fn微软雅黑\fs12} Hey, stop, stop the car
+Dialogue: 0,0:13:34.44,0:13:35.64,Default,,0000,0000,0000,,停车呀\N{\fn微软雅黑\fs12} stop the car
+Dialogue: 0,0:13:37.55,0:13:41.28,Default,,0000,0000,0000,,你这死三八 哇 日你奶奶的\N{\fn微软雅黑\fs12} You goddam stupid broad
+Dialogue: 0,0:13:44.02,0:13:45.49,Default,,0000,0000,0000,,阿海 怎么样 摔伤了没有\N{\fn微软雅黑\fs12} Joe, you alright,
+Dialogue: 0,0:13:45.49,0:13:47.39,Default,,0000,0000,0000,,痛不痛啊 啊\N{\fn微软雅黑\fs12} are you hurt, painful?
+Dialogue: 0,0:13:47.82,0:13:49.79,Default,,0000,0000,0000,,咦 哎哟 算了\N{\fn微软雅黑\fs12} Yeah, does it hurt?
+Dialogue: 0,0:13:49.79,0:13:50.38,Default,,0000,0000,0000,,算了 你说这样痛不痛\N{\fn微软雅黑\fs12} Alright enough
+Dialogue: 0,0:13:50.39,0:13:51.12,Default,,0000,0000,0000,,干什么嘛\N{\fn微软雅黑\fs12} Well?
+Dialogue: 0,0:13:51.23,0:13:52.66,Default,,0000,0000,0000,,我教你几百次了\N{\fn微软雅黑\fs12} How many times did I tell?
+Dialogue: 0,0:13:52.73,0:13:54.12,Default,,0000,0000,0000,,开车不要死用一个档嘛\N{\fn微软雅黑\fs12} Don't just drive in lowgear
+Dialogue: 0,0:13:54.13,0:13:56.06,Default,,0000,0000,0000,,有时候用一 有时候用二\N{\fn微软雅黑\fs12} Sometimes use the first gear, sometimes the second
+Dialogue: 0,0:13:56.06,0:13:59.07,Default,,0000,0000,0000,,叫你踩闸又不踩 叫你加油又不加\N{\fn微软雅黑\fs12} You never do what I tell you!
+Dialogue: 0,0:13:59.07,0:14:01.63,Default,,0000,0000,0000,,叫你减油又不减 真是个大笨猪啊\N{\fn微软雅黑\fs12} You're a brainless bimbo
+Dialogue: 0,0:14:01.64,0:14:03.04,Default,,0000,0000,0000,,我怎么知道要用什么档啊\N{\fn微软雅黑\fs12} I never know how you want it
+Dialogue: 0,0:14:03.04,0:14:04.70,Default,,0000,0000,0000,,空档\N{\fn微软雅黑\fs12} I want it off
+Dialogue: 0,0:14:05.21,0:14:06.04,Default,,0000,0000,0000,,你去哪\N{\fn微软雅黑\fs12} Where are you going?
+Dialogue: 0,0:14:06.21,0:14:07.30,Default,,0000,0000,0000,,交水费\N{\fn微软雅黑\fs12} Water the plant
+Dialogue: 0,0:14:16.35,0:14:18.01,Default,,0000,0000,0000,,阿贵 开车用什么档\N{\fn微软雅黑\fs12} Hey, you said never start the car in which gear?
+Dialogue: 0,0:14:18.35,0:14:19.22,Default,,0000,0000,0000,,低档\N{\fn微软雅黑\fs12} Drive!
+Dialogue: 0,0:14:19.69,0:14:20.42,Default,,0000,0000,0000,,低呀 哦\N{\fn微软雅黑\fs12} Drive!
+Dialogue: 0,0:14:21.22,0:14:23.55,Default,,0000,0000,0000,,开车咯\N{\fn微软雅黑\fs12} Well drive!
+Dialogue: 0,0:14:23.89,0:14:25.52,Default,,0000,0000,0000,,啊 喂\N{\fn微软雅黑\fs12} Hey...Hey...
+Dialogue: 0,0:14:25.73,0:14:27.42,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} Bye-bye
+Dialogue: 0,0:14:27.43,0:14:29.83,Default,,0000,0000,0000,,你们两个这么做是没有好结果的\N{\fn微软雅黑\fs12} You two will regret this
+Dialogue: 0,0:14:29.83,0:14:31.99,Default,,0000,0000,0000,,去吧 你们尽管去吧\N{\fn微软雅黑\fs12} Go on, leave,
+Dialogue: 0,0:14:32.37,0:14:37.33,Default,,0000,0000,0000,,祝你们春梦了无痕啊\N{\fn微软雅黑\fs12} I hope you get what you desert
+Dialogue: 0,0:14:42.74,0:14:44.37,Default,,0000,0000,0000,,朱生 你知道嘛\N{\fn微软雅黑\fs12} Mr Chu, do you know...
+Dialogue: 0,0:14:44.38,0:14:47.04,Default,,0000,0000,0000,,最近我国的名画时常给人盗窃\N{\fn微软雅黑\fs12} some of our famous paintings has been stolen lately,
+Dialogue: 0,0:14:47.78,0:14:50.55,Default,,0000,0000,0000,,虽然 我们是非常欢迎全世界的人\N{\fn微软雅黑\fs12} we of course welcome those who come all over the world...
+Dialogue: 0,0:14:50.55,0:14:52.02,Default,,0000,0000,0000,,来法国欣赏我国的艺术\N{\fn微软雅黑\fs12} to appreciate our art,
+Dialogue: 0,0:14:52.25,0:14:54.41,Default,,0000,0000,0000,,但绝对不希望是来取走的\N{\fn微软雅黑\fs12} but just hope they don't take them away from us
+Dialogue: 0,0:14:55.06,0:14:55.78,Default,,0000,0000,0000,,我们查过\N{\fn微软雅黑\fs12} We've done save investigations,
+Dialogue: 0,0:14:55.79,0:14:57.28,Default,,0000,0000,0000,,怀疑偷画的人是中国人\N{\fn微软雅黑\fs12} and we suspect that the thieves are Chinese,
+Dialogue: 0,0:14:57.29,0:14:58.35,Default,,0000,0000,0000,,而且与\N{\fn微软雅黑\fs12} from an...
+Dialogue: 0,0:14:58.36,0:15:00.09,Default,,0000,0000,0000,,香港庞大的偷画集团关系密切\N{\fn微软雅黑\fs12} underground painting collector.
+Dialogue: 0,0:15:10.87,0:15:13.07,Default,,0000,0000,0000,,你们三个要永远记住\N{\fn微软雅黑\fs12} You three remember,I raised you
+Dialogue: 0,0:15:14.44,0:15:17.04,Default,,0000,0000,0000,,你们全都是我捡回来养的 吃我的 穿我的\N{\fn微软雅黑\fs12} I fed you, clothed you Now you got to listen to me
+Dialogue: 0,0:15:18.31,0:15:19.57,Default,,0000,0000,0000,,什么都要听我的\N{\fn微软雅黑\fs12} From now on
+Dialogue: 0,0:15:22.15,0:15:23.74,Default,,0000,0000,0000,,我就教你们怎么样赚钱\N{\fn微软雅黑\fs12} I'll teach you how to make a living
+Dialogue: 0,0:15:27.29,0:15:31.66,Default,,0000,0000,0000,,吶 这就叫做明眼手快 阿贵\N{\fn微软雅黑\fs12} Joe, I'll teach you to be sharp of eye and quick of hand
+Dialogue: 0,0:15:32.56,0:15:37.68,Default,,0000,0000,0000,,过来 哦 我就站在公共汽车上 过来\N{\fn微软雅黑\fs12} I'm now in a bus, come here
+Dialogue: 0,0:15:37.90,0:15:39.56,Default,,0000,0000,0000,,怎么了 你通了电啦\N{\fn微软雅黑\fs12} What's the matter? You crazy?
+Dialogue: 0,0:15:40.17,0:15:43.10,Default,,0000,0000,0000,,汽车 不是在开动吗\N{\fn微软雅黑\fs12} Nothing, the bus ride is jumpy!
+Dialogue: 0,0:15:45.34,0:15:46.67,Default,,0000,0000,0000,,过那边 哦\N{\fn微软雅黑\fs12} Then go over there
+Dialogue: 0,0:15:56.45,0:15:57.68,Default,,0000,0000,0000,,嘿嘿\N{\fn微软雅黑\fs12} Oh
+Dialogue: 0,0:16:01.59,0:16:02.58,Default,,0000,0000,0000,,岂有此理\N{\fn微软雅黑\fs12} Godam it
+Dialogue: 0,0:16:02.96,0:16:04.98,Default,,0000,0000,0000,,左偷右偷都偷不到 你真是个大饭桶\N{\fn微软雅黑\fs12} You'll never learn, you doestn't worth anything
+Dialogue: 0,0:16:06.13,0:16:09.49,Default,,0000,0000,0000,,你整天哭是不是 扫把星\N{\fn微软雅黑\fs12} You're crying all the time Brings me bad luck
+Dialogue: 0,0:16:10.00,0:16:12.49,Default,,0000,0000,0000,,你想食饭吶 你别做梦了\N{\fn微软雅黑\fs12} No food for you
+Dialogue: 0,0:16:24.51,0:16:25.71,Default,,0000,0000,0000,,红豆 喝汤啊\N{\fn微软雅黑\fs12} Cherie, let's eat
+Dialogue: 0,0:16:26.31,0:16:28.37,Default,,0000,0000,0000,,刚才洒的我裤子全湿啦\N{\fn微软雅黑\fs12} I stained my pants because of you
+Dialogue: 0,0:16:29.45,0:16:30.54,Default,,0000,0000,0000,,我留了饭给你吃\N{\fn微软雅黑\fs12} I stole food for you
+Dialogue: 0,0:16:30.55,0:16:31.64,Default,,0000,0000,0000,,吃饭吧\N{\fn微软雅黑\fs12} Eat
+Dialogue: 0,0:16:32.99,0:16:33.89,Default,,0000,0000,0000,,好啊 吃啊 吃啊\N{\fn微软雅黑\fs12} Go on, eat\NEat
+Dialogue: 0,0:16:35.19,0:16:38.22,Default,,0000,0000,0000,,饿坏了吧 好不好吃啊 别吃太急\N{\fn微软雅黑\fs12} You must be hungry, eat up
+Dialogue: 0,0:16:41.50,0:16:46.99,Default,,0000,0000,0000,,希望你们香港警方能与我们合作\N{\fn微软雅黑\fs12} We hope that the Hong Kong police will cooperate with the French Investigators
+Dialogue: 0,0:16:47.00,0:16:48.70,Default,,0000,0000,0000,,捉拿这些盗贼吧\N{\fn微软雅黑\fs12} in stopping this crime
+Dialogue: 0,0:16:52.24,0:16:53.50,Default,,0000,0000,0000,,红豆 你过去扮要饭的\N{\fn微软雅黑\fs12} Cherie, you be the beggar
+Dialogue: 0,0:16:53.67,0:16:54.70,Default,,0000,0000,0000,,又是我呀\N{\fn微软雅黑\fs12} Me again?
+Dialogue: 0,0:16:54.71,0:16:56.01,Default,,0000,0000,0000,,去呀\N{\fn微软雅黑\fs12} Go on
+Dialogue: 0,0:16:56.81,0:16:57.37,Default,,0000,0000,0000,,你 去那边\N{\fn微软雅黑\fs12} Go over there
+Dialogue: 0,0:16:57.38,0:16:58.17,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:17:00.92,0:17:03.25,Default,,0000,0000,0000,,可怜可怜我呀 给我面包吧\N{\fn微软雅黑\fs12} Uncle can you give me some bread please
+Dialogue: 0,0:17:03.38,0:17:05.55,Default,,0000,0000,0000,,我好几天没有吃饭啦\N{\fn微软雅黑\fs12} I haven't eaten in days, please
+Dialogue: 0,0:17:05.55,0:17:06.58,Default,,0000,0000,0000,,没有啊 快走啊 臭要饭的\N{\fn微软雅黑\fs12} Go away, beggar
+Dialogue: 0,0:17:06.59,0:17:07.65,Default,,0000,0000,0000,,来 快走开 别妨碍我做生意啊\N{\fn微软雅黑\fs12} Don't bother me
+Dialogue: 0,0:17:07.66,0:17:09.25,Default,,0000,0000,0000,,给我面包吧\N{\fn微软雅黑\fs12} Please don't, please
+Dialogue: 0,0:17:09.26,0:17:10.16,Default,,0000,0000,0000,,可怜我呀\N{\fn微软雅黑\fs12} Go away
+Dialogue: 0,0:17:11.66,0:17:13.18,Default,,0000,0000,0000,,哎唷 你敢抽我屁股\N{\fn微软雅黑\fs12} Hey, you hit me
+Dialogue: 0,0:17:13.19,0:17:14.16,Default,,0000,0000,0000,,不是我呀 不是我呀\N{\fn微软雅黑\fs12} It's not me, it's not me
+Dialogue: 0,0:17:14.16,0:17:15.36,Default,,0000,0000,0000,,快走开\N{\fn微软雅黑\fs12} Go?
+Dialogue: 0,0:17:17.37,0:17:19.39,Default,,0000,0000,0000,,喂 还说不是你\N{\fn微软雅黑\fs12} You still deny it?
+Dialogue: 0,0:17:19.40,0:17:20.53,Default,,0000,0000,0000,,真的不是我 不是我呀\N{\fn微软雅黑\fs12} Really, it's not me
+Dialogue: 0,0:17:20.54,0:17:21.70,Default,,0000,0000,0000,,别捣乱 快走开\N{\fn微软雅黑\fs12} Let's get out of here
+Dialogue: 0,0:17:23.87,0:17:25.17,Default,,0000,0000,0000,,喂 你偷我的面包\N{\fn微软雅黑\fs12} You stole my bread
+Dialogue: 0,0:17:25.17,0:17:25.73,Default,,0000,0000,0000,,喂 快走\N{\fn微软雅黑\fs12} Hey, let's split
+Dialogue: 0,0:17:25.74,0:17:27.44,Default,,0000,0000,0000,,这是谁教你的 啊\N{\fn微软雅黑\fs12} You're so young, who taught you to steal?
+Dialogue: 0,0:17:27.68,0:17:28.33,Default,,0000,0000,0000,,你不要走呀\N{\fn微软雅黑\fs12} Stop!
+Dialogue: 0,0:17:28.44,0:17:28.93,Default,,0000,0000,0000,,红豆 快跑\N{\fn微软雅黑\fs12} Cherie, run!
+Dialogue: 0,0:17:28.94,0:17:29.57,Default,,0000,0000,0000,,还想走呀 小偷\N{\fn微软雅黑\fs12} You still want to run?
+Dialogue: 0,0:17:30.11,0:17:32.71,Default,,0000,0000,0000,,警察快抓住他们 他们三个偷我面包\N{\fn微软雅黑\fs12} Those three kids stole my bread, get them
+Dialogue: 0,0:17:38.69,0:17:42.55,Default,,0000,0000,0000,,阿婆啊 别着急 没人会抢你的\N{\fn微软雅黑\fs12} Lady, slow down, no one will take your bread away
+Dialogue: 0,0:17:42.76,0:17:44.25,Default,,0000,0000,0000,,有我们看着呢\N{\fn微软雅黑\fs12} We'll keep a look out
+Dialogue: 0,0:17:44.26,0:17:46.23,Default,,0000,0000,0000,,阿婆 好不好吃呀\N{\fn微软雅黑\fs12} Lady, is it good?
+Dialogue: 0,0:17:46.23,0:17:46.78,Default,,0000,0000,0000,,好吃\N{\fn微软雅黑\fs12} Very good
+Dialogue: 0,0:17:46.79,0:17:47.89,Default,,0000,0000,0000,,阿婆 你慢慢吃\N{\fn微软雅黑\fs12} Take your time,
+Dialogue: 0,0:17:51.27,0:17:52.13,Default,,0000,0000,0000,,多吃点啊\N{\fn微软雅黑\fs12} have more
+Dialogue: 0,0:17:52.37,0:17:53.89,Default,,0000,0000,0000,,哎 别跑 别跑\N{\fn微软雅黑\fs12} Hold it, come back
+Dialogue: 0,0:17:53.90,0:17:57.10,Default,,0000,0000,0000,,干什么 来来 回来\N{\fn微软雅黑\fs12} It hurts. come back
+Dialogue: 0,0:17:57.31,0:17:58.74,Default,,0000,0000,0000,,不关我们的事啊\N{\fn微软雅黑\fs12} What do you want? I didn't do anything
+Dialogue: 0,0:17:58.74,0:17:59.73,Default,,0000,0000,0000,,你不要抓他们\N{\fn微软雅黑\fs12} Don't catch them
+Dialogue: 0,0:17:59.74,0:18:00.90,Default,,0000,0000,0000,,我没有偷东西 不用怕\N{\fn微软雅黑\fs12} We didn't do anything? Don't worry,
+Dialogue: 0,0:18:00.91,0:18:03.78,Default,,0000,0000,0000,,不关我事 叔叔不会抓你们的\N{\fn微软雅黑\fs12} We're innocent I won't arrest you
+Dialogue: 0,0:18:05.28,0:18:07.54,Default,,0000,0000,0000,,我想 你们也都饿了吧\N{\fn微软雅黑\fs12} Well? You must be starving
+Dialogue: 0,0:18:07.55,0:18:08.71,Default,,0000,0000,0000,,是啊\N{\fn微软雅黑\fs12} Yeah
+Dialogue: 0,0:18:17.89,0:18:19.99,Default,,0000,0000,0000,,天气冷了 拿着去买件衣服\N{\fn微软雅黑\fs12} It's getting cold, get some clothes
+Dialogue: 0,0:18:23.50,0:18:25.66,Default,,0000,0000,0000,,哇 谢谢干爹\N{\fn微软雅黑\fs12} Thank you, Papa Thanks,papa
+Dialogue: 0,0:18:27.40,0:18:28.46,Default,,0000,0000,0000,,我没说收你们当干儿子\N{\fn微软雅黑\fs12} When did I become your papa?
+Dialogue: 0,0:18:28.84,0:18:30.10,Default,,0000,0000,0000,,有的吃就是干爹嘛 是啊\N{\fn微软雅黑\fs12} Whenever you gave us food
+Dialogue: 0,0:18:30.10,0:18:34.73,Default,,0000,0000,0000,,对啊 全世界就你一个人对我们最好了\N{\fn微软雅黑\fs12} You're the only one who has been nice to us
+Dialogue: 0,0:18:34.98,0:18:37.07,Default,,0000,0000,0000,,你们很肯帮助人 也是好人啊\N{\fn微软雅黑\fs12} You're not so bad yourselves
+Dialogue: 0,0:18:38.18,0:18:39.51,Default,,0000,0000,0000,,干脆你们长大了去考警察吧\N{\fn微软雅黑\fs12} Ever think of becoming policemen?
+Dialogue: 0,0:18:41.82,0:18:42.94,Default,,0000,0000,0000,,再说吧\N{\fn微软雅黑\fs12} Talk about it later
+Dialogue: 0,0:18:43.25,0:18:45.34,Default,,0000,0000,0000,,不一定要做警察才能帮助人啊\N{\fn微软雅黑\fs12} Don't have to be a policeman to help people
+Dialogue: 0,0:18:45.59,0:18:46.85,Default,,0000,0000,0000,,是啊 干爹\N{\fn微软雅黑\fs12} That's right, papa
+Dialogue: 0,0:18:49.42,0:18:52.36,Default,,0000,0000,0000,,总之 以后有什么困难就找叔叔\N{\fn微软雅黑\fs12} Whenever you're in trouble, come to me
+Dialogue: 0,0:18:52.83,0:18:53.92,Default,,0000,0000,0000,,不要再偷东西啦\N{\fn微软雅黑\fs12} Don't ever steal again
+Dialogue: 0,0:18:54.00,0:18:55.26,Default,,0000,0000,0000,,唔\N{\fn微软雅黑\fs12} Yes, sir
+Dialogue: 0,0:19:19.32,0:19:20.69,Default,,0000,0000,0000,,众里寻她千百度\N{\fn微软雅黑\fs12} How come the painter
+Dialogue: 0,0:19:20.69,0:19:22.95,Default,,0000,0000,0000,,蓦然回首\N{\fn微软雅黑\fs12} chose this lady as model
+Dialogue: 0,0:19:22.96,0:19:24.52,Default,,0000,0000,0000,,小妞已睡歪脖子\N{\fn微软雅黑\fs12} She looks like having a sprained neck
+Dialogue: 0,0:19:26.66,0:19:29.56,Default,,0000,0000,0000,,阿真 尝尝汤好不好喝\N{\fn微软雅黑\fs12} Jim, come and try the soup
+Dialogue: 0,0:19:29.56,0:19:31.00,Default,,0000,0000,0000,,熬了四个多小时 来\N{\fn微软雅黑\fs12} It's been boiling for 4 hours
+Dialogue: 0,0:19:33.80,0:19:34.53,Default,,0000,0000,0000,,怎么样\N{\fn微软雅黑\fs12} Well?
+Dialogue: 0,0:19:36.04,0:19:38.90,Default,,0000,0000,0000,,我不明白你熬了半天还是像罐头汤\N{\fn微软雅黑\fs12} Why does it taste like canned soup?
+Dialogue: 0,0:19:39.07,0:19:40.67,Default,,0000,0000,0000,,讨厌\N{\fn微软雅黑\fs12} Go to hell
+Dialogue: 0,0:19:56.89,0:20:04.27,Default,,0000,0000,0000,,恭祝你生日磕破头 还磕掉大门牙\N{\fn微软雅黑\fs12} Happy birthday to you
+Dialogue: 0,0:20:04.27,0:20:07.86,Default,,0000,0000,0000,,年年都要煮饭 岁岁都要熬汤\N{\fn微软雅黑\fs12} Happy birthday to dear Cherie
+Dialogue: 0,0:20:07.87,0:20:09.86,Default,,0000,0000,0000,,恭喜你\N{\fn微软雅黑\fs12} Happy birthday to you
+Dialogue: 0,0:20:09.87,0:20:11.86,Default,,0000,0000,0000,,恭喜你 你好漂亮哦\N{\fn微软雅黑\fs12} Congratulations, you look gorgeous
+Dialogue: 0,0:20:11.87,0:20:12.77,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks!
+Dialogue: 0,0:20:16.71,0:20:19.11,Default,,0000,0000,0000,,吶 今天我生日 我说了算\N{\fn微软雅黑\fs12} Today's my birthday, you do what I say
+Dialogue: 0,0:20:19.11,0:20:20.05,Default,,0000,0000,0000,,生日大哥大\N{\fn微软雅黑\fs12} Your birthday doesn't mean you're the boss
+Dialogue: 0,0:20:20.05,0:20:21.28,Default,,0000,0000,0000,,喝了这杯香槟之后\N{\fn微软雅黑\fs12} After this glass of champagne,
+Dialogue: 0,0:20:21.42,0:20:23.01,Default,,0000,0000,0000,,我们以后不再做贼了\N{\fn微软雅黑\fs12} we stop stealing
+Dialogue: 0,0:20:24.55,0:20:26.02,Default,,0000,0000,0000,,是 都希望这样\N{\fn微软雅黑\fs12} All agreed?
+Dialogue: 0,0:20:34.40,0:20:36.45,Default,,0000,0000,0000,,现在到了吹蜡烛的时候\N{\fn微软雅黑\fs12} Hey, blow out the candles
+Dialogue: 0,0:20:38.13,0:20:39.29,Default,,0000,0000,0000,,吹呀\N{\fn微软雅黑\fs12} Hurry HP
+Dialogue: 0,0:20:39.70,0:20:42.26,Default,,0000,0000,0000,,哎 先许个愿\N{\fn微软雅黑\fs12} Hey hey, make a wish first
+Dialogue: 0,0:20:42.27,0:20:43.76,Default,,0000,0000,0000,,许呀 许呀\N{\fn微软雅黑\fs12} Go on, go
+Dialogue: 0,0:20:43.77,0:20:44.57,Default,,0000,0000,0000,,嗯\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:20:46.04,0:20:47.44,Default,,0000,0000,0000,,我希望我们收山之后\N{\fn微软雅黑\fs12} I hope after we retire,
+Dialogue: 0,0:20:47.88,0:20:49.04,Default,,0000,0000,0000,,找一个太平的地方\N{\fn微软雅黑\fs12} we can live in peace
+Dialogue: 0,0:20:49.04,0:20:51.77,Default,,0000,0000,0000,,好咯 别说咯 蛋糕全凉咯\N{\fn微软雅黑\fs12} Look! That's enough, have some ice-cream!
+Dialogue: 0,0:20:56.38,0:20:57.91,Default,,0000,0000,0000,,哈哈哈 白毛女 白毛女\N{\fn微软雅黑\fs12} Hehe, Snow White, Snow White!
+Dialogue: 0,0:20:58.89,0:20:59.61,Default,,0000,0000,0000,,我帮你擦\N{\fn微软雅黑\fs12} Let me help you
+Dialogue: 0,0:21:05.89,0:21:07.45,Default,,0000,0000,0000,,你这次太过分了\N{\fn微软雅黑\fs12} Hey, you're going too fast
+Dialogue: 0,0:21:07.60,0:21:09.76,Default,,0000,0000,0000,,啊 要玩就要玩的痛快嘛\N{\fn微软雅黑\fs12} When I make a take, I go all the way
+Dialogue: 0,0:21:11.27,0:21:12.39,Default,,0000,0000,0000,,快去哄哄她\N{\fn微软雅黑\fs12} Make her feel better
+Dialogue: 0,0:21:12.60,0:21:13.73,Default,,0000,0000,0000,,哎 你也有份吶\N{\fn微软雅黑\fs12} Hey, that includes you too
+Dialogue: 0,0:21:13.80,0:21:15.33,Default,,0000,0000,0000,,她听你哄嘛\N{\fn微软雅黑\fs12} Come on, she listens to you
+Dialogue: 0,0:21:15.34,0:21:16.43,Default,,0000,0000,0000,,那我多糗啊\N{\fn微软雅黑\fs12} This is embarrassing
+Dialogue: 0,0:21:30.52,0:21:32.51,Default,,0000,0000,0000,,小小的红豆妹\N{\fn微软雅黑\fs12} Cherie, Cherie my love
+Dialogue: 0,0:21:34.46,0:21:37.25,Default,,0000,0000,0000,,你不是在生我阿海的气吧\N{\fn微软雅黑\fs12} Are you really mad at me?
+Dialogue: 0,0:21:39.69,0:21:43.13,Default,,0000,0000,0000,,你看 在水边的红豆\N{\fn微软雅黑\fs12} Look, my Cherie Amour
+Dialogue: 0,0:21:43.63,0:21:47.93,Default,,0000,0000,0000,,鹅蛋形的脸圆 哇塞 修长的上半身\N{\fn微软雅黑\fs12} You are my true loved one
+Dialogue: 0,0:21:47.94,0:21:50.20,Default,,0000,0000,0000,,那下半身就不必说咯\N{\fn微软雅黑\fs12} The only one I swear, bar none
+Dialogue: 0,0:21:50.64,0:21:53.33,Default,,0000,0000,0000,,你甜起来呢 会甜死人的\N{\fn微软雅黑\fs12} From head to foot need I say bun
+Dialogue: 0,0:21:53.81,0:21:58.68,Default,,0000,0000,0000,,你是一个非常非常会生养的优良品种\N{\fn微软雅黑\fs12} Beauty and charm is yours, to you I run
+Dialogue: 0,0:21:59.88,0:22:01.18,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} I'd never leave, even forced by gun
+Dialogue: 0,0:22:01.62,0:22:04.28,Default,,0000,0000,0000,,来嘛 红豆妹妹\N{\fn微软雅黑\fs12} I'd always want you, even if you were a nun
+Dialogue: 0,0:22:04.65,0:22:08.35,Default,,0000,0000,0000,,你爱浪漫没问题 我带你去浪漫\N{\fn微软雅黑\fs12} With you I know my search is done
+Dialogue: 0,0:22:08.36,0:22:10.62,Default,,0000,0000,0000,,你爱看戏 我带你去看戏\N{\fn微软雅黑\fs12} Only you bring my luck and lots of fun
+Dialogue: 0,0:22:10.62,0:22:13.35,Default,,0000,0000,0000,,你爱做明星 我带你去做明星\N{\fn微软雅黑\fs12} I'll love you always, as long as there is a sun
+Dialogue: 0,0:22:13.63,0:22:16.19,Default,,0000,0000,0000,,很多大导演都是我的好朋友\N{\fn微软雅黑\fs12} You are my true loved one
+Dialogue: 0,0:22:16.73,0:22:19.53,Default,,0000,0000,0000,,来 坐下去 不要害怕嘛\N{\fn微软雅黑\fs12} The only one I swear, bar none
+Dialogue: 0,0:22:20.00,0:22:21.13,Default,,0000,0000,0000,,坐下去嘛 坐呀\N{\fn微软雅黑\fs12} From head to foot need I say bun
+Dialogue: 0,0:22:21.30,0:22:24.83,Default,,0000,0000,0000,,我们演戏给自己看 我们演爱人\N{\fn微软雅黑\fs12} Beauty and charm is yours, to you I run
+Dialogue: 0,0:22:25.24,0:22:31.85,Default,,0000,0000,0000,,你是我的月亮 我的太阳 你叫我上刀山我就上刀山\N{\fn微软雅黑\fs12} I'd never leave, even forced by gun
+Dialogue: 0,0:22:31.85,0:22:34.21,Default,,0000,0000,0000,,叫我下火海我就下火海\N{\fn微软雅黑\fs12} I'd always want to you, even if you were a nun
+Dialogue: 0,0:22:34.48,0:22:39.32,Default,,0000,0000,0000,,要生我们一起生 要死我们一起死\N{\fn微软雅黑\fs12} With you I know my search is done
+Dialogue: 0,0:22:39.32,0:22:42.08,Default,,0000,0000,0000,,我爱你 你不爱我 我爱你 还是你先去死吧\N{\fn微软雅黑\fs12} Only you bring my luck and lots of fun
+Dialogue: 0,0:22:44.53,0:22:45.72,Default,,0000,0000,0000,,啊 我死啦\N{\fn微软雅黑\fs12} Ah, I'm drowning
+Dialogue: 0,0:22:47.70,0:22:49.72,Default,,0000,0000,0000,,啊 你要死啊 踢我下水\N{\fn微软雅黑\fs12} How dare you kick me?
+Dialogue: 0,0:22:49.86,0:22:51.76,Default,,0000,0000,0000,,我不是有意的 有东西射到我脚啦\N{\fn微软雅黑\fs12} It's not me, something hit my leg
+Dialogue: 0,0:22:51.93,0:22:52.40,Default,,0000,0000,0000,,还不拉我上去\N{\fn微软雅黑\fs12} Let me out of here
+Dialogue: 0,0:22:52.40,0:22:53.16,Default,,0000,0000,0000,,上来啊 上来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:22:54.77,0:22:56.53,Default,,0000,0000,0000,,快走啊 还不快走 全都是你\N{\fn微软雅黑\fs12} Let's go, come on
+Dialogue: 0,0:22:57.04,0:23:00.23,Default,,0000,0000,0000,,臭小子 串通好了 整我 你别走\N{\fn微软雅黑\fs12} You fooled me with her! Don't go
+Dialogue: 0,0:23:08.05,0:23:10.38,Default,,0000,0000,0000,,阿贵 将来你老了\N{\fn微软雅黑\fs12} Joe, where do you want to be
+Dialogue: 0,0:23:10.38,0:23:11.61,Default,,0000,0000,0000,,去哪儿安度晚年啊\N{\fn微软雅黑\fs12} when you get old?
+Dialogue: 0,0:23:11.85,0:23:13.58,Default,,0000,0000,0000,,我住破茅屋也没关系\N{\fn微软雅黑\fs12} Anywhere is fine with me
+Dialogue: 0,0:23:13.59,0:23:14.92,Default,,0000,0000,0000,,不知道红豆怎么样 啊\N{\fn微软雅黑\fs12} But, how about you?
+Dialogue: 0,0:23:15.22,0:23:17.05,Default,,0000,0000,0000,,我最希望可以住个不打仗的地方\N{\fn微软雅黑\fs12} I first want to live in peace and quiet
+Dialogue: 0,0:23:17.09,0:23:20.18,Default,,0000,0000,0000,,伊拉克 伊拉克最太平啦\N{\fn微软雅黑\fs12} Iran is peaceful
+Dialogue: 0,0:23:20.19,0:23:21.13,Default,,0000,0000,0000,,不然就住上天堂\N{\fn微软雅黑\fs12} Heaven is pretty
+Dialogue: 0,0:23:21.13,0:23:22.46,Default,,0000,0000,0000,,天堂的空气最清新呀\N{\fn微软雅黑\fs12} peaceful too
+Dialogue: 0,0:23:22.56,0:23:23.86,Default,,0000,0000,0000,,讨厌\N{\fn微软雅黑\fs12} Assholes
+Dialogue: 0,0:23:31.94,0:23:33.20,Default,,0000,0000,0000,,我们东奔西跑\N{\fn微软雅黑\fs12} We're always on the move
+Dialogue: 0,0:23:33.21,0:23:35.11,Default,,0000,0000,0000,,真应该找一个地方落脚\N{\fn微软雅黑\fs12} We should try to find a place to settle down
+Dialogue: 0,0:23:35.11,0:23:37.70,Default,,0000,0000,0000,,诶 吉姆兄 话不能这么说\N{\fn微软雅黑\fs12} Yeah but that's not the point
+Dialogue: 0,0:23:37.78,0:23:40.78,Default,,0000,0000,0000,,正所谓千古江山 英雄无觅处\N{\fn微软雅黑\fs12} The Universe is endless, the Brave are always searching
+Dialogue: 0,0:23:40.92,0:23:45.61,Default,,0000,0000,0000,,舞谢歌台 风流总被雨打风吹去\N{\fn微软雅黑\fs12} For some happiness, however fleeting it may be
+Dialogue: 0,0:23:45.62,0:23:47.64,Default,,0000,0000,0000,,哎 真想念香港\N{\fn微软雅黑\fs12} Actually I miss Hong Kong
+Dialogue: 0,0:23:48.66,0:23:50.21,Default,,0000,0000,0000,,想马上回去吃碗馄饨面\N{\fn微软雅黑\fs12} I miss Wonton Noodles
+Dialogue: 0,0:23:50.29,0:23:51.82,Default,,0000,0000,0000,,我也怀念台南蛋仔面\N{\fn微软雅黑\fs12} And Yuen Long Cakes
+Dialogue: 0,0:23:52.43,0:23:55.49,Default,,0000,0000,0000,,深井的烧鹅 避风塘的虾蟹\N{\fn微软雅黑\fs12} Shen Zheng fued goose, Causeway Bay seafood
+Dialogue: 0,0:23:55.50,0:23:56.66,Default,,0000,0000,0000,,我忘不了香港的夜色\N{\fn微软雅黑\fs12} Sheung Wan's egg cakes
+Dialogue: 0,0:23:56.66,0:23:58.39,Default,,0000,0000,0000,,还有阿里山的日出也很浪漫\N{\fn微软雅黑\fs12} Also Stanley's jeans
+Dialogue: 0,0:23:58.40,0:24:05.07,Default,,0000,0000,0000,,阿里山地姑娘美如水呀 阿里山地少年壮如山\N{\fn微软雅黑\fs12} Yes, Queen's Rd East, Queen's Rd West
+Dialogue: 0,0:24:07.01,0:24:07.47,Default,,0000,0000,0000,,漂亮吗 漂亮\N{\fn微软雅黑\fs12} Isn't it gorgeous here? Yes
+Dialogue: 0,0:24:07.47,0:24:09.07,Default,,0000,0000,0000,,我先下去巡视一下业务\N{\fn微软雅黑\fs12} Let's check it out
+Dialogue: 0,0:24:11.98,0:24:14.61,Default,,0000,0000,0000,,青霞 丽君\N{\fn微软雅黑\fs12} Brigitte Barkot, Gina Lollo brigida
+Dialogue: 0,0:24:16.82,0:24:18.28,Default,,0000,0000,0000,,瞎嚷什么\N{\fn微软雅黑\fs12} What are you yelling at?
+Dialogue: 0,0:24:18.35,0:24:21.01,Default,,0000,0000,0000,,我想看看林青霞和邓丽君在不在\N{\fn微软雅黑\fs12} I just want to check if those two women were here
+Dialogue: 0,0:24:21.36,0:24:22.01,Default,,0000,0000,0000,,什么\N{\fn微软雅黑\fs12} What are you saying?
+Dialogue: 0,0:24:22.02,0:24:23.28,Default,,0000,0000,0000,,你没看报纸吗\N{\fn微软雅黑\fs12} Didn't you see the paper?
+Dialogue: 0,0:24:23.49,0:24:27.52,Default,,0000,0000,0000,,她们最喜欢到康城来 脱光了衣服游泳了\N{\fn微软雅黑\fs12} They said they always sunbathe here
+Dialogue: 0,0:24:27.53,0:24:28.76,Default,,0000,0000,0000,,我想找她们签个名嘛\N{\fn微软雅黑\fs12} I want their autograph
+Dialogue: 0,0:24:29.36,0:24:31.52,Default,,0000,0000,0000,,她们把衣服都脱光了 哪还有笔呀\N{\fn微软雅黑\fs12} How can they have pens if they're naked?
+Dialogue: 0,0:24:32.10,0:24:33.00,Default,,0000,0000,0000,,走啦\N{\fn微软雅黑\fs12} Let's go, DOM
+Dialogue: 0,0:24:33.00,0:24:33.97,Default,,0000,0000,0000,,我有啊\N{\fn微软雅黑\fs12} I have one!
+Dialogue: 0,0:24:40.84,0:24:42.81,Default,,0000,0000,0000,,宝叔\N{\fn微软雅黑\fs12} Hi!
+Dialogue: 0,0:24:50.28,0:24:51.55,Default,,0000,0000,0000,,你好吗\N{\fn微软雅黑\fs12} How are you?
+Dialogue: 0,0:24:56.86,0:24:58.29,Default,,0000,0000,0000,,你好红豆 你好\N{\fn微软雅黑\fs12} Hello Cherie Hello
+Dialogue: 0,0:24:58.83,0:24:59.79,Default,,0000,0000,0000,,欢迎名人阿真\N{\fn微软雅黑\fs12} Joe, Jim, welcome
+Dialogue: 0,0:24:59.79,0:25:01.16,Default,,0000,0000,0000,,你好\N{\fn微软雅黑\fs12} How are you
+Dialogue: 0,0:25:01.33,0:25:02.89,Default,,0000,0000,0000,,啊 什么这样的\N{\fn微软雅黑\fs12} Ah, how come?
+Dialogue: 0,0:25:04.83,0:25:05.53,Default,,0000,0000,0000,,多少钱\N{\fn微软雅黑\fs12} How much?
+Dialogue: 0,0:25:07.17,0:25:08.16,Default,,0000,0000,0000,,五十万\N{\fn微软雅黑\fs12} Half a million
+Dialogue: 0,0:25:09.00,0:25:09.90,Default,,0000,0000,0000,,太贵了\N{\fn微软雅黑\fs12} Too expensive,
+Dialogue: 0,0:25:10.40,0:25:13.17,Default,,0000,0000,0000,,这幅画不值这么多钱 四十万吧\N{\fn微软雅黑\fs12} the painting only worths 400,000
+Dialogue: 0,0:25:14.51,0:25:16.03,Default,,0000,0000,0000,,他说太贵了 四十万\N{\fn微软雅黑\fs12} He said it's too expensive, 400,000
+Dialogue: 0,0:25:18.85,0:25:20.07,Default,,0000,0000,0000,,帮我问候他亲爱的妈妈\N{\fn微软雅黑\fs12} Tell him he's a motherfucker
+Dialogue: 0,0:25:20.75,0:25:21.84,Default,,0000,0000,0000,,怎么说啊\N{\fn微软雅黑\fs12} What is he saying?
+Dialogue: 0,0:25:22.15,0:25:23.21,Default,,0000,0000,0000,,直说啊\N{\fn微软雅黑\fs12} Go on
+Dialogue: 0,0:25:24.08,0:25:30.22,Default,,0000,0000,0000,,我是想说这个 你妈妈在哪呢\N{\fn微软雅黑\fs12} I want to ask you "Where's your mother?"
+Dialogue: 0,0:25:30.49,0:25:32.43,Default,,0000,0000,0000,,我想问候她老人家\N{\fn微软雅黑\fs12} I want to say hello to her
+Dialogue: 0,0:25:33.16,0:25:35.03,Default,,0000,0000,0000,,她很好 多谢关心\N{\fn微软雅黑\fs12} She's fine, thank you very much
+Dialogue: 0,0:25:35.23,0:25:36.25,Default,,0000,0000,0000,,不用客气\N{\fn微软雅黑\fs12} You are welcome
+Dialogue: 0,0:25:37.60,0:25:39.23,Default,,0000,0000,0000,,告诉他一分也不能减\N{\fn微软雅黑\fs12} Tell him, not a penny less
+Dialogue: 0,0:25:40.40,0:25:42.43,Default,,0000,0000,0000,,五十万 他说可以\N{\fn微软雅黑\fs12} Half a million, no discount
+Dialogue: 0,0:25:42.74,0:25:43.76,Default,,0000,0000,0000,,完啦\N{\fn微软雅黑\fs12} OK, it's deal
+Dialogue: 0,0:25:46.71,0:25:47.87,Default,,0000,0000,0000,,五十万 他说好\N{\fn微软雅黑\fs12} Half a million, he agreed
+Dialogue: 0,0:25:48.58,0:25:49.51,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} VOILA Great
+Dialogue: 0,0:25:50.44,0:25:53.68,Default,,0000,0000,0000,,我出二百万美金\N{\fn微软雅黑\fs12} Steal this painting for me,
+Dialogue: 0,0:25:54.21,0:25:55.44,Default,,0000,0000,0000,,请你们帮我偷一幅画\N{\fn微软雅黑\fs12} I gave you 2 million
+Dialogue: 0,0:25:56.92,0:25:57.88,Default,,0000,0000,0000,,他说什么\N{\fn微软雅黑\fs12} Please translate. Thank you
+Dialogue: 0,0:25:58.35,0:26:00.72,Default,,0000,0000,0000,,他说你们偷到这幅画他给二百万\N{\fn微软雅黑\fs12} He offered you 2 million to steal a painting
+Dialogue: 0,0:26:00.72,0:26:01.92,Default,,0000,0000,0000,,哇 二百万\N{\fn微软雅黑\fs12} 2 million?
+Dialogue: 0,0:26:02.09,0:26:03.72,Default,,0000,0000,0000,,你们说过不再偷了\N{\fn微软雅黑\fs12} But you both promised not to steal any more?
+Dialogue: 0,0:26:04.22,0:26:05.12,Default,,0000,0000,0000,,你曾经说过吗\N{\fn微软雅黑\fs12} Did I say that?
+Dialogue: 0,0:26:05.39,0:26:06.69,Default,,0000,0000,0000,,我好像没说过\N{\fn微软雅黑\fs12} I don't remember saying that
+Dialogue: 0,0:26:06.86,0:26:09.06,Default,,0000,0000,0000,,喂 你们不可以说话不算数啊\N{\fn微软雅黑\fs12} You can't break your promise
+Dialogue: 0,0:26:09.23,0:26:11.63,Default,,0000,0000,0000,,这幅画是存放在尼斯一个古堡内\N{\fn微软雅黑\fs12} This painting is in a castle in Nice
+Dialogue: 0,0:26:12.13,0:26:14.57,Default,,0000,0000,0000,,画的背后是有一个爱情故事的\N{\fn微软雅黑\fs12} There's also a love story attached to it
+Dialogue: 0,0:26:14.70,0:26:17.07,Default,,0000,0000,0000,,画中的女郎是画家的爱人\N{\fn微软雅黑\fs12} The lady in the painting was the painter's lover
+Dialogue: 0,0:26:17.24,0:26:19.76,Default,,0000,0000,0000,,那画家画完这幅画就死了\N{\fn微软雅黑\fs12} The painter died soon after finishing the painting
+Dialogue: 0,0:26:19.91,0:26:22.24,Default,,0000,0000,0000,,他的灵魂就附进这画里面\N{\fn微软雅黑\fs12} and it's haunted
+Dialogue: 0,0:26:22.44,0:26:24.64,Default,,0000,0000,0000,,所以此画很邪\N{\fn微软雅黑\fs12} by his soul
+Dialogue: 0,0:26:24.78,0:26:30.44,Default,,0000,0000,0000,,谁能偷到此画便能声名大噪\N{\fn微软雅黑\fs12} Any self-respecting thief would be proud to steal it,
+Dialogue: 0,0:26:30.92,0:26:33.15,Default,,0000,0000,0000,,但是画从来没有\N{\fn微软雅黑\fs12} but it's never...
+Dialogue: 0,0:26:33.15,0:26:35.95,Default,,0000,0000,0000,,离开过古堡\N{\fn微软雅黑\fs12} left the castle Whoever manages it will be famous for you it's a challenge
+Dialogue: 0,0:26:36.12,0:26:39.06,Default,,0000,0000,0000,,真他妈啰嗦 说什么呢\N{\fn微软雅黑\fs12} Such a long speech, what did he say?
+Dialogue: 0,0:26:39.66,0:26:40.65,Default,,0000,0000,0000,,我不想说\N{\fn微软雅黑\fs12} I don't want to tell you
+Dialogue: 0,0:26:40.83,0:26:41.76,Default,,0000,0000,0000,,说啊\N{\fn微软雅黑\fs12} Tell me
+Dialogue: 0,0:26:41.96,0:26:43.22,Default,,0000,0000,0000,,说哎\N{\fn微软雅黑\fs12} Tell us
+Dialogue: 0,0:26:45.17,0:26:47.96,Default,,0000,0000,0000,,他说这幅画很邪 谁偷到手谁就死\N{\fn微软雅黑\fs12} He said this painting is evil, whoever steals it will die
+Dialogue: 0,0:26:49.00,0:26:52.10,Default,,0000,0000,0000,,你们到底怎样 说啊\N{\fn微软雅黑\fs12} So what do we do?
+Dialogue: 0,0:26:52.11,0:26:52.94,Default,,0000,0000,0000,,哎\N{\fn微软雅黑\fs12} Hey!
+Dialogue: 0,0:26:53.31,0:26:54.07,Default,,0000,0000,0000,,怎么样\N{\fn微软雅黑\fs12} Well?
+Dialogue: 0,0:26:54.44,0:26:55.31,Default,,0000,0000,0000,,杀\N{\fn微软雅黑\fs12} Do it
+Dialogue: 0,0:26:56.01,0:26:56.91,Default,,0000,0000,0000,,杀\N{\fn微软雅黑\fs12} Do it?
+Dialogue: 0,0:26:56.98,0:26:58.27,Default,,0000,0000,0000,,杀\N{\fn微软雅黑\fs12} Do it?
+Dialogue: 0,0:26:58.28,0:26:58.97,Default,,0000,0000,0000,,啊\N{\fn微软雅黑\fs12} Ah...
+Dialogue: 0,0:26:59.51,0:27:02.41,Default,,0000,0000,0000,,对不起 我们已经决定退休了\N{\fn微软雅黑\fs12} Sorry, we've already retired
+Dialogue: 0,0:27:02.98,0:27:03.78,Default,,0000,0000,0000,,你们真的决定退休\N{\fn微软雅黑\fs12} Is that true?
+Dialogue: 0,0:27:05.25,0:27:06.69,Default,,0000,0000,0000,,问你们是不是真的有信心\N{\fn微软雅黑\fs12} He asked if you're sure you can do it?
+Dialogue: 0,0:27:07.29,0:27:11.25,Default,,0000,0000,0000,,当然 当然\N{\fn微软雅黑\fs12} Sure, Yeah... Yeah...
+Dialogue: 0,0:27:11.99,0:27:14.59,Default,,0000,0000,0000,,好吧 不做就算了 真可惜\N{\fn微软雅黑\fs12} OK, forget it, I'm really sorry
+Dialogue: 0,0:27:15.16,0:27:16.09,Default,,0000,0000,0000,,他说叫我们先走\N{\fn微软雅黑\fs12} He said we can go now
+Dialogue: 0,0:27:16.10,0:27:17.36,Default,,0000,0000,0000,,哎 不用收订金了吗\N{\fn微软雅黑\fs12} Hey, what about the deposit?
+Dialogue: 0,0:27:17.50,0:27:19.13,Default,,0000,0000,0000,,他说改天再联络\N{\fn微软雅黑\fs12} They will contact us
+Dialogue: 0,0:27:19.37,0:27:21.63,Default,,0000,0000,0000,,啊 那也喝一杯再走嘛\N{\fn微软雅黑\fs12} Hey, let's have a drink first
+Dialogue: 0,0:27:25.87,0:27:26.84,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} Bye
+Dialogue: 0,0:27:31.48,0:27:33.64,Default,,0000,0000,0000,,多谢再见 再见\N{\fn微软雅黑\fs12} Thanks,bye
+Dialogue: 0,0:27:40.55,0:27:41.61,Default,,0000,0000,0000,,你一定会做的\N{\fn微软雅黑\fs12} It's working
+Dialogue: 0,0:27:41.62,0:27:43.32,Default,,0000,0000,0000,,老爷 香港长途电话\N{\fn微软雅黑\fs12} A call from Hong Kong, sir
+Dialogue: 0,0:27:43.32,0:27:47.38,Default,,0000,0000,0000,,谢谢 MR CHOW\N{\fn微软雅黑\fs12} Hello, Mr Chow!
+Dialogue: 0,0:27:47.79,0:27:50.02,Default,,0000,0000,0000,,喂 巴顿先生 有没有问题\N{\fn微软雅黑\fs12} Hello, Mr Burton, any problem?
+Dialogue: 0,0:27:50.13,0:27:52.29,Default,,0000,0000,0000,,没问题 他们会做的\N{\fn微软雅黑\fs12} No problem, just do it
+Dialogue: 0,0:27:52.97,0:27:54.02,Default,,0000,0000,0000,,十分好\N{\fn微软雅黑\fs12} Very good
+Dialogue: 0,0:28:06.21,0:28:07.48,Default,,0000,0000,0000,,红豆 见到阿真了吗\N{\fn微软雅黑\fs12} Cherie, did you see Jim?
+Dialogue: 0,0:28:07.98,0:28:09.07,Default,,0000,0000,0000,,不知道去哪了\N{\fn微软雅黑\fs12} I don't know where he went?
+Dialogue: 0,0:28:09.08,0:28:11.98,Default,,0000,0000,0000,,他的工具都不在 会不会是去\N{\fn微软雅黑\fs12} His "work" tools have disappeared too, do you think...
+Dialogue: 0,0:28:11.99,0:28:12.85,Default,,0000,0000,0000,,这小子\N{\fn微软雅黑\fs12} Shit!
+Dialogue: 0,0:28:34.44,0:28:35.34,Default,,0000,0000,0000,,不要去\N{\fn微软雅黑\fs12} Please don't go
+Dialogue: 0,0:28:36.58,0:28:38.24,Default,,0000,0000,0000,,他没有我怎么行呢\N{\fn微软雅黑\fs12} He can't do a thing without me
+Dialogue: 0,0:28:39.18,0:28:40.20,Default,,0000,0000,0000,,他不会有事\N{\fn微软雅黑\fs12} He'll be fine
+Dialogue: 0,0:28:41.08,0:28:42.24,Default,,0000,0000,0000,,我就怕他有事\N{\fn微软雅黑\fs12} I'm afraid he'll get into trouble
+Dialogue: 0,0:28:46.25,0:28:47.35,Default,,0000,0000,0000,,我就知道你会去\N{\fn微软雅黑\fs12} I knew you'd do this
+Dialogue: 0,0:28:49.26,0:28:50.88,Default,,0000,0000,0000,,你们俩最好平安回来\N{\fn微软雅黑\fs12} You two better come back safe and sound
+Dialogue: 0,0:29:01.60,0:29:03.87,Default,,0000,0000,0000,,哎 我现在就去 你收拾东西\N{\fn微软雅黑\fs12} I'm going, you go pack up
+Dialogue: 0,0:29:03.87,0:29:06.13,Default,,0000,0000,0000,,明天早上九点钟 是九点钟\N{\fn微软雅黑\fs12} Remember tomorrow morning 9 o'clock
+Dialogue: 0,0:29:06.14,0:29:08.07,Default,,0000,0000,0000,,你在康城的那个小机场等我们\N{\fn微软雅黑\fs12} Wait for me at Cannes airport
+Dialogue: 0,0:29:08.08,0:29:10.94,Default,,0000,0000,0000,,记着订好三张机票 是三张机票\N{\fn微软雅黑\fs12} Book 3 tickets, 3 tickets
+Dialogue: 0,0:29:13.98,0:29:15.21,Default,,0000,0000,0000,,又怎么样\N{\fn微软雅黑\fs12} And then what?
+Dialogue: 0,0:29:15.98,0:29:17.92,Default,,0000,0000,0000,,答应我 这是真正的最后一次\N{\fn微软雅黑\fs12} Promise me this will be the last time
+Dialogue: 0,0:29:19.95,0:29:22.22,Default,,0000,0000,0000,,哎呀 你好烦吶\N{\fn微软雅黑\fs12} You're such a pain!
+Dialogue: 0,0:31:21.61,0:31:22.44,Default,,0000,0000,0000,,你怎么会在这\N{\fn微软雅黑\fs12} What are you doing here?
+Dialogue: 0,0:31:22.44,0:31:23.57,Default,,0000,0000,0000,,没我怎么能成局呢\N{\fn微软雅黑\fs12} It takes turn to tango
+Dialogue: 0,0:31:41.56,0:31:45.76,Default,,0000,0000,0000,,哎 没这么容易 可能有机关\N{\fn微软雅黑\fs12} Hey, it's too quiet, must be traps
+Dialogue: 0,0:31:46.30,0:31:48.36,Default,,0000,0000,0000,,是啊 可能会乱箭齐飞\N{\fn微软雅黑\fs12} Yeah, like lots of trap-wires
+Dialogue: 0,0:31:48.37,0:31:49.43,Default,,0000,0000,0000,,或者埋了地雷了\N{\fn微软雅黑\fs12} and arrows
+Dialogue: 0,0:31:50.74,0:31:51.60,Default,,0000,0000,0000,,试试就知道了\N{\fn微软雅黑\fs12} Let's check it out
+Dialogue: 0,0:31:51.74,0:31:52.60,Default,,0000,0000,0000,,唔\N{\fn微软雅黑\fs12} Um
+Dialogue: 0,0:32:07.09,0:32:08.28,Default,,0000,0000,0000,,什么也没有\N{\fn微软雅黑\fs12} Nothing
+Dialogue: 0,0:32:15.00,0:32:16.29,Default,,0000,0000,0000,,石室的大门在这\N{\fn微软雅黑\fs12} Here's the stone gate,
+Dialogue: 0,0:32:16.96,0:32:18.26,Default,,0000,0000,0000,,开关在什么地方\N{\fn微软雅黑\fs12} wonder where is the switch?
+Dialogue: 0,0:32:19.33,0:32:21.96,Default,,0000,0000,0000,,通常最不起眼的地方就是装机关的地方\N{\fn微软雅黑\fs12} For sure it's well hidden
+Dialogue: 0,0:32:23.30,0:32:24.27,Default,,0000,0000,0000,,你说什么\N{\fn微软雅黑\fs12} What are you saying?
+Dialogue: 0,0:32:27.01,0:32:30.94,Default,,0000,0000,0000,,搞什么鬼 哎 这里每幅画都过千万\N{\fn微软雅黑\fs12} I don't believe it! They hid this precious painting here?
+Dialogue: 0,0:32:31.41,0:32:32.64,Default,,0000,0000,0000,,不可能酒这么便宜\N{\fn微软雅黑\fs12} These are all cheap wines!
+Dialogue: 0,0:32:35.25,0:32:36.15,Default,,0000,0000,0000,,装门锁\N{\fn微软雅黑\fs12} The hidden must be the most obvious
+Dialogue: 0,0:32:49.43,0:32:51.12,Default,,0000,0000,0000,,哎 这根好长呀\N{\fn微软雅黑\fs12} Hey, how come it's so long?
+Dialogue: 0,0:32:58.44,0:33:00.46,Default,,0000,0000,0000,,进去吧 哼哼\N{\fn微软雅黑\fs12} Let's go!
+Dialogue: 0,0:33:21.36,0:33:22.62,Default,,0000,0000,0000,,找到了\N{\fn微软雅黑\fs12} It's you
+Dialogue: 0,0:33:25.23,0:33:27.33,Default,,0000,0000,0000,,喂 看见了没有\N{\fn微软雅黑\fs12} Hey, did you see that?
+Dialogue: 0,0:33:29.37,0:33:30.39,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hey
+Dialogue: 0,0:33:38.08,0:33:39.51,Default,,0000,0000,0000,,哎呀 糟糕 哪根呢\N{\fn微软雅黑\fs12} Damn, which one?
+Dialogue: 0,0:33:46.55,0:33:48.58,Default,,0000,0000,0000,,哎呀 原来这个东西是会缩回去的\N{\fn微软雅黑\fs12} Hey, it moved by itself
+Dialogue: 0,0:33:49.02,0:33:50.01,Default,,0000,0000,0000,,是啊\N{\fn微软雅黑\fs12} Yeah,yeah
+Dialogue: 0,0:33:50.99,0:33:51.51,Default,,0000,0000,0000,,会缩的\N{\fn微软雅黑\fs12} It goes back
+Dialogue: 0,0:33:51.53,0:33:52.39,Default,,0000,0000,0000,,快点呀\N{\fn微软雅黑\fs12} Hurry HP
+Dialogue: 0,0:34:13.05,0:34:13.94,Default,,0000,0000,0000,,看什么看\N{\fn微软雅黑\fs12} What is it?
+Dialogue: 0,0:34:18.62,0:34:19.88,Default,,0000,0000,0000,,哎哟 干什么嘛\N{\fn微软雅黑\fs12} What are you doing?
+Dialogue: 0,0:34:26.23,0:34:27.02,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hey
+Dialogue: 0,0:34:30.63,0:34:32.62,Default,,0000,0000,0000,,这个地台就算没有红外线也有几千瓦特电\N{\fn微软雅黑\fs12} May not be laser beams, but electricity, yes!
+Dialogue: 0,0:34:40.74,0:34:42.44,Default,,0000,0000,0000,,忽然阴风阵阵啊\N{\fn微软雅黑\fs12} God, so windy
+Dialogue: 0,0:34:43.61,0:34:44.91,Default,,0000,0000,0000,,搞气氛嘛\N{\fn微软雅黑\fs12} It's for effect!
+Dialogue: 0,0:34:45.41,0:34:46.21,Default,,0000,0000,0000,,嗯\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:34:55.06,0:34:55.71,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:35:21.01,0:35:21.84,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:35:22.12,0:35:24.32,Default,,0000,0000,0000,,小心\N{\fn微软雅黑\fs12} Careful.
+Dialogue: 0,0:35:27.12,0:35:29.62,Default,,0000,0000,0000,,又一个\N{\fn微软雅黑\fs12} Another.
+Dialogue: 0,0:35:33.13,0:35:34.92,Default,,0000,0000,0000,,接着啊\N{\fn微软雅黑\fs12} Here OK
+Dialogue: 0,0:35:38.20,0:35:38.66,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:35:38.67,0:35:39.69,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:35:48.64,0:35:51.01,Default,,0000,0000,0000,,小心点 想死啊\N{\fn微软雅黑\fs12} Hey, careful, want me to die
+Dialogue: 0,0:35:51.14,0:35:52.94,Default,,0000,0000,0000,,你怎么死重死重的啊\N{\fn微软雅黑\fs12} How come you're so heavy
+Dialogue: 0,0:35:52.95,0:35:54.85,Default,,0000,0000,0000,,今天没大便嘛 上去啊\N{\fn微软雅黑\fs12} I eat a lot. Pull me up
+Dialogue: 0,0:35:57.88,0:35:59.44,Default,,0000,0000,0000,,我叫你上去 你还下来\N{\fn微软雅黑\fs12} I said pull me up, not down Want me to die?
+Dialogue: 0,0:35:59.69,0:36:01.18,Default,,0000,0000,0000,,用了吃奶的力了\N{\fn微软雅黑\fs12} Hold tight
+Dialogue: 0,0:36:03.46,0:36:05.15,Default,,0000,0000,0000,,快上啊\N{\fn微软雅黑\fs12} Pull me up
+Dialogue: 0,0:36:05.89,0:36:06.82,Default,,0000,0000,0000,,你别放屁啊\N{\fn微软雅黑\fs12} Don't you fart
+Dialogue: 0,0:36:14.34,0:36:15.96,Default,,0000,0000,0000,,大点力\N{\fn微软雅黑\fs12} Harder
+Dialogue: 0,0:36:16.67,0:36:17.57,Default,,0000,0000,0000,,行了吗\N{\fn微软雅黑\fs12} Did you get it?
+Dialogue: 0,0:36:17.57,0:36:18.47,Default,,0000,0000,0000,,快了\N{\fn微软雅黑\fs12} Almost
+Dialogue: 0,0:36:22.74,0:36:23.71,Default,,0000,0000,0000,,碰到没有\N{\fn微软雅黑\fs12} Did you touch it?
+Dialogue: 0,0:36:23.81,0:36:27.04,Default,,0000,0000,0000,,碰到啦 再大点力\N{\fn微软雅黑\fs12} Yeah, harder
+Dialogue: 0,0:36:28.72,0:36:29.70,Default,,0000,0000,0000,,差一点\N{\fn微软雅黑\fs12} Almost got it
+Dialogue: 0,0:36:32.22,0:36:33.35,Default,,0000,0000,0000,,行啦\N{\fn微软雅黑\fs12} Got it
+Dialogue: 0,0:36:36.42,0:36:37.22,Default,,0000,0000,0000,,准备\N{\fn微软雅黑\fs12} Ready
+Dialogue: 0,0:36:38.86,0:36:39.72,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:36:39.93,0:36:41.05,Default,,0000,0000,0000,,放\N{\fn微软雅黑\fs12} Go Let's go
+Dialogue: 0,0:36:50.54,0:36:53.40,Default,,0000,0000,0000,,你的臭鞋还要不要\N{\fn微软雅黑\fs12} Hey. Do you still want your shoes?
+Dialogue: 0,0:36:53.41,0:36:55.53,Default,,0000,0000,0000,,太棒了 是真迹\N{\fn微软雅黑\fs12} We made it, it's the real thing
+Dialogue: 0,0:36:55.64,0:36:57.27,Default,,0000,0000,0000,,我就快脑充血啦\N{\fn微软雅黑\fs12} My blood is all going to my head
+Dialogue: 0,0:36:59.08,0:37:03.75,Default,,0000,0000,0000,,怪了 怎么她的眼睛发青光在瞪着我啊\N{\fn微软雅黑\fs12} How come she is starring at me?
+Dialogue: 0,0:37:04.02,0:37:05.92,Default,,0000,0000,0000,,因为你头上戴着电筒嘛\N{\fn微软雅黑\fs12} It's your lamp's reflection
+Dialogue: 0,0:37:05.92,0:37:06.91,Default,,0000,0000,0000,,哦\N{\fn微软雅黑\fs12} Right
+Dialogue: 0,0:37:08.56,0:37:09.28,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hey
+Dialogue: 0,0:37:09.52,0:37:10.25,Default,,0000,0000,0000,,干什么\N{\fn微软雅黑\fs12} What are you doing?
+Dialogue: 0,0:37:10.36,0:37:11.45,Default,,0000,0000,0000,,快来救我啊\N{\fn微软雅黑\fs12} Come help me
+Dialogue: 0,0:37:11.73,0:37:12.59,Default,,0000,0000,0000,,别急\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:37:12.96,0:37:13.89,Default,,0000,0000,0000,,快点\N{\fn微软雅黑\fs12} Hurry
+Dialogue: 0,0:37:19.60,0:37:20.46,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:37:34.28,0:37:36.58,Default,,0000,0000,0000,,无惊无险 我们走\N{\fn微软雅黑\fs12} It's quiet here, let's go
+Dialogue: 0,0:37:38.25,0:37:39.41,Default,,0000,0000,0000,,杀机四伏啊\N{\fn微软雅黑\fs12} Looks like a trap to me
+Dialogue: 0,0:37:40.79,0:37:44.12,Default,,0000,0000,0000,,奇怪了 眼见明台清阶 何来杀机\N{\fn微软雅黑\fs12} Strange, so quiet, how could that be?
+Dialogue: 0,0:37:44.39,0:37:45.29,Default,,0000,0000,0000,,下回分解\N{\fn微软雅黑\fs12} Wait and see
+Dialogue: 0,0:37:48.23,0:37:51.06,Default,,0000,0000,0000,,好啊 酒逢知己千杯少\N{\fn微软雅黑\fs12} OK, here's to our friendship
+Dialogue: 0,0:37:52.73,0:37:54.10,Default,,0000,0000,0000,,话不投机半句多\N{\fn微软雅黑\fs12} There's no need for words
+Dialogue: 0,0:37:54.10,0:37:56.50,Default,,0000,0000,0000,,话可不能这么说 真兄\N{\fn微软雅黑\fs12} No, I mean that wine
+Dialogue: 0,0:37:57.14,0:37:58.47,Default,,0000,0000,0000,,酒乃穿肠之物啊\N{\fn微软雅黑\fs12} is made up preserved grapes
+Dialogue: 0,0:38:00.34,0:38:02.57,Default,,0000,0000,0000,,众人皆醉我独醒\N{\fn微软雅黑\fs12} Everyone is drunk, I alone am lucid
+Dialogue: 0,0:38:04.18,0:38:07.34,Default,,0000,0000,0000,,啊哈 高人高见\N{\fn微软雅黑\fs12} Wow, Surat guy
+Dialogue: 0,0:38:13.79,0:38:14.78,Default,,0000,0000,0000,,哎 这里\N{\fn微软雅黑\fs12} Hey, over here!
+Dialogue: 0,0:38:14.79,0:38:15.62,Default,,0000,0000,0000,,我看见了\N{\fn微软雅黑\fs12} I see it
+Dialogue: 0,0:38:28.27,0:38:29.43,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hey...
+Dialogue: 0,0:38:53.79,0:38:54.69,Default,,0000,0000,0000,,过来呀\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:38:55.56,0:38:57.22,Default,,0000,0000,0000,,我帮你看着\N{\fn微软雅黑\fs12} I'll check it for you
+Dialogue: 0,0:38:57.23,0:38:59.32,Default,,0000,0000,0000,,你要看着呀\N{\fn微软雅黑\fs12} You better!
+Dialogue: 0,0:39:03.24,0:39:05.47,Default,,0000,0000,0000,,屁股啊\N{\fn微软雅黑\fs12} Hey, watch your ass
+Dialogue: 0,0:39:05.54,0:39:06.66,Default,,0000,0000,0000,,我屁股大嘛\N{\fn微软雅黑\fs12} I got a big one
+Dialogue: 0,0:39:18.99,0:39:19.88,Default,,0000,0000,0000,,剩下最后一条\N{\fn微软雅黑\fs12} There's one more
+Dialogue: 0,0:39:19.89,0:39:23.52,Default,,0000,0000,0000,,轻而易举 先喝为敬 干杯\N{\fn微软雅黑\fs12} Easy job, cheers
+Dialogue: 0,0:39:26.69,0:39:27.39,Default,,0000,0000,0000,,请\N{\fn微软雅黑\fs12} Cheers
+Dialogue: 0,0:39:29.66,0:39:30.99,Default,,0000,0000,0000,,哎 你今年贵庚啊\N{\fn微软雅黑\fs12} How old are you?
+Dialogue: 0,0:39:32.10,0:39:33.43,Default,,0000,0000,0000,,反正比你小\N{\fn微软雅黑\fs12} You should be older
+Dialogue: 0,0:39:33.60,0:39:35.33,Default,,0000,0000,0000,,看看谁的腰硬 嗯\N{\fn微软雅黑\fs12} See who's better?
+Dialogue: 0,0:39:35.87,0:39:37.20,Default,,0000,0000,0000,,来啊\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:39:54.25,0:39:55.02,Default,,0000,0000,0000,,快点\N{\fn微软雅黑\fs12} Hurry HP
+Dialogue: 0,0:39:55.02,0:39:55.89,Default,,0000,0000,0000,,行了\N{\fn微软雅黑\fs12} Alright
+Dialogue: 0,0:39:56.72,0:40:01.09,Default,,0000,0000,0000,,不要走呀 不要走 再走就开枪啦\N{\fn微软雅黑\fs12} Get them, don't let them escape
+Dialogue: 0,0:40:03.26,0:40:04.25,Default,,0000,0000,0000,,快上车\N{\fn微软雅黑\fs12} Quick get in
+Dialogue: 0,0:40:10.24,0:40:11.10,Default,,0000,0000,0000,,怎么样\N{\fn微软雅黑\fs12} You alright?
+Dialogue: 0,0:40:26.92,0:40:28.55,Default,,0000,0000,0000,,幸亏子弹进的不深\N{\fn微软雅黑\fs12} Lucky the bullet isn't in too deep
+Dialogue: 0,0:40:30.76,0:40:32.78,Default,,0000,0000,0000,,抬高手看看\N{\fn微软雅黑\fs12} Raise your arm
+Dialogue: 0,0:40:34.33,0:40:35.12,Default,,0000,0000,0000,,高一点\N{\fn微软雅黑\fs12} Higher
+Dialogue: 0,0:40:36.90,0:40:39.83,Default,,0000,0000,0000,,动动手指 抓紧拳头\N{\fn微软雅黑\fs12} Move your finger, make a fist
+Dialogue: 0,0:40:43.10,0:40:45.33,Default,,0000,0000,0000,,小意思 你顶得住的\N{\fn微软雅黑\fs12} No big deal, you'll make it
+Dialogue: 0,0:40:47.57,0:40:50.60,Default,,0000,0000,0000,,我们早就说好了 有事就一起上\N{\fn微软雅黑\fs12} I warned you not to try it alone
+Dialogue: 0,0:40:50.61,0:40:54.08,Default,,0000,0000,0000,,你却自己去干 好了 现在受伤了不是\N{\fn微软雅黑\fs12} You had to try, look at you now
+Dialogue: 0,0:40:56.82,0:40:58.51,Default,,0000,0000,0000,,我去偷这幅画不是为了那个法国人\N{\fn微软雅黑\fs12} I didn't do it for the French man
+Dialogue: 0,0:40:58.65,0:41:01.92,Default,,0000,0000,0000,,你不是为了伟大的艺术吧\N{\fn微软雅黑\fs12} Don't be so superior, you're no artist
+Dialogue: 0,0:41:01.92,0:41:03.32,Default,,0000,0000,0000,,对 我不是为了艺术\N{\fn微软雅黑\fs12} I know that
+Dialogue: 0,0:41:08.03,0:41:09.32,Default,,0000,0000,0000,,我是为了红豆的幸福\N{\fn微软雅黑\fs12} I did it for Cherie
+Dialogue: 0,0:41:12.80,0:41:14.63,Default,,0000,0000,0000,,红豆的幸福 不就是你的幸福\N{\fn微软雅黑\fs12} If you did it for Cherie, you did it for yourself
+Dialogue: 0,0:41:14.63,0:41:15.66,Default,,0000,0000,0000,,你的幸福 不就是我的幸福\N{\fn微软雅黑\fs12} If you did it for yourself, you did it for me
+Dialogue: 0,0:41:15.67,0:41:16.86,Default,,0000,0000,0000,,我的幸福 不就是大家的幸福\N{\fn微软雅黑\fs12} If you did it for me, you did it for us all
+Dialogue: 0,0:41:16.87,0:41:18.00,Default,,0000,0000,0000,,你在说什么\N{\fn微软雅黑\fs12} What are you talking about?
+Dialogue: 0,0:41:22.01,0:41:22.98,Default,,0000,0000,0000,,我总觉得你对朋友\N{\fn微软雅黑\fs12} You treat friends
+Dialogue: 0,0:41:22.98,0:41:24.53,Default,,0000,0000,0000,,比对你喜欢的女人好\N{\fn微软雅黑\fs12} better than the woman you love
+Dialogue: 0,0:41:25.38,0:41:28.01,Default,,0000,0000,0000,,错 我对朋友和女人一样那么好\N{\fn微软雅黑\fs12} No, I treat them both the same
+Dialogue: 0,0:41:28.21,0:41:30.77,Default,,0000,0000,0000,,你对她好你再说一遍\N{\fn微软雅黑\fs12} Same? Say what? Are you sure?
+Dialogue: 0,0:41:31.02,0:41:32.04,Default,,0000,0000,0000,,我现在对她不好吗\N{\fn微软雅黑\fs12} You're saying I'm not
+Dialogue: 0,0:41:32.49,0:41:34.65,Default,,0000,0000,0000,,你整天把她当木偶一样扯来扯去\N{\fn微软雅黑\fs12} You treat her like an object
+Dialogue: 0,0:41:35.82,0:41:38.29,Default,,0000,0000,0000,,忽冷怱热 一会好一会坏\N{\fn微软雅黑\fs12} Sometimes good, sometimes bad
+Dialogue: 0,0:41:39.13,0:41:40.96,Default,,0000,0000,0000,,她对你多好 只是你不知道\N{\fn微软雅黑\fs12} You call that treating her right?
+Dialogue: 0,0:41:43.36,0:41:44.85,Default,,0000,0000,0000,,我真希望我是你\N{\fn微软雅黑\fs12} Do you know I'm jealous of you?
+Dialogue: 0,0:41:47.40,0:41:49.03,Default,,0000,0000,0000,,你想没想过她的将来和幸福\N{\fn微软雅黑\fs12} Did you ever think of her?
+Dialogue: 0,0:41:50.20,0:41:51.14,Default,,0000,0000,0000,,想过没有\N{\fn微软雅黑\fs12} Did you?
+Dialogue: 0,0:42:00.18,0:42:02.20,Default,,0000,0000,0000,,有时候太照顾别人的感受会失去自我的\N{\fn微软雅黑\fs12} If you think of someone else,
+Dialogue: 0,0:42:02.22,0:42:03.24,Default,,0000,0000,0000,,你知道吗\N{\fn微软雅黑\fs12} you loose yourself?
+Dialogue: 0,0:42:03.92,0:42:05.41,Default,,0000,0000,0000,,其实你们俩都了解我的性格\N{\fn微软雅黑\fs12} You both know how I am
+Dialogue: 0,0:42:06.42,0:42:07.31,Default,,0000,0000,0000,,我喜欢东走走西逛逛\N{\fn微软雅黑\fs12} I like to be footloose
+Dialogue: 0,0:42:07.32,0:42:09.15,Default,,0000,0000,0000,,我喜欢流浪\N{\fn微软雅黑\fs12} and care free
+Dialogue: 0,0:42:09.72,0:42:12.89,Default,,0000,0000,0000,,爱一个人 不一定要跟她一辈子的\N{\fn微软雅黑\fs12} Who says I'll spend the rest of my life with her?
+Dialogue: 0,0:42:13.09,0:42:16.32,Default,,0000,0000,0000,,我喜欢一朵花 未必一定要把它摘下来\N{\fn微软雅黑\fs12} If I like a flower, I don't have to pick it
+Dialogue: 0,0:42:17.03,0:42:20.02,Default,,0000,0000,0000,,我喜欢风 难道叫风停下来 你让我闻一闻\N{\fn微软雅黑\fs12} If I like the wind, I don't need to bag it
+Dialogue: 0,0:42:20.77,0:42:23.50,Default,,0000,0000,0000,,我喜欢云 难道叫云飘下来 来罩着我\N{\fn微软雅黑\fs12} If I like a cloud, I don't need to hold it
+Dialogue: 0,0:42:23.90,0:42:24.77,Default,,0000,0000,0000,,我爱海 难道我跳海\N{\fn微软雅黑\fs12} If I like the sea, I don't...
+Dialogue: 0,0:42:24.77,0:42:26.60,Default,,0000,0000,0000,,你又在说什么啊 我跟你说的是人\N{\fn微软雅黑\fs12} What are you talking about? I am talking about humans
+Dialogue: 0,0:42:26.61,0:42:28.37,Default,,0000,0000,0000,,你却说风啊 花啊 云啊什么的\N{\fn微软雅黑\fs12} What's that about wind, flowers, clouds...
+Dialogue: 0,0:42:28.44,0:42:29.87,Default,,0000,0000,0000,,我跟你说的是女人\N{\fn微软雅黑\fs12} I was talking about women
+Dialogue: 0,0:42:31.54,0:42:33.54,Default,,0000,0000,0000,,女人是要爱的 要人疼的\N{\fn微软雅黑\fs12} Women need to be loved, and cared for
+Dialogue: 0,0:42:33.75,0:42:34.77,Default,,0000,0000,0000,,我知道结了婚之后\N{\fn微软雅黑\fs12} I know after marriage,
+Dialogue: 0,0:42:34.78,0:42:36.27,Default,,0000,0000,0000,,我会失去民主 失去自由\N{\fn微软雅黑\fs12} no more freedom of Democracy
+Dialogue: 0,0:42:36.38,0:42:40.41,Default,,0000,0000,0000,,所以我追求的是那种一刹之间的 光辉\N{\fn微软雅黑\fs12} All I want are...flings!
+Dialogue: 0,0:42:40.42,0:42:41.39,Default,,0000,0000,0000,,难道你没听人家说过\N{\fn微软雅黑\fs12} Did you ever hear that?
+Dialogue: 0,0:42:41.39,0:42:43.55,Default,,0000,0000,0000,,刹那的光辉并不代表永恒吗\N{\fn微软雅黑\fs12} A fling is not forever
+Dialogue: 0,0:42:44.52,0:42:47.55,Default,,0000,0000,0000,,哎 你知不知道你在流血\N{\fn微软雅黑\fs12} Hey, do you know you're nlrrfinh?
+Dialogue: 0,0:42:47.86,0:42:49.09,Default,,0000,0000,0000,,你知不知道你在受伤啊\N{\fn微软雅黑\fs12} Do you know you're wounded?
+Dialogue: 0,0:42:49.86,0:42:51.12,Default,,0000,0000,0000,,那又怎么样 你说完了没有\N{\fn微软雅黑\fs12} So what? Are you finished?
+Dialogue: 0,0:42:52.70,0:42:53.39,Default,,0000,0000,0000,,说完了没有\N{\fn微软雅黑\fs12} Well?
+Dialogue: 0,0:42:53.40,0:42:54.20,Default,,0000,0000,0000,,说完了\N{\fn微软雅黑\fs12} That's it
+Dialogue: 0,0:42:54.30,0:42:55.10,Default,,0000,0000,0000,,说完了 是吧\N{\fn微软雅黑\fs12} Really?
+Dialogue: 0,0:43:54.26,0:43:56.16,Default,,0000,0000,0000,,怎么样 好点吗\N{\fn微软雅黑\fs12} Are you feeling better?
+Dialogue: 0,0:43:58.30,0:44:01.10,Default,,0000,0000,0000,,没事就走吧 红豆在机场等我们呢\N{\fn微软雅黑\fs12} If you're alright, let's go Cherie's waiting at the airport
+Dialogue: 0,0:44:48.88,0:44:49.64,Default,,0000,0000,0000,,杀了他们\N{\fn微软雅黑\fs12} Kill them,
+Dialogue: 0,0:44:49.98,0:44:51.57,Default,,0000,0000,0000,,一定要抢到那幅画 不能有失\N{\fn微软雅黑\fs12} get the painting whatever it takes
+Dialogue: 0,0:45:29.62,0:45:34.96,Default,,0000,0000,0000,,阿真 你先拿着画去机场 不要等我了\N{\fn微软雅黑\fs12} Jim, take the painting, don't wait for me
+Dialogue: 0,0:45:36.40,0:45:38.52,Default,,0000,0000,0000,,告诉红豆 我会去找她的\N{\fn微软雅黑\fs12} Tell Cherie I'll look for her
+Dialogue: 0,0:47:01.21,0:47:04.38,Default,,0000,0000,0000,,这里我顶着 快去机场找红豆\N{\fn微软雅黑\fs12} I'll hold them off, go to the airport
+Dialogue: 0,0:47:04.38,0:47:05.35,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:47:08.15,0:47:10.55,Default,,0000,0000,0000,,波士 到了码头 我们会杀掉他\N{\fn微软雅黑\fs12} Boss, we're at the pier, will get them
+Dialogue: 0,0:47:21.97,0:47:23.30,Default,,0000,0000,0000,,岂有此理\N{\fn微软雅黑\fs12} Damn it!
+Dialogue: 0,0:49:19.59,0:49:20.64,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Jim
+Dialogue: 0,0:50:17.21,0:50:18.04,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Jim
+Dialogue: 0,0:50:26.19,0:50:30.85,Default,,0000,0000,0000,,阿真 还顺利吧 阿海呢 他在哪啊\N{\fn微软雅黑\fs12} Did you do it? Where's Joe?
+Dialogue: 0,0:50:32.36,0:50:37.73,Default,,0000,0000,0000,,阿真 你回答我啊 发生了什么事\N{\fn微软雅黑\fs12} Where is he? Jim, look at me, what happened?
+Dialogue: 0,0:50:40.20,0:50:41.17,Default,,0000,0000,0000,,怎么会这样\N{\fn微软雅黑\fs12} Huh, what's this?
+Dialogue: 0,0:50:42.07,0:50:43.26,Default,,0000,0000,0000,,我们出事了\N{\fn微软雅黑\fs12} We had some problem
+Dialogue: 0,0:50:45.44,0:50:46.37,Default,,0000,0000,0000,,我要去找他\N{\fn微软雅黑\fs12} I'll go look for him
+Dialogue: 0,0:50:46.37,0:50:48.07,Default,,0000,0000,0000,,不行 阿海 他死了\N{\fn微软雅黑\fs12} No, he's dead
+Dialogue: 0,0:50:48.17,0:50:49.33,Default,,0000,0000,0000,,走呀\N{\fn微软雅黑\fs12} Let's go
+Dialogue: 0,0:50:50.01,0:50:50.87,Default,,0000,0000,0000,,我要去找他\N{\fn微软雅黑\fs12} I want to find him
+Dialogue: 0,0:50:50.88,0:50:52.00,Default,,0000,0000,0000,,走呀\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,0:51:13.27,0:51:16.76,Default,,0000,0000,0000,,{\i1}♪我劝你早点归去 ♪
+Dialogue: 0,0:51:17.07,0:51:22.87,Default,,0000,0000,0000,,{\i1}♪你说你不想归去 只叫我抱着你 ♪
+Dialogue: 0,0:51:23.44,0:51:28.11,Default,,0000,0000,0000,,{\i1}♪悠悠海风轻轻吹 冷却了野火堆 ♪
+Dialogue: 0,0:51:28.25,0:51:31.55,Default,,0000,0000,0000,,{\i1}♪我看见伤心的你 ♪
+Dialogue: 0,0:51:31.98,0:51:37.82,Default,,0000,0000,0000,,{\i1}♪你叫我怎舍得去 哭态也绝美 ♪
+Dialogue: 0,0:51:38.32,0:51:42.39,Default,,0000,0000,0000,,{\i1}♪如何止哭 只得轻吻你发边 ♪
+Dialogue: 0,0:51:42.39,0:51:44.92,Default,,0000,0000,0000,,{\i1}♪让风继续吹 ♪
+Dialogue: 0,0:51:46.23,0:51:48.56,Default,,0000,0000,0000,,{\i1}♪不忍远离 ♪
+Dialogue: 0,0:51:50.40,0:51:56.74,Default,,0000,0000,0000,,{\i1}♪心里极渴望 希望留下伴着你 ♪
+Dialogue: 0,0:51:57.84,0:51:59.97,Default,,0000,0000,0000,,{\i1}♪风继续吹 ♪
+Dialogue: 0,0:52:01.18,0:52:03.61,Default,,0000,0000,0000,,{\i1}♪不忍远离 ♪
+Dialogue: 0,0:52:05.42,0:52:11.41,Default,,0000,0000,0000,,{\i1}♪心里极渴望 希望留下伴着你 ♪
+Dialogue: 0,0:52:12.02,0:52:13.86,Default,,0000,0000,0000,,{\i1}♪过去多少 ♪
+Dialogue: 0,0:52:15.19,0:52:17.09,Default,,0000,0000,0000,,{\i1}♪快乐记忆 ♪
+Dialogue: 0,0:52:19.47,0:52:25.67,Default,,0000,0000,0000,,{\i1}♪何妨与你一起去追 ♪
+Dialogue: 0,0:52:26.87,0:52:30.27,Default,,0000,0000,0000,,{\i1}♪要将忧郁苦痛洗去 ♪
+Dialogue: 0,0:52:30.68,0:52:34.13,Default,,0000,0000,0000,,{\i1}♪柔情蜜意我愿记取 ♪
+Dialogue: 0,0:52:34.55,0:52:37.67,Default,,0000,0000,0000,,{\i1}♪要强忍离情泪 ♪
+Dialogue: 0,0:52:38.12,0:52:41.55,Default,,0000,0000,0000,,{\i1}♪未许它向下垂 ♪
+Dialogue: 0,0:52:41.95,0:52:45.19,Default,,0000,0000,0000,,{\i1}♪愁如锁 眉头聚 ♪
+Dialogue: 0,0:52:45.39,0:52:50.69,Default,,0000,0000,0000,,{\i1}♪别离泪 始终要下垂 ♪
+Dialogue: 0,0:52:55.97,0:52:58.46,Default,,0000,0000,0000,,{\i1}♪我已令你快乐 ♪
+Dialogue: 0,0:52:59.67,0:53:02.80,Default,,0000,0000,0000,,{\i1}♪你也令我痴痴醉 ♪
+Dialogue: 0,0:53:02.81,0:53:09.15,Default,,0000,0000,0000,,{\i1}♪你已在我心 不必再问记着谁 ♪
+Dialogue: 0,0:53:09.42,0:53:12.32,Default,,0000,0000,0000,,{\i1}♪留住眼内每滴泪 ♪
+Dialogue: 0,0:53:12.52,0:53:18.72,Default,,0000,0000,0000,,{\i1}♪为何仍断续流默默垂 ♪
+Dialogue: 0,0:53:23.10,0:53:26.23,Default,,0000,0000,0000,,漂亮 这真是艺术\N{\fn微软雅黑\fs12} Beautiful... This is art
+Dialogue: 0,0:53:28.10,0:53:29.07,Default,,0000,0000,0000,,这是你的钱\N{\fn微软雅黑\fs12} Your money
+Dialogue: 0,0:53:29.70,0:53:30.73,Default,,0000,0000,0000,,我们有共同的爱好\N{\fn微软雅黑\fs12} We're two of a kind
+Dialogue: 0,0:53:32.44,0:53:34.60,Default,,0000,0000,0000,,大家都是为了钱呀 干得好\N{\fn微软雅黑\fs12} We both love the money, good work
+Dialogue: 0,0:53:34.61,0:53:35.44,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks
+Dialogue: 0,0:53:36.01,0:53:37.24,Default,,0000,0000,0000,,你喜欢看看香港的夜色吗\N{\fn微软雅黑\fs12} Would you like to see the Hong Kong by night?
+Dialogue: 0,0:53:37.24,0:53:38.33,Default,,0000,0000,0000,,当然好啊\N{\fn微软雅黑\fs12} Sure, sure
+Dialogue: 0,0:53:41.38,0:53:42.71,Default,,0000,0000,0000,,带他去兜风\N{\fn微软雅黑\fs12} Yeah! show him around
+Dialogue: 0,0:53:44.75,0:53:46.08,Default,,0000,0000,0000,,我们会有人带你去兜兜风的\N{\fn微软雅黑\fs12} Someone will show you around
+Dialogue: 0,0:53:46.09,0:53:48.61,Default,,0000,0000,0000,,我的荣幸\N{\fn微软雅黑\fs12} Thank you!
+Dialogue: 0,0:53:49.79,0:53:52.62,Default,,0000,0000,0000,,听说香港的罪案日渐严重\N{\fn微软雅黑\fs12} I heard that the crime problem in H.K. is very serious
+Dialogue: 0,0:54:24.26,0:54:31.06,Default,,0000,0000,0000,,老爸\N{\fn微软雅黑\fs12} Dad, dad!
+Dialogue: 0,0:54:31.93,0:54:34.76,Default,,0000,0000,0000,,阿贵 原来你没死啊\N{\fn微软雅黑\fs12} Joe, you are still alive
+Dialogue: 0,0:54:39.44,0:54:40.41,Default,,0000,0000,0000,,你对脚\N{\fn微软雅黑\fs12} Your leg...
+Dialogue: 0,0:54:40.61,0:54:43.91,Default,,0000,0000,0000,,我也算命大 这么炸都没炸死\N{\fn微软雅黑\fs12} I am lucky, the explosion hasn't ended my life
+Dialogue: 0,0:54:44.34,0:54:48.61,Default,,0000,0000,0000,,我调查过了 是法国人背后搞鬼\N{\fn微软雅黑\fs12} It's all dad's fault, it must be the French man
+Dialogue: 0,0:54:48.61,0:54:49.81,Default,,0000,0000,0000,,我一定会解决它\N{\fn微软雅黑\fs12} I'll get him
+Dialogue: 0,0:54:51.48,0:54:53.35,Default,,0000,0000,0000,,你们大师兄从前身手很不错呀\N{\fn微软雅黑\fs12} Your brother used to be
+Dialogue: 0,0:54:53.35,0:54:55.32,Default,,0000,0000,0000,,能上山 能下水\N{\fn微软雅黑\fs12} the best in his field
+Dialogue: 0,0:54:55.62,0:54:58.19,Default,,0000,0000,0000,,哎 阿贵 有空陪老爸划划水吧\N{\fn微软雅黑\fs12} Joe, come and ski with me some time
+Dialogue: 0,0:54:58.19,0:55:01.25,Default,,0000,0000,0000,,如果你还能划水的话\N{\fn微软雅黑\fs12} If you still can
+Dialogue: 0,0:55:01.53,0:55:04.83,Default,,0000,0000,0000,,老爸 我从小到大都跟着你\N{\fn微软雅黑\fs12} Dad, I hope you'll think of me
+Dialogue: 0,0:55:06.13,0:55:07.53,Default,,0000,0000,0000,,没功劳也有苦劳啊\N{\fn微软雅黑\fs12} for old times sake
+Dialogue: 0,0:55:08.70,0:55:10.46,Default,,0000,0000,0000,,对 现在我变成废人\N{\fn微软雅黑\fs12} I'm useless now
+Dialogue: 0,0:55:11.04,0:55:14.47,Default,,0000,0000,0000,,你就当做善事 轻轻的扶我一把吧\N{\fn微软雅黑\fs12} Think of me as charity, give me a boost
+Dialogue: 0,0:55:16.28,0:55:19.80,Default,,0000,0000,0000,,阿贵 你现在这个样子\N{\fn微软雅黑\fs12} Joe, you know...
+Dialogue: 0,0:55:21.35,0:55:23.44,Default,,0000,0000,0000,,老爸看了真的很心疼啊\N{\fn微软雅黑\fs12} dad is pained to see you like this
+Dialogue: 0,0:55:24.22,0:55:25.62,Default,,0000,0000,0000,,可你叫我怎么扶你呢\N{\fn微软雅黑\fs12} but how do you want me to give you about?
+Dialogue: 0,0:55:40.87,0:55:41.86,Default,,0000,0000,0000,,儿子 你怎么样\N{\fn微软雅黑\fs12} Joe, are you OK?
+Dialogue: 0,0:55:41.87,0:55:43.16,Default,,0000,0000,0000,,你怎么样\N{\fn微软雅黑\fs12} Son, are you alright?
+Dialogue: 0,0:55:43.54,0:55:45.97,Default,,0000,0000,0000,,你这王八蛋 我现在告你蓄意伤人\N{\fn微软雅黑\fs12} You bastard, I'll sue you
+Dialogue: 0,0:55:46.34,0:55:48.50,Default,,0000,0000,0000,,哎 你不要乱说啊\N{\fn微软雅黑\fs12} Hey, don't talk nonsense
+Dialogue: 0,0:55:48.91,0:55:51.03,Default,,0000,0000,0000,,要告 就告这台阶蓄意伤人\N{\fn微软雅黑\fs12} If you must sue the staircase, it's what hurt you
+Dialogue: 0,0:55:51.24,0:55:52.07,Default,,0000,0000,0000,,你这个无赖\N{\fn微软雅黑\fs12} What?
+Dialogue: 0,0:55:52.31,0:55:53.97,Default,,0000,0000,0000,,哎 你们两个不要吵了\N{\fn微软雅黑\fs12} Stop yelling
+Dialogue: 0,0:55:54.75,0:55:57.04,Default,,0000,0000,0000,,这不关他的事 是我自己不小心\N{\fn微软雅黑\fs12} He's got nothing to do with, it's my fault
+Dialogue: 0,0:55:57.05,0:55:58.48,Default,,0000,0000,0000,,没出息 到现在还护着他\N{\fn微软雅黑\fs12} You're still protecting him?
+Dialogue: 0,0:56:01.22,0:56:02.52,Default,,0000,0000,0000,,吶 替他买张新轮椅\N{\fn微软雅黑\fs12} Buy him a new wheelchair
+Dialogue: 0,0:56:03.19,0:56:04.05,Default,,0000,0000,0000,,我先走了\N{\fn微软雅黑\fs12} I'm leaving
+Dialogue: 0,0:56:16.94,0:56:19.06,Default,,0000,0000,0000,,哎 我们俩哪吃得了这么多啊\N{\fn微软雅黑\fs12} Hey, how can you eat so much?
+Dialogue: 0,0:56:19.07,0:56:21.20,Default,,0000,0000,0000,,我不在的时候你可以自己弄东西吃嘛\N{\fn微软雅黑\fs12} So you can look for yourself when I'm not there
+Dialogue: 0,0:56:30.58,0:56:32.05,Default,,0000,0000,0000,,哎 不要让人家看见啊\N{\fn微软雅黑\fs12} Kick them over there
+Dialogue: 0,0:56:32.25,0:56:33.34,Default,,0000,0000,0000,,嗯 看见就麻烦了\N{\fn微软雅黑\fs12} Come on, help
+Dialogue: 0,0:56:33.42,0:56:34.35,Default,,0000,0000,0000,,啊\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,0:56:34.95,0:56:36.28,Default,,0000,0000,0000,,那边还有呢\N{\fn微软雅黑\fs12} This is embarrassing
+Dialogue: 0,0:56:36.29,0:56:37.28,Default,,0000,0000,0000,,快 快点\N{\fn微软雅黑\fs12} Never mind them
+Dialogue: 0,0:56:55.11,0:56:55.97,Default,,0000,0000,0000,,可以了\N{\fn微软雅黑\fs12} Let's go
+Dialogue: 0,0:57:01.75,0:57:03.08,Default,,0000,0000,0000,,哎 我还有点事 你先回去吧\N{\fn微软雅黑\fs12} Hey, I'm busy, you go back first!
+Dialogue: 0,0:57:03.88,0:57:05.54,Default,,0000,0000,0000,,快点回来啊 帮我煮饭\N{\fn微软雅黑\fs12} Hurry back, I'll cook for you
+Dialogue: 0,0:57:05.55,0:57:06.28,Default,,0000,0000,0000,,带钱了吗\N{\fn微软雅黑\fs12} Do you have money?
+Dialogue: 0,0:57:06.29,0:57:07.31,Default,,0000,0000,0000,,带啦\N{\fn微软雅黑\fs12} Yeah!
+Dialogue: 0,0:57:59.10,0:58:00.13,Default,,0000,0000,0000,,嗨 阿真\N{\fn微软雅黑\fs12} Hi, Jim
+Dialogue: 0,0:58:00.27,0:58:01.30,Default,,0000,0000,0000,,红豆\N{\fn微软雅黑\fs12} Cherie
+Dialogue: 0,0:58:01.44,0:58:02.81,Default,,0000,0000,0000,,老爸 老爸\N{\fn微软雅黑\fs12} Dad Dad
+Dialogue: 0,0:58:03.31,0:58:04.64,Default,,0000,0000,0000,,哎呀 怎么了 弄伤了手了\N{\fn微软雅黑\fs12} Hey, what happened to your hand?
+Dialogue: 0,0:58:04.64,0:58:05.84,Default,,0000,0000,0000,,哦 皮外伤\N{\fn微软雅黑\fs12} Oh, nothing really
+Dialogue: 0,0:58:05.98,0:58:07.88,Default,,0000,0000,0000,,红豆 你怎么瘦了这么多啊\N{\fn微软雅黑\fs12} Cherie, why are you so thin?
+Dialogue: 0,0:58:07.88,0:58:08.50,Default,,0000,0000,0000,,没有啊\N{\fn微软雅黑\fs12} Not really
+Dialogue: 0,0:58:08.51,0:58:09.81,Default,,0000,0000,0000,,是不是 阿真不疼你啊\N{\fn微软雅黑\fs12} Doesn't Jim feed you well?
+Dialogue: 0,0:58:09.82,0:58:10.78,Default,,0000,0000,0000,,不是\N{\fn微软雅黑\fs12} Of course he does
+Dialogue: 0,0:58:10.98,0:58:14.48,Default,,0000,0000,0000,,阿真 你不是说要报答老爸吗\N{\fn微软雅黑\fs12} Jim, you said you wanted to pay me back
+Dialogue: 0,0:58:14.62,0:58:15.52,Default,,0000,0000,0000,,你说吧\N{\fn微软雅黑\fs12} What do you mean?
+Dialogue: 0,0:58:16.22,0:58:17.28,Default,,0000,0000,0000,,帮我偷幅画\N{\fn微软雅黑\fs12} Steal me that painting
+Dialogue: 0,0:58:17.56,0:58:18.52,Default,,0000,0000,0000,,什么画\N{\fn微软雅黑\fs12} What painting?
+Dialogue: 0,0:58:20.16,0:58:23.72,Default,,0000,0000,0000,,来 上来 来来\N{\fn微软雅黑\fs12} Come on, follow me, come on
+Dialogue: 0,0:58:39.08,0:58:40.14,Default,,0000,0000,0000,,这幅画怎么会在这\N{\fn微软雅黑\fs12} How come the painting is here
+Dialogue: 0,0:58:40.21,0:58:41.24,Default,,0000,0000,0000,,这个你别管\N{\fn微软雅黑\fs12} You don't need to know
+Dialogue: 0,0:58:41.88,0:58:44.41,Default,,0000,0000,0000,,它失踪了三年 就升值了三倍\N{\fn微软雅黑\fs12} It disappeared for 2 years, the price tripled
+Dialogue: 0,0:58:44.92,0:58:48.75,Default,,0000,0000,0000,,如果再失踪两年的话 你说吧 会升值多少钱吶\N{\fn微软雅黑\fs12} If it stayed losing 2 more years, how much will it worth then?
+Dialogue: 0,0:58:49.02,0:58:52.05,Default,,0000,0000,0000,,过些日子我会拿出来拍卖\N{\fn微软雅黑\fs12} I'll take it to the auction later
+Dialogue: 0,0:58:52.66,0:58:54.42,Default,,0000,0000,0000,,有阿贵帮你 容易多了\N{\fn微软雅黑\fs12} With Joe, it would be easy
+Dialogue: 0,0:58:54.66,0:58:56.06,Default,,0000,0000,0000,,可惜 他腿瘸了\N{\fn微软雅黑\fs12} Pity he lost his legs
+Dialogue: 0,0:58:59.23,0:59:00.20,Default,,0000,0000,0000,,他 他不是死了吗\N{\fn微软雅黑\fs12} Doesn't he die?
+Dialogue: 0,0:59:02.93,0:59:05.90,Default,,0000,0000,0000,,阿真见过他了 你没有跟他说吗\N{\fn微软雅黑\fs12} Jim saw him, didn't he mention it?
+Dialogue: 0,0:59:28.26,0:59:31.06,Default,,0000,0000,0000,,红豆 干爹\N{\fn微软雅黑\fs12} Cherie, Papa
+Dialogue: 0,1:00:02.99,1:00:06.90,Default,,0000,0000,0000,,嗨 干爹 有人找我 在外面\N{\fn微软雅黑\fs12} Somebody's looking for me? Outside?
+Dialogue: 0,1:00:26.28,1:00:27.27,Default,,0000,0000,0000,,阿海\N{\fn微软雅黑\fs12} Joe
+Dialogue: 0,1:00:36.50,1:00:39.12,Default,,0000,0000,0000,,嗨 好吗\N{\fn微软雅黑\fs12} How are you?
+Dialogue: 0,1:00:43.77,1:00:47.33,Default,,0000,0000,0000,,你以前喜欢到处去 现在习惯了\N{\fn微软雅黑\fs12} You used to travel a lot, do you miss it?
+Dialogue: 0,1:00:47.94,1:00:48.84,Default,,0000,0000,0000,,没什么分别\N{\fn微软雅黑\fs12} Nothing's different
+Dialogue: 0,1:00:49.98,1:00:52.60,Default,,0000,0000,0000,,其实我现在也可以到处去\N{\fn微软雅黑\fs12} I still travel, but around here
+Dialogue: 0,1:00:52.61,1:00:56.78,Default,,0000,0000,0000,,只不过现在世界小了一点 很平静的\N{\fn微软雅黑\fs12} My trips are smaller, quieter
+Dialogue: 0,1:00:57.62,1:00:59.95,Default,,0000,0000,0000,,比起外面的世界来 这里和平多了\N{\fn微软雅黑\fs12} But it's a lot more peaceful
+Dialogue: 0,1:01:02.29,1:01:03.22,Default,,0000,0000,0000,,带你去参观一下\N{\fn微软雅黑\fs12} I'll take you around
+Dialogue: 0,1:01:11.73,1:01:14.16,Default,,0000,0000,0000,,不要紧 我的腿早就没知觉了\N{\fn微软雅黑\fs12} Never mind, my legs don't feel a thing
+Dialogue: 0,1:01:15.73,1:01:16.63,Default,,0000,0000,0000,,来\N{\fn微软雅黑\fs12} Come on
+Dialogue: 0,1:01:22.54,1:01:24.01,Default,,0000,0000,0000,,这边是我的工作间\N{\fn微软雅黑\fs12} This is where I work,
+Dialogue: 0,1:01:24.48,1:01:26.38,Default,,0000,0000,0000,,前面是我的天文台\N{\fn微软雅黑\fs12} in front is my observatory
+Dialogue: 0,1:01:27.08,1:01:29.38,Default,,0000,0000,0000,,这是我的最新的电脑\N{\fn微软雅黑\fs12} This is my latest computer
+Dialogue: 0,1:01:29.55,1:01:31.07,Default,,0000,0000,0000,,没事的时候我就打游戏机玩\N{\fn微软雅黑\fs12} Whenever I can I play computer games
+Dialogue: 0,1:01:33.02,1:01:34.18,Default,,0000,0000,0000,,这是我的会客室\N{\fn微软雅黑\fs12} This is my guest's room
+Dialogue: 0,1:01:36.35,1:01:38.22,Default,,0000,0000,0000,,这是我新画的名画\N{\fn微软雅黑\fs12} This is my newest painting,
+Dialogue: 0,1:01:38.22,1:01:39.75,Default,,0000,0000,0000,,“在天愿为比翼鸟”\N{\fn微软雅黑\fs12} I call it "Bud's Paradise"
+Dialogue: 0,1:01:40.99,1:01:43.89,Default,,0000,0000,0000,,这是我的最新拍挡 它叫做宝宝\N{\fn微软雅黑\fs12} This is my newest partner, Bobo
+Dialogue: 0,1:01:43.90,1:01:45.59,Default,,0000,0000,0000,,宝宝叫HELLO 叫HELLO\N{\fn微软雅黑\fs12} Bobo, say Hello
+Dialogue: 0,1:01:45.60,1:01:46.69,Default,,0000,0000,0000,,HELLO HELLO\N{\fn微软雅黑\fs12} Hello! Hello!
+Dialogue: 0,1:01:49.20,1:01:52.00,Default,,0000,0000,0000,,这个是我画了三个月的壁画 漂亮吗\N{\fn微软雅黑\fs12} This wall painting took me 3 months, do you like it
+Dialogue: 0,1:01:52.27,1:01:54.93,Default,,0000,0000,0000,,平时我经常做运动的 你看\N{\fn微软雅黑\fs12} I still exercise a lot
+Dialogue: 0,1:01:58.78,1:02:00.27,Default,,0000,0000,0000,,这边是我的植物园\N{\fn微软雅黑\fs12} This side is my botanical Garden
+Dialogue: 0,1:02:01.08,1:02:02.48,Default,,0000,0000,0000,,这边是我的动物园\N{\fn微软雅黑\fs12} The other side is my zoo
+Dialogue: 0,1:02:02.48,1:02:04.37,Default,,0000,0000,0000,,里边所有的鸟都是从南非订回来的\N{\fn微软雅黑\fs12} All the birds are from South Africa
+Dialogue: 0,1:02:04.78,1:02:07.95,Default,,0000,0000,0000,,而坐在前面一脸严肃的人呢 就是我的恩人\N{\fn微软雅黑\fs12} The one sitting there looking serious is my benefactor
+Dialogue: 0,1:02:08.22,1:02:09.71,Default,,0000,0000,0000,,他姓干 名爹\N{\fn微软雅黑\fs12} He's like a father to me
+Dialogue: 0,1:02:13.36,1:02:14.76,Default,,0000,0000,0000,,拜拜\N{\fn微软雅黑\fs12} Bye
+Dialogue: 0,1:02:21.37,1:02:24.36,Default,,0000,0000,0000,,来 我带你去厨房看一看\N{\fn微软雅黑\fs12} Come on, I'll show you the kitchen
+Dialogue: 0,1:02:25.10,1:02:29.54,Default,,0000,0000,0000,,不用了 我这次来是找你帮忙的\N{\fn微软雅黑\fs12} No need, I just came to ask you a favor
+Dialogue: 0,1:02:30.54,1:02:31.44,Default,,0000,0000,0000,,什么事啊\N{\fn微软雅黑\fs12} What is it?
+Dialogue: 0,1:02:32.04,1:02:33.20,Default,,0000,0000,0000,,希望你去帮阿真\N{\fn微软雅黑\fs12} I want you to help James
+Dialogue: 0,1:02:34.08,1:02:35.07,Default,,0000,0000,0000,,阿真怎么啦\N{\fn微软雅黑\fs12} What's wrong with James?
+Dialogue: 0,1:02:37.48,1:02:39.11,Default,,0000,0000,0000,,他答应老爸做事\N{\fn微软雅黑\fs12} He promised Dad
+Dialogue: 0,1:02:40.75,1:02:44.24,Default,,0000,0000,0000,,上次跟你去偷画 已经受了伤\N{\fn微软雅黑\fs12} He would steal him the painting again
+Dialogue: 0,1:02:46.43,1:02:49.42,Default,,0000,0000,0000,,我担心他再出事\N{\fn微软雅黑\fs12} I'm afraid he'll get into trouble again
+Dialogue: 0,1:02:54.57,1:02:55.59,Default,,0000,0000,0000,,你帮帮他\N{\fn微软雅黑\fs12} Please help him
+Dialogue: 0,1:02:58.40,1:03:00.30,Default,,0000,0000,0000,,你们两个一直合作的很好\N{\fn微软雅黑\fs12} You two always work together
+Dialogue: 0,1:03:02.27,1:03:03.57,Default,,0000,0000,0000,,我不是不想帮\N{\fn微软雅黑\fs12} I want to help,
+Dialogue: 0,1:03:04.94,1:03:06.14,Default,,0000,0000,0000,,只是不知道他肯不肯让我帮\N{\fn微软雅黑\fs12} but does he want to be helped?
+Dialogue: 0,1:03:07.35,1:03:11.65,Default,,0000,0000,0000,,我知道你会帮 那我先走了\N{\fn微软雅黑\fs12} I knew you would, I'm leaving
+Dialogue: 0,1:03:21.46,1:03:23.02,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} Bye
+Dialogue: 0,1:03:23.03,1:03:24.19,Default,,0000,0000,0000,,红豆妹妹\N{\fn微软雅黑\fs12} Cherie. Mou Amour
+Dialogue: 0,1:03:25.03,1:03:28.47,Default,,0000,0000,0000,,红豆妹妹 来\N{\fn微软雅黑\fs12} Come on, Cherie Mou Amour
+Dialogue: 0,1:03:31.97,1:03:33.13,Default,,0000,0000,0000,,它最近发神经病\N{\fn微软雅黑\fs12} He's depressed,
+Dialogue: 0,1:03:33.27,1:03:36.04,Default,,0000,0000,0000,,女朋友跟乌鸦飞走了\N{\fn微软雅黑\fs12} his girl friend eloped with a vulture
+Dialogue: 0,1:03:36.14,1:03:37.44,Default,,0000,0000,0000,,差一点跳楼\N{\fn微软雅黑\fs12} He almost killed himself
+Dialogue: 0,1:03:41.01,1:03:44.21,Default,,0000,0000,0000,,你还跟从前一样 一点也没有变\N{\fn微软雅黑\fs12} You haven't changed at all
+Dialogue: 0,1:03:52.96,1:03:55.36,Default,,0000,0000,0000,,宝宝 你没事就睡觉去吧\N{\fn微软雅黑\fs12} Bobo, if you want to sleep, then go to sleep
+Dialogue: 0,1:03:56.16,1:03:58.46,Default,,0000,0000,0000,,我的心早就裂了 你知不知道\N{\fn微软雅黑\fs12} I'm heart-broken, don't you know?
+Dialogue: 0,1:04:00.47,1:04:02.30,Default,,0000,0000,0000,,好 150万成交\N{\fn微软雅黑\fs12} Sold for the one point five million
+Dialogue: 0,1:04:02.30,1:04:04.13,Default,,0000,0000,0000,,MR．HAMUPTON 以150万\N{\fn微软雅黑\fs12} Mr Hamupton, for 1.5 million
+Dialogue: 0,1:04:04.14,1:04:06.63,Default,,0000,0000,0000,,得到这个明朝青花五指花瓶\N{\fn微软雅黑\fs12} Gets this Ming bottle
+Dialogue: 0,1:04:06.81,1:04:07.79,Default,,0000,0000,0000,,我们大家恭喜他\N{\fn微软雅黑\fs12} Congratulations
+Dialogue: 0,1:04:09.31,1:04:09.67,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} OK!
+Dialogue: 0,1:04:09.67,1:04:12.23,Default,,0000,0000,0000,,接着我们拍卖唐朝的五彩骆驼\N{\fn微软雅黑\fs12} Now we have Tang Camel Statue
+Dialogue: 0,1:04:12.24,1:04:13.90,Default,,0000,0000,0000,,就是在十五页的第六号\N{\fn微软雅黑\fs12} On p.15, no.6
+Dialogue: 0,1:04:14.01,1:04:16.21,Default,,0000,0000,0000,,这次慈善拍卖所得到的善款\N{\fn微软雅黑\fs12} This auction's proceeds go to
+Dialogue: 0,1:04:16.21,1:04:18.98,Default,,0000,0000,0000,,会捐给香港儿童伤残协会\N{\fn微软雅黑\fs12} the HK Handicapped Association
+Dialogue: 0,1:04:19.08,1:04:20.38,Default,,0000,0000,0000,,请各位踊跃投标\N{\fn微软雅黑\fs12} I hope you'll all contribute
+Dialogue: 0,1:04:20.39,1:04:22.08,Default,,0000,0000,0000,,底价是50万\N{\fn微软雅黑\fs12} Starting price, five hundred thousand
+Dialogue: 0,1:04:22.19,1:04:23.38,Default,,0000,0000,0000,,好了 为善最乐\N{\fn微软雅黑\fs12} OK, no long faces,
+Dialogue: 0,1:04:23.39,1:04:25.15,Default,,0000,0000,0000,,请大家不要令场面冷落\N{\fn微软雅黑\fs12} this is for charity
+Dialogue: 0,1:04:25.16,1:04:27.56,Default,,0000,0000,0000,,请留步 没有被邀请不能够进去\N{\fn微软雅黑\fs12} Sir, you can only enter on invitation
+Dialogue: 0,1:04:27.56,1:04:28.72,Default,,0000,0000,0000,,啊 对不起\N{\fn微软雅黑\fs12} Really? Sorry I didn't know
+Dialogue: 0,1:04:28.73,1:04:31.20,Default,,0000,0000,0000,,好 60万 70万\N{\fn微软雅黑\fs12} Good, 600 thousand, 700 thousand
+Dialogue: 0,1:04:31.20,1:04:34.69,Default,,0000,0000,0000,,70万 70万 现在是70万\N{\fn微软雅黑\fs12} Now 700 thousand, 700 thousand... who says more?
+Dialogue: 0,1:04:34.70,1:04:37.76,Default,,0000,0000,0000,,老周啊 你那幅 很热门啊\N{\fn微软雅黑\fs12} Mr. Chow, your painting is popular,
+Dialogue: 0,1:04:37.77,1:04:39.93,Default,,0000,0000,0000,,下次拍卖价钱一定吓死人\N{\fn微软雅黑\fs12} it'll sell Well
+Dialogue: 0,1:04:39.94,1:04:41.03,Default,,0000,0000,0000,,那当然了\N{\fn微软雅黑\fs12} I know,
+Dialogue: 0,1:04:41.21,1:04:44.00,Default,,0000,0000,0000,,你们的保安系统有没有问题呀 我那幅画买了超保险了\N{\fn微软雅黑\fs12} but is your security safe?
+Dialogue: 0,1:04:44.11,1:04:49.97,Default,,0000,0000,0000,,放心吧 你那幅画放在我们的保险库绝无问题 我信你\N{\fn微软雅黑\fs12} Of course, your painting is safe with us. I trust you.
+Dialogue: 0,1:04:50.01,1:04:51.24,Default,,0000,0000,0000,,好 各位\N{\fn微软雅黑\fs12} Alright, who give more than
+Dialogue: 0,1:04:51.25,1:04:53.11,Default,,0000,0000,0000,,有没有超过110万的 高抬贵手\N{\fn微软雅黑\fs12} 1.1 million thousand?
+Dialogue: 0,1:04:53.12,1:04:53.95,Default,,0000,0000,0000,,有没有 有没有\N{\fn微软雅黑\fs12} Anyone, anyone?
+Dialogue: 0,1:04:53.95,1:04:57.62,Default,,0000,0000,0000,,120万 130万\N{\fn微软雅黑\fs12} 1.2 million, 1.3 million...
+Dialogue: 0,1:04:57.62,1:05:00.92,Default,,0000,0000,0000,,接着是140万 好 140万\N{\fn微软雅黑\fs12} Alright, 1.4 million one,
+Dialogue: 0,1:05:00.93,1:05:02.12,Default,,0000,0000,0000,,140万 一 140万 二\N{\fn微软雅黑\fs12} 1.4 million two...
+Dialogue: 0,1:05:03.29,1:05:04.45,Default,,0000,0000,0000,,喔 在那遥远的那方\N{\fn微软雅黑\fs12} On the far side of the room,
+Dialogue: 0,1:05:04.46,1:05:06.23,Default,,0000,0000,0000,,令人兴奋的事情出现了\N{\fn微软雅黑\fs12} something wonderful
+Dialogue: 0,1:05:06.23,1:05:07.76,Default,,0000,0000,0000,,150万\N{\fn微软雅黑\fs12} 1.5 million
+Dialogue: 0,1:05:07.97,1:05:09.13,Default,,0000,0000,0000,,有没有高过150万的\N{\fn微软雅黑\fs12} Who says more, 1.5 million,
+Dialogue: 0,1:05:09.70,1:05:10.57,Default,,0000,0000,0000,,150万\N{\fn微软雅黑\fs12} 1.5 million
+Dialogue: 0,1:05:10.57,1:05:13.90,Default,,0000,0000,0000,,160万\N{\fn微软雅黑\fs12} OK. 1.6 million...come on...
+Dialogue: 0,1:05:13.91,1:05:17.36,Default,,0000,0000,0000,,现在是160万 请大家反应热烈一点\N{\fn微软雅黑\fs12} Keep on, 1.6 million, 1.7 million...
+Dialogue: 0,1:05:17.74,1:05:20.58,Default,,0000,0000,0000,,哦 170万 哦 真是太好了\N{\fn微软雅黑\fs12} 1.7 million, alright
+Dialogue: 0,1:05:20.58,1:05:23.21,Default,,0000,0000,0000,,残而不废的年青人 你真是令我感动\N{\fn微软雅黑\fs12} You're not a useless handicapped, I'm impressed
+Dialogue: 0,1:05:23.21,1:05:24.88,Default,,0000,0000,0000,,老爸 看看你有什么表示\N{\fn微软雅黑\fs12} Can you guys do any better? Dad,
+Dialogue: 0,1:05:24.88,1:05:26.08,Default,,0000,0000,0000,,你又在扮慈善家\N{\fn微软雅黑\fs12} you're just pretending to be charitable
+Dialogue: 0,1:05:26.38,1:05:28.91,Default,,0000,0000,0000,,哦 好极了 180万\N{\fn微软雅黑\fs12} OK. 1.8 million, 1.8 million
+Dialogue: 0,1:05:29.22,1:05:32.28,Default,,0000,0000,0000,,190万\N{\fn微软雅黑\fs12} 1.9 million,
+Dialogue: 0,1:05:32.29,1:05:34.32,Default,,0000,0000,0000,,你猜这里的人知不知道 是200万\N{\fn微软雅黑\fs12} Do you think they know you're... now 2 million
+Dialogue: 0,1:05:34.33,1:05:35.95,Default,,0000,0000,0000,,你是人面兽心\N{\fn微软雅黑\fs12} such a hypocrite?
+Dialogue: 0,1:05:37.13,1:05:39.10,Default,,0000,0000,0000,,曾先生现在出到210万\N{\fn微软雅黑\fs12} Good, Mr Tsang now bids 2.1 million
+Dialogue: 0,1:05:39.10,1:05:41.22,Default,,0000,0000,0000,,你这么乐善好施\N{\fn微软雅黑\fs12} Are you doing this
+Dialogue: 0,1:05:41.23,1:05:42.49,Default,,0000,0000,0000,,别人会看得到\N{\fn微软雅黑\fs12} to buy respectability?
+Dialogue: 0,1:05:43.90,1:05:44.63,Default,,0000,0000,0000,,你每举一次手\N{\fn微软雅黑\fs12} You know every time you bid,
+Dialogue: 0,1:05:44.64,1:05:46.73,Default,,0000,0000,0000,,我就损失20万 你知道吗\N{\fn微软雅黑\fs12} I lose 200 thou?
+Dialogue: 0,1:05:49.24,1:05:50.50,Default,,0000,0000,0000,,话不应该这么说\N{\fn微软雅黑\fs12} I don't agree
+Dialogue: 0,1:05:50.61,1:05:52.77,Default,,0000,0000,0000,,二十年来我为你赚了那么多\N{\fn微软雅黑\fs12} I helped you make so much money,
+Dialogue: 0,1:05:53.34,1:05:55.40,Default,,0000,0000,0000,,只是找个机会帮你花一点也很公道啊\N{\fn微软雅黑\fs12} now I'm helping you to spend it
+Dialogue: 0,1:05:55.41,1:05:59.58,Default,,0000,0000,0000,,这位坐轮椅的朋友出了240万\N{\fn微软雅黑\fs12} The guy in the wheelchair now bids 2.4 million
+Dialogue: 0,1:05:59.58,1:06:03.02,Default,,0000,0000,0000,,现在250万了 250万了\N{\fn微软雅黑\fs12} 2.5 million, 2.5 million
+Dialogue: 0,1:06:03.62,1:06:06.25,Default,,0000,0000,0000,,你要再举手 这两只手都会报销\N{\fn微软雅黑\fs12} Big again, you'll lose your arms
+Dialogue: 0,1:06:06.26,1:06:08.25,Default,,0000,0000,0000,,260万 喔 好凶哦\N{\fn微软雅黑\fs12} 2.6 million
+Dialogue: 0,1:06:09.43,1:06:13.19,Default,,0000,0000,0000,,周先生又锦上添花 270万\N{\fn微软雅黑\fs12} Oh, yes, yes, Mr Chow ups the bid to 2.7
+Dialogue: 0,1:06:13.20,1:06:14.96,Default,,0000,0000,0000,,有没有高过270万的没有\N{\fn微软雅黑\fs12} Any more than 2.7, 2.7 million
+Dialogue: 0,1:06:14.97,1:06:17.49,Default,,0000,0000,0000,,270万 一 270万 二 270万 三\N{\fn微软雅黑\fs12} Knock for the first time, knock for the second time
+Dialogue: 0,1:06:17.70,1:06:19.83,Default,,0000,0000,0000,,成交 谢谢周先生\N{\fn微软雅黑\fs12} Sold for the two point seven million
+Dialogue: 0,1:06:19.97,1:06:21.96,Default,,0000,0000,0000,,我代表儿童伤残协会谢谢慷慨大方的周先生\N{\fn微软雅黑\fs12} On behalf of the HK Handicapped Association
+Dialogue: 0,1:06:21.97,1:06:24.00,Default,,0000,0000,0000,,谢谢 周先生\N{\fn微软雅黑\fs12} Thank you Mr Chow, oh, right!
+Dialogue: 0,1:06:35.52,1:06:37.55,Default,,0000,0000,0000,,不好意思 不过我是故意的\N{\fn微软雅黑\fs12} Sorry, I did it on purpose
+Dialogue: 0,1:06:39.89,1:06:41.22,Default,,0000,0000,0000,,出去 你们干什么 你们想干什么\N{\fn微软雅黑\fs12} What do you want? What do you want?
+Dialogue: 0,1:06:42.13,1:06:46.65,Default,,0000,0000,0000,,警卫 你们不要杀我 我是伤残人士\N{\fn微软雅黑\fs12} Guards, help me. help me
+Dialogue: 0,1:06:50.50,1:06:51.63,Default,,0000,0000,0000,,大家镇定点 镇定点\N{\fn微软雅黑\fs12} Calm down. Calm down
+Dialogue: 0,1:06:51.64,1:06:52.47,Default,,0000,0000,0000,,麻烦清洁女工\N{\fn微软雅黑\fs12} Clean this mess up have the cleaning ladies
+Dialogue: 0,1:06:52.47,1:06:54.13,Default,,0000,0000,0000,,扫扫那些破瓷烂瓦\N{\fn微软雅黑\fs12} picked up these worthless ceramic pieces
+Dialogue: 0,1:07:18.53,1:07:21.52,Default,,0000,0000,0000,,哎 小心点 弄坏了你赔不起的\N{\fn微软雅黑\fs12} Hey, careful, you can't afford these
+Dialogue: 0,1:07:22.37,1:07:25.36,Default,,0000,0000,0000,,对不起 这里不准进去的\N{\fn微软雅黑\fs12} Sorry, this entrance is forbidden
+Dialogue: 0,1:07:48.03,1:07:48.89,Default,,0000,0000,0000,,对不起\N{\fn微软雅黑\fs12} Sorry
+Dialogue: 0,1:07:59.94,1:08:01.96,Default,,0000,0000,0000,,这位先生 请把通行证戴上\N{\fn微软雅黑\fs12} Please sir, put on your ID badge
+Dialogue: 0,1:08:02.71,1:08:04.77,Default,,0000,0000,0000,,哦 是 我忘了戴了 谢谢你\N{\fn微软雅黑\fs12} Sure, sorry I forget
+Dialogue: 0,1:08:13.08,1:08:15.81,Default,,0000,0000,0000,,各位 不要紧请冷静一点\N{\fn微软雅黑\fs12} Sir, is all right, all right, calm down
+Dialogue: 0,1:08:16.49,1:08:17.22,Default,,0000,0000,0000,,出去看看\N{\fn微软雅黑\fs12} Check it out
+Dialogue: 0,1:08:17.92,1:08:19.25,Default,,0000,0000,0000,,快把这些人疏散到外面去\N{\fn微软雅黑\fs12} Lead all the people out here
+Dialogue: 0,1:08:19.59,1:08:20.82,Default,,0000,0000,0000,,什么事啊\N{\fn微软雅黑\fs12} What happened? What happened?
+Dialogue: 0,1:08:20.99,1:08:22.62,Default,,0000,0000,0000,,隔壁那边发生了爆炸\N{\fn微软雅黑\fs12} An explosion there, "BANG"
+Dialogue: 0,1:08:22.73,1:08:23.82,Default,,0000,0000,0000,,还不关总开关\N{\fn微软雅黑\fs12} Get the fire extinguished, be quick
+Dialogue: 0,1:08:23.83,1:08:25.16,Default,,0000,0000,0000,,检查电路有没有问题\N{\fn微软雅黑\fs12} Turn off the mains
+Dialogue: 0,1:08:25.16,1:08:25.82,Default,,0000,0000,0000,,快去\N{\fn微软雅黑\fs12} Be quick
+Dialogue: 0,1:09:23.69,1:09:26.32,Default,,0000,0000,0000,,大师兄 老爸让你气的发火了\N{\fn微软雅黑\fs12} Brother, you made dad furious
+Dialogue: 0,1:09:28.56,1:09:30.32,Default,,0000,0000,0000,,你少在这里耍把戏\N{\fn微软雅黑\fs12} Don't play here,
+Dialogue: 0,1:09:30.66,1:09:32.32,Default,,0000,0000,0000,,这里轮不到你玩\N{\fn微软雅黑\fs12} this place is not for playing
+Dialogue: 0,1:09:32.33,1:09:35.29,Default,,0000,0000,0000,,我要发财的地方不许你出现\N{\fn微软雅黑\fs12} This is my turf, scram
+Dialogue: 0,1:09:35.57,1:09:38.13,Default,,0000,0000,0000,,不然你连轮椅都没得坐 走\N{\fn微软雅黑\fs12} If not, you can't even sit on a wheel chair
+Dialogue: 0,1:09:41.17,1:09:42.37,Default,,0000,0000,0000,,记着\N{\fn微软雅黑\fs12} Don't forget!
+Dialogue: 0,1:09:49.48,1:09:50.64,Default,,0000,0000,0000,,你看\N{\fn微软雅黑\fs12} Youlook
+Dialogue: 0,1:09:53.08,1:09:54.35,Default,,0000,0000,0000,,拍卖行保险库里的防盗系统\N{\fn微软雅黑\fs12} The auction house vault...
+Dialogue: 0,1:09:54.35,1:09:56.55,Default,,0000,0000,0000,,有十几个电脑程式\N{\fn微软雅黑\fs12} has more than 1O security systems
+Dialogue: 0,1:09:56.65,1:09:58.21,Default,,0000,0000,0000,,就算进的去 未必开得了\N{\fn微软雅黑\fs12} Even if you get to the vault, it may not open
+Dialogue: 0,1:09:58.36,1:09:59.91,Default,,0000,0000,0000,,那不是要抬个电脑进去\N{\fn微软雅黑\fs12} We may have to bring the whole computer inside
+Dialogue: 0,1:10:00.36,1:10:02.99,Default,,0000,0000,0000,,啊 那倒不必 只要里应外合\N{\fn微软雅黑\fs12} No, we just need good communications
+Dialogue: 0,1:10:03.23,1:10:03.85,Default,,0000,0000,0000,,喂 你们俩说什么呢\N{\fn微软雅黑\fs12} Hey, what are you two talking about?
+Dialogue: 0,1:10:03.86,1:10:04.99,Default,,0000,0000,0000,,占兄 你需要我的\N{\fn微软雅黑\fs12} James, do you need me?
+Dialogue: 0,1:10:06.03,1:10:06.83,Default,,0000,0000,0000,,哎 干爹\N{\fn微软雅黑\fs12} Papa
+Dialogue: 0,1:10:06.93,1:10:08.16,Default,,0000,0000,0000,,又想偷东西呀\N{\fn微软雅黑\fs12} You're going to steal again?
+Dialogue: 0,1:10:08.33,1:10:09.73,Default,,0000,0000,0000,,没有 打游戏机呢\N{\fn微软雅黑\fs12} We're playing computer games
+Dialogue: 0,1:10:09.73,1:10:11.76,Default,,0000,0000,0000,,拜托拜托 改邪归正吧\N{\fn微软雅黑\fs12} Well, I hope you two'll stick to the straight path
+Dialogue: 0,1:10:11.90,1:10:13.23,Default,,0000,0000,0000,,啊 你去煮饭吧\N{\fn微软雅黑\fs12} Go back and cook
+Dialogue: 0,1:10:13.24,1:10:14.86,Default,,0000,0000,0000,,是啊 你的围裙真性感\N{\fn微软雅黑\fs12} Hey, this apron looks "camp"
+Dialogue: 0,1:10:14.87,1:10:15.60,Default,,0000,0000,0000,,不正经\N{\fn微软雅黑\fs12} Be serious!
+Dialogue: 0,1:10:15.61,1:10:16.73,Default,,0000,0000,0000,,挺合身的\N{\fn微软雅黑\fs12} It suits you
+Dialogue: 0,1:10:19.44,1:10:22.41,Default,,0000,0000,0000,,OK 没问题\N{\fn微软雅黑\fs12} Alright, we got everything
+Dialogue: 0,1:10:22.41,1:10:24.61,Default,,0000,0000,0000,,万事俱备 我们先走就差保险库的钥匙 嗯\N{\fn微软雅黑\fs12} but the vault key
+Dialogue: 0,1:10:25.62,1:10:26.67,Default,,0000,0000,0000,,偷匙我去偷\N{\fn微软雅黑\fs12} Let me steal it
+Dialogue: 0,1:10:27.39,1:10:28.41,Default,,0000,0000,0000,,你没算我一份啊\N{\fn微软雅黑\fs12} What? Without me?
+Dialogue: 0,1:10:28.42,1:10:29.61,Default,,0000,0000,0000,,我一个人就行了\N{\fn微软雅黑\fs12} I think I can handle this
+Dialogue: 0,1:10:32.39,1:10:35.26,Default,,0000,0000,0000,,十几年兄弟 我不会坏你的事的\N{\fn微软雅黑\fs12} Brother, I won't cause you any trouble
+Dialogue: 0,1:10:40.87,1:10:42.03,Default,,0000,0000,0000,,哎 你已经瘸了腿\N{\fn微软雅黑\fs12} But you lost two leg already
+Dialogue: 0,1:10:43.94,1:10:45.87,Default,,0000,0000,0000,,我不希望你再没了手或者没了命\N{\fn微软雅黑\fs12} I don't want you to lose an arm of your life
+Dialogue: 0,1:10:47.94,1:10:49.30,Default,,0000,0000,0000,,哎 刚才聊的怎么样\N{\fn微软雅黑\fs12} What were you talking about?
+Dialogue: 0,1:10:51.24,1:10:53.14,Default,,0000,0000,0000,,你怎么越来越三八呀\N{\fn微软雅黑\fs12} Don't be so nosy
+Dialogue: 0,1:10:53.91,1:10:55.21,Default,,0000,0000,0000,,你们什么时候要小家伙呀\N{\fn微软雅黑\fs12} When do you want children?
+Dialogue: 0,1:10:58.42,1:11:01.91,Default,,0000,0000,0000,,想过了 想等做完这单再说\N{\fn微软雅黑\fs12} We thought about it, not till after this job though
+Dialogue: 0,1:11:03.09,1:11:04.32,Default,,0000,0000,0000,,要儿子要女儿\N{\fn微软雅黑\fs12} You want a boy or a girl?
+Dialogue: 0,1:11:05.49,1:11:07.05,Default,,0000,0000,0000,,我当然想先要儿子了\N{\fn微软雅黑\fs12} Of course a boy
+Dialogue: 0,1:11:07.33,1:11:09.49,Default,,0000,0000,0000,,她却想要女儿 说好带\N{\fn微软雅黑\fs12} But she wants a girl, easier to carry
+Dialogue: 0,1:11:10.96,1:11:11.76,Default,,0000,0000,0000,,取名了吗\N{\fn微软雅黑\fs12} Did you think of a name?
+Dialogue: 0,1:11:12.56,1:11:15.46,Default,,0000,0000,0000,,儿子呢就叫花贵仔\N{\fn微软雅黑\fs12} If it's a boy Joseph
+Dialogue: 0,1:11:18.77,1:11:20.24,Default,,0000,0000,0000,,女儿就叫聪明豆\N{\fn微软雅黑\fs12} If it's a girl Sherry
+Dialogue: 0,1:11:21.97,1:11:26.41,Default,,0000,0000,0000,,好啊 是不是要我做干爹呀\N{\fn微软雅黑\fs12} OK? Want me to be godfather?
+Dialogue: 0,1:11:26.91,1:11:29.61,Default,,0000,0000,0000,,这还用说 你不做干爹谁做干爹呀\N{\fn微软雅黑\fs12} Of course, who else?
+Dialogue: 0,1:11:29.75,1:11:31.91,Default,,0000,0000,0000,,想做干爹呢 你就要来美国\N{\fn微软雅黑\fs12} But you'll have to come to the State
+Dialogue: 0,1:11:36.52,1:11:41.19,Default,,0000,0000,0000,,是啊 我们想过些日子去美国 不回来了\N{\fn微软雅黑\fs12} We plan to settle over there
+Dialogue: 0,1:11:43.83,1:11:47.32,Default,,0000,0000,0000,,恭祝你生日快乐\N{\fn微软雅黑\fs12} Happy Birthday
+Dialogue: 0,1:11:50.00,1:11:51.09,Default,,0000,0000,0000,,来了 生日快乐\N{\fn微软雅黑\fs12} Happy Birthday
+Dialogue: 0,1:11:53.17,1:11:54.54,Default,,0000,0000,0000,,哇 好漂亮的蛋糕啊\N{\fn微软雅黑\fs12} Beautiful cake!
+Dialogue: 0,1:11:55.51,1:11:56.84,Default,,0000,0000,0000,,红豆亲自给你做的\N{\fn微软雅黑\fs12} Cherie made it for you
+Dialogue: 0,1:11:57.14,1:11:58.54,Default,,0000,0000,0000,,今天是你生日 你忘啦\N{\fn微软雅黑\fs12} Don't you remember today is your birthday
+Dialogue: 0,1:12:00.14,1:12:01.54,Default,,0000,0000,0000,,对了 我今年多大啦\N{\fn微软雅黑\fs12} Oh yeah, how old am I?
+Dialogue: 0,1:12:01.65,1:12:02.87,Default,,0000,0000,0000,,三十有六\N{\fn微软雅黑\fs12} Thirthy-six
+Dialogue: 0,1:12:03.38,1:12:05.21,Default,,0000,0000,0000,,哎哟 岁月催人老哇\N{\fn微软雅黑\fs12} Time sure goes by fast
+Dialogue: 0,1:12:07.05,1:12:08.31,Default,,0000,0000,0000,,哎 对了 把眼睛闭上\N{\fn微软雅黑\fs12} Close your eyes
+Dialogue: 0,1:12:08.32,1:12:08.98,Default,,0000,0000,0000,,干嘛\N{\fn微软雅黑\fs12} What for?
+Dialogue: 0,1:12:09.15,1:12:10.18,Default,,0000,0000,0000,,许愿呀\N{\fn微软雅黑\fs12} Make a wish
+Dialogue: 0,1:12:12.96,1:12:14.15,Default,,0000,0000,0000,,两个狡猾的狐狸\N{\fn微软雅黑\fs12} You're so fussy
+Dialogue: 0,1:12:26.47,1:12:27.56,Default,,0000,0000,0000,,你是不是没事啊\N{\fn微软雅黑\fs12} I told you there's no trick
+Dialogue: 0,1:12:27.67,1:12:28.73,Default,,0000,0000,0000,,相信你们好啦\N{\fn微软雅黑\fs12} Lucky for you
+Dialogue: 0,1:12:36.75,1:12:38.21,Default,,0000,0000,0000,,这个蛋糕太棒啦\N{\fn微软雅黑\fs12} The cake is delicious
+Dialogue: 0,1:12:57.60,1:12:58.50,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} Thanks
+Dialogue: 0,1:13:02.41,1:13:06.40,Default,,0000,0000,0000,,喂 看那是谁\N{\fn微软雅黑\fs12} Hey, do you see him?
+Dialogue: 0,1:13:06.54,1:13:07.20,Default,,0000,0000,0000,,什么事\N{\fn微软雅黑\fs12} Who?
+Dialogue: 0,1:13:07.91,1:13:09.88,Default,,0000,0000,0000,,他就是拍卖行的主任 胡计修\N{\fn微软雅黑\fs12} He's the auction director, Stanley Wu
+Dialogue: 0,1:13:10.58,1:13:11.67,Default,,0000,0000,0000,,钥匙在他身上\N{\fn微软雅黑\fs12} He has the key,
+Dialogue: 0,1:13:12.12,1:13:13.24,Default,,0000,0000,0000,,不过 不知道放在哪\N{\fn微软雅黑\fs12} but don't know where he put it
+Dialogue: 0,1:13:13.38,1:13:14.41,Default,,0000,0000,0000,,以红豆的魅力\N{\fn微软雅黑\fs12} With Cherie's charm,
+Dialogue: 0,1:13:14.42,1:13:16.85,Default,,0000,0000,0000,,上去摸一摸不就知道了嘛\N{\fn微软雅黑\fs12} we'll be able to find out soon
+Dialogue: 0,1:13:18.42,1:13:19.58,Default,,0000,0000,0000,,真看得起我啊\N{\fn微软雅黑\fs12} What high praise
+Dialogue: 0,1:13:23.46,1:13:26.52,Default,,0000,0000,0000,,真兄 看来有人逼我跟你太太跳舞\N{\fn微软雅黑\fs12} Jim, can I dance with your wife?
+Dialogue: 0,1:13:31.07,1:13:31.90,Default,,0000,0000,0000,,请\N{\fn微软雅黑\fs12} Please
+Dialogue: 0,1:13:33.57,1:13:34.70,Default,,0000,0000,0000,,留意钥匙声\N{\fn微软雅黑\fs12} Listen for the key's noise
+Dialogue: 0,1:14:04.17,1:14:05.00,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Dad
+Dialogue: 0,1:14:05.84,1:14:07.74,Default,,0000,0000,0000,,你是怎么搞的 带阿贵来会坏事\N{\fn微软雅黑\fs12} Bringing Joe here is asking for trouble
+Dialogue: 0,1:14:10.14,1:14:13.24,Default,,0000,0000,0000,,叙叙旧嘛 放心\N{\fn微软雅黑\fs12} Don't worry,
+Dialogue: 0,1:14:13.24,1:14:14.73,Default,,0000,0000,0000,,我保证帮你拿到那幅画\N{\fn微软雅黑\fs12} you'll get your painting
+Dialogue: 0,1:14:16.51,1:14:17.74,Default,,0000,0000,0000,,绝不能失手\N{\fn微软雅黑\fs12} You'll be responsible for him
+Dialogue: 0,1:14:26.82,1:14:27.65,Default,,0000,0000,0000,,你来干嘛\N{\fn微软雅黑\fs12} What are you doing here?
+Dialogue: 0,1:14:29.46,1:14:31.69,Default,,0000,0000,0000,,我来看我的儿子 你又来干嘛\N{\fn微软雅黑\fs12} I come to see my son, what are you doing?
+Dialogue: 0,1:14:32.43,1:14:33.59,Default,,0000,0000,0000,,我来看我儿子\N{\fn微软雅黑\fs12} I come to see my son too
+Dialogue: 0,1:14:46.54,1:14:47.60,Default,,0000,0000,0000,,看到啦\N{\fn微软雅黑\fs12} It's time to work
+Dialogue: 0,1:14:47.78,1:14:49.27,Default,,0000,0000,0000,,拜托 冷静点\N{\fn微软雅黑\fs12} Please do me a favour
+Dialogue: 0,1:15:02.23,1:15:03.12,Default,,0000,0000,0000,,胡主任\N{\fn微软雅黑\fs12} Mr Wu,
+Dialogue: 0,1:15:03.46,1:15:05.05,Default,,0000,0000,0000,,嗯\N{\fn微软雅黑\fs12} Oh, hello!
+Dialogue: 0,1:15:07.47,1:15:10.96,Default,,0000,0000,0000,,我是洛杉矶华人古董研究促进协会的代表\N{\fn微软雅黑\fs12} I'm the representative of the L.A. Chinese Antique Association
+Dialogue: 0,1:15:11.24,1:15:13.03,Default,,0000,0000,0000,,啊 幸会\N{\fn微软雅黑\fs12} Oh, hello!
+Dialogue: 0,1:15:14.04,1:15:16.13,Default,,0000,0000,0000,,我对古董文化很有兴趣\N{\fn微软雅黑\fs12} I'm keen on antique
+Dialogue: 0,1:15:16.64,1:15:18.37,Default,,0000,0000,0000,,我知道你是拍卖行主任\N{\fn微软雅黑\fs12} I know you are the auction director
+Dialogue: 0,1:15:18.58,1:15:20.70,Default,,0000,0000,0000,,你一定对古董很有研究\N{\fn微软雅黑\fs12} You must know a lot abut antiques
+Dialogue: 0,1:15:20.85,1:15:23.71,Default,,0000,0000,0000,,不敢当 我也是老古董啊\N{\fn微软雅黑\fs12} Well, actually I myself is an antique
+Dialogue: 0,1:15:26.35,1:15:29.91,Default,,0000,0000,0000,,我希望能够对历史文化作进一步的探讨\N{\fn微软雅黑\fs12} I want to do my thesis on Chinese culture and history
+Dialogue: 0,1:15:30.32,1:15:32.19,Default,,0000,0000,0000,,希望你指点一下晚辈\N{\fn微软雅黑\fs12} Would you show me the way please?
+Dialogue: 0,1:16:00.72,1:16:01.58,Default,,0000,0000,0000,,哎 亚占 你\N{\fn微软雅黑\fs12} Jim
+Dialogue: 0,1:16:55.34,1:16:57.17,Default,,0000,0000,0000,,阿真 你想干什么 又想偷\N{\fn微软雅黑\fs12} Jim, what are you doing here? Stealing again?
+Dialogue: 0,1:16:58.11,1:16:59.24,Default,,0000,0000,0000,,哎 你这么急上哪去\N{\fn微软雅黑\fs12} Hey, what's the hurry?
+Dialogue: 0,1:16:59.41,1:17:01.28,Default,,0000,0000,0000,,我的两个干儿子在聚旧而已嘛\N{\fn微软雅黑\fs12} They're just having a good time
+Dialogue: 0,1:17:01.58,1:17:03.34,Default,,0000,0000,0000,,来 我跟你喝一杯\N{\fn微软雅黑\fs12} Let's have a drink, come on
+Dialogue: 0,1:17:03.81,1:17:06.94,Default,,0000,0000,0000,,咱们俩都二十多年了 应该干一杯了吧\N{\fn微软雅黑\fs12} Don't you two think it's time for a drink? Come on
+Dialogue: 0,1:17:06.95,1:17:08.51,Default,,0000,0000,0000,,来跟我干爹喝一杯吧\N{\fn微软雅黑\fs12} Have a drink with Papa
+Dialogue: 0,1:17:08.52,1:17:09.75,Default,,0000,0000,0000,,我自己有\N{\fn微软雅黑\fs12} I got mine
+Dialogue: 0,1:18:28.53,1:18:38.67,Default,,0000,0000,0000,,1 2 3 4 5 6\N{\fn微软雅黑\fs12} 1,2, 3,4, 5,6
+Dialogue: 0,1:18:45.58,1:18:46.91,Default,,0000,0000,0000,,喂 那里有事\N{\fn微软雅黑\fs12} Hey, something's going on there
+Dialogue: 0,1:19:17.15,1:19:20.95,Default,,0000,0000,0000,,哎 总台总台 开饭啦 收到了没有\N{\fn微软雅黑\fs12} Hello, Control, it's time to work,
+Dialogue: 0,1:19:20.95,1:19:21.92,Default,,0000,0000,0000,,开饭啦\N{\fn微软雅黑\fs12} can you hear me?
+Dialogue: 0,1:19:23.65,1:19:25.92,Default,,0000,0000,0000,,哎呀 老大 我收到了 你不必这么大声\N{\fn微软雅黑\fs12} Hey man, I can hear you, no need to shout
+Dialogue: 0,1:19:25.92,1:19:26.89,Default,,0000,0000,0000,,我耳朵聋了\N{\fn微软雅黑\fs12} Don't make me deaf
+Dialogue: 0,1:19:27.83,1:19:31.62,Default,,0000,0000,0000,,警卫回老家了 电闸房没锁门\N{\fn微软雅黑\fs12} The guards are off, they haven't locked the electricity room
+Dialogue: 0,1:19:33.23,1:19:35.10,Default,,0000,0000,0000,,想不到你的身手还是这么敏捷\N{\fn微软雅黑\fs12} I didn't think you're that good
+Dialogue: 0,1:19:35.10,1:19:37.29,Default,,0000,0000,0000,,不愧是我的最佳拍挡\N{\fn微软雅黑\fs12} No wonder we're partners
+Dialogue: 0,1:19:37.84,1:19:39.96,Default,,0000,0000,0000,,不要忘记我在空气中陪伴你\N{\fn微软雅黑\fs12} Don't forget I'll be with you
+Dialogue: 0,1:19:40.14,1:19:41.80,Default,,0000,0000,0000,,不要忘记在你最寂寞的时候\N{\fn微软雅黑\fs12} Whenever you get lonely,
+Dialogue: 0,1:19:41.94,1:19:43.10,Default,,0000,0000,0000,,我始终在你的耳边\N{\fn微软雅黑\fs12} I'll be the DJ in your ear
+Dialogue: 0,1:19:43.11,1:19:44.17,Default,,0000,0000,0000,,哎 总台 你鬼上身啦\N{\fn微软雅黑\fs12} Control what's gotten into you
+Dialogue: 0,1:19:44.94,1:19:46.10,Default,,0000,0000,0000,,怎么像跳大神的神婆\N{\fn微软雅黑\fs12} Are you possessed?
+Dialogue: 0,1:19:46.28,1:19:47.97,Default,,0000,0000,0000,,没问题 没问题\N{\fn微软雅黑\fs12} Don't worry...
+Dialogue: 0,1:19:47.98,1:19:50.07,Default,,0000,0000,0000,,你进了电闸房一定会看到很多的开关\N{\fn微软雅黑\fs12} As soon as you get into the electricity room,
+Dialogue: 0,1:19:50.08,1:19:51.45,Default,,0000,0000,0000,,你不必怕 也不必慌\N{\fn微软雅黑\fs12} Don't panic, you'll see lots of wires
+Dialogue: 0,1:19:51.45,1:19:53.44,Default,,0000,0000,0000,,看到了开关 一手按下去就行了\N{\fn微软雅黑\fs12} Once you find the switch, just switch it off
+Dialogue: 0,1:19:54.18,1:19:59.59,Default,,0000,0000,0000,,收到 开关按下啦 跟着又怎么样\N{\fn微软雅黑\fs12} Roger, the switch is off, what next?
+Dialogue: 0,1:19:59.76,1:20:01.69,Default,,0000,0000,0000,,啊 你真是机灵过机灵\N{\fn微软雅黑\fs12} You're not only smart,
+Dialogue: 0,1:20:01.69,1:20:03.02,Default,,0000,0000,0000,,聪明过聪明\N{\fn微软雅黑\fs12} but intelligent too
+Dialogue: 0,1:20:03.03,1:20:04.69,Default,,0000,0000,0000,,接下来你要告诉我线路的号码\N{\fn微软雅黑\fs12} Now give me the model number,
+Dialogue: 0,1:20:04.70,1:20:05.49,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs12} please
+Dialogue: 0,1:20:05.80,1:20:07.63,Default,,0000,0000,0000,,JJ063 清不清楚\N{\fn微软雅黑\fs12} JJO63 OK?
+Dialogue: 0,1:20:07.87,1:20:11.70,Default,,0000,0000,0000,,萤光幕的显示呢 红色是代表危险的\N{\fn微软雅黑\fs12} According to the computer, the red one is dangerous
+Dialogue: 0,1:20:11.70,1:20:14.80,Default,,0000,0000,0000,,至于蓝色呢 是代表烦闷\N{\fn微软雅黑\fs12} The blue one has the blues
+Dialogue: 0,1:20:16.14,1:20:17.20,Default,,0000,0000,0000,,还有条黄色\N{\fn微软雅黑\fs12} As for the yellow one,
+Dialogue: 0,1:20:17.44,1:20:20.71,Default,,0000,0000,0000,,嚯 黄色是代表色情 是不能够剪的\N{\fn微软雅黑\fs12} can't cut that one, it's the sex one
+Dialogue: 0,1:20:22.28,1:20:23.51,Default,,0000,0000,0000,,那剪哪条才对啊\N{\fn微软雅黑\fs12} So which one do I cut?
+Dialogue: 0,1:20:24.01,1:20:27.21,Default,,0000,0000,0000,,蓝色 我最恨烦闷啦\N{\fn微软雅黑\fs12} The blue one, I hate the blues
+Dialogue: 0,1:20:28.52,1:20:29.45,Default,,0000,0000,0000,,剪啦\N{\fn微软雅黑\fs12} You got it
+Dialogue: 0,1:20:30.65,1:20:31.81,Default,,0000,0000,0000,,哦哦哦 剪啦就放心啦\N{\fn微软雅黑\fs12} I feel much better now
+Dialogue: 0,1:20:36.13,1:20:37.96,Default,,0000,0000,0000,,喂喂喂 我遇到麻烦啦\N{\fn微软雅黑\fs12} Oh, I saw a road block,
+Dialogue: 0,1:20:38.40,1:20:40.12,Default,,0000,0000,0000,,如果你按对了6个号码 那可不得了\N{\fn微软雅黑\fs12} if you push the right 6 numbers
+Dialogue: 0,1:20:40.13,1:20:42.66,Default,,0000,0000,0000,,中正六合彩 发大财\N{\fn微软雅黑\fs12} You'll win the grand price
+Dialogue: 0,1:20:47.50,1:20:48.56,Default,,0000,0000,0000,,什么号码\N{\fn微软雅黑\fs12} What no.?
+Dialogue: 0,1:20:48.87,1:20:50.20,Default,,0000,0000,0000,,等等啊\N{\fn微软雅黑\fs12} Hold on
+Dialogue: 0,1:20:54.55,1:20:55.91,Default,,0000,0000,0000,,五个8\N{\fn微软雅黑\fs12} Easy, first a 6, then five 8's
+Dialogue: 0,1:20:55.91,1:20:57.31,Default,,0000,0000,0000,,这个号码我买了很多期\N{\fn微软雅黑\fs12} I used these nos. a lot,
+Dialogue: 0,1:20:57.31,1:20:58.51,Default,,0000,0000,0000,,只是从来没有中过\N{\fn微软雅黑\fs12} but they never won
+Dialogue: 0,1:20:59.02,1:21:00.04,Default,,0000,0000,0000,,我会追的\N{\fn微软雅黑\fs12} So I keep on trying
+Dialogue: 0,1:21:05.59,1:21:06.39,Default,,0000,0000,0000,,行了吧 宝贝\N{\fn微软雅黑\fs12} Are you done yet, you one eyed trouser snake
+Dialogue: 0,1:21:06.52,1:21:07.35,Default,,0000,0000,0000,,行啦\N{\fn微软雅黑\fs12} Done
+Dialogue: 0,1:21:07.42,1:21:09.22,Default,,0000,0000,0000,,是吧 我就知道你能干嘛\N{\fn微软雅黑\fs12} Yeah? I knew you could do it, Sherlock
+Dialogue: 0,1:21:09.49,1:21:11.32,Default,,0000,0000,0000,,下次 太容易的事别找我做啊\N{\fn微软雅黑\fs12} Next time, don't ask me if it's so easy
+Dialogue: 0,1:21:11.50,1:21:13.36,Default,,0000,0000,0000,,什么 这话怎么说\N{\fn微软雅黑\fs12} Alright, whom should I ask?
+Dialogue: 0,1:21:13.66,1:21:15.53,Default,,0000,0000,0000,,太容易显得我低能\N{\fn微软雅黑\fs12} I'd introduced you to Watson
+Dialogue: 0,1:21:19.70,1:21:22.90,Default,,0000,0000,0000,,哎 现在轮到我啦 你拿听筒听听他的脉膊\N{\fn微软雅黑\fs12} Hey, stop joking, let me listen to the vault
+Dialogue: 0,1:21:25.94,1:21:28.21,Default,,0000,0000,0000,,转左32一次 转右15\N{\fn微软雅黑\fs12} Turn left to 32, right to 15
+Dialogue: 0,1:21:28.28,1:21:29.75,Default,,0000,0000,0000,,这么容易啊\N{\fn微软雅黑\fs12} is it really this easy?
+Dialogue: 0,1:21:30.11,1:21:31.51,Default,,0000,0000,0000,,转左13 停\N{\fn微软雅黑\fs12} Turn left to 13, stop
+Dialogue: 0,1:21:32.18,1:21:32.88,Default,,0000,0000,0000,,哎\N{\fn微软雅黑\fs12} YES!
+Dialogue: 0,1:21:33.12,1:21:34.55,Default,,0000,0000,0000,,接着呢 你就把听筒放低一点\N{\fn微软雅黑\fs12} Now put your stethoscope
+Dialogue: 0,1:21:34.79,1:21:36.12,Default,,0000,0000,0000,,让我听听下面的脉膊\N{\fn微软雅黑\fs12} on the lower lock
+Dialogue: 0,1:21:36.92,1:21:37.85,Default,,0000,0000,0000,,干什么\N{\fn微软雅黑\fs12} Then what?
+Dialogue: 0,1:21:38.59,1:21:40.39,Default,,0000,0000,0000,,喂 你怎么暂停啦\N{\fn微软雅黑\fs12} How can a DJ stop talking?
+Dialogue: 0,1:21:40.86,1:21:41.88,Default,,0000,0000,0000,,你想偷那幅画\N{\fn微软雅黑\fs12} You want to steal that painting?
+Dialogue: 0,1:21:44.23,1:21:45.20,Default,,0000,0000,0000,,嘘 这是直播节目\N{\fn微软雅黑\fs12} I'm on the air now
+Dialogue: 0,1:21:45.86,1:21:46.45,Default,,0000,0000,0000,,嗯 直播\N{\fn微软雅黑\fs12} Oh the air?
+Dialogue: 0,1:21:47.23,1:21:48.56,Default,,0000,0000,0000,,各位小朋友\N{\fn微软雅黑\fs12} Hello kids,
+Dialogue: 0,1:21:48.57,1:21:51.06,Default,,0000,0000,0000,,我们现在揭晓上一段谜语游戏的谜底\N{\fn微软雅黑\fs12} we have a riddle for you to solve
+Dialogue: 0,1:21:51.07,1:21:54.87,Default,,0000,0000,0000,,上一段谜面是馒头泡在稀饭里\N{\fn微软雅黑\fs12} Last riddle was: What room has no wall?
+Dialogue: 0,1:21:54.87,1:21:56.24,Default,,0000,0000,0000,,这谜底是什么呢\N{\fn微软雅黑\fs12} I'm going to tell you the answer now
+Dialogue: 0,1:21:56.31,1:21:57.86,Default,,0000,0000,0000,,就是周润发\N{\fn微软雅黑\fs12} The answer is MUSH-ROOM
+Dialogue: 0,1:21:57.94,1:21:58.38,Default,,0000,0000,0000,,我现在要跟低洼地区的听众说一说\N{\fn微软雅黑\fs12} Now for those who are not receiving us well,
+Dialogue: 0,1:21:59.38,1:22:01.97,Default,,0000,0000,0000,,如果你的收音机收得不太清晰呢\N{\fn微软雅黑\fs12} because you're far away like the New Territories
+Dialogue: 0,1:22:01.98,1:22:04.95,Default,,0000,0000,0000,,谢谢 请你转向80兆赫 对80兆赫\N{\fn微软雅黑\fs12} Please turn your radio to FM80, FM8O
+Dialogue: 0,1:22:04.95,1:22:07.38,Default,,0000,0000,0000,,要转两次才能够听得清楚\N{\fn微软雅黑\fs12} Turn twice to get a clearer reception
+Dialogue: 0,1:22:07.38,1:22:08.37,Default,,0000,0000,0000,,接着呢 要说的是\N{\fn微软雅黑\fs12} So what do we do now?
+Dialogue: 0,1:22:08.39,1:22:09.65,Default,,0000,0000,0000,,啊对 不要让它停\N{\fn微软雅黑\fs12} Of course we can't stop here
+Dialogue: 0,1:22:09.65,1:22:10.95,Default,,0000,0000,0000,,继续玩猜谜游戏啊\N{\fn微软雅黑\fs12} Must be riddle time again
+Dialogue: 0,1:22:10.95,1:22:14.05,Default,,0000,0000,0000,,下一个谜面是大家排队上厕所\N{\fn微软雅黑\fs12} Todays riddle is: What's pink and hides in a strawberry patch?
+Dialogue: 0,1:22:14.06,1:22:15.08,Default,,0000,0000,0000,,猜一个国家首都的名字\N{\fn微软雅黑\fs12} Can you guess the answer?
+Dialogue: 0,1:22:15.23,1:22:17.82,Default,,0000,0000,0000,,这谜底是什么呢 呃 一会大哥哥会向你揭晓的\N{\fn微软雅黑\fs12} Wait a bit, Bobo the clown will give you the answer
+Dialogue: 0,1:22:17.83,1:22:19.23,Default,,0000,0000,0000,,再见\N{\fn微软雅黑\fs12} That's all, bye
+Dialogue: 0,1:22:21.83,1:22:22.59,Default,,0000,0000,0000,,哎呀 你来得正是时候\N{\fn微软雅黑\fs12} You came just in time!
+Dialogue: 0,1:22:22.60,1:22:24.16,Default,,0000,0000,0000,,我在帮香港儿童成长基金\N{\fn微软雅黑\fs12} I'm helping HK Handicapped Children
+Dialogue: 0,1:22:24.17,1:22:25.33,Default,,0000,0000,0000,,做直播节目\N{\fn微软雅黑\fs12} do a charity broadcast
+Dialogue: 0,1:22:25.34,1:22:26.50,Default,,0000,0000,0000,,小朋友真可爱啊\N{\fn微软雅黑\fs12} They're really cute
+Dialogue: 0,1:22:26.74,1:22:28.73,Default,,0000,0000,0000,,我现在要去交水费 幸亏你来了\N{\fn微软雅黑\fs12} I gotta go bleed the lizard, I'm lucky you're here
+Dialogue: 0,1:22:28.74,1:22:30.30,Default,,0000,0000,0000,,你帮我顶一阵 我很快就回来\N{\fn微软雅黑\fs12} Can you help me, I'll be right back
+Dialogue: 0,1:22:30.41,1:22:31.57,Default,,0000,0000,0000,,幸亏你没去偷那幅画\N{\fn微软雅黑\fs12} Good thing you're not stealing the painting,
+Dialogue: 0,1:22:32.01,1:22:33.27,Default,,0000,0000,0000,,那里的保安系统改变啦\N{\fn微软雅黑\fs12} they changed the security system,
+Dialogue: 0,1:22:33.34,1:22:34.31,Default,,0000,0000,0000,,只要拿下画\N{\fn微软雅黑\fs12} as soon as you lift the painting
+Dialogue: 0,1:22:34.31,1:22:35.68,Default,,0000,0000,0000,,保险库的门就会自动关上\N{\fn微软雅黑\fs12} the vault door will automatically lock
+Dialogue: 0,1:22:37.45,1:22:40.08,Default,,0000,0000,0000,,哎 好啦好啦 哎 各位小朋友\N{\fn微软雅黑\fs12} Hello, Hi kids,
+Dialogue: 0,1:22:40.08,1:22:41.24,Default,,0000,0000,0000,,我就是那位大哥哥啦\N{\fn微软雅黑\fs12} I'm Bobo the clown
+Dialogue: 0,1:22:43.35,1:22:45.34,Default,,0000,0000,0000,,各位小朋友 我现在揭晓谜底啦\N{\fn微软雅黑\fs12} Well kids, here's the answer to the riddle
+Dialogue: 0,1:22:45.36,1:22:46.98,Default,,0000,0000,0000,,大家排队上厕所\N{\fn微软雅黑\fs12} Whats pink and hides in strawberry patches?
+Dialogue: 0,1:22:46.99,1:22:48.65,Default,,0000,0000,0000,,就是英国的首都 伦敦\N{\fn微软雅黑\fs12} A pink elephant
+Dialogue: 0,1:23:19.86,1:23:24.12,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hello,
+Dialogue: 0,1:23:27.70,1:23:28.67,Default,,0000,0000,0000,,喂\N{\fn微软雅黑\fs12} Hello.
+Dialogue: 0,1:23:31.80,1:23:33.33,Default,,0000,0000,0000,,阿贵 收到没有\N{\fn微软雅黑\fs12} Joe, are you there?
+Dialogue: 0,1:23:58.50,1:23:59.76,Default,,0000,0000,0000,,什么人 站住\N{\fn微软雅黑\fs12} Hey, hold it, don't move
+Dialogue: 0,1:24:20.92,1:24:29.12,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Jim, Jim, Jim
+Dialogue: 0,1:24:47.81,1:24:49.75,Default,,0000,0000,0000,,阿真 坚持一下\N{\fn微软雅黑\fs12} Hold on
+Dialogue: 0,1:25:13.17,1:25:15.33,Default,,0000,0000,0000,,哎 怎么没炸呢 阿真\N{\fn微软雅黑\fs12} Why didn't it explode? Jim, damn it
+Dialogue: 0,1:25:17.24,1:25:19.30,Default,,0000,0000,0000,,糟糕 原来接错线了\N{\fn微软雅黑\fs12} Wrong connection
+Dialogue: 0,1:25:19.98,1:25:22.67,Default,,0000,0000,0000,,阿真吗 你听到没有 你答应我啊\N{\fn微软雅黑\fs12} Jim, are you alright, answer me
+Dialogue: 0,1:25:22.68,1:25:24.61,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Jim, don't scare me
+Dialogue: 0,1:25:25.02,1:25:27.14,Default,,0000,0000,0000,,糟糕\N{\fn微软雅黑\fs12} Damn,
+Dialogue: 0,1:25:27.45,1:25:29.44,Default,,0000,0000,0000,,怎么搞的 没出错的嘛\N{\fn微软雅黑\fs12} it's all connected
+Dialogue: 0,1:25:31.62,1:25:32.49,Default,,0000,0000,0000,,阿真\N{\fn微软雅黑\fs12} Jim
+Dialogue: 0,1:25:35.09,1:25:35.96,Default,,0000,0000,0000,,啊 谢谢\N{\fn微软雅黑\fs12} Thanks
+Dialogue: 0,1:25:37.96,1:25:39.26,Default,,0000,0000,0000,,哎 你怎么有钥匙\N{\fn微软雅黑\fs12} How come you have the keys?
+Dialogue: 0,1:25:39.76,1:25:40.53,Default,,0000,0000,0000,,你怎么出来啦\N{\fn微软雅黑\fs12} How come you're here?
+Dialogue: 0,1:25:40.53,1:25:42.12,Default,,0000,0000,0000,,你炸这边 怎么那边开啦\N{\fn微软雅黑\fs12} You put the explosive here, so why did it explode on the other side?
+Dialogue: 0,1:25:44.84,1:25:47.03,Default,,0000,0000,0000,,啊 插错洞啦 我插错洞啦\N{\fn微软雅黑\fs12} Wrong socket. Wrong socket
+Dialogue: 0,1:25:47.84,1:25:48.86,Default,,0000,0000,0000,,你不相信啊\N{\fn微软雅黑\fs12} If you don't believe me,
+Dialogue: 0,1:25:48.87,1:25:50.31,Default,,0000,0000,0000,,你进去再让我再炸一次啊\N{\fn微软雅黑\fs12} I'll show you again
+Dialogue: 0,1:25:50.31,1:25:52.17,Default,,0000,0000,0000,,你怎么不进去让我炸啊\N{\fn微软雅黑\fs12} I dare not, let's go
+Dialogue: 0,1:25:52.54,1:25:55.53,Default,,0000,0000,0000,,真的啊 我一定成功的 再炸一次吧\N{\fn微软雅黑\fs12} Hey, I'm serious, get in, I'll show you
+Dialogue: 0,1:26:02.85,1:26:03.65,Default,,0000,0000,0000,,看见没有\N{\fn微软雅黑\fs12} Did you see them?
+Dialogue: 0,1:26:04.52,1:26:05.49,Default,,0000,0000,0000,,看见了\N{\fn微软雅黑\fs12} Yeah
+Dialogue: 0,1:26:07.96,1:26:08.89,Default,,0000,0000,0000,,是人是鬼啊\N{\fn微软雅黑\fs12} Are they people or ghost?
+Dialogue: 0,1:26:12.20,1:26:12.89,Default,,0000,0000,0000,,人啊\N{\fn微软雅黑\fs12} People
+Dialogue: 0,1:26:53.27,1:26:54.36,Default,,0000,0000,0000,,我顶\N{\fn微软雅黑\fs12} Let me head butt it
+Dialogue: 0,1:26:59.58,1:27:00.57,Default,,0000,0000,0000,,移形换影\N{\fn微软雅黑\fs12} Change position
+Dialogue: 0,1:27:52.30,1:27:53.42,Default,,0000,0000,0000,,我顶\N{\fn微软雅黑\fs12} I head butt it
+Dialogue: 0,1:28:03.01,1:28:03.84,Default,,0000,0000,0000,,走\N{\fn微软雅黑\fs12} Jump!
+Dialogue: 0,1:28:39.61,1:28:41.67,Default,,0000,0000,0000,,剩最后一颗炸弹啦 炸死他\N{\fn微软雅黑\fs12} Please grant me a bomb to kill this kid
+Dialogue: 0,1:28:45.68,1:28:46.44,Default,,0000,0000,0000,,又来啦\N{\fn微软雅黑\fs12} Not again?
+Dialogue: 0,1:29:04.23,1:29:06.53,Default,,0000,0000,0000,,大战之后 乃歌舞升平也\N{\fn微软雅黑\fs12} After war, time of peace come upon us
+Dialogue: 0,1:29:11.54,1:29:12.87,Default,,0000,0000,0000,,收工咯\N{\fn微软雅黑\fs12} Super
+Dialogue: 0,1:29:13.48,1:29:16.31,Default,,0000,0000,0000,,怎么样 昨天晚上没睡好啊\N{\fn微软雅黑\fs12} Dad, you didn't sleep all night?
+Dialogue: 0,1:29:17.05,1:29:21.38,Default,,0000,0000,0000,,这种情况下能睡得着 还是人吗 画呢\N{\fn微软雅黑\fs12} How could I? Where's my painting?
+Dialogue: 0,1:29:22.05,1:29:25.39,Default,,0000,0000,0000,,在我这里啊 如果你想拿回那幅画呢\N{\fn微软雅黑\fs12} With me, if you want it
+Dialogue: 0,1:29:25.39,1:29:27.22,Default,,0000,0000,0000,,就拿三千万来\N{\fn微软雅黑\fs12} give me 3O million for it
+Dialogue: 0,1:29:27.69,1:29:31.02,Default,,0000,0000,0000,,你这混蛋 敢这么跟老爸说话\N{\fn微软雅黑\fs12} You bastard, how can you talk to your dad like that?
+Dialogue: 0,1:29:31.26,1:29:32.92,Default,,0000,0000,0000,,我现在没兴趣说父子情\N{\fn微软雅黑\fs12} I don't want to talk family bullshit,
+Dialogue: 0,1:29:33.56,1:29:36.09,Default,,0000,0000,0000,,只有兴趣跟你谈生意\N{\fn微软雅黑\fs12} let's talk business
+Dialogue: 0,1:29:36.73,1:29:38.06,Default,,0000,0000,0000,,嗯 怎么谈\N{\fn微软雅黑\fs12} OK, how do you want it?
+Dialogue: 0,1:29:38.37,1:29:39.23,Default,,0000,0000,0000,,到我家来\N{\fn微软雅黑\fs12} Come to my place
+Dialogue: 0,1:29:52.18,1:29:53.24,Default,,0000,0000,0000,,这次去哪呀\N{\fn微软雅黑\fs12} Where to now?
+Dialogue: 0,1:29:55.59,1:29:56.71,Default,,0000,0000,0000,,日本 美国\N{\fn微软雅黑\fs12} Japan, States,
+Dialogue: 0,1:29:57.02,1:29:58.25,Default,,0000,0000,0000,,你喜欢去哪就去哪\N{\fn微软雅黑\fs12} wherever you want to go?
+Dialogue: 0,1:29:58.89,1:30:00.02,Default,,0000,0000,0000,,是不是真的啊\N{\fn微软雅黑\fs12} Really?
+Dialogue: 0,1:30:00.19,1:30:02.68,Default,,0000,0000,0000,,别到时候连你的影子都找不到\N{\fn微软雅黑\fs12} I hope you won't leave me standing again
+Dialogue: 0,1:30:03.93,1:30:07.42,Default,,0000,0000,0000,,嗱 你乖乖的在清水湾码头等我们\N{\fn微软雅黑\fs12} We'll come pick you up as soon as we're finished
+Dialogue: 0,1:30:07.43,1:30:08.86,Default,,0000,0000,0000,,我们办完事立刻去找你 嗯\N{\fn微软雅黑\fs12} Dear, you be Clear Water Bay pier
+Dialogue: 0,1:30:11.80,1:30:13.06,Default,,0000,0000,0000,,嗯 真的要来啊\N{\fn微软雅黑\fs12} You better!
+Dialogue: 0,1:30:49.34,1:30:50.74,Default,,0000,0000,0000,,老爸 老爸\N{\fn微软雅黑\fs12} Dad Dad
+Dialogue: 0,1:30:53.68,1:30:57.14,Default,,0000,0000,0000,,儿子 画呢\N{\fn微软雅黑\fs12} Son, where's the painting?
+Dialogue: 0,1:31:00.28,1:31:02.62,Default,,0000,0000,0000,,我们父子三人不是要变成这样吧\N{\fn微软雅黑\fs12} What happened to us?
+Dialogue: 0,1:31:03.09,1:31:04.11,Default,,0000,0000,0000,,没什么不对呀\N{\fn微软雅黑\fs12} What's wrong?
+Dialogue: 0,1:31:04.75,1:31:07.25,Default,,0000,0000,0000,,我们永远都不会忘记你的养育之恩的\N{\fn微软雅黑\fs12} I'll never forget you raised me, it's engraved in my heart!
+Dialogue: 0,1:31:09.86,1:31:11.35,Default,,0000,0000,0000,,我知道你们俩很乖\N{\fn微软雅黑\fs12} Jim, I know you are very filial,
+Dialogue: 0,1:31:11.80,1:31:13.32,Default,,0000,0000,0000,,我只想拿回那幅画\N{\fn微软雅黑\fs12} I just want my painting
+Dialogue: 0,1:31:13.80,1:31:14.96,Default,,0000,0000,0000,,是不是把画还给你\N{\fn微软雅黑\fs12} I'll give you the painting,
+Dialogue: 0,1:31:15.13,1:31:16.29,Default,,0000,0000,0000,,你就放我们一马\N{\fn微软雅黑\fs12} but you have to let us go
+Dialogue: 0,1:31:16.43,1:31:18.37,Default,,0000,0000,0000,,这幅画是我的命根子\N{\fn微软雅黑\fs12} That painting is my life,
+Dialogue: 0,1:31:19.27,1:31:21.97,Default,,0000,0000,0000,,你们肯把画还我 等于放我一马\N{\fn微软雅黑\fs12} if you give it back to me, I'll let you go
+Dialogue: 0,1:31:22.11,1:31:26.37,Default,,0000,0000,0000,,好说 您真仁慈 谢谢您给我们自由\N{\fn微软雅黑\fs12} You're so kind, thanks for giving us freedom
+Dialogue: 0,1:31:26.81,1:31:28.64,Default,,0000,0000,0000,,更多谢您放我们一马\N{\fn微软雅黑\fs12} Especially this chance
+Dialogue: 0,1:31:29.81,1:31:30.78,Default,,0000,0000,0000,,钱呢\N{\fn微软雅黑\fs12} The money?
+Dialogue: 0,1:31:53.50,1:31:56.23,Default,,0000,0000,0000,,我把你们养这么大 原来是养虎为患\N{\fn微软雅黑\fs12} I raised both of you, but I never thought you turn out so cruel
+Dialogue: 0,1:31:56.81,1:31:58.24,Default,,0000,0000,0000,,我要拿回你们欠我的\N{\fn微软雅黑\fs12} I'll exterminate you
+Dialogue: 0,1:32:00.01,1:32:00.87,Default,,0000,0000,0000,,不要啊\N{\fn微软雅黑\fs12} No please
+Dialogue: 0,1:32:04.85,1:32:06.04,Default,,0000,0000,0000,,阿贵\N{\fn微软雅黑\fs12} Joe
+Dialogue: 0,1:33:01.70,1:33:03.47,Default,,0000,0000,0000,,避弹衣 没事\N{\fn微软雅黑\fs12} It's bullet proof vest, so what?
+Dialogue: 0,1:33:04.31,1:33:08.94,Default,,0000,0000,0000,,没事啊 哈哈你骗我啊 装瘸子啊\N{\fn微软雅黑\fs12} Nothing, but aren't you limped?
+Dialogue: 0,1:33:09.78,1:33:11.14,Default,,0000,0000,0000,,如果不装瘸子\N{\fn微软雅黑\fs12} If I weren't limped,
+Dialogue: 0,1:33:11.31,1:33:12.78,Default,,0000,0000,0000,,你会让我参加吗\N{\fn微软雅黑\fs12} you won't be with me
+Dialogue: 0,1:33:13.38,1:33:14.58,Default,,0000,0000,0000,,如果不装瘸子\N{\fn微软雅黑\fs12} If I weren't limped,
+Dialogue: 0,1:33:14.78,1:33:16.27,Default,,0000,0000,0000,,我回来老爸早就把我宰啦\N{\fn微软雅黑\fs12} when I came back, dad would have killed me
+Dialogue: 0,1:33:17.22,1:33:18.59,Default,,0000,0000,0000,,是不是骗了很多你的感情\N{\fn微软雅黑\fs12} Did I made you sad...
+Dialogue: 0,1:33:18.66,1:33:19.99,Default,,0000,0000,0000,,很多的眼泪啊\N{\fn微软雅黑\fs12} and cry?
+Dialogue: 0,1:33:20.29,1:33:21.22,Default,,0000,0000,0000,,红豆那份怎么算啊\N{\fn微软雅黑\fs12} What about Cherie?
+Dialogue: 0,1:33:21.22,1:33:22.16,Default,,0000,0000,0000,,我会向她解释的 混球\N{\fn微软雅黑\fs12} I'll explain to her
+Dialogue: 0,1:33:25.66,1:33:26.72,Default,,0000,0000,0000,,喂 老爸呢\N{\fn微软雅黑\fs12} Where's dad?
+Dialogue: 0,1:35:23.95,1:35:26.61,Default,,0000,0000,0000,,你他妈的 真画在哪\N{\fn微软雅黑\fs12} You bastard, where's the real painting?
+Dialogue: 0,1:35:46.54,1:35:48.23,Default,,0000,0000,0000,,把他杀了 别弄坏那画\N{\fn微软雅黑\fs12} Kill him, don't spoil the painting
+Dialogue: 0,1:38:04.25,1:38:09.08,Default,,0000,0000,0000,,站好了 猴子 别动 晕不晕啊 好晕\N{\fn微软雅黑\fs12} stand. monkey. Hold it. Hold it. 
+Dialogue: 0,1:38:16.25,1:38:17.08,Default,,0000,0000,0000,,要不要买保险\N{\fn微软雅黑\fs12} You want to buy any insurance?
+Dialogue: 0,1:38:17.52,1:38:18.45,Default,,0000,0000,0000,,买你的头\N{\fn微软雅黑\fs12} Go to hell!
+Dialogue: 0,1:38:22.02,1:38:23.22,Default,,0000,0000,0000,,BLACK JACK 庄家赢\N{\fn微软雅黑\fs12} Black Jack. The banker win
+Dialogue: 0,1:38:31.70,1:38:34.57,Default,,0000,0000,0000,,那么多A士 你还有A士吗\N{\fn微软雅黑\fs12} So many Ace, you must have AIDS
+Dialogue: 0,1:38:35.10,1:38:36.26,Default,,0000,0000,0000,,没有你多\N{\fn微软雅黑\fs12} Not as many as you
+Dialogue: 0,1:38:36.27,1:38:37.24,Default,,0000,0000,0000,,我帮你查查看\N{\fn微软雅黑\fs12} I'll check for you
+Dialogue: 0,1:38:44.21,1:38:46.44,Default,,0000,0000,0000,,你他妈的 我的衣服好贵的\N{\fn微软雅黑\fs12} Shit, you spoil my best suit
+Dialogue: 0,1:39:29.13,1:39:32.96,Default,,0000,0000,0000,,啊 香蕉水\N{\fn微软雅黑\fs12} It's corrosive fluid
+Dialogue: 0,1:39:35.20,1:39:36.32,Default,,0000,0000,0000,,啊 我喝了香蕉水\N{\fn微软雅黑\fs12} I drank the corrosive fluid
+Dialogue: 0,1:39:48.38,1:39:49.64,Default,,0000,0000,0000,,快叫救护车啊\N{\fn微软雅黑\fs12} Call the ambulance
+Dialogue: 0,1:40:13.90,1:40:15.06,Default,,0000,0000,0000,,善哉 善哉\N{\fn微软雅黑\fs12} Don't panic,
+Dialogue: 0,1:40:15.54,1:40:17.84,Default,,0000,0000,0000,,早就跟你说了不要玩火嘛\N{\fn微软雅黑\fs12} I asked you not to play with fire
+Dialogue: 0,1:40:19.81,1:40:22.18,Default,,0000,0000,0000,,我叫消防车来啊\N{\fn微软雅黑\fs12} Call the fire truck
+Dialogue: 0,1:40:46.90,1:40:47.67,Default,,0000,0000,0000,,不要动\N{\fn微软雅黑\fs12} Stop!
+Dialogue: 0,1:40:47.67,1:40:48.53,Default,,0000,0000,0000,,什么事干爹\N{\fn微软雅黑\fs12} What you want, dad?
+Dialogue: 0,1:40:48.60,1:40:49.43,Default,,0000,0000,0000,,上去拿画\N{\fn微软雅黑\fs12} Get the painting!
+Dialogue: 0,1:40:49.61,1:40:50.59,Default,,0000,0000,0000,,画上有电\N{\fn微软雅黑\fs12} But it's wired
+Dialogue: 0,1:40:52.21,1:40:54.04,Default,,0000,0000,0000,,快去 快\N{\fn微软雅黑\fs12} Go on
+Dialogue: 0,1:41:54.94,1:42:00.07,Default,,0000,0000,0000,,救火呀 快来救火呀 画完啦\N{\fn微软雅黑\fs12} Put it out, it's gone, it's gone
+Dialogue: 0,1:42:00.08,1:42:02.51,Default,,0000,0000,0000,,快来救火呀 快救火呀\N{\fn微软雅黑\fs12} The painting is gone, put it out
+Dialogue: 0,1:42:03.98,1:42:07.47,Default,,0000,0000,0000,,完啦 全完啦\N{\fn微软雅黑\fs12} Put it out, put it out, oh, no!
+Dialogue: 0,1:42:08.82,1:42:11.31,Default,,0000,0000,0000,,老爸 怎么样 很难受是吧\N{\fn微软雅黑\fs12} Dad, how is painful?
+Dialogue: 0,1:42:11.59,1:42:12.52,Default,,0000,0000,0000,,来 先坐下吧\N{\fn微软雅黑\fs12} Take a rest
+Dialogue: 0,1:42:15.46,1:42:17.09,Default,,0000,0000,0000,,我扶你 来\N{\fn微软雅黑\fs12} Let me help you
+Dialogue: 0,1:42:21.60,1:42:24.19,Default,,0000,0000,0000,,你们两个想杀我 没那么容易\N{\fn微软雅黑\fs12} You two want to kill me, not so easy
+Dialogue: 0,1:42:26.30,1:42:27.03,Default,,0000,0000,0000,,干爹\N{\fn微软雅黑\fs12} Papa
+Dialogue: 0,1:42:28.34,1:42:29.36,Default,,0000,0000,0000,,好 好 好\N{\fn微软雅黑\fs12} Alright, alright
+Dialogue: 0,1:42:29.37,1:42:31.00,Default,,0000,0000,0000,,你跟老爸好好聊一聊 交给你啦\N{\fn微软雅黑\fs12} Go and talk to dad for a while
+Dialogue: 0,1:42:32.14,1:42:34.30,Default,,0000,0000,0000,,每部电影的结尾都是坏人绳之于法\N{\fn微软雅黑\fs12} All movies have the bad guys caught at the end
+Dialogue: 0,1:42:34.98,1:42:36.31,Default,,0000,0000,0000,,这一部也不例外啊\N{\fn微软雅黑\fs12} This movie is no exception
+Dialogue: 0,1:42:38.61,1:42:40.88,Default,,0000,0000,0000,,包涵包涵 啊\N{\fn微软雅黑\fs12} Smile, hey
+Dialogue: 0,1:42:42.05,1:42:43.31,Default,,0000,0000,0000,,给我站住\N{\fn微软雅黑\fs12} Don't move
+Dialogue: 0,1:42:45.66,1:42:46.52,Default,,0000,0000,0000,,就这么走啦\N{\fn微软雅黑\fs12} You intend to leave like this?
+Dialogue: 0,1:42:47.46,1:42:48.86,Default,,0000,0000,0000,,我们都大义灭亲了\N{\fn微软雅黑\fs12} We caught him for justice
+Dialogue: 0,1:42:49.33,1:42:51.52,Default,,0000,0000,0000,,您又遂了心愿 不走干嘛\N{\fn微软雅黑\fs12} And your wish come true, what's the point of staying?
+Dialogue: 0,1:42:54.40,1:42:55.69,Default,,0000,0000,0000,,哎 我是警察\N{\fn微软雅黑\fs12} Clean this mess up first
+Dialogue: 0,1:42:55.70,1:42:56.49,Default,,0000,0000,0000,,怎么样呢\N{\fn微软雅黑\fs12} What do you mean?
+Dialogue: 0,1:42:56.63,1:42:57.66,Default,,0000,0000,0000,,你们要这么走\N{\fn微软雅黑\fs12} I'm a police officer
+Dialogue: 0,1:42:58.50,1:43:00.16,Default,,0000,0000,0000,,那我不是很没面子吗\N{\fn微软雅黑\fs12} I can't let you go, that's illegal
+Dialogue: 0,1:43:02.30,1:43:03.40,Default,,0000,0000,0000,,我打不下手啊\N{\fn微软雅黑\fs12} I can't do this
+Dialogue: 0,1:43:03.97,1:43:06.03,Default,,0000,0000,0000,,哎 儿子打老爸 天打雷劈的\N{\fn微软雅黑\fs12} Patricide is punishable by death
+Dialogue: 0,1:43:06.04,1:43:07.48,Default,,0000,0000,0000,,天打雷劈的\N{\fn微软雅黑\fs12} Yeah, die young
+Dialogue: 0,1:43:08.74,1:43:10.18,Default,,0000,0000,0000,,哎 那那 我先把眼睛闭上\N{\fn微软雅黑\fs12} Huh, alright, that's enough out of you two
+Dialogue: 0,1:43:10.35,1:43:11.07,Default,,0000,0000,0000,,你们打吧\N{\fn微软雅黑\fs12} I close my eyes
+Dialogue: 0,1:43:11.98,1:43:12.50,Default,,0000,0000,0000,,你打\N{\fn微软雅黑\fs12} Hit him
+Dialogue: 0,1:43:12.52,1:43:13.54,Default,,0000,0000,0000,,你打吧\N{\fn微软雅黑\fs12} Hey, hit him
+Dialogue: 0,1:43:14.42,1:43:15.82,Default,,0000,0000,0000,,你来打吧\N{\fn微软雅黑\fs12} Go on, hit
+Dialogue: 0,1:43:16.32,1:43:17.22,Default,,0000,0000,0000,,还是你打吧\N{\fn微软雅黑\fs12} Alright, here I go
+Dialogue: 0,1:43:17.32,1:43:18.22,Default,,0000,0000,0000,,快打啊\N{\fn微软雅黑\fs12} OK
+Dialogue: 0,1:43:18.52,1:43:20.01,Default,,0000,0000,0000,,好\N{\fn微软雅黑\fs12} Don't hit the forehead
+Dialogue: 0,1:43:20.02,1:43:21.05,Default,,0000,0000,0000,,那我打了啊\N{\fn微软雅黑\fs12} Hit the temple
+Dialogue: 0,1:43:21.86,1:43:23.02,Default,,0000,0000,0000,,来了啊 真的啊\N{\fn微软雅黑\fs12} OK, here I go
+Dialogue: 0,1:43:23.26,1:43:24.06,Default,,0000,0000,0000,,忍着点啊\N{\fn微软雅黑\fs12} Get ready
+Dialogue: 0,1:43:24.43,1:43:25.59,Default,,0000,0000,0000,,嗯 很痛的喔 嗯\N{\fn微软雅黑\fs12} It'll hurt
+Dialogue: 0,1:43:26.86,1:43:28.23,Default,,0000,0000,0000,,已经走啦\N{\fn微软雅黑\fs12} They're gone already, dumb jerks
+Dialogue: 0,1:43:40.34,1:43:42.28,Default,,0000,0000,0000,,红豆\N{\fn微软雅黑\fs12} Cherie
+Dialogue: 0,1:43:43.35,1:43:47.61,Default,,0000,0000,0000,,阿真 阿海呢\N{\fn微软雅黑\fs12} Jim, where's Joe?
+Dialogue: 0,1:43:55.62,1:43:57.56,Default,,0000,0000,0000,,红豆妹妹\N{\fn微软雅黑\fs12} Cherie
+Dialogue: 0,1:44:08.07,1:44:09.26,Default,,0000,0000,0000,,大胖妞\N{\fn微软雅黑\fs12} Honey bunch
+Dialogue: 0,1:44:15.78,1:44:16.80,Default,,0000,0000,0000,,腿不瘸了吗\N{\fn微软雅黑\fs12} You can walk?
+Dialogue: 0,1:44:17.15,1:44:18.98,Default,,0000,0000,0000,,瘸着腿我怎么逃亡呢\N{\fn微软雅黑\fs12} If I'm limping, how can I run away?
+Dialogue: 0,1:44:19.32,1:44:22.77,Default,,0000,0000,0000,,哦哦 你又耍我 你好坏啊\N{\fn微软雅黑\fs12} Ah, so you lied to me, you bastard
+Dialogue: 0,1:44:22.99,1:44:24.89,Default,,0000,0000,0000,,哎哎 不要玩啦 不要玩啦\N{\fn微软雅黑\fs12} Alright, enough. enough.
+Dialogue: 0,1:44:25.29,1:44:26.38,Default,,0000,0000,0000,,没什么送给你的\N{\fn微软雅黑\fs12} You're in a rush,
+Dialogue: 0,1:44:27.09,1:44:29.46,Default,,0000,0000,0000,,送盒贵糕给你们吃 再见\N{\fn微软雅黑\fs12} I got nothing for you, except for this fruit cake, bye
+Dialogue: 0,1:44:29.63,1:44:31.12,Default,,0000,0000,0000,,不是说好一起走吗\N{\fn微软雅黑\fs12} Aren't we leaving together?
+Dialogue: 0,1:44:31.23,1:44:32.16,Default,,0000,0000,0000,,怎么了你\N{\fn微软雅黑\fs12} Right,
+Dialogue: 0,1:44:32.33,1:44:33.80,Default,,0000,0000,0000,,不是说好了同甘共苦的嘛\N{\fn微软雅黑\fs12} didn't we say we'll always be together
+Dialogue: 0,1:44:34.50,1:44:36.93,Default,,0000,0000,0000,,哎 吉姆兄 话不能这么说啊\N{\fn微软雅黑\fs12} Jim, well, not exactly
+Dialogue: 0,1:44:37.97,1:44:40.06,Default,,0000,0000,0000,,正所谓天下无不散之筵席\N{\fn微软雅黑\fs12} Every good thing has to end some time
+Dialogue: 0,1:44:40.34,1:44:43.27,Default,,0000,0000,0000,,况且我喜欢浪迹天涯 孤身上路\N{\fn微软雅黑\fs12} In fact, I prefer traveling alone, footloose and carefree
+Dialogue: 0,1:44:43.84,1:44:45.27,Default,,0000,0000,0000,,以后好好照顾红豆啊\N{\fn微软雅黑\fs12} Take good care of Cherie
+Dialogue: 0,1:44:49.08,1:44:50.60,Default,,0000,0000,0000,,你又搞什么啊\N{\fn微软雅黑\fs12} What do you mean?
+Dialogue: 0,1:44:50.85,1:44:51.94,Default,,0000,0000,0000,,保重\N{\fn微软雅黑\fs12} Take care
+Dialogue: 0,1:44:53.48,1:44:54.31,Default,,0000,0000,0000,,怎么搞的\N{\fn微软雅黑\fs12} What do we do?
+Dialogue: 0,1:44:55.35,1:44:58.81,Default,,0000,0000,0000,,我走啦 祝你们俩个春梦了无痕吶\N{\fn微软雅黑\fs12} I'm leaving, I wish you all the best
+Dialogue: 0,1:44:59.76,1:45:00.52,Default,,0000,0000,0000,,阿贵\N{\fn微软雅黑\fs12} Joe
+Dialogue: 0,1:45:00.66,1:45:02.75,Default,,0000,0000,0000,,啊 是怎么样啊 怎么样\N{\fn微软雅黑\fs12} Yes, well, what do you want?
+Dialogue: 0,1:45:02.86,1:45:04.12,Default,,0000,0000,0000,,不是一定要留你\N{\fn微软雅黑\fs12} We don't mean you must stay
+Dialogue: 0,1:45:04.29,1:45:05.95,Default,,0000,0000,0000,,不过你说过的话要算数\N{\fn微软雅黑\fs12} But don't you think a promise must be kept
+Dialogue: 0,1:45:06.10,1:45:07.79,Default,,0000,0000,0000,,我说过什么话啦我\N{\fn微软雅黑\fs12} What did I promise?
+Dialogue: 0,1:45:07.93,1:45:09.76,Default,,0000,0000,0000,,你答应过做我孩子的干爹\N{\fn微软雅黑\fs12} You promised to be godfather to our kids, remember?
+Dialogue: 0,1:45:09.93,1:45:11.66,Default,,0000,0000,0000,,那是随便那么一说嘛\N{\fn微软雅黑\fs12} That was a long time ago
+Dialogue: 0,1:45:11.67,1:45:13.03,Default,,0000,0000,0000,,而且馅儿都有啦\N{\fn微软雅黑\fs12} Well, Cherie is pregnant now
+Dialogue: 0,1:45:13.20,1:45:14.43,Default,,0000,0000,0000,,嗯 真难听\N{\fn微软雅黑\fs12} Hey, stop that
+Dialogue: 0,1:45:14.50,1:45:16.10,Default,,0000,0000,0000,,这么不小心哪\N{\fn微软雅黑\fs12} Mustn't forget the condoms!
+Dialogue: 0,1:45:16.21,1:45:17.26,Default,,0000,0000,0000,,来不来啊\N{\fn微软雅黑\fs12} Are you coming?
+Dialogue: 0,1:45:17.37,1:45:18.43,Default,,0000,0000,0000,,别烦我啊\N{\fn微软雅黑\fs12} Sure you don't want to come
+Dialogue: 0,1:45:18.51,1:45:19.80,Default,,0000,0000,0000,,好 开船\N{\fn微软雅黑\fs12} Alright, cast off
+Dialogue: 0,1:45:19.88,1:45:22.28,Default,,0000,0000,0000,,哎 等一等 我来解缆绳\N{\fn微软雅黑\fs12} Stop, wait for me
+Dialogue: 0,1:45:22.85,1:45:24.95,Default,,0000,0000,0000,,现在这幅画呢\N{\fn微软雅黑\fs12} So where is the painting?
+Dialogue: 0,1:45:25.05,1:45:26.04,Default,,0000,0000,0000,,完璧归赵啦\N{\fn微软雅黑\fs12} Back home
+Dialogue: 0,1:45:52.81,1:45:53.71,Default,,0000,0000,0000,,做饭去\N{\fn微软雅黑\fs12} Go back to work.

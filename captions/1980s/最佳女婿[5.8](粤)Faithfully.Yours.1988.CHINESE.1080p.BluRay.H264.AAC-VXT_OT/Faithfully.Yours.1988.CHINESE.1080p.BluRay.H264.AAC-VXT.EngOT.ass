@@ -1,0 +1,1497 @@
+﻿[Script Info]
+;aBu 2022♪
+
+Title: Faithfully.Yours.1988.CHINESE.1080p.BluRay.H264.AAC-VXT(片源可能是DVD插值成1080p)
+Original Script: aBu 2020-07-09
+Original Translation: 官方中文翻译：何宇晴
+Original Timing: 
+Original Editing: 
+Script Updated By: aBu 2022-08-34
+Update Details: 中英双语合成(aBu 2022-08-34)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,13,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Chs,微软雅黑,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Eng,微软雅黑,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.00,0:01:33.00,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:01:33.08,0:01:34.82,Default,,0,0,0,,Let's have a kiss, happy.
+Dialogue: 0,0:01:36.29,0:01:39.20,Default,,0,0,0,,Ok...
+Dialogue: 0,0:01:39.20,0:01:41.62,Default,,0,0,0,,Who likes to be the first customer? I'm first...
+Dialogue: 0,0:01:41.62,0:01:43.58,Default,,0,0,0,,Settle among yourselves.
+Dialogue: 0,0:01:43.58,0:01:45.32,Default,,0,0,0,,I'm first...
+Dialogue: 0,0:01:55.58,0:01:58.82,Default,,0,0,0,,Turn around, beautiful.
+Dialogue: 0,0:02:14.08,0:02:15.41,Default,,0,0,0,,It stinks!
+Dialogue: 0,0:02:16.08,0:02:19.37,Default,,0,0,0,,Boss, all the flies here will be extinct.
+Dialogue: 0,0:02:19.37,0:02:20.41,Default,,0,0,0,,Why?
+Dialogue: 0,0:02:20.62,0:02:22.49,Default,,0,0,0,,Killing flies will be our pastime.
+Dialogue: 0,0:02:22.50,0:02:24.08,Default,,0,0,0,,Our neighbour will wind-up soon.
+Dialogue: 0,0:02:24.62,0:02:26.41,Default,,0,0,0,,Over a hundred dollars for a cut!
+Dialogue: 0,0:02:26.83,0:02:29.87,Default,,0,0,0,,And no shaving!
+Dialogue: 0,0:02:30.20,0:02:34.82,Default,,0,0,0,,No massage, no ear-cleaning.
+Dialogue: 0,0:02:35.83,0:02:38.49,Default,,0,0,0,,Only pigheaded ones patrenize that salon.
+Dialogue: 0,0:02:41.33,0:02:42.69,Default,,0,0,0,,It's real classy.
+Dialogue: 0,0:02:43.04,0:02:46.23,Default,,0,0,0,,It's ruined! Do it again.
+Dialogue: 0,0:02:46.25,0:02:47.53,Default,,0,0,0,,Ok.
+Dialogue: 0,0:02:52.08,0:02:53.66,Default,,0,0,0,,Here you are, sir.
+Dialogue: 0,0:02:57.45,0:02:59.19,Default,,0,0,0,,Back up 5 feet, at once!
+Dialogue: 0,0:03:00.04,0:03:01.53,Default,,0,0,0,,Here is where you want.
+Dialogue: 0,0:03:01.54,0:03:05.86,Default,,0,0,0,,Do as I say, 5 feet no more, no less.
+Dialogue: 0,0:03:07.20,0:03:08.49,Default,,0,0,0,,Nut!
+Dialogue: 0,0:03:12.04,0:03:16.03,Default,,0,0,0,,That's incredible.
+Dialogue: 0,0:03:16.70,0:03:19.04,Default,,0,0,0,,Please take it back.
+Dialogue: 0,0:03:19.12,0:03:21.20,Default,,0,0,0,,You are a Sage beyond this world? Yes?
+Dialogue: 0,0:03:21.20,0:03:23.11,Default,,0,0,0,,Where is your consulting office? What's your title?
+Dialogue: 0,0:03:23.12,0:03:25.08,Default,,0,0,0,,I need your Sage advice?
+Dialogue: 0,0:03:26.00,0:03:28.83,Default,,0,0,0,,I'm puddin lai, 18th generation of soothsayer lai.
+Dialogue: 0,0:03:29.16,0:03:30.99,Default,,0,0,0,,If our lines cross, they cross, if not, you loss.
+Dialogue: 0,0:03:31.00,0:03:34.03,Default,,0,0,0,,When we cross again, I'll give you advice,
+Dialogue: 0,0:03:34.04,0:03:36.37,Default,,0,0,0,,to get away from misfortune.
+Dialogue: 0,0:03:39.91,0:03:42.07,Default,,0,0,0,,Sir, why you can't avert this.
+Dialogue: 0,0:03:42.08,0:03:43.74,Default,,0,0,0,,I leaked heaven's secret for you.
+Dialogue: 0,0:03:44.12,0:03:45.95,Default,,0,0,0,,I suffered for your sake.
+Dialogue: 0,0:03:45.95,0:03:47.53,Default,,0,0,0,,Really? Of course.
+Dialogue: 0,0:03:48.04,0:03:49.28,Default,,0,0,0,,Thank you, Sage.
+Dialogue: 0,0:03:49.50,0:03:52.41,Default,,0,0,0,,- Sage lai. - Sage lai, thank you.
+Dialogue: 0,0:03:57.12,0:04:00.49,Default,,0,0,0,,I can smell something evil.
+Dialogue: 0,0:04:06.70,0:04:08.94,Default,,0,0,0,,Something devilish lurks this direction.
+Dialogue: 0,0:04:08.95,0:04:11.49,Default,,0,0,0,,Let me charge, charge, charge.
+Dialogue: 0,0:04:15.29,0:04:16.95,Default,,0,0,0,,- I cut. - Charge.
+Dialogue: 0,0:04:16.95,0:04:17.82,Default,,0,0,0,,Give a hand.
+Dialogue: 0,0:04:17.83,0:04:19.94,Default,,0,0,0,,- Charge. - Cut, cut, cut.
+Dialogue: 0,0:04:19.95,0:04:25.53,Default,,0,0,0,,Hold it, count me out in this game.
+Dialogue: 0,0:04:31.12,0:04:33.53,Default,,0,0,0,,Charge your ass.
+Dialogue: 0,0:04:34.12,0:04:35.24,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:04:35.25,0:04:38.20,Default,,0,0,0,,Happy
+Dialogue: 0,0:04:38.37,0:04:40.53,Default,,0,0,0,,look at your hair, what gel do you use?
+Dialogue: 0,0:04:41.75,0:04:43.70,Default,,0,0,0,,It's ok. The barber next door is devilish!
+Dialogue: 0,0:04:43.70,0:04:44.41,Default,,0,0,0,,You know!
+Dialogue: 0,0:04:44.41,0:04:46.12,Default,,0,0,0,,Luckily I got through unscathed.
+Dialogue: 0,0:04:46.12,0:04:49.91,Default,,0,0,0,,To-day, I averted two misfortunes. Good luck. Oh! Heavens!
+Dialogue: 0,0:04:50.66,0:04:51.65,Default,,0,0,0,,- What is it? - What?
+Dialogue: 0,0:04:51.66,0:04:52.78,Default,,0,0,0,,The third misfortune.
+Dialogue: 0,0:04:52.79,0:04:55.24,Default,,0,0,0,,- What date is it? - The 9th. Do my hair.
+Dialogue: 0,0:04:55.25,0:04:57.03,Default,,0,0,0,,It's the third misfortune.
+Dialogue: 0,0:04:57.04,0:04:59.24,Default,,0,0,0,,No on me, but on big eye boy.
+Dialogue: 0,0:05:13.91,0:05:15.40,Default,,0,0,0,,Congratulations!
+Dialogue: 0,0:05:15.41,0:05:17.12,Default,,0,0,0,,Grand opening, good business,
+Dialogue: 0,0:05:17.12,0:05:18.86,Default,,0,0,0,,big money rolling in.
+Dialogue: 0,0:05:18.87,0:05:21.03,Default,,0,0,0,,Congratulations!
+Dialogue: 0,0:05:26.75,0:05:28.74,Default,,0,0,0,,Sorry, wrong blessings.
+Dialogue: 0,0:05:29.20,0:05:30.57,Default,,0,0,0,,No, blessing here, oh, no. No.
+Dialogue: 0,0:05:31.33,0:05:34.82,Default,,0,0,0,,No... here as well, everywhere as well.
+Dialogue: 0,0:05:35.08,0:05:38.15,Default,,0,0,0,,In short, good business, big money.
+Dialogue: 0,0:05:41.12,0:05:44.44,Default,,0,0,0,,Congratulations!
+Dialogue: 0,0:05:49.20,0:05:50.53,Default,,0,0,0,,Skilful hands.
+Dialogue: 0,0:05:52.54,0:05:55.32,Default,,0,0,0,,Don't you.
+Dialogue: 0,0:05:55.54,0:05:56.45,Default,,0,0,0,,I'm not playing.
+Dialogue: 0,0:05:56.45,0:05:57.57,Default,,0,0,0,,No playing! You did it purposely.
+Dialogue: 0,0:05:57.58,0:05:58.57,Default,,0,0,0,,Not purposely.
+Dialogue: 0,0:05:58.58,0:05:59.49,Default,,0,0,0,,That means playing.
+Dialogue: 0,0:05:59.50,0:06:00.83,Default,,0,0,0,,Shave one eye-brow.
+Dialogue: 0,0:06:02.29,0:06:03.49,Default,,0,0,0,,Shoot.
+Dialogue: 0,0:06:04.00,0:06:05.74,Default,,0,0,0,,Come to us, big eye boy.
+Dialogue: 0,0:06:19.66,0:06:20.40,Default,,0,0,0,,Papa.
+Dialogue: 0,0:06:20.41,0:06:21.99,Default,,0,0,0,,Not me, he's papa,
+Dialogue: 0,0:06:22.20,0:06:24.99,Default,,0,0,0,,how you become like this?
+Dialogue: 0,0:06:25.00,0:06:26.86,Default,,0,0,0,,Why quarrel with these people?
+Dialogue: 0,0:06:27.50,0:06:29.20,Default,,0,0,0,,Your godfather becomes one eye-brow hero.
+Dialogue: 0,0:06:29.54,0:06:33.28,Default,,0,0,0,,Your papa never bows to force.
+Dialogue: 0,0:06:33.37,0:06:36.99,Default,,0,0,0,,My righteous heart yearns for vengeance.
+Dialogue: 0,0:06:37.33,0:06:38.78,Default,,0,0,0,,Watch my revenge.
+Dialogue: 0,0:06:40.83,0:06:42.28,Default,,0,0,0,,Bravo.
+Dialogue: 0,0:06:45.79,0:06:46.90,Default,,0,0,0,,That's great!
+Dialogue: 0,0:06:47.95,0:06:49.11,Default,,0,0,0,,Bravo.
+Dialogue: 0,0:06:55.08,0:06:56.11,Default,,0,0,0,,No dead!
+Dialogue: 0,0:06:57.00,0:06:58.16,Default,,0,0,0,,What are you guys looking at?
+Dialogue: 0,0:07:00.66,0:07:02.87,Default,,0,0,0,,Lustful eyes. Go inside, ah ying.
+Dialogue: 0,0:07:03.25,0:07:04.58,Default,,0,0,0,,I'm not through with you yet.
+Dialogue: 0,0:07:04.58,0:07:05.74,Default,,0,0,0,,Nothing to see!
+Dialogue: 0,0:07:07.50,0:07:09.33,Default,,0,0,0,,Go inside.
+Dialogue: 0,0:07:12.79,0:07:16.08,Default,,0,0,0,,So pure and fresh!
+Dialogue: 0,0:07:16.20,0:07:17.44,Default,,0,0,0,,Fresh!
+Dialogue: 0,0:07:17.79,0:07:19.99,Default,,0,0,0,,Her eyebrows, nose and forehead...
+Dialogue: 0,0:07:20.33,0:07:22.24,Default,,0,0,0,,Are auspicious.
+Dialogue: 0,0:07:23.16,0:07:25.40,Default,,0,0,0,,Ah ying, I'll marry you for sure!
+Dialogue: 0,0:07:25.41,0:07:27.49,Default,,0,0,0,,Ying, let me apologize to you.
+Dialogue: 0,0:07:27.66,0:07:29.12,Default,,0,0,0,,Let me say sorry for them.
+Dialogue: 0,0:07:30.87,0:07:31.99,Default,,0,0,0,,What do the gods say...
+Dialogue: 0,0:07:32.00,0:07:33.16,Default,,0,0,0,,Will he be alright?
+Dialogue: 0,0:07:33.37,0:07:34.53,Default,,0,0,0,,Doomed!
+Dialogue: 0,0:07:40.87,0:07:42.33,Default,,0,0,0,,He's really wretched.
+Dialogue: 0,0:07:46.20,0:07:48.66,Default,,0,0,0,,This is my year for romance. Sure win!
+Dialogue: 0,0:08:02.41,0:08:05.58,Default,,0,0,0,,You're spoiled our neighborhood.
+Dialogue: 0,0:08:06.12,0:08:06.95,Default,,0,0,0,,You are the culprit,
+Dialogue: 0,0:08:06.95,0:08:08.53,Default,,0,0,0,,you should be the one to settle this.
+Dialogue: 0,0:08:08.54,0:08:10.12,Default,,0,0,0,,Go and apologize right now.
+Dialogue: 0,0:08:11.70,0:08:12.78,Default,,0,0,0,,You know what my instinct tells me?
+Dialogue: 0,0:08:12.79,0:08:13.57,Default,,0,0,0,,What?
+Dialogue: 0,0:08:13.58,0:08:14.78,Default,,0,0,0,,Don't go.
+Dialogue: 0,0:08:14.79,0:08:16.37,Default,,0,0,0,,Go fix it,
+Dialogue: 0,0:08:16.37,0:08:16.98,Default,,0,0,0,,even if you have to pay indemnity.
+Dialogue: 0,0:08:17.00,0:08:18.58,Default,,0,0,0,,Money! Why not.
+Dialogue: 0,0:08:19.00,0:08:22.74,Default,,0,0,0,,May be ah ying will be moved by your sincerity.
+Dialogue: 0,0:08:22.91,0:08:23.99,Default,,0,0,0,,Moved by me?
+Dialogue: 0,0:08:24.70,0:08:25.57,Default,,0,0,0,,Sure.
+Dialogue: 0,0:08:25.58,0:08:27.74,Default,,0,0,0,,It is my mistake; Not yours.
+Dialogue: 0,0:08:27.75,0:08:29.16,Default,,0,0,0,,I should shoulder up this.
+Dialogue: 0,0:08:29.25,0:08:31.36,Default,,0,0,0,,Right. Go right away.
+Dialogue: 0,0:08:31.95,0:08:34.11,Default,,0,0,0,,May god be with you.
+Dialogue: 0,0:08:34.12,0:08:35.53,Default,,0,0,0,,The gods look after you.
+Dialogue: 0,0:08:38.75,0:08:39.99,Default,,0,0,0,,I pray to you, gods.
+Dialogue: 0,0:08:48.62,0:08:49.95,Default,,0,0,0,,Hi, uncles,
+Dialogue: 0,0:08:56.87,0:08:58.74,Default,,0,0,0,,What I mean is...
+Dialogue: 0,0:09:03.25,0:09:04.91,Default,,0,0,0,,It's an early closure.
+Dialogue: 0,0:09:06.54,0:09:11.53,Default,,0,0,0,,No, no, I don't mean that.
+Dialogue: 0,0:09:11.87,0:09:14.58,Default,,0,0,0,,Uncle, I come to apologize to you.
+Dialogue: 0,0:09:19.70,0:09:20.94,Default,,0,0,0,,- Uncle. - Papa.
+Dialogue: 0,0:09:37.00,0:09:38.99,Default,,0,0,0,,Papa, please don't.
+Dialogue: 0,0:09:39.95,0:09:42.11,Default,,0,0,0,,For 19 years, your papa never make one wrong.
+Dialogue: 0,0:09:42.12,0:09:44.11,Default,,0,0,0,,Shave, not one hair,
+Dialogue: 0,0:09:44.33,0:09:47.04,Default,,0,0,0,,until today. Look.
+Dialogue: 0,0:09:47.62,0:09:50.08,Default,,0,0,0,,Shave two eyebrows to pay for mine.
+Dialogue: 0,0:09:50.70,0:09:51.86,Default,,0,0,0,,What! Two!
+Dialogue: 0,0:09:53.50,0:09:56.28,Default,,0,0,0,,Uncle, instead of eyebrow,
+Dialogue: 0,0:09:56.29,0:09:57.40,Default,,0,0,0,,better shave my beard.
+Dialogue: 0,0:09:57.50,0:10:01.07,Default,,0,0,0,,Or save you the trouble, I pay you money.
+Dialogue: 0,0:10:04.00,0:10:05.16,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:10:05.16,0:10:06.15,Default,,0,0,0,,How much?
+Dialogue: 0,0:10:06.16,0:10:07.16,Default,,0,0,0,,One hundred.
+Dialogue: 0,0:10:10.08,0:10:12.95,Default,,0,0,0,,Five hundred, for each of you.
+Dialogue: 0,0:10:18.41,0:10:20.49,Default,,0,0,0,,Not one cent less, or else...
+Dialogue: 0,0:10:26.29,0:10:28.28,Default,,0,0,0,,Papa, no...
+Dialogue: 0,0:10:41.50,0:10:43.83,Default,,0,0,0,,Better run.
+Dialogue: 0,0:10:49.79,0:10:51.53,Default,,0,0,0,,I'll make-up for you.
+Dialogue: 0,0:11:10.75,0:11:13.08,Default,,0,0,0,,Oh, it looks distorted.
+Dialogue: 0,0:11:14.83,0:11:19.20,Default,,0,0,0,,No, it links better than the real one.
+Dialogue: 0,0:11:21.25,0:11:22.74,Default,,0,0,0,,Excellent work.
+Dialogue: 0,0:11:27.95,0:11:31.03,Default,,0,0,0,,Takes him so long, he is dome for.
+Dialogue: 0,0:11:31.79,0:11:34.32,Default,,0,0,0,,Probably comes out castrated.
+Dialogue: 0,0:11:35.16,0:11:36.65,Default,,0,0,0,,He has guts but no wit.
+Dialogue: 0,0:11:36.66,0:11:40.23,Default,,0,0,0,,He shouldn't flirt with girls.
+Dialogue: 0,0:11:41.70,0:11:43.91,Default,,0,0,0,,He should realise his weakness.
+Dialogue: 0,0:11:45.58,0:11:46.82,Default,,0,0,0,,How come...
+Dialogue: 0,0:11:47.00,0:11:47.78,Default,,0,0,0,,Can't believe my eyes.
+Dialogue: 0,0:11:47.79,0:11:48.99,Default,,0,0,0,,Bye-bye.
+Dialogue: 0,0:11:51.83,0:11:53.03,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:11:54.66,0:11:55.65,Default,,0,0,0,,He looks different.
+Dialogue: 0,0:11:55.66,0:11:57.37,Default,,0,0,0,,Yes, what is it?
+Dialogue: 0,0:11:58.20,0:11:59.20,Default,,0,0,0,,Much taller.
+Dialogue: 0,0:12:00.75,0:12:03.49,Default,,0,0,0,,Ah! Taller.
+Dialogue: 0,0:12:13.54,0:12:16.53,Default,,0,0,0,,How about this style for your semi-final contest?
+Dialogue: 0,0:12:18.87,0:12:21.03,Default,,0,0,0,,You like this omega style?
+Dialogue: 0,0:12:21.45,0:12:22.57,Default,,0,0,0,,Good, good.
+Dialogue: 0,0:12:22.58,0:12:23.44,Default,,0,0,0,,It is this one then.
+Dialogue: 0,0:12:23.45,0:12:25.79,Default,,0,0,0,,It's good for mummy. Go got her.
+Dialogue: 0,0:12:29.20,0:12:30.49,Default,,0,0,0,,Ying, take a rest.
+Dialogue: 0,0:12:30.50,0:12:31.83,Default,,0,0,0,,Have some refreshments.
+Dialogue: 0,0:12:32.62,0:12:34.45,Default,,0,0,0,,Mum, don't disrupt us.
+Dialogue: 0,0:12:34.45,0:12:35.69,Default,,0,0,0,,It's not up to 30 minutes yet.
+Dialogue: 0,0:12:35.70,0:12:37.91,Default,,0,0,0,,You want her to die exhausted.
+Dialogue: 0,0:12:39.75,0:12:41.91,Default,,0,0,0,,I say, take a rest.
+Dialogue: 0,0:12:43.75,0:12:45.83,Default,,0,0,0,,Don't you want her to become miss Hong Kong.
+Dialogue: 0,0:12:46.04,0:12:47.78,Default,,0,0,0,,The prize is one million dollars.
+Dialogue: 0,0:12:48.12,0:12:50.41,Default,,0,0,0,,Moreover, she can marry a rich guy.
+Dialogue: 0,0:12:51.04,0:12:53.32,Default,,0,0,0,,Papa, what is important for my husband is:
+Dialogue: 0,0:12:53.33,0:12:56.82,Default,,0,0,0,,I love him and he loves me;
+Dialogue: 0,0:12:57.29,0:12:59.20,Default,,0,0,0,,not necessarily a rich guy.
+Dialogue: 0,0:12:59.20,0:13:02.20,Default,,0,0,0,,Right, greedy man! Don't you use ying to make money.
+Dialogue: 0,0:13:03.08,0:13:04.53,Default,,0,0,0,,Woman's mentality.
+Dialogue: 0,0:13:09.95,0:13:11.28,Default,,0,0,0,,Welcome. Yes.
+Dialogue: 0,0:13:15.50,0:13:16.58,Default,,0,0,0,,Sir, please.
+Dialogue: 0,0:13:21.16,0:13:24.78,Default,,0,0,0,,Smelly bean curds.
+Dialogue: 0,0:13:26.66,0:13:27.32,Default,,0,0,0,,What's up?
+Dialogue: 0,0:13:27.33,0:13:29.41,Default,,0,0,0,,Come! On the house.
+Dialogue: 0,0:13:29.54,0:13:32.70,Default,,0,0,0,,Uncle! I'm sure you like this.
+Dialogue: 0,0:13:33.33,0:13:34.57,Default,,0,0,0,,You too.
+Dialogue: 0,0:13:35.25,0:13:36.41,Default,,0,0,0,,Have some chilli sauce.
+Dialogue: 0,0:13:37.12,0:13:38.20,Default,,0,0,0,,Help yourself.
+Dialogue: 0,0:13:38.20,0:13:40.74,Default,,0,0,0,,This is the most smelly.
+Dialogue: 0,0:13:43.04,0:13:45.20,Default,,0,0,0,,Uncle, I've come to apologize...
+Dialogue: 0,0:13:45.37,0:13:47.36,Default,,0,0,0,,And have shampoo. So as to hear from you.
+Dialogue: 0,0:13:48.75,0:13:49.73,Default,,0,0,0,,Don't hurry.
+Dialogue: 0,0:13:49.75,0:13:50.83,Default,,0,0,0,,Help yourself.
+Dialogue: 0,0:13:51.16,0:13:53.20,Default,,0,0,0,,Ying, try one.
+Dialogue: 0,0:13:53.20,0:13:55.32,Default,,0,0,0,,No, thank you.
+Dialogue: 0,0:13:55.66,0:13:56.78,Default,,0,0,0,,Oh, you don't like it.
+Dialogue: 0,0:13:57.08,0:13:58.82,Default,,0,0,0,,Shampoo, this way.
+Dialogue: 0,0:13:59.37,0:14:01.83,Default,,0,0,0,,Is... she... coming...
+Dialogue: 0,0:14:03.83,0:14:06.16,Default,,0,0,0,,I'm honored, you do it yourself.
+Dialogue: 0,0:14:06.54,0:14:07.65,Default,,0,0,0,,Ah fu.
+Dialogue: 0,0:14:07.91,0:14:09.15,Default,,0,0,0,,It's yours.
+Dialogue: 0,0:14:10.50,0:14:11.23,Default,,0,0,0,,Shampoo?
+Dialogue: 0,0:14:11.25,0:14:12.61,Default,,0,0,0,,Your hand!
+Dialogue: 0,0:14:14.95,0:14:16.07,Default,,0,0,0,,Come align.
+Dialogue: 0,0:14:18.20,0:14:19.24,Default,,0,0,0,,That way.
+Dialogue: 0,0:14:19.62,0:14:20.66,Default,,0,0,0,,Ah ying.
+Dialogue: 0,0:14:20.75,0:14:23.24,Default,,0,0,0,,Go, go.
+Dialogue: 0,0:14:23.25,0:14:24.41,Default,,0,0,0,,Uncle,
+Dialogue: 0,0:14:27.25,0:14:28.53,Default,,0,0,0,,I present you this fortune tiger.
+Dialogue: 0,0:14:28.54,0:14:31.15,Default,,0,0,0,,It's will bring you big money.
+Dialogue: 0,0:14:31.66,0:14:32.99,Default,,0,0,0,,Is my business bad now?
+Dialogue: 0,0:14:33.62,0:14:34.83,Default,,0,0,0,,Your business is surely brisk.
+Dialogue: 0,0:14:34.83,0:14:36.91,Default,,0,0,0,,But money is never too much, right?
+Dialogue: 0,0:14:37.04,0:14:38.87,Default,,0,0,0,,Where shall we place this fortune tiger?
+Dialogue: 0,0:14:42.66,0:14:44.74,Default,,0,0,0,,This is a vantage point.
+Dialogue: 0,0:14:45.50,0:14:46.41,Default,,0,0,0,,Good for money.
+Dialogue: 0,0:14:46.41,0:14:49.86,Default,,0,0,0,,Son, here is good for money, no good for sex.
+Dialogue: 0,0:14:51.95,0:14:54.04,Default,,0,0,0,,Uncle, you have good sense of humor.
+Dialogue: 0,0:14:54.04,0:14:56.70,Default,,0,0,0,,In fact, I come to apologise.
+Dialogue: 0,0:14:56.70,0:14:58.61,Default,,0,0,0,,And have a shampoo as well.
+Dialogue: 0,0:14:58.75,0:15:01.45,Default,,0,0,0,,Shampoo over there, pay here.
+Dialogue: 0,0:15:09.70,0:15:10.74,Default,,0,0,0,,Shampoo?
+Dialogue: 0,0:15:11.50,0:15:12.74,Default,,0,0,0,,Make-up eyebrow.
+Dialogue: 0,0:15:15.20,0:15:16.16,Default,,0,0,0,,Make-up eyebrow.
+Dialogue: 0,0:15:16.16,0:15:20.41,Default,,0,0,0,,Uncle, ying, these flowers are for...
+Dialogue: 0,0:15:20.54,0:15:22.65,Default,,0,0,0,,I like flowers.
+Dialogue: 0,0:15:23.08,0:15:24.66,Default,,0,0,0,,Specially for you, uncle.
+Dialogue: 0,0:15:25.12,0:15:27.33,Default,,0,0,0,,- Ying.. - Don't you want a shampoo?
+Dialogue: 0,0:15:28.16,0:15:29.40,Default,,0,0,0,,Go.
+Dialogue: 0,0:15:29.83,0:15:31.36,Default,,0,0,0,,Don't touch my thing.
+Dialogue: 0,0:15:31.37,0:15:32.61,Default,,0,0,0,,I'll have a shampoo first.
+Dialogue: 0,0:15:32.91,0:15:34.24,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:15:36.16,0:15:38.12,Default,,0,0,0,,- Are your place of work nearby? - Yes.
+Dialogue: 0,0:15:38.12,0:15:39.86,Default,,0,0,0,,- Trust off-duty? - Yes.
+Dialogue: 0,0:15:39.87,0:15:43.07,Default,,0,0,0,,Of course off-duty, it is so late.
+Dialogue: 0,0:15:45.20,0:15:47.66,Default,,0,0,0,,Why don't you patronize grassy salon next door?
+Dialogue: 0,0:15:50.66,0:15:52.45,Default,,0,0,0,,Don't mention the grassy salon, uncle.
+Dialogue: 0,0:15:52.45,0:15:55.87,Default,,0,0,0,,It's a mess. They pull and pluck your hair.
+Dialogue: 0,0:15:55.87,0:15:58.49,Default,,0,0,0,,You lost many hair in 1 shampoo. Really?
+Dialogue: 0,0:15:58.50,0:16:01.20,Default,,0,0,0,,- Uncle, it is true. - Really?
+Dialogue: 0,0:16:01.87,0:16:03.95,Default,,0,0,0,,- Many people say so. - Is it?
+Dialogue: 0,0:16:05.12,0:16:06.20,Default,,0,0,0,,Bull shit.
+Dialogue: 0,0:16:07.04,0:16:10.15,Default,,0,0,0,,Your friend seems quite exaggerating.
+Dialogue: 0,0:16:10.37,0:16:12.45,Default,,0,0,0,,He is always like that.
+Dialogue: 0,0:16:12.45,0:16:14.44,Default,,0,0,0,,Always boast and brag.
+Dialogue: 0,0:16:14.45,0:16:15.11,Default,,0,0,0,,What?
+Dialogue: 0,0:16:15.12,0:16:17.91,Default,,0,0,0,,But, this time he speaks the truth.
+Dialogue: 0,0:16:18.54,0:16:20.24,Default,,0,0,0,,I know, I know.
+Dialogue: 0,0:16:21.66,0:16:23.70,Default,,0,0,0,,Don't you move, are you a baby.
+Dialogue: 0,0:16:24.70,0:16:28.15,Default,,0,0,0,,You talk foul behind you friend's back.
+Dialogue: 0,0:16:28.50,0:16:31.49,Default,,0,0,0,,Not unethical, just face the facts.
+Dialogue: 0,0:16:31.58,0:16:33.99,Default,,0,0,0,,Grassy, what a lousy name.
+Dialogue: 0,0:16:34.00,0:16:36.70,Default,,0,0,0,,Talk of skill, can't compare with your Shanghai.
+Dialogue: 0,0:16:36.70,0:16:38.36,Default,,0,0,0,,- You agree? - Of course.
+Dialogue: 0,0:16:38.66,0:16:40.82,Default,,0,0,0,,Uncle when you see our hair-dresser friend.
+Dialogue: 0,0:16:41.08,0:16:43.41,Default,,0,0,0,,Ask him which is better: Grassy or Shanghai?
+Dialogue: 0,0:16:43.91,0:16:45.45,Default,,0,0,0,,He'll surely say: Shanghai.
+Dialogue: 0,0:16:45.62,0:16:49.41,Default,,0,0,0,,Shut up! You pigs! Rats!
+Dialogue: 0,0:16:50.16,0:16:51.12,Default,,0,0,0,,So, there you are! Good!
+Dialogue: 0,0:16:51.12,0:16:53.36,Default,,0,0,0,,Now, be honest;
+Dialogue: 0,0:16:53.37,0:16:54.83,Default,,0,0,0,,is Shanghai better than grassy?
+Dialogue: 0,0:16:54.83,0:16:56.49,Default,,0,0,0,,- Is it? - Dare you say "no"!
+Dialogue: 0,0:16:56.50,0:17:01.32,Default,,0,0,0,,No no... I mean yes.
+Dialogue: 0,0:17:02.66,0:17:05.24,Default,,0,0,0,,You see! Uncle. You see I was right.
+Dialogue: 0,0:17:05.25,0:17:06.49,Default,,0,0,0,,Sit down.
+Dialogue: 0,0:17:10.58,0:17:13.19,Default,,0,0,0,,Well, since you three are so appreciative,
+Dialogue: 0,0:17:13.29,0:17:15.24,Default,,0,0,0,,I myself will make the hairdo for you.
+Dialogue: 0,0:17:15.25,0:17:16.61,Default,,0,0,0,,So nice, uncle.
+Dialogue: 0,0:17:16.95,0:17:18.53,Default,,0,0,0,,Thank you, ying.
+Dialogue: 0,0:17:27.33,0:17:28.33,Default,,0,0,0,,Hey, no entry.
+Dialogue: 0,0:17:28.54,0:17:30.99,Default,,0,0,0,,You! Ungrateful pig!
+Dialogue: 0,0:17:31.12,0:17:33.41,Default,,0,0,0,,You, unthankful rat.
+Dialogue: 0,0:17:33.70,0:17:34.66,Default,,0,0,0,,Get lost!
+Dialogue: 0,0:17:34.66,0:17:37.28,Default,,0,0,0,,Cool it! Just let us in as customers. Alright?
+Dialogue: 0,0:17:37.58,0:17:38.99,Default,,0,0,0,,Don't take it so serious.
+Dialogue: 0,0:17:39.00,0:17:40.61,Default,,0,0,0,,Just now we were joking.
+Dialogue: 0,0:17:40.62,0:17:41.70,Default,,0,0,0,,Right. You should take jokes lightly.
+Dialogue: 0,0:17:41.70,0:17:44.78,Default,,0,0,0,,Why make jokes!
+Dialogue: 0,0:17:45.87,0:17:46.91,Default,,0,0,0,,What a hairdo!
+Dialogue: 0,0:17:50.45,0:17:51.45,Default,,0,0,0,,Get inside.
+Dialogue: 0,0:17:53.29,0:17:54.53,Default,,0,0,0,,You look grotesque.
+Dialogue: 0,0:18:01.66,0:18:03.37,Default,,0,0,0,,Is the Shanghai barber misinforming you.
+Dialogue: 0,0:18:03.70,0:18:05.28,Default,,0,0,0,,Not a trace of ah ying.
+Dialogue: 0,0:18:05.58,0:18:08.70,Default,,0,0,0,,I gave the barber 100 bucks, he was so happy.
+Dialogue: 0,0:18:08.83,0:18:09.83,Default,,0,0,0,,Is it false information.
+Dialogue: 0,0:18:10.00,0:18:13.57,Default,,0,0,0,,No! I dreamed of auspicious signs last night.
+Dialogue: 0,0:18:14.08,0:18:15.86,Default,,0,0,0,,I am sure of romance...
+Dialogue: 0,0:18:25.41,0:18:26.45,Default,,0,0,0,,Ah ying.
+Dialogue: 0,0:18:27.79,0:18:29.74,Default,,0,0,0,,- Ah ying... - What a coincidence...
+Dialogue: 0,0:18:29.87,0:18:32.20,Default,,0,0,0,,- It's your Shanghai barber... - No, it is our stars.
+Dialogue: 0,0:18:32.33,0:18:35.62,Default,,0,0,0,,Ying, are they your relatives?
+Dialogue: 0,0:18:35.70,0:18:38.57,Default,,0,0,0,,No, they are pupils of my class.
+Dialogue: 0,0:18:38.58,0:18:40.69,Default,,0,0,0,,I coach them swimming during holidays.
+Dialogue: 0,0:18:41.62,0:18:43.36,Default,,0,0,0,,- Let's warm up. - Good.
+Dialogue: 0,0:18:47.29,0:18:48.90,Default,,0,0,0,,Please teach us.
+Dialogue: 0,0:18:49.83,0:18:51.28,Default,,0,0,0,,Let's have fun together. Good.
+Dialogue: 0,0:18:52.58,0:18:55.99,Default,,0,0,0,,One, two, three...
+Dialogue: 0,0:18:59.75,0:19:02.82,Default,,0,0,0,,Look, they're doing it all wrong.
+Dialogue: 0,0:19:02.83,0:19:05.44,Default,,0,0,0,,They just stare at the teacher.
+Dialogue: 0,0:19:05.45,0:19:06.94,Default,,0,0,0,,Who knows what they're thinking.
+Dialogue: 0,0:19:09.66,0:19:11.32,Default,,0,0,0,,I know what you are thinking.
+Dialogue: 0,0:19:11.95,0:19:13.19,Default,,0,0,0,,You do?
+Dialogue: 0,0:19:13.66,0:19:14.99,Default,,0,0,0,,You want to "dab" ah ying.
+Dialogue: 0,0:19:15.58,0:19:17.36,Default,,0,0,0,,What do you mean "dab"?
+Dialogue: 0,0:19:19.91,0:19:22.78,Default,,0,0,0,,"Dab" means say hello to her.
+Dialogue: 0,0:19:22.79,0:19:24.78,Default,,0,0,0,,Is that right? Yes...
+Dialogue: 0,0:19:24.95,0:19:27.91,Default,,0,0,0,,Thanks, I got it.
+Dialogue: 0,0:19:28.20,0:19:30.49,Default,,0,0,0,,They're cheating the teacher again. Yes.
+Dialogue: 0,0:19:32.08,0:19:32.99,Default,,0,0,0,,Students...
+Dialogue: 0,0:19:33.00,0:19:35.16,Default,,0,0,0,,Let's practise breathing now.
+Dialogue: 0,0:19:35.16,0:19:36.62,Default,,0,0,0,,Good...
+Dialogue: 0,0:19:40.79,0:19:42.82,Default,,0,0,0,,Miss, I don't know how to breathe.
+Dialogue: 0,0:19:42.83,0:19:44.11,Default,,0,0,0,,Alright, I'll teach you.
+Dialogue: 0,0:19:44.12,0:19:46.53,Default,,0,0,0,,Let me do it for you.
+Dialogue: 0,0:19:48.62,0:19:49.91,Default,,0,0,0,,Hi, kid.
+Dialogue: 0,0:19:50.58,0:19:53.19,Default,,0,0,0,,This guy doesn't know how to breathe.
+Dialogue: 0,0:19:53.54,0:19:54.82,Default,,0,0,0,,That's it. It's simple.
+Dialogue: 0,0:19:54.83,0:19:57.66,Default,,0,0,0,,I can hold one breath for an hour.
+Dialogue: 0,0:19:58.00,0:20:01.44,Default,,0,0,0,,Just half an hour! For one breath,
+Dialogue: 0,0:20:01.45,0:20:03.41,Default,,0,0,0,,I can swim across the harbour.
+Dialogue: 0,0:20:03.41,0:20:05.15,Default,,0,0,0,,Liar. Don't cheat a child.
+Dialogue: 0,0:20:05.16,0:20:07.95,Default,,0,0,0,,- Right. - It's all talk and no action.
+Dialogue: 0,0:20:07.95,0:20:09.24,Default,,0,0,0,,Right. Can you do it?
+Dialogue: 0,0:20:09.25,0:20:11.11,Default,,0,0,0,,Why not! Go ahead.
+Dialogue: 0,0:20:11.12,0:20:12.58,Default,,0,0,0,,Let's test our endurance.
+Dialogue: 0,0:20:12.58,0:20:14.82,Default,,0,0,0,,Let's see who will die of exhaustion.
+Dialogue: 0,0:20:15.00,0:20:16.28,Default,,0,0,0,,We will have a race.
+Dialogue: 0,0:20:16.29,0:20:18.65,Default,,0,0,0,,Children, you'll be our judges.
+Dialogue: 0,0:20:18.66,0:20:20.32,Default,,0,0,0,,Good! Oki
+Dialogue: 0,0:20:20.58,0:20:22.07,Default,,0,0,0,,ying, you be umpire.
+Dialogue: 0,0:20:22.08,0:20:25.20,Default,,0,0,0,,Alright, let us watch them.
+Dialogue: 0,0:20:32.87,0:20:35.74,Default,,0,0,0,,Miss, I wish to see if they break rules.
+Dialogue: 0,0:20:35.75,0:20:36.99,Default,,0,0,0,,Right, go ahead.
+Dialogue: 0,0:20:41.20,0:20:44.28,Default,,0,0,0,,They breathe out beautiful bubbles.
+Dialogue: 0,0:20:44.29,0:20:45.49,Default,,0,0,0,,Really.
+Dialogue: 0,0:20:52.20,0:20:53.03,Default,,0,0,0,,Miss. What?
+Dialogue: 0,0:20:53.04,0:20:54.65,Default,,0,0,0,,They speak vulgar language.
+Dialogue: 0,0:20:54.66,0:20:57.15,Default,,0,0,0,,How can you hear in water?
+Dialogue: 0,0:20:57.58,0:20:59.57,Default,,0,0,0,,They growl at each other.
+Dialogue: 0,0:21:03.04,0:21:04.24,Default,,0,0,0,,Miss. How is it?
+Dialogue: 0,0:21:04.25,0:21:05.74,Default,,0,0,0,,They must be thirsty.
+Dialogue: 0,0:21:06.45,0:21:07.82,Default,,0,0,0,,Why?
+Dialogue: 0,0:21:08.75,0:21:10.86,Default,,0,0,0,,They drink at big gulps.
+Dialogue: 0,0:21:11.50,0:21:12.61,Default,,0,0,0,,Really?
+Dialogue: 0,0:21:15.08,0:21:16.49,Default,,0,0,0,,Teacher... yes?
+Dialogue: 0,0:21:16.79,0:21:19.37,Default,,0,0,0,,They look like fish in my aquarium.
+Dialogue: 0,0:21:19.75,0:21:20.78,Default,,0,0,0,,How do they like?
+Dialogue: 0,0:21:20.95,0:21:22.41,Default,,0,0,0,,With protruding eyes.
+Dialogue: 0,0:21:24.04,0:21:26.45,Default,,0,0,0,,How are they?
+Dialogue: 0,0:21:26.45,0:21:28.54,Default,,0,0,0,,Don't press, children!
+Dialogue: 0,0:21:38.87,0:21:40.70,Default,,0,0,0,,Want any drinks?
+Dialogue: 0,0:21:41.04,0:21:42.78,Default,,0,0,0,,Oh, no! No! No!
+Dialogue: 0,0:21:45.75,0:21:46.75,Default,,0,0,0,,Ying!
+Dialogue: 0,0:21:47.91,0:21:49.65,Default,,0,0,0,,You do enjoy coaching swimming?
+Dialogue: 0,0:21:49.83,0:21:53.07,Default,,0,0,0,,I love children and it is summer vacation.
+Dialogue: 0,0:21:53.08,0:21:55.87,Default,,0,0,0,,I can keep fit as well.
+Dialogue: 0,0:21:56.37,0:22:00.69,Default,,0,0,0,,Next month is the miss Hong Kong contest...
+Dialogue: 0,0:22:00.70,0:22:02.66,Default,,0,0,0,,Miss Hong Kong.
+Dialogue: 0,0:22:02.87,0:22:05.86,Default,,0,0,0,,I qualified for the semi-final.
+Dialogue: 0,0:22:06.91,0:22:09.49,Default,,0,0,0,,How nice! I am an insurance agent,
+Dialogue: 0,0:22:09.50,0:22:12.36,Default,,0,0,0,,I can help you to make the right decision.
+Dialogue: 0,0:22:13.50,0:22:16.45,Default,,0,0,0,,You look very smart.
+Dialogue: 0,0:22:16.66,0:22:18.95,Default,,0,0,0,,Just like a royalty.
+Dialogue: 0,0:22:19.20,0:22:21.03,Default,,0,0,0,,Hold on, let me do it with precision...
+Dialogue: 0,0:22:21.41,0:22:23.99,Default,,0,0,0,,You have used too much of your hands.
+Dialogue: 0,0:22:24.00,0:22:25.61,Default,,0,0,0,,The same old trick?
+Dialogue: 0,0:22:25.75,0:22:27.91,Default,,0,0,0,,Let you take a through look at ying.
+Dialogue: 0,0:22:27.91,0:22:29.20,Default,,0,0,0,,You'll ruin my reputation.
+Dialogue: 0,0:22:29.20,0:22:30.49,Default,,0,0,0,,Who ask you to take advantage.
+Dialogue: 0,0:22:30.50,0:22:32.20,Default,,0,0,0,,He's a scum.
+Dialogue: 0,0:22:33.12,0:22:34.78,Default,,0,0,0,,That's his nature.
+Dialogue: 0,0:22:35.29,0:22:36.78,Default,,0,0,0,,He's always like that.
+Dialogue: 0,0:22:36.79,0:22:38.95,Default,,0,0,0,,Ying, I'm ki ho yan.
+Dialogue: 0,0:22:38.95,0:22:40.03,Default,,0,0,0,,I'm chan hoi sum.
+Dialogue: 0,0:22:40.04,0:22:42.15,Default,,0,0,0,,You can call me big eye. Remember me.
+Dialogue: 0,0:22:42.16,0:22:43.40,Default,,0,0,0,,I'm studying fashion design.
+Dialogue: 0,0:22:43.62,0:22:45.11,Default,,0,0,0,,I'll be a hair stylist.
+Dialogue: 0,0:22:45.54,0:22:47.15,Default,,0,0,0,,I can design an evening gown for you.
+Dialogue: 0,0:22:50.33,0:22:53.04,Default,,0,0,0,,I can design the perfect hair style for you.
+Dialogue: 0,0:22:53.04,0:22:54.40,Default,,0,0,0,,Let me help you.
+Dialogue: 0,0:22:57.04,0:23:00.28,Default,,0,0,0,,Hey, here is five bucks for you.
+Dialogue: 0,0:23:00.75,0:23:02.91,Default,,0,0,0,,Don't let me pay the bill.
+Dialogue: 0,0:23:03.83,0:23:05.16,Default,,0,0,0,,Ok.
+Dialogue: 0,0:23:05.29,0:23:08.03,Default,,0,0,0,,Trust me for a new hair style.
+Dialogue: 0,0:23:08.12,0:23:10.36,Default,,0,0,0,,Let's go. Bill please.
+Dialogue: 0,0:23:10.37,0:23:11.23,Default,,0,0,0,,Yes.
+Dialogue: 0,0:23:11.25,0:23:12.74,Default,,0,0,0,,Here... thanks...
+Dialogue: 0,0:23:13.00,0:23:14.16,Default,,0,0,0,,Let me...
+Dialogue: 0,0:23:14.29,0:23:15.99,Default,,0,0,0,,No, I must pay.
+Dialogue: 0,0:23:17.04,0:23:18.32,Default,,0,0,0,,Please don't.
+Dialogue: 0,0:23:28.58,0:23:29.94,Default,,0,0,0,,Hey, don't grip so tight, I can't shuffle.
+Dialogue: 0,0:23:29.95,0:23:31.41,Default,,0,0,0,,It's my turn.
+Dialogue: 0,0:23:34.70,0:23:35.86,Default,,0,0,0,,Why don't you pay.
+Dialogue: 0,0:23:37.41,0:23:38.87,Default,,0,0,0,,You seldom pay.
+Dialogue: 0,0:23:40.08,0:23:41.36,Default,,0,0,0,,What now?
+Dialogue: 0,0:23:41.50,0:23:45.19,Default,,0,0,0,,It means I pay! Why ask stupid question.
+Dialogue: 0,0:23:45.33,0:23:46.78,Default,,0,0,0,,Do I have to pay you back?
+Dialogue: 0,0:23:47.54,0:23:48.62,Default,,0,0,0,,Keep the change!
+Dialogue: 0,0:23:48.62,0:23:49.53,Default,,0,0,0,,Yes, keep the change.
+Dialogue: 0,0:23:49.54,0:23:51.40,Default,,0,0,0,,Thank you, sir.
+Dialogue: 0,0:24:05.70,0:24:06.78,Default,,0,0,0,,Ah ying.
+Dialogue: 0,0:24:14.87,0:24:16.36,Default,,0,0,0,,It's for you, uncle.
+Dialogue: 0,0:24:16.75,0:24:18.86,Default,,0,0,0,,Next time, no flowers just cash.
+Dialogue: 0,0:24:19.37,0:24:20.86,Default,,0,0,0,,I considered the whole night.
+Dialogue: 0,0:24:20.87,0:24:22.16,Default,,0,0,0,,And decided...
+Dialogue: 0,0:24:22.29,0:24:23.62,Default,,0,0,0,,Keep calm!
+Dialogue: 0,0:24:23.91,0:24:25.32,Default,,0,0,0,,To offer you this.
+Dialogue: 0,0:24:27.41,0:24:28.45,Default,,0,0,0,,Good for you?
+Dialogue: 0,0:24:28.54,0:24:32.41,Default,,0,0,0,,Only two men in the world are fit for it;
+Dialogue: 0,0:24:32.66,0:24:35.86,Default,,0,0,0,,one is stallon, the other one is you.
+Dialogue: 0,0:24:36.33,0:24:37.44,Default,,0,0,0,,Really?
+Dialogue: 0,0:24:38.70,0:24:39.78,Default,,0,0,0,,What stal...
+Dialogue: 0,0:24:39.79,0:24:42.28,Default,,0,0,0,,Stallon, Rambo!
+Dialogue: 0,0:24:48.79,0:24:49.87,Default,,0,0,0,,Great swordsmanship!
+Dialogue: 0,0:24:49.87,0:24:50.99,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:24:57.95,0:24:59.49,Default,,0,0,0,,It's sharp.
+Dialogue: 0,0:25:00.12,0:25:02.20,Default,,0,0,0,,He said Rambo used it.
+Dialogue: 0,0:25:03.50,0:25:06.57,Default,,0,0,0,,It is highly lethal!
+Dialogue: 0,0:25:07.66,0:25:09.74,Default,,0,0,0,,Touching it is disastrous!
+Dialogue: 0,0:25:11.08,0:25:12.41,Default,,0,0,0,,You saw it.
+Dialogue: 0,0:25:13.20,0:25:14.28,Default,,0,0,0,,Real sharp.
+Dialogue: 0,0:25:14.29,0:25:16.53,Default,,0,0,0,,It's sharp. It cuts into your wallet.
+Dialogue: 0,0:25:17.75,0:25:23.19,Default,,0,0,0,,I know, I've got 200 bucks only.
+Dialogue: 0,0:25:24.16,0:25:26.12,Default,,0,0,0,,Even one eyebrow is worth 500.
+Dialogue: 0,0:25:32.16,0:25:34.49,Default,,0,0,0,,I've got a blank check,
+Dialogue: 0,0:25:34.50,0:25:36.08,Default,,0,0,0,,I'll fill in there.
+Dialogue: 0,0:25:36.95,0:25:38.94,Default,,0,0,0,,It send chills to your back.
+Dialogue: 0,0:25:40.33,0:25:42.36,Default,,0,0,0,,It does. I go first.
+Dialogue: 0,0:25:42.79,0:25:43.99,Default,,0,0,0,,Nut!
+Dialogue: 0,0:25:44.12,0:25:45.86,Default,,0,0,0,,Not so chilly now!
+Dialogue: 0,0:25:50.20,0:25:51.07,Default,,0,0,0,,Daughter!
+Dialogue: 0,0:25:51.16,0:25:52.82,Default,,0,0,0,,Are you fond of these three?
+Dialogue: 0,0:25:53.04,0:25:56.11,Default,,0,0,0,,No, we just met a few times.
+Dialogue: 0,0:25:56.12,0:25:59.82,Default,,0,0,0,,Right. Our daughter won't like common folks.
+Dialogue: 0,0:26:00.54,0:26:03.12,Default,,0,0,0,,Papa, please!
+Dialogue: 0,0:26:03.29,0:26:05.90,Default,,0,0,0,,Then, why did you invite them to dinner?
+Dialogue: 0,0:26:06.41,0:26:08.53,Default,,0,0,0,,To manipulate them.
+Dialogue: 0,0:26:09.04,0:26:12.07,Default,,0,0,0,,They flirt with ah ying.
+Dialogue: 0,0:26:12.08,0:26:13.19,Default,,0,0,0,,With different excuses.
+Dialogue: 0,0:26:13.50,0:26:15.33,Default,,0,0,0,,I'll make use of the three dogs.
+Dialogue: 0,0:26:15.33,0:26:17.24,Default,,0,0,0,,To help ying in the beauty contest.
+Dialogue: 0,0:26:17.25,0:26:19.74,Default,,0,0,0,,What, three dogs!
+Dialogue: 0,0:26:19.75,0:26:21.24,Default,,0,0,0,,What do you take your daughter for?
+Dialogue: 0,0:26:21.95,0:26:22.99,Default,,0,0,0,,Well,
+Dialogue: 0,0:26:23.33,0:26:27.03,Default,,0,0,0,,let the dogs watch each other!
+Dialogue: 0,0:26:28.16,0:26:29.37,Default,,0,0,0,,Coming!
+Dialogue: 0,0:26:35.41,0:26:36.49,Default,,0,0,0,,Hi, ah ying.
+Dialogue: 0,0:26:38.58,0:26:39.94,Default,,0,0,0,,You're come! Uncle!
+Dialogue: 0,0:26:40.66,0:26:41.49,Default,,0,0,0,,Private collection.
+Dialogue: 0,0:26:41.50,0:26:42.66,Default,,0,0,0,,You'll like it.
+Dialogue: 0,0:26:43.70,0:26:45.16,Default,,0,0,0,,Oh, really.
+Dialogue: 0,0:26:45.54,0:26:47.20,Default,,0,0,0,,This is for you, uncle. This is the most expensive one.
+Dialogue: 0,0:26:47.20,0:26:48.49,Default,,0,0,0,,It's just a little gift. Give it to ying.
+Dialogue: 0,0:26:48.50,0:26:50.49,Default,,0,0,0,,Take care of it. Ying, take care of it.
+Dialogue: 0,0:26:50.50,0:26:52.24,Default,,0,0,0,,Come in and sit down.
+Dialogue: 0,0:26:53.62,0:26:55.83,Default,,0,0,0,,Honey, ready for dinner. Uncle,
+Dialogue: 0,0:26:55.83,0:26:57.24,Default,,0,0,0,,it's a beautiful house. Uncle, I...
+Dialogue: 0,0:26:59.20,0:27:02.90,Default,,0,0,0,,Auntie. My name is puddin lai,
+Dialogue: 0,0:27:02.91,0:27:04.62,Default,,0,0,0,,ying must always mention me.
+Dialogue: 0,0:27:04.91,0:27:07.20,Default,,0,0,0,,Yes, you are the hair-dresser, right!
+Dialogue: 0,0:27:07.20,0:27:08.69,Default,,0,0,0,,Is business good?
+Dialogue: 0,0:27:09.58,0:27:10.86,Default,,0,0,0,,So so.
+Dialogue: 0,0:27:12.12,0:27:13.49,Default,,0,0,0,,Auntie, it smells good.
+Dialogue: 0,0:27:14.79,0:27:17.20,Default,,0,0,0,,This minced beef is good in color, smell and taste.
+Dialogue: 0,0:27:17.20,0:27:19.41,Default,,0,0,0,,That's fried meatball! Go out!
+Dialogue: 0,0:27:19.41,0:27:20.82,Default,,0,0,0,,Sit outside.
+Dialogue: 0,0:27:21.16,0:27:22.45,Default,,0,0,0,,Auntie! Auntie!
+Dialogue: 0,0:27:22.45,0:27:25.16,Default,,0,0,0,,Let me give you a hand. You don't know fried meatballs! Out!
+Dialogue: 0,0:27:25.87,0:27:28.28,Default,,0,0,0,,Let me help you, auntie... Let's go.
+Dialogue: 0,0:27:28.29,0:27:30.07,Default,,0,0,0,,- Have tea please. - Thank you, ying.
+Dialogue: 0,0:27:35.45,0:27:38.53,Default,,0,0,0,,Puddin lai, do you excel in fung-shui,
+Dialogue: 0,0:27:38.54,0:27:40.20,Default,,0,0,0,,and palmistry?
+Dialogue: 0,0:27:40.37,0:27:43.78,Default,,0,0,0,,I am insurance agent, I study those
+Dialogue: 0,0:27:44.04,0:27:45.32,Default,,0,0,0,,in my spare time.
+Dialogue: 0,0:27:45.50,0:27:47.41,Default,,0,0,0,,Uncle, let me read your palm.
+Dialogue: 0,0:27:51.45,0:27:54.70,Default,,0,0,0,,It's thick and fleshy, good palm.
+Dialogue: 0,0:27:54.70,0:27:57.54,Default,,0,0,0,,You're blessed, that's why you've a pretty daughter.
+Dialogue: 0,0:27:57.54,0:27:59.28,Default,,0,0,0,,A rare good palm!
+Dialogue: 0,0:28:00.50,0:28:02.91,Default,,0,0,0,,Uncle, let me go with ying to her room.
+Dialogue: 0,0:28:05.33,0:28:08.04,Default,,0,0,0,,To see her clothes and design a package for her.
+Dialogue: 0,0:28:08.20,0:28:09.41,Default,,0,0,0,,Ying, let's go in.
+Dialogue: 0,0:28:09.91,0:28:11.82,Default,,0,0,0,,No hurry, some other day.
+Dialogue: 0,0:28:14.04,0:28:15.78,Default,,0,0,0,,I tried many brands of shampoo.
+Dialogue: 0,0:28:16.29,0:28:17.85,Default,,0,0,0,,Can't decide the right one for my hair.
+Dialogue: 0,0:28:18.12,0:28:19.24,Default,,0,0,0,,Can you help me?
+Dialogue: 0,0:28:19.25,0:28:20.41,Default,,0,0,0,,Sure.
+Dialogue: 0,0:28:26.70,0:28:28.66,Default,,0,0,0,,They are dry hair.
+Dialogue: 0,0:28:29.12,0:28:31.70,Default,,0,0,0,,You are right, you see they split.
+Dialogue: 0,0:28:31.70,0:28:33.11,Default,,0,0,0,,Quite many splits. Yes.
+Dialogue: 0,0:28:33.41,0:28:35.45,Default,,0,0,0,,Split, split, split on your dead body.
+Dialogue: 0,0:28:35.54,0:28:37.40,Default,,0,0,0,,Who is dead?
+Dialogue: 0,0:28:38.45,0:28:40.61,Default,,0,0,0,,Oh! Your palm marks escape form death.
+Dialogue: 0,0:28:40.62,0:28:42.95,Default,,0,0,0,,Which results in big riches.
+Dialogue: 0,0:28:43.20,0:28:44.32,Default,,0,0,0,,That's better.
+Dialogue: 0,0:28:44.33,0:28:45.36,Default,,0,0,0,,Yes.
+Dialogue: 0,0:28:48.58,0:28:49.91,Default,,0,0,0,,It's all right.
+Dialogue: 0,0:28:50.08,0:28:51.19,Default,,0,0,0,,Let me take good care of it.
+Dialogue: 0,0:28:51.20,0:28:52.78,Default,,0,0,0,,Cut the crap.
+Dialogue: 0,0:28:53.37,0:28:54.83,Default,,0,0,0,,Let's eat.
+Dialogue: 0,0:28:54.83,0:28:56.36,Default,,0,0,0,,May I sit with you.
+Dialogue: 0,0:28:56.83,0:28:58.74,Default,,0,0,0,,Sorry, move over.
+Dialogue: 0,0:28:59.45,0:29:00.32,Default,,0,0,0,,That's my seat. Sit over here.
+Dialogue: 0,0:29:00.33,0:29:01.41,Default,,0,0,0,,Auntie.
+Dialogue: 0,0:29:02.75,0:29:04.61,Default,,0,0,0,,So much delicacies.
+Dialogue: 0,0:29:04.62,0:29:06.28,Default,,0,0,0,,Be at home. Get started.
+Dialogue: 0,0:29:07.12,0:29:08.83,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:29:08.83,0:29:09.82,Default,,0,0,0,,Mum.
+Dialogue: 0,0:29:09.83,0:29:12.70,Default,,0,0,0,,They have longed to "dab" you for some time.
+Dialogue: 0,0:29:15.45,0:29:18.87,Default,,0,0,0,,They always like to "dab" you too.
+Dialogue: 0,0:29:21.58,0:29:23.03,Default,,0,0,0,,Yes "dab" your good wine.
+Dialogue: 0,0:29:24.50,0:29:25.78,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:29:25.79,0:29:28.70,Default,,0,0,0,,Thank you for coming to "dab" our family.
+Dialogue: 0,0:29:29.83,0:29:31.78,Default,,0,0,0,,Ying, watch your words!
+Dialogue: 0,0:29:32.54,0:29:35.45,Default,,0,0,0,,Our pleasure!
+Dialogue: 0,0:29:35.66,0:29:36.37,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:29:36.37,0:29:38.58,Default,,0,0,0,,Honey, drink for the occasion.
+Dialogue: 0,0:29:39.08,0:29:41.74,Default,,0,0,0,,Me too! Mum, it's a happy moment, drink.
+Dialogue: 0,0:29:42.08,0:29:43.32,Default,,0,0,0,,Ok, ok!
+Dialogue: 0,0:29:44.08,0:29:44.94,Default,,0,0,0,,Great.
+Dialogue: 0,0:29:45.00,0:29:46.20,Default,,0,0,0,,Good drinker...
+Dialogue: 0,0:29:46.25,0:29:48.33,Default,,0,0,0,,Auntie, have another glass.
+Dialogue: 0,0:29:48.75,0:29:50.78,Default,,0,0,0,,I can't drink much.
+Dialogue: 0,0:29:50.79,0:29:52.57,Default,,0,0,0,,Doesn't matter, have another.
+Dialogue: 0,0:29:52.87,0:29:54.20,Default,,0,0,0,,Drink it up.
+Dialogue: 0,0:29:54.41,0:29:56.74,Default,,0,0,0,,We'll all very happy today.
+Dialogue: 0,0:29:57.08,0:29:58.78,Default,,0,0,0,,I'll just drink it up.
+Dialogue: 0,0:29:59.54,0:30:00.82,Default,,0,0,0,,Bravo.
+Dialogue: 0,0:30:03.70,0:30:04.61,Default,,0,0,0,,Good drinker.
+Dialogue: 0,0:30:04.62,0:30:07.08,Default,,0,0,0,,Please go ahead, I'll see to the fish.
+Dialogue: 0,0:30:08.45,0:30:10.45,Default,,0,0,0,,Uncle, you are hospitable. Make yourselves at home.
+Dialogue: 0,0:30:10.54,0:30:11.62,Default,,0,0,0,,Papa.
+Dialogue: 0,0:30:14.16,0:30:15.45,Default,,0,0,0,,Mum? Auntie.
+Dialogue: 0,0:30:15.45,0:30:16.41,Default,,0,0,0,,Call a crane?
+Dialogue: 0,0:30:16.41,0:30:18.15,Default,,0,0,0,,Do it together.
+Dialogue: 0,0:30:18.95,0:30:20.49,Default,,0,0,0,,She is real heavy.
+Dialogue: 0,0:30:26.37,0:30:27.41,Default,,0,0,0,,You are useless.
+Dialogue: 0,0:30:27.41,0:30:29.32,Default,,0,0,0,,Remove her, I can't breathe.
+Dialogue: 0,0:30:32.54,0:30:33.65,Default,,0,0,0,,Hey, drank too much.
+Dialogue: 0,0:30:33.87,0:30:36.23,Default,,0,0,0,,- Uncle, he takes too much. - Throw it back, doesn't matter.
+Dialogue: 0,0:30:37.45,0:30:38.74,Default,,0,0,0,,Have some source.
+Dialogue: 0,0:30:39.91,0:30:41.45,Default,,0,0,0,,Get even. Try again.
+Dialogue: 0,0:30:41.62,0:30:43.78,Default,,0,0,0,,Come!
+Dialogue: 0,0:30:46.41,0:30:47.70,Default,,0,0,0,,Marlboro, Marlboro.
+Dialogue: 0,0:30:47.70,0:30:49.07,Default,,0,0,0,,Lemon tea, lemon tea,
+Dialogue: 0,0:30:49.08,0:30:51.79,Default,,0,0,0,,no air-con, no air-con.
+Dialogue: 0,0:30:52.33,0:30:53.78,Default,,0,0,0,,You lost.
+Dialogue: 0,0:30:53.79,0:30:55.82,Default,,0,0,0,,The loser must drink. Drink it up.
+Dialogue: 0,0:30:55.83,0:30:57.82,Default,,0,0,0,,One more time. No way!
+Dialogue: 0,0:30:57.95,0:31:00.74,Default,,0,0,0,,Ok. One more chance for you.
+Dialogue: 0,0:31:03.16,0:31:05.87,Default,,0,0,0,,No air-con, no air-con.
+Dialogue: 0,0:31:07.33,0:31:09.79,Default,,0,0,0,,Drink?
+Dialogue: 0,0:31:13.08,0:31:15.62,Default,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:31:15.95,0:31:16.95,Default,,0,0,0,,No drink!
+Dialogue: 0,0:31:17.16,0:31:18.87,Default,,0,0,0,,You lost, you should drink.
+Dialogue: 0,0:31:18.91,0:31:20.40,Default,,0,0,0,,Yes, do it.
+Dialogue: 0,0:31:20.50,0:31:21.74,Default,,0,0,0,,Drink.
+Dialogue: 0,0:31:22.20,0:31:23.19,Default,,0,0,0,,Silly boy.
+Dialogue: 0,0:31:23.20,0:31:24.36,Default,,0,0,0,,Drink it up.
+Dialogue: 0,0:31:24.41,0:31:27.20,Default,,0,0,0,,Obstinate! Come, hold him.
+Dialogue: 0,0:31:27.50,0:31:30.57,Default,,0,0,0,,Open your mouth, relax.
+Dialogue: 0,0:31:30.87,0:31:34.36,Default,,0,0,0,,One bit more, a little more, that's it.
+Dialogue: 0,0:31:35.04,0:31:36.62,Default,,0,0,0,,Don't tease him.
+Dialogue: 0,0:31:36.79,0:31:38.15,Default,,0,0,0,,That's good fun.
+Dialogue: 0,0:31:38.16,0:31:39.32,Default,,0,0,0,,Dirty tricks!
+Dialogue: 0,0:31:39.54,0:31:41.40,Default,,0,0,0,,Angry already? Get angry so easy?
+Dialogue: 0,0:31:41.66,0:31:42.90,Default,,0,0,0,,That's not a man.
+Dialogue: 0,0:31:42.91,0:31:44.20,Default,,0,0,0,,Really angry?
+Dialogue: 0,0:31:45.66,0:31:47.90,Default,,0,0,0,,Not me! Uncle,
+Dialogue: 0,0:31:47.91,0:31:50.90,Default,,0,0,0,,I like fun. Why angry?
+Dialogue: 0,0:31:52.29,0:31:53.78,Default,,0,0,0,,What are you up to?
+Dialogue: 0,0:31:54.83,0:31:56.07,Default,,0,0,0,,No angry?
+Dialogue: 0,0:32:03.41,0:32:05.24,Default,,0,0,0,,It's mawkish!
+Dialogue: 0,0:32:12.04,0:32:13.82,Default,,0,0,0,,So comfy, why be angry.
+Dialogue: 0,0:32:14.91,0:32:16.20,Default,,0,0,0,,Can you take fun too?
+Dialogue: 0,0:32:16.20,0:32:17.41,Default,,0,0,0,,Certainly.
+Dialogue: 0,0:32:20.37,0:32:21.91,Default,,0,0,0,,Egg!
+Dialogue: 0,0:32:25.33,0:32:26.49,Default,,0,0,0,,What for?
+Dialogue: 0,0:32:27.45,0:32:28.86,Default,,0,0,0,,Stop that!
+Dialogue: 0,0:32:31.54,0:32:34.70,Default,,0,0,0,,I am not angry, not at all.
+Dialogue: 0,0:32:34.70,0:32:36.03,Default,,0,0,0,,Have bigger fun!
+Dialogue: 0,0:32:36.41,0:32:39.78,Default,,0,0,0,,Come on, you have to do it.
+Dialogue: 0,0:32:41.75,0:32:42.66,Default,,0,0,0,,Just for fun.
+Dialogue: 0,0:32:42.66,0:32:43.70,Default,,0,0,0,,Go!
+Dialogue: 0,0:32:54.04,0:32:55.65,Default,,0,0,0,,Second round. Be quick!
+Dialogue: 0,0:33:07.66,0:33:08.66,Default,,0,0,0,,Ying!
+Dialogue: 0,0:33:17.62,0:33:18.83,Default,,0,0,0,,Bravo.
+Dialogue: 0,0:33:18.83,0:33:21.16,Default,,0,0,0,,Papa, that's enough.
+Dialogue: 0,0:33:21.25,0:33:24.20,Default,,0,0,0,,Nobody suffocates. Continue!
+Dialogue: 0,0:33:47.45,0:33:48.91,Default,,0,0,0,,Oh, damn. Uncle.
+Dialogue: 0,0:33:49.50,0:33:50.36,Default,,0,0,0,,Papa!
+Dialogue: 0,0:33:50.37,0:33:51.61,Default,,0,0,0,,Sorry for that, uncle.
+Dialogue: 0,0:33:51.62,0:33:53.61,Default,,0,0,0,,It's you. It's sorry.
+Dialogue: 0,0:33:53.87,0:33:55.11,Default,,0,0,0,,Uncle is not angry.
+Dialogue: 0,0:33:55.41,0:33:57.32,Default,,0,0,0,,No problem, no problem.
+Dialogue: 0,0:33:57.33,0:33:59.57,Default,,0,0,0,,Uncle's face tells he is generous and forgiving.
+Dialogue: 0,0:34:00.25,0:34:02.53,Default,,0,0,0,,Ha, right, generous and forgiving.
+Dialogue: 0,0:34:03.04,0:34:05.70,Default,,0,0,0,,Come, bottoms up!
+Dialogue: 0,0:34:08.70,0:34:11.54,Default,,0,0,0,,Bottoms up!
+Dialogue: 0,0:34:11.54,0:34:14.83,Default,,0,0,0,,Ying, let me see you home.
+Dialogue: 0,0:34:15.70,0:34:16.82,Default,,0,0,0,,Good night.
+Dialogue: 0,0:34:22.08,0:34:24.79,Default,,0,0,0,,You chaps can't drink. Have more.
+Dialogue: 0,0:34:25.50,0:34:27.03,Default,,0,0,0,,Bye-bye.
+Dialogue: 0,0:34:27.70,0:34:29.94,Default,,0,0,0,,Where is ying?
+Dialogue: 0,0:34:30.41,0:34:34.70,Default,,0,0,0,,Bye-bye, bye-bye, bye-bye.
+Dialogue: 0,0:34:35.25,0:34:37.24,Default,,0,0,0,,Uncle, we are leaving.
+Dialogue: 0,0:34:43.20,0:34:47.82,Default,,0,0,0,,Main door is not there, this way.
+Dialogue: 0,0:34:48.16,0:34:49.87,Default,,0,0,0,,This way.
+Dialogue: 0,0:34:50.87,0:34:52.41,Default,,0,0,0,,Good-bye, uncle.
+Dialogue: 0,0:34:53.00,0:34:56.66,Default,,0,0,0,,I need the toilet.
+Dialogue: 0,0:35:03.83,0:35:06.54,Default,,0,0,0,,Where is the washroom?
+Dialogue: 0,0:35:07.29,0:35:10.53,Default,,0,0,0,,Hold on, just press the button.
+Dialogue: 0,0:35:11.70,0:35:14.70,Default,,0,0,0,,Wrong button.
+Dialogue: 0,0:35:14.83,0:35:16.36,Default,,0,0,0,,Why it takes so long.
+Dialogue: 0,0:35:16.70,0:35:19.62,Default,,0,0,0,,Just pull open the life door.
+Dialogue: 0,0:35:21.91,0:35:23.07,Default,,0,0,0,,You first.
+Dialogue: 0,0:35:23.41,0:35:24.57,Default,,0,0,0,,You first.
+Dialogue: 0,0:35:25.33,0:35:26.44,Default,,0,0,0,,After you.
+Dialogue: 0,0:35:26.45,0:35:28.69,Default,,0,0,0,,You don't get award for politeness.
+Dialogue: 0,0:35:31.37,0:35:33.58,Default,,0,0,0,,Why hang clothes in the lift.
+Dialogue: 0,0:35:33.58,0:35:35.57,Default,,0,0,0,,Who says no airing clothes in lifts?
+Dialogue: 0,0:35:36.62,0:35:38.08,Default,,0,0,0,,Nonsense.
+Dialogue: 0,0:35:38.95,0:35:40.49,Default,,0,0,0,,Real small lift!
+Dialogue: 0,0:35:42.37,0:35:45.20,Default,,0,0,0,,So peole hang their clothes here.
+Dialogue: 0,0:35:45.20,0:35:47.57,Default,,0,0,0,,Why only clothes but no trousers?
+Dialogue: 0,0:35:48.20,0:35:49.61,Default,,0,0,0,,Are we there?
+Dialogue: 0,0:35:50.20,0:35:52.11,Default,,0,0,0,,Push, stupid!
+Dialogue: 0,0:35:53.37,0:35:55.33,Default,,0,0,0,,We arrived. Arrive where?
+Dialogue: 0,0:35:55.33,0:35:56.66,Default,,0,0,0,,Repulse bay.
+Dialogue: 0,0:35:58.00,0:36:00.66,Default,,0,0,0,,Caribbean sea! Mermaid!
+Dialogue: 0,0:36:02.33,0:36:03.61,Default,,0,0,0,,Over there!
+Dialogue: 0,0:36:04.33,0:36:05.66,Default,,0,0,0,,Let's swim there.
+Dialogue: 0,0:36:07.00,0:36:11.44,Default,,0,0,0,,Breast stroke!
+Dialogue: 0,0:36:13.41,0:36:15.65,Default,,0,0,0,,Freestyle.
+Dialogue: 0,0:36:15.66,0:36:19.36,Default,,0,0,0,,I don't know how to swim. Give me a buoy.
+Dialogue: 0,0:36:19.50,0:36:20.91,Default,,0,0,0,,A buoy!
+Dialogue: 0,0:36:37.54,0:36:39.87,Default,,0,0,0,,What's happened?
+Dialogue: 0,0:36:40.20,0:36:41.32,Default,,0,0,0,,My clothes?
+Dialogue: 0,0:36:41.41,0:36:42.74,Default,,0,0,0,,It almost killed me.
+Dialogue: 0,0:36:42.87,0:36:44.49,Default,,0,0,0,,Ying, what's the matter?
+Dialogue: 0,0:36:45.58,0:36:50.40,Default,,0,0,0,,Nothing, papa, I had a bad dream.
+Dialogue: 0,0:36:51.12,0:36:53.53,Default,,0,0,0,,Bad dream?
+Dialogue: 0,0:36:53.54,0:36:55.70,Default,,0,0,0,,Did we...
+Dialogue: 0,0:36:56.25,0:36:57.95,Default,,0,0,0,,Tell me what happened.
+Dialogue: 0,0:36:57.95,0:36:59.91,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:37:00.20,0:37:01.44,Default,,0,0,0,,Go!
+Dialogue: 0,0:37:01.75,0:37:02.73,Default,,0,0,0,,What's now?
+Dialogue: 0,0:37:02.75,0:37:04.16,Default,,0,0,0,,We'll come back for you.
+Dialogue: 0,0:37:04.37,0:37:05.83,Default,,0,0,0,,Ying, don't cry.
+Dialogue: 0,0:37:08.62,0:37:10.53,Default,,0,0,0,,We'll return. Yes.
+Dialogue: 0,0:37:20.58,0:37:22.57,Default,,0,0,0,,Who took advantage of her?
+Dialogue: 0,0:37:23.70,0:37:25.28,Default,,0,0,0,,I had no pat in anything, last right.
+Dialogue: 0,0:37:25.29,0:37:28.32,Default,,0,0,0,,I slept so sound, nothing could wake me.
+Dialogue: 0,0:37:29.45,0:37:33.40,Default,,0,0,0,,Can't be me. I adore her so much.
+Dialogue: 0,0:37:33.62,0:37:34.99,Default,,0,0,0,,I won't do anything indecent.
+Dialogue: 0,0:37:35.62,0:37:39.66,Default,,0,0,0,,We don't even know whether anything happened.
+Dialogue: 0,0:37:41.04,0:37:43.03,Default,,0,0,0,,It's not you. Of course not.
+Dialogue: 0,0:37:43.58,0:37:44.74,Default,,0,0,0,,And not you.
+Dialogue: 0,0:37:44.95,0:37:46.16,Default,,0,0,0,,Then, it must be I.
+Dialogue: 0,0:37:46.16,0:37:47.49,Default,,0,0,0,,Now that ah ying is mine, that means.
+Dialogue: 0,0:37:47.50,0:37:48.66,Default,,0,0,0,,Your friend's wife.
+Dialogue: 0,0:37:48.66,0:37:51.45,Default,,0,0,0,,You two should not even fancy for her.
+Dialogue: 0,0:37:51.45,0:37:54.07,Default,,0,0,0,,Excuse me. I'll pay for this meal.
+Dialogue: 0,0:37:55.83,0:37:57.24,Default,,0,0,0,,Now I remember.
+Dialogue: 0,0:37:57.70,0:37:59.36,Default,,0,0,0,,Last night the mermaid,
+Dialogue: 0,0:37:59.37,0:38:00.66,Default,,0,0,0,,and I talked very happily.
+Dialogue: 0,0:38:00.66,0:38:02.12,Default,,0,0,0,,I think it was me.
+Dialogue: 0,0:38:02.12,0:38:06.99,Default,,0,0,0,,Ok... l admit. It was I.
+Dialogue: 0,0:38:07.45,0:38:10.24,Default,,0,0,0,,I don't want to say, but now I won't restrain.
+Dialogue: 0,0:38:10.79,0:38:12.90,Default,,0,0,0,,Look, my whole body is sticky.
+Dialogue: 0,0:38:12.91,0:38:15.20,Default,,0,0,0,,It is evidence of action.
+Dialogue: 0,0:38:15.20,0:38:16.99,Default,,0,0,0,,You don't say. Look at my stained trousers!
+Dialogue: 0,0:38:17.12,0:38:18.53,Default,,0,0,0,,Must be I.
+Dialogue: 0,0:38:19.08,0:38:21.79,Default,,0,0,0,,Wait. Look here! It's all over my head.
+Dialogue: 0,0:38:24.87,0:38:26.16,Default,,0,0,0,,Everyone admits quality.
+Dialogue: 0,0:38:26.16,0:38:27.99,Default,,0,0,0,,Then it is gang rape!
+Dialogue: 0,0:38:28.25,0:38:31.69,Default,,0,0,0,,They talk of gang rape.
+Dialogue: 0,0:38:33.12,0:38:35.49,Default,,0,0,0,,What kind of youth are they?
+Dialogue: 0,0:38:37.79,0:38:39.28,Default,,0,0,0,,Hi, happy!
+Dialogue: 0,0:38:40.08,0:38:41.53,Default,,0,0,0,,Please, go in.
+Dialogue: 0,0:38:49.29,0:38:52.70,Default,,0,0,0,,Ying, I wish...
+Dialogue: 0,0:39:16.95,0:39:20.12,Default,,0,0,0,,Heavens. I've never been so faithful,
+Dialogue: 0,0:39:20.12,0:39:21.78,Default,,0,0,0,,and becomes so heart-broken.
+Dialogue: 0,0:39:32.79,0:39:33.95,Default,,0,0,0,,Ying paging us.
+Dialogue: 0,0:39:42.16,0:39:44.15,Default,,0,0,0,,I don't like to see you again.
+Dialogue: 0,0:39:44.62,0:39:47.58,Default,,0,0,0,,However I fell some changes in my body.
+Dialogue: 0,0:39:51.12,0:39:53.28,Default,,0,0,0,,Take this for a test, tell me the results.
+Dialogue: 0,0:39:53.58,0:39:54.99,Default,,0,0,0,,As soon as you know.
+Dialogue: 0,0:39:56.12,0:39:57.91,Default,,0,0,0,,Ying.
+Dialogue: 0,0:40:04.20,0:40:05.57,Default,,0,0,0,,What is this?
+Dialogue: 0,0:40:06.87,0:40:08.03,Default,,0,0,0,,Perfume.
+Dialogue: 0,0:40:08.50,0:40:10.11,Default,,0,0,0,,Perfume? Try it.
+Dialogue: 0,0:40:16.37,0:40:17.45,Default,,0,0,0,,Very strong.
+Dialogue: 0,0:40:18.41,0:40:20.57,Default,,0,0,0,,It's urine! For the test.
+Dialogue: 0,0:40:20.58,0:40:21.78,Default,,0,0,0,,Why didn't you say so.
+Dialogue: 0,0:40:22.66,0:40:23.82,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:40:24.37,0:40:27.33,Default,,0,0,0,,This is a bottle, not a barrel,
+Dialogue: 0,0:40:27.33,0:40:28.99,Default,,0,0,0,,it doesn't take three to carry.
+Dialogue: 0,0:40:29.20,0:40:30.66,Default,,0,0,0,,You do it tomorrow.
+Dialogue: 0,0:40:31.66,0:40:35.91,Default,,0,0,0,,Me again. But, for ying, it is all right.
+Dialogue: 0,0:40:38.25,0:40:40.08,Default,,0,0,0,,If the test verifies this is draft beer.
+Dialogue: 0,0:40:40.33,0:40:41.91,Default,,0,0,0,,Thank heavens.
+Dialogue: 0,0:40:43.91,0:40:45.20,Default,,0,0,0,,Take some urine.
+Dialogue: 0,0:40:52.37,0:40:53.28,Default,,0,0,0,,Can I help you?
+Dialogue: 0,0:40:53.37,0:40:54.28,Default,,0,0,0,,Urine test.
+Dialogue: 0,0:40:54.29,0:40:55.37,Default,,0,0,0,,Put it on the tray.
+Dialogue: 0,0:41:04.08,0:41:05.99,Default,,0,0,0,,What a coincidence! What's wrong with you?
+Dialogue: 0,0:41:07.04,0:41:10.48,Default,,0,0,0,,Oh... yes... I can't urinate...
+Dialogue: 0,0:41:11.25,0:41:12.28,Default,,0,0,0,,Give me a chance!
+Dialogue: 0,0:41:12.45,0:41:14.11,Default,,0,0,0,,Isit v.D.?
+Dialogue: 0,0:41:14.12,0:41:16.49,Default,,0,0,0,,No! See if there is precipitant in the urine.
+Dialogue: 0,0:41:17.04,0:41:18.90,Default,,0,0,0,,What do you test for?
+Dialogue: 0,0:41:18.91,0:41:20.45,Default,,0,0,0,,Diabetes. The usual test.
+Dialogue: 0,0:41:20.45,0:41:21.57,Default,,0,0,0,,I'll do it.
+Dialogue: 0,0:41:21.58,0:41:22.78,Default,,0,0,0,,Sir please.
+Dialogue: 0,0:41:33.91,0:41:36.20,Default,,0,0,0,,Big eye, what really do you test for?
+Dialogue: 0,0:41:36.20,0:41:37.49,Default,,0,0,0,,You're so tense.
+Dialogue: 0,0:41:38.91,0:41:41.32,Default,,0,0,0,,I don't know. Whatever will be, will be.
+Dialogue: 0,0:41:41.66,0:41:43.15,Default,,0,0,0,,Why so scared.
+Dialogue: 0,0:41:45.25,0:41:46.36,Default,,0,0,0,,Worried for you.
+Dialogue: 0,0:41:46.37,0:41:48.33,Default,,0,0,0,,Ki ho yan! Yes!
+Dialogue: 0,0:41:51.00,0:41:52.99,Default,,0,0,0,,You've diabetes.
+Dialogue: 0,0:41:54.70,0:41:55.91,Default,,0,0,0,,Diabetes.
+Dialogue: 0,0:41:55.91,0:41:57.62,Default,,0,0,0,,Be calm. Is it serious?
+Dialogue: 0,0:41:57.62,0:41:58.61,Default,,0,0,0,,Is it serious?
+Dialogue: 0,0:41:58.62,0:42:00.08,Default,,0,0,0,,Ask a doctor.
+Dialogue: 0,0:42:03.25,0:42:04.08,Default,,0,0,0,,Ask a doctor.
+Dialogue: 0,0:42:04.08,0:42:06.07,Default,,0,0,0,,Right. Go and see a doctor.
+Dialogue: 0,0:42:10.50,0:42:12.41,Default,,0,0,0,,Chuk tai chung. What's the result?
+Dialogue: 0,0:42:12.75,0:42:14.11,Default,,0,0,0,,Why so nosy?
+Dialogue: 0,0:42:14.54,0:42:15.87,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:42:15.87,0:42:19.53,Default,,0,0,0,,Congratulations! My god!
+Dialogue: 0,0:42:19.79,0:42:21.65,Default,,0,0,0,,What my god! Congratulations means I...
+Dialogue: 0,0:42:21.66,0:42:22.87,Default,,0,0,0,,Positive!
+Dialogue: 0,0:42:23.50,0:42:24.83,Default,,0,0,0,,Positive and you congratulate me?
+Dialogue: 0,0:42:25.00,0:42:27.70,Default,,0,0,0,,Be more careful from now on.
+Dialogue: 0,0:42:28.00,0:42:31.03,Default,,0,0,0,,Careful? At my age?
+Dialogue: 0,0:42:31.20,0:42:33.95,Default,,0,0,0,,I don't care, be it tender or not.
+Dialogue: 0,0:42:33.95,0:42:35.94,Default,,0,0,0,,I'll take so far as I've got the urge.
+Dialogue: 0,0:42:35.95,0:42:39.95,Default,,0,0,0,,Uncle, leave it. This laboratory may not be reliable.
+Dialogue: 0,0:42:40.62,0:42:41.95,Default,,0,0,0,,Go elsewhere.
+Dialogue: 0,0:42:43.91,0:42:44.95,Default,,0,0,0,,Pregnancy test?
+Dialogue: 0,0:42:45.29,0:42:46.49,Default,,0,0,0,,Again!
+Dialogue: 0,0:42:57.66,0:43:00.07,Default,,0,0,0,,Congratulations on diabetes. Nut!
+Dialogue: 0,0:43:03.95,0:43:07.07,Default,,0,0,0,,Read the newspaper advertisements.
+Dialogue: 0,0:43:07.08,0:43:09.69,Default,,0,0,0,,See who can cure diabetes.
+Dialogue: 0,0:43:11.62,0:43:12.48,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:43:12.50,0:43:13.36,Default,,0,0,0,,What's the result?
+Dialogue: 0,0:43:13.37,0:43:14.74,Default,,0,0,0,,Sugar in the urine.
+Dialogue: 0,0:43:15.33,0:43:17.57,Default,,0,0,0,,Did you drink ah ying's urine,
+Dialogue: 0,0:43:17.58,0:43:18.66,Default,,0,0,0,,you bastard.
+Dialogue: 0,0:43:19.04,0:43:21.07,Default,,0,0,0,,What, ah ying!
+Dialogue: 0,0:43:33.62,0:43:35.53,Default,,0,0,0,,How came you don't know,
+Dialogue: 0,0:43:35.54,0:43:37.15,Default,,0,0,0,,I'll question them.
+Dialogue: 0,0:43:41.12,0:43:43.58,Default,,0,0,0,,You three rats, who did it?
+Dialogue: 0,0:43:47.16,0:43:50.83,Default,,0,0,0,,For the last time, who did it?
+Dialogue: 0,0:43:56.91,0:43:58.57,Default,,0,0,0,,Torture them!
+Dialogue: 0,0:44:03.91,0:44:06.49,Default,,0,0,0,,I don't want a gang rape scandal,
+Dialogue: 0,0:44:06.87,0:44:08.70,Default,,0,0,0,,if you inform me of the culprit,
+Dialogue: 0,0:44:08.70,0:44:10.03,Default,,0,0,0,,you'll get free,
+Dialogue: 0,0:44:10.04,0:44:13.07,Default,,0,0,0,,if not, I'll break your eardrum.
+Dialogue: 0,0:44:13.83,0:44:17.82,Default,,0,0,0,,Difficult choice. Break friendship or,
+Dialogue: 0,0:44:17.83,0:44:19.24,Default,,0,0,0,,break eardrum.
+Dialogue: 0,0:44:19.41,0:44:21.62,Default,,0,0,0,,It is your choice, who?
+Dialogue: 0,0:44:24.20,0:44:25.41,Default,,0,0,0,,Yourself?
+Dialogue: 0,0:44:29.58,0:44:31.19,Default,,0,0,0,,Yes or no? Did you?
+Dialogue: 0,0:44:36.16,0:44:37.37,Default,,0,0,0,,Go to hell!
+Dialogue: 0,0:44:51.50,0:44:53.16,Default,,0,0,0,,How is it? Sit down!
+Dialogue: 0,0:44:55.66,0:44:57.57,Default,,0,0,0,,How is it? Tell us.
+Dialogue: 0,0:44:57.79,0:44:59.32,Default,,0,0,0,,I am deaf!
+Dialogue: 0,0:44:59.79,0:45:01.28,Default,,0,0,0,,Deaf?
+Dialogue: 0,0:45:01.45,0:45:02.66,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:45:03.75,0:45:05.58,Default,,0,0,0,,How did he torture you?
+Dialogue: 0,0:45:05.58,0:45:06.66,Default,,0,0,0,,Can you hear?
+Dialogue: 0,0:45:06.66,0:45:09.95,Default,,0,0,0,,I can't, I can't!
+Dialogue: 0,0:45:09.95,0:45:12.74,Default,,0,0,0,,You can't? Never, never admit guilty!
+Dialogue: 0,0:45:13.62,0:45:14.74,Default,,0,0,0,,He is ruthless.
+Dialogue: 0,0:45:14.75,0:45:16.78,Default,,0,0,0,,Now what? Our turn will come.
+Dialogue: 0,0:45:16.79,0:45:18.65,Default,,0,0,0,,Puddin, come in.
+Dialogue: 0,0:45:19.00,0:45:20.83,Default,,0,0,0,,What's it? Who is it? Me!
+Dialogue: 0,0:45:23.25,0:45:24.20,Default,,0,0,0,,Auntie asks for you.
+Dialogue: 0,0:45:24.20,0:45:25.53,Default,,0,0,0,,You first. You!
+Dialogue: 0,0:45:25.54,0:45:26.57,Default,,0,0,0,,No, you first.
+Dialogue: 0,0:45:26.58,0:45:28.36,Default,,0,0,0,,My friend, listen to me.
+Dialogue: 0,0:45:30.29,0:45:33.20,Default,,0,0,0,,Don't ever admit guilty.
+Dialogue: 0,0:45:34.41,0:45:36.12,Default,,0,0,0,,Can you hear?
+Dialogue: 0,0:45:37.45,0:45:39.24,Default,,0,0,0,,What? Who?
+Dialogue: 0,0:45:39.75,0:45:43.16,Default,,0,0,0,,Did you do it? Talk! Did you?
+Dialogue: 0,0:45:43.70,0:45:44.82,Default,,0,0,0,,Talk!
+Dialogue: 0,0:45:49.75,0:45:50.91,Default,,0,0,0,,Go to hell!
+Dialogue: 0,0:46:05.12,0:46:07.53,Default,,0,0,0,,Are you really so cruel?
+Dialogue: 0,0:46:08.04,0:46:09.24,Default,,0,0,0,,You're more cruel.
+Dialogue: 0,0:46:09.87,0:46:12.49,Default,,0,0,0,,Information or eardrum?
+Dialogue: 0,0:46:13.75,0:46:15.74,Default,,0,0,0,,It is better no choice is needed.
+Dialogue: 0,0:46:19.37,0:46:20.58,Default,,0,0,0,,Did you do it?
+Dialogue: 0,0:46:21.20,0:46:22.41,Default,,0,0,0,,Yes or no?
+Dialogue: 0,0:46:27.41,0:46:28.62,Default,,0,0,0,,Admit of not?
+Dialogue: 0,0:46:33.37,0:46:34.76,Default,,0,0,0,,Thanks for not breaking my eardrum.
+Dialogue: 0,0:46:34.79,0:46:36.87,Default,,0,0,0,,No break, but smack.
+Dialogue: 0,0:46:40.45,0:46:44.87,Default,,0,0,0,,Now, get out.
+Dialogue: 0,0:46:45.41,0:46:47.87,Default,,0,0,0,,Made foal of us.
+Dialogue: 0,0:46:56.87,0:46:59.16,Default,,0,0,0,,Hey, hey uncle spared me.
+Dialogue: 0,0:47:00.25,0:47:01.28,Default,,0,0,0,,What?
+Dialogue: 0,0:47:04.12,0:47:07.32,Default,,0,0,0,,Tomorrow I'll register for you.
+Dialogue: 0,0:47:07.33,0:47:08.74,Default,,0,0,0,,In the school for deaf & durmb.
+Dialogue: 0,0:47:12.41,0:47:14.37,Default,,0,0,0,,Your foul are smells real bad.
+Dialogue: 0,0:47:14.37,0:47:15.83,Default,,0,0,0,,Should have stepped asides.
+Dialogue: 0,0:47:16.91,0:47:18.57,Default,,0,0,0,,You two made fool of me.
+Dialogue: 0,0:47:19.20,0:47:21.11,Default,,0,0,0,,How come you know nothing?
+Dialogue: 0,0:47:22.29,0:47:24.65,Default,,0,0,0,,Don't you wreck your daughter. Whatever,
+Dialogue: 0,0:47:24.66,0:47:25.78,Default,,0,0,0,,abort it!
+Dialogue: 0,0:47:25.79,0:47:27.37,Default,,0,0,0,,Don't!
+Dialogue: 0,0:47:28.12,0:47:30.74,Default,,0,0,0,,No, I won't do it!
+Dialogue: 0,0:47:31.12,0:47:33.11,Default,,0,0,0,,Hack you to pieces.
+Dialogue: 0,0:47:33.25,0:47:34.78,Default,,0,0,0,,Abort or die!
+Dialogue: 0,0:47:34.79,0:47:37.24,Default,,0,0,0,,Ying, run away! Quick!
+Dialogue: 0,0:47:37.25,0:47:38.91,Default,,0,0,0,,Don't you run away!
+Dialogue: 0,0:47:39.20,0:47:40.91,Default,,0,0,0,,You'll be prosecuted for gang rape.
+Dialogue: 0,0:47:41.37,0:47:43.20,Default,,0,0,0,,Get ready for jail.
+Dialogue: 0,0:47:43.66,0:47:44.99,Default,,0,0,0,,Come back.
+Dialogue: 0,0:47:45.00,0:47:48.07,Default,,0,0,0,,You want her to be newspaper headline?
+Dialogue: 0,0:47:54.50,0:47:55.61,Default,,0,0,0,,Quick.
+Dialogue: 0,0:47:55.91,0:47:57.03,Default,,0,0,0,,Ying!
+Dialogue: 0,0:47:57.50,0:47:58.91,Default,,0,0,0,,Taxi, taxi!
+Dialogue: 0,0:48:00.66,0:48:02.24,Default,,0,0,0,,Follow that taxi. Quick!
+Dialogue: 0,0:48:03.33,0:48:05.44,Default,,0,0,0,,Hey, stop! We are not yet in!
+Dialogue: 0,0:48:11.58,0:48:12.24,Default,,0,0,0,,Step on it
+Dialogue: 0,0:48:12.25,0:48:13.86,Default,,0,0,0,,driver! Be fast!
+Dialogue: 0,0:48:14.37,0:48:15.83,Default,,0,0,0,,Catch up with that taxi.
+Dialogue: 0,0:48:15.83,0:48:17.74,Default,,0,0,0,,Come on, faster. Alright...
+Dialogue: 0,0:48:17.87,0:48:19.33,Default,,0,0,0,,Yes, it is that taxi in front.
+Dialogue: 0,0:48:19.33,0:48:20.24,Default,,0,0,0,,After it...
+Dialogue: 0,0:48:20.25,0:48:21.25,Default,,0,0,0,,Overtake it!
+Dialogue: 0,0:48:21.33,0:48:22.91,Default,,0,0,0,,Why don't you go?
+Dialogue: 0,0:48:23.29,0:48:23.99,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:48:24.00,0:48:25.20,Default,,0,0,0,,Why do you stop?
+Dialogue: 0,0:48:25.45,0:48:29.82,Default,,0,0,0,,Man, it is red light. My license is 11 points off.
+Dialogue: 0,0:48:29.83,0:48:31.41,Default,,0,0,0,,Want my license be suspended?
+Dialogue: 0,0:48:31.41,0:48:33.99,Default,,0,0,0,,We are willing to pay for any penalty.
+Dialogue: 0,0:48:34.00,0:48:36.28,Default,,0,0,0,,Right. If you can catch up, we'll pay
+Dialogue: 0,0:48:36.50,0:48:37.83,Default,,0,0,0,,you 100 dollars.
+Dialogue: 0,0:48:38.25,0:48:41.78,Default,,0,0,0,,The license is mine, not yours.
+Dialogue: 0,0:48:42.25,0:48:42.90,Default,,0,0,0,,Please!
+Dialogue: 0,0:48:42.91,0:48:44.87,Default,,0,0,0,,Ok. Use you brain.
+Dialogue: 0,0:48:48.20,0:48:51.78,Default,,0,0,0,,Bridy calling elephant.
+Dialogue: 0,0:48:53.25,0:48:54.78,Default,,0,0,0,,What's it. Birdy?
+Dialogue: 0,0:48:55.16,0:48:58.98,Default,,0,0,0,,Three passengers here request you
+Dialogue: 0,0:48:59.00,0:48:59.95,Default,,0,0,0,,to wait for them.
+Dialogue: 0,0:48:59.95,0:49:01.82,Default,,0,0,0,,Wait! Who are they?
+Dialogue: 0,0:49:02.12,0:49:04.20,Default,,0,0,0,,Tell him, we want our baby's mother.
+Dialogue: 0,0:49:04.20,0:49:05.44,Default,,0,0,0,,Please, help us.
+Dialogue: 0,0:49:05.79,0:49:10.28,Default,,0,0,0,,They want their baby's mother.
+Dialogue: 0,0:49:10.29,0:49:11.78,Default,,0,0,0,,Lend a hand.
+Dialogue: 0,0:49:16.41,0:49:17.40,Default,,0,0,0,,She shakes her head.
+Dialogue: 0,0:49:17.41,0:49:18.41,Default,,0,0,0,,Alright?
+Dialogue: 0,0:49:18.58,0:49:20.24,Default,,0,0,0,,She says no.
+Dialogue: 0,0:49:20.75,0:49:23.53,Default,,0,0,0,,Tell her this: Ah ying.
+Dialogue: 0,0:49:23.54,0:49:26.28,Default,,0,0,0,,That night, it was not a plot.
+Dialogue: 0,0:49:27.54,0:49:32.83,Default,,0,0,0,,Ying, that night, it was not a plot.
+Dialogue: 0,0:49:33.25,0:49:37.69,Default,,0,0,0,,Tell her I love her till heavens rot.
+Dialogue: 0,0:49:39.54,0:49:45.36,Default,,0,0,0,,He loves you till... vens rot.
+Dialogue: 0,0:49:46.70,0:49:48.28,Default,,0,0,0,,What... vens rot?
+Dialogue: 0,0:49:49.54,0:49:52.86,Default,,0,0,0,,Miss, this one with rotten organs.
+Dialogue: 0,0:49:52.87,0:49:55.24,Default,,0,0,0,,Must be a rascal. Give him up.
+Dialogue: 0,0:49:55.87,0:49:58.03,Default,,0,0,0,,The 'rotten organs' shut up! Next!
+Dialogue: 0,0:49:58.91,0:50:01.40,Default,,0,0,0,,Tell her that I, puddin lai!
+Dialogue: 0,0:50:01.41,0:50:05.41,Default,,0,0,0,,Smoking, no more; Gamble no more; Spindrift, no...
+Dialogue: 0,0:50:06.75,0:50:11.79,Default,,0,0,0,,He says: Smoking, gambling, no... more! Spindrift...
+Dialogue: 0,0:50:13.37,0:50:15.16,Default,,0,0,0,,This one is rotten too.
+Dialogue: 0,0:50:15.37,0:50:17.24,Default,,0,0,0,,Unwilling to give up smoking.
+Dialogue: 0,0:50:17.25,0:50:20.44,Default,,0,0,0,,Spindrift is no good husband;
+Dialogue: 0,0:50:20.95,0:50:22.16,Default,,0,0,0,,next one.
+Dialogue: 0,0:50:22.66,0:50:24.28,Default,,0,0,0,,Let me talk! Ying.
+Dialogue: 0,0:50:24.50,0:50:25.95,Default,,0,0,0,,Hey, it's my turn.
+Dialogue: 0,0:50:26.41,0:50:30.45,Default,,0,0,0,,I am no good speaker,
+Dialogue: 0,0:50:30.70,0:50:33.82,Default,,0,0,0,,I feel you are unwise,
+Dialogue: 0,0:50:35.25,0:50:36.83,Default,,0,0,0,,what does a woman need?
+Dialogue: 0,0:50:37.25,0:50:39.41,Default,,0,0,0,,A man who loves her for life.
+Dialogue: 0,0:50:39.95,0:50:42.32,Default,,0,0,0,,Now, there are 3 men who do.
+Dialogue: 0,0:50:42.87,0:50:44.28,Default,,0,0,0,,You ponder that coolly.
+Dialogue: 0,0:50:46.45,0:50:47.69,Default,,0,0,0,,Now you're alone,
+Dialogue: 0,0:50:47.91,0:50:50.32,Default,,0,0,0,,homeless. Uncased for.
+Dialogue: 0,0:50:52.37,0:50:54.49,Default,,0,0,0,,Let's find you a quiet place,
+Dialogue: 0,0:50:54.79,0:50:55.99,Default,,0,0,0,,give birth to the child.
+Dialogue: 0,0:50:56.37,0:50:58.03,Default,,0,0,0,,Verify the father by medical test.
+Dialogue: 0,0:50:59.04,0:51:01.37,Default,,0,0,0,,One of us will care for you for life.
+Dialogue: 0,0:51:03.66,0:51:04.74,Default,,0,0,0,,Let me!
+Dialogue: 0,0:51:06.12,0:51:08.49,Default,,0,0,0,,Elephant, stop your car.
+Dialogue: 0,0:51:08.50,0:51:11.03,Default,,0,0,0,,Let them meet.
+Dialogue: 0,0:51:11.66,0:51:13.53,Default,,0,0,0,,Wait for the three rascals;
+Dialogue: 0,0:51:13.54,0:51:15.37,Default,,0,0,0,,you must be out of your mind.
+Dialogue: 0,0:51:15.37,0:51:17.24,Default,,0,0,0,,Not knowing how to speed, don't be driver.
+Dialogue: 0,0:51:17.91,0:51:19.07,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:51:25.87,0:51:30.57,Default,,0,0,0,,The three are real nice guys.
+Dialogue: 0,0:51:30.91,0:51:34.08,Default,,0,0,0,,You are in luck. To hell with driving license!
+Dialogue: 0,0:51:34.37,0:51:35.53,Default,,0,0,0,,Bravo!
+Dialogue: 0,0:51:38.87,0:51:40.36,Default,,0,0,0,,Hey, let me alight.
+Dialogue: 0,0:51:40.62,0:51:42.08,Default,,0,0,0,,No way!
+Dialogue: 0,0:51:42.08,0:51:44.11,Default,,0,0,0,,For you future's sake. I won't let them get you.
+Dialogue: 0,0:51:44.75,0:51:46.91,Default,,0,0,0,,Let me out!
+Dialogue: 0,0:51:48.75,0:51:49.95,Default,,0,0,0,,No trace of them! Right.
+Dialogue: 0,0:51:49.95,0:51:51.32,Default,,0,0,0,,What than?
+Dialogue: 0,0:51:51.75,0:51:54.16,Default,,0,0,0,,Elephant, tell me your position!
+Dialogue: 0,0:51:54.16,0:51:56.15,Default,,0,0,0,,I can overtake you.
+Dialogue: 0,0:51:56.50,0:51:58.49,Default,,0,0,0,,I was in prince rd., when you asked.
+Dialogue: 0,0:51:58.50,0:52:00.58,Default,,0,0,0,,Now I am off to lung cheong rd.
+Dialogue: 0,0:52:01.75,0:52:03.11,Default,,0,0,0,,Come!
+Dialogue: 0,0:52:07.75,0:52:10.58,Default,,0,0,0,,What do you want? Let me out!
+Dialogue: 0,0:52:12.79,0:52:13.82,Default,,0,0,0,,Go on, hit me.
+Dialogue: 0,0:52:13.83,0:52:15.57,Default,,0,0,0,,I don't allow them to catch you.
+Dialogue: 0,0:52:31.75,0:52:33.20,Default,,0,0,0,,Help, help!
+Dialogue: 0,0:52:33.20,0:52:35.66,Default,,0,0,0,,Bastard! Disturb my work!
+Dialogue: 0,0:52:35.66,0:52:37.49,Default,,0,0,0,,Now, come out!
+Dialogue: 0,0:52:41.25,0:52:42.45,Default,,0,0,0,,Come out!
+Dialogue: 0,0:52:43.50,0:52:46.28,Default,,0,0,0,,Ying, don't go away!
+Dialogue: 0,0:52:46.29,0:52:48.82,Default,,0,0,0,,Come, back to yourself!
+Dialogue: 0,0:52:52.33,0:52:54.49,Default,,0,0,0,,Ying, you all right?
+Dialogue: 0,0:52:54.91,0:52:56.20,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:52:57.33,0:52:59.87,Default,,0,0,0,,Ying, you are really gorgeous!
+Dialogue: 0,0:53:00.29,0:53:03.58,Default,,0,0,0,,You guys have taste; Worth risking my license.
+Dialogue: 0,0:53:03.87,0:53:05.20,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:53:06.04,0:53:11.70,Default,,0,0,0,,Elephant!
+Dialogue: 0,0:53:12.04,0:53:14.03,Default,,0,0,0,,Serve him right!
+Dialogue: 0,0:53:14.04,0:53:16.12,Default,,0,0,0,,Ying, what we just said in the taxi.
+Dialogue: 0,0:53:16.70,0:53:17.86,Default,,0,0,0,,Do you agree?
+Dialogue: 0,0:53:18.16,0:53:20.28,Default,,0,0,0,,We do mean it. Yes!
+Dialogue: 0,0:53:20.29,0:53:21.70,Default,,0,0,0,,Do you consent?
+Dialogue: 0,0:53:23.54,0:53:24.87,Default,,0,0,0,,Wow! Great!
+Dialogue: 0,0:53:29.58,0:53:31.28,Default,,0,0,0,,This place is a bit small.
+Dialogue: 0,0:53:31.91,0:53:34.45,Default,,0,0,0,,But, for one person, I hope it is ok right?
+Dialogue: 0,0:53:34.45,0:53:35.49,Default,,0,0,0,,Yes.
+Dialogue: 0,0:53:35.58,0:53:37.66,Default,,0,0,0,,Ying, forget anything else.
+Dialogue: 0,0:53:37.66,0:53:39.15,Default,,0,0,0,,Just concentrate on baby-making.
+Dialogue: 0,0:53:41.62,0:53:42.91,Default,,0,0,0,,With whom?
+Dialogue: 0,0:53:43.70,0:53:45.66,Default,,0,0,0,,Ying, I studied this place,
+Dialogue: 0,0:53:45.66,0:53:46.82,Default,,0,0,0,,nothing escapes from my eyes.
+Dialogue: 0,0:53:46.83,0:53:48.19,Default,,0,0,0,,This home will bring you riches,
+Dialogue: 0,0:53:48.20,0:53:51.20,Default,,0,0,0,,food, clothing and many children.
+Dialogue: 0,0:53:56.83,0:53:58.11,Default,,0,0,0,,Cute, isn't it?
+Dialogue: 0,0:53:59.12,0:54:00.20,Default,,0,0,0,,Be careful.
+Dialogue: 0,0:54:02.20,0:54:03.11,Default,,0,0,0,,What!
+Dialogue: 0,0:54:03.12,0:54:05.08,Default,,0,0,0,,I'm infuriated.
+Dialogue: 0,0:54:05.33,0:54:06.99,Default,,0,0,0,,Pregnancy education. Pregnancy education!
+Dialogue: 0,0:54:07.00,0:54:08.41,Default,,0,0,0,,Don't you like to have a cute baby?
+Dialogue: 0,0:54:08.62,0:54:11.03,Default,,0,0,0,,You call this thing cute baby?
+Dialogue: 0,0:54:11.04,0:54:13.74,Default,,0,0,0,,Shame on you, queer thing!
+Dialogue: 0,0:54:14.54,0:54:15.78,Default,,0,0,0,,You are cute, eh?
+Dialogue: 0,0:54:20.62,0:54:22.53,Default,,0,0,0,,Look at you.
+Dialogue: 0,0:54:22.54,0:54:24.57,Default,,0,0,0,,I can't pass the days in peace.
+Dialogue: 0,0:54:36.37,0:54:37.74,Default,,0,0,0,,Good brothers!
+Dialogue: 0,0:54:38.62,0:54:39.99,Default,,0,0,0,,Touching!
+Dialogue: 0,0:54:41.25,0:54:42.83,Default,,0,0,0,,Too good to be separated!
+Dialogue: 0,0:54:53.50,0:54:59.62,Default,,0,0,0,,They are a lovely couple
+Dialogue: 0,0:55:02.91,0:55:07.78,Default,,0,0,0,,who want to stay together forever.
+Dialogue: 0,0:55:07.79,0:55:11.41,Default,,0,0,0,,But they have to be separated.
+Dialogue: 0,0:55:13.04,0:55:15.20,Default,,0,0,0,,Even gourmets.
+Dialogue: 0,0:55:15.33,0:55:18.29,Default,,0,0,0,,Have never lasted such good celery with chicken.
+Dialogue: 0,0:55:18.79,0:55:20.82,Default,,0,0,0,,Is this celery?
+Dialogue: 0,0:55:21.16,0:55:24.98,Default,,0,0,0,,Sure. Have one good bite, ying.
+Dialogue: 0,0:55:25.37,0:55:28.16,Default,,0,0,0,,For celery, we eat the stem, not the leaves.
+Dialogue: 0,0:55:29.29,0:55:30.49,Default,,0,0,0,,Ignorant!
+Dialogue: 0,0:55:31.04,0:55:32.15,Default,,0,0,0,,Imperial!
+Dialogue: 0,0:55:32.33,0:55:35.95,Default,,0,0,0,,But, look at the green, so tempting.
+Dialogue: 0,0:55:35.95,0:55:37.36,Default,,0,0,0,,That makes your mouth water.
+Dialogue: 0,0:55:41.16,0:55:43.57,Default,,0,0,0,,Leave the good things for later.
+Dialogue: 0,0:55:44.37,0:55:46.86,Default,,0,0,0,,Ying, it's for you.
+Dialogue: 0,0:55:47.04,0:55:48.20,Default,,0,0,0,,Have a spare rib.
+Dialogue: 0,0:55:48.75,0:55:51.08,Default,,0,0,0,,You guys don't know delicacies.
+Dialogue: 0,0:55:53.16,0:55:56.86,Default,,0,0,0,,For good things, a little is enough.
+Dialogue: 0,0:55:59.00,0:56:01.66,Default,,0,0,0,,Since it is from ah ying, I'll take it.
+Dialogue: 0,0:56:03.50,0:56:04.70,Default,,0,0,0,,Happy.
+Dialogue: 0,0:56:06.50,0:56:07.70,Default,,0,0,0,,Both happy!
+Dialogue: 0,0:56:13.83,0:56:14.91,Default,,0,0,0,,Salty.
+Dialogue: 0,0:56:24.70,0:56:25.99,Default,,0,0,0,,Vegetables in!
+Dialogue: 0,0:56:45.04,0:56:46.20,Default,,0,0,0,,All charcoal!
+Dialogue: 0,0:56:51.12,0:56:52.66,Default,,0,0,0,,Little bit makes it more tasty.
+Dialogue: 0,0:57:34.04,0:57:35.62,Default,,0,0,0,,What is that?
+Dialogue: 0,0:57:35.79,0:57:36.99,Default,,0,0,0,,Fish!
+Dialogue: 0,0:57:37.75,0:57:38.86,Default,,0,0,0,,Hard like a rock.
+Dialogue: 0,0:57:38.87,0:57:40.28,Default,,0,0,0,,Disgraceful!
+Dialogue: 0,0:57:40.29,0:57:41.74,Default,,0,0,0,,It's fresh
+Dialogue: 0,0:57:42.08,0:57:43.99,Default,,0,0,0,,the inside is edible.
+Dialogue: 0,0:57:44.58,0:57:45.86,Default,,0,0,0,,See, ying says it is edible.
+Dialogue: 0,0:57:46.66,0:57:48.70,Default,,0,0,0,,Eat, then?
+Dialogue: 0,0:57:49.25,0:57:51.16,Default,,0,0,0,,Ah ying tells us to eat. Go ahead.
+Dialogue: 0,0:57:51.16,0:57:52.62,Default,,0,0,0,,Even dog shit is good.
+Dialogue: 0,0:57:53.29,0:57:56.73,Default,,0,0,0,,Don't, it is polluted.
+Dialogue: 0,0:57:57.08,0:57:59.74,Default,,0,0,0,,Nowadays, sea water, everywhere is polluted.
+Dialogue: 0,0:57:59.75,0:58:01.83,Default,,0,0,0,,Can't worry too much.
+Dialogue: 0,0:58:01.83,0:58:04.37,Default,,0,0,0,,Don't eat it. Have vegetables.
+Dialogue: 0,0:58:05.58,0:58:07.28,Default,,0,0,0,,Anything wrong with the fish? Talk!
+Dialogue: 0,0:58:07.29,0:58:08.24,Default,,0,0,0,,What are you afraid of?
+Dialogue: 0,0:58:08.25,0:58:10.41,Default,,0,0,0,,Can't be from the garbage bin?
+Dialogue: 0,0:58:11.25,0:58:13.33,Default,,0,0,0,,Smart boy! Bang on!
+Dialogue: 0,0:58:14.54,0:58:15.99,Default,,0,0,0,,You saw me eating it! Were you dumb!
+Dialogue: 0,0:58:16.00,0:58:17.53,Default,,0,0,0,,Why blame me! You said just now.
+Dialogue: 0,0:58:17.54,0:58:20.83,Default,,0,0,0,,That even dog shit is good. Right, ying?
+Dialogue: 0,0:59:01.83,0:59:03.74,Default,,0,0,0,,Gourmet's delight!
+Dialogue: 0,0:59:08.66,0:59:11.86,Default,,0,0,0,,Pig's belly and bean curd soup. Good for skin.
+Dialogue: 0,0:59:12.66,0:59:14.07,Default,,0,0,0,,It tastes good.
+Dialogue: 0,0:59:16.79,0:59:18.49,Default,,0,0,0,,Greed will take your life.
+Dialogue: 0,0:59:21.83,0:59:22.91,Default,,0,0,0,,It's bitter!
+Dialogue: 0,0:59:22.91,0:59:23.95,Default,,0,0,0,,Sour!
+Dialogue: 0,0:59:24.83,0:59:27.82,Default,,0,0,0,,It's all the better; Don't waste it.
+Dialogue: 0,0:59:30.66,0:59:32.37,Default,,0,0,0,,The smart man differs from an idiot.
+Dialogue: 0,0:59:33.33,0:59:35.87,Default,,0,0,0,,In that the idiot feeds you with celery leave.
+Dialogue: 0,0:59:36.54,0:59:38.32,Default,,0,0,0,,Making like to vomit.
+Dialogue: 0,0:59:39.75,0:59:41.03,Default,,0,0,0,,What's so funny?
+Dialogue: 0,0:59:41.62,0:59:44.66,Default,,0,0,0,,The smart guy makes pig's belly.
+Dialogue: 0,0:59:44.95,0:59:49.40,Default,,0,0,0,,Into a delicacy.
+Dialogue: 0,0:59:56.04,0:59:57.32,Default,,0,0,0,,A bonus!
+Dialogue: 0,1:00:04.45,1:00:06.41,Default,,0,0,0,,That is gourmet's vomit.
+Dialogue: 0,1:00:06.95,1:00:09.54,Default,,0,0,0,,Ying, don't touch that soup. Don't drink it.
+Dialogue: 0,1:00:09.54,1:00:12.07,Default,,0,0,0,,Eat something else.
+Dialogue: 0,1:00:12.08,1:00:13.53,Default,,0,0,0,,This is half fatty and half lean.
+Dialogue: 0,1:00:46.16,1:00:50.95,Default,,0,0,0,,Ying, did I do something wrong?
+Dialogue: 0,1:00:52.62,1:00:57.16,Default,,0,0,0,,Sorry. I am stupid & can't take good care of you.
+Dialogue: 0,1:01:01.12,1:01:02.36,Default,,0,0,0,,No,
+Dialogue: 0,1:01:04.79,1:01:06.78,Default,,0,0,0,,I am homesick.
+Dialogue: 0,1:01:11.45,1:01:15.70,Default,,0,0,0,,Don't be sad. When the baby is born.
+Dialogue: 0,1:01:16.75,1:01:18.36,Default,,0,0,0,,There will be a happy reunion.
+Dialogue: 0,1:01:21.25,1:01:22.66,Default,,0,0,0,,You are so kind.
+Dialogue: 0,1:01:23.08,1:01:25.87,Default,,0,0,0,,Kindest in the three of us?
+Dialogue: 0,1:01:27.58,1:01:29.07,Default,,0,0,0,,The three of you...
+Dialogue: 0,1:01:37.25,1:01:41.28,Default,,0,0,0,,No! Don't. Before the father is confirmed.
+Dialogue: 0,1:01:41.91,1:01:43.78,Default,,0,0,0,,No such thing.
+Dialogue: 0,1:01:43.79,1:01:46.37,Default,,0,0,0,,Ok. Ok., I'm sorry, sorry.
+Dialogue: 0,1:02:09.12,1:02:10.24,Default,,0,0,0,,What's wrong?
+Dialogue: 0,1:02:10.87,1:02:13.08,Default,,0,0,0,,I want tissue paper.
+Dialogue: 0,1:02:13.45,1:02:14.78,Default,,0,0,0,,I have.
+Dialogue: 0,1:02:15.12,1:02:16.28,Default,,0,0,0,,Yes. I...
+Dialogue: 0,1:02:17.54,1:02:18.99,Default,,0,0,0,,Here...
+Dialogue: 0,1:02:21.41,1:02:22.41,Default,,0,0,0,,Are you all right?
+Dialogue: 0,1:02:22.54,1:02:24.95,Default,,0,0,0,,Sorry, I spoiled your shirt.
+Dialogue: 0,1:02:25.25,1:02:26.74,Default,,0,0,0,,I'll clean it for you.
+Dialogue: 0,1:02:27.20,1:02:28.32,Default,,0,0,0,,It's all right.
+Dialogue: 0,1:02:34.83,1:02:38.82,Default,,0,0,0,,Go ahead. Breathe out!
+Dialogue: 0,1:02:52.62,1:02:55.53,Default,,0,0,0,,Wait!
+Dialogue: 0,1:02:58.75,1:03:00.20,Default,,0,0,0,,No more.
+Dialogue: 0,1:03:01.37,1:03:02.61,Default,,0,0,0,,Then, I get nothing.
+Dialogue: 0,1:03:02.70,1:03:05.54,Default,,0,0,0,,Never mind; Go on; Throw out!
+Dialogue: 0,1:03:09.45,1:03:10.86,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:03:18.16,1:03:20.03,Default,,0,0,0,,Can I keep the clothes now?
+Dialogue: 0,1:03:27.58,1:03:30.37,Default,,0,0,0,,Look at them! What are they up to.
+Dialogue: 0,1:03:30.37,1:03:32.91,Default,,0,0,0,,First time here? Yes.
+Dialogue: 0,1:03:33.33,1:03:35.19,Default,,0,0,0,,What's the father name?
+Dialogue: 0,1:03:38.12,1:03:40.41,Default,,0,0,0,,Mr. x. Mr. x?
+Dialogue: 0,1:03:45.66,1:03:47.99,Default,,0,0,0,,Oh x, anything you say.
+Dialogue: 0,1:03:54.58,1:03:58.12,Default,,0,0,0,,Miss, your father!
+Dialogue: 0,1:03:59.70,1:04:00.86,Default,,0,0,0,,Papa!
+Dialogue: 0,1:04:02.16,1:04:03.57,Default,,0,0,0,,Uncle!
+Dialogue: 0,1:04:05.33,1:04:06.82,Default,,0,0,0,,Papa!
+Dialogue: 0,1:04:07.29,1:04:10.03,Default,,0,0,0,,Why haven't seen you for two months.
+Dialogue: 0,1:04:10.04,1:04:11.82,Default,,0,0,0,,Boarding school in the countryside.
+Dialogue: 0,1:04:12.37,1:04:14.41,Default,,0,0,0,,Boarding school?
+Dialogue: 0,1:04:14.62,1:04:17.20,Default,,0,0,0,,You, you, you, come here.
+Dialogue: 0,1:04:24.95,1:04:26.11,Default,,0,0,0,,Get in.
+Dialogue: 0,1:04:33.29,1:04:35.87,Default,,0,0,0,,Miss, better get in the shade.
+Dialogue: 0,1:04:36.87,1:04:38.24,Default,,0,0,0,,Uncle!
+Dialogue: 0,1:04:38.37,1:04:39.78,Default,,0,0,0,,Uncle, do we come in.
+Dialogue: 0,1:04:39.91,1:04:41.74,Default,,0,0,0,,Dial 9997?
+Dialogue: 0,1:04:45.87,1:04:47.41,Default,,0,0,0,,You guys shut up!
+Dialogue: 0,1:04:47.83,1:04:49.49,Default,,0,0,0,,The matter is not finished.
+Dialogue: 0,1:04:50.08,1:04:51.74,Default,,0,0,0,,I don't want a scandal.
+Dialogue: 0,1:04:52.33,1:04:55.32,Default,,0,0,0,,Be careful! Don't let that barber know the truth.
+Dialogue: 0,1:04:59.12,1:05:01.41,Default,,0,0,0,,Laugh, everybody!
+Dialogue: 0,1:05:05.37,1:05:06.95,Default,,0,0,0,,Uncle, what are you up to?
+Dialogue: 0,1:05:07.29,1:05:09.82,Default,,0,0,0,,Now, ying refused to abort.
+Dialogue: 0,1:05:10.25,1:05:12.36,Default,,0,0,0,,That means she has to marry one of you.
+Dialogue: 0,1:05:12.83,1:05:16.74,Default,,0,0,0,,The lucky man has to pay me half million U.S. dollars.
+Dialogue: 0,1:05:16.75,1:05:18.36,Default,,0,0,0,,Not a cent less.
+Dialogue: 0,1:05:23.83,1:05:25.53,Default,,0,0,0,,Your papa has changed.
+Dialogue: 0,1:05:25.54,1:05:27.45,Default,,0,0,0,,So friendly to the three.
+Dialogue: 0,1:05:29.95,1:05:32.79,Default,,0,0,0,,How about a discount of kin's.
+Dialogue: 0,1:05:32.79,1:05:37.86,Default,,0,0,0,,Hold it. Money is real, kinship is shit.
+Dialogue: 0,1:05:38.08,1:05:40.54,Default,,0,0,0,,60 tables in wedding banquet,
+Dialogue: 0,1:05:40.54,1:05:41.99,Default,,0,0,0,,and one apartment,
+Dialogue: 0,1:05:42.00,1:05:44.83,Default,,0,0,0,,only 1,300 square feet is fine.
+Dialogue: 0,1:05:46.41,1:05:50.16,Default,,0,0,0,,No dry smile. Laugh.
+Dialogue: 0,1:05:56.37,1:05:57.70,Default,,0,0,0,,Real funny.
+Dialogue: 0,1:05:58.58,1:05:59.66,Default,,0,0,0,,Papa!
+Dialogue: 0,1:06:01.79,1:06:03.37,Default,,0,0,0,,Papa, can we go home now?
+Dialogue: 0,1:06:03.91,1:06:06.12,Default,,0,0,0,,Daughter, you can't go home.
+Dialogue: 0,1:06:06.50,1:06:10.19,Default,,0,0,0,,You are growing bigger everyday, only 7 months more.
+Dialogue: 0,1:06:10.41,1:06:12.45,Default,,0,0,0,,Try persevere it.
+Dialogue: 0,1:06:13.20,1:06:15.74,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:06:15.75,1:06:16.61,Default,,0,0,0,,Bye, uncle.
+Dialogue: 0,1:06:16.62,1:06:18.03,Default,,0,0,0,,Laugh, again, next time.
+Dialogue: 0,1:06:18.25,1:06:19.36,Default,,0,0,0,,Half a million.
+Dialogue: 0,1:06:20.29,1:06:21.37,Default,,0,0,0,,60 tables.
+Dialogue: 0,1:06:21.54,1:06:23.15,Default,,0,0,0,,1,300 square feet.
+Dialogue: 0,1:06:24.58,1:06:26.57,Default,,0,0,0,,Are you still in? Yes!
+Dialogue: 0,1:06:27.37,1:06:28.58,Default,,0,0,0,,Yes!
+Dialogue: 0,1:06:29.25,1:06:31.49,Default,,0,0,0,,Ying, we'll work hard for you.
+Dialogue: 0,1:06:31.87,1:06:34.08,Default,,0,0,0,,Escort her home first.
+Dialogue: 0,1:06:34.08,1:06:36.87,Default,,0,0,0,,Go, ah ying.
+Dialogue: 0,1:06:47.54,1:06:51.74,Default,,0,0,0,,It's fate, you can't change it.
+Dialogue: 0,1:06:54.45,1:06:55.61,Default,,0,0,0,,Prophet lai.
+Dialogue: 0,1:06:57.29,1:06:58.87,Default,,0,0,0,,Sit please.
+Dialogue: 0,1:07:00.33,1:07:04.20,Default,,0,0,0,,My friend, you have eyes like tiger's.
+Dialogue: 0,1:07:04.20,1:07:06.11,Default,,0,0,0,,Prophet lai, you don't recognise me?
+Dialogue: 0,1:07:08.12,1:07:11.11,Default,,0,0,0,,Oh, Mr. taxi-driver!
+Dialogue: 0,1:07:11.12,1:07:13.24,Default,,0,0,0,,You escaped an accident, shout prosper afterwards.
+Dialogue: 0,1:07:13.25,1:07:15.95,Default,,0,0,0,,Let me advice you how to make big fortunes.
+Dialogue: 0,1:07:16.12,1:07:18.86,Default,,0,0,0,,That is fine. I take you as a living god.
+Dialogue: 0,1:07:18.87,1:07:19.91,Default,,0,0,0,,Good.
+Dialogue: 0,1:07:20.12,1:07:22.78,Default,,0,0,0,,You said you don't have consulting office?
+Dialogue: 0,1:07:24.37,1:07:26.58,Default,,0,0,0,,But, I have a wife and a child now.
+Dialogue: 0,1:07:26.58,1:07:28.74,Default,,0,0,0,,Let us go back to you.
+Dialogue: 0,1:07:30.33,1:07:34.53,Default,,0,0,0,,Your brow is like the glowing sun. Yes?
+Dialogue: 0,1:07:34.54,1:07:36.40,Default,,0,0,0,,But there is a tinge of black cloud.
+Dialogue: 0,1:07:36.41,1:07:38.24,Default,,0,0,0,,You can't wipe it off that way.
+Dialogue: 0,1:07:38.95,1:07:41.79,Default,,0,0,0,,Something may be in your way recently.
+Dialogue: 0,1:07:42.37,1:07:44.86,Default,,0,0,0,,Exactly! Prophet, you're a living god.
+Dialogue: 0,1:07:45.08,1:07:46.66,Default,,0,0,0,,Let me see your palm. Sure.
+Dialogue: 0,1:07:46.66,1:07:48.32,Default,,0,0,0,,Work hard on the wheels...
+Dialogue: 0,1:07:48.66,1:07:49.78,Default,,0,0,0,,Yes, yes!
+Dialogue: 0,1:07:49.79,1:07:50.99,Default,,0,0,0,,The other one,
+Dialogue: 0,1:07:54.04,1:07:55.95,Default,,0,0,0,,you'll be landlord!
+Dialogue: 0,1:07:56.62,1:07:59.20,Default,,0,0,0,,Prophet lai. You work wonders!
+Dialogue: 0,1:08:00.62,1:08:03.08,Default,,0,0,0,,Some mean guys want to outbid me.
+Dialogue: 0,1:08:03.08,1:08:04.19,Default,,0,0,0,,Where is the property?
+Dialogue: 0,1:08:04.20,1:08:05.41,Default,,0,0,0,,Connaught centre.
+Dialogue: 0,1:08:05.66,1:08:08.95,Default,,0,0,0,,Good judgement! Commercial unit, good bet!
+Dialogue: 0,1:08:09.20,1:08:12.37,Default,,0,0,0,,Not an unit, the whole block!
+Dialogue: 0,1:08:15.33,1:08:16.24,Default,,0,0,0,,Ah..., the first time I saw you,
+Dialogue: 0,1:08:16.25,1:08:18.36,Default,,0,0,0,,I knew the sky is your limit.
+Dialogue: 0,1:08:18.37,1:08:20.70,Default,,0,0,0,,You're an aristocratic face.
+Dialogue: 0,1:08:20.70,1:08:23.78,Default,,0,0,0,,I give you some sacred writings remember.
+Dialogue: 0,1:08:23.79,1:08:26.24,Default,,0,0,0,,Put one on your chest, one on your bed,
+Dialogue: 0,1:08:26.33,1:08:29.90,Default,,0,0,0,,one under the bed; Don't wet it even in bath.
+Dialogue: 0,1:08:29.91,1:08:31.90,Default,,0,0,0,,When wet, it loses it's power. 3 days later.
+Dialogue: 0,1:08:31.91,1:08:33.99,Default,,0,0,0,,Whoever bid against you will die.
+Dialogue: 0,1:08:36.08,1:08:37.69,Default,,0,0,0,,Ah chiu! Yes!
+Dialogue: 0,1:08:38.95,1:08:40.86,Default,,0,0,0,,Five thousand dollars for the prophet.
+Dialogue: 0,1:08:41.75,1:08:42.73,Default,,0,0,0,,My secretary.
+Dialogue: 0,1:08:42.75,1:08:44.16,Default,,0,0,0,,Thank you, thank you.
+Dialogue: 0,1:08:45.04,1:08:46.20,Default,,0,0,0,,Thanks, Mr. chi...
+Dialogue: 0,1:08:46.50,1:08:48.20,Default,,0,0,0,,Your face is a rarity of the century.
+Dialogue: 0,1:08:48.20,1:08:49.78,Default,,0,0,0,,Have a thorough look.
+Dialogue: 0,1:09:07.75,1:09:10.03,Default,,0,0,0,,Ho yan, is this sausage or trousers.
+Dialogue: 0,1:09:10.04,1:09:12.12,Default,,0,0,0,,Sorry, I'll do it again.
+Dialogue: 0,1:09:13.16,1:09:16.15,Default,,0,0,0,,Do it right, must be finished by the morning.
+Dialogue: 0,1:09:16.16,1:09:17.74,Default,,0,0,0,,You know? I know.
+Dialogue: 0,1:09:20.33,1:09:23.24,Default,,0,0,0,,Why do you over-exert yourself so much?
+Dialogue: 0,1:09:25.62,1:09:27.08,Default,,0,0,0,,Getting married.
+Dialogue: 0,1:09:27.41,1:09:31.61,Default,,0,0,0,,Ah! Get a girl to marry you.
+Dialogue: 0,1:09:32.75,1:09:34.28,Default,,0,0,0,,And a son coming soon.
+Dialogue: 0,1:09:35.25,1:09:40.41,Default,,0,0,0,,A son too! Bonus for you naughty chap.
+Dialogue: 0,1:09:41.54,1:09:42.74,Default,,0,0,0,,Maybe!
+Dialogue: 0,1:09:43.70,1:09:47.24,Default,,0,0,0,,You nut! You are black man in black forest.
+Dialogue: 0,1:09:48.16,1:09:49.40,Default,,0,0,0,,What does it mean?
+Dialogue: 0,1:09:49.41,1:09:51.74,Default,,0,0,0,,All in the dark.
+Dialogue: 0,1:09:58.20,1:10:01.37,Default,,0,0,0,,Is it ok? Come again. See you.
+Dialogue: 0,1:10:07.95,1:10:09.94,Default,,0,0,0,,Sorry miss, we are closing up.
+Dialogue: 0,1:10:09.95,1:10:12.32,Default,,0,0,0,,After finished me. Boss.
+Dialogue: 0,1:10:12.79,1:10:13.95,Default,,0,0,0,,What's the matter?
+Dialogue: 0,1:10:13.95,1:10:16.29,Default,,0,0,0,,Step in please.
+Dialogue: 0,1:10:16.83,1:10:18.82,Default,,0,0,0,,Boss, let me do one more.
+Dialogue: 0,1:10:19.54,1:10:20.54,Default,,0,0,0,,Ok.
+Dialogue: 0,1:10:21.58,1:10:22.82,Default,,0,0,0,,Thank you, boss.
+Dialogue: 0,1:10:23.41,1:10:24.70,Default,,0,0,0,,Fighting hard again.
+Dialogue: 0,1:10:24.70,1:10:25.70,Default,,0,0,0,,Sit please.
+Dialogue: 0,1:10:25.75,1:10:27.70,Default,,0,0,0,,Happy, working hard, eh?
+Dialogue: 0,1:10:28.54,1:10:30.95,Default,,0,0,0,,Can't help it.
+Dialogue: 0,1:10:30.95,1:10:32.78,Default,,0,0,0,,I've to shoulder up the family. Really something.
+Dialogue: 0,1:10:32.79,1:10:34.03,Default,,0,0,0,,Bye-bye.
+Dialogue: 0,1:10:34.33,1:10:35.57,Default,,0,0,0,,What cut you like?
+Dialogue: 0,1:10:35.58,1:10:37.16,Default,,0,0,0,,A bit shorter.
+Dialogue: 0,1:10:38.12,1:10:39.83,Default,,0,0,0,,Happy!
+Dialogue: 0,1:10:39.83,1:10:41.57,Default,,0,0,0,,Hi, honey
+Dialogue: 0,1:10:42.87,1:10:44.91,Default,,0,0,0,,so, you changed salon.
+Dialogue: 0,1:10:44.91,1:10:46.45,Default,,0,0,0,,Have a kiss.
+Dialogue: 0,1:10:49.91,1:10:52.98,Default,,0,0,0,,Quiet! Boss, three more jobs, please.
+Dialogue: 0,1:10:53.50,1:10:54.66,Default,,0,0,0,,Ok.
+Dialogue: 0,1:10:54.66,1:10:56.07,Default,,0,0,0,,We know what to do.
+Dialogue: 0,1:10:56.25,1:11:00.74,Default,,0,0,0,,Sit. Ok. Let's start.
+Dialogue: 0,1:11:00.75,1:11:01.73,Default,,0,0,0,,How long does it take?
+Dialogue: 0,1:11:01.75,1:11:03.16,Default,,0,0,0,,Make mine first.
+Dialogue: 0,1:11:31.50,1:11:33.61,Default,,0,0,0,,Why everybody looks so tried?
+Dialogue: 0,1:11:36.04,1:11:37.95,Default,,0,0,0,,No. I was born healthy.
+Dialogue: 0,1:11:37.95,1:11:39.03,Default,,0,0,0,,I am strong.
+Dialogue: 0,1:11:39.33,1:11:41.24,Default,,0,0,0,,I've got a good heart.
+Dialogue: 0,1:11:41.25,1:11:44.94,Default,,0,0,0,,We are overflowed with energy, we need a fight!
+Dialogue: 0,1:12:10.12,1:12:11.45,Default,,0,0,0,,Where is the towel?
+Dialogue: 0,1:12:23.91,1:12:25.95,Default,,0,0,0,,It's a nice area.
+Dialogue: 0,1:12:27.16,1:12:29.32,Default,,0,0,0,,At least, the air is fresh?
+Dialogue: 0,1:12:30.54,1:12:32.57,Default,,0,0,0,,- What's the matter? - Ah ying, are you alright?
+Dialogue: 0,1:12:32.58,1:12:33.69,Default,,0,0,0,,Let me help you.
+Dialogue: 0,1:12:34.54,1:12:37.37,Default,,0,0,0,,It kicks me. My son is so naughty.
+Dialogue: 0,1:12:38.33,1:12:39.57,Default,,0,0,0,,Careful!
+Dialogue: 0,1:12:41.83,1:12:43.91,Default,,0,0,0,,My dear boy,
+Dialogue: 0,1:12:44.29,1:12:46.32,Default,,0,0,0,,two more months. You will come and decide our fate.
+Dialogue: 0,1:12:46.33,1:12:48.03,Default,,0,0,0,,Hands off!
+Dialogue: 0,1:12:50.00,1:12:52.49,Default,,0,0,0,,By that time, two fragile hearts...
+Dialogue: 0,1:12:52.50,1:12:53.99,Default,,0,0,0,,Will be broken.
+Dialogue: 0,1:12:54.37,1:12:57.33,Default,,0,0,0,,Don't worry, I'll give you some glue.
+Dialogue: 0,1:12:57.95,1:12:58.69,Default,,0,0,0,,To mend them.
+Dialogue: 0,1:12:58.70,1:13:00.61,Default,,0,0,0,,Mend your skull.
+Dialogue: 0,1:13:01.45,1:13:03.87,Default,,0,0,0,,In fact, all three of you are gentlemen.
+Dialogue: 0,1:13:04.29,1:13:06.53,Default,,0,0,0,,Hard-working, reliable,
+Dialogue: 0,1:13:06.87,1:13:08.53,Default,,0,0,0,,and smart!
+Dialogue: 0,1:13:09.66,1:13:13.03,Default,,0,0,0,,When I marry one of you.
+Dialogue: 0,1:13:13.29,1:13:17.20,Default,,0,0,0,,Will you still be good friends?
+Dialogue: 0,1:13:18.20,1:13:19.74,Default,,0,0,0,,We've listened to you.
+Dialogue: 0,1:13:19.75,1:13:21.53,Default,,0,0,0,,We are good friends all along?
+Dialogue: 0,1:13:21.54,1:13:23.53,Default,,0,0,0,,Yes, quite good.
+Dialogue: 0,1:13:24.12,1:13:26.83,Default,,0,0,0,,Wow, wow your mother!
+Dialogue: 0,1:13:29.41,1:13:33.53,Default,,0,0,0,,Her mother is a bitch, don't you spare her?
+Dialogue: 0,1:13:33.70,1:13:35.44,Default,,0,0,0,,What kind of man are you?
+Dialogue: 0,1:13:36.58,1:13:38.74,Default,,0,0,0,,Ying, you know what he is like.
+Dialogue: 0,1:13:50.83,1:13:52.66,Default,,0,0,0,,Old man, I am nervous.
+Dialogue: 0,1:13:52.66,1:13:54.53,Default,,0,0,0,,Feel my hand, it is like ice.
+Dialogue: 0,1:13:55.87,1:13:57.41,Default,,0,0,0,,Nice to have a grandchild.
+Dialogue: 0,1:13:57.87,1:14:00.24,Default,,0,0,0,,Why so tense, sit down.
+Dialogue: 0,1:14:08.33,1:14:10.74,Default,,0,0,0,,You're here. Daddy, mammy.
+Dialogue: 0,1:14:11.45,1:14:12.91,Default,,0,0,0,,Father-in-law, mother-in-law.
+Dialogue: 0,1:14:14.58,1:14:16.44,Default,,0,0,0,,Hold it!
+Dialogue: 0,1:14:16.45,1:14:18.44,Default,,0,0,0,,My grandchild doesn't have 3 fathers. Go!
+Dialogue: 0,1:14:18.75,1:14:21.78,Default,,0,0,0,,Get lost! Or else I hack you to pieces,
+Dialogue: 0,1:14:22.41,1:14:23.90,Default,,0,0,0,,and feed the dogs.
+Dialogue: 0,1:14:23.91,1:14:27.20,Default,,0,0,0,,All right. Go home first!
+Dialogue: 0,1:14:28.83,1:14:29.91,Default,,0,0,0,,Go!
+Dialogue: 0,1:14:29.91,1:14:35.49,Default,,0,0,0,,Put those down. Go now.
+Dialogue: 0,1:14:38.33,1:14:39.36,Default,,0,0,0,,Mammy!
+Dialogue: 0,1:14:40.87,1:14:41.78,Default,,0,0,0,,What?
+Dialogue: 0,1:14:41.79,1:14:44.57,Default,,0,0,0,,This is my blood type.
+Dialogue: 0,1:14:44.95,1:14:46.82,Default,,0,0,0,,If it is proven that the son is mine.
+Dialogue: 0,1:14:46.83,1:14:49.16,Default,,0,0,0,,I'll buy you a big present.
+Dialogue: 0,1:14:49.16,1:14:52.65,Default,,0,0,0,,Mammy, if it is mine, I'll kneel and serve you tea.
+Dialogue: 0,1:14:53.79,1:14:57.20,Default,,0,0,0,,- Iron proof of father and sod, mammy. - Mum.
+Dialogue: 0,1:14:57.20,1:14:59.41,Default,,0,0,0,,Is that floor show? Go!
+Dialogue: 0,1:14:59.66,1:15:02.28,Default,,0,0,0,,Go away, go!
+Dialogue: 0,1:15:06.33,1:15:08.24,Default,,0,0,0,,How many blood types are there?
+Dialogue: 0,1:15:08.41,1:15:11.25,Default,,0,0,0,,Two. Male and female.
+Dialogue: 0,1:15:11.29,1:15:13.12,Default,,0,0,0,,Which are these?
+Dialogue: 0,1:15:13.12,1:15:16.94,Default,,0,0,0,,This... english; What does it say?
+Dialogue: 0,1:15:21.29,1:15:24.03,Default,,0,0,0,,This is odd, all are a type!
+Dialogue: 0,1:15:35.33,1:15:38.78,Default,,0,0,0,,All the gods in heaven.
+Dialogue: 0,1:15:39.54,1:15:40.78,Default,,0,0,0,,It must be a son.
+Dialogue: 0,1:15:40.91,1:15:42.53,Default,,0,0,0,,So I expect.
+Dialogue: 0,1:15:45.12,1:15:47.45,Default,,0,0,0,,Thanks for taking care of ah ying so far,
+Dialogue: 0,1:15:47.45,1:15:49.11,Default,,0,0,0,,how about christening for my son.
+Dialogue: 0,1:15:49.12,1:15:50.78,Default,,0,0,0,,You're dreaming.
+Dialogue: 0,1:15:51.75,1:15:53.20,Default,,0,0,0,,How about plum lai.
+Dialogue: 0,1:15:54.04,1:15:55.37,Default,,0,0,0,,Plum stone.
+Dialogue: 0,1:15:56.83,1:15:57.53,Default,,0,0,0,,Mammy!
+Dialogue: 0,1:15:57.54,1:15:58.53,Default,,0,0,0,,Mammy is here.
+Dialogue: 0,1:15:58.54,1:15:59.62,Default,,0,0,0,,Son or girl?
+Dialogue: 0,1:15:59.62,1:16:01.11,Default,,0,0,0,,What is it?
+Dialogue: 0,1:16:01.12,1:16:03.20,Default,,0,0,0,,Does it look like me?
+Dialogue: 0,1:16:03.20,1:16:04.49,Default,,0,0,0,,Of the same blood type?
+Dialogue: 0,1:16:04.83,1:16:06.19,Default,,0,0,0,,Mammy, tell us.
+Dialogue: 0,1:16:06.20,1:16:08.41,Default,,0,0,0,,Mammy, tell us please.
+Dialogue: 0,1:16:08.58,1:16:09.78,Default,,0,0,0,,It's a son.
+Dialogue: 0,1:16:09.79,1:16:12.78,Default,,0,0,0,,Wow, great. I knew it!
+Dialogue: 0,1:16:12.79,1:16:15.40,Default,,0,0,0,,It's an illegitimate son. Pa sold it to godfather.
+Dialogue: 0,1:16:15.41,1:16:16.53,Default,,0,0,0,,Sold my son!
+Dialogue: 0,1:16:16.54,1:16:18.82,Default,,0,0,0,,Going to Canada tomorrow.
+Dialogue: 0,1:16:18.83,1:16:19.83,Default,,0,0,0,,Take it back.
+Dialogue: 0,1:16:19.91,1:16:22.49,Default,,0,0,0,,Godfather has money and power.
+Dialogue: 0,1:16:22.50,1:16:23.45,Default,,0,0,0,,Don't fancy taking it back.
+Dialogue: 0,1:16:23.45,1:16:24.49,Default,,0,0,0,,Mammy?
+Dialogue: 0,1:16:24.50,1:16:25.66,Default,,0,0,0,,Go away!
+Dialogue: 0,1:16:26.75,1:16:27.95,Default,,0,0,0,,Mammy!
+Dialogue: 0,1:16:30.95,1:16:32.16,Default,,0,0,0,,What, now?
+Dialogue: 0,1:16:32.50,1:16:34.66,Default,,0,0,0,,We must stick together for once.
+Dialogue: 0,1:16:34.91,1:16:36.12,Default,,0,0,0,,Ok.
+Dialogue: 0,1:16:36.75,1:16:38.53,Default,,0,0,0,,United.
+Dialogue: 0,1:16:41.33,1:16:42.66,Default,,0,0,0,,Nut!
+Dialogue: 0,1:16:53.16,1:16:54.16,Default,,0,0,0,,Come on...
+Dialogue: 0,1:17:00.54,1:17:04.28,Default,,0,0,0,,Milk for you, son.
+Dialogue: 0,1:17:04.29,1:17:06.90,Default,,0,0,0,,This way brings luck.
+Dialogue: 0,1:17:08.58,1:17:10.57,Default,,0,0,0,,It's a wall. Right.
+Dialogue: 0,1:17:11.00,1:17:13.41,Default,,0,0,0,,Use your brain. Climb!
+Dialogue: 0,1:17:13.41,1:17:14.65,Default,,0,0,0,,Right.
+Dialogue: 0,1:17:21.08,1:17:24.53,Default,,0,0,0,,You make so much trouble. Naughty dog.
+Dialogue: 0,1:17:30.41,1:17:31.65,Default,,0,0,0,,Run quickly.
+Dialogue: 0,1:17:44.79,1:17:50.24,Default,,0,0,0,,Where are you son?
+Dialogue: 0,1:17:51.37,1:17:53.91,Default,,0,0,0,,Big eye boy. Big nose boy.
+Dialogue: 0,1:17:54.29,1:17:55.65,Default,,0,0,0,,North-west.
+Dialogue: 0,1:17:56.25,1:17:57.49,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:17:58.08,1:17:59.36,Default,,0,0,0,,Big eye boy.
+Dialogue: 0,1:18:01.66,1:18:02.65,Default,,0,0,0,,Big eye boy. Big nose boy.
+Dialogue: 0,1:18:02.66,1:18:03.82,Default,,0,0,0,,Go!
+Dialogue: 0,1:18:04.20,1:18:07.16,Default,,0,0,0,,Are you Superman? Find ways.
+Dialogue: 0,1:18:09.95,1:18:13.37,Default,,0,0,0,,South-east, impossible.
+Dialogue: 0,1:18:15.20,1:18:17.57,Default,,0,0,0,,I was right.
+Dialogue: 0,1:18:17.95,1:18:20.07,Default,,0,0,0,,Little puddin, here I come.
+Dialogue: 0,1:18:29.70,1:18:32.66,Default,,0,0,0,,Good baby, nice baby.
+Dialogue: 0,1:18:32.66,1:18:38.03,Default,,0,0,0,,You'll fly tomorrow.
+Dialogue: 0,1:19:08.08,1:19:09.94,Default,,0,0,0,,They sky is smiling.
+Dialogue: 0,1:19:10.20,1:19:11.91,Default,,0,0,0,,Here comes the piggy.
+Dialogue: 0,1:19:14.16,1:19:17.07,Default,,0,0,0,,Morning in heavenly village is so nice.
+Dialogue: 0,1:19:18.20,1:19:20.44,Default,,0,0,0,,But something big is happening.
+Dialogue: 0,1:19:20.45,1:19:22.94,Default,,0,0,0,,The 4-eyed monster is causing trouble.
+Dialogue: 0,1:19:23.62,1:19:25.08,Default,,0,0,0,,It was an accident.
+Dialogue: 0,1:19:30.04,1:19:32.15,Default,,0,0,0,,It's a joke. Forget it.
+Dialogue: 0,1:19:36.37,1:19:38.86,Default,,0,0,0,,Don't be nosy. Go to bed.
+Dialogue: 0,1:19:43.87,1:19:47.44,Default,,0,0,0,,I am dying.
+Dialogue: 0,1:19:48.37,1:19:49.99,Default,,0,0,0,,Boo-bee I come.
+Dialogue: 0,1:19:50.25,1:19:51.95,Default,,0,0,0,,God gives me power.
+Dialogue: 0,1:19:51.95,1:19:53.07,Default,,0,0,0,,Damned.
+Dialogue: 0,1:19:54.00,1:19:55.28,Default,,0,0,0,,Run.
+Dialogue: 0,1:19:58.00,1:19:59.00,Default,,0,0,0,,Why? He-man!
+Dialogue: 0,1:19:59.20,1:20:01.54,Default,,0,0,0,,Go inside! Otherwise there will be chaos.
+Dialogue: 0,1:20:05.25,1:20:07.70,Default,,0,0,0,,Dr. slump, were you struck by lightning?
+Dialogue: 0,1:20:07.70,1:20:09.91,Default,,0,0,0,,'Boo-bee" "boo-bee" of course, I nearly fainted.
+Dialogue: 0,1:20:15.16,1:20:16.12,Default,,0,0,0,,What's the matter?
+Dialogue: 0,1:20:16.12,1:20:19.16,Default,,0,0,0,,Mirror's reflection will betray you, idiot!
+Dialogue: 0,1:20:21.29,1:20:22.78,Default,,0,0,0,,Preserved plum.
+Dialogue: 0,1:20:22.91,1:20:24.15,Default,,0,0,0,,Transform to Superman.
+Dialogue: 0,1:20:24.37,1:20:27.03,Default,,0,0,0,,Fly, fly. Great.
+Dialogue: 0,1:20:29.08,1:20:32.04,Default,,0,0,0,,Superman, fly.
+Dialogue: 0,1:20:36.08,1:20:38.49,Default,,0,0,0,,Superman, you did it again.
+Dialogue: 0,1:20:42.45,1:20:45.45,Default,,0,0,0,,Superman, come back here.
+Dialogue: 0,1:20:45.75,1:20:49.66,Default,,0,0,0,,This way, quick. You'll get lost in the fog.
+Dialogue: 0,1:20:51.25,1:20:53.91,Default,,0,0,0,,Not this way, that way.
+Dialogue: 0,1:20:54.45,1:20:57.24,Default,,0,0,0,,Send him to sleep!
+Dialogue: 0,1:21:07.37,1:21:09.11,Default,,0,0,0,,Doctor. Superman is sleeping!
+Dialogue: 0,1:21:09.12,1:21:11.66,Default,,0,0,0,,Go on with your studies.
+Dialogue: 0,1:21:17.04,1:21:21.49,Default,,0,0,0,,Save him by artificial respiration.
+Dialogue: 0,1:21:27.66,1:21:28.95,Default,,0,0,0,,The phone is ringing.
+Dialogue: 0,1:21:31.87,1:21:35.24,Default,,0,0,0,,Hello. Heavenly village is sleeping. Call tomorrow.
+Dialogue: 0,1:21:36.29,1:21:37.82,Default,,0,0,0,,What bad timing!
+Dialogue: 0,1:21:40.54,1:21:46.20,Default,,0,0,0,,I'll take it! Everyone is sleeping. Troublesome!
+Dialogue: 0,1:21:53.16,1:21:54.20,Default,,0,0,0,,Baby?
+Dialogue: 0,1:21:54.50,1:21:58.28,Default,,0,0,0,,No baby. Boo-bee. Superman is awake!
+Dialogue: 0,1:21:58.29,1:22:01.25,Default,,0,0,0,,We can go on with the game.
+Dialogue: 0,1:22:39.00,1:22:40.41,Default,,0,0,0,,Not in bed yet?
+Dialogue: 0,1:22:55.00,1:22:58.57,Default,,0,0,0,,Hi, pretty, hold on a minute.
+Dialogue: 0,1:23:01.87,1:23:02.91,Default,,0,0,0,,A kiss.
+Dialogue: 0,1:23:03.41,1:23:04.53,Default,,0,0,0,,Kiss.
+Dialogue: 0,1:23:08.00,1:23:09.24,Default,,0,0,0,,Let me do it.
+Dialogue: 0,1:23:16.75,1:23:18.11,Default,,0,0,0,,Evil to evil.
+Dialogue: 0,1:23:21.16,1:23:22.37,Default,,0,0,0,,Still more.
+Dialogue: 0,1:23:23.08,1:23:24.28,Default,,0,0,0,,Funny!
+Dialogue: 0,1:23:26.29,1:23:27.99,Default,,0,0,0,,Pass to me. Funny enough!
+Dialogue: 0,1:23:29.12,1:23:31.33,Default,,0,0,0,,Hold it!
+Dialogue: 0,1:23:34.54,1:23:35.65,Default,,0,0,0,,Let go!
+Dialogue: 0,1:23:35.75,1:23:36.99,Default,,0,0,0,,It's my son.
+Dialogue: 0,1:23:39.58,1:23:42.57,Default,,0,0,0,,I am done for. Take care of my son.
+Dialogue: 0,1:23:46.54,1:23:47.65,Default,,0,0,0,,Arrest them all.
+Dialogue: 0,1:23:50.70,1:23:51.99,Default,,0,0,0,,Son!
+Dialogue: 0,1:23:54.37,1:23:56.83,Default,,0,0,0,,Give it back!
+Dialogue: 0,1:24:01.83,1:24:06.20,Default,,0,0,0,,Son!
+Dialogue: 0,1:24:06.20,1:24:13.15,Default,,0,0,0,,Ah keung. Rush the baby to hospital.
+Dialogue: 0,1:24:13.16,1:24:15.70,Default,,0,0,0,,Quick.
+Dialogue: 0,1:24:16.33,1:24:17.99,Default,,0,0,0,,Go to the hospital.
+Dialogue: 0,1:24:21.16,1:24:22.32,Default,,0,0,0,,Miss...
+Dialogue: 0,1:24:25.54,1:24:27.99,Default,,0,0,0,,Ying, come quick to baptist hospital.
+Dialogue: 0,1:24:28.25,1:24:30.61,Default,,0,0,0,,Tell you everything later. Hurry!
+Dialogue: 0,1:24:33.33,1:24:35.36,Default,,0,0,0,,If anything happens to my son, you...
+Dialogue: 0,1:24:35.37,1:24:36.95,Default,,0,0,0,,Your son?
+Dialogue: 0,1:24:38.37,1:24:40.53,Default,,0,0,0,,He is my flesh and blood.
+Dialogue: 0,1:24:40.75,1:24:42.58,Default,,0,0,0,,I bought it.
+Dialogue: 0,1:24:42.58,1:24:45.32,Default,,0,0,0,,Signed in lawyer's office.
+Dialogue: 0,1:24:45.33,1:24:46.61,Default,,0,0,0,,You...
+Dialogue: 0,1:24:48.83,1:24:50.41,Default,,0,0,0,,Your money, big deal!
+Dialogue: 0,1:24:51.33,1:24:52.69,Default,,0,0,0,,Here's the doctor.
+Dialogue: 0,1:24:52.83,1:24:54.78,Default,,0,0,0,,How is it?
+Dialogue: 0,1:24:55.16,1:24:56.99,Default,,0,0,0,,It is suffering from concussion.
+Dialogue: 0,1:24:57.00,1:24:58.53,Default,,0,0,0,,I must operate at once.
+Dialogue: 0,1:24:58.70,1:25:00.32,Default,,0,0,0,,The father please sign.
+Dialogue: 0,1:25:00.33,1:25:01.49,Default,,0,0,0,,I'll sign...
+Dialogue: 0,1:25:02.00,1:25:03.45,Default,,0,0,0,,I am the legal father.
+Dialogue: 0,1:25:03.79,1:25:06.32,Default,,0,0,0,,Even if the baby survived, it will be retarded.
+Dialogue: 0,1:25:06.54,1:25:10.66,Default,,0,0,0,,Idiot! They are the real kin, sign!
+Dialogue: 0,1:25:11.70,1:25:14.99,Default,,0,0,0,,Retarded child! No control of everything.
+Dialogue: 0,1:25:15.00,1:25:17.03,Default,,0,0,0,,Let me sign. Probably becomes vegetable child.
+Dialogue: 0,1:25:17.45,1:25:19.54,Default,,0,0,0,,I prefer a cabbage. Vegetable!
+Dialogue: 0,1:25:21.87,1:25:22.99,Default,,0,0,0,,I'll sign.
+Dialogue: 0,1:25:23.16,1:25:25.45,Default,,0,0,0,,Son, pa and ma will care for you.
+Dialogue: 0,1:25:25.45,1:25:27.66,Default,,0,0,0,,Love you forever. Thanks doctor.
+Dialogue: 0,1:25:29.58,1:25:31.44,Default,,0,0,0,,Why rush for everything.
+Dialogue: 0,1:25:31.45,1:25:34.29,Default,,0,0,0,,Have you thought it over? Can't care for yourself.
+Dialogue: 0,1:25:38.20,1:25:40.99,Default,,0,0,0,,Son, dead!
+Dialogue: 0,1:25:42.62,1:25:44.36,Default,,0,0,0,,Son.
+Dialogue: 0,1:25:51.37,1:25:52.45,Default,,0,0,0,,A doll!
+Dialogue: 0,1:25:53.04,1:25:55.99,Default,,0,0,0,,If it was real, imagine going into my house?
+Dialogue: 0,1:25:56.00,1:25:57.83,Default,,0,0,0,,You think they would let you in?
+Dialogue: 0,1:25:58.95,1:26:00.86,Default,,0,0,0,,Back to you. Where is my son?
+Dialogue: 0,1:26:04.83,1:26:06.07,Default,,0,0,0,,Ying! Son!
+Dialogue: 0,1:26:07.08,1:26:08.36,Default,,0,0,0,,Son!
+Dialogue: 0,1:26:09.37,1:26:10.41,Default,,0,0,0,,Good boy.
+Dialogue: 0,1:26:10.54,1:26:11.95,Default,,0,0,0,,Just my replica.
+Dialogue: 0,1:26:11.95,1:26:12.95,Default,,0,0,0,,You're joking.
+Dialogue: 0,1:26:13.29,1:26:15.95,Default,,0,0,0,,Daddy. My part is finished now.
+Dialogue: 0,1:26:15.95,1:26:18.66,Default,,0,0,0,,I must report duty, otherwise I'll be fired.
+Dialogue: 0,1:26:18.66,1:26:19.90,Default,,0,0,0,,By the superintendent.
+Dialogue: 0,1:26:23.20,1:26:25.19,Default,,0,0,0,,Ah, it is a plot to make fun on us.
+Dialogue: 0,1:26:25.20,1:26:28.16,Default,,0,0,0,,Not fun. It's my plan to test you.
+Dialogue: 0,1:26:28.70,1:26:30.99,Default,,0,0,0,,You three love ah ying the same,
+Dialogue: 0,1:26:31.00,1:26:33.83,Default,,0,0,0,,and of the same blood group. All 'a' type.
+Dialogue: 0,1:26:33.83,1:26:35.19,Default,,0,0,0,,Queer type!
+Dialogue: 0,1:26:36.00,1:26:37.08,Default,,0,0,0,,All 'a' type. Big eye boy.
+Dialogue: 0,1:26:37.08,1:26:39.95,Default,,0,0,0,,Big eye boy, you are the kindest,
+Dialogue: 0,1:26:39.95,1:26:42.37,Default,,0,0,0,,so devoted to ying. Marrying you,
+Dialogue: 0,1:26:42.37,1:26:44.03,Default,,0,0,0,,make me feel secure.
+Dialogue: 0,1:26:45.79,1:26:49.20,Default,,0,0,0,,Woman! Hold it. Until there is the flat.
+Dialogue: 0,1:26:49.20,1:26:51.62,Default,,0,0,0,,60 tables, 1/2 a million dollars,
+Dialogue: 0,1:26:51.62,1:26:53.11,Default,,0,0,0,,you can meet only once a month.
+Dialogue: 0,1:26:53.12,1:26:55.49,Default,,0,0,0,,Shut up! Have the wedding next month.
+Dialogue: 0,1:26:56.04,1:26:57.53,Default,,0,0,0,,The number of tables doesn't matter.
+Dialogue: 0,1:26:57.54,1:26:58.90,Default,,0,0,0,,Really, mother?
+Dialogue: 0,1:27:00.87,1:27:03.03,Default,,0,0,0,,Any complaint?
+Dialogue: 0,1:27:03.41,1:27:05.62,Default,,0,0,0,,No! Come with me.
+Dialogue: 0,1:27:12.54,1:27:14.87,Default,,0,0,0,,Son, call your daddy. Call daddy.
+Dialogue: 0,1:27:15.33,1:27:19.40,Default,,0,0,0,,Lost the last minute. Heaven's will!
+Dialogue: 0,1:27:20.25,1:27:22.03,Default,,0,0,0,,You're lucky. Big eye.
+Dialogue: 0,1:27:24.75,1:27:28.11,Default,,0,0,0,,You two cheer up. You're still good friends.
+Dialogue: 0,1:27:28.29,1:27:30.03,Default,,0,0,0,,Right! Of course.
+Dialogue: 0,1:27:30.50,1:27:33.86,Default,,0,0,0,,Son, this is big uncle, that is second uncle.
+Dialogue: 0,1:27:34.75,1:27:36.58,Default,,0,0,0,,Who does he look like?
+Dialogue: 0,1:27:38.20,1:27:39.91,Default,,0,0,0,,Such big nose, it looks...
+Dialogue: 0,1:27:39.91,1:27:44.11,Default,,0,0,0,,Ah! Resembles me. It belongs to ying and me.
+Dialogue: 0,1:27:44.62,1:27:47.58,Default,,0,0,0,,Ying, we shall have a squad of big eye boys.
+Dialogue: 0,1:27:47.91,1:27:49.78,Default,,0,0,0,,Are you capable?
+Dialogue: 0,1:27:50.50,1:27:52.03,Default,,0,0,0,,We'll see.
+Dialogue: 0,1:28:08.75,1:28:09.91,Default,,0,0,0,,Ok.
+Dialogue: 0,1:28:11.33,1:28:13.03,Default,,0,0,0,,Have a hair-cut. No way.
+Dialogue: 0,1:28:13.04,1:28:14.32,Default,,0,0,0,,And you.
+Dialogue: 0,1:28:14.37,1:28:16.20,Default,,0,0,0,,Help! Don't run.
+Dialogue: 0,1:28:17.41,1:28:18.87,Default,,0,0,0,,Daddy...
+Dialogue: 0,1:28:21.87,1:28:24.66,Default,,0,0,0,,Daddy, brother wants to cut my hair again.
+Dialogue: 0,1:28:25.20,1:28:26.78,Default,,0,0,0,,Don't do that.
+Dialogue: 0,1:28:26.79,1:28:27.87,Default,,0,0,0,,Nobody lets me to cut.
+Dialogue: 0,1:28:27.87,1:28:29.86,Default,,0,0,0,,Last time, your lousy cut.
+Dialogue: 0,1:28:29.87,1:28:31.99,Default,,0,0,0,,Made me the laughing stock for 3 months.
+Dialogue: 0,1:28:32.00,1:28:33.45,Default,,0,0,0,,I am laughed at too.
+Dialogue: 0,1:28:33.45,1:28:35.16,Default,,0,0,0,,Laugh at you, why?
+Dialogue: 0,1:28:35.41,1:28:38.28,Default,,0,0,0,,My nose is big, eyes small, I don't look like you.
+Dialogue: 0,1:28:38.29,1:28:40.07,Default,,0,0,0,,They say I look like uncle chan...
+Dialogue: 0,1:28:41.75,1:28:44.41,Default,,0,0,0,,Don't mind what people say, you're my dear son,
+Dialogue: 0,1:28:44.66,1:28:46.12,Default,,0,0,0,,daddy loves you the same.
+Dialogue: 0,1:28:47.25,1:28:47.95,Default,,0,0,0,,Mammy.
+Dialogue: 0,1:28:47.95,1:28:49.49,Default,,0,0,0,,Come on, granny's here.
+Dialogue: 0,1:28:49.79,1:28:51.90,Default,,0,0,0,,Baby, come to granny.
+Dialogue: 0,1:28:51.91,1:28:54.03,Default,,0,0,0,,Let grandma hold you.
+Dialogue: 0,1:28:54.04,1:28:55.78,Default,,0,0,0,,Come, give grandma a kiss.
+Dialogue: 0,1:28:56.45,1:28:58.61,Default,,0,0,0,,Ying, daddy.
+Dialogue: 0,1:28:59.54,1:29:00.37,Default,,0,0,0,,Coffee please.
+Dialogue: 0,1:29:00.37,1:29:02.99,Default,,0,0,0,,Come here, ying.
+Dialogue: 0,1:29:04.20,1:29:05.91,Default,,0,0,0,,What's the test result?
+Dialogue: 0,1:29:06.41,1:29:07.45,Default,,0,0,0,,You guess.
+Dialogue: 0,1:29:07.45,1:29:10.16,Default,,0,0,0,,No need to test. Ying never disappoints you.
+Dialogue: 0,1:29:10.16,1:29:13.83,Default,,0,0,0,,Wow, we have another child.
+Dialogue: 0,1:29:17.08,1:29:18.19,Default,,0,0,0,,Viva mammy.
+Dialogue: 0,1:29:19.95,1:29:20.95,Default,,0,0,0,,Son.
+Dialogue: 0,1:29:21.62,1:29:24.36,Default,,0,0,0,,Ying is having your sixth child.
+Dialogue: 0,1:29:24.83,1:29:27.49,Default,,0,0,0,,Bearing a child is real tough, you know?
+Dialogue: 0,1:29:27.87,1:29:30.20,Default,,0,0,0,,I know, that's why I love ying so much.
+Dialogue: 0,1:29:30.20,1:29:32.36,Default,,0,0,0,,You should, you should.
+Dialogue: 0,1:29:32.37,1:29:33.91,Default,,0,0,0,,Daddy, you should be happy too;
+Dialogue: 0,1:29:34.37,1:29:36.91,Default,,0,0,0,,the flat, 1/2 a million, all delivered.
+Dialogue: 0,1:29:36.91,1:29:39.20,Default,,0,0,0,,I am happy. No complain at all.
+Dialogue: 0,1:29:39.50,1:29:42.57,Default,,0,0,0,,But, if there is a big yacht,
+Dialogue: 0,1:29:42.87,1:29:44.74,Default,,0,0,0,,we can enjoy on the sea, right?
+Dialogue: 0,1:29:44.75,1:29:46.95,Default,,0,0,0,,Big yacht. No problem.
+Dialogue: 0,1:29:46.95,1:29:48.19,Default,,0,0,0,,You can afford it.
+Dialogue: 0,1:29:49.37,1:29:51.33,Default,,0,0,0,,How about buying a big yacht?
+Dialogue: 0,1:29:51.33,1:29:52.74,Default,,0,0,0,,Good! Bravo!
+Dialogue: 0,1:29:53.25,1:29:55.16,Default,,0,0,0,,You're the best son-in-law.
+Dialogue: 0,1:29:55.16,1:29:56.15,Default,,0,0,0,,Thank you, dad.
+Dialogue: 0,1:29:56.16,1:29:57.53,Default,,0,0,0,,Put it in my name.
+Dialogue: 0,1:29:59.25,1:30:00.86,Default,,0,0,0,,Yours again? Mine again.
+

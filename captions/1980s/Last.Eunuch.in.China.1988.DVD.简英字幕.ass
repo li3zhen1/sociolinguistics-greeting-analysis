@@ -1,0 +1,1250 @@
+[Script Info]
+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft yahei,21,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,1,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.01,0:00:04.01,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\fsp2}{\c&HFFFFFF&}{\fs13}{\fn楷体_GB2312}{\bord0}本作品由 {\fs18}{\fn黑体}{\fe0}{\c&H26F4FF&}腾    蛟{\fscy100}{\fe134}{\fn楷体_GB2312}{\c&HFFFFFF&}{\fs12} 荣誉出品\N{\fs16}下载后仅供学习交流,严禁用于商业途径
+Dialogue: 0,0:00:07.02,0:00:12.02,*Default,NTP,0000,0000,0000,,{\fad(500,500)}{\fs16} {\c&H24EFFF&}{\fn黑体}{\bord0}压制:{\fs18} {\c&HFFFFFF&} 腾    蛟  {\fs16} {\c&H24EFFF&}双显&特效字幕:{\fs18}{\c&HFFFFFF&} 腾    蛟
+
+Dialogue: 0,0:00:06.23,0:00:09.07,Default,,0000,0000,0000,,一九一二年二月十二日\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Feb. 12, 1912{\r}
+Dialogue: 0,0:00:09.14,0:00:11.07,Default,,0000,0000,0000,,武昌起义第二年\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}second year of the Revolution.{\r}
+Dialogue: 0,0:00:11.14,0:00:14.13,Default,,0000,0000,0000,,清廷隆裕皇太后终于被迫颁佈了溥仪\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}An edict proclaimed{\r}
+Dialogue: 0,0:00:14.24,0:00:16.01,Default,,0000,0000,0000,,退位诏书\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}the abdication of Emperor Pu Yi.{\r}
+Dialogue: 0,0:00:16.04,0:00:17.03,Default,,0000,0000,0000,,从此结束\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And the end of{\r}
+Dialogue: 0,0:00:17.11,0:00:20.01,Default,,0000,0000,0000,,统治中国近三百年历史的清皇朝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}the Manchu Dynasty.{\r}
+Dialogue: 0,0:00:20.08,0:00:22.17,Default,,0000,0000,0000,,为中国人带来了新希望\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A new China was in the offing.{\r}
+Dialogue: 0,0:00:22.22,0:00:23.24,Default,,0000,0000,0000,,但是也有很多人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Many,{\r}
+Dialogue: 0,0:00:24.02,0:00:27.05,Default,,0000,0000,0000,,成为大时代变迁的牺牲品
+Dialogue: 0,0:00:27.22,0:00:30.06,Default,,0000,0000,0000,,太监，就是其中一种人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Eunuchs, for instance.{\r}
+Dialogue: 0,0:00:30.29,0:00:33.26,Default,,0000,0000,0000,,外表上太监的品级及职务繁复\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Grand their titles might be.{\r}
+Dialogue: 0,0:00:34.03,0:00:37.16,Default,,0000,0000,0000,,实质也不外的皇族身边的奴隶\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They were in fact royal slaves.{\r}
+Dialogue: 0,0:00:37.23,0:00:39.26,Default,,0000,0000,0000,,所有太监都要净身\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Castration is the eunuch's prerequisite.{\r}
+Dialogue: 0,0:00:40.00,0:00:42.99,Default,,0000,0000,0000,,就是把男性生殖器官阉割\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That means the removal of male genitals.{\r}
+Dialogue: 0,0:00:43.07,0:00:45.06,Default,,0000,0000,0000,,按历代太监的惯例\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The eunuchs down the centuries{\r}
+Dialogue: 0,0:00:45.14,0:00:49.13,Default,,0000,0000,0000,,净身后阉割下来的器官称为宝贝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}called fondly the cut off part as Pet.{\r}
+Dialogue: 0,0:00:49.28,0:00:53.08,Default,,0000,0000,0000,,首先用油炸透，再用油纸包妥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The Pet was boiled in oil and wrapped{\r}
+Dialogue: 0,0:00:53.15,0:00:57.02,Default,,0000,0000,0000,,放在秤量食的升内，吊在屋梁之上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}put in a container and suspended in midair{\r}
+Dialogue: 0,0:00:57.12,0:01:00.99,Default,,0000,0000,0000,,也只有贫苦家庭的子弟，为生活所迫\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The eunuchs invariably came from poor families.{\r}
+Dialogue: 0,0:01:01.06,0:01:04.99,Default,,0000,0000,0000,,而踏上这条无法翩身的悲惨道路\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They were forced onto this path of no return.{\r}
+Dialogue: 0,0:01:59.08,0:02:07.11,Default,,0000,0000,0000,,一、二，一、二…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}One, two, one, two...{\r}
+Dialogue: 0,0:02:10.29,0:02:12.12,Default,,0000,0000,0000,,快点，快点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry up.{\r}
+Dialogue: 0,0:02:12.16,0:02:15.22,Default,,0000,0000,0000,,等等我，等等我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wait for me.{\r}
+Dialogue: 0,0:02:17.23,0:02:19.17,Default,,0000,0000,0000,,来喜    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Laishi. - Yes.{\r}
+Dialogue: 0,0:02:21.17,0:02:23.00,Default,,0000,0000,0000,,是，总管\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, Master Eunuch.{\r}
+Dialogue: 0,0:02:23.07,0:02:25.23,Default,,0000,0000,0000,,你替我摘朵花来    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Get me that flower. - Yes.{\r}
+Dialogue: 0,0:02:26.04,0:02:33.14,Default,,0000,0000,0000,,快点，快点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry up.{\r}
+Dialogue: 0,0:02:36.15,0:02:39.18,Default,,0000,0000,0000,,真没用，快点拿过来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry up, you stupid.{\r}
+Dialogue: 0,0:02:40.05,0:02:42.25,Default,,0000,0000,0000,,追他    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Get him. - Yes.{\r}
+Dialogue: 0,0:02:49.13,0:02:51.03,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,0:02:58.17,0:03:00.04,Default,,0000,0000,0000,,拿着\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take it.{\r}
+Dialogue: 0,0:03:19.03,0:03:19.99,Default,,0000,0000,0000,,小德张回来了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Young Teh Chang is here.{\r}
+Dialogue: 0,0:03:20.09,0:03:22.26,Default,,0000,0000,0000,,来喜，过来，快点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi, come over here.{\r}
+Dialogue: 0,0:03:31.07,0:03:32.16,Default,,0000,0000,0000,,是什么人呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who's that?{\r}
+Dialogue: 0,0:03:32.21,0:03:35.11,Default,,0000,0000,0000,,是小德张    小德张？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- It's Young Teh Chang - Young Teh Chang?{\r}
+Dialogue: 0,0:03:45.29,0:03:47.22,Default,,0000,0000,0000,,有骨的不要拿呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't take those with bones.{\r}
+Dialogue: 0,0:03:53.19,0:03:58.15,Default,,0000,0000,0000,,好味道，好味道\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yummy, yummy.{\r}
+Dialogue: 0,0:03:58.30,0:04:01.10,Default,,0000,0000,0000,,不要这样子，乡下的小孩真可怜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't, these kids are so pitiful.{\r}
+Dialogue: 0,0:04:01.17,0:04:03.23,Default,,0000,0000,0000,,不要丢在地上，折坠呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't dump it on the ground.{\r}
+Dialogue: 0,0:04:03.30,0:04:07.14,Default,,0000,0000,0000,,是，是很可怜，张公公说得对\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lord Chang is right, they are pitiable.{\r}
+Dialogue: 0,0:04:07.21,0:04:10.14,Default,,0000,0000,0000,,放在桶里给他们吃吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Leave it in the barrel for them.{\r}
+Dialogue: 0,0:04:10.18,0:04:12.04,Default,,0000,0000,0000,,我们走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go.{\r}
+Dialogue: 0,0:04:16.08,0:04:17.21,Default,,0000,0000,0000,,走，走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, go.{\r}
+Dialogue: 0,0:04:20.15,0:04:22.02,Default,,0000,0000,0000,,那里还有一桶呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}One more barrel there.{\r}
+Dialogue: 0,0:04:35.07,0:04:36.13,Default,,0000,0000,0000,,阿爹\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Dad.{\r}
+Dialogue: 0,0:04:37.17,0:04:39.07,Default,,0000,0000,0000,,再见\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Bye.{\r}
+Dialogue: 0,0:04:39.14,0:04:41.01,Default,,0000,0000,0000,,早知道割掉小祖宗去服侍皇帝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor is easier{\r}
+Dialogue: 0,0:04:41.08,0:04:42.13,Default,,0000,0000,0000,,比服侍一个女人好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}to please than she is.{\r}
+Dialogue: 0,0:04:42.21,0:04:43.23,Default,,0000,0000,0000,,我也割掉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to have my thing snipped.{\r}
+Dialogue: 0,0:04:44.18,0:04:46.04,Default,,0000,0000,0000,,割你的头\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Nonsense.{\r}
+Dialogue: 0,0:04:46.31,0:04:48.08,Default,,0000,0000,0000,,我割了去服侍皇帝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to serve{\r}
+Dialogue: 0,0:04:48.12,0:04:49.14,Default,,0000,0000,0000,,那就可以跟小德张一样\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}the emperor.{\r}
+Dialogue: 0,0:04:49.22,0:04:50.18,Default,,0000,0000,0000,,有鞋子穿，有轿子坐\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Then I'd have shoes to wear.{\r}
+Dialogue: 0,0:04:50.25,0:04:53.02,Default,,0000,0000,0000,,阿爹，有鸡尾巴吧呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's a chicken bottom.{\r}
+Dialogue: 0,0:04:58.03,0:05:00.22,Default,,0000,0000,0000,,真是鸡尾巴呀，先嗅一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Really? Let me have a sniff.{\r}
+Dialogue: 0,0:05:01.26,0:05:03.09,Default,,0000,0000,0000,,我分两份\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll split it in two.{\r}
+Dialogue: 0,0:05:03.16,0:05:05.26,Default,,0000,0000,0000,,不用了，我吃过了，你吃吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No need, you have it all.{\r}
+Dialogue: 0,0:05:06.00,0:05:08.16,Default,,0000,0000,0000,,等一等，你什么时候替我割呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}When can I have my thing snipped?{\r}
+Dialogue: 0,0:05:09.24,0:05:11.10,Default,,0000,0000,0000,,问你妈妈吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ask your mother.{\r}
+Dialogue: 0,0:05:11.27,0:05:13.14,Default,,0000,0000,0000,,你妈妈答应的话，我就肯\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If she says yes, then it's alright.{\r}
+Dialogue: 0,0:05:14.18,0:05:17.04,Default,,0000,0000,0000,,去吧，去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, go.{\r}
+Dialogue: 0,0:05:20.28,0:05:22.11,Default,,0000,0000,0000,,真的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Really?{\r}
+Dialogue: 0,0:05:22.15,0:05:23.24,Default,,0000,0000,0000,,真的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:05:25.05,0:05:26.11,Default,,0000,0000,0000,,真的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Really?{\r}
+Dialogue: 0,0:05:26.25,0:05:28.15,Default,,0000,0000,0000,,是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:05:40.27,0:05:42.13,Default,,0000,0000,0000,,祥福\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chiang Fu.{\r}
+Dialogue: 0,0:05:48.08,0:05:49.27,Default,,0000,0000,0000,,三爷，这么早呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good morning, sir.{\r}
+Dialogue: 0,0:05:50.28,0:05:54.01,Default,,0000,0000,0000,,我今天来不是要你交田租\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not here for the rent.{\r}
+Dialogue: 0,0:05:54.08,0:05:56.28,Default,,0000,0000,0000,,不过有件事要你帮忙\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm here for a favour.{\r}
+Dialogue: 0,0:05:58.12,0:06:00.21,Default,,0000,0000,0000,,你想死吗？    不要打我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Are you crazy? - Don't hit me.{\r}
+Dialogue: 0,0:06:00.29,0:06:02.15,Default,,0000,0000,0000,,你饿到发昏了    我不敢了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- You are out of your mind. - I wouldn't dare anymore.{\r}
+Dialogue: 0,0:06:02.26,0:06:05.09,Default,,0000,0000,0000,,你走吧，你走了就不要回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get lost and don't come back.{\r}
+Dialogue: 0,0:06:14.30,0:06:16.27,Default,,0000,0000,0000,,你说，你做好人，我们吃什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You did him a favour, what about us?{\r}
+Dialogue: 0,0:06:17.04,0:06:18.16,Default,,0000,0000,0000,,三爷说…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But{\r}
+Dialogue: 0,0:06:18.21,0:06:19.10,Default,,0000,0000,0000,,三爷说一句\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}he said...{\r}
+Dialogue: 0,0:06:19.21,0:06:20.23,Default,,0000,0000,0000,,你就把米缸的米全部给了他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And you had to offer him all our food.{\r}
+Dialogue: 0,0:06:20.27,0:06:23.04,Default,,0000,0000,0000,,我们怎能过年呀？你说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How do we carry on?{\r}
+Dialogue: 0,0:06:23.11,0:06:24.27,Default,,0000,0000,0000,,三爷说皇上有麻烦\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He said the emperor's in trouble.{\r}
+Dialogue: 0,0:06:25.01,0:06:28.28,Default,,0000,0000,0000,,我们的困难有谁会理呢？你说吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We're in trouble too, and who cares?{\r}
+Dialogue: 0,0:06:31.05,0:06:32.08,Default,,0000,0000,0000,,我回去妈妈那里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm going,{\r}
+Dialogue: 0,0:06:32.12,0:06:33.25,Default,,0000,0000,0000,,你叫皇帝请你吃龙肉吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}you go to your emperor.{\r}
+Dialogue: 0,0:06:34.06,0:06:35.02,Default,,0000,0000,0000,,皇帝没有饭吃\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor protects us from foreigners.{\r}
+Dialogue: 0,0:06:35.06,0:06:37.18,Default,,0000,0000,0000,,谁去打红毛鬼，谁去打山贼呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And the revolutionaries.{\r}
+Dialogue: 0,0:06:38.19,0:06:40.13,Default,,0000,0000,0000,,谁去打革命党？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who'll take care of us{\r}
+Dialogue: 0,0:06:40.29,0:06:42.09,Default,,0000,0000,0000,,饿死了皇帝，谁去理我们呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}if the emperor's dead?{\r}
+Dialogue: 0,0:06:42.16,0:06:44.03,Default,,0000,0000,0000,,好呀，好呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Great, great.{\r}
+Dialogue: 0,0:06:44.13,0:06:45.19,Default,,0000,0000,0000,,过来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come here.{\r}
+Dialogue: 0,0:06:49.10,0:06:50.16,Default,,0000,0000,0000,,走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:06:56.24,0:06:59.01,Default,,0000,0000,0000,,来喜妈，不要走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't go.{\r}
+Dialogue: 0,0:06:59.08,0:07:00.24,Default,,0000,0000,0000,,没有人烧饭给我吃，我会饿死的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who's going to cook for us?{\r}
+Dialogue: 0,0:07:01.02,0:07:02.18,Default,,0000,0000,0000,,烧，用什么烧呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Cooking with what?{\r}
+Dialogue: 0,0:07:02.25,0:07:04.05,Default,,0000,0000,0000,,我去掘些菜头回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm going to dig up some roots.{\r}
+Dialogue: 0,0:07:04.12,0:07:05.11,Default,,0000,0000,0000,,掘菜头？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Dig up some roots?{\r}
+Dialogue: 0,0:07:05.19,0:07:06.18,Default,,0000,0000,0000,,来喜，来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come here, Laishi.{\r}
+Dialogue: 0,0:07:06.25,0:07:08.12,Default,,0000,0000,0000,,来什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What for?{\r}
+Dialogue: 0,0:07:11.03,0:07:12.15,Default,,0000,0000,0000,,吃了半年菜根糊\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mesh roots again?{\r}
+Dialogue: 0,0:07:12.23,0:07:16.03,Default,,0000,0000,0000,,吃到每个人变为菜根了，你还要吃？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Aren't you tired of it yet?{\r}
+Dialogue: 0,0:07:21.17,0:07:22.26,Default,,0000,0000,0000,,你不走了？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Aren't you going?{\r}
+Dialogue: 0,0:07:25.21,0:07:28.07,Default,,0000,0000,0000,,我去借几两米糠，暂时顶住肚皮\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm going to borrow some rice.{\r}
+Dialogue: 0,0:07:31.18,0:07:34.05,Default,,0000,0000,0000,,好了，我们有米糠吃了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Great, rice for dinner.{\r}
+Dialogue: 0,0:07:34.12,0:07:36.02,Default,,0000,0000,0000,,阿爹，不行了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mum's here{\r}
+Dialogue: 0,0:07:36.08,0:07:37.24,Default,,0000,0000,0000,,妈妈在这里我岂不是不可以割\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}can't do it now.{\r}
+Dialogue: 0,0:07:37.29,0:07:40.05,Default,,0000,0000,0000,,岂不是没有鸡尾巴吃了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No more chicken bottoms.{\r}
+Dialogue: 0,0:07:40.12,0:07:42.21,Default,,0000,0000,0000,,那怎么办？    赶走妈妈吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- What now? - Send her away.{\r}
+Dialogue: 0,0:07:43.02,0:07:45.05,Default,,0000,0000,0000,,阿爹，你不想吃鸡尾巴吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't you want some chicken bottoms?{\r}
+Dialogue: 0,0:07:45.09,0:07:46.22,Default,,0000,0000,0000,,你想办法吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Think of something.{\r}
+Dialogue: 0,0:07:50.23,0:07:51.22,Default,,0000,0000,0000,,你为什么掷我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why are you throwing things at me?{\r}
+Dialogue: 0,0:07:51.30,0:07:54.17,Default,,0000,0000,0000,,阿爹，你真好胆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How dare you.{\r}
+Dialogue: 0,0:07:55.04,0:07:58.13,Default,,0000,0000,0000,,我去借量，你就觉得没面子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You feel ashamed that I'm borrowing.{\r}
+Dialogue: 0,0:07:59.21,0:08:02.14,Default,,0000,0000,0000,,阿爹，赶走妈妈，赶走妈妈吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Send her away, dad.{\r}
+Dialogue: 0,0:08:02.21,0:08:03.18,Default,,0000,0000,0000,,我是个男人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a man.{\r}
+Dialogue: 0,0:08:03.28,0:08:07.04,Default,,0000,0000,0000,,就算饿死了也不用你乞回来给我吃\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I won't beg for food.{\r}
+Dialogue: 0,0:08:07.11,0:08:08.21,Default,,0000,0000,0000,,你滚\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get away.{\r}
+Dialogue: 0,0:08:17.23,0:08:19.09,Default,,0000,0000,0000,,跟我走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come with me.{\r}
+Dialogue: 0,0:08:21.23,0:08:23.06,Default,,0000,0000,0000,,来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,0:08:27.07,0:08:28.23,Default,,0000,0000,0000,,我也是个男子汉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a man too.{\r}
+Dialogue: 0,0:08:29.04,0:08:30.09,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:08:32.21,0:08:33.26,Default,,0000,0000,0000,,阿爹\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Dad.{\r}
+Dialogue: 0,0:08:45.19,0:08:47.02,Default,,0000,0000,0000,,阿爹，你去那里呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Dad, where are you going?{\r}
+Dialogue: 0,0:08:47.12,0:08:48.15,Default,,0000,0000,0000,,我去找你妈妈\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To find your mother.{\r}
+Dialogue: 0,0:08:48.19,0:08:50.09,Default,,0000,0000,0000,,你帮我割掉后才找妈妈吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Snip it off before you do that.{\r}
+Dialogue: 0,0:08:50.16,0:08:52.25,Default,,0000,0000,0000,,阿爹，你先坐下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sit down, dad.{\r}
+Dialogue: 0,0:08:52.29,0:08:55.23,Default,,0000,0000,0000,,阿爹，我割掉后就不用再捱饿了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Everything's alright after I snip it off.{\r}
+Dialogue: 0,0:08:55.30,0:08:58.16,Default,,0000,0000,0000,,妈妈就不会再骂你了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mum won't be mad at you again.{\r}
+Dialogue: 0,0:08:59.27,0:09:02.26,Default,,0000,0000,0000,,阿爹，我是个男子汉，要第一个割\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Dad, I'm a man, I'll be the first.{\r}
+Dialogue: 0,0:09:18.05,0:09:19.18,Default,,0000,0000,0000,,照顾妹妹\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take care of your sister.{\r}
+Dialogue: 0,0:09:19.25,0:09:22.02,Default,,0000,0000,0000,,地保，地保\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}District Chief.{\r}
+Dialogue: 0,0:09:22.19,0:09:23.21,Default,,0000,0000,0000,,城里发生什么事了？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What happened in town?{\r}
+Dialogue: 0,0:09:23.29,0:09:25.09,Default,,0000,0000,0000,,好消息，大清皇帝打败仗\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good news, the emperor is out.{\r}
+Dialogue: 0,0:09:25.16,0:09:27.02,Default,,0000,0000,0000,,现在革命党作主\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The revolutionaries won.{\r}
+Dialogue: 0,0:09:27.09,0:09:28.19,Default,,0000,0000,0000,,是吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is that right?{\r}
+Dialogue: 0,0:09:30.06,0:09:31.26,Default,,0000,0000,0000,,又不知道谁做皇帝了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who'll be the new emperor?{\r}
+Dialogue: 0,0:09:32.03,0:09:35.00,Default,,0000,0000,0000,,不知道，我只知道要把辫子剪掉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't know. But no more pig-tails for sure.{\r}
+Dialogue: 0,0:09:46.15,0:09:48.24,Default,,0000,0000,0000,,阿爹，是什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's there, dad?{\r}
+Dialogue: 0,0:09:49.08,0:09:51.24,Default,,0000,0000,0000,,白蜡、鹅毛、石灰炒、花椒粉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wax, goose down, calcium powder, chili.{\r}
+Dialogue: 0,0:09:51.29,0:09:53.01,Default,,0000,0000,0000,,有什么用的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What for?{\r}
+Dialogue: 0,0:09:53.09,0:09:57.02,Default,,0000,0000,0000,,以前听你的爷爷说，是用来止血的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To stop bleeding, according to grandpa.{\r}
+Dialogue: 0,0:09:57.12,0:09:58.15,Default,,0000,0000,0000,,要割多少呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To snip off how much?{\r}
+Dialogue: 0,0:09:58.23,0:09:59.21,Default,,0000,0000,0000,,你有多少就割多少\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Whatever is there.{\r}
+Dialogue: 0,0:09:59.29,0:10:01.12,Default,,0000,0000,0000,,将来跟你的妹妹一样\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You'll be just like your sister.{\r}
+Dialogue: 0,0:10:02.30,0:10:04.23,Default,,0000,0000,0000,,我叫你去找的东西呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have you got what I told you to get?{\r}
+Dialogue: 0,0:10:07.13,0:10:08.26,Default,,0000,0000,0000,,这件怎么办？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's that?{\r}
+Dialogue: 0,0:10:09.27,0:10:11.07,Default,,0000,0000,0000,,斩头吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For chopping off heads?{\r}
+Dialogue: 0,0:10:11.14,0:10:12.26,Default,,0000,0000,0000,,不剪辫会不会杀头呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Death penalty for keeping a pig-tail?{\r}
+Dialogue: 0,0:10:13.01,0:10:14.98,Default,,0000,0000,0000,,执政的说杀就杀，不杀就不杀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Up to the Government.{\r}
+Dialogue: 0,0:10:15.08,0:10:16.20,Default,,0000,0000,0000,,那是杀还是不杀呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So is it the death penalty or not?{\r}
+Dialogue: 0,0:10:16.28,0:10:18.18,Default,,0000,0000,0000,,执政的没有吩咐嘛\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No one mentioned anything yet.{\r}
+Dialogue: 0,0:10:26.12,0:10:28.25,Default,,0000,0000,0000,,好厉害呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's bloody sharp.{\r}
+Dialogue: 0,0:10:29.02,0:10:30.15,Default,,0000,0000,0000,,来了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ready.{\r}
+Dialogue: 0,0:10:31.03,0:10:32.05,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:10:34.10,0:10:35.26,Default,,0000,0000,0000,,我割了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm going to do it.{\r}
+Dialogue: 0,0:10:36.03,0:10:37.09,Default,,0000,0000,0000,,来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come on.{\r}
+Dialogue: 0,0:10:40.10,0:10:41.07,Default,,0000,0000,0000,,我真的割了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For real now.{\r}
+Dialogue: 0,0:10:41.17,0:10:42.10,Default,,0000,0000,0000,,不可以，不可以\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, no way.{\r}
+Dialogue: 0,0:10:42.17,0:10:43.19,Default,,0000,0000,0000,,剪了还是个人吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's like castration.{\r}
+Dialogue: 0,0:10:43.30,0:10:46.21,Default,,0000,0000,0000,,有没有说谁是皇帝呀？    没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Who's going to be emperor? - Don't know.{\r}
+Dialogue: 0,0:10:46.24,0:10:48.07,Default,,0000,0000,0000,,来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come on.{\r}
+Dialogue: 0,0:11:19.17,0:11:22.07,Default,,0000,0000,0000,,妈妈，妈妈\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mum, mum.{\r}
+Dialogue: 0,0:11:24.21,0:11:29.27,Default,,0000,0000,0000,,妈妈，我是不是第一个割呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mum, am I the first one?{\r}
+Dialogue: 0,0:11:31.12,0:11:35.25,Default,,0000,0000,0000,,妈妈，我很痛，我尿急呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It hurts, mum. I want to pee.{\r}
+Dialogue: 0,0:11:36.12,0:11:39.18,Default,,0000,0000,0000,,不要动，不要动，伤口还没痊愈\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't move, it hasn't healed yet.{\r}
+Dialogue: 0,0:11:39.19,0:11:42.06,Default,,0000,0000,0000,,六婶说要睡足一百天才可以下床\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You must sleep for 100 days.{\r}
+Dialogue: 0,0:11:42.10,0:11:43.19,Default,,0000,0000,0000,,乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good boy.{\r}
+Dialogue: 0,0:11:43.30,0:11:46.27,Default,,0000,0000,0000,,很急呀，我要屙尿\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to pee.{\r}
+Dialogue: 0,0:12:04.05,0:12:08.01,Default,,0000,0000,0000,,不痛，不痛，屙完要换一条新鹅毛管\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Must change a new feather after peeling.{\r}
+Dialogue: 0,0:12:08.12,0:12:10.15,Default,,0000,0000,0000,,六婶说要天天更换的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Must change everyday.{\r}
+Dialogue: 0,0:12:11.09,0:12:12.99,Default,,0000,0000,0000,,乖，不留下个洞\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or else you have to{\r}
+Dialogue: 0,0:12:13.06,0:12:17.00,Default,,0000,0000,0000,,将来尿会从鼻孔出来的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}pee with your nose.{\r}
+Dialogue: 0,0:12:21.17,0:12:23.03,Default,,0000,0000,0000,,乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good boy.{\r}
+Dialogue: 0,0:12:31.05,0:12:32.14,Default,,0000,0000,0000,,我问到了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have the answer.{\r}
+Dialogue: 0,0:12:35.22,0:12:36.21,Default,,0000,0000,0000,,问到了？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes?{\r}
+Dialogue: 0,0:12:36.28,0:12:40.08,Default,,0000,0000,0000,,要用油炸，九叔说炸完吹干用布扎实\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Must fry in oil, and wrap after dry.{\r}
+Dialogue: 0,0:12:40.19,0:12:42.02,Default,,0000,0000,0000,,我借了四两油\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've borrowed some oil.{\r}
+Dialogue: 0,0:12:42.06,0:12:43.15,Default,,0000,0000,0000,,那你还不去炸？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So go ahead.{\r}
+Dialogue: 0,0:12:43.22,0:12:45.19,Default,,0000,0000,0000,,我还要替他换药\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have to change the medicine.{\r}
+Dialogue: 0,0:12:45.26,0:12:46.99,Default,,0000,0000,0000,,来喜割掉出来的宝贝呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's the thing?{\r}
+Dialogue: 0,0:12:47.06,0:12:49.00,Default,,0000,0000,0000,,在汤碗里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}In the bowl.{\r}
+Dialogue: 0,0:12:59.27,0:13:02.00,Default,,0000,0000,0000,,还等什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are you waiting for?{\r}
+Dialogue: 0,0:13:02.04,0:13:02.27,Default,,0000,0000,0000,,我忘了问九叔\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've forgot to{\r}
+Dialogue: 0,0:13:03.01,0:13:04.24,Default,,0000,0000,0000,,要不要用姜葱先爆香镬子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}get the recipe.{\r}
+Dialogue: 0,0:13:05.05,0:13:08.28,Default,,0000,0000,0000,,就这样子炸吧，记住要火大一点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Never mind, use a large fire.{\r}
+Dialogue: 0,0:13:09.05,0:13:10.24,Default,,0000,0000,0000,,孩子挂一辈子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He has to keep it for lift.{\r}
+Dialogue: 0,0:13:11.05,0:13:14.08,Default,,0000,0000,0000,,炸得不够透会发霉的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Has to be well done.{\r}
+Dialogue: 0,0:13:23.10,0:13:27.00,Default,,0000,0000,0000,,很晚了，其实也没有什么好看的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's late, go home please.{\r}
+Dialogue: 0,0:13:27.07,0:13:30.23,Default,,0000,0000,0000,,天气这么冷很容易着凉的，回家吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go home, weather's getting cold.{\r}
+Dialogue: 0,0:13:31.04,0:13:33.06,Default,,0000,0000,0000,,走吧，走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go now.{\r}
+Dialogue: 0,0:13:41.18,0:13:43.05,Default,,0000,0000,0000,,你小心着凉呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't catch cold.{\r}
+Dialogue: 0,0:13:44.19,0:13:47.09,Default,,0000,0000,0000,,你的儿子做了清朝最后一个太监了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your son is the last eunuch of Ching Dynasty.{\r}
+Dialogue: 0,0:13:47.15,0:13:50.06,Default,,0000,0000,0000,,来喜大总管，来喜大太监，出来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come out, Laishi, Master Eunuch.{\r}
+Dialogue: 0,0:13:50.22,0:13:52.06,Default,,0000,0000,0000,,来你的仆街，再叫没好死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Shut up you scum. Shut up.{\r}
+Dialogue: 0,0:13:52.09,0:13:56.03,Default,,0000,0000,0000,,再叫生仔没屁股，再叫吊颈死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or you'll be cursed.{\r}
+Dialogue: 0,0:14:20.09,0:14:21.05,Default,,0000,0000,0000,,宝贝呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's the thing?{\r}
+Dialogue: 0,0:14:21.16,0:14:23.21,Default,,0000,0000,0000,,带来了，在包袱里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's in the bag.{\r}
+Dialogue: 0,0:14:29.20,0:14:30.22,Default,,0000,0000,0000,,九叔说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Keep it{\r}
+Dialogue: 0,0:14:30.26,0:14:35.10,Default,,0000,0000,0000,,百年归老要将它放在你的棺材里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}even into the coffin with you.{\r}
+Dialogue: 0,0:14:35.17,0:14:38.00,Default,,0000,0000,0000,,不然将来投胎就不可以再做人了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or you won't be a man in the next life.{\r}
+Dialogue: 0,0:14:38.07,0:14:39.06,Default,,0000,0000,0000,,记得吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Do you remember?{\r}
+Dialogue: 0,0:14:39.14,0:14:40.11,Default,,0000,0000,0000,,记得了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:14:40.17,0:14:41.27,Default,,0000,0000,0000,,不可以失掉的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't lose it.{\r}
+Dialogue: 0,0:14:42.28,0:14:44.18,Default,,0000,0000,0000,,我将来要坐轿回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I shall return in a sedan.{\r}
+Dialogue: 0,0:14:44.25,0:14:47.21,Default,,0000,0000,0000,,到时一定会请你们吃鸡尾巴的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And there'll be a lot of chicken bottoms.{\r}
+Dialogue: 0,0:14:49.15,0:14:51.01,Default,,0000,0000,0000,,乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good boy.{\r}
+Dialogue: 0,0:14:52.22,0:14:54.05,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:14:54.19,0:14:55.28,Default,,0000,0000,0000,,我们走了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We are going.{\r}
+Dialogue: 0,0:14:59.26,0:15:00.99,Default,,0000,0000,0000,,阿爹，有没有像我年纪那么小\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Any Masters of my age, dad?{\r}
+Dialogue: 0,0:15:01.06,0:15:03.09,Default,,0000,0000,0000,,就做大总管的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor{\r}
+Dialogue: 0,0:15:04.00,0:15:05.23,Default,,0000,0000,0000,,现在总统不准皇帝用太监了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}doesn't need eunuchs anymore.{\r}
+Dialogue: 0,0:15:06.03,0:15:09.99,Default,,0000,0000,0000,,你放心，我想皇帝很快就会打赢总统\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor will win back his throne soon.{\r}
+Dialogue: 0,0:15:10.04,0:15:11.16,Default,,0000,0000,0000,,那你就可能做太监了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Then you'll be a eunuch.{\r}
+Dialogue: 0,0:15:11.24,0:15:13.07,Default,,0000,0000,0000,,那是什么时候？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}When?{\r}
+Dialogue: 0,0:15:14.04,0:15:17.03,Default,,0000,0000,0000,,你在城里二老爷的戏班先学一些东西\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You must try to learn from{\r}
+Dialogue: 0,0:15:17.08,0:15:18.17,Default,,0000,0000,0000,,我想很快的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}the troupe.{\r}
+Dialogue: 0,0:15:22.05,0:15:23.18,Default,,0000,0000,0000,,行了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright.{\r}
+Dialogue: 0,0:15:42.27,0:15:44.13,Default,,0000,0000,0000,,停\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop.{\r}
+Dialogue: 0,0:15:44.31,0:15:46.10,Default,,0000,0000,0000,,来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,0:15:46.31,0:15:49.00,Default,,0000,0000,0000,,现在叫你扮杨贵妃喝醉酒\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You're supposed to{\r}
+Dialogue: 0,0:15:49.08,0:15:50.27,Default,,0000,0000,0000,,不是叫你扮胭脂胡同的醉鸡\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}be a drunken empress.{\r}
+Dialogue: 0,0:15:51.05,0:15:52.27,Default,,0000,0000,0000,,发花癫，四处走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not a prostitute on the loose.{\r}
+Dialogue: 0,0:15:53.05,0:15:57.11,Default,,0000,0000,0000,,杨贵妃风情万种，说话莺声燕语\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}An empress speaks elegantly.{\r}
+Dialogue: 0,0:15:57.15,0:16:00.09,Default,,0000,0000,0000,,喝醉酒时走起路也像摇风摆柳\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sways like a willow when drunk.{\r}
+Dialogue: 0,0:16:00.19,0:16:02.02,Default,,0000,0000,0000,,不像你这样子难看\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not clumsy like you.{\r}
+Dialogue: 0,0:16:02.09,0:16:03.08,Default,,0000,0000,0000,,唐明皇要是叫鸡\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who wants{\r}
+Dialogue: 0,0:16:03.16,0:16:05.15,Default,,0000,0000,0000,,也不喜欢你这个杨贵妃了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}an emperor like you?{\r}
+Dialogue: 0,0:16:05.26,0:16:08.06,Default,,0000,0000,0000,,走开，我再做一次给你看\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let me show you.{\r}
+Dialogue: 0,0:16:08.13,0:16:11.03,Default,,0000,0000,0000,,贵妃醉酒就是你师父我当年拿手好戏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It was my favourite role.{\r}
+Dialogue: 0,0:16:11.10,0:16:12.26,Default,,0000,0000,0000,,如果不是你师父突然间肥了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'd do it myself{\r}
+Dialogue: 0,0:16:13.03,0:16:14.16,Default,,0000,0000,0000,,也不会轮到你去做\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}if I were slimmer.{\r}
+Dialogue: 0,0:16:14.20,0:16:17.10,Default,,0000,0000,0000,,就好像她喝醉了出花园的一段\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take this drunken scene.{\r}
+Dialogue: 0,0:16:20.27,0:16:22.14,Default,,0000,0000,0000,,真舒服\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Feel good.{\r}
+Dialogue: 0,0:16:27.28,0:16:29.15,Default,,0000,0000,0000,,是什么呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's that?{\r}
+Dialogue: 0,0:16:30.02,0:16:31.21,Default,,0000,0000,0000,,真芳香\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Smell so good.{\r}
+Dialogue: 0,0:16:31.29,0:16:35.09,Default,,0000,0000,0000,,原来是一朵花\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Oh? A flower.{\r}
+Dialogue: 0,0:16:35.16,0:16:37.28,Default,,0000,0000,0000,,我要摘了它下来，拿在手里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let me put it{\r}
+Dialogue: 0,0:16:38.03,0:16:39.25,Default,,0000,0000,0000,,插在头上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}in my hair.{\r}
+Dialogue: 0,0:16:40.03,0:16:42.22,Default,,0000,0000,0000,,一定会很漂亮的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Must be pretty.{\r}
+Dialogue: 0,0:16:43.23,0:16:46.22,Default,,0000,0000,0000,,让我走近看清楚\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll take a closer look.{\r}
+Dialogue: 0,0:16:52.17,0:16:54.20,Default,,0000,0000,0000,,真芳香\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Smell so good.{\r}
+Dialogue: 0,0:16:54.27,0:16:57.97,Default,,0000,0000,0000,,看看这朵是什么花？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What kind of a flower?{\r}
+Dialogue: 0,0:17:04.12,0:17:06.21,Default,,0000,0000,0000,,你们看见没有？    看见了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Got it. - Yes.{\r}
+Dialogue: 0,0:17:06.29,0:17:08.28,Default,,0000,0000,0000,,还不扶我起来？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Then come pick me up.{\r}
+Dialogue: 0,0:17:29.18,0:17:34.08,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:17:36.12,0:17:38.02,Default,,0000,0000,0000,,先吃点东西吧，大帅\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have a bite, General.{\r}
+Dialogue: 0,0:17:38.09,0:17:39.25,Default,,0000,0000,0000,,自己吃自己吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Eat it yourself.{\r}
+Dialogue: 0,0:17:50.10,0:17:55.00,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:18:14.25,0:18:17.02,Default,,0000,0000,0000,,明天散戏后带他回来见我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Bring him to me tomorrow.{\r}
+Dialogue: 0,0:18:17.12,0:18:18.11,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:18:22.06,0:18:23.15,Default,,0000,0000,0000,,师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Master.{\r}
+Dialogue: 0,0:18:25.13,0:18:26.06,Default,,0000,0000,0000,,二老板\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Boss.{\r}
+Dialogue: 0,0:18:26.17,0:18:28.23,Default,,0000,0000,0000,,师父，坐吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have a seat, master.{\r}
+Dialogue: 0,0:18:29.24,0:18:31.20,Default,,0000,0000,0000,,今天的观众反应不错    是吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Good response - Really?{\r}
+Dialogue: 0,0:18:31.27,0:18:34.17,Default,,0000,0000,0000,,不过不要先开心，不一定是赞你的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not necessary for you.{\r}
+Dialogue: 0,0:18:34.27,0:18:36.07,Default,,0000,0000,0000,,知道了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:18:37.01,0:18:38.17,Default,,0000,0000,0000,,有人回静海去\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Anything for your folks.{\r}
+Dialogue: 0,0:18:38.25,0:18:39.23,Default,,0000,0000,0000,,有没有东西带返乡下呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Someone's going that way.{\r}
+Dialogue: 0,0:18:39.28,0:18:41.08,Default,,0000,0000,0000,,有呀，有呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, there is.{\r}
+Dialogue: 0,0:18:47.15,0:18:48.25,Default,,0000,0000,0000,,三、四、五、六\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}3, 4, 5, 6.{\r}
+Dialogue: 0,0:18:48.29,0:18:50.09,Default,,0000,0000,0000,,我只教你上台唱戏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you on the run or what?{\r}
+Dialogue: 0,0:18:50.16,0:18:52.06,Default,,0000,0000,0000,,我有教你走难的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Will you ask the person to take these?{\r}
+Dialogue: 0,0:18:53.16,0:18:56.22,Default,,0000,0000,0000,,师父，麻烦你帮我托人送返乡下吧
+Dialogue: 0,0:18:56.30,0:18:58.03,Default,,0000,0000,0000,,可以\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright.{\r}
+Dialogue: 0,0:18:58.07,0:19:01.03,Default,,0000,0000,0000,,不买新衣服的话也得买双新鞋子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}At least get a new pair of shoes.{\r}
+Dialogue: 0,0:19:01.20,0:19:03.14,Default,,0000,0000,0000,,不是呀，旧鞋很舒服的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I like the old ones.{\r}
+Dialogue: 0,0:19:06.27,0:19:09.00,Default,,0000,0000,0000,,明天到天桥那里去买双鞋子吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go get a new pair tomorrow.{\r}
+Dialogue: 0,0:19:09.08,0:19:10.27,Default,,0000,0000,0000,,谢谢师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank you, master.{\r}
+Dialogue: 0,0:19:11.08,0:19:13.01,Default,,0000,0000,0000,,师父，替我带返乡下吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take this to my folks please.{\r}
+Dialogue: 0,0:19:13.11,0:19:14.17,Default,,0000,0000,0000,,叫你去买就买好了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go buy the shoes.{\r}
+Dialogue: 0,0:19:14.21,0:19:17.01,Default,,0000,0000,0000,,不用了，下个月出量才买吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I buy a pair when I get paid.{\r}
+Dialogue: 0,0:19:17.08,0:19:18.24,Default,,0000,0000,0000,,鞋子还可以穿\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The old ones are still good.{\r}
+Dialogue: 0,0:19:20.15,0:19:22.05,Default,,0000,0000,0000,,不买就省掉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Never mind then.{\r}
+Dialogue: 0,0:19:23.12,0:19:24.25,Default,,0000,0000,0000,,师父，师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Master, master.{\r}
+Dialogue: 0,0:19:25.06,0:19:26.05,Default,,0000,0000,0000,,什么？想拿回？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What? Want it back?{\r}
+Dialogue: 0,0:19:26.13,0:19:29.99,Default,,0000,0000,0000,,不是，那件事怎么样？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No. Any news?{\r}
+Dialogue: 0,0:19:32.03,0:19:33.16,Default,,0000,0000,0000,,你跟了我多少年？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How long have you been with me?{\r}
+Dialogue: 0,0:19:33.20,0:19:34.19,Default,,0000,0000,0000,,九年\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}9 years.{\r}
+Dialogue: 0,0:19:34.27,0:19:36.10,Default,,0000,0000,0000,,不，十年了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, more like 10.{\r}
+Dialogue: 0,0:19:36.14,0:19:37.26,Default,,0000,0000,0000,,现在没有饭你吃，没有衣服你穿\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Aren't you well fed and well treated?{\r}
+Dialogue: 0,0:19:38.04,0:19:39.10,Default,,0000,0000,0000,,没教足你的功夫吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Haven't I taught you everything?{\r}
+Dialogue: 0,0:19:39.17,0:19:41.04,Default,,0000,0000,0000,,不是，不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, yes.{\r}
+Dialogue: 0,0:19:42.01,0:19:45.17,Default,,0000,0000,0000,,不过现在外面很混乱，没有人负责\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But it's chao outside.{\r}
+Dialogue: 0,0:19:45.21,0:19:48.20,Default,,0000,0000,0000,,宣统皇帝才是真命天子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor is our true leader.{\r}
+Dialogue: 0,0:19:49.22,0:19:51.01,Default,,0000,0000,0000,,他需要人来服侍\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He needs to be served.{\r}
+Dialogue: 0,0:19:51.12,0:19:52.11,Default,,0000,0000,0000,,师父不要人服侍吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't I need to be served?{\r}
+Dialogue: 0,0:19:52.19,0:19:53.18,Default,,0000,0000,0000,,要，要\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Of course.{\r}
+Dialogue: 0,0:19:53.25,0:19:55.05,Default,,0000,0000,0000,,不过…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But?{\r}
+Dialogue: 0,0:19:56.02,0:19:58.18,Default,,0000,0000,0000,,师父，你先过来这边，来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please come over here.{\r}
+Dialogue: 0,0:20:01.23,0:20:04.03,Default,,0000,0000,0000,,我是公公，公公就要入宫\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a eunuch, eunuchs stay in the Palace.{\r}
+Dialogue: 0,0:20:04.06,0:20:05.09,Default,,0000,0000,0000,,公公不用吃饭和大小便吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's so special about being a eunuch?{\r}
+Dialogue: 0,0:20:05.17,0:20:06.15,Default,,0000,0000,0000,,你现在没有手没有脚\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You can work like anybody.{\r}
+Dialogue: 0,0:20:06.27,0:20:07.26,Default,,0000,0000,0000,,不能抬又不能挑吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Right?{\r}
+Dialogue: 0,0:20:08.00,0:20:09.13,Default,,0000,0000,0000,,是要服侍那马骝干嘛\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why bother that monkey of a man?{\r}
+Dialogue: 0,0:20:13.21,0:20:15.27,Default,,0000,0000,0000,,但是我割了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But I'm castrated.{\r}
+Dialogue: 0,0:20:16.11,0:20:18.10,Default,,0000,0000,0000,,我也可以说我割了小祖宗\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I can say I'm castrated too.{\r}
+Dialogue: 0,0:20:18.15,0:20:20.14,Default,,0000,0000,0000,,你怎么知道我是不是呀，你说吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Can you prove I'm not?{\r}
+Dialogue: 0,0:20:21.08,0:20:24.02,Default,,0000,0000,0000,,我屁股生疮，我屁股有两个洞\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I can say anything.{\r}
+Dialogue: 0,0:20:24.08,0:20:26.99,Default,,0000,0000,0000,,有三个肚脐，谁知道呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Like I have 3 belly buttons, who can tell.{\r}
+Dialogue: 0,0:20:27.05,0:20:28.08,Default,,0000,0000,0000,,除了不可以生孩子外\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}As long as you keep your clothes on.{\r}
+Dialogue: 0,0:20:28.16,0:20:29.14,Default,,0000,0000,0000,,你又不脱裤子给人看\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who can tell the difference?{\r}
+Dialogue: 0,0:20:29.19,0:20:31.02,Default,,0000,0000,0000,,跟普通人有什么分别呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No eunuchs have been hired{\r}
+Dialogue: 0,0:20:32.03,0:20:33.25,Default,,0000,0000,0000,,不请太监很久了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}for a while now.{\r}
+Dialogue: 0,0:20:34.09,0:20:36.22,Default,,0000,0000,0000,,除非有些太监老了、病了，就快断气\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Unless the old ones are dying.{\r}
+Dialogue: 0,0:20:36.26,0:20:38.09,Default,,0000,0000,0000,,想赚取一笔棺材本\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And need some money.{\r}
+Dialogue: 0,0:20:38.17,0:20:42.03,Default,,0000,0000,0000,,顶名费都要六十个钱，你有吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But then it costs 60 coins to fill in.{\r}
+Dialogue: 0,0:20:42.17,0:20:43.16,Default,,0000,0000,0000,,我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But...{\r}
+Dialogue: 0,0:20:43.24,0:20:45.07,Default,,0000,0000,0000,,用心唱戏吧
+Dialogue: 0,0:20:45.14,0:20:47.11,Default,,0000,0000,0000,,你唱得好的话就有美好的前途了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your future is here.{\r}
+Dialogue: 0,0:20:47.17,0:20:49.04,Default,,0000,0000,0000,,不要太多心了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop being silly.{\r}
+Dialogue: 0,0:20:49.11,0:20:50.13,Default,,0000,0000,0000,,师父    是了…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Master - Alright...{\r}
+Dialogue: 0,0:20:50.21,0:20:52.11,Default,,0000,0000,0000,,我知道了…行了…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know... Alright...{\r}
+Dialogue: 0,0:20:52.18,0:20:54.04,Default,,0000,0000,0000,,师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Master.{\r}
+Dialogue: 0,0:21:06.19,0:21:08.13,Default,,0000,0000,0000,,师弟，去那里呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's the kid?{\r}
+Dialogue: 0,0:21:08.20,0:21:11.13,Default,,0000,0000,0000,,师弟，跟我们去喝花酒吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go to the girls.{\r}
+Dialogue: 0,0:21:11.20,0:21:14.00,Default,,0000,0000,0000,,师兄，我没有空，改天吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't have time, may be next time.{\r}
+Dialogue: 0,0:21:14.27,0:21:16.17,Default,,0000,0000,0000,,师弟…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hey, kid.{\r}
+Dialogue: 0,0:21:16.24,0:21:19.10,Default,,0000,0000,0000,,公公才不进入妓寨的，你是公公吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Only eunuchs are afraid to go in.{\r}
+Dialogue: 0,0:21:19.14,0:21:21.07,Default,,0000,0000,0000,,先检查一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's check it out.{\r}
+Dialogue: 0,0:21:21.17,0:21:23.07,Default,,0000,0000,0000,,那个乱党走进了胭脂胡同，追他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The rebel gets lost in the whore houses.{\r}
+Dialogue: 0,0:21:23.14,0:21:25.17,Default,,0000,0000,0000,,追他，快点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get him, hurry.{\r}
+Dialogue: 0,0:21:26.08,0:21:33.08,Default,,0000,0000,0000,,进去…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go in, go in.{\r}
+Dialogue: 0,0:21:35.16,0:21:36.99,Default,,0000,0000,0000,,开门呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Open up.{\r}
+Dialogue: 0,0:21:38.03,0:21:39.19,Default,,0000,0000,0000,,开门呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Open up.{\r}
+Dialogue: 0,0:21:57.04,0:21:58.24,Default,,0000,0000,0000,,你很害怕？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you scared?{\r}
+Dialogue: 0,0:21:59.25,0:22:03.08,Default,,0000,0000,0000,,告诉你，等一会儿什么你也不会害怕\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You won't be scared in a minute.{\r}
+Dialogue: 0,0:22:03.18,0:22:05.01,Default,,0000,0000,0000,,我没有钱的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have no money.{\r}
+Dialogue: 0,0:22:06.05,0:22:08.02,Default,,0000,0000,0000,,已经付钱了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's paid for.{\r}
+Dialogue: 0,0:22:10.02,0:22:12.08,Default,,0000,0000,0000,,来吧    不要\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Come on. - No.{\r}
+Dialogue: 0,0:22:17.06,0:22:18.96,Default,,0000,0000,0000,,你快点出来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come out.{\r}
+Dialogue: 0,0:22:19.13,0:22:20.26,Default,,0000,0000,0000,,该死的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Damn.{\r}
+Dialogue: 0,0:22:25.21,0:22:27.11,Default,,0000,0000,0000,,捉到你就知道厉害\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You will see when I get you.{\r}
+Dialogue: 0,0:23:08.01,0:23:10.01,Default,,0000,0000,0000,,没有声音的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's all quiet.{\r}
+Dialogue: 0,0:23:20.19,0:23:22.16,Default,,0000,0000,0000,,他们是你的朋友？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They are your friends?{\r}
+Dialogue: 0,0:23:27.23,0:23:29.07,Default,,0000,0000,0000,,谢谢\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank you.{\r}
+Dialogue: 0,0:23:32.24,0:23:34.17,Default,,0000,0000,0000,,你为什么会做…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How come you...{\r}
+Dialogue: 0,0:23:35.18,0:23:38.04,Default,,0000,0000,0000,,做，做这种东西呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}...you are in this business?{\r}
+Dialogue: 0,0:23:38.15,0:23:39.13,Default,,0000,0000,0000,,当初你有办法\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It would have been different.{\r}
+Dialogue: 0,0:23:39.21,0:23:41.08,Default,,0000,0000,0000,,今日就不用被人家玩弄了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If you had your way.{\r}
+Dialogue: 0,0:23:41.11,0:23:42.21,Default,,0000,0000,0000,,我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But...{\r}
+Dialogue: 0,0:23:55.23,0:23:56.22,Default,,0000,0000,0000,,真舒服\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Feel good.{\r}
+Dialogue: 0,0:23:57.00,0:23:59.09,Default,,0000,0000,0000,,救命呀，苏姐，开门呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Help! Soo, open up.{\r}
+Dialogue: 0,0:23:59.17,0:24:01.03,Default,,0000,0000,0000,,臭丫头，你还走？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop running, you trash.{\r}
+Dialogue: 0,0:24:01.07,0:24:02.09,Default,,0000,0000,0000,,开门呀，苏姐\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Open up, Sister Soo.{\r}
+Dialogue: 0,0:24:02.17,0:24:06.07,Default,,0000,0000,0000,,开门呀，救命呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Help, open up.{\r}
+Dialogue: 0,0:24:06.21,0:24:08.07,Default,,0000,0000,0000,,臭丫头，你快点出来，出来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come out, you trash.{\r}
+Dialogue: 0,0:24:08.14,0:24:10.20,Default,,0000,0000,0000,,我不跟那个胖子睡，我宁死也不愿意\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not going to sleep with that fatso.{\r}
+Dialogue: 0,0:24:10.28,0:24:13.04,Default,,0000,0000,0000,,你不要害阿妈\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Give your mum a break.{\r}
+Dialogue: 0,0:24:13.08,0:24:14.24,Default,,0000,0000,0000,,人家来了，钱又收了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's here, and he has paid.{\r}
+Dialogue: 0,0:24:14.31,0:24:16.11,Default,,0000,0000,0000,,你现在叫我怎么办？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What am I going to do?{\r}
+Dialogue: 0,0:24:16.18,0:24:18.01,Default,,0000,0000,0000,,人是你叫来的，钱也是你收的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You asked him here, and he paid you.{\r}
+Dialogue: 0,0:24:18.05,0:24:21.02,Default,,0000,0000,0000,,要睡的话你跟他睡，我宁死也不愿意\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You sleep with him.{\r}
+Dialogue: 0,0:24:21.09,0:24:22.02,Default,,0000,0000,0000,,你看看\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll show you.{\r}
+Dialogue: 0,0:24:22.12,0:24:23.18,Default,,0000,0000,0000,,我今天一定要打死这个死丫头\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You trash.{\r}
+Dialogue: 0,0:24:23.22,0:24:24.16,Default,,0000,0000,0000,,你说什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What did you say?{\r}
+Dialogue: 0,0:24:24.26,0:24:25.19,Default,,0000,0000,0000,,你不要过来    你说什么\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Don't come near. - What did you say?{\r}
+Dialogue: 0,0:24:27.09,0:24:28.22,Default,,0000,0000,0000,,那个肥佬给了多少钱开苞呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How much did that fatso pay?{\r}
+Dialogue: 0,0:24:28.30,0:24:31.23,Default,,0000,0000,0000,,这个小兄弟要顶了她\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}This kid will fill in for him.{\r}
+Dialogue: 0,0:24:32.03,0:24:35.16,Default,,0000,0000,0000,,苏姐，你不要跟我开玩笑\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't kid me.{\r}
+Dialogue: 0,0:24:35.24,0:24:37.14,Default,,0000,0000,0000,,你看她的样子怎能见人呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}She's in no condition to work, look.{\r}
+Dialogue: 0,0:24:37.20,0:24:40.04,Default,,0000,0000,0000,,不如这样吧，我帮係顶了她\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll fill in for her.{\r}
+Dialogue: 0,0:24:40.11,0:24:42.17,Default,,0000,0000,0000,,一毛钱也不少给你的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not a penny less.{\r}
+Dialogue: 0,0:24:44.11,0:24:48.24,Default,,0000,0000,0000,,小弟弟，替我好好的照顾她\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take care of her, kid.{\r}
+Dialogue: 0,0:25:18.25,0:25:20.11,Default,,0000,0000,0000,,招弟？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,0:25:20.21,0:25:22.01,Default,,0000,0000,0000,,你不要过来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't come near.{\r}
+Dialogue: 0,0:25:22.12,0:25:24.14,Default,,0000,0000,0000,,招弟    不要过来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Tsouti. - Don't come closer.{\r}
+Dialogue: 0,0:25:27.09,0:25:28.18,Default,,0000,0000,0000,,是我呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's me.{\r}
+Dialogue: 0,0:25:29.09,0:25:30.25,Default,,0000,0000,0000,,来喜呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,0:25:31.09,0:25:35.22,Default,,0000,0000,0000,,静海东柳木村那个来喜呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The one from your village.{\r}
+Dialogue: 0,0:25:37.26,0:25:39.16,Default,,0000,0000,0000,,是你？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's you?{\r}
+Dialogue: 0,0:25:59.22,0:26:01.05,Default,,0000,0000,0000,,你常常来找苏姐的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you Soo's regular client?{\r}
+Dialogue: 0,0:26:01.15,0:26:04.06,Default,,0000,0000,0000,,不是，刚才外面捉革命党
+Dialogue: 0,0:26:04.12,0:26:06.02,Default,,0000,0000,0000,,我进来躲避一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I slipped in among the rebels.{\r}
+Dialogue: 0,0:26:06.09,0:26:08.15,Default,,0000,0000,0000,,你是革命党    不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- So you are a rebel. - No.{\r}
+Dialogue: 0,0:26:08.19,0:26:10.22,Default,,0000,0000,0000,,苏姐说革命党不会认自己是革命党的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}All rebels deny they are.{\r}
+Dialogue: 0,0:26:11.00,0:26:13.23,Default,,0000,0000,0000,,苏姐又说革命党很风流的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Soo said all rebels are womanizers.{\r}
+Dialogue: 0,0:26:14.00,0:26:14.26,Default,,0000,0000,0000,,我不风流的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not.{\r}
+Dialogue: 0,0:26:15.04,0:26:17.00,Default,,0000,0000,0000,,刚才是他们付钱捉我进来的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They pushed me in.{\r}
+Dialogue: 0,0:26:17.07,0:26:19.23,Default,,0000,0000,0000,,我连外面的浴室也不敢去\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I wouldn't even go to the public bath.{\r}
+Dialogue: 0,0:26:20.07,0:26:21.20,Default,,0000,0000,0000,,我怕…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm afraid...{\r}
+Dialogue: 0,0:26:22.01,0:26:23.17,Default,,0000,0000,0000,,你以为你是女孩子吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You think you're a girl.{\r}
+Dialogue: 0,0:26:29.05,0:26:31.07,Default,,0000,0000,0000,,如果我是男孩子就好了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I wish I were a boy{\r}
+Dialogue: 0,0:26:31.12,0:26:33.05,Default,,0000,0000,0000,,我连名字也没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}and with a name.{\r}
+Dialogue: 0,0:26:38.06,0:26:39.15,Default,,0000,0000,0000,,你不是叫招弟的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But your name is Tsouti.{\r}
+Dialogue: 0,0:26:39.23,0:26:41.19,Default,,0000,0000,0000,,招弟即是带一个弟弟来的意思\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It only means{\r}
+Dialogue: 0,0:26:41.26,0:26:43.13,Default,,0000,0000,0000,,不是名字\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}to bring on a brother.{\r}
+Dialogue: 0,0:26:44.23,0:26:46.10,Default,,0000,0000,0000,,结果妈妈真的生了一个弟弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A brother did come{\r}
+Dialogue: 0,0:26:46.17,0:26:47.19,Default,,0000,0000,0000,,说不够吃\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}and it became too crowded.{\r}
+Dialogue: 0,0:26:47.27,0:26:49.20,Default,,0000,0000,0000,,跟着把我卖到这里来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And my mum sold me to this place.{\r}
+Dialogue: 0,0:26:49.27,0:26:53.14,Default,,0000,0000,0000,,只得五个钱，比猪还要便宜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For five coins, cheaper than a pig.{\r}
+Dialogue: 0,0:26:56.21,0:26:58.27,Default,,0000,0000,0000,,为什么你走也不告诉我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why didn't you tell me?{\r}
+Dialogue: 0,0:26:59.08,0:27:00.24,Default,,0000,0000,0000,,你以为我不想找你吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I wanted to.{\r}
+Dialogue: 0,0:27:00.31,0:27:02.21,Default,,0000,0000,0000,,人家说你不知道割伤了那里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But they told me you were hurt{\r}
+Dialogue: 0,0:27:02.28,0:27:04.01,Default,,0000,0000,0000,,被妈妈困住了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}and locked up.{\r}
+Dialogue: 0,0:27:04.08,0:27:05.11,Default,,0000,0000,0000,,你伤了的第二天\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The next day.{\r}
+Dialogue: 0,0:27:05.19,0:27:07.21,Default,,0000,0000,0000,,我就被人捉到这里来了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I was sold to this place.{\r}
+Dialogue: 0,0:27:09.02,0:27:11.22,Default,,0000,0000,0000,,是呀，你割伤那里呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, where did it hurt?{\r}
+Dialogue: 0,0:27:13.26,0:27:15.23,Default,,0000,0000,0000,,我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I...{\r}
+Dialogue: 0,0:27:15.30,0:27:19.10,Default,,0000,0000,0000,,算了，你现在已经痊愈\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Never mind, you are well now.{\r}
+Dialogue: 0,0:27:19.27,0:27:21.17,Default,,0000,0000,0000,,你不用替我难过\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't feel sorry for me.{\r}
+Dialogue: 0,0:27:21.23,0:27:26.04,Default,,0000,0000,0000,,我当自己是只死猪，陪男人上床睡觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I feel like a pig when I sleep with men.{\r}
+Dialogue: 0,0:27:26.11,0:27:28.13,Default,,0000,0000,0000,,是那些男人吃亏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's their loss.{\r}
+Dialogue: 0,0:27:28.17,0:27:30.20,Default,,0000,0000,0000,,不要吧，我救你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't I'll rescue you.{\r}
+Dialogue: 0,0:27:31.21,0:27:33.20,Default,,0000,0000,0000,,我赚钱，我养你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll work and take care of you.{\r}
+Dialogue: 0,0:27:35.05,0:27:37.14,Default,,0000,0000,0000,,赎身要很多钱的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It costs a lot to buy me out.{\r}
+Dialogue: 0,0:27:39.15,0:27:40.21,Default,,0000,0000,0000,,我跟师父商量一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll discuss it with my master.{\r}
+Dialogue: 0,0:27:40.29,0:27:43.12,Default,,0000,0000,0000,,不过这样子，这里那么危险\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But you better.{\r}
+Dialogue: 0,0:27:43.19,0:27:44.16,Default,,0000,0000,0000,,你还是不要留在这里？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not stay here.{\r}
+Dialogue: 0,0:27:44.22,0:27:46.25,Default,,0000,0000,0000,,你不用去问你老婆吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't you have to ask your wife?{\r}
+Dialogue: 0,0:27:49.16,0:27:50.29,Default,,0000,0000,0000,,我没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't have one.{\r}
+Dialogue: 0,0:27:51.13,0:27:52.29,Default,,0000,0000,0000,,我什么也没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't have anything.{\r}
+Dialogue: 0,0:27:53.17,0:27:56.23,Default,,0000,0000,0000,,我知道革命党是不会见死不救的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know all rebels are courageous.{\r}
+Dialogue: 0,0:27:57.17,0:28:00.16,Default,,0000,0000,0000,,你走快两步，精乖一点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry.{\r}
+Dialogue: 0,0:28:00.24,0:28:01.26,Default,,0000,0000,0000,,请你们快一点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry up, please.{\r}
+Dialogue: 0,0:28:03.04,0:28:03.27,Default,,0000,0000,0000,,不知道，有的话我会告诉你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't know, I'll tell you when there is.{\r}
+Dialogue: 0,0:28:04.08,0:28:05.01,Default,,0000,0000,0000,,师兄，师父呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's the master?{\r}
+Dialogue: 0,0:28:05.08,0:28:05.98,Default,,0000,0000,0000,,我早说过不知道\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I said I didn't know.{\r}
+Dialogue: 0,0:28:06.05,0:28:07.10,Default,,0000,0000,0000,,师兄，师父什么时候回来呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}When will he be back?{\r}
+Dialogue: 0,0:28:07.18,0:28:08.20,Default,,0000,0000,0000,,真讨厌\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What a drag.{\r}
+Dialogue: 0,0:28:08.25,0:28:10.15,Default,,0000,0000,0000,,师兄，你昨晚怎样搞掂苏姐的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How's Soo, was she good last night?{\r}
+Dialogue: 0,0:28:10.22,0:28:11.24,Default,,0000,0000,0000,,她的外号叫一招了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They call her "One Stroke".{\r}
+Dialogue: 0,0:28:11.28,0:28:13.01,Default,,0000,0000,0000,,你怎样子跟那个处女开苞的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And how's the virgin?{\r}
+Dialogue: 0,0:28:13.09,0:28:14.08,Default,,0000,0000,0000,,告诉我们    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Tell us. - Yes.{\r}
+Dialogue: 0,0:28:14.25,0:28:17.09,Default,,0000,0000,0000,,大师兄，麻烦你帮我去后门\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please see{\r}
+Dialogue: 0,0:28:17.19,0:28:18.21,Default,,0000,0000,0000,,看看有没有人找我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}if someone's looking for me.{\r}
+Dialogue: 0,0:28:18.26,0:28:21.16,Default,,0000,0000,0000,,在这个时候，只有你才可以出去\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Only you can go out and look.{\r}
+Dialogue: 0,0:28:21.23,0:28:23.13,Default,,0000,0000,0000,,他跛的吗？他自己不会进来吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is he crippled, can't he come in himself?{\r}
+Dialogue: 0,0:28:23.23,0:28:25.09,Default,,0000,0000,0000,,是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yeah.{\r}
+Dialogue: 0,0:28:25.13,0:28:28.23,Default,,0000,0000,0000,,她是个女孩子，这里怎可以进来呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}She's a girl, she can't come in.{\r}
+Dialogue: 0,0:28:30.00,0:28:32.10,Default,,0000,0000,0000,,你好呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Oh! Smart kid.{\r}
+Dialogue: 0,0:28:32.17,0:28:35.20,Default,,0000,0000,0000,,玉兰，有人找你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yu Lan, someone's looking for you.{\r}
+Dialogue: 0,0:28:37.04,0:28:37.27,Default,,0000,0000,0000,,你们等一等\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please wait.{\r}
+Dialogue: 0,0:28:38.04,0:28:39.24,Default,,0000,0000,0000,,玉兰，他们说要找你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yu Lan, they're looking for you.{\r}
+Dialogue: 0,0:28:42.18,0:28:44.01,Default,,0000,0000,0000,,你是不是刘玉兰？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you Liu Yu Lan?{\r}
+Dialogue: 0,0:28:44.05,0:28:45.07,Default,,0000,0000,0000,,是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:28:45.12,0:28:47.21,Default,,0000,0000,0000,,这位官大哥，我们的二老板不在？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Our boss isn't here.{\r}
+Dialogue: 0,0:28:47.29,0:28:49.02,Default,,0000,0000,0000,,是呀…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes...{\r}
+Dialogue: 0,0:28:49.06,0:28:51.22,Default,,0000,0000,0000,,不关你们二老板的事，也不关你的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We are not here for your boss.{\r}
+Dialogue: 0,0:28:52.03,0:28:53.15,Default,,0000,0000,0000,,走开\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get away.{\r}
+Dialogue: 0,0:28:54.03,0:28:58.12,Default,,0000,0000,0000,,我们的雷大帅想请你喝酒\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}General Lei sends for you.{\r}
+Dialogue: 0,0:28:58.20,0:29:00.00,Default,,0000,0000,0000,,我今天没有空，改天吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Some other time, can't make it today.{\r}
+Dialogue: 0,0:29:03.24,0:29:05.17,Default,,0000,0000,0000,,雷大帅在等你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}General Lei is waiting.{\r}
+Dialogue: 0,0:29:07.21,0:29:10.14,Default,,0000,0000,0000,,我不认识他，麻烦你告诉他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't know him.{\r}
+Dialogue: 0,0:29:10.24,0:29:11.27,Default,,0000,0000,0000,,说我多谢了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank him for me.{\r}
+Dialogue: 0,0:29:12.01,0:29:13.07,Default,,0000,0000,0000,,是…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, yes.{\r}
+Dialogue: 0,0:29:20.09,0:29:21.18,Default,,0000,0000,0000,,走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go.{\r}
+Dialogue: 0,0:29:30.13,0:29:32.00,Default,,0000,0000,0000,,师父，喝茶\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tea, master.{\r}
+Dialogue: 0,0:29:32.23,0:29:33.20,Default,,0000,0000,0000,,你们算什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}At least you can delay them{\r}
+Dialogue: 0,0:29:33.27,0:29:35.03,Default,,0000,0000,0000,,为什么不延迟到我回来？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}till I come back.{\r}
+Dialogue: 0,0:29:35.10,0:29:36.03,Default,,0000,0000,0000,,他们有枪的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}They have guns.{\r}
+Dialogue: 0,0:29:37.04,0:29:40.01,Default,,0000,0000,0000,,怕什么？他们有枪，我们没有刀呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So you were afraid. We have sabers.{\r}
+Dialogue: 0,0:29:40.07,0:29:42.01,Default,,0000,0000,0000,,你们有意整蛊还是没胆子呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Was it a plot or you were scared?{\r}
+Dialogue: 0,0:29:42.08,0:29:43.06,Default,,0000,0000,0000,,在自己的地盘\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Can't even protect.{\r}
+Dialogue: 0,0:29:43.14,0:29:44.11,Default,,0000,0000,0000,,自己的师兄弟也保不住了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A member of your troop.{\r}
+Dialogue: 0,0:29:44.18,0:29:46.08,Default,,0000,0000,0000,,怎能落班？怎能跑马头呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How can I depend on you in the future?{\r}
+Dialogue: 0,0:29:46.15,0:29:47.17,Default,,0000,0000,0000,,你鬼鬼祟祟的在干什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are you doing here?{\r}
+Dialogue: 0,0:29:47.25,0:29:50.08,Default,,0000,0000,0000,,来喜在不在？你能不能带我去见他？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm looking for Laishi.{\r}
+Dialogue: 0,0:29:50.18,0:29:52.08,Default,,0000,0000,0000,,戏散了，所有的人都走光了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The show's over, nobody's around.{\r}
+Dialogue: 0,0:29:52.15,0:29:54.02,Default,,0000,0000,0000,,刘来喜，是他叫我来找他的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi asked me to come.{\r}
+Dialogue: 0,0:29:54.09,0:29:55.18,Default,,0000,0000,0000,,别噜嗦了，叫她走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Send her away.{\r}
+Dialogue: 0,0:29:55.22,0:29:58.21,Default,,0000,0000,0000,,你让我看看他吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please take me to him.{\r}
+Dialogue: 0,0:29:58.29,0:30:00.26,Default,,0000,0000,0000,,谢谢你们，是他叫我来这里找他的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He asked me to come.{\r}
+Dialogue: 0,0:30:01.03,0:30:02.22,Default,,0000,0000,0000,,等一等…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wait a minute.{\r}
+Dialogue: 0,0:30:03.23,0:30:06.16,Default,,0000,0000,0000,,你找来喜有什么事？我是他的师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What do you want him for? I'm his teacher.{\r}
+Dialogue: 0,0:30:09.04,0:30:10.20,Default,,0000,0000,0000,,你是逃出来的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you running away?{\r}
+Dialogue: 0,0:30:12.27,0:30:14.21,Default,,0000,0000,0000,,没事了，进去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go back, it's alright.{\r}
+Dialogue: 0,0:30:14.27,0:30:17.11,Default,,0000,0000,0000,,你放心吧，来喜八岁就开始跟着我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Relax, I brought Laishi up with me.{\r}
+Dialogue: 0,0:30:17.18,0:30:19.20,Default,,0000,0000,0000,,我当是他爸爸一样\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He treats me like his father.{\r}
+Dialogue: 0,0:30:19.28,0:30:22.25,Default,,0000,0000,0000,,来喜在不在？他叫我来找他的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is he here? He asked me to come.{\r}
+Dialogue: 0,0:30:23.28,0:30:26.12,Default,,0000,0000,0000,,他出了事，被大帅带走了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's in trouble. The general took him away.{\r}
+Dialogue: 0,0:30:26.19,0:30:29.02,Default,,0000,0000,0000,,是不是他的身份被人识破了？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Has he been discovered?{\r}
+Dialogue: 0,0:30:29.16,0:30:31.18,Default,,0000,0000,0000,,你知道他的身份？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You know everything.{\r}
+Dialogue: 0,0:30:33.19,0:30:34.25,Default,,0000,0000,0000,,在这里除了我一个人之外\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm the only one{\r}
+Dialogue: 0,0:30:34.99,0:30:35.26,Default,,0000,0000,0000,,没有其他人知道\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}who knows.{\r}
+Dialogue: 0,0:30:36.06,0:30:37.09,Default,,0000,0000,0000,,其实他很凄凉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Poor kid.{\r}
+Dialogue: 0,0:30:37.13,0:30:38.06,Default,,0000,0000,0000,,平时连说一句话\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He always keeps quiet.{\r}
+Dialogue: 0,0:30:38.13,0:30:39.22,Default,,0000,0000,0000,,也害怕人家识破他的身份\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Has to be extra careful going to toilets.{\r}
+Dialogue: 0,0:30:39.27,0:30:41.17,Default,,0000,0000,0000,,甚至去厕所，大小便\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or change, or go take a bath.{\r}
+Dialogue: 0,0:30:41.23,0:30:43.26,Default,,0000,0000,0000,,脱衣服、洗澡，都特别小心\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That gets him no friends.{\r}
+Dialogue: 0,0:30:44.04,0:30:45.20,Default,,0000,0000,0000,,所以弄到一个朋友也没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's why he denied it{\r}
+Dialogue: 0,0:30:45.27,0:30:49.00,Default,,0000,0000,0000,,难怪我猜中了他也不承认\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}when I made a guess.{\r}
+Dialogue: 0,0:30:49.08,0:30:51.07,Default,,0000,0000,0000,,原来你是靠猜的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You're only guessing?{\r}
+Dialogue: 0,0:30:51.11,0:30:53.17,Default,,0000,0000,0000,,那又不是，我跟他从小玩到大\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not really. I grew up with him.{\r}
+Dialogue: 0,0:30:53.25,0:30:57.18,Default,,0000,0000,0000,,后来失去联络，昨晚才遇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And bumped into each other last night.{\r}
+Dialogue: 0,0:30:58.05,0:31:00.04,Default,,0000,0000,0000,,发觉他原来是…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And found out that?{\r}
+Dialogue: 0,0:31:00.12,0:31:01.25,Default,,0000,0000,0000,,虽然我怎样去问他，他也不肯承认\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He denied it all along.{\r}
+Dialogue: 0,0:31:02.06,0:31:03.18,Default,,0000,0000,0000,,但是女孩子很敏感的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But call it a girl's intuition.{\r}
+Dialogue: 0,0:31:03.26,0:31:05.19,Default,,0000,0000,0000,,他叫你来干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why did he ask you here?{\r}
+Dialogue: 0,0:31:07.13,0:31:09.12,Default,,0000,0000,0000,,他叫我跟他一起生活\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To live with him.{\r}
+Dialogue: 0,0:31:09.20,0:31:13.10,Default,,0000,0000,0000,,我考虑过了，他是一个好人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've been thinking, he's a nice person.{\r}
+Dialogue: 0,0:31:13.17,0:31:15.07,Default,,0000,0000,0000,,我决定一辈子跟着他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll stay with him for life.{\r}
+Dialogue: 0,0:31:16.04,0:31:18.23,Default,,0000,0000,0000,,你想清楚呀，做夫妻不同做朋友\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you sure that's more than being friends.{\r}
+Dialogue: 0,0:31:19.01,0:31:20.27,Default,,0000,0000,0000,,有很多事情夫妻一世流…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It is for life...{\r}
+Dialogue: 0,0:31:21.04,0:31:22.17,Default,,0000,0000,0000,,算了，我明白的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I understand.{\r}
+Dialogue: 0,0:31:22.24,0:31:24.11,Default,,0000,0000,0000,,有些事情我就当看不见\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll cope with it.{\r}
+Dialogue: 0,0:31:24.14,0:31:26.11,Default,,0000,0000,0000,,他不肯说我就不问\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I won't ask.{\r}
+Dialogue: 0,0:31:26.18,0:31:28.01,Default,,0000,0000,0000,,我可以替他保守秘密\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll keep his secrets.{\r}
+Dialogue: 0,0:31:28.05,0:31:29.98,Default,,0000,0000,0000,,大家你迁就我，我迁就你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's a matter of compromising.{\r}
+Dialogue: 0,0:31:30.08,0:31:31.24,Default,,0000,0000,0000,,一样会很开心的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We'll be happy.{\r}
+Dialogue: 0,0:31:32.09,0:31:34.18,Default,,0000,0000,0000,,来喜这只马骝仔真有福气\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Luck little devil.{\r}
+Dialogue: 0,0:31:36.06,0:31:37.18,Default,,0000,0000,0000,,来喜是不是很危险呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is he in danger?{\r}
+Dialogue: 0,0:31:37.22,0:31:40.12,Default,,0000,0000,0000,,恐怕不会死的，但是屁股可能会开花\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not too serious. It might hurt a bit.{\r}
+Dialogue: 0,0:31:40.19,0:31:42.16,Default,,0000,0000,0000,,刚才我在这里就好了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I wish I were here.{\r}
+Dialogue: 0,0:31:42.23,0:31:44.22,Default,,0000,0000,0000,,原来你和来喜都是…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are both...{\r}
+Dialogue: 0,0:31:44.30,0:31:46.16,Default,,0000,0000,0000,,来喜是，我不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Just Laishi, not me.{\r}
+Dialogue: 0,0:31:46.20,0:31:49.07,Default,,0000,0000,0000,,不是等于是，你们都不会承认的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You all deny it.{\r}
+Dialogue: 0,0:31:49.10,0:31:50.13,Default,,0000,0000,0000,,那我是了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So I am.{\r}
+Dialogue: 0,0:31:50.20,0:31:51.17,Default,,0000,0000,0000,,我已说过你们是的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}See, I am right.{\r}
+Dialogue: 0,0:31:51.24,0:31:53.23,Default,,0000,0000,0000,,对…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright, alright.{\r}
+Dialogue: 0,0:32:12.09,0:32:13.22,Default,,0000,0000,0000,,停手\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop.{\r}
+Dialogue: 0,0:32:14.09,0:32:14.99,Default,,0000,0000,0000,,别动\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't move.{\r}
+Dialogue: 0,0:32:15.09,0:32:16.15,Default,,0000,0000,0000,,你们这些兔崽子想作反呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you crazy?{\r}
+Dialogue: 0,0:32:16.23,0:32:18.25,Default,,0000,0000,0000,,人家送来喜回来，就该客气一点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Be nice, they're Laishi's escorts.{\r}
+Dialogue: 0,0:32:19.03,0:32:19.26,Default,,0000,0000,0000,,我们有刀呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We've got sabers.{\r}
+Dialogue: 0,0:32:20.03,0:32:21.09,Default,,0000,0000,0000,,刀？你妈的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So what? You stupid.{\r}
+Dialogue: 0,0:32:22.00,0:32:23.16,Default,,0000,0000,0000,,对不起，他们近来火气上升\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sorry, they're hot-tempered.{\r}
+Dialogue: 0,0:32:23.27,0:32:25.13,Default,,0000,0000,0000,,如果没事的话，不阻碍你们了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We won't delay you any longer.{\r}
+Dialogue: 0,0:32:25.24,0:32:29.20,Default,,0000,0000,0000,,二老板，雷大帅要我来通知你一声\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}General Lei sends a message.{\r}
+Dialogue: 0,0:32:29.28,0:32:30.26,Default,,0000,0000,0000,,什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's that?{\r}
+Dialogue: 0,0:32:31.04,0:32:32.03,Default,,0000,0000,0000,,大帅很喜欢玉兰\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's going to marry Yu Lan.{\r}
+Dialogue: 0,0:32:32.11,0:32:35.05,Default,,0000,0000,0000,,明天会有大红花桥来接她过门\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tomorrow.{\r}
+Dialogue: 0,0:32:39.29,0:32:41.12,Default,,0000,0000,0000,,下聘礼\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}This is the wedding token.{\r}
+Dialogue: 0,0:32:50.03,0:32:51.19,Default,,0000,0000,0000,,你们回旅馆收拾东西\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go pack up.{\r}
+Dialogue: 0,0:32:51.26,0:32:53.10,Default,,0000,0000,0000,,然后来戏院找我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And see me later.{\r}
+Dialogue: 0,0:32:53.27,0:32:55.10,Default,,0000,0000,0000,,去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:32:59.07,0:33:00.06,Default,,0000,0000,0000,,那禽兽有没有…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Did the beast?{\r}
+Dialogue: 0,0:33:00.11,0:33:02.27,Default,,0000,0000,0000,,没有    你的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- No. - Yours.{\r}
+Dialogue: 0,0:33:06.05,0:33:08.21,Default,,0000,0000,0000,,如果他明天抬花桥来的话，怎么办？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What if he sends for me tomorrow?{\r}
+Dialogue: 0,0:33:10.08,0:33:12.02,Default,,0000,0000,0000,,招弟在里面等着你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti's waiting for you inside.{\r}
+Dialogue: 0,0:33:12.12,0:33:13.24,Default,,0000,0000,0000,,明天早上城门一开，你就带她返乡下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take her to your folks first thing tomorrow.{\r}
+Dialogue: 0,0:33:14.02,0:33:16.11,Default,,0000,0000,0000,,雷大帅就找不到你了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}General Lei won't be able to find you.{\r}
+Dialogue: 0,0:33:17.06,0:33:20.12,Default,,0000,0000,0000,,师父，我这样子走了，会连累你的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But what about you, master?{\r}
+Dialogue: 0,0:33:20.16,0:33:23.06,Default,,0000,0000,0000,,难道你想跟雷大帅过着一辈子吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You want to live with Lei for life?{\r}
+Dialogue: 0,0:33:23.23,0:33:24.16,Default,,0000,0000,0000,,快点去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:33:24.23,0:33:27.10,Default,,0000,0000,0000,,很难才找到像招弟逆来顺受的女孩子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti is a good girl.{\r}
+Dialogue: 0,0:33:28.00,0:33:30.16,Default,,0000,0000,0000,,不要婆婆妈妈了，女孩子不喜欢的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't act like a woman, she won't like it.{\r}
+Dialogue: 0,0:33:30.27,0:33:32.17,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:33:32.27,0:33:34.21,Default,,0000,0000,0000,,来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go ahead.{\r}
+Dialogue: 0,0:33:49.26,0:33:51.16,Default,,0000,0000,0000,,怎么样呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How's it?{\r}
+Dialogue: 0,0:33:54.23,0:33:56.06,Default,,0000,0000,0000,,你那里开花呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where does it hurt?{\r}
+Dialogue: 0,0:33:56.16,0:33:57.22,Default,,0000,0000,0000,,我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I...{\r}
+Dialogue: 0,0:34:01.17,0:34:02.19,Default,,0000,0000,0000,,他们用火烧你？    不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- They burned you with fire. - No.{\r}
+Dialogue: 0,0:34:02.27,0:34:04.00,Default,,0000,0000,0000,,用香烟烫你？    不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Burned you with cigarettes. - No.{\r}
+Dialogue: 0,0:34:04.04,0:34:05.03,Default,,0000,0000,0000,,夹你的手指？    不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Clamped your fingers. - No.{\r}
+Dialogue: 0,0:34:05.10,0:34:06.23,Default,,0000,0000,0000,,将你倒吊？    不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Hung you upside down. - No.{\r}
+Dialogue: 0,0:34:07.27,0:34:09.14,Default,,0000,0000,0000,,我不知道该怎样对你说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't know what to tell you.{\r}
+Dialogue: 0,0:34:09.24,0:34:10.23,Default,,0000,0000,0000,,当然是直接说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The truth of course.{\r}
+Dialogue: 0,0:34:11.04,0:34:12.07,Default,,0000,0000,0000,,难道还要音乐过场\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't tell me.{\r}
+Dialogue: 0,0:34:12.11,0:34:14.05,Default,,0000,0000,0000,,让你慢慢唱出来吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You need violin music.{\r}
+Dialogue: 0,0:34:16.05,0:34:18.21,Default,,0000,0000,0000,,我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I...{\r}
+Dialogue: 0,0:34:18.28,0:34:20.01,Default,,0000,0000,0000,,女人不喜欢什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What don't girls like?{\r}
+Dialogue: 0,0:34:20.09,0:34:21.14,Default,,0000,0000,0000,,快点说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get it out.{\r}
+Dialogue: 0,0:34:23.02,0:34:26.29,Default,,0000,0000,0000,,我要去另一处地方，你跟我一起走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm leaving, I want you to come with me.{\r}
+Dialogue: 0,0:34:29.20,0:34:30.22,Default,,0000,0000,0000,,是不是特别任务？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Special mission.{\r}
+Dialogue: 0,0:34:30.26,0:34:32.13,Default,,0000,0000,0000,,不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No.{\r}
+Dialogue: 0,0:34:32.20,0:34:34.03,Default,,0000,0000,0000,,军事秘密，不可以说出来的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Military secret, can't you tell?{\r}
+Dialogue: 0,0:34:34.07,0:34:35.23,Default,,0000,0000,0000,,也不是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No.{\r}
+Dialogue: 0,0:34:38.24,0:34:40.21,Default,,0000,0000,0000,,我看你们怎样也不会说出来的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know you won't tell.{\r}
+Dialogue: 0,0:34:40.27,0:34:42.14,Default,,0000,0000,0000,,你别胡思乱想了，返乡下耕田吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Never mind, go back to the old home.{\r}
+Dialogue: 0,0:34:42.24,0:34:45.07,Default,,0000,0000,0000,,招弟很好的，她又可以替你守秘密\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti is so nice. She'll keep the secret.{\r}
+Dialogue: 0,0:34:45.14,0:34:47.14,Default,,0000,0000,0000,,如果他欺负你，你告诉我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tell me.{\r}
+Dialogue: 0,0:34:47.21,0:34:49.15,Default,,0000,0000,0000,,让我教训他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If he mistreats you.{\r}
+Dialogue: 0,0:34:51.08,0:34:54.21,Default,,0000,0000,0000,,师父，我们要走了，你要好好保重\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take care, master, we're going.{\r}
+Dialogue: 0,0:35:00.13,0:35:03.10,Default,,0000,0000,0000,,来喜，你忘了那个宝贝了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi, you're forgotten your thing.{\r}
+Dialogue: 0,0:35:03.16,0:35:04.29,Default,,0000,0000,0000,,宝贝？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thing?{\r}
+Dialogue: 0,0:35:06.07,0:35:08.12,Default,,0000,0000,0000,,有宝贝也不告诉我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why didn't you mention this?{\r}
+Dialogue: 0,0:35:10.24,0:35:11.17,Default,,0000,0000,0000,,是什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What is it?{\r}
+Dialogue: 0,0:35:11.24,0:35:13.10,Default,,0000,0000,0000,,是他的小祖宗\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's his thing.{\r}
+Dialogue: 0,0:35:25.02,0:35:26.18,Default,,0000,0000,0000,,你不是革命党？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You're not a rebel.{\r}
+Dialogue: 0,0:35:26.29,0:35:28.15,Default,,0000,0000,0000,,我是公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a eunuch.{\r}
+Dialogue: 0,0:35:39.03,0:35:40.19,Default,,0000,0000,0000,,我不是想骗你的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I didn't mean to lie.{\r}
+Dialogue: 0,0:35:40.27,0:35:44.03,Default,,0000,0000,0000,,我是个乖儿子，又不风流，又不赌钱\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a good man, no fooling around, no gambling.{\r}
+Dialogue: 0,0:35:45.17,0:35:46.23,Default,,0000,0000,0000,,你又说不计较的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You'd said you didn't mind.{\r}
+Dialogue: 0,0:35:48.01,0:35:50.24,Default,,0000,0000,0000,,走开，你们两只怪物\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go away, you two freaks.{\r}
+Dialogue: 0,0:35:51.01,0:35:52.07,Default,,0000,0000,0000,,我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I?{\r}
+Dialogue: 0,0:36:08.06,0:36:11.22,Default,,0000,0000,0000,,她不走，你自己走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}She changes her mind. Go alone.{\r}
+Dialogue: 0,0:36:15.27,0:36:17.20,Default,,0000,0000,0000,,我是公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a eunuch.{\r}
+Dialogue: 0,0:36:17.27,0:36:20.24,Default,,0000,0000,0000,,我到那里人家也把我当怪物看待\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll be treated as a freak.{\r}
+Dialogue: 0,0:36:23.18,0:36:26.08,Default,,0000,0000,0000,,你入宫吧，军阀不能进紫禁城拉人的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go to the Palace. You're safe there.{\r}
+Dialogue: 0,0:36:26.15,0:36:28.17,Default,,0000,0000,0000,,在那里，就没有人把你当怪物看待\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No one will treat you like a freak there.{\r}
+Dialogue: 0,0:36:28.25,0:36:31.01,Default,,0000,0000,0000,,但是你说过不要做太监的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But you told me not to go to the Palace.{\r}
+Dialogue: 0,0:36:31.08,0:36:32.24,Default,,0000,0000,0000,,没有，我没有说过\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I didn't say that.{\r}
+Dialogue: 0,0:36:32.29,0:36:35.05,Default,,0000,0000,0000,,只要你挺着胸膛做人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hold your head high{\r}
+Dialogue: 0,0:36:35.09,0:36:36.99,Default,,0000,0000,0000,,做一个硬桥硬马的太监\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}be a proud eunuch.{\r}
+Dialogue: 0,0:36:37.06,0:36:38.15,Default,,0000,0000,0000,,太监也是人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A eunuch has dignity too.{\r}
+Dialogue: 0,0:36:38.22,0:36:41.13,Default,,0000,0000,0000,,唱戏是骗饭吃，做太监也是骗饭吃
+Dialogue: 0,0:36:41.19,0:36:43.09,Default,,0000,0000,0000,,没有分别的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Just like being an actor.{\r}
+Dialogue: 0,0:36:49.17,0:36:50.23,Default,,0000,0000,0000,,跟公公请安\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My respect to you, sir.{\r}
+Dialogue: 0,0:36:50.27,0:36:51.26,Default,,0000,0000,0000,,师父\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Master.{\r}
+Dialogue: 0,0:36:52.04,0:36:53.20,Default,,0000,0000,0000,,站着，做个堂堂正正\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stand straight.{\r}
+Dialogue: 0,0:36:53.24,0:36:55.14,Default,,0000,0000,0000,,有骨气、有男子气慨的太监\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Be proud, be a man.{\r}
+Dialogue: 0,0:36:55.21,0:36:56.27,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:36:57.04,0:36:58.24,Default,,0000,0000,0000,,太监是这样说话的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is that how a eunuch would say it?{\r}
+Dialogue: 0,0:36:59.11,0:37:00.27,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:37:09.19,0:37:12.02,Default,,0000,0000,0000,,用心干吧    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Be good. - Yes.{\r}
+Dialogue: 0,0:37:13.13,0:37:14.25,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:37:15.19,0:37:17.09,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:37:26.21,0:37:30.04,Default,,0000,0000,0000,,弃我去者，昨日之日不可留\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yesterday has left me irretrievably.{\r}
+Dialogue: 0,0:37:30.08,0:37:33.17,Default,,0000,0000,0000,,乱我心者，今日之日多烦优\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Today weighs me down with worries.{\r}
+Dialogue: 0,0:37:33.25,0:37:36.01,Default,,0000,0000,0000,,长风万里送秋雁\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Send off those migratory birds.{\r}
+Dialogue: 0,0:37:36.05,0:37:40.11,Default,,0000,0000,0000,,对此可以酣高楼\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And sleep off the day in style.{\r}
+Dialogue: 0,0:38:01.04,0:38:02.20,Default,,0000,0000,0000,,你是革命党？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are a rebel?{\r}
+Dialogue: 0,0:38:03.24,0:38:04.17,Default,,0000,0000,0000,,那个乱党走了那里去？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's the rebel?{\r}
+Dialogue: 0,0:38:04.28,0:38:07.18,Default,,0000,0000,0000,,再到胭脂胡同里搜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So seraph the whore houses.{\r}
+Dialogue: 0,0:38:11.02,0:38:12.99,Default,,0000,0000,0000,,好像有人呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Someone is there.{\r}
+Dialogue: 0,0:38:40.15,0:38:41.14,Default,,0000,0000,0000,,就是这个了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's him.{\r}
+Dialogue: 0,0:38:45.12,0:38:47.05,Default,,0000,0000,0000,,顶包来的，小小意思\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A fill in. Just a little gesture.{\r}
+Dialogue: 0,0:38:51.29,0:38:53.26,Default,,0000,0000,0000,,李爷，你漏掉了东西\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You have left something.{\r}
+Dialogue: 0,0:38:55.09,0:38:56.19,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:39:10.18,0:39:12.01,Default,,0000,0000,0000,,叫他进来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ask him to come in.{\r}
+Dialogue: 0,0:39:12.08,0:39:13.14,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:39:20.02,0:39:22.08,Default,,0000,0000,0000,,进去吧，跪呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go in. Kneel down.{\r}
+Dialogue: 0,0:39:24.26,0:39:26.09,Default,,0000,0000,0000,,跪呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Kneel down.{\r}
+Dialogue: 0,0:39:27.26,0:39:29.99,Default,,0000,0000,0000,,启禀丁公公，就是这个\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}This is the one, Lord Ting.{\r}
+Dialogue: 0,0:39:30.06,0:39:32.22,Default,,0000,0000,0000,,谢谢丁公公收留，丁公公福寿无疆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Long live Lord Ting.{\r}
+Dialogue: 0,0:39:33.10,0:39:34.26,Default,,0000,0000,0000,,叫什么名字呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's your name?{\r}
+Dialogue: 0,0:39:35.13,0:39:37.13,Default,,0000,0000,0000,,小人姓刘，乡下的人叫我来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My name is Liu, they call me Laishi.{\r}
+Dialogue: 0,0:39:37.20,0:39:39.23,Default,,0000,0000,0000,,戏班师父叫我玉兰\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My opera master calls me Yu Lan.{\r}
+Dialogue: 0,0:39:40.17,0:39:41.20,Default,,0000,0000,0000,,奴才该死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Forgive me, My lord.{\r}
+Dialogue: 0,0:39:41.27,0:39:44.04,Default,,0000,0000,0000,,你不是小人，你是奴才\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You now call yourself a servant.{\r}
+Dialogue: 0,0:39:44.11,0:39:46.04,Default,,0000,0000,0000,,你不是来喜，你是春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are no longer Laishi, you are Chun Lu.{\r}
+Dialogue: 0,0:39:46.15,0:39:47.24,Default,,0000,0000,0000,,公公知道你是冒充\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His lordship knows you are a fill-in.{\r}
+Dialogue: 0,0:39:48.11,0:39:51.24,Default,,0000,0000,0000,,但是不喜欢亲口听你说，明白吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But he doesn't like to know it from you.{\r}
+Dialogue: 0,0:39:53.25,0:39:55.22,Default,,0000,0000,0000,,你究竟叫什么名字？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's your name?{\r}
+Dialogue: 0,0:39:55.29,0:39:56.25,Default,,0000,0000,0000,,奴才…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant...{\r}
+Dialogue: 0,0:39:57.02,0:39:58.18,Default,,0000,0000,0000,,奴才？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your name.{\r}
+Dialogue: 0,0:39:59.02,0:40:00.18,Default,,0000,0000,0000,,春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu.{\r}
+Dialogue: 0,0:40:01.09,0:40:02.22,Default,,0000,0000,0000,,春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu.{\r}
+Dialogue: 0,0:40:03.10,0:40:04.26,Default,,0000,0000,0000,,验明正身没有？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have you checked his purity?{\r}
+Dialogue: 0,0:40:05.03,0:40:06.09,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:40:17.18,0:40:19.17,Default,,0000,0000,0000,,回公公，非常干净\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Very clean, my lord.{\r}
+Dialogue: 0,0:40:19.28,0:40:23.04,Default,,0000,0000,0000,,好，春禄，宫中有很多礼法\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good, there is a lot to be learned.{\r}
+Dialogue: 0,0:40:23.12,0:40:25.28,Default,,0000,0000,0000,,譬如叩头请安、倒茶递水\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}All the rituals and procedures.{\r}
+Dialogue: 0,0:40:26.05,0:40:28.21,Default,,0000,0000,0000,,传话、回话，都有一定的规矩\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}All are governed by rules.{\r}
+Dialogue: 0,0:40:28.25,0:40:32.05,Default,,0000,0000,0000,,你多点向李爷学习，以后跟着李爷\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Learn it from Lee, he'll teach you.{\r}
+Dialogue: 0,0:40:32.12,0:40:34.02,Default,,0000,0000,0000,,不要丢我的脸呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't let me down.{\r}
+Dialogue: 0,0:40:34.13,0:40:35.18,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:40:36.10,0:40:37.96,Default,,0000,0000,0000,,喳\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:40:38.10,0:40:39.12,Default,,0000,0000,0000,,喳\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:40:39.20,0:40:41.10,Default,,0000,0000,0000,,老夫十三岁入宫\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I came in at 13.{\r}
+Dialogue: 0,0:40:41.17,0:40:46.26,Default,,0000,0000,0000,,亲眼看见先帝登基大婚，变法维新\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have witnessed everything.{\r}
+Dialogue: 0,0:40:47.01,0:40:49.10,Default,,0000,0000,0000,,老佛爷两度垂帘听政\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The Dowager's sovereign.{\r}
+Dialogue: 0,0:40:49.18,0:40:52.08,Default,,0000,0000,0000,,红毛鬼一把火烧毁圆明园\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The burning of the Yuan Ming Yuan.{\r}
+Dialogue: 0,0:40:52.18,0:40:56.08,Default,,0000,0000,0000,,珍贵人跳井自尽，先帝驾崩\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The murder of Lady Jane. The emperor's death.{\r}
+Dialogue: 0,0:40:56.18,0:40:58.12,Default,,0000,0000,0000,,到现在皇上说要大婚\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Now the young emperor's wedding?{\r}
+Dialogue: 0,0:40:58.18,0:41:01.09,Default,,0000,0000,0000,,由一条开档裤到现在同皇后主子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A long journey of life.{\r}
+Dialogue: 0,0:41:01.19,0:41:02.21,Default,,0000,0000,0000,,同一个灶吃饭
+Dialogue: 0,0:41:02.29,0:41:06.12,Default,,0000,0000,0000,,都是先帝所赐，老夫无以为报\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}All under the grace of the late emperor.{\r}
+Dialogue: 0,0:41:06.23,0:41:09.22,Default,,0000,0000,0000,,只希望你们勤勤力力侍奉皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I only wish you would serve His Majesty well.{\r}
+Dialogue: 0,0:41:09.30,0:41:10.23,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:41:10.26,0:41:12.99,Default,,0000,0000,0000,,奴才一定尽心服侍丁公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll serve My lord with all my heart.{\r}
+Dialogue: 0,0:41:13.17,0:41:16.03,Default,,0000,0000,0000,,他日有机会服侍万岁爷\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll do anything for His Majesty.{\r}
+Dialogue: 0,0:41:16.10,0:41:17.13,Default,,0000,0000,0000,,一定赴汤蹈火
+Dialogue: 0,0:41:17.17,0:41:19.03,Default,,0000,0000,0000,,皇上才是真命天子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty is the true leader.{\r}
+Dialogue: 0,0:41:19.10,0:41:21.04,Default,,0000,0000,0000,,我有机会一定效忠皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll be loyal to His Majesty.{\r}
+Dialogue: 0,0:41:21.14,0:41:22.20,Default,,0000,0000,0000,,报答皇上、服侍皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To pay back his generosity.{\r}
+Dialogue: 0,0:41:22.27,0:41:24.14,Default,,0000,0000,0000,,谢谢皇上恩典\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:41:24.18,0:41:27.01,Default,,0000,0000,0000,,好，小李，传话管事房\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Give him some silver coins.{\r}
+Dialogue: 0,0:41:27.08,0:41:28.24,Default,,0000,0000,0000,,赐春禄白银二两
+Dialogue: 0,0:41:29.08,0:41:30.11,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:41:30.18,0:41:31.21,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:41:32.02,0:41:33.04,Default,,0000,0000,0000,,以前老佛爷喜欢听戏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I learned singing.{\r}
+Dialogue: 0,0:41:33.12,0:41:35.11,Default,,0000,0000,0000,,我特意请你师父教我唱几句\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}With your master.{\r}
+Dialogue: 0,0:41:35.19,0:41:39.09,Default,,0000,0000,0000,,想不到一开腔老佛爷就死了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Before I could sing for the Dowager. She died.{\r}
+Dialogue: 0,0:41:39.16,0:41:41.15,Default,,0000,0000,0000,,你师父关照到我，我一定会照顾你我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll take care of you for your master.{\r}
+Dialogue: 0,0:41:41.23,0:41:43.09,Default,,0000,0000,0000,,要用心学呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Learn well.{\r}
+Dialogue: 0,0:41:48.10,0:41:49.19,Default,,0000,0000,0000,,宝贝呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where's your thing?{\r}
+Dialogue: 0,0:41:50.10,0:41:52.00,Default,,0000,0000,0000,,拿出来吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take it out.{\r}
+Dialogue: 0,0:42:06.29,0:42:08.19,Default,,0000,0000,0000,,李爷，他干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are they doing?{\r}
+Dialogue: 0,0:42:08.25,0:42:13.02,Default,,0000,0000,0000,,他们现在用石灰粉替你把宝贝腌了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To put it in calcium powder.{\r}
+Dialogue: 0,0:42:13.09,0:42:15.99,Default,,0000,0000,0000,,到你以后离开时候，就把宝贝还给你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It'll be returned to you when you leave.{\r}
+Dialogue: 0,0:42:16.16,0:42:18.06,Default,,0000,0000,0000,,跟我来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Follow me.{\r}
+Dialogue: 0,0:42:37.15,0:42:39.08,Default,,0000,0000,0000,,宝贝房？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The "thing" room?{\r}
+Dialogue: 0,0:42:39.25,0:42:41.19,Default,,0000,0000,0000,,是呀，我们每个人的宝贝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Everyone's thing is here.{\r}
+Dialogue: 0,0:42:41.22,0:42:42.28,Default,,0000,0000,0000,,都是放在这里的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's mine.{\r}
+Dialogue: 0,0:42:43.06,0:42:44.22,Default,,0000,0000,0000,,那个就是我的
+Dialogue: 0,0:42:47.23,0:42:52.03,Default,,0000,0000,0000,,兄弟，很久没见，别来无恙吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Long time no see, brother. What's up?{\r}
+Dialogue: 0,0:42:56.14,0:42:59.07,Default,,0000,0000,0000,,放这么低，地气重，很容易会发霉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lt'll catch the moisture down here.{\r}
+Dialogue: 0,0:42:59.10,0:43:01.04,Default,,0000,0000,0000,,你新来的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's where you start.{\r}
+Dialogue: 0,0:43:01.17,0:43:04.17,Default,,0000,0000,0000,,以前李莲英那个就放在那里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The most honored one up there.{\r}
+Dialogue: 0,0:43:04.24,0:43:05.27,Default,,0000,0000,0000,,所以要勤力一点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}One step at a time.{\r}
+Dialogue: 0,0:43:06.05,0:43:09.21,Default,,0000,0000,0000,,步步高升，就不会生虫了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Work hard.{\r}
+Dialogue: 0,0:43:10.02,0:43:11.11,Default,,0000,0000,0000,,是呀，是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, yes.{\r}
+Dialogue: 0,0:43:16.09,0:43:18.18,Default,,0000,0000,0000,,这个是丁公公的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's Lord Ting's.{\r}
+Dialogue: 0,0:43:22.03,0:43:24.15,Default,,0000,0000,0000,,用多点心思去学习吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Work harder.{\r}
+Dialogue: 0,0:43:48.22,0:43:50.05,Default,,0000,0000,0000,,李爷，为什么要到玉泉山取水呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why go to Jade Spring Hill for water?{\r}
+Dialogue: 0,0:43:50.12,0:43:53.22,Default,,0000,0000,0000,,皇上喜欢喝玉泉山的水没有苦涩味\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty likes the water there.{\r}
+Dialogue: 0,0:43:54.03,0:43:56.26,Default,,0000,0000,0000,,又请不起苏拉，只有你和我去做\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}There's no other hands, just you and me.{\r}
+Dialogue: 0,0:43:57.03,0:43:59.16,Default,,0000,0000,0000,,给皇上喝，辛苦一点也是应该的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's tough, but then it's for His Majesty.{\r}
+Dialogue: 0,0:43:59.23,0:44:01.13,Default,,0000,0000,0000,,不辛苦，是优差呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's not tough at all.{\r}
+Dialogue: 0,0:44:01.20,0:44:02.22,Default,,0000,0000,0000,,为什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why?{\r}
+Dialogue: 0,0:44:02.27,0:44:04.20,Default,,0000,0000,0000,,取水嘛\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You'll see.{\r}
+Dialogue: 0,0:44:19.18,0:44:22.15,Default,,0000,0000,0000,,春禄，你等我一会，我很快就回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wait for me, be right back.{\r}
+Dialogue: 0,0:44:29.09,0:44:31.15,Default,,0000,0000,0000,,李爷，用不用帮忙？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Can I help?{\r}
+Dialogue: 0,0:44:31.23,0:44:33.16,Default,,0000,0000,0000,,不用，在这里等我吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, wait here.{\r}
+Dialogue: 0,0:44:38.10,0:44:39.16,Default,,0000,0000,0000,,请\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please.{\r}
+Dialogue: 0,0:45:00.03,0:45:00.99,Default,,0000,0000,0000,,还有什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What else?{\r}
+Dialogue: 0,0:45:01.09,0:45:02.08,Default,,0000,0000,0000,,还有个钟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A clock.{\r}
+Dialogue: 0,0:45:02.13,0:45:03.12,Default,,0000,0000,0000,,究竟是不是宫中珍品？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are those treasures from the Palace?{\r}
+Dialogue: 0,0:45:03.20,0:45:05.16,Default,,0000,0000,0000,,奴才该死，奴才不知宫中有什么珍品\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant wouldn't know.{\r}
+Dialogue: 0,0:45:05.23,0:45:06.99,Default,,0000,0000,0000,,李胖子有没有赏赐给你？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Has Lee given you money?{\r}
+Dialogue: 0,0:45:07.07,0:45:08.23,Default,,0000,0000,0000,,有，不过奴才没有要\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, but your servant refused.{\r}
+Dialogue: 0,0:45:09.00,0:45:10.99,Default,,0000,0000,0000,,起来    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Rise. - Yes.{\r}
+Dialogue: 0,0:45:12.30,0:45:14.14,Default,,0000,0000,0000,,大清有救了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}There's hope for the Ching Dynasty.{\r}
+Dialogue: 0,0:45:14.21,0:45:17.07,Default,,0000,0000,0000,,春禄，我们不可以纵容这班败类\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We can't let them go on.{\r}
+Dialogue: 0,0:45:17.11,0:45:18.08,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:45:18.14,0:45:21.01,Default,,0000,0000,0000,,奴才从明天开始，不再替李爷送赃物\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant will stop smuggling treasures.{\r}
+Dialogue: 0,0:45:21.05,0:45:22.24,Default,,0000,0000,0000,,不可以，一定要送\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, you must go on.{\r}
+Dialogue: 0,0:45:23.05,0:45:24.24,Default,,0000,0000,0000,,你知不知道我准备找谁人呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You know who I'm going to see?{\r}
+Dialogue: 0,0:45:25.02,0:45:25.28,Default,,0000,0000,0000,,奴才不知道\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant wouldn't know.{\r}
+Dialogue: 0,0:45:26.02,0:45:27.08,Default,,0000,0000,0000,,你不要告诉别人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The master.{\r}
+Dialogue: 0,0:45:27.15,0:45:29.28,Default,,0000,0000,0000,,我找大总管商量商量\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't tell anyone else.{\r}
+Dialogue: 0,0:45:30.02,0:45:33.05,Default,,0000,0000,0000,,到时你要做证人，我要人赃并获\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You'll be witness. Catch them red-handed.{\r}
+Dialogue: 0,0:45:33.23,0:45:36.02,Default,,0000,0000,0000,,是，奴才一定会守秘密\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, at your service.{\r}
+Dialogue: 0,0:45:37.03,0:45:39.19,Default,,0000,0000,0000,,我很久没有听到人叫得这么正义凛然\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Such refreshing words.{\r}
+Dialogue: 0,0:45:40.10,0:45:44.04,Default,,0000,0000,0000,,老佛爷有次游园赏花，赞我叫得响亮\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The Dowager was once so pleased with my voice?{\r}
+Dialogue: 0,0:45:44.10,0:45:46.04,Default,,0000,0000,0000,,我毕生难忘\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Unforgettable.{\r}
+Dialogue: 0,0:45:46.11,0:45:48.07,Default,,0000,0000,0000,,真是虎父无犬子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Like father like son.{\r}
+Dialogue: 0,0:45:48.14,0:45:49.20,Default,,0000,0000,0000,,再叫呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}One more time.{\r}
+Dialogue: 0,0:45:50.01,0:45:50.98,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:45:51.08,0:45:52.17,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:45:53.05,0:45:54.17,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:45:55.01,0:45:56.21,Default,,0000,0000,0000,,再多叫一次\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}One more time.{\r}
+Dialogue: 0,0:45:57.05,0:45:58.18,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:46:03.12,0:46:04.02,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:46:04.09,0:46:06.06,Default,,0000,0000,0000,,有人偷运宝物，立刻搜查水车\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Check the cart for smuggling.{\r}
+Dialogue: 0,0:46:06.13,0:46:07.18,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:46:22.14,0:46:23.07,Default,,0000,0000,0000,,有没有发现？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Anything?{\r}
+Dialogue: 0,0:46:23.14,0:46:24.20,Default,,0000,0000,0000,,没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No.{\r}
+Dialogue: 0,0:46:29.11,0:46:30.27,Default,,0000,0000,0000,,报告，没有发现\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Nothing.{\r}
+Dialogue: 0,0:46:31.12,0:46:32.21,Default,,0000,0000,0000,,收队\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Call if off.{\r}
+Dialogue: 0,0:46:32.28,0:46:34.01,Default,,0000,0000,0000,,你们走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go.{\r}
+Dialogue: 0,0:46:34.22,0:46:36.05,Default,,0000,0000,0000,,等一等…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wait.{\r}
+Dialogue: 0,0:46:38.09,0:46:39.22,Default,,0000,0000,0000,,宝物在这里呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The goods are here.{\r}
+Dialogue: 0,0:46:39.29,0:46:41.23,Default,,0000,0000,0000,,是他偷出去卖的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's responsible.{\r}
+Dialogue: 0,0:46:43.06,0:46:46.03,Default,,0000,0000,0000,,是，是他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, it's him.{\r}
+Dialogue: 0,0:46:46.10,0:46:47.26,Default,,0000,0000,0000,,不错，是他，捉住他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, get him.{\r}
+Dialogue: 0,0:46:48.03,0:46:49.13,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:46:49.27,0:46:51.20,Default,,0000,0000,0000,,宝物是他偷的，不关我的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He did it, I'm innocent.{\r}
+Dialogue: 0,0:46:51.27,0:46:53.17,Default,,0000,0000,0000,,我只是看见你一个人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I saw you only.{\r}
+Dialogue: 0,0:46:53.24,0:46:55.10,Default,,0000,0000,0000,,你等着去午门斩首吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You're as good as dead.{\r}
+Dialogue: 0,0:46:55.21,0:46:57.04,Default,,0000,0000,0000,,抓他回去，快点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take him back, quick.{\r}
+Dialogue: 0,0:46:57.08,0:46:58.98,Default,,0000,0000,0000,,冤枉呀，不关我的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm innocent.{\r}
+Dialogue: 0,0:46:59.08,0:47:00.24,Default,,0000,0000,0000,,是他呀，冤枉呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's him, I'm innocent.{\r}
+Dialogue: 0,0:47:01.08,0:47:03.21,Default,,0000,0000,0000,,一、二、三、四、五\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}1, 2, 3, 4, 5.{\r}
+Dialogue: 0,0:47:03.25,0:47:07.98,Default,,0000,0000,0000,,六、七、八、九、十\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}6, 7, 8, 9, 10.{\r}
+Dialogue: 0,0:47:08.05,0:47:10.11,Default,,0000,0000,0000,,十一、十二、十三\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}11, 12, 13.{\r}
+Dialogue: 0,0:47:10.16,0:47:12.99,Default,,0000,0000,0000,,十四、十五、十六\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}14, 15, 16.{\r}
+Dialogue: 0,0:47:15.26,0:47:21.13,Default,,0000,0000,0000,,十七、十八、十九、二十\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}17, 18, 19, 20.{\r}
+Dialogue: 0,0:47:30.18,0:47:34.27,Default,,0000,0000,0000,,兄弟，可不可以拿杯水给我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Buddy, can I have some water?{\r}
+Dialogue: 0,0:47:35.05,0:47:36.21,Default,,0000,0000,0000,,你还有知觉喝水？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Can you feel thirst?{\r}
+Dialogue: 0,0:47:36.28,0:47:39.22,Default,,0000,0000,0000,,如果不是皇上大婚，你早就被斩头了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You're a dead man but for the royal wedding.{\r}
+Dialogue: 0,0:47:40.02,0:47:42.08,Default,,0000,0000,0000,,求求你，我真的很口喝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please, I'm so thirsty.{\r}
+Dialogue: 0,0:47:42.15,0:47:44.21,Default,,0000,0000,0000,,可以，先叫我做契爷\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright, but call me sugar-daddy.{\r}
+Dialogue: 0,0:47:45.12,0:47:46.25,Default,,0000,0000,0000,,契爷\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sugar-daddy.{\r}
+Dialogue: 0,0:47:50.13,0:47:51.06,Default,,0000,0000,0000,,公公吉祥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your lordship.{\r}
+Dialogue: 0,0:47:51.16,0:47:53.22,Default,,0000,0000,0000,,你们不要再耍我了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't play jokes on me, please.{\r}
+Dialogue: 0,0:47:54.27,0:47:57.03,Default,,0000,0000,0000,,奴才该死…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant's at your mercy.{\r}
+Dialogue: 0,0:48:02.17,0:48:03.27,Default,,0000,0000,0000,,公公吉祥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your lordship.{\r}
+Dialogue: 0,0:48:04.01,0:48:08.04,Default,,0000,0000,0000,,春福，你们俩去御茶房拿酸梅汤来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Fu, get me some plum juice.{\r}
+Dialogue: 0,0:48:08.11,0:48:09.27,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:48:15.05,0:48:17.11,Default,,0000,0000,0000,,敬事房、交泰殿、内左门、内右门\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It is a conspiracy of the grandest scale.{\r}
+Dialogue: 0,0:48:17.19,0:48:18.18,Default,,0000,0000,0000,,干清门、御书房
+Dialogue: 0,0:48:18.22,0:48:20.99,Default,,0000,0000,0000,,十三宫的总管首领串同一起\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Masters of 13 houses are all in it.{\r}
+Dialogue: 0,0:48:21.06,0:48:23.22,Default,,0000,0000,0000,,你是不是走黑运呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tough luck for you.{\r}
+Dialogue: 0,0:48:24.23,0:48:26.20,Default,,0000,0000,0000,,是，奴才该死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, "your servant" deserves it.{\r}
+Dialogue: 0,0:48:26.27,0:48:28.17,Default,,0000,0000,0000,,大清二百多年的国宝，古玩文物\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The historical treasures of Ching.{\r}
+Dialogue: 0,0:48:28.23,0:48:30.17,Default,,0000,0000,0000,,竟然当废物论斤的卖给人家\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Being sold like junk.{\r}
+Dialogue: 0,0:48:30.27,0:48:33.20,Default,,0000,0000,0000,,皇上被小人蒙蔽\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty has been deceived.{\r}
+Dialogue: 0,0:48:33.27,0:48:35.24,Default,,0000,0000,0000,,如果这些事发生在十年前\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If all this happened 10 years ago.{\r}
+Dialogue: 0,0:48:35.27,0:48:38.07,Default,,0000,0000,0000,,我要好好惩诫这班卖国贼\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I would have them executed.{\r}
+Dialogue: 0,0:48:38.14,0:48:41.11,Default,,0000,0000,0000,,但是现在过了十年，那怎么办？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But this is not 10 years ago.{\r}
+Dialogue: 0,0:48:44.18,0:48:47.05,Default,,0000,0000,0000,,春禄，让你的伤好了之后\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu, when you are recovered.{\r}
+Dialogue: 0,0:48:47.15,0:48:50.28,Default,,0000,0000,0000,,我要你直谏皇上，你能做得到吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want you to report it to His Majesty.{\r}
+Dialogue: 0,0:48:51.16,0:48:53.15,Default,,0000,0000,0000,,是，奴才做得到\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, your servant will do so.{\r}
+Dialogue: 0,0:48:53.23,0:48:55.02,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:48:55.13,0:48:58.10,Default,,0000,0000,0000,,我会替你好好安排…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll arrange it for you, I will.{\r}
+Dialogue: 0,0:48:58.16,0:49:01.00,Default,,0000,0000,0000,,大清有救了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}There's hope for the Ching Dynasty.{\r}
+Dialogue: 0,0:49:01.27,0:49:03.26,Default,,0000,0000,0000,,奴才该死…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant's at your mercy.{\r}
+Dialogue: 0,0:49:04.04,0:49:06.13,Default,,0000,0000,0000,,该死的不只你一个\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not just you.{\r}
+Dialogue: 0,0:49:14.18,0:49:17.05,Default,,0000,0000,0000,,娘娘贺寿，你安排的那出戏唱得真好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It was a good show.{\r}
+Dialogue: 0,0:49:17.12,0:49:18.08,Default,,0000,0000,0000,,叫什么呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For Her Highness's birthday.{\r}
+Dialogue: 0,0:49:18.15,0:49:20.02,Default,,0000,0000,0000,,八仙贺寿\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That was "The 8 fairies' birthday gifts".{\r}
+Dialogue: 0,0:49:20.09,0:49:21.21,Default,,0000,0000,0000,,这是小人该做的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Just part of my duty.{\r}
+Dialogue: 0,0:49:21.25,0:49:25.05,Default,,0000,0000,0000,,替主子安排玩乐是小人的责任\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To entertain the masters.{\r}
+Dialogue: 0,0:49:25.09,0:49:27.25,Default,,0000,0000,0000,,对了，丁公公，你叫小人来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Oh, Lord Ting.{\r}
+Dialogue: 0,0:49:28.03,0:49:29.19,Default,,0000,0000,0000,,不知道有什么事呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is there anything I can do for you?{\r}
+Dialogue: 0,0:49:29.26,0:49:32.13,Default,,0000,0000,0000,,没什么，我种了一盆未成器的盆栽\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have this budding plant.{\r}
+Dialogue: 0,0:49:32.20,0:49:35.19,Default,,0000,0000,0000,,请赵公公你过目，指点指点\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Which I would like you to see and comment of.{\r}
+Dialogue: 0,0:49:35.27,0:49:37.20,Default,,0000,0000,0000,,不敢当，我是外行\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I am no expert.{\r}
+Dialogue: 0,0:49:37.27,0:49:39.13,Default,,0000,0000,0000,,你是内行\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are so.{\r}
+Dialogue: 0,0:49:39.17,0:49:41.07,Default,,0000,0000,0000,,不，我是外行\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, I am not.{\r}
+Dialogue: 0,0:49:41.27,0:49:43.97,Default,,0000,0000,0000,,以后你就要多多关照了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Keep an eye on it then, please.{\r}
+Dialogue: 0,0:49:44.04,0:49:45.98,Default,,0000,0000,0000,,你太瞧得起我了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Very flattering.{\r}
+Dialogue: 0,0:50:12.07,0:50:13.13,Default,,0000,0000,0000,,你班奴才在这里干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are you doing?{\r}
+Dialogue: 0,0:50:13.21,0:50:14.19,Default,,0000,0000,0000,,还不快去做工\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go get some work done.{\r}
+Dialogue: 0,0:50:14.27,0:50:16.14,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:50:19.04,0:50:20.20,Default,,0000,0000,0000,,你过来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come over here.{\r}
+Dialogue: 0,0:50:27.05,0:50:29.08,Default,,0000,0000,0000,,丁公公吉祥，赵公公吉祥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lord Ting, Lord Chao.{\r}
+Dialogue: 0,0:50:29.12,0:50:31.06,Default,,0000,0000,0000,,奴才以后也不敢那么放肆了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant will be more disciplined.{\r}
+Dialogue: 0,0:50:31.12,0:50:34.15,Default,,0000,0000,0000,,这段贵妃醉酒的身段、神情都不错呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That was a good "Drunken Empress".{\r}
+Dialogue: 0,0:50:34.23,0:50:35.25,Default,,0000,0000,0000,,他叫春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He is Chun Lu.{\r}
+Dialogue: 0,0:50:36.03,0:50:36.26,Default,,0000,0000,0000,,春禄    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Chun Lu. - Yes.{\r}
+Dialogue: 0,0:50:37.03,0:50:38.00,Default,,0000,0000,0000,,回赵公公话\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lord Chao wants to know{\r}
+Dialogue: 0,0:50:38.06,0:50:39.19,Default,,0000,0000,0000,,赵公公问你除了贵妃醉酒之外\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}your repertoire.{\r}
+Dialogue: 0,0:50:39.26,0:50:42.10,Default,,0000,0000,0000,,还会什么，告诉赵公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Answer Lord Chao.{\r}
+Dialogue: 0,0:50:42.13,0:50:44.00,Default,,0000,0000,0000,,回赵公公，奴才还会三娘教子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Mother and Son, "The Bridge".{\r}
+Dialogue: 0,0:50:44.07,0:50:45.04,Default,,0000,0000,0000,,灞桥挑袍\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The Robe.{\r}
+Dialogue: 0,0:50:45.10,0:50:47.04,Default,,0000,0000,0000,,玉堂春、宇宙锋、甘露寺\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Spring Chamber, "The Temple".{\r}
+Dialogue: 0,0:50:47.11,0:50:48.00,Default,,0000,0000,0000,,不错\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not bad.{\r}
+Dialogue: 0,0:50:48.07,0:50:50.01,Default,,0000,0000,0000,,他懂得不少了    是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- That's quite impressive. - Yes.{\r}
+Dialogue: 0,0:50:50.11,0:50:51.23,Default,,0000,0000,0000,,真是英雄出少年\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The young are getting better these days.{\r}
+Dialogue: 0,0:50:51.28,0:50:53.11,Default,,0000,0000,0000,,是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:50:57.15,0:51:00.05,Default,,0000,0000,0000,,怎么样？看得懂吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How about it? Do you understand?{\r}
+Dialogue: 0,0:51:00.12,0:51:01.98,Default,,0000,0000,0000,,奴才看不懂\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not really.{\r}
+Dialogue: 0,0:51:02.05,0:51:03.15,Default,,0000,0000,0000,,跟赵公公叫我明天去戏班练功\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What has it to do with my rehearsal with Lord Chao?{\r}
+Dialogue: 0,0:51:03.22,0:51:04.25,Default,,0000,0000,0000,,有什么关係？
+Dialogue: 0,0:51:05.02,0:51:06.15,Default,,0000,0000,0000,,关係大了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A lot.{\r}
+Dialogue: 0,0:51:06.19,0:51:09.22,Default,,0000,0000,0000,,皇上每年新春，都去储秀宫听戏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty watches the opera each New Year.{\r}
+Dialogue: 0,0:51:10.00,0:51:12.26,Default,,0000,0000,0000,,你用心练习，让赵公公给一出戏你唱\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Work hard.{\r}
+Dialogue: 0,0:51:13.07,0:51:14.12,Default,,0000,0000,0000,,到时…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And get to play a role, and?{\r}
+Dialogue: 0,0:51:14.17,0:51:15.22,Default,,0000,0000,0000,,来…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come, come.{\r}
+Dialogue: 0,0:51:18.20,0:51:21.04,Default,,0000,0000,0000,,你在台上认真去唱，让皇上听得过瘾\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sing your best, when His Majesty is listening.{\r}
+Dialogue: 0,0:51:21.11,0:51:22.16,Default,,0000,0000,0000,,你不用理会打什么锣鼓\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Then never mind the accompaniment.{\r}
+Dialogue: 0,0:51:22.21,0:51:24.18,Default,,0000,0000,0000,,不用理会赵公公打眼色打到发鸡盲\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or the conducting of Lord Chao.{\r}
+Dialogue: 0,0:51:24.24,0:51:27.27,Default,,0000,0000,0000,,你一口气念这一封万言书，直谏皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Recite this report to His Majesty.{\r}
+Dialogue: 0,0:51:28.21,0:51:29.11,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:51:29.21,0:51:30.27,Default,,0000,0000,0000,,奴才就算推出午门斩首\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll recede.{\r}
+Dialogue: 0,0:51:31.05,0:51:32.11,Default,,0000,0000,0000,,都要直奸皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Even if it costs my life.{\r}
+Dialogue: 0,0:51:32.18,0:51:34.02,Default,,0000,0000,0000,,不是奸，是谏\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not recede, it's recite.{\r}
+Dialogue: 0,0:51:34.09,0:51:35.14,Default,,0000,0000,0000,,是，直谏皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, recite it.{\r}
+Dialogue: 0,0:51:35.22,0:51:37.05,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good.{\r}
+Dialogue: 0,0:51:38.19,0:51:42.99,Default,,0000,0000,0000,,公公，奴才觉得老百姓太多灾多难了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The people have been suffering for too long.{\r}
+Dialogue: 0,0:51:43.20,0:51:46.06,Default,,0000,0000,0000,,真命天子一定要重出江湖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The true emperor should make a come back.{\r}
+Dialogue: 0,0:51:46.10,0:51:49.09,Default,,0000,0000,0000,,斩奴党、杀军阀，复国安邦\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And restore the country to its old glory.{\r}
+Dialogue: 0,0:51:49.17,0:51:51.19,Default,,0000,0000,0000,,好，你跟我念\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good, say it after me.{\r}
+Dialogue: 0,0:51:51.27,0:51:52.26,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:51:53.04,0:51:54.10,Default,,0000,0000,0000,,亲爱的皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty dearest.{\r}
+Dialogue: 0,0:51:54.17,0:51:57.04,Default,,0000,0000,0000,,美丽底月亮已给漆黑底乌云盖上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The cloud hides the moon.{\r}
+Dialogue: 0,0:51:59.28,0:52:01.25,Default,,0000,0000,0000,,你一定没有听过五四运动\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Haven't you heard of the 4th May Movement?{\r}
+Dialogue: 0,0:52:02.05,0:52:03.24,Default,,0000,0000,0000,,皇上现在流行时髦了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His majesty is very fashionable.{\r}
+Dialogue: 0,0:52:04.02,0:52:07.08,Default,,0000,0000,0000,,我读了一个月，看了很多新书才写成\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've spent a whole month writing this.{\r}
+Dialogue: 0,0:52:08.05,0:52:12.11,Default,,0000,0000,0000,,你的脑袋要革命了，做太监要新潮\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You must follow the trend.{\r}
+Dialogue: 0,0:52:12.19,0:52:14.12,Default,,0000,0000,0000,,不然皇上听不入耳的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or His Majesty won't like it.{\r}
+Dialogue: 0,0:52:14.19,0:52:15.28,Default,,0000,0000,0000,,我们继续吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let us go on.{\r}
+Dialogue: 0,0:52:16.06,0:52:17.05,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:52:20.10,0:52:21.26,Default,,0000,0000,0000,,亲爱的皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty dearest.{\r}
+Dialogue: 0,0:52:22.00,0:52:23.19,Default,,0000,0000,0000,,亲爱的皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty dearest.{\r}
+Dialogue: 0,0:52:23.27,0:52:27.07,Default,,0000,0000,0000,,美丽底月亮已给漆黑底乌云盖上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The cloud hides the moon.{\r}
+Dialogue: 0,0:52:27.14,0:52:31.20,Default,,0000,0000,0000,,美丽底月亮已给漆黑底乌云盖上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The cloud hides the moon.{\r}
+Dialogue: 0,0:52:31.28,0:52:36.08,Default,,0000,0000,0000,,蔚蓝的天空已给黑色的、乌鸦的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The ugly wings of a crow.{\r}
+Dialogue: 0,0:52:36.11,0:52:39.08,Default,,0000,0000,0000,,丑陋的翅膀掩蔽\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hide the blue sky.{\r}
+Dialogue: 0,0:52:39.15,0:52:42.28,Default,,0000,0000,0000,,蔚蓝的天空已给黑色的、乌鸦的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The ugly wings of a crow{\r}
+Dialogue: 0,0:52:43.05,0:52:47.08,Default,,0000,0000,0000,,丑陋的翅膀掩蔽\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}hide the blue sky.{\r}
+Dialogue: 0,0:52:49.19,0:52:51.06,Default,,0000,0000,0000,,多么可怕呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So terrifying.{\r}
+Dialogue: 0,0:52:51.13,0:52:53.03,Default,,0000,0000,0000,,多么可怕呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So terrifying.{\r}
+Dialogue: 0,0:52:53.10,0:52:54.26,Default,,0000,0000,0000,,不得了啦…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Terrible news.{\r}
+Dialogue: 0,0:52:54.27,0:52:56.13,Default,,0000,0000,0000,,不得了…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Terrible news.{\r}
+Dialogue: 0,0:52:56.20,0:52:57.13,Default,,0000,0000,0000,,什么事？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What is it?{\r}
+Dialogue: 0,0:52:57.20,0:52:59.07,Default,,0000,0000,0000,,启禀公公，建福宫大火的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty is mad about the Palace fire.{\r}
+Dialogue: 0,0:52:59.14,0:53:00.16,Default,,0000,0000,0000,,皇上下诏赶我们出宫\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He has given us one hour{\r}
+Dialogue: 0,0:53:00.24,0:53:01.23,Default,,0000,0000,0000,,限一个时辰内离开\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}to leave the Palace.{\r}
+Dialogue: 0,0:53:01.27,0:53:03.07,Default,,0000,0000,0000,,不然就处死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Or be executed.{\r}
+Dialogue: 0,0:53:03.14,0:53:05.11,Default,,0000,0000,0000,,不可能的，我要去见皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Impossible, I want to see His Majesty.{\r}
+Dialogue: 0,0:53:05.18,0:53:07.11,Default,,0000,0000,0000,,春禄，你还站在这里？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't just stand there, Chun Lu.{\r}
+Dialogue: 0,0:53:07.18,0:53:10.24,Default,,0000,0000,0000,,你还不去宝贝房，当心你的宝贝没了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go get your "thing".{\r}
+Dialogue: 0,0:53:44.18,0:53:47.05,Default,,0000,0000,0000,,宝贝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thing.{\r}
+Dialogue: 0,0:53:52.02,0:53:54.08,Default,,0000,0000,0000,,我的宝贝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My thing.{\r}
+Dialogue: 0,0:53:55.13,0:53:57.03,Default,,0000,0000,0000,,春禄？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu?{\r}
+Dialogue: 0,0:54:15.11,0:54:17.05,Default,,0000,0000,0000,,我的宝贝呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My thing.{\r}
+Dialogue: 0,0:54:25.19,0:54:29.25,Default,,0000,0000,0000,,我不离开这里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't want to go.{\r}
+Dialogue: 0,0:54:30.00,0:54:36.06,Default,,0000,0000,0000,,我离开了这里，能到哪里呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where else can I go?{\r}
+Dialogue: 0,0:54:38.30,0:54:41.17,Default,,0000,0000,0000,,我不离开这里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't want to go.{\r}
+Dialogue: 0,0:54:41.24,0:54:43.00,Default,,0000,0000,0000,,人来，赶他走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come, kick him out.{\r}
+Dialogue: 0,0:54:43.07,0:54:44.17,Default,,0000,0000,0000,,黄叔，你还不走？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, Wong.{\r}
+Dialogue: 0,0:54:44.21,0:54:45.27,Default,,0000,0000,0000,,走吧…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,0:54:46.04,0:54:47.07,Default,,0000,0000,0000,,黄叔\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wong.{\r}
+Dialogue: 0,0:54:47.11,0:54:53.05,Default,,0000,0000,0000,,不要拖我走呀，我不离开这里\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't drag me, I'm not leaving.{\r}
+Dialogue: 0,0:55:32.16,0:55:37.19,Default,,0000,0000,0000,,走，走呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, go.{\r}
+Dialogue: 0,0:55:37.26,0:55:39.23,Default,,0000,0000,0000,,快点，走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry.{\r}
+Dialogue: 0,0:55:50.14,0:55:53.08,Default,,0000,0000,0000,,报告长官，乱党全部都死了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sir, all the rebels are dead.{\r}
+Dialogue: 0,0:55:54.28,0:55:56.18,Default,,0000,0000,0000,,收队    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- March homeward. - Yes.{\r}
+Dialogue: 0,0:55:58.02,0:55:59.01,Default,,0000,0000,0000,,收队\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}March homeward.{\r}
+Dialogue: 0,0:56:14.23,0:56:17.17,Default,,0000,0000,0000,,先抬他的尸体回去吧，去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Collect the corpses first, go.{\r}
+Dialogue: 0,0:56:23.27,0:56:25.14,Default,,0000,0000,0000,,招弟？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti?{\r}
+Dialogue: 0,0:56:36.22,0:56:38.12,Default,,0000,0000,0000,,你在找亲人？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You looking for someone?{\r}
+Dialogue: 0,0:56:38.22,0:56:40.09,Default,,0000,0000,0000,,捉了个革命党\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Caught another rebel.{\r}
+Dialogue: 0,0:56:40.19,0:56:41.25,Default,,0000,0000,0000,,又一个了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Another one.{\r}
+Dialogue: 0,0:56:43.26,0:56:47.13,Default,,0000,0000,0000,,走…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, go.{\r}
+Dialogue: 0,0:56:52.04,0:56:54.23,Default,,0000,0000,0000,,我知道你丈夫是革命党\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know your husband is a rebel.{\r}
+Dialogue: 0,0:57:11.29,0:57:13.15,Default,,0000,0000,0000,,大新闻…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Big news, big news.{\r}
+Dialogue: 0,0:57:13.22,0:57:16.13,Default,,0000,0000,0000,,满清最后一个皇帝被人赶出宫了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The last emperor is kicked out of the Palace.{\r}
+Dialogue: 0,0:57:16.19,0:57:18.29,Default,,0000,0000,0000,,大新闻…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Big news, big news.{\r}
+Dialogue: 0,0:57:19.06,0:57:23.00,Default,,0000,0000,0000,,满清最后一个皇帝被人赶出宫了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The last emperor is kicked out of the Palace.{\r}
+Dialogue: 0,0:57:26.07,0:57:27.23,Default,,0000,0000,0000,,妈疼你一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let mum kiss you.{\r}
+Dialogue: 0,0:57:45.16,0:57:46.21,Default,,0000,0000,0000,,这么早呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So early.{\r}
+Dialogue: 0,0:57:47.26,0:57:48.99,Default,,0000,0000,0000,,我肚子很饿\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm hungry.{\r}
+Dialogue: 0,0:57:49.06,0:57:51.09,Default,,0000,0000,0000,,今天生意很好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A good day today.{\r}
+Dialogue: 0,0:57:52.13,0:57:54.06,Default,,0000,0000,0000,,我把酸梅汤卖完了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sold all the plum juice.{\r}
+Dialogue: 0,0:57:55.23,0:57:57.13,Default,,0000,0000,0000,,我一个钱也没有了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I don't have any money.{\r}
+Dialogue: 0,0:57:57.20,0:57:59.17,Default,,0000,0000,0000,,什么呀？你要钱干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What do you need money for?{\r}
+Dialogue: 0,0:57:59.24,0:58:01.10,Default,,0000,0000,0000,,要…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Well?{\r}
+Dialogue: 0,0:58:06.14,0:58:08.11,Default,,0000,0000,0000,,要买东西送给你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To buy you something.{\r}
+Dialogue: 0,0:58:11.08,0:58:12.98,Default,,0000,0000,0000,,我储起来都是为了你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I saved it up for you.{\r}
+Dialogue: 0,0:58:13.05,0:58:16.21,Default,,0000,0000,0000,,将来不用摆档口，可以开间小店铺\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To open up a shop in the future.{\r}
+Dialogue: 0,0:58:18.09,0:58:20.22,Default,,0000,0000,0000,,将来？将来是什么时候呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Future? When?{\r}
+Dialogue: 0,0:58:21.03,0:58:22.19,Default,,0000,0000,0000,,那就要看你勤不勤力了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It depends on how hard you'll work.{\r}
+Dialogue: 0,0:58:36.31,0:58:40.11,Default,,0000,0000,0000,,京生，吃不吃鸡腿呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chinsheng, like the drum-stick?{\r}
+Dialogue: 0,0:58:40.14,0:58:42.04,Default,,0000,0000,0000,,老婆婆，你找谁呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's up, granny?{\r}
+Dialogue: 0,0:58:42.11,0:58:44.27,Default,,0000,0000,0000,,你的眼看什么的？谁是老婆婆呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Granny? Are you blind?{\r}
+Dialogue: 0,0:58:45.02,0:58:47.08,Default,,0000,0000,0000,,我找春禄，春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm looking for Chun Lu. Chun Lu.{\r}
+Dialogue: 0,0:58:47.15,0:58:49.05,Default,,0000,0000,0000,,没有，没有春禄呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No such person, no Chun Lu.{\r}
+Dialogue: 0,0:58:49.15,0:58:51.05,Default,,0000,0000,0000,,你知道谁是春禄吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You know who Chun Lu is?{\r}
+Dialogue: 0,0:58:51.12,0:58:52.21,Default,,0000,0000,0000,,京生乖    不知道\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Good boy, Chinsheng. - No.{\r}
+Dialogue: 0,0:58:52.26,0:58:53.25,Default,,0000,0000,0000,,怎么你又说没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Then how could you say no Chun Lu here?{\r}
+Dialogue: 0,0:58:54.03,0:58:55.12,Default,,0000,0000,0000,,我要进去找他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm going in to look.{\r}
+Dialogue: 0,0:58:55.19,0:58:56.18,Default,,0000,0000,0000,,我已说过没有呀，走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I said no such person, go away.{\r}
+Dialogue: 0,0:58:56.26,0:58:58.13,Default,,0000,0000,0000,,不，我要进去\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, I'm going in.{\r}
+Dialogue: 0,0:59:01.13,0:59:03.00,Default,,0000,0000,0000,,丁公公吉祥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Bless you, Lord Ting.{\r}
+Dialogue: 0,0:59:03.07,0:59:05.04,Default,,0000,0000,0000,,够中气…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Such a voice, great.{\r}
+Dialogue: 0,0:59:05.10,0:59:06.00,Default,,0000,0000,0000,,起来…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Rise.{\r}
+Dialogue: 0,0:59:06.07,0:59:07.16,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,0:59:12.04,0:59:15.01,Default,,0000,0000,0000,,丁公公，你出宫之后去了那里？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where have you been, My lord?{\r}
+Dialogue: 0,0:59:15.08,0:59:17.10,Default,,0000,0000,0000,,西郊恩济庄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Out in the country.{\r}
+Dialogue: 0,0:59:17.18,0:59:19.12,Default,,0000,0000,0000,,我找得你很辛苦呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've been looking all over for you.{\r}
+Dialogue: 0,0:59:19.18,0:59:21.01,Default,,0000,0000,0000,,我都…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Me too...{\r}
+Dialogue: 0,0:59:21.15,0:59:22.28,Default,,0000,0000,0000,,奴才都是呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant has been doing so too.{\r}
+Dialogue: 0,0:59:23.05,0:59:25.28,Default,,0000,0000,0000,,你只是只顾自己，不用理我了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You only care about yourself.{\r}
+Dialogue: 0,0:59:33.23,0:59:35.03,Default,,0000,0000,0000,,果然干净\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Still clear.{\r}
+Dialogue: 0,0:59:35.07,0:59:37.13,Default,,0000,0000,0000,,我还以为你那么棒有个儿子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I was wondering about the kid.{\r}
+Dialogue: 0,0:59:40.24,0:59:43.17,Default,,0000,0000,0000,,皇上现在被迫离开紫禁城\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty is away from the Palace.{\r}
+Dialogue: 0,0:59:43.24,0:59:46.11,Default,,0000,0000,0000,,住在日本领事馆，很惨呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Living in the Japanese Embassy, suffering.{\r}
+Dialogue: 0,0:59:46.14,0:59:50.01,Default,,0000,0000,0000,,春禄，我看我们要出动了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's time for us to make a move.{\r}
+Dialogue: 0,0:59:53.28,0:59:56.08,Default,,0000,0000,0000,,春禄，你还记得吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Do you still remember?{\r}
+Dialogue: 0,0:59:56.15,0:59:57.21,Default,,0000,0000,0000,,记得什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What?{\r}
+Dialogue: 0,0:59:57.26,1:00:00.16,Default,,0000,0000,0000,,皇上对你恩重如山\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That His majesty is your master.{\r}
+Dialogue: 0,1:00:00.22,1:00:03.13,Default,,0000,0000,0000,,现在皇上有难，你就沉迷美色\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You have forsaken him for this woman.{\r}
+Dialogue: 0,1:00:04.03,1:00:05.22,Default,,0000,0000,0000,,奴才不敢\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant is guilty.{\r}
+Dialogue: 0,1:00:06.00,1:00:07.19,Default,,0000,0000,0000,,我记得…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I remember?{\r}
+Dialogue: 0,1:00:08.10,1:00:11.26,Default,,0000,0000,0000,,亲爱的皇上，美丽…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His majesty dearest, the cloud?{\r}
+Dialogue: 0,1:00:12.04,1:00:16.06,Default,,0000,0000,0000,,美丽底月亮已给漆黑底乌云盖上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The cloud hides the moon.{\r}
+Dialogue: 0,1:00:16.11,1:00:19.13,Default,,0000,0000,0000,,是，美丽底月亮…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, the cloud hides the moon?{\r}
+Dialogue: 0,1:00:25.22,1:00:26.15,Default,,0000,0000,0000,,春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu.{\r}
+Dialogue: 0,1:00:26.25,1:00:28.15,Default,,0000,0000,0000,,奴才该死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant is guilty.{\r}
+Dialogue: 0,1:00:30.05,1:00:31.08,Default,,0000,0000,0000,,春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu.{\r}
+Dialogue: 0,1:00:31.16,1:00:32.25,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:00:33.22,1:00:35.06,Default,,0000,0000,0000,,我跟他多年的宾主关係\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's been my master for so many years.{\r}
+Dialogue: 0,1:00:35.09,1:00:37.06,Default,,0000,0000,0000,,我认是你的妹妹，又不是你老婆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not your wife, more like a sister.{\r}
+Dialogue: 0,1:00:37.13,1:00:39.03,Default,,0000,0000,0000,,就算是的话也不管得那么多了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have no right.{\r}
+Dialogue: 0,1:00:39.23,1:00:41.26,Default,,0000,0000,0000,,他来是聚旧的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's here only for old times sake.{\r}
+Dialogue: 0,1:00:43.17,1:00:44.23,Default,,0000,0000,0000,,那你还留辫子干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why the pig-tail then?{\r}
+Dialogue: 0,1:00:44.30,1:00:47.24,Default,,0000,0000,0000,,我真的不争气\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's all my fault.{\r}
+Dialogue: 0,1:00:47.31,1:00:51.14,Default,,0000,0000,0000,,老佛爷，奴才对不起你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have let you down, Your Majesty Dowager.{\r}
+Dialogue: 0,1:00:51.28,1:00:54.27,Default,,0000,0000,0000,,皇上有难，我只会敲经念佛\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I could only pray when His Majesty was in trouble.{\r}
+Dialogue: 0,1:00:56.05,1:00:58.02,Default,,0000,0000,0000,,我没用\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm so useless.{\r}
+Dialogue: 0,1:00:58.08,1:00:59.17,Default,,0000,0000,0000,,丁公公，你不要这个样子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't, My lord.{\r}
+Dialogue: 0,1:00:59.28,1:01:02.28,Default,,0000,0000,0000,,我没用，我连一个忠心报国的徒弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I can't even keep a loyal servant.{\r}
+Dialogue: 0,1:01:03.05,1:01:04.08,Default,,0000,0000,0000,,也找不到
+Dialogue: 0,1:01:04.12,1:01:05.18,Default,,0000,0000,0000,,丁公公…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lord Ting, Lord Ting.{\r}
+Dialogue: 0,1:01:05.26,1:01:07.05,Default,,0000,0000,0000,,我要一死以谢天下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll die to pay for my guilty.{\r}
+Dialogue: 0,1:01:07.09,1:01:08.22,Default,,0000,0000,0000,,丁公公，不要这样子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't, please.{\r}
+Dialogue: 0,1:01:08.29,1:01:09.28,Default,,0000,0000,0000,,你让我去死吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let me die.{\r}
+Dialogue: 0,1:01:10.03,1:01:12.02,Default,,0000,0000,0000,,你不要拉着我，你让我去死吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't stop me, let me die.{\r}
+Dialogue: 0,1:01:12.10,1:01:14.09,Default,,0000,0000,0000,,我没用，你让我去死吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm useless, let me die.{\r}
+Dialogue: 0,1:01:14.17,1:01:16.22,Default,,0000,0000,0000,,你让我去死吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Le me die.{\r}
+Dialogue: 0,1:01:16.27,1:01:19.10,Default,,0000,0000,0000,,我要死，我不死也没有用\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let me die.{\r}
+Dialogue: 0,1:01:19.17,1:01:21.04,Default,,0000,0000,0000,,丁公公，不要这样子\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please don't be this way.{\r}
+Dialogue: 0,1:01:21.11,1:01:22.23,Default,,0000,0000,0000,,我要死…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to die.{\r}
+Dialogue: 0,1:01:22.31,1:01:24.00,Default,,0000,0000,0000,,不要呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop that.{\r}
+Dialogue: 0,1:01:27.28,1:01:29.21,Default,,0000,0000,0000,,奴才该死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your servant's at your mercy.{\r}
+Dialogue: 0,1:01:32.05,1:01:34.99,Default,,0000,0000,0000,,招弟，  你开门吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Open up, Tsouti.{\r}
+Dialogue: 0,1:01:35.05,1:01:36.11,Default,,0000,0000,0000,,我不是回去做太监呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not becoming a eunuch again.{\r}
+Dialogue: 0,1:01:36.22,1:01:42.28,Default,,0000,0000,0000,,你开门吧，招弟…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Open up, Tsouti.{\r}
+Dialogue: 0,1:02:13.19,1:02:16.18,Default,,0000,0000,0000,,请公公见谅，奴才该死\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Forgive me, My lord.{\r}
+Dialogue: 0,1:02:16.26,1:02:20.22,Default,,0000,0000,0000,,我不用人家可怜，我跳河死了算了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I need no sympathy, I'd rather die.{\r}
+Dialogue: 0,1:02:21.07,1:02:22.16,Default,,0000,0000,0000,,丁公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Lord Ting.{\r}
+Dialogue: 0,1:02:23.27,1:02:27.26,Default,,0000,0000,0000,,没有了真命天子，中国何以为国？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Without an emperor, there is no empire.{\r}
+Dialogue: 0,1:02:28.07,1:02:30.13,Default,,0000,0000,0000,,我宁死也不做亡国奴\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How can one be without a country?{\r}
+Dialogue: 0,1:02:30.21,1:02:34.04,Default,,0000,0000,0000,,无国又何以为家呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Without the county there is no home.{\r}
+Dialogue: 0,1:02:34.15,1:02:37.11,Default,,0000,0000,0000,,丁公公，你想我怎么样？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What do you want me to do?{\r}
+Dialogue: 0,1:02:38.08,1:02:39.98,Default,,0000,0000,0000,,你舍不舍得抛弃这个贱人？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Can you give her up?{\r}
+Dialogue: 0,1:02:40.05,1:02:43.18,Default,,0000,0000,0000,,不舍得的话就跟我滚回去\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If not, get out of my sight.{\r}
+Dialogue: 0,1:02:44.09,1:02:48.05,Default,,0000,0000,0000,,舍得的话，明天就跟我去见皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If yes, we'll see the emperor tomorrow.{\r}
+Dialogue: 0,1:03:12.22,1:03:14.18,Default,,0000,0000,0000,,我肚子不饿，你先吃饭吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm not hungry, you go ahead.{\r}
+Dialogue: 0,1:03:15.12,1:03:19.06,Default,,0000,0000,0000,,酸梅要干了水才可以踩呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let the plums dry first before squashing.{\r}
+Dialogue: 0,1:03:21.09,1:03:23.25,Default,,0000,0000,0000,,见皇上真的那么重要？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is it so important to see the emperor?{\r}
+Dialogue: 0,1:03:24.03,1:03:25.22,Default,,0000,0000,0000,,丁公公说皇上有难\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's in trouble.{\r}
+Dialogue: 0,1:03:26.00,1:03:28.06,Default,,0000,0000,0000,,凭你们两个可以救皇上？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What can you two do?{\r}
+Dialogue: 0,1:03:28.27,1:03:31.13,Default,,0000,0000,0000,,丁公公说我们去服侍皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He said the emperor needs our services.{\r}
+Dialogue: 0,1:03:32.04,1:03:33.26,Default,,0000,0000,0000,,皇上需要我们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What about us?{\r}
+Dialogue: 0,1:03:34.17,1:03:38.01,Default,,0000,0000,0000,,皇上需要你，那我和京生怎么样呀？
+Dialogue: 0,1:03:38.11,1:03:41.04,Default,,0000,0000,0000,,你放心，我已经跟面店的张伯\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have talked to our clients.{\r}
+Dialogue: 0,1:03:41.11,1:03:42.27,Default,,0000,0000,0000,,家乡味的老黄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The noodle shops and the restaurants.{\r}
+Dialogue: 0,1:03:43.01,1:03:44.24,Default,,0000,0000,0000,,路口的张婶说好了
+Dialogue: 0,1:03:45.05,1:03:48.18,Default,,0000,0000,0000,,只要你每天送酸梅汤去就行了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Just deliver the plum juice to them.{\r}
+Dialogue: 0,1:03:48.25,1:03:51.28,Default,,0000,0000,0000,,你不要开档，太辛苦了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Never mind the cart.{\r}
+Dialogue: 0,1:03:53.06,1:03:55.05,Default,,0000,0000,0000,,是呀，记得酸梅要干了水才能踩呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And let the plums dry before squashing.{\r}
+Dialogue: 0,1:03:55.16,1:03:57.29,Default,,0000,0000,0000,,记得酸梅干了水才能踩\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let the plums dry before squashing.{\r}
+Dialogue: 0,1:03:58.03,1:04:00.22,Default,,0000,0000,0000,,要放冰糖，不要加太多水\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Use rock-sugar, not too much water.{\r}
+Dialogue: 0,1:04:01.03,1:04:04.09,Default,,0000,0000,0000,,够了，我要听的不是这些东西\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Enough. I want to hear no more.{\r}
+Dialogue: 0,1:04:07.07,1:04:08.16,Default,,0000,0000,0000,,你说，是不是服侍皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Is the emperor more important than us?{\r}
+Dialogue: 0,1:04:08.24,1:04:10.04,Default,,0000,0000,0000,,比跟我们两母子一起好呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't forget you are just a eunuch?{\r}
+Dialogue: 0,1:04:10.11,1:04:11.13,Default,,0000,0000,0000,,一天到晚就皇上皇上
+Dialogue: 0,1:04:11.18,1:04:14.08,Default,,0000,0000,0000,,你不可以忘记自己是太…
+Dialogue: 0,1:04:15.05,1:04:16.98,Default,,0000,0000,0000,,是，我是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, I am.{\r}
+Dialogue: 0,1:04:17.08,1:04:19.02,Default,,0000,0000,0000,,我是一个太监\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I am a eunuch.{\r}
+Dialogue: 0,1:04:21.09,1:04:23.99,Default,,0000,0000,0000,,你知不知道我和你在一起的时候\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}When we are together{\r}
+Dialogue: 0,1:04:24.06,1:04:27.08,Default,,0000,0000,0000,,我就算被人家取笑，我都可以忍受\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I can stand people laughing at me.{\r}
+Dialogue: 0,1:04:28.13,1:04:30.15,Default,,0000,0000,0000,,因为我已经习惯了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm used to it.{\r}
+Dialogue: 0,1:04:31.20,1:04:32.29,Default,,0000,0000,0000,,但是如果有人取笑你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But it hurts when they laugh at you.{\r}
+Dialogue: 0,1:04:33.06,1:04:35.19,Default,,0000,0000,0000,,我心里就很难过\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chinsheng needs a father.{\r}
+Dialogue: 0,1:04:36.23,1:04:39.07,Default,,0000,0000,0000,,京生需要爸爸
+Dialogue: 0,1:04:39.20,1:04:43.26,Default,,0000,0000,0000,,而皇上就需要太监\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And His Majesty needs eunuchs.{\r}
+Dialogue: 0,1:04:44.28,1:04:45.24,Default,,0000,0000,0000,,所以…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's why...{\r}
+Dialogue: 0,1:04:46.01,1:04:48.04,Default,,0000,0000,0000,,所以你就要跟丁公公走？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}That's why you have to go.{\r}
+Dialogue: 0,1:04:49.18,1:04:51.24,Default,,0000,0000,0000,,难道你不想和我们好好的过日子吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't you want us to live happily together.{\r}
+Dialogue: 0,1:04:52.02,1:04:54.28,Default,,0000,0000,0000,,想，我不是不想\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Of course, but...{\r}
+Dialogue: 0,1:06:03.05,1:06:05.15,Default,,0000,0000,0000,,狗仗人势的畜生\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Your running dogs.{\r}
+Dialogue: 0,1:06:09.09,1:06:12.03,Default,,0000,0000,0000,,就是他们两个要见皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}These two want to see His Majesty.{\r}
+Dialogue: 0,1:06:14.23,1:06:16.06,Default,,0000,0000,0000,,我们是专诚来侍候皇上的
+Dialogue: 0,1:06:16.13,1:06:17.19,Default,,0000,0000,0000,,请你让我们见皇上吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Please let us.{\r}
+Dialogue: 0,1:06:17.23,1:06:18.22,Default,,0000,0000,0000,,你说要入就入的吗\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}See His Majesty.{\r}
+Dialogue: 0,1:06:18.30,1:06:20.27,Default,,0000,0000,0000,,你当这里是什么地方？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Where do you think.{\r}
+Dialogue: 0,1:06:28.21,1:06:31.05,Default,,0000,0000,0000,,叫他们走，不知所为\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are?{\r}
+Dialogue: 0,1:06:32.15,1:06:35.21,Default,,0000,0000,0000,,他说什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Send them away, such nonsense.{\r}
+Dialogue: 0,1:06:38.16,1:06:41.18,Default,,0000,0000,0000,,他说，这里不是皇宫，不用你们侍候\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What did he say?{\r}
+Dialogue: 0,1:06:41.26,1:06:42.25,Default,,0000,0000,0000,,叫你们走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He said this was not a Palace, no need for you.{\r}
+Dialogue: 0,1:06:42.99,1:06:44.09,Default,,0000,0000,0000,,放肆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Told you to go away.{\r}
+Dialogue: 0,1:06:44.16,1:06:47.03,Default,,0000,0000,0000,,侍候皇上随便什么人都可以的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Nonsense.{\r}
+Dialogue: 0,1:06:47.10,1:06:49.09,Default,,0000,0000,0000,,是呀，请你们让我们见皇上吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}His Majesty needs us.{\r}
+Dialogue: 0,1:06:49.20,1:06:50.19,Default,,0000,0000,0000,,如果他真的不需要我们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, let us see him.{\r}
+Dialogue: 0,1:06:50.27,1:06:52.17,Default,,0000,0000,0000,,我们就走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}If he really doesn't need us, we'll go.{\r}
+Dialogue: 0,1:06:52.27,1:06:55.14,Default,,0000,0000,0000,,走吧，也不知道现在是什么时代\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go, times have changed.{\r}
+Dialogue: 0,1:06:55.17,1:06:56.26,Default,,0000,0000,0000,,皇帝有我们来照顾\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We'll take care of the emperor.{\r}
+Dialogue: 0,1:06:57.04,1:06:58.13,Default,,0000,0000,0000,,站着\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stand still.{\r}
+Dialogue: 0,1:06:58.28,1:06:59.26,Default,,0000,0000,0000,,什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What?{\r}
+Dialogue: 0,1:07:00.11,1:07:01.08,Default,,0000,0000,0000,,春禄\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu.{\r}
+Dialogue: 0,1:07:01.15,1:07:02.04,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:07:02.11,1:07:03.17,Default,,0000,0000,0000,,验明净身\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Check him out.{\r}
+Dialogue: 0,1:07:05.22,1:07:08.01,Default,,0000,0000,0000,,春禄，去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chun Lu, go ahead.{\r}
+Dialogue: 0,1:07:08.22,1:07:10.05,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:07:17.19,1:07:20.03,Default,,0000,0000,0000,,什么？你想干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are you doing?{\r}
+Dialogue: 0,1:07:20.10,1:07:21.12,Default,,0000,0000,0000,,这里是日本人的地方\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}This is Japanese property{\r}
+Dialogue: 0,1:07:21.17,1:07:23.03,Default,,0000,0000,0000,,不是每个中国人都能进来的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}no Chinese allowed.{\r}
+Dialogue: 0,1:07:23.10,1:07:25.13,Default,,0000,0000,0000,,尤其是你这些奴才\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Especially you, dummies.{\r}
+Dialogue: 0,1:07:28.07,1:07:30.97,Default,,0000,0000,0000,,走吧，奴才\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go away, dummies.{\r}
+Dialogue: 0,1:07:34.18,1:07:37.08,Default,,0000,0000,0000,,回公公，那个奴才很不干净\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My lord, not clean at all.{\r}
+Dialogue: 0,1:07:37.28,1:07:39.18,Default,,0000,0000,0000,,赶他们走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Send them away.{\r}
+Dialogue: 0,1:07:41.12,1:07:42.28,Default,,0000,0000,0000,,赶我们？混帐\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Nonsense.{\r}
+Dialogue: 0,1:07:43.05,1:07:46.18,Default,,0000,0000,0000,,皇上圣体，岂容你们左右侍奉？滚开\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You have no right to serve His Majesty.{\r}
+Dialogue: 0,1:07:46.26,1:07:47.28,Default,,0000,0000,0000,,戆居\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ridiculous.{\r}
+Dialogue: 0,1:07:52.00,1:07:53.16,Default,,0000,0000,0000,,丁公公，我们先回去吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go back now.{\r}
+Dialogue: 0,1:07:53.23,1:07:56.13,Default,,0000,0000,0000,,不可以，我是总管，我要见皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, I'm a master, I'll see the emperor.{\r}
+Dialogue: 0,1:07:56.20,1:07:57.19,Default,,0000,0000,0000,,公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My lord.{\r}
+Dialogue: 0,1:08:08.28,1:08:10.11,Default,,0000,0000,0000,,公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My lord.{\r}
+Dialogue: 0,1:08:28.23,1:08:33.19,Default,,0000,0000,0000,,我可以没了宝贝，不可以没了皇上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'd give up my thing just to see His Majesty.{\r}
+Dialogue: 0,1:08:33.30,1:08:36.24,Default,,0000,0000,0000,,公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My lord.{\r}
+Dialogue: 0,1:08:39.14,1:08:42.04,Default,,0000,0000,0000,,皇上英明…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Our glorious Emperor.{\r}
+Dialogue: 0,1:08:43.11,1:08:44.24,Default,,0000,0000,0000,,我们走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Let's go.{\r}
+Dialogue: 0,1:08:48.19,1:08:49.24,Default,,0000,0000,0000,,公公\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My lord.{\r}
+Dialogue: 0,1:08:54.02,1:08:56.19,Default,,0000,0000,0000,,皇上吉祥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Long live the Emperor.{\r}
+Dialogue: 0,1:09:18.02,1:09:23.01,Default,,0000,0000,0000,,美丽底月亮已给黑漆底乌云盖上\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The cloud hides the moon.{\r}
+Dialogue: 0,1:09:23.15,1:09:26.12,Default,,0000,0000,0000,,蔚蓝的天空已给黑色的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The ugly wings of a crow{\r}
+Dialogue: 0,1:09:26.19,1:09:31.03,Default,,0000,0000,0000,,乌鸦的、丑陋的翅膀掩蔽\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}cover the blue sky{\r}
+Dialogue: 0,1:09:31.13,1:09:35.26,Default,,0000,0000,0000,,多么可怕\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So terrifying.{\r}
+Dialogue: 0,1:09:58.19,1:10:00.21,Default,,0000,0000,0000,,我现在将我的宝贝跟你一起埋葬\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll bury the thing with you.{\r}
+Dialogue: 0,1:10:00.29,1:10:05.29,Default,,0000,0000,0000,,希望你有个全尸，来世可以投胎做人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So you can come back a complete man.{\r}
+Dialogue: 0,1:10:06.20,1:10:11.16,Default,,0000,0000,0000,,其实，一个真正的太监才要宝贝陪着\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}A real eunuch needs a thing.{\r}
+Dialogue: 0,1:10:12.14,1:10:14.04,Default,,0000,0000,0000,,我以后都不再做太监了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm a eunuch no more.{\r}
+Dialogue: 0,1:10:15.21,1:10:18.07,Default,,0000,0000,0000,,而且，割了下来的宝贝\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What comes off{\r}
+Dialogue: 0,1:10:18.14,1:10:20.08,Default,,0000,0000,0000,,根本不属于任何人\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}doesn't belong anymore.{\r}
+Dialogue: 0,1:11:03.05,1:11:04.25,Default,,0000,0000,0000,,死兔崽子，一天到晚往外跑\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You naughty thing.{\r}
+Dialogue: 0,1:11:05.02,1:11:05.25,Default,,0000,0000,0000,,你再不回家\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come home{\r}
+Dialogue: 0,1:11:06.02,1:11:08.18,Default,,0000,0000,0000,,我以后不理你了，知道吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}or I'll lock you out.{\r}
+Dialogue: 0,1:11:09.16,1:11:11.06,Default,,0000,0000,0000,,不要哭了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't cry.{\r}
+Dialogue: 0,1:11:33.28,1:11:34.18,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:11:34.25,1:11:37.15,Default,,0000,0000,0000,,我知道这次走了，令你伤心\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know I hurt you so much.{\r}
+Dialogue: 0,1:11:38.12,1:11:42.99,Default,,0000,0000,0000,,我很后悔这么糊涂，留下你们两个\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I feel so regretful leaving you.{\r}
+Dialogue: 0,1:11:43.06,1:11:44.19,Default,,0000,0000,0000,,干出这么无谓的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}And did such a ridiculous thing.{\r}
+Dialogue: 0,1:11:45.20,1:11:47.25,Default,,0000,0000,0000,,本来我决定带同丁公公回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I would have brought him home.{\r}
+Dialogue: 0,1:11:47.30,1:11:51.20,Default,,0000,0000,0000,,可惜他已经死掉了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But he's dead now.{\r}
+Dialogue: 0,1:11:52.17,1:11:55.16,Default,,0000,0000,0000,,我这次回来，不知你会不会原谅我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Will you forgive me?{\r}
+Dialogue: 0,1:11:56.17,1:11:58.14,Default,,0000,0000,0000,,你不出声，是不是还在生我的气？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you still angry?{\r}
+Dialogue: 0,1:11:58.24,1:12:00.07,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:12:00.11,1:12:04.05,Default,,0000,0000,0000,,既然你不肯原谅我，我走了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Maybe I'll go away.{\r}
+Dialogue: 0,1:12:14.29,1:12:17.06,Default,,0000,0000,0000,,你看看你，整个脸都是泥\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Look at you, full of mud.{\r}
+Dialogue: 0,1:12:18.16,1:12:20.10,Default,,0000,0000,0000,,先洗脸吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go wash your face first.{\r}
+Dialogue: 0,1:12:23.00,1:12:24.16,Default,,0000,0000,0000,,谢谢\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank you.{\r}
+Dialogue: 0,1:12:32.28,1:12:35.11,Default,,0000,0000,0000,,招弟  ，我…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti...{\r}
+Dialogue: 0,1:12:37.01,1:12:38.07,Default,,0000,0000,0000,,我想…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to...{\r}
+Dialogue: 0,1:12:38.15,1:12:39.14,Default,,0000,0000,0000,,你想怎么样？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What do you want?{\r}
+Dialogue: 0,1:12:39.22,1:12:41.15,Default,,0000,0000,0000,,我想你嫁给我，做我的老婆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to marry you.{\r}
+Dialogue: 0,1:12:41.22,1:12:43.02,Default,,0000,0000,0000,,你说什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What did you say?{\r}
+Dialogue: 0,1:12:44.02,1:12:46.11,Default,,0000,0000,0000,,我想你嫁给我，做我的老婆\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I want to marry you.{\r}
+Dialogue: 0,1:12:49.26,1:12:51.16,Default,,0000,0000,0000,,你答应我吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Will you marry me?{\r}
+Dialogue: 0,1:12:53.30,1:12:56.99,Default,,0000,0000,0000,,你究竟答不答应我？你说吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Will you marry me? Answer me please.{\r}
+Dialogue: 0,1:12:59.17,1:13:01.07,Default,,0000,0000,0000,,你不用说\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright.{\r}
+Dialogue: 0,1:13:01.14,1:13:03.11,Default,,0000,0000,0000,,如果你答应我的话，你就不要踩\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stop squashing and it means yes.{\r}
+Dialogue: 0,1:13:03.17,1:13:07.27,Default,,0000,0000,0000,,如果你不答应我的话，那你继续踩吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Carrying on means no.{\r}
+Dialogue: 0,1:13:21.29,1:13:23.12,Default,,0000,0000,0000,,你是不答应我的了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}So the answer is no.{\r}
+Dialogue: 0,1:13:23.19,1:13:25.06,Default,,0000,0000,0000,,我什么也没有说过\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I didn't say anything.{\r}
+Dialogue: 0,1:13:25.13,1:13:27.29,Default,,0000,0000,0000,,不过，这些酸梅汤明天要交给人家的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}But we need to deliver tomorrow.{\r}
+Dialogue: 0,1:13:28.03,1:13:30.00,Default,,0000,0000,0000,,你答应我吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Say yes please.{\r}
+Dialogue: 0,1:13:32.10,1:13:33.26,Default,,0000,0000,0000,,好吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:13:35.24,1:13:36.26,Default,,0000,0000,0000,,你干什么？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What are you doing?{\r}
+Dialogue: 0,1:13:51.26,1:13:53.19,Default,,0000,0000,0000,,我已经下定决心了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have made up my mind.{\r}
+Dialogue: 0,1:13:57.09,1:14:00.09,Default,,0000,0000,0000,,你这个样子就叫我嫁给你？难了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Look at you, how can I say yes?{\r}
+Dialogue: 0,1:14:04.30,1:14:07.10,Default,,0000,0000,0000,,我现在立刻出去把它剃掉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll cut it off.{\r}
+Dialogue: 0,1:14:07.27,1:14:09.00,Default,,0000,0000,0000,,交给你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For you.{\r}
+Dialogue: 0,1:14:09.07,1:14:10.06,Default,,0000,0000,0000,,我今晚顺便买些东西回来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'll bring something back.{\r}
+Dialogue: 0,1:14:10.11,1:14:13.04,Default,,0000,0000,0000,,我们一家人开开心心庆祝一番\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We three are going to celebrate.{\r}
+Dialogue: 0,1:14:15.25,1:14:17.04,Default,,0000,0000,0000,,等一等\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wait.{\r}
+Dialogue: 0,1:14:23.25,1:14:27.02,Default,,0000,0000,0000,,京生阿爹，外边冷呀，多穿件衣服吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It's cold outside, Chinsheng's father.{\r}
+Dialogue: 0,1:14:27.16,1:14:29.06,Default,,0000,0000,0000,,京生阿爹？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chinsheng's father.{\r}
+Dialogue: 0,1:14:30.26,1:14:32.19,Default,,0000,0000,0000,,我是京生阿爹？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm Chinsheng's father?{\r}
+Dialogue: 0,1:14:34.00,1:14:35.19,Default,,0000,0000,0000,,京生阿爹…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chinsheng's father...{\r}
+Dialogue: 0,1:14:37.07,1:14:39.09,Default,,0000,0000,0000,,我是京生阿爹\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm Chinsheng's father.{\r}
+Dialogue: 0,1:14:58.12,1:14:59.99,Default,,0000,0000,0000,,为什么单独坐在这里呀？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why are you sitting there alone?{\r}
+Dialogue: 0,1:15:00.12,1:15:02.99,Default,,0000,0000,0000,,买给京生的，你看漂不漂亮？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}For Chinsheng, isn't it pretty?{\r}
+Dialogue: 0,1:15:07.06,1:15:08.22,Default,,0000,0000,0000,,你不舒服吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you ill?{\r}
+Dialogue: 0,1:15:10.07,1:15:11.23,Default,,0000,0000,0000,,有人来了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Someone's here.{\r}
+Dialogue: 0,1:15:24.08,1:15:25.14,Default,,0000,0000,0000,,来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,1:15:32.12,1:15:33.18,Default,,0000,0000,0000,,你好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How are you?{\r}
+Dialogue: 0,1:15:34.16,1:15:36.13,Default,,0000,0000,0000,,随便坐…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Make yourself at home.{\r}
+Dialogue: 0,1:15:36.23,1:15:40.06,Default,,0000,0000,0000,,瞧瞧你有客人来也不预早通知我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You should have told me earlier.{\r}
+Dialogue: 0,1:15:41.20,1:15:45.00,Default,,0000,0000,0000,,真对不起，我还没有…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm sorry, I am...{\r}
+Dialogue: 0,1:15:45.20,1:15:47.07,Default,,0000,0000,0000,,我还没有招呼你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I am not a very good host.{\r}
+Dialogue: 0,1:15:47.14,1:15:48.23,Default,,0000,0000,0000,,其实我家里也没有什么可以招呼的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}We have not much to offer.{\r}
+Dialogue: 0,1:15:48.31,1:15:50.21,Default,,0000,0000,0000,,不如给碗酸梅汤你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have a plum juice.{\r}
+Dialogue: 0,1:15:50.27,1:15:52.24,Default,,0000,0000,0000,,很好喝的，不会酸的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good stuff.{\r}
+Dialogue: 0,1:16:00.25,1:16:02.18,Default,,0000,0000,0000,,你没有对他说我们的事吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Have you told him about us?{\r}
+Dialogue: 0,1:16:04.05,1:16:05.15,Default,,0000,0000,0000,,有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:16:06.02,1:16:07.15,Default,,0000,0000,0000,,为什么你现在才来找我？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why do you come now?{\r}
+Dialogue: 0,1:16:07.22,1:16:11.18,Default,,0000,0000,0000,,不是现在，是从来也没有放弃过\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I have never given up.{\r}
+Dialogue: 0,1:16:12.10,1:16:14.00,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:16:17.07,1:16:18.16,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:16:25.18,1:16:27.20,Default,,0000,0000,0000,,你不是革命党？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are a rebel?{\r}
+Dialogue: 0,1:16:28.25,1:16:30.11,Default,,0000,0000,0000,,我是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes, I am.{\r}
+Dialogue: 0,1:16:32.08,1:16:33.24,Default,,0000,0000,0000,,又说他死了？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You said he was dead.{\r}
+Dialogue: 0,1:16:35.22,1:16:36.98,Default,,0000,0000,0000,,来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,1:16:37.25,1:16:39.12,Default,,0000,0000,0000,,汤倒泻了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The juice is spilled.{\r}
+Dialogue: 0,1:16:39.19,1:16:45.03,Default,,0000,0000,0000,,汤倒泻了可以再倒，但是…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It can be filled again, but...{\r}
+Dialogue: 0,1:16:46.06,1:16:47.22,Default,,0000,0000,0000,,你说得对
+Dialogue: 0,1:16:48.23,1:16:51.10,Default,,0000,0000,0000,,我不应该在这个时候回来找你们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I shouldn't have come at this time.{\r}
+Dialogue: 0,1:16:55.17,1:16:58.14,Default,,0000,0000,0000,,很多谢这两年来你照顾他们母子俩\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank you for taking care of them.{\r}
+Dialogue: 0,1:16:59.24,1:17:02.04,Default,,0000,0000,0000,,这次回来能够再见他们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm too happy already.{\r}
+Dialogue: 0,1:17:04.05,1:17:06.04,Default,,0000,0000,0000,,我已经很开心了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}To be able to see those two.{\r}
+Dialogue: 0,1:17:14.26,1:17:16.09,Default,,0000,0000,0000,,汉民\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hanming.{\r}
+Dialogue: 0,1:17:33.04,1:17:34.14,Default,,0000,0000,0000,,孩子，孩子乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good boy, good boy.{\r}
+Dialogue: 0,1:17:34.21,1:17:37.24,Default,,0000,0000,0000,,孩子乖，乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good boy, good boy.{\r}
+Dialogue: 0,1:17:53.16,1:17:54.19,Default,,0000,0000,0000,,招弟\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Tsouti.{\r}
+Dialogue: 0,1:17:58.17,1:18:00.14,Default,,0000,0000,0000,,不要哭，乖\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't cry.{\r}
+Dialogue: 0,1:18:01.07,1:18:02.20,Default,,0000,0000,0000,,来喜\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Laishi.{\r}
+Dialogue: 0,1:18:04.14,1:18:08.01,Default,,0000,0000,0000,,我已经决定了，明天就走\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I've made up my mind. I'll leave tomorrow.{\r}
+Dialogue: 0,1:18:08.11,1:18:11.10,Default,,0000,0000,0000,,要走的不只你一个，是你们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Not just you, but you two.{\r}
+Dialogue: 0,1:18:11.28,1:18:13.22,Default,,0000,0000,0000,,她常常跟我提起你\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}She always talks about you.{\r}
+Dialogue: 0,1:18:14.15,1:18:17.02,Default,,0000,0000,0000,,她也跟我说了很多关于你的事\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I know a lot.{\r}
+Dialogue: 0,1:18:19.12,1:18:20.25,Default,,0000,0000,0000,,京生他…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chinsheng, he...{\r}
+Dialogue: 0,1:18:21.12,1:18:22.18,Default,,0000,0000,0000,,你们也把他带走？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Take him with you...{\r}
+Dialogue: 0,1:18:22.26,1:18:24.02,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:18:29.17,1:18:32.19,Default,,0000,0000,0000,,再见陈老师…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Goodbye Mr Chen.{\r}
+Dialogue: 0,1:18:32.30,1:18:35.14,Default,,0000,0000,0000,,快点回来呀…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hurry back.{\r}
+Dialogue: 0,1:18:42.01,1:18:43.98,Default,,0000,0000,0000,,为什么来喜还不来送我们呢？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Why isn't Laishi here to see us off?{\r}
+Dialogue: 0,1:18:44.21,1:18:45.11,Default,,0000,0000,0000,,不知道会不会…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Could it be?{\r}
+Dialogue: 0,1:18:45.18,1:18:46.15,Default,,0000,0000,0000,,他不会的\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He said.{\r}
+Dialogue: 0,1:18:46.22,1:18:49.19,Default,,0000,0000,0000,,他说要开档，开完档就来送我们\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He would come.{\r}
+Dialogue: 0,1:18:49.29,1:18:53.09,Default,,0000,0000,0000,,而且他很胆心我们的安全\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}He's so worried about us too.{\r}
+Dialogue: 0,1:18:53.19,1:18:54.25,Default,,0000,0000,0000,,那最好了\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright then.{\r}
+Dialogue: 0,1:19:13.14,1:19:15.27,Default,,0000,0000,0000,,买了，上车吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get on.{\r}
+Dialogue: 0,1:20:12.07,1:20:14.13,Default,,0000,0000,0000,,走开…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get away.{\r}
+Dialogue: 0,1:20:15.01,1:20:18.00,Default,,0000,0000,0000,,大家醒醒吧…\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wake up, you, wake up.{\r}
+Dialogue: 0,1:20:18.07,1:20:19.13,Default,,0000,0000,0000,,打倒民国\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Down with the Republic.{\r}
+Dialogue: 0,1:20:19.18,1:20:22.27,Default,,0000,0000,0000,,大清必胜，打倒民国\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ching will be restored.{\r}
+Dialogue: 0,1:20:23.21,1:20:24.98,Default,,0000,0000,0000,,大家醒醒\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Wake up people.{\r}
+Dialogue: 0,1:20:25.05,1:20:26.07,Default,,0000,0000,0000,,走开\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get away.{\r}
+Dialogue: 0,1:20:26.15,1:20:27.24,Default,,0000,0000,0000,,皇帝万岁\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Long live the Emperor.{\r}
+Dialogue: 0,1:20:28.02,1:20:29.18,Default,,0000,0000,0000,,谢谢\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Thank you.{\r}
+Dialogue: 0,1:20:30.09,1:20:32.18,Default,,0000,0000,0000,,大清必胜，皇帝万岁\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Ching will be restored, long live the Emperor.{\r}
+Dialogue: 0,1:20:32.26,1:20:33.22,Default,,0000,0000,0000,,发神经\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Crazy.{\r}
+Dialogue: 0,1:20:33.29,1:20:35.09,Default,,0000,0000,0000,,我是皇帝的太监\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I'm the emperor's eunuch.{\r}
+Dialogue: 0,1:20:35.13,1:20:37.18,Default,,0000,0000,0000,,皇帝很快就来这里，你们还不快回避\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}The emperor is arriving soon.{\r}
+Dialogue: 0,1:20:37.26,1:20:39.13,Default,,0000,0000,0000,,是不是想杀头？是不是想杀头？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hide yourselves. Want to be dead?{\r}
+Dialogue: 0,1:20:45.10,1:20:46.19,Default,,0000,0000,0000,,你们这班贱民，以下犯上
+Dialogue: 0,1:20:46.27,1:20:47.20,Default,,0000,0000,0000,,是不是想死？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You low lives want to die.{\r}
+Dialogue: 0,1:20:47.27,1:20:50.03,Default,,0000,0000,0000,,想死？想死的是你，不是我\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You are the one who should be dead.{\r}
+Dialogue: 0,1:20:50.07,1:20:53.07,Default,,0000,0000,0000,,太监？太你的头，瓣子也没有\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Eunuch? Where's your pig-tail?{\r}
+Dialogue: 0,1:20:53.21,1:20:55.08,Default,,0000,0000,0000,,在这里发什么神经？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Such a ridiculous thing to say.{\r}
+Dialogue: 0,1:20:55.11,1:20:57.05,Default,,0000,0000,0000,,还不走就拉你去打靶\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go now, or we'll have you executed.{\r}
+Dialogue: 0,1:20:57.11,1:20:58.17,Default,,0000,0000,0000,,我真的是太监呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}I am a eunuch.{\r}
+Dialogue: 0,1:20:58.28,1:21:00.11,Default,,0000,0000,0000,,好\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Alright.{\r}
+Dialogue: 0,1:21:11.16,1:21:13.10,Default,,0000,0000,0000,,你带几个人上车搜查\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Search the coach.{\r}
+Dialogue: 0,1:21:13.20,1:21:14.19,Default,,0000,0000,0000,,跟我来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Follow me.{\r}
+Dialogue: 0,1:21:14.26,1:21:16.10,Default,,0000,0000,0000,,是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Yes.{\r}
+Dialogue: 0,1:21:22.27,1:21:24.07,Default,,0000,0000,0000,,站着\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Stand still.{\r}
+Dialogue: 0,1:21:25.01,1:21:26.17,Default,,0000,0000,0000,,举起双手\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Hands up.{\r}
+Dialogue: 0,1:21:31.15,1:21:32.21,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,1:21:33.25,1:21:34.18,Default,,0000,0000,0000,,别动\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Don't move.{\r}
+Dialogue: 0,1:21:34.28,1:21:36.05,Default,,0000,0000,0000,,走吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Go.{\r}
+Dialogue: 0,1:21:39.06,1:21:40.22,Default,,0000,0000,0000,,你，起来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}You, stand up.{\r}
+Dialogue: 0,1:21:40.99,1:21:42.08,Default,,0000,0000,0000,,从那里来的？    山东\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Where are you from? - Shantung.{\r}
+Dialogue: 0,1:21:42.16,1:21:43.18,Default,,0000,0000,0000,,不用怕    山东？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- It's alright. - Shantung?{\r}
+Dialogue: 0,1:21:43.26,1:21:44.25,Default,,0000,0000,0000,,有没有带枪？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Carrying a pistol?{\r}
+Dialogue: 0,1:21:45.00,1:21:46.16,Default,,0000,0000,0000,,我不敢带枪\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}No, I dare not.{\r}
+Dialogue: 0,1:21:47.13,1:21:48.15,Default,,0000,0000,0000,,坐下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Sit down.{\r}
+Dialogue: 0,1:21:56.11,1:21:58.07,Default,,0000,0000,0000,,癫佬，你发神经呀\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Are you crazy?{\r}
+Dialogue: 0,1:21:58.14,1:22:00.01,Default,,0000,0000,0000,,什么事？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What's up?{\r}
+Dialogue: 0,1:22:01.11,1:22:02.17,Default,,0000,0000,0000,,跟我来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come with me.{\r}
+Dialogue: 0,1:22:07.15,1:22:09.18,Default,,0000,0000,0000,,来，你们来检验吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come, check it out.{\r}
+Dialogue: 0,1:22:09.25,1:22:11.08,Default,,0000,0000,0000,,验一验我是不是太监？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}See if I'm really a eunuch?{\r}
+Dialogue: 0,1:22:11.15,1:22:12.18,Default,,0000,0000,0000,,谁说我不是太监？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Who says I'm not?{\r}
+Dialogue: 0,1:22:12.26,1:22:14.05,Default,,0000,0000,0000,,没有瓣子就是假的吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Even without a pig-tail.{\r}
+Dialogue: 0,1:22:14.09,1:22:15.18,Default,,0000,0000,0000,,没有下面是不是真的？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}There's nothing down there, right?{\r}
+Dialogue: 0,1:22:15.26,1:22:17.99,Default,,0000,0000,0000,,来，你检验一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come check it out.{\r}
+Dialogue: 0,1:22:21.16,1:22:23.16,Default,,0000,0000,0000,,来，来检验一下，验一下\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Come, come, check it out.{\r}
+Dialogue: 0,1:22:23.23,1:22:25.00,Default,,0000,0000,0000,,捉住他\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get him.{\r}
+Dialogue: 0,1:22:36.15,1:22:37.24,Default,,0000,0000,0000,,贱格\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Scum.{\r}
+Dialogue: 0,1:22:39.22,1:22:41.01,Default,,0000,0000,0000,,装模作样\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Fraud.{\r}
+Dialogue: 0,1:22:50.06,1:22:51.99,Default,,0000,0000,0000,,你没有的，还会痛吗？\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}How could that hurt, there's nothing there.{\r}
+Dialogue: 0,1:22:53.26,1:22:54.29,Default,,0000,0000,0000,,起来\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get up.{\r}
+Dialogue: 0,1:22:55.23,1:22:57.03,Default,,0000,0000,0000,,起来，打我吧\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Get up and hit me.{\r}
+Dialogue: 0,1:23:06.14,1:23:07.13,Default,,0000,0000,0000,,废物\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Trash.{\r}
+Dialogue: 0,1:23:07.21,1:23:09.27,Default,,0000,0000,0000,,贱格、下流、卑鄙\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Scum.{\r}
+Dialogue: 0,1:23:17.12,1:23:19.05,Default,,0000,0000,0000,,走    是\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}- Go. - Yes.{\r}
+Dialogue: 0,1:24:16.08,1:24:24.99,Default,,0000,0000,0000,,夜已深深得似一张黑幕\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Night, jet black night.{\r}
+Dialogue: 0,1:24:26.16,1:24:33.03,Default,,0000,0000,0000,,尽隔开欢笑留寂寞\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Enveloping my solitude.{\r}
+Dialogue: 0,1:24:35.03,1:24:44.06,Default,,0000,0000,0000,,骤冷的空气冻结热情感觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Chilling friendly feelings.{\r}
+Dialogue: 0,1:24:44.17,1:24:54.02,Default,,0000,0000,0000,,令我心跟冷风一样萧索\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Making me shiver and shiver.{\r}
+Dialogue: 0,1:24:54.28,1:25:00.12,Default,,0000,0000,0000,,一生可得到几许欢乐\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Life yields little mirth.{\r}
+Dialogue: 0,1:25:01.22,1:25:07.13,Default,,0000,0000,0000,,幸福只偶然拾获\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Good fortune's a random harvest.{\r}
+Dialogue: 0,1:25:08.16,1:25:12.03,Default,,0000,0000,0000,,没法得到想要\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}What one wants is beyond reach.{\r}
+Dialogue: 0,1:25:12.10,1:25:15.20,Default,,0000,0000,0000,,得到不等于快乐\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Fulfillment is not really happiness.{\r}
+Dialogue: 0,1:25:15.27,1:25:22.20,Default,,0000,0000,0000,,或许一切出于错觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Excuse me if I am wrong.{\r}
+Dialogue: 0,1:25:23.11,1:25:29.25,Default,,0000,0000,0000,,或会将所想寻获\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Perhaps there's light at the end of tunnel.{\r}
+Dialogue: 0,1:25:30.02,1:25:37.02,Default,,0000,0000,0000,,可惜我心思不再像旧时\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My thinking has changed.{\r}
+Dialogue: 0,1:25:37.16,1:25:44.23,Default,,0000,0000,0000,,突破思想空壳我似骤然醒觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It brings me face to face with reality.{\r}
+Dialogue: 0,1:25:44.23,1:25:51.27,Default,,0000,0000,0000,,或许一切出于错觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Excuse me if I am wrong.{\r}
+Dialogue: 0,1:25:52.04,1:25:58.24,Default,,0000,0000,0000,,或会将所想寻获\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Perhaps there's light at the end of tunnel.{\r}
+Dialogue: 0,1:25:59.02,1:26:05.25,Default,,0000,0000,0000,,可惜我心思不再像旧时\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}My thinking has changed.{\r}
+Dialogue: 0,1:26:06.06,1:26:13.09,Default,,0000,0000,0000,,突破思想空壳我似骤然醒觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}It brings me face to face with reality.{\r}
+Dialogue: 0,1:26:13.16,1:26:21.07,Default,,0000,0000,0000,,或许一切出于错觉\N{\fnMicrosoft YaHei\fs16\1c&H57AAE8&\3c&H2F2F2F&}Excuse me if I am wrong.{\r}
+
