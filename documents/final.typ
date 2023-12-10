@@ -4,6 +4,15 @@
   margin: 0.85in,
 )
 
+#set heading(
+  numbering: "1.1"
+)
+
+#set par(
+  // leading: 6pt,
+  first-line-indent: 2em
+)
+
 #set text(
   font: ("New York Small", "Noto Serif SC") 
 )
@@ -12,101 +21,144 @@
   style: "american-psychological-association"
 )
 
+#let sb = (it) => {
+  text(weight: 500, style: "italic")[#it]
+} 
 
-= #text(weight: 500, size: 16pt)[A Comparative Study of Chinese and English Greetings: "#text(weight: 600, size: 16pt)[你吃了吗？]", "#text(weight: 600, size: 16pt)[你好吗？]" and "How are you doing?"]
-
-
-#set heading(
-  numbering: "1.1"
+#show raw: it => box(
+  inset: (x: 4pt),
+  box(radius: 2pt,
+  //  stroke: 0.5pt+rgb("#aaa"), 
+   fill:rgb("#f5f6f7"), outset: (top:2pt, x: 3pt, bottom: 3pt))[#text(font: ("SF Mono", "PingFang SC"))[#it]] 
 )
 
-#set par(
-  leading: 6pt,
-)
+#set table(stroke: 0.6pt)
+
+= #text(weight: 500, size: 16pt)[A Comparative Study of Chinese and English Greetings: \ "#text(weight: 600, size: 16pt)[你吃了吗?]", "#text(weight: 600, size: 16pt)[你好吗?]" and "How are you doing?"]
+
+
 
 #v(14pt)
 Zhen Li
 
 #show heading.where(level: 1): (it) => {
+  v(8pt)
   text(weight: 500, size: 14pt)[#it]
-  v(3pt)
+  v(4pt)
 }
 
 #show heading.where(level: 2): (it) => {
+
+  v(6pt)
   text(weight: 500)[#it]
   v(3pt)
 }
 
 
 = Introduction
-Questions are not commonly used in greetings between Chinese (especially strangers), but very common in US. The questions “你吃了吗?(nǐ chī le mā? Have you eaten?)” and “你好吗? (nǐ hǎo mā? How are you?)” are often compared to “How are you doing?” but is it really the case? This paper will compare the usage of the three questions in Chinese and English greetings and find out the similarities and differences between them.
+
+The questions “你吃了吗？”(pinyin: nǐ chī le mā? English: Have you eaten?)” and “你好吗？”(pinyin: nǐ hǎo mā? English: How are you?) are often compared to “How are you doing?” when studying greetings in Chinese. But in fact, questions are very commonly used in the United States, not common in greetings between Chinese, especially strangers. This paper will take a statistic approch to compare the usage of those 3 greetings, and analyze the differences in their usage and pragmatics, trying to provide a diverse and insightful perspective on the evolution, pragmatics, and sociocultural implications of these greetings.
 
 = Literature Review 
 
-@XIA2023156
-
-@gumperz2015interactional 
-
-- It introduced the topic of "Interactional Sociolinguistics", which studies how people use language in everyday conversations, focusing on their intentions and cultural backgrounds.
-
-- It also analyzes conversations as sequences of speaking turns, emphasizing the role of context in understanding what is being communicated.
-
-@Boxer_2002 
-- It explores how people communicate in different areas of life like family, work, and social settings, focusing on methods like conversation analysis.
-
-- It includes original analyses on topics like nagging in families and bragging at work, showing how people interact in various situations.
-
-
-@Duranti_1997 
-
-- The paper proposes six criteria to analyze greetings across languages.
-
-- Suggests that greetings can have substantive content and social purposes.
-
-#pagebreak()
- 
-@Liu_2016 
-- It compares greetings in English and Chinese, highlighting their significant role in social identity and cross-cultural communication.
-
-
-@Juliane_2021 
-- The paper presents a framework for analyzing how conventional expressions relate to speech acts in English and Chinese.
-
-- It shows that the daily expressions like "Thank" and "Greet" often serve purposes beyond their typical speech act association, and introduces a categorization system to analyze these alternative uses.
-
-@House_2022 
-- This paper explores the complexities of greeting in English compared to Chinese, addressing why Chinese learners of English find English greetings puzzling.
-- It included 2 interesting studies, analyzing corpora for pragmatic differences and similarities in greetings, and collecting data from English and Chinese speakers to observe their greeting behavior in various contexts. 
-
-- The study tries to clarify why some English learners struggle with greeting conventions.
-
-@Bobgan_2000 
-- It explores how age and gender affect responses to "How are you doing?" and the use of "good" as an adverb.
-
-
-
-@曲卫国_2001 
-
-- The paper defines greetings in Chinese and analyzes them from the perspectives of linguistic form, topic, and pragmatic constraints. It proposes three main characteristics of Chinese greetings: openness of topics, convertibility, and diversity in sentence patterns. 
-
-- It also compares Chinese greetings and English greetings in semantics and pragmatics, showing that Chinese greetings are more open and flexible than English greetings. 
-
-
-
-= Data and Methodology 
-
 == Greetings
 
+
+
+
 == Previous Research on Chinese Greetings 
+
+The literature on the comparative study of greetings in Chinese and English languages, especially focusing on expressions such as "你吃了吗？(Have you eaten?)", "你好吗？(How are you?)" in Chinese, and "How are you doing?" in English, offers a diverse and insightful perspective on the evolution, pragmatics, and sociocultural implications of these greetings.
+
+@XIA2023156's study provides a historical context, tracing the evolution of greeting culture in China from the 17th to the 20th century. It reveals a shift towards impersonalization in greetings, increased semantic informativeness, and a departure from traditional politeness norms of self-denigration and other-elevation. This historical perspective is crucial for understanding the current state of Chinese greeting practices.
+
+@Duranti_1997 and @Juliane_2021 offer frameworks for analyzing greetings across languages and the relationships between conventional expressions and speech acts. Duranti's six criteria and Juliane's categorization system for alternative uses of daily expressions like greetings are instrumental in understanding the substantive and social purposes of these linguistic interactions.
+
+@Liu_2016 and @House_2022 focus specifically on the comparison between English and Chinese greetings. Liu underscores the significance of greetings in social identity and cross-cultural communication, while House addresses the challenges Chinese learners of English face due to pragmatic differences in greeting conventions. House's inclusion of empirical studies adds depth to our understanding of these challenges.
+
+@gumperz2015interactional and @Boxer_2002 delve into the broader field of sociolinguistics and interactional studies, providing foundational concepts and methodologies such as interactional sociolinguistics and conversation analysis that are essential for analyzing greeting behaviors in different social settings.
+
+@Bobgan_2000 and @曲卫国_2001 contribute to the understanding of demographic and linguistic specifics. Bobgan explores the influence of age and gender on responses to greetings in English, while 曲卫国 offers a detailed analysis of the linguistic form, topic, and pragmatic constraints of Chinese greetings, highlighting their openness, convertibility, and diversity.
+
+Overall, these works collectively offer a comprehensive view of the sociolinguistic and pragmatic aspects of greetings in Chinese and English, emphasizing historical evolution, comparative analysis, and the influence of social and cultural factors on these everyday linguistic practices.
+= Data and Methodology 
+
+== Research questions
+In this paper, we analyze 2 representative dataset for Chinese greetings. The first dataset is #sb[MAGICDATA Mandarin Chinese Conversational Speech Corpus] @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles in various languages. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
+
+By comparing the usage of the greetings in the 2 datasets, we aim to answer the following three questions:
+
+#box()[
++ Are there any diachronic changes of greetings used in Chinese conversations?
+
++ If yes, what are the differences ?
+
++ What are the socio-historical motivations underlying these differences?
+]
+== Data Collection
+
+
+In this study, we count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context. 
+
+#figure(
+
+grid(
+  gutter: 3pt,
+  columns: (100%),
+table(
+  columns: (auto, 1fr),
+  [Regular expression], [Matched target],
+  [`/[^\p{script=Han}]你好[^\p{script=Han}]/`], [“你好” with no Hanzi characters before or after],
+  [`/[^\p{script=Han}]你好吗[^\p{script=Han}]/`], [“你好吗” with no Hanzi characters before or after],
+  [`/吃了吗[^\p{script=Han}]/`], [“吃了吗” with no Hanzi characters after],
+),
+v(3pt),
+text(10pt)[\* Full width puctuations, such as `。` and `？` are not matched by `\p{script=Han}`.],
+v(3pt)
+
+), 
+
+caption: "Regular expressions for matching greetings",
+
+)<RegTable>
+
 
 
 
 
 = Result and Discussion  
 
+#figure(
+
+grid(
+  gutter: 3pt,
+  columns: (100%),
+table(
+  columns: (auto, 1fr),
+  [Greeting], [Matches ],
+  [你好], [],
+  [你好吗 or 吃了吗], [],
+),
+
+),
+
+caption: "Regular expressions for matching greetings",
+
+)<Table1960>
+
+
+
 = Conclusion 
 
 
+
+
+
+
+
+#set par(
+  first-line-indent: 0em
+)
 
 #pagebreak()
 #bibliography("./main.bib", style: "american-psychological-association") 

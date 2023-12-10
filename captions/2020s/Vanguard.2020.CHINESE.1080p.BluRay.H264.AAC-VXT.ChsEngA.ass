@@ -1,0 +1,1259 @@
+﻿[Script Info]
+;aBu 2020♪
+
+Title: Vanguard.2020.CHINESE.1080p.BluRay.H264.AAC-VXT
+Original Script: aBu 2021-01-09
+Original Translation: 官译
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Chs,微软雅黑,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: Eng,微软雅黑,12,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.27,0:00:59.35,Default,,0000,0000,0000,,庆新春过大年\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Chinese new year
+Dialogue: 0,0:00:59.35,0:01:02.25,Default,,0000,0000,0000,,我们现在看到的是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is now celebrated throughout the world,
+Dialogue: 0,0:00:59.35,0:01:02.25,Default,,0000,0000,0000,,{\an8\fs18\b1}英国伦敦
+Dialogue: 0,0:01:02.34,0:01:04.34,Default,,0000,0000,0000,,特拉法尔加广场即将举行的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and we're about to witness
+Dialogue: 0,0:01:04.34,0:01:06.34,Default,,0000,0000,0000,,春节嘉年华巡游活动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}a spring festival carnival parade
+Dialogue: 0,0:01:06.34,0:01:08.35,Default,,0000,0000,0000,,这里处处洋溢着浓浓的节日气氛\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here...
+Dialogue: 0,0:01:12.30,0:01:15.20,Default,,0000,0000,0000,,现如今已经在世界各地渐成风气\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's finally slithered out of his cave.
+Dialogue: 0,0:01:16.44,0:01:18.27,Default,,0000,0000,0000,,马上行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bold move for a coward.
+Dialogue: 0,0:01:27.28,0:01:28.23,Default,,0000,0000,0000,,就等你了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where have you been?
+Dialogue: 0,0:01:28.23,0:01:29.23,Default,,0000,0000,0000,,真磨叽\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're late!
+Dialogue: 0,0:01:30.41,0:01:31.29,Default,,0000,0000,0000,,新年快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy new year!
+Dialogue: 0,0:01:31.29,0:01:32.30,Default,,0000,0000,0000,,过年好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy new year!
+Dialogue: 0,0:01:33.25,0:01:34.24,Default,,0000,0000,0000,,什么呀?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are these?
+Dialogue: 0,0:01:34.33,0:01:35.28,Default,,0000,0000,0000,,礼物啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Presents!
+Dialogue: 0,0:01:36.20,0:01:37.25,Default,,0000,0000,0000,,大过年就买这么点东西\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Showing up late with just these?
+Dialogue: 0,0:01:37.25,0:01:38.34,Default,,0000,0000,0000,,你好意思进去吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've got some nerve!
+Dialogue: 0,0:01:38.43,0:01:39.37,Default,,0000,0000,0000,,还有呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are more.
+Dialogue: 0,0:01:39.37,0:01:41.30,Default,,0000,0000,0000,,不行了  我拿不了了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, I can't manage.
+Dialogue: 0,0:01:42.20,0:01:43.23,Default,,0000,0000,0000,,哪个是我的?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's mine?
+Dialogue: 0,0:01:46.37,0:01:47.39,Default,,0000,0000,0000,,就我踢的这个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The one I just juggled.
+Dialogue: 0,0:01:48.34,0:01:49.43,Default,,0000,0000,0000,,踢坏我可不要啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If it's smashed, keep it.
+Dialogue: 0,0:01:49.43,0:01:51.26,Default,,0000,0000,0000,,那我帮你拿着\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll put it in storage.
+Dialogue: 0,0:01:52.27,0:01:53.23,Default,,0000,0000,0000,,走你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in!
+Dialogue: 0,0:01:54.29,0:01:55.31,Default,,0000,0000,0000,,来啦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're here!
+Dialogue: 0,0:01:55.31,0:01:56.41,Default,,0000,0000,0000,,来快帮我拿一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me a hand.
+Dialogue: 0,0:01:56.41,0:01:57.36,Default,,0000,0000,0000,,小宇来啦  叔叔\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Here's lei! - Uncle,
+Dialogue: 0,0:01:57.36,0:01:59.44,Default,,0000,0000,0000,,新年快乐  身体健康  万事如意\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I wish you the best of luck and health.
+Dialogue: 0,0:01:59.44,0:02:01.25,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Thank you so much!
+Dialogue: 0,0:02:02.22,0:02:03.30,Default,,0000,0000,0000,,好多礼物啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So many presents!
+Dialogue: 0,0:02:03.42,0:02:05.33,Default,,0000,0000,0000,,嘉华  干爹抱抱\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jiahua!
+Dialogue: 0,0:02:08.38,0:02:09.33,Default,,0000,0000,0000,,这位呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This young man
+Dialogue: 0,0:02:09.33,0:02:11.22,Default,,0000,0000,0000,,就是我女婿的同事\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}works with my son-in-law.
+Dialogue: 0,0:02:11.39,0:02:13.33,Default,,0000,0000,0000,,他工作非常的优秀\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's super capable
+Dialogue: 0,0:02:13.37,0:02:15.26,Default,,0000,0000,0000,,人呢  也很老实的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and a decent man, too.
+Dialogue: 0,0:02:15.31,0:02:16.28,Default,,0000,0000,0000,,主要呀\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Moreover,
+Dialogue: 0,0:02:16.28,0:02:17.31,Default,,0000,0000,0000,,他还单身\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he is unattached!
+Dialogue: 0,0:02:17.40,0:02:18.33,Default,,0000,0000,0000,,亲一个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A smooch...
+Dialogue: 0,0:02:18.33,0:02:19.39,Default,,0000,0000,0000,,跟干爹亲一个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give godfather a kiss!
+Dialogue: 0,0:02:53.43,0:02:55.25,Default,,0000,0000,0000,,女儿来电话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A call from my daughter!
+Dialogue: 0,0:02:56.30,0:02:57.27,Default,,0000,0000,0000,,喂  爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi, dad!
+Dialogue: 0,0:02:57.27,0:02:59.25,Default,,0000,0000,0000,,新年快乐  身体健康\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy new year!
+Dialogue: 0,0:02:59.29,0:03:01.36,Default,,0000,0000,0000,,恭喜发财  新年快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy new year to you, too.
+Dialogue: 0,0:03:01.41,0:03:03.42,Default,,0000,0000,0000,,你的咽炎好点了没有啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How's your sore throat?
+Dialogue: 0,0:03:04.28,0:03:05.28,Default,,0000,0000,0000,,没犯\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm good.
+Dialogue: 0,0:03:05.28,0:03:06.22,Default,,0000,0000,0000,,听女儿的话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I heeded your advice,
+Dialogue: 0,0:03:06.22,0:03:07.27,Default,,0000,0000,0000,,烟早就戒了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and quit smoking.
+Dialogue: 0,0:03:09.23,0:03:10.25,Default,,0000,0000,0000,,你在哪儿呢?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where are you?
+Dialogue: 0,0:03:10.25,0:03:11.36,Default,,0000,0000,0000,,我现在在非洲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm in Africa!
+Dialogue: 0,0:03:11.36,0:03:12.25,Default,,0000,0000,0000,,给你看\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let me show you...
+Dialogue: 0,0:03:12.37,0:03:14.20,Default,,0000,0000,0000,,你在非洲?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Africa?
+Dialogue: 0,0:03:14.25,0:03:15.33,Default,,0000,0000,0000,,看到了吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can you see?
+Dialogue: 0,0:03:15.44,0:03:17.28,Default,,0000,0000,0000,,那些地方要小心点啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have to stay alert.
+Dialogue: 0,0:03:17.37,0:03:18.40,Default,,0000,0000,0000,,有男朋友陪吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is your boyfriend with you?
+Dialogue: 0,0:03:18.40,0:03:20.30,Default,,0000,0000,0000,,我哪有男朋友\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't have one.
+Dialogue: 0,0:03:20.30,0:03:22.27,Default,,0000,0000,0000,,Farceda  美薇也在  你们说两句\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fareeda, }meiwei is here, have a chat with her.
+Dialogue: 0,0:03:22.27,0:03:24.26,Default,,0000,0000,0000,,-Fareeda  新年快乐  -爸爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Fareeda, happy new year! - Dad.
+Dialogue: 0,0:03:24.28,0:03:25.35,Default,,0000,0000,0000,,-你那卡了  爸爸  -我是美薇\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Dad, I'm losing you... - Meiwei here... Fareeda... Hello?
+Dialogue: 0,0:03:35.37,0:03:37.20,Default,,0000,0000,0000,,Juma  走  开车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Juma, let's go!
+Dialogue: 0,0:03:39.28,0:03:41.21,Default,,0000,0000,0000,,是信号不好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, as always,
+Dialogue: 0,0:03:41.21,0:03:43.30,Default,,0000,0000,0000,,每次你让她跟我说话都信号不好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}whenever I want to start a conversation.
+Dialogue: 0,0:03:43.41,0:03:45.30,Default,,0000,0000,0000,,我觉得她还没接受我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's avoiding me.
+Dialogue: 0,0:03:45.43,0:03:46.37,Default,,0000,0000,0000,,不会的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No way!
+Dialogue: 0,0:03:46.37,0:03:47.39,Default,,0000,0000,0000,,你想太多了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't over-react.
+Dialogue: 0,0:04:02.40,0:04:03.31,Default,,0000,0000,0000,,出来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get out!
+Dialogue: 0,0:04:03.31,0:04:04.40,Default,,0000,0000,0000,,快点儿  快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, now!
+Dialogue: 0,0:04:07.28,0:04:07.44,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move!
+Dialogue: 0,0:04:17.38,0:04:18.34,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir,
+Dialogue: 0,0:04:23.36,0:04:25.22,Default,,0000,0000,0000,,要客秦国立被劫持\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the qin couple has been kidnapped.
+Dialogue: 0,0:04:25.44,0:04:27.20,Default,,0000,0000,0000,,有报警吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did you call the police?
+Dialogue: 0,0:04:27.20,0:04:28.22,Default,,0000,0000,0000,,已经报警\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just called them.
+Dialogue: 0,0:04:28.22,0:04:30.21,Default,,0000,0000,0000,,今天是唐人街春节大巡游\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's a Chinese new year parade.
+Dialogue: 0,0:04:30.21,0:04:31.38,Default,,0000,0000,0000,,该区有几十万游客\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are thousands of revellers,
+Dialogue: 0,0:04:31.43,0:04:33.36,Default,,0000,0000,0000,,所有道路已被封锁\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}all roads are blocked.
+Dialogue: 0,0:04:33.36,0:04:34.43,Default,,0000,0000,0000,,警力到达需要一段时间\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The police will take time to respond.
+Dialogue: 0,0:04:34.43,0:04:36.21,Default,,0000,0000,0000,,有没有秦国立的定位?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where is qin?
+Dialogue: 0,0:04:36.31,0:04:37.28,Default,,0000,0000,0000,,正在移动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On the move
+Dialogue: 0,0:04:37.38,0:04:38.40,Default,,0000,0000,0000,,还在唐人街区域\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but still in Chinatown.
+Dialogue: 0,0:04:38.40,0:04:40.24,Default,,0000,0000,0000,,我们有没有队员在附近?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are therevanguards in the area?
+Dialogue: 0,0:04:40.33,0:04:42.23,Default,,0000,0000,0000,,有两名休假的队员就在附近\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two off-dutyvanguards nearby.
+Dialogue: 0,0:04:42.35,0:04:44.29,Default,,0000,0000,0000,,立即派他们去营救秦国立\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Send them to rescue qin guoli right away.
+Dialogue: 0,0:04:44.29,0:04:45.25,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir!
+Dialogue: 0,0:04:51.86,0:04:52.86,Default,,0000,0000,0000,,一\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One.
+Dialogue: 0,0:04:53.74,0:04:54.70,Default,,0000,0000,0000,,二\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two.
+Dialogue: 0,0:04:55.57,0:04:56.24,Default,,0000,0000,0000,,三\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Three.
+Dialogue: 0,0:04:57.33,0:04:58.37,Default,,0000,0000,0000,,真厉害\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Amazing!
+Dialogue: 0,0:04:59.24,0:05:01.25,Default,,0000,0000,0000,,看干爹给你买的这是什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See what godfather has brought you?
+Dialogue: 0,0:05:01.38,0:05:03.33,Default,,0000,0000,0000,,干爹  这个是什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Godfather, who is that?
+Dialogue: 0,0:05:03.37,0:05:04.42,Default,,0000,0000,0000,,这是中国英雄\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain China!
+Dialogue: 0,0:05:05.23,0:05:06.22,Default,,0000,0000,0000,,像不像你爸爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He looks just like your dad.
+Dialogue: 0,0:05:06.28,0:05:08.29,Default,,0000,0000,0000,,爸爸就是中国英雄\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain China is my dad!
+Dialogue: 0,0:05:17.20,0:05:18.38,Default,,0000,0000,0000,,我们的VIP客户被绑架\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Our vip clients are kidnapped.
+Dialogue: 0,0:05:18.38,0:05:19.44,Default,,0000,0000,0000,,需要紧急支援\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Emergency deployment requested.
+Dialogue: 0,0:05:20.23,0:05:21.33,Default,,0000,0000,0000,,距离你们位置四百米\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}About 400m from your current location.
+Dialogue: 0,0:05:21.35,0:05:22.27,Default,,0000,0000,0000,,两位小心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay alert!
+Dialogue: 0,0:05:22.36,0:05:23.26,Default,,0000,0000,0000,,明白\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Copy that!
+Dialogue: 0,0:05:23.38,0:05:24.37,Default,,0000,0000,0000,,妈  我们得走了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mom, we need to go.
+Dialogue: 0,0:05:26.43,0:05:29.25,Default,,0000,0000,0000,,嘉华  乖乖跟小姨在一块儿玩\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jiahua, keep your aunt amused. There!
+Dialogue: 0,0:05:43.35,0:05:44.30,Default,,0000,0000,0000,,坐下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sit down!
+Dialogue: 0,0:05:47.37,0:05:49.28,Default,,0000,0000,0000,,下午好啊  秦先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good afternoon, mr qin.
+Dialogue: 0,0:05:53.44,0:05:55.22,Default,,0000,0000,0000,,你们是什么人?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who are you people?
+Dialogue: 0,0:05:56.39,0:05:59.41,Default,,0000,0000,0000,,是你把Omar父亲的行踪透露给美国人吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You betrayed Omar's father's location to the Americans, didn't you?
+Dialogue: 0,0:05:59.43,0:06:02.30,Default,,0000,0000,0000,,没有  我不知道他父亲的行踪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, I didn't know where his father was.
+Dialogue: 0,0:06:06.29,0:06:07.24,Default,,0000,0000,0000,,Omar他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Omar's...
+Dialogue: 0,0:06:07.24,0:06:08.30,Default,,0000,0000,0000,,还活着?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Still alive?
+Dialogue: 0,0:06:11.27,0:06:12.28,Default,,0000,0000,0000,,那些财产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The money!
+Dialogue: 0,0:06:13.21,0:06:14.41,Default,,0000,0000,0000,,Omar父亲的财产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Omar's father's money,
+Dialogue: 0,0:06:15.25,0:06:16.35,Default,,0000,0000,0000,,在你那里吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}do you have it?
+Dialogue: 0,0:06:18.36,0:06:19.34,Default,,0000,0000,0000,,没有\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,
+Dialogue: 0,0:06:19.41,0:06:20.41,Default,,0000,0000,0000,,我不知道\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:06:24.21,0:06:25.27,Default,,0000,0000,0000,,他是你丈夫?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is he your husband?
+Dialogue: 0,0:06:26.25,0:06:27.26,Default,,0000,0000,0000,,是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes...
+Dialogue: 0,0:06:30.41,0:06:31.44,Default,,0000,0000,0000,,求你不要伤害我妻子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please, don't hurt my wife.
+Dialogue: 0,0:06:31.44,0:06:32.41,Default,,0000,0000,0000,,-老公  -求你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Honey - no, please
+Dialogue: 0,0:06:32.41,0:06:34.21,Default,,0000,0000,0000,,听我解释\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}let me explain.
+Dialogue: 0,0:06:34.29,0:06:35.29,Default,,0000,0000,0000,,这事儿跟她没关系\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She has nothing to do with this!
+Dialogue: 0,0:06:35.29,0:06:36.28,Default,,0000,0000,0000,,老公\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Honey...
+Dialogue: 0,0:06:36.34,0:06:39.24,Default,,0000,0000,0000,,你知道失去亲人的滋味吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do you know what it's like to lose your loved ones?
+Dialogue: 0,0:06:39.37,0:06:40.37,Default,,0000,0000,0000,,秦先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr qin!
+Dialogue: 0,0:06:49.21,0:06:50.23,Default,,0000,0000,0000,,钱呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The money!
+Dialogue: 0,0:06:51.21,0:06:51.42,Default,,0000,0000,0000,,快说\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell me!
+Dialogue: 0,0:06:58.33,0:06:59.26,Default,,0000,0000,0000,,我们到位了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're in position.
+Dialogue: 0,0:07:02.20,0:07:03.21,Default,,0000,0000,0000,,带枪了吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Brought your gun?
+Dialogue: 0,0:07:03.21,0:07:04.29,Default,,0000,0000,0000,,休假带什么枪啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, it's my day off.
+Dialogue: 0,0:07:05.35,0:07:06.30,Default,,0000,0000,0000,,你带了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What about you?
+Dialogue: 0,0:07:06.30,0:07:07.22,Default,,0000,0000,0000,,带了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Of course!
+Dialogue: 0,0:07:07.33,0:07:08.37,Default,,0000,0000,0000,,在他们那儿呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's with them.
+Dialogue: 0,0:07:09.27,0:07:10.26,Default,,0000,0000,0000,,掩护我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cover me.
+Dialogue: 0,0:07:19.24,0:07:20.40,Default,,0000,0000,0000,,先生  我们关门了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, we are closed.
+Dialogue: 0,0:07:20.40,0:07:21.36,Default,,0000,0000,0000,,关门了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Closed?
+Dialogue: 0,0:07:21.36,0:07:22.27,Default,,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:07:23.20,0:07:24.20,Default,,0000,0000,0000,,我是这里的老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the boss!
+Dialogue: 0,0:07:25.30,0:07:26.28,Default,,0000,0000,0000,,管你是谁\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't care.
+Dialogue: 0,0:07:34.20,0:07:34.39,Default,,0000,0000,0000,,没枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's unarmed.
+Dialogue: 0,0:07:34.44,0:07:35.43,Default,,0000,0000,0000,,分头行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's split up.
+Dialogue: 0,0:07:41.42,0:07:42.35,Default,,0000,0000,0000,,杀了她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kill her!
+Dialogue: 0,0:07:43.33,0:07:44.30,Default,,0000,0000,0000,,不要\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, no!
+Dialogue: 0,0:07:45.20,0:07:45.41,Default,,0000,0000,0000,,求你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please...
+Dialogue: 0,0:07:50.20,0:07:51.38,Default,,0000,0000,0000,,我知道那笔财产在哪儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know where the money is.
+Dialogue: 0,0:07:52.34,0:07:53.23,Default,,0000,0000,0000,,很好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good.
+Dialogue: 0,0:07:58.34,0:08:00.31,Default,,0000,0000,0000,,只要你把全部财产交出来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hand over the money to me
+Dialogue: 0,0:08:00.31,0:08:02.23,Default,,0000,0000,0000,,我不会伤害你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and I won't hurt you
+Dialogue: 0,0:08:02.23,0:08:03.36,Default,,0000,0000,0000,,还有你的老婆\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or your wife.
+Dialogue: 0,0:08:16.39,0:08:17.30,Default,,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi.
+Dialogue: 0,0:08:17.33,0:08:18.35,Default,,0000,0000,0000,,今天不营业\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're closed today.
+Dialogue: 0,0:08:18.35,0:08:19.44,Default,,0000,0000,0000,,你的狼崽需要你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your puppy needs you.
+Dialogue: 0,0:08:37.20,0:08:37.35,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Run!
+Dialogue: 0,0:08:41.24,0:08:42.21,Default,,0000,0000,0000,,跟我来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come with me!
+Dialogue: 0,0:08:47.21,0:08:47.44,Default,,0000,0000,0000,,抓住她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get her!
+Dialogue: 0,0:08:56.37,0:08:57.28,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Run!
+Dialogue: 0,0:09:14.39,0:09:15.33,Default,,0000,0000,0000,,进去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go inside.
+Dialogue: 0,0:10:17.34,0:10:18.24,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}C'mon. Go.
+Dialogue: 0,0:10:48.33,0:10:49.23,Default,,0000,0000,0000,,躲起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take cover.
+Dialogue: 0,0:11:20.25,0:11:21.27,Default,,0000,0000,0000,,凯旋你在哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan, where are you?
+Dialogue: 0,0:11:21.31,0:11:22.34,Default,,0000,0000,0000,,我炸猪蹄呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm frying a pig's knuckle!
+Dialogue: 0,0:11:33.25,0:11:34.31,Default,,0000,0000,0000,,只是一个安保\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's just security.
+Dialogue: 0,0:11:36.33,0:11:39.30,Default,,0000,0000,0000,,把秦国立交给我就放你走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hand over qin guoli to me and I will let you leave.
+Dialogue: 0,0:11:39.30,0:11:40.44,Default,,0000,0000,0000,,只是份工作而已\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's just a job,
+Dialogue: 0,0:11:41.34,0:11:43.31,Default,,0000,0000,0000,,何必这么拼命?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}why risk your life over it?
+Dialogue: 0,0:11:45.30,0:11:46.31,Default,,0000,0000,0000,,你也是打工的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They don't pay enough for you
+Dialogue: 0,0:11:46.31,0:11:47.29,Default,,0000,0000,0000,,干嘛这么拼命?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to work this hard.
+Dialogue: 0,0:11:47.44,0:11:48.40,Default,,0000,0000,0000,,你是谁啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who are you?
+Dialogue: 0,0:11:53.28,0:11:53.42,Default,,0000,0000,0000,,跳\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jump!
+Dialogue: 0,0:11:58.44,0:12:00.29,Default,,0000,0000,0000,,我是"急先锋"的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm fromvanguard!
+Dialogue: 0,0:12:14.38,0:12:15.33,Default,,0000,0000,0000,,别开枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't shoot.
+Dialogue: 0,0:12:15.35,0:12:16.42,Default,,0000,0000,0000,,我要活的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need him alive.
+Dialogue: 0,0:12:20.30,0:12:21.37,Default,,0000,0000,0000,,弥雅  你在哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Miya, where are you?
+Dialogue: 0,0:12:22.20,0:12:23.24,Default,,0000,0000,0000,,还有三十秒  马上就到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm 30 seconds away.
+Dialogue: 0,0:12:31.28,0:12:31.43,Default,,0000,0000,0000,,快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hurry... C'mon.
+Dialogue: 0,0:12:35.25,0:12:36.20,Default,,0000,0000,0000,,快上车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in, quick!
+Dialogue: 0,0:12:45.33,0:12:46.30,Default,,0000,0000,0000,,别开枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't shoot!
+Dialogue: 0,0:12:46.37,0:12:47.38,Default,,0000,0000,0000,,他受伤了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's hurt.
+Dialogue: 0,0:12:48.21,0:12:48.42,Default,,0000,0000,0000,,没事儿吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You alright?
+Dialogue: 0,0:12:49.25,0:12:50.20,Default,,0000,0000,0000,,没事儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm okay.
+Dialogue: 0,0:14:00.20,0:14:01.33,Default,,0000,0000,0000,,劫持秦先生的这伙人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The gang that captured qin
+Dialogue: 0,0:14:01.33,0:14:02.43,Default,,0000,0000,0000,,是来自"北极狼"的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are from the arctic wolves.
+Dialogue: 0,0:14:04.28,0:14:05.34,Default,,0000,0000,0000,,带头的人叫Broto\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Their leader is broto.
+Dialogue: 0,0:14:06.33,0:14:08.26,Default,,0000,0000,0000,,只要有钱什么都干\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They'll do anything for money.
+Dialogue: 0,0:14:15.42,0:14:17.36,Default,,0000,0000,0000,,"北极狼"怎么会盯上你呢?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why are they after you?
+Dialogue: 0,0:14:19.44,0:14:22.37,Default,,0000,0000,0000,,以前我在中东有个合作伙伴叫Maasym\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I had a business partner called maasym.
+Dialogue: 0,0:14:23.30,0:14:25.21,Default,,0000,0000,0000,,我替他在欧洲卖石油\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I made him a fortune
+Dialogue: 0,0:14:27.24,0:14:28.31,Default,,0000,0000,0000,,可是后来我发现\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I only found out later
+Dialogue: 0,0:14:28.31,0:14:30.31,Default,,0000,0000,0000,,他竟然是"复仇者组织"的头领\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he ran the gang brotherhood of vengeance.
+Dialogue: 0,0:14:31.24,0:14:33.29,Default,,0000,0000,0000,,那时我想脱离他已经来不及了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I tried to quit but it was too late.
+Dialogue: 0,0:14:34.23,0:14:35.27,Default,,0000,0000,0000,,Maasym他威胁我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maasym forced me
+Dialogue: 0,0:14:35.33,0:14:36.38,Default,,0000,0000,0000,,让我帮他安排资金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to arrange funds for him
+Dialogue: 0,0:14:36.38,0:14:38.40,Default,,0000,0000,0000,,来购买大规模杀伤性武器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to buy weapons of mass destruction,
+Dialogue: 0,0:14:39.28,0:14:40.31,Default,,0000,0000,0000,,如果我不从\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or he would kill me
+Dialogue: 0,0:14:40.42,0:14:42.36,Default,,0000,0000,0000,,他会杀了我  还有我的家人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and my family.
+Dialogue: 0,0:14:44.44,0:14:45.40,Default,,0000,0000,0000,,后来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Later,
+Dialogue: 0,0:14:46.29,0:14:48.23,Default,,0000,0000,0000,,我向伦敦警方举报他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I tipped off the London police
+Dialogue: 0,0:14:48.23,0:14:49.33,Default,,0000,0000,0000,,提供了Maasym的资料\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}about him.
+Dialogue: 0,0:14:50.38,0:14:51.40,Default,,0000,0000,0000,,{\fs18\b1}七个月前
+Dialogue: 0,0:14:52.20,0:14:53.38,Default,,0000,0000,0000,,美军把Maasym给炸死了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Maasym was killed in a military operation.
+Dialogue: 0,0:14:53.44,0:14:56.22,Default,,0000,0000,0000,,他的长子Omar却活了下来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}His eldest son Omar survived.
+Dialogue: 0,0:14:56.38,0:14:58.31,Default,,0000,0000,0000,,"北极狼"是Omar派来的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So Omar sent the arctic wolves?
+Dialogue: 0,0:14:59.42,0:15:00.33,Default,,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:15:04.29,0:15:06.20,Default,,0000,0000,0000,,他们如果在这里抓不到我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If they can't get me,
+Dialogue: 0,0:15:06.20,0:15:07.26,Default,,0000,0000,0000,,一定会去抓我女儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they'll go after my daughter.
+Dialogue: 0,0:15:07.33,0:15:09.21,Default,,0000,0000,0000,,请你立刻派人去把我女儿带回来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can you send someone
+Dialogue: 0,0:15:09.21,0:15:09.35,Default,,0000,0000,0000,,可以吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to bring her back?
+Dialogue: 0,0:15:10.25,0:15:11.25,Default,,0000,0000,0000,,她现在在哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's she now?
+Dialogue: 0,0:15:11.27,0:15:12.31,Default,,0000,0000,0000,,她在非洲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Africa.
+Dialogue: 0,0:15:13.44,0:15:14.42,Default,,0000,0000,0000,,这个我会安排\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll see to it.
+Dialogue: 0,0:15:15.33,0:15:16.25,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:15:28.28,0:15:29.40,Default,,0000,0000,0000,,老板  Broto\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boss, broto.
+Dialogue: 0,0:15:31.20,0:15:32.21,Default,,0000,0000,0000,,人被救走了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's saft.
+Dialogue: 0,0:15:32.34,0:15:33.40,Default,,0000,0000,0000,,被谁救走了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Taken away by who?
+Dialogue: 0,0:15:33.40,0:15:35.33,Default,,0000,0000,0000,,他们  自称"急先锋"\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They call themselves vanguard.
+Dialogue: 0,0:15:37.43,0:15:39.26,Default,,0000,0000,0000,,"急先锋"是什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What'svanguard?
+Dialogue: 0,0:15:39.26,0:15:42.20,Default,,0000,0000,0000,,"急先锋"是一家民营国际安保公司\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Vanguard is an international private security company
+Dialogue: 0,0:15:42.23,0:15:43.42,Default,,0000,0000,0000,,成员主要来自国际退役军警\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}most of them are retired military
+Dialogue: 0,0:15:43.42,0:15:45.26,Default,,0000,0000,0000,,和安保专家\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or security experts.
+Dialogue: 0,0:15:45.36,0:15:48.37,Default,,0000,0000,0000,,他们的服务包括安保运输和要员保护\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Their services include security for shipping, and vip protection.
+Dialogue: 0,0:15:48.37,0:15:49.30,Default,,0000,0000,0000,,够了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Enough!
+Dialogue: 0,0:15:50.39,0:15:52.22,Default,,0000,0000,0000,,秦国立还有一个女儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Qin has a daughter.
+Dialogue: 0,0:15:52.25,0:15:53.31,Default,,0000,0000,0000,,把她给我带来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bring her to me
+Dialogue: 0,0:15:53.35,0:15:56.29,Default,,0000,0000,0000,,不管他躲在哪个洞穴\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and he will scurry out of whatever hole
+Dialogue: 0,0:15:56.31,0:15:58.22,Default,,0000,0000,0000,,都会乖乖爬出来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he's crawled into, okay?
+Dialogue: 0,0:15:58.22,0:15:58.40,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir!
+Dialogue: 0,0:16:04.40,0:16:05.33,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir,
+Dialogue: 0,0:16:05.33,0:16:06.42,Default,,0000,0000,0000,,伦敦警方已经核实\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the intel from qin
+Dialogue: 0,0:16:06.42,0:16:08.35,Default,,0000,0000,0000,,秦国立所说内容属实\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}has been verified by the London police.
+Dialogue: 0,0:16:08.35,0:16:09.26,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good.
+Dialogue: 0,0:16:17.39,0:16:20.23,Default,,0000,0000,0000,,这个女孩一个人跑来非洲保护野生动物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The girl went alone to protect African wildlife
+Dialogue: 0,0:16:20.31,0:16:23.25,Default,,0000,0000,0000,,还冒险拍到这些非法盗猎的画面\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and risked her life recording poachers.
+Dialogue: 0,0:16:23.30,0:16:24.30,Default,,0000,0000,0000,,很勇敢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's brave.
+Dialogue: 0,0:16:25.21,0:16:27.23,Default,,0000,0000,0000,,她在非洲野生动物保护志愿者中\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Among wildlife conservationists,
+Dialogue: 0,0:16:27.23,0:16:28.24,Default,,0000,0000,0000,,还是比较活跃的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}she's an activist.
+Dialogue: 0,0:16:28.31,0:16:29.34,Default,,0000,0000,0000,,在非洲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In Africa,
+Dialogue: 0,0:16:29.34,0:16:30.44,Default,,0000,0000,0000,,每年有三万头大象\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}30,000 elephants
+Dialogue: 0,0:16:30.44,0:16:33.40,Default,,0000,0000,0000,,被盗猎者非法猎杀\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are slaughtered by hunters every year.
+Dialogue: 0,0:16:33.43,0:16:35.34,Default,,0000,0000,0000,,我现在还挺佩服她的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have great respect for her.
+Dialogue: 0,0:16:35.34,0:16:36.34,Default,,0000,0000,0000,,你看她的视频\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just look at her video,
+Dialogue: 0,0:16:36.34,0:16:37.37,Default,,0000,0000,0000,,上传不到一个小时\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}uploaded an hour ago,
+Dialogue: 0,0:16:37.40,0:16:39.31,Default,,0000,0000,0000,,就有四十多万的点击量\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Has 400,000 pic...
+Dialogue: 0,0:16:40.24,0:16:42.30,Default,,0000,0000,0000,,现在我们又多了一帮敌人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}now we have more adversaries.
+Dialogue: 0,0:16:42.37,0:16:43.33,Default,,0000,0000,0000,,赶快找到她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We must find her quickly.
+Dialogue: 0,0:16:43.35,0:16:45.23,Default,,0000,0000,0000,,我们有理由相信\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have reason to believe that
+Dialogue: 0,0:16:45.23,0:16:48.28,Default,,0000,0000,0000,,被杀的志愿者和这些盗猎者有关\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the volunteers were victims of a group of poachers
+Dialogue: 0,0:16:48.28,0:16:50.37,Default,,0000,0000,0000,,盗猎者的头领叫吞达\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}led by a man named tunda.
+Dialogue: 0,0:16:51.23,0:16:53.44,Default,,0000,0000,0000,,像他这样的杀人犯应该被关起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Murderous scum like him should be locked up!
+Dialogue: 0,0:16:54.39,0:16:55.41,Default,,0000,0000,0000,,我要她死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I want her dead!
+Dialogue: 0,0:17:14.34,0:17:15.26,Default,,0000,0000,0000,,吞达\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tunda!
+Dialogue: 0,0:17:16.24,0:17:17.24,Default,,0000,0000,0000,,最近怎么样?  朋友\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How's it going, my friend?
+Dialogue: 0,0:17:17.37,0:17:18.34,Default,,0000,0000,0000,,很开心见到你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good to see you.
+Dialogue: 0,0:17:19.27,0:17:20.38,Default,,0000,0000,0000,,看看你  超级明星\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at you, superstar!
+Dialogue: 0,0:17:21.20,0:17:22.42,Default,,0000,0000,0000,,一小时就四十万的点击量\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}400,000 clicks in one hour.
+Dialogue: 0,0:17:23.37,0:17:24.33,Default,,0000,0000,0000,,不错啊  兄弟\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not bad, my brother.
+Dialogue: 0,0:17:24.33,0:17:25.39,Default,,0000,0000,0000,,闭嘴吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shut up!
+Dialogue: 0,0:17:26.37,0:17:27.33,Default,,0000,0000,0000,,那个女孩\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This girl,
+Dialogue: 0,0:17:27.43,0:17:29.20,Default,,0000,0000,0000,,我一定要找到她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm gonna find her
+Dialogue: 0,0:17:29.27,0:17:30.25,Default,,0000,0000,0000,,然后宰了她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and kill her.
+Dialogue: 0,0:17:30.33,0:17:31.30,Default,,0000,0000,0000,,我们也在找她  来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're looking for her, too.
+Dialogue: 0,0:17:31.30,0:17:33.25,Default,,0000,0000,0000,,我介绍你认识一下我的老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, let me introduce you to my boss.
+Dialogue: 0,0:17:33.33,0:17:34.44,Default,,0000,0000,0000,,老板  这是吞达\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, boss, this is tunda,
+Dialogue: 0,0:17:34.44,0:17:36.38,Default,,0000,0000,0000,,非洲最好的猎人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the best hunter in all of Africa.
+Dialogue: 0,0:17:37.30,0:17:38.38,Default,,0000,0000,0000,,你能找到那个女孩吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can you find the girl?
+Dialogue: 0,0:17:40.33,0:17:43.26,Default,,0000,0000,0000,,这个多管闲事的贱货\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bicth...
+Dialogue: 0,0:17:44.24,0:17:46.41,Default,,0000,0000,0000,,她说有119人被杀了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She said the kill count was 1197?
+Dialogue: 0,0:17:47.37,0:17:48.40,Default,,0000,0000,0000,,一旦抓住她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Once I get to her,
+Dialogue: 0,0:17:49.24,0:17:51.29,Default,,0000,0000,0000,,我会让她成为第120个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm going to make it an even 120!
+Dialogue: 0,0:17:51.31,0:17:53.37,Default,,0000,0000,0000,,你猎动物  我猎人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You hunt animals, I hunt people.
+Dialogue: 0,0:17:54.23,0:17:55.26,Default,,0000,0000,0000,,我们的区别就是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The only difference is,
+Dialogue: 0,0:17:55.29,0:17:57.23,Default,,0000,0000,0000,,我要活捉我的猎物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I got my trophy taken alive.
+Dialogue: 0,0:18:00.27,0:18:01.40,Default,,0000,0000,0000,,这些是给你的订金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here's your deposit for now.
+Dialogue: 0,0:18:02.27,0:18:05.23,Default,,0000,0000,0000,,完事后还有更丰厚的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You'll get the big bucks once you complete the hunt.
+Dialogue: 0,0:18:07.23,0:18:08.26,Default,,0000,0000,0000,,我们去打猎吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go hunting!
+Dialogue: 0,0:18:08.33,0:18:11.22,Default,,0000,0000,0000,,出发  去打猎\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah! Go hunting! Let's go!
+Dialogue: 0,0:18:11.27,0:18:13.25,Default,,0000,0000,0000,,爽啊  去打猎\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yeah! Yeah! Go hunting!
+Dialogue: 0,0:18:23.33,0:18:25.20,Default,,0000,0000,0000,,Charlie  过来  Charlie  来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie, come. Charlie, come on!
+Dialogue: 0,0:18:32.36,0:18:33.41,Default,,0000,0000,0000,,好重\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Weght...
+Dialogue: 0,0:18:57.30,0:18:58.31,Default,,0000,0000,0000,,她在那边\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There she is.
+Dialogue: 0,0:19:01.25,0:19:02.33,Default,,0000,0000,0000,,Juma  他们是什么人?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Juma, who are they?
+Dialogue: 0,0:19:02.33,0:19:03.31,Default,,0000,0000,0000,,我不知道啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know.
+Dialogue: 0,0:19:06.39,0:19:08.24,Default,,0000,0000,0000,,你是Fareeda吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you fareeda?
+Dialogue: 0,0:19:08.28,0:19:09.26,Default,,0000,0000,0000,,我是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:19:09.29,0:19:10.44,Default,,0000,0000,0000,,这里有狮子  你不能过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are lions here. Back off.
+Dialogue: 0,0:19:13.21,0:19:14.25,Default,,0000,0000,0000,,Charlie  别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie, stay.
+Dialogue: 0,0:19:16.34,0:19:17.29,Default,,0000,0000,0000,,我去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gosh,
+Dialogue: 0,0:19:19.27,0:19:20.28,Default,,0000,0000,0000,,真有狮子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they're real lions!
+Dialogue: 0,0:19:23.44,0:19:25.30,Default,,0000,0000,0000,,站着比它凶就行了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stand your ground!
+Dialogue: 0,0:19:25.44,0:19:27.39,Default,,0000,0000,0000,,我们受你父亲秦国立所托\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your father sent us
+Dialogue: 0,0:19:28.20,0:19:28.40,Default,,0000,0000,0000,,来这里接你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to come and fetch you.
+Dialogue: 0,0:19:32.33,0:19:34.31,Default,,0000,0000,0000,,这些人就是来绑架你的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're here to kidnap you!
+Dialogue: 0,0:19:34.31,0:19:35.23,Default,,0000,0000,0000,,赶快过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come over now!
+Dialogue: 0,0:19:35.25,0:19:36.27,Default,,0000,0000,0000,,震宇  快去接她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lei, go get her!
+Dialogue: 0,0:19:38.37,0:19:39.40,Default,,0000,0000,0000,,Charlic  退后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie, back.
+Dialogue: 0,0:19:39.43,0:19:40.38,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir,
+Dialogue: 0,0:19:40.43,0:19:41.40,Default,,0000,0000,0000,,有狮子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}lions on the loose!
+Dialogue: 0,0:19:42.25,0:19:44.27,Default,,0000,0000,0000,,一个女孩子不怕  你怕什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you afraid of?
+Dialogue: 0,0:19:44.27,0:19:45.33,Default,,0000,0000,0000,,狮子是公的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a male.
+Dialogue: 0,0:19:45.33,0:19:46.38,Default,,0000,0000,0000,,不是也有母的吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There's also a lioness.
+Dialogue: 0,0:19:48.29,0:19:49.23,Default,,0000,0000,0000,,别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay!
+Dialogue: 0,0:19:50.31,0:19:51.29,Default,,0000,0000,0000,,她在那儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's over there.
+Dialogue: 0,0:19:55.24,0:19:55.41,Default,,0000,0000,0000,,拿枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get the guns!
+Dialogue: 0,0:19:56.07,0:19:57.07,Default,,0000,0000,0000,,Yes, sir\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir.
+Dialogue: 0,0:20:00.57,0:20:01.57,Default,,0000,0000,0000,,跟我走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Follow me.
+Dialogue: 0,0:20:02.34,0:20:03.23,Default,,0000,0000,0000,,在那儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There!
+Dialogue: 0,0:20:03.36,0:20:05.28,Default,,0000,0000,0000,,除了Fareeda全部给我杀光\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kill them all except fareeda.
+Dialogue: 0,0:20:09.29,0:20:10.28,Default,,0000,0000,0000,,该死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Damn you!
+Dialogue: 0,0:20:12.30,0:20:13.30,Default,,0000,0000,0000,,又是"急先锋"\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Vanguard again!
+Dialogue: 0,0:20:23.38,0:20:24.36,Default,,0000,0000,0000,,跟着我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay with me.
+Dialogue: 0,0:20:26.36,0:20:28.21,Default,,0000,0000,0000,,去抓那个女孩  快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get the girl, now!
+Dialogue: 0,0:20:35.39,0:20:37.31,Default,,0000,0000,0000,,这个女孩会得到她应得的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This girl, she's gonna get what she deserves.
+Dialogue: 0,0:20:37.37,0:20:39.25,Default,,0000,0000,0000,,你干什么?  我们要活的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you doing? We need her alive.
+Dialogue: 0,0:20:41.23,0:20:42.24,Default,,0000,0000,0000,,什么都行\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whatever...
+Dialogue: 0,0:21:01.23,0:21:01.39,Default,,0000,0000,0000,,上车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in!
+Dialogue: 0,0:21:40.43,0:21:41.42,Default,,0000,0000,0000,,出来过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get out! Come on!
+Dialogue: 0,0:21:42.70,0:21:43.70,Default,,0000,0000,0000,,Charlie!\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie!
+Dialogue: 0,0:21:44.29,0:21:45.21,Default,,0000,0000,0000,,救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Help me!
+Dialogue: 0,0:21:49.36,0:21:50.44,Default,,0000,0000,0000,,Charlic  救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie! Help me!
+Dialogue: 0,0:21:55.33,0:21:56.41,Default,,0000,0000,0000,,Charlic  过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie, over here!
+Dialogue: 0,0:21:56.41,0:21:57.42,Default,,0000,0000,0000,,什么Charlie啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who's Charlie?
+Dialogue: 0,0:21:58.36,0:21:59.40,Default,,0000,0000,0000,,快叫他来帮忙\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell him to hurry.
+Dialogue: 0,0:22:04.29,0:22:05.27,Default,,0000,0000,0000,,带她先跑\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Leave with her now. Get in. C'm on!
+Dialogue: 0,0:22:20.38,0:22:22.20,Default,,0000,0000,0000,,吞达快来帮我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tunda, come help!
+Dialogue: 0,0:22:22.31,0:22:23.29,Default,,0000,0000,0000,,快啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hurry!
+Dialogue: 0,0:22:23.38,0:22:24.41,Default,,0000,0000,0000,,快帮我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Help me!
+Dialogue: 0,0:22:26.32,0:22:27.32,Default,,0000,0000,0000,,Charlie!\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie!
+Dialogue: 0,0:22:33.42,0:22:35.24,Default,,0000,0000,0000,,Charlie  别过去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie, go away!
+Dialogue: 0,0:22:36.20,0:22:37.20,Default,,0000,0000,0000,,Charlie!\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Charlie!
+Dialogue: 0,0:22:37.25,0:22:37.44,Default,,0000,0000,0000,,松手吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let go!
+Dialogue: 0,0:22:38.24,0:22:39.24,Default,,0000,0000,0000,,它不听我的了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's ignoring me.
+Dialogue: 0,0:22:39.24,0:22:40.24,Default,,0000,0000,0000,,你们千万别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move!
+Dialogue: 0,0:22:41.23,0:22:42.23,Default,,0000,0000,0000,,别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold still!
+Dialogue: 0,0:22:42.33,0:22:44.25,Default,,0000,0000,0000,,你们怎么都不听我的了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why is no one listening?
+Dialogue: 0,0:22:44.33,0:22:45.30,Default,,0000,0000,0000,,千万别跑\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't run!
+Dialogue: 0,0:22:48.39,0:22:49.42,Default,,0000,0000,0000,,快躺  下装死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lie down and play dead!
+Dialogue: 0,0:22:50.28,0:22:50.41,Default,,0000,0000,0000,,我死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I am dead
+Dialogue: 0,0:22:50.44,0:22:51.33,Default,,0000,0000,0000,,什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what?
+Dialogue: 0,0:23:13.35,0:23:14.39,Default,,0000,0000,0000,,快点  我们走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, let's go.
+Dialogue: 0,0:23:16.38,0:23:17.35,Default,,0000,0000,0000,,快  点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, go, go!
+Dialogue: 0,0:23:18.23,0:23:18.36,Default,,0000,0000,0000,,快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Quick!
+Dialogue: 0,0:23:25.22,0:23:27.30,Default,,0000,0000,0000,,快追别让我的猎物跑了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Keep going! Don't let my trophy get away!
+Dialogue: 0,0:23:44.39,0:23:45.35,Default,,0000,0000,0000,,不要\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, no.
+Dialogue: 0,0:23:48.23,0:23:49.26,Default,,0000,0000,0000,,竟然让她跑了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You let her get away!
+Dialogue: 0,0:23:49.39,0:23:51.33,Default,,0000,0000,0000,,还自称是非洲最好的猎人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The best hunter in Africa? My ass!
+Dialogue: 0,0:23:51.35,0:23:52.43,Default,,0000,0000,0000,,连一个女人都抓不到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can't even hunt down a woman.
+Dialogue: 0,0:23:53.38,0:23:55.42,Default,,0000,0000,0000,,我是最好的  是因为我有耐心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the best because I have Patience.
+Dialogue: 0,0:23:56.23,0:23:58.28,Default,,0000,0000,0000,,即使狗也懂耐心的价值\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Even hyenas understand the cost of Patience.
+Dialogue: 0,0:23:58.33,0:23:59.44,Default,,0000,0000,0000,,为了抓到猎物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They wait hours, even days,
+Dialogue: 0,0:23:59.44,0:24:01.22,Default,,0000,0000,0000,,它们愿意花几个小时  甚至几天去等待\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}before they get their prey.
+Dialogue: 0,0:24:01.22,0:24:03.27,Default,,0000,0000,0000,,我付钱不是为了听你讲鬛狗的故事\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I didn't pay for you to preach about hyenas.
+Dialogue: 0,0:24:03.33,0:24:05.21,Default,,0000,0000,0000,,她只是走运而已\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She just got lucky.
+Dialogue: 0,0:24:06.39,0:24:08.20,Default,,0000,0000,0000,,抓到她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bring her to me,
+Dialogue: 0,0:24:08.20,0:24:09.33,Default,,0000,0000,0000,,否则你就是我的猎物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or you'll become my prey.
+Dialogue: 0,0:24:10.36,0:24:11.24,Default,,0000,0000,0000,,现在\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now,
+Dialogue: 0,0:24:12.25,0:24:13.22,Default,,0000,0000,0000,,前面是什么地方?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what's up ahead?
+Dialogue: 0,0:24:14.28,0:24:15.33,Default,,0000,0000,0000,,丛林而已\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's just a jungle.
+Dialogue: 0,0:24:16.36,0:24:17.34,Default,,0000,0000,0000,,跟着我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Follow me.
+Dialogue: 0,0:24:19.34,0:24:21.25,Default,,0000,0000,0000,,你的枪打什么的?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do you use the gun for?
+Dialogue: 0,0:24:21.39,0:24:22.41,Default,,0000,0000,0000,,打大象的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Elephants.
+Dialogue: 0,0:24:53.26,0:24:55.23,Default,,0000,0000,0000,,Juma你没事吧?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Juma, are you okay?
+Dialogue: 0,0:24:55.37,0:24:56.30,Default,,0000,0000,0000,,你怎么样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What about you?
+Dialogue: 0,0:24:56.33,0:24:57.33,Default,,0000,0000,0000,,我还挺得住\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll manage...
+Dialogue: 0,0:24:59.27,0:25:00.21,Default,,0000,0000,0000,,袁旭\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yuanxu,
+Dialogue: 0,0:25:00.33,0:25:01.36,Default,,0000,0000,0000,,什么情况?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}what's the status?
+Dialogue: 0,0:25:02.23,0:25:03.26,Default,,0000,0000,0000,,我们监测到雷震宇\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've located lei
+Dialogue: 0,0:25:03.29,0:25:05.27,Default,,0000,0000,0000,,距离你二十公里的原始森林区域\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}20km away in the jungle,
+Dialogue: 0,0:25:05.31,0:25:07.20,Default,,0000,0000,0000,,正在往西南方向移动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}moving towards the southwest.
+Dialogue: 0,0:25:07.20,0:25:08.24,Default,,0000,0000,0000,,该区域地形复夺\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Vehicles can't pass through a primeval forest.
+Dialogue: 0,0:25:08.24,0:25:09.23,Default,,0000,0000,0000,,你们只能徒步\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go on foot,
+Dialogue: 0,0:25:09.23,0:25:10.21,Default,,0000,0000,0000,,要注意安全\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and be careful!
+Dialogue: 0,0:25:12.22,0:25:14.26,Default,,0000,0000,0000,,弥雅  快送他们到医院\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Miya, take them to the hospital.
+Dialogue: 0,0:25:14.26,0:25:15.21,Default,,0000,0000,0000,,好  小心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ok - be careful
+Dialogue: 0,0:25:17.31,0:25:18.22,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}sir!
+Dialogue: 0,0:25:20.38,0:25:21.40,Default,,0000,0000,0000,,不是叫你送他们吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You should be taking them to hospital.
+Dialogue: 0,0:25:21.40,0:25:22.30,Default,,0000,0000,0000,,你来  干嘛?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you doing here?
+Dialogue: 0,0:25:22.33,0:25:23.43,Default,,0000,0000,0000,,Jonathan还能开车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jonathan can drive.
+Dialogue: 0,0:25:23.43,0:25:25.23,Default,,0000,0000,0000,,我跟你一起去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll go with you.
+Dialogue: 0,0:25:25.36,0:25:26.34,Default,,0000,0000,0000,,走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, then.
+Dialogue: 0,0:26:04.39,0:26:05.42,Default,,0000,0000,0000,,呼叫伦敦总部\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Calling London hq,
+Dialogue: 0,0:26:05.44,0:26:06.40,Default,,0000,0000,0000,,请回答\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}please come in.
+Dialogue: 0,0:26:07.34,0:26:08.23,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Roger that.
+Dialogue: 0,0:26:08.26,0:26:09.37,Default,,0000,0000,0000,,已经锁定雷震宇的位置\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've located lei.
+Dialogue: 0,0:26:09.37,0:26:11.20,Default,,0000,0000,0000,,我们根据雷的定位推断\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The coordinates show
+Dialogue: 0,0:26:11.22,0:26:12.44,Default,,0000,0000,0000,,他和Farccda应该在鸟类观测站\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}he and fareeda are in an avian observatory.
+Dialogue: 0,0:26:12.44,0:26:14.33,Default,,0000,0000,0000,,当前生命体征基本正常\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}His vital signs are normal.
+Dialogue: 0,0:26:14.38,0:26:15.31,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Copy that.
+Dialogue: 0,0:26:15.37,0:26:16.30,Default,,0000,0000,0000,,快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Keep moving.
+Dialogue: 0,0:26:16.44,0:26:18.27,Default,,0000,0000,0000,,到了已经天亮了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need to get there before daybreak.
+Dialogue: 0,0:28:05.20,0:28:05.38,Default,,0000,0000,0000,,醒了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Awake?
+Dialogue: 0,0:28:14.41,0:28:15.44,Default,,0000,0000,0000,,这什么鸟啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What kind of bird is that?
+Dialogue: 0,0:28:16.34,0:28:17.29,Default,,0000,0000,0000,,你看看\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take a look. Okay.
+Dialogue: 0,0:28:21.35,0:28:22.42,Default,,0000,0000,0000,,这个叫天堂鸟\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bird of paradise!
+Dialogue: 0,0:28:23.28,0:28:24.27,Default,,0000,0000,0000,,这种鸟啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These birds
+Dialogue: 0,0:28:24.27,0:28:26.21,Default,,0000,0000,0000,,一生追求自由和幸福\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}spend their lives searching for happiness and freedom.
+Dialogue: 0,0:28:26.31,0:28:28.20,Default,,0000,0000,0000,,它们遇到喜欢的同类\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When they meet their own kind,
+Dialogue: 0,0:28:28.22,0:28:29.27,Default,,0000,0000,0000,,还会跳舞\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they dance for each other.
+Dialogue: 0,0:28:30.24,0:28:32.27,Default,,0000,0000,0000,,这儿的原住民用它们的羽毛\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tribal people used their feathers
+Dialogue: 0,0:28:32.27,0:28:33.38,Default,,0000,0000,0000,,做成装饰品\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to decorate themselves.
+Dialogue: 0,0:28:33.38,0:28:35.43,Default,,0000,0000,0000,,十九世纪开始风靡欧洲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're prized in Europe in the 19th century.
+Dialogue: 0,0:28:36.24,0:28:37.24,Default,,0000,0000,0000,,因为\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But because of
+Dialogue: 0,0:28:37.30,0:28:38.38,Default,,0000,0000,0000,,过度捕杀\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}excessive hunting,
+Dialogue: 0,0:28:39.21,0:28:41.29,Default,,0000,0000,0000,,它们现在已变成稀有鸟类了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they're so rare now.
+Dialogue: 0,0:28:46.20,0:28:47.27,Default,,0000,0000,0000,,非洲狮为伴\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You hang out with lions,
+Dialogue: 0,0:28:47.31,0:28:48.39,Default,,0000,0000,0000,,天堂鸟为邻\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and exotic birds.
+Dialogue: 0,0:28:49.21,0:28:50.22,Default,,0000,0000,0000,,爱好自由\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You're a carefree spirit,
+Dialogue: 0,0:28:50.22,0:28:51.22,Default,,0000,0000,0000,,享受浪漫\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}a romantic at heart,
+Dialogue: 0,0:28:51.22,0:28:52.28,Default,,0000,0000,0000,,追求梦想\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}in pursuit of your dreams.
+Dialogue: 0,0:28:52.36,0:28:53.38,Default,,0000,0000,0000,,你是处女座吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You must be a Virgo.
+Dialogue: 0,0:28:53.40,0:28:55.26,Default,,0000,0000,0000,,你才是处女座呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think you're a Virgo.
+Dialogue: 0,0:28:56.36,0:28:57.37,Default,,0000,0000,0000,,你怎么知道的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How could you tell?
+Dialogue: 0,0:28:58.40,0:29:00.29,Default,,0000,0000,0000,,你真是处女座啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you really?
+Dialogue: 0,0:29:04.29,0:29:05.21,Default,,0000,0000,0000,,快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Faster, faster!
+Dialogue: 0,0:29:05.39,0:29:06.44,Default,,0000,0000,0000,,就在前面大树那里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Right behind the big tree!
+Dialogue: 0,0:29:06.44,0:29:08.25,Default,,0000,0000,0000,,我们走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go! Let's go!
+Dialogue: 0,0:29:11.33,0:29:12.37,Default,,0000,0000,0000,,马上离开这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's get out of here. Sure.
+Dialogue: 0,0:29:14.42,0:29:17.35,Default,,0000,0000,0000,,直走  就在前面一百米\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go straight. They're 100m ahead.
+Dialogue: 0,0:29:17.35,0:29:19.25,Default,,0000,0000,0000,,这次不能让他们再跑了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't let them get away!
+Dialogue: 0,0:29:20.41,0:29:22.25,Default,,0000,0000,0000,,有二辆不明身份的吉普车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two unidentified vehicles
+Dialogue: 0,0:29:22.25,0:29:23.33,Default,,0000,0000,0000,,朝雷震宇驶去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are heading for lei.
+Dialogue: 0,0:29:23.33,0:29:24.43,Default,,0000,0000,0000,,预计三分钟内抵达\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're three minutes away.
+Dialogue: 0,0:29:25.22,0:29:25.41,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Ok.
+Dialogue: 0,0:29:25.43,0:29:26.38,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got it.
+Dialogue: 0,0:29:31.35,0:29:32.38,Default,,0000,0000,0000,,快去  攻击\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, attack!
+Dialogue: 0,0:30:13.29,0:30:14.22,Default,,0000,0000,0000,,老板解决了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got 'em all, sir.
+Dialogue: 0,0:30:14.22,0:30:14.42,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go. Once more.
+Dialogue: 0,0:30:19.35,0:30:21.23,Default,,0000,0000,0000,,老板  上车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hop in, sir!
+Dialogue: 0,0:30:23.43,0:30:24.43,Default,,0000,0000,0000,,小心  躲开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move over,
+Dialogue: 0,0:30:25.22,0:30:25.40,Default,,0000,0000,0000,,我来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}let me...
+Dialogue: 0,0:30:32.34,0:30:33.31,Default,,0000,0000,0000,,他们来了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're coming! - Hurry! - Move!
+Dialogue: 0,0:30:49.36,0:30:50.40,Default,,0000,0000,0000,,快追\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hurry up, hurry!
+Dialogue: 0,0:30:54.28,0:30:54.43,Default,,0000,0000,0000,,抓紧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold on tight!
+Dialogue: 0,0:31:23.36,0:31:25.28,Default,,0000,0000,0000,,上次让她侥幸跑了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She did get lucky last time.
+Dialogue: 0,0:31:25.30,0:31:26.44,Default,,0000,0000,0000,,这次绝对不行\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This won't happen again.
+Dialogue: 0,0:31:26.44,0:31:29.26,Default,,0000,0000,0000,,记住别开枪  我要活捉她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No bullets, I want her taken alive.
+Dialogue: 0,0:31:37.42,0:31:38.31,Default,,0000,0000,0000,,上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, go, go!
+Dialogue: 0,0:32:01.25,0:32:02.23,Default,,0000,0000,0000,,再快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Faster!
+Dialogue: 0,0:32:03.40,0:32:04.40,Default,,0000,0000,0000,,靠近点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Closer! Go!
+Dialogue: 0,0:32:11.30,0:32:13.33,Default,,0000,0000,0000,,处女座  救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Virgo, help me!
+Dialogue: 0,0:32:26.33,0:32:27.36,Default,,0000,0000,0000,,插死你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Chopstick!
+Dialogue: 0,0:32:38.38,0:32:39.36,Default,,0000,0000,0000,,再近点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fareeda - get closer!
+Dialogue: 0,0:32:53.24,0:32:54.36,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go! Go!
+Dialogue: 0,0:33:16.74,0:33:17.74,Default,,0000,0000,0000,,Fareeda!\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fareeda!
+Dialogue: 0,0:33:49.33,0:33:50.29,Default,,0000,0000,0000,,处女座\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Virgo...
+Dialogue: 0,0:34:00.26,0:34:01.22,Default,,0000,0000,0000,,救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Help!
+Dialogue: 0,0:34:01.22,0:34:02.33,Default,,0000,0000,0000,,撑住啊  弥雅\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hang in there, Miya!
+Dialogue: 0,0:34:11.38,0:34:12.26,Default,,0000,0000,0000,,上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go!
+Dialogue: 0,0:34:17.42,0:34:18.36,Default,,0000,0000,0000,,滚开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get away!
+Dialogue: 0,0:34:19.25,0:34:20.34,Default,,0000,0000,0000,,滚开放开我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get away! Get off me!
+Dialogue: 0,0:34:25.27,0:34:26.22,Default,,0000,0000,0000,,不要\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No!
+Dialogue: 0,0:34:33.37,0:34:34.30,Default,,0000,0000,0000,,救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Help me, sir!
+Dialogue: 0,0:34:35.31,0:34:36.23,Default,,0000,0000,0000,,救我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Help!
+Dialogue: 0,0:34:48.25,0:34:49.24,Default,,0000,0000,0000,,弥雅\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Miya!
+Dialogue: 0,0:35:04.28,0:35:05.36,Default,,0000,0000,0000,,我们躲不开了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're done for.
+Dialogue: 0,0:35:06.35,0:35:07.30,Default,,0000,0000,0000,,准备\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Brace yourself, jump!
+Dialogue: 0,0:35:54.23,0:35:55.24,Default,,0000,0000,0000,,这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here!
+Dialogue: 0,0:35:56.21,0:35:57.20,Default,,0000,0000,0000,,在这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here!
+Dialogue: 0,0:35:57.30,0:35:58.27,Default,,0000,0000,0000,,叫什么叫\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Over here!
+Dialogue: 0,0:35:58.27,0:35:59.28,Default,,0000,0000,0000,,叫他们也听不见\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you yelling for?
+Dialogue: 0,0:35:59.40,0:36:00.42,Default,,0000,0000,0000,,这里啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They can't hear you!
+Dialogue: 0,0:36:01.38,0:36:03.29,Default,,0000,0000,0000,,这里啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Over here! We're here!
+Dialogue: 0,0:36:09.38,0:36:11.22,Default,,0000,0000,0000,,秦国立拿走了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Qin guoli has assets
+Dialogue: 0,0:36:11.24,0:36:13.34,Default,,0000,0000,0000,,我们"复仇者组织"的财产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}belonging to the brotherhood of vengeance.
+Dialogue: 0,0:36:13.38,0:36:15.42,Default,,0000,0000,0000,,你们说"急先锋"不会放弃任何人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You say vanguard leaves no man behind.
+Dialogue: 0,0:36:16.20,0:36:17.28,Default,,0000,0000,0000,,那给我听好了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So listen to me carefully.
+Dialogue: 0,0:36:17.37,0:36:19.25,Default,,0000,0000,0000,,把秦国立交给我们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Deliver qin guoli to us
+Dialogue: 0,0:36:19.25,0:36:20.27,Default,,0000,0000,0000,,就放你的人走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and I'll let your man go.
+Dialogue: 0,0:36:20.41,0:36:22.34,Default,,0000,0000,0000,,如果不答应条件\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If you fail to make this exchange,
+Dialogue: 0,0:36:22.44,0:36:24.24,Default,,0000,0000,0000,,他就会被处决\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they'll be beheaded.
+Dialogue: 0,0:36:26.37,0:36:28.22,Default,,0000,0000,0000,,我愿意去交换人质\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I volunteer myself
+Dialogue: 0,0:36:28.24,0:36:29.33,Default,,0000,0000,0000,,只要能把我女儿换回来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for the release of my daughter
+Dialogue: 0,0:36:29.44,0:36:31.25,Default,,0000,0000,0000,,还有你的队员一起\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and your colleague.
+Dialogue: 0,0:36:31.38,0:36:32.39,Default,,0000,0000,0000,,你不要去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, you mustn't.
+Dialogue: 0,0:36:32.39,0:36:33.40,Default,,0000,0000,0000,,太危险了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's dangerous.
+Dialogue: 0,0:36:35.34,0:36:37.30,Default,,0000,0000,0000,,一定还有其他办法的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There must be another way.
+Dialogue: 0,0:36:37.38,0:36:38.29,Default,,0000,0000,0000,,没事的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll be fine,
+Dialogue: 0,0:36:38.36,0:36:39.29,Default,,0000,0000,0000,,你放心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}trust me.
+Dialogue: 0,0:36:42.33,0:36:44.24,Default,,0000,0000,0000,,我能单独跟你聊聊吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}May I have a word in private?
+Dialogue: 0,0:36:44.26,0:36:44.42,Default,,0000,0000,0000,,可以\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Of course.
+Dialogue: 0,0:36:47.33,0:36:48.36,Default,,0000,0000,0000,,你出去一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give us a minute.
+Dialogue: 0,0:36:49.27,0:36:50.25,Default,,0000,0000,0000,,没事的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll be fine.
+Dialogue: 0,0:36:59.33,0:37:00.40,Default,,0000,0000,0000,,你还有什么瞒我?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you hiding?
+Dialogue: 0,0:37:03.38,0:37:05.24,Default,,0000,0000,0000,,Massym在海外的资产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the only one who knows
+Dialogue: 0,0:37:05.24,0:37:06.41,Default,,0000,0000,0000,,只有我一个人知道藏在哪里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}where maasym's assets are.
+Dialogue: 0,0:37:07.30,0:37:09.23,Default,,0000,0000,0000,,我必须和Omar做个了断\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I must settle the score with Omar.
+Dialogue: 0,0:37:09.33,0:37:10.33,Default,,0000,0000,0000,,唐先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr tang,
+Dialogue: 0,0:37:10.41,0:37:11.44,Default,,0000,0000,0000,,如果这些资产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}if they use this money
+Dialogue: 0,0:37:11.44,0:37:13.26,Default,,0000,0000,0000,,被他们拿来买武器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to buy more weapons,
+Dialogue: 0,0:37:13.42,0:37:15.42,Default,,0000,0000,0000,,就会有很多无辜的人牺牲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}many lives will be at stake.
+Dialogue: 0,0:37:16.37,0:37:18.27,Default,,0000,0000,0000,,关乎无辜人的生命\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Protecting the innocents
+Dialogue: 0,0:37:18.31,0:37:20.36,Default,,0000,0000,0000,,我们"急先锋"责无旁贷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is our Paramount duty.
+Dialogue: 0,0:37:22.28,0:37:23.20,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:37:25.28,0:37:26.26,Default,,0000,0000,0000,,归根结底\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Greed...
+Dialogue: 0,0:37:26.31,0:37:28.20,Default,,0000,0000,0000,,都是贪心带来的祸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Is the root of all evils.
+Dialogue: 0,0:37:35.34,0:37:38.28,Default,,0000,0000,0000,,二  三  四\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One, two, three, four...
+Dialogue: 0,0:37:38.36,0:37:41.23,Default,,0000,0000,0000,,-嘉华  你来啦  -五  六  七\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Hi, jiahua. - Five, six, seven,
+Dialogue: 0,0:37:41.23,0:37:42.40,Default,,0000,0000,0000,,八  九\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}eight, nine.
+Dialogue: 0,0:37:43.27,0:37:44.39,Default,,0000,0000,0000,,爸爸  礼物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad, this is for you.
+Dialogue: 0,0:37:44.39,0:37:46.26,Default,,0000,0000,0000,,儿子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My dear boy!
+Dialogue: 0,0:37:49.40,0:37:50.33,Default,,0000,0000,0000,,你们怎么来了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What brings you here?
+Dialogue: 0,0:37:50.33,0:37:52.20,Default,,0000,0000,0000,,他非要过来给你送礼物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He wants to give you a present.
+Dialogue: 0,0:37:52.42,0:37:55.34,Default,,0000,0000,0000,,礼物?  为什么要给爸爸礼物啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Present? What for?
+Dialogue: 0,0:37:55.36,0:37:57.30,Default,,0000,0000,0000,,我就是想给你礼物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Because I wanted to.
+Dialogue: 0,0:37:57.33,0:37:59.36,Default,,0000,0000,0000,,因为今天是你的生日啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's your birthday today!
+Dialogue: 0,0:38:00.22,0:38:02.28,Default,,0000,0000,0000,,爸爸连自己生日都忘了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Daddy is so absent-minded!
+Dialogue: 0,0:38:02.41,0:38:03.44,Default,,0000,0000,0000,,我们还在等待支援\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're still waiting for the support...
+Dialogue: 0,0:38:03.44,0:38:05.29,Default,,0000,0000,0000,,我们一会儿再开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold on just one sec...
+Dialogue: 0,0:38:05.33,0:38:05.44,Default,,0000,0000,0000,,好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}OK
+Dialogue: 0,0:38:10.33,0:38:11.33,Default,,0000,0000,0000,,这是谁啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Who's that?
+Dialogue: 0,0:38:11.33,0:38:12.39,Default,,0000,0000,0000,,这是爸爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's daddy.
+Dialogue: 0,0:38:12.42,0:38:16.29,Default,,0000,0000,0000,,-爸爸?  你就是他心目中的中国队长\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Daddy? - To him, you are captain China.
+Dialogue: 0,0:38:17.24,0:38:18.41,Default,,0000,0000,0000,,是吗?  我们刚在家怎么说的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Really? - What did we discuss?
+Dialogue: 0,0:38:19.26,0:38:20.44,Default,,0000,0000,0000,,中国队长怎么样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What about captain China?
+Dialogue: 0,0:38:20.44,0:38:23.34,Default,,0000,0000,0000,,中国队长比美国队长\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's mightier than captain America!
+Dialogue: 0,0:38:24.24,0:38:26.25,Default,,0000,0000,0000,,厉害  厉害\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's awesome!
+Dialogue: 0,0:38:26.25,0:38:27.27,Default,,0000,0000,0000,,来  击掌\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Give me five!
+Dialogue: 0,0:38:29.44,0:38:31.44,Default,,0000,0000,0000,,那爸爸也没这么高大威猛啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But he's much stronger than me.
+Dialogue: 0,0:38:31.44,0:38:33.34,Default,,0000,0000,0000,,爸爸最高大\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Daddy's the strongest!
+Dialogue: 0,0:38:34.34,0:38:35.38,Default,,0000,0000,0000,,来  乖乖亲一个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now give daddy a kiss.
+Dialogue: 0,0:38:35.38,0:38:37.37,Default,,0000,0000,0000,,祝你生日快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy birthday to you,
+Dialogue: 0,0:38:38.20,0:38:41.24,Default,,0000,0000,0000,,祝你生日快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}happy birthday to you!
+Dialogue: 0,0:38:41.29,0:38:44.40,Default,,0000,0000,0000,,祝凯旋生日快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy birthday to kaixuan,
+Dialogue: 0,0:38:44.42,0:38:47.39,Default,,0000,0000,0000,,祝你生日快乐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}happy birthday to you.
+Dialogue: 0,0:38:48.33,0:38:50.24,Default,,0000,0000,0000,,谢谢老板谢谢大家\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you, sir. Thanks everyone.
+Dialogue: 0,0:38:51.28,0:38:52.24,Default,,0000,0000,0000,,我许个愿吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll make a wish,
+Dialogue: 0,0:38:54.36,0:38:56.27,Default,,0000,0000,0000,,我希望震宇能安全回来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for lei's safe return.
+Dialogue: 0,0:38:59.30,0:39:01.25,Default,,0000,0000,0000,,爸爸好棒好棒\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Daddy's awesome!
+Dialogue: 0,0:39:01.36,0:39:03.29,Default,,0000,0000,0000,,来你给大家分一下吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please share the cake.
+Dialogue: 0,0:39:03.34,0:39:04.25,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay.
+Dialogue: 0,0:39:06.39,0:39:07.38,Default,,0000,0000,0000,,给你个小熊猫\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Here, a baby panda for you!
+Dialogue: 0,0:39:07.38,0:39:08.44,Default,,0000,0000,0000,,拿着吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take it.
+Dialogue: 0,0:39:09.25,0:39:10.29,Default,,0000,0000,0000,,说谢谢叔叔\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take it. And say: Thank you, sir.
+Dialogue: 0,0:39:10.38,0:39:11.41,Default,,0000,0000,0000,,谢谢叔叔\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you, sir.
+Dialogue: 0,0:39:12.20,0:39:13.28,Default,,0000,0000,0000,,什么叔叔  叫哥哥\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just call me bro!
+Dialogue: 0,0:39:13.38,0:39:14.34,Default,,0000,0000,0000,,哥哥\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Bro!
+Dialogue: 0,0:39:14.38,0:39:15.28,Default,,0000,0000,0000,,对了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Right.
+Dialogue: 0,0:39:15.30,0:39:16.20,Default,,0000,0000,0000,,叫她阿姨\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Call her auntie.
+Dialogue: 0,0:39:16.20,0:39:16.40,Default,,0000,0000,0000,,叫阿姨\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Call her auntie.
+Dialogue: 0,0:39:19.41,0:39:21.22,Default,,0000,0000,0000,,嘉华  叫姐姐\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sis would do.
+Dialogue: 0,0:39:22.39,0:39:25.26,Default,,0000,0000,0000,,好了  我们跟姐姐出去吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good boy. Okay, let's go out with sis,
+Dialogue: 0,0:39:25.26,0:39:26.29,Default,,0000,0000,0000,,-不要打扰爸爸了  -去吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and let daddy get back to work
+Dialogue: 0,0:39:26.29,0:39:27.33,Default,,0000,0000,0000,,跟阿姨玩去吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}go play with auntie.
+Dialogue: 0,0:39:27.37,0:39:28.44,Default,,0000,0000,0000,,不许教坏小孩子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop misleading children!
+Dialogue: 0,0:39:32.28,0:39:33.43,Default,,0000,0000,0000,,这小子加入我们"急先锋"\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lei has been withvanguard
+Dialogue: 0,0:39:33.43,0:39:35.24,Default,,0000,0000,0000,,应该五年了吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for five years?
+Dialogue: 0,0:39:35.28,0:39:36.43,Default,,0000,0000,0000,,五年三个月零二十八天\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Five years, three months and 28 days, sir.
+Dialogue: 0,0:39:40.39,0:39:42.44,Default,,0000,0000,0000,,这次行动相对比较复杂\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This operation is challenging.
+Dialogue: 0,0:39:43.40,0:39:45.28,Default,,0000,0000,0000,,而且你的伤还没好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Since you're still recuperating,
+Dialogue: 0,0:39:46.30,0:39:48.26,Default,,0000,0000,0000,,你留下来做后勤支援吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}why don't you stay behind as back-up?
+Dialogue: 0,0:39:48.34,0:39:49.44,Default,,0000,0000,0000,,老板你到底想说什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, don't worry, I'm fine.
+Dialogue: 0,0:39:54.24,0:39:55.25,Default,,0000,0000,0000,,儿子画的?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your boy drew this?
+Dialogue: 0,0:39:55.44,0:39:56.35,Default,,0000,0000,0000,,是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:39:59.38,0:40:00.36,Default,,0000,0000,0000,,说实话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Quite frankly,
+Dialogue: 0,0:40:00.39,0:40:02.34,Default,,0000,0000,0000,,这次我也没有绝对把握\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm not sure how this would turn out.
+Dialogue: 0,0:40:04.31,0:40:06.25,Default,,0000,0000,0000,,嘉华已经没有妈妈了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jiahua has already lost his mom.
+Dialogue: 0,0:40:07.27,0:40:08.38,Default,,0000,0000,0000,,你应该留下来照顾他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You should stay
+Dialogue: 0,0:40:13.35,0:40:15.30,Default,,0000,0000,0000,,我想成为儿子的骄傲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to look after him.
+Dialogue: 0,0:40:18.27,0:40:19.39,Default,,0000,0000,0000,,您现在在做行政工作\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are now our ceo,
+Dialogue: 0,0:40:19.39,0:40:20.29,Default,,0000,0000,0000,,就别去了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you don't have to go.
+Dialogue: 0,0:40:20.41,0:40:22.40,Default,,0000,0000,0000,,我有责任把所有队员带回来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I've a duty to bring my team back. Fine,
+Dialogue: 0,0:40:25.27,0:40:26.24,Default,,0000,0000,0000,,我们一起去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}then let's go together.
+Dialogue: 0,0:40:28.33,0:40:29.23,Default,,0000,0000,0000,,语儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Linda,
+Dialogue: 0,0:40:30.43,0:40:32.39,Default,,0000,0000,0000,,我们考虑一下做些徽章\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think we should
+Dialogue: 0,0:40:33.20,0:40:34.26,Default,,0000,0000,0000,,挂在胸前蛮漂亮的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}order some of these.
+Dialogue: 0,0:40:34.28,0:40:34.41,Default,,0000,0000,0000,,好看\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gorgeous.
+Dialogue: 0,0:40:37.24,0:40:37.42,Default,,0000,0000,0000,,好看\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Gorgeous!
+Dialogue: 0,0:40:38.20,0:40:38.42,Default,,0000,0000,0000,,那是\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Really?
+Dialogue: 0,0:41:17.44,0:41:18.38,Default,,0000,0000,0000,,给你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For you.
+Dialogue: 0,0:41:18.40,0:41:19.34,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you.
+Dialogue: 0,0:41:20.20,0:41:23.21,Default,,0000,0000,0000,,贾德巴拉全城共有五万人口\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jiadebala population is 50,000 citizens.
+Dialogue: 0,0:41:23.25,0:41:25.31,Default,,0000,0000,0000,,有两千多人组成了Omar的武装力量\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}2,000 of them are Omar's fighters.
+Dialogue: 0,0:41:25.35,0:41:28.21,Default,,0000,0000,0000,,他们利用此地区作为训练基地\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They use the area as a training ground.
+Dialogue: 0,0:41:28.23,0:41:29.41,Default,,0000,0000,0000,,由于该地区地形复杂\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Due to the rugged terrain,
+Dialogue: 0,0:41:29.41,0:41:31.31,Default,,0000,0000,0000,,政府目前无力收复\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the government couldn't take it back.
+Dialogue: 0,0:41:31.35,0:41:33.36,Default,,0000,0000,0000,,现在我们最需要的是情报支持\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need more intel before we go in.
+Dialogue: 0,0:41:34.23,0:41:35.41,Default,,0000,0000,0000,,我们有没有内线?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Do we have anyone on the ground?
+Dialogue: 0,0:41:35.43,0:41:37.33,Default,,0000,0000,0000,,有的  有个线人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, we have a source.
+Dialogue: 0,0:41:37.35,0:41:38.29,Default,,0000,0000,0000,,正在联络\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's on it.
+Dialogue: 0,0:41:39.21,0:41:39.41,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good.
+Dialogue: 0,0:41:41.37,0:41:43.44,Default,,0000,0000,0000,,这里是我们从未涉足过的地区\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We are entering uncharted territories,
+Dialogue: 0,0:41:44.28,0:41:46.21,Default,,0000,0000,0000,,困难是前所未有的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we'll be up against extreme dangers.
+Dialogue: 0,0:41:47.21,0:41:49.38,Default,,0000,0000,0000,,我知道大家都是和平精英\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You are the best of the best,
+Dialogue: 0,0:41:49.38,0:41:50.44,Default,,0000,0000,0000,,厚德守信\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}virtuous and trustworthy,
+Dialogue: 0,0:41:51.31,0:41:52.31,Default,,0000,0000,0000,,忠诚尽责\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}loyal and reliable.
+Dialogue: 0,0:41:52.44,0:41:54.24,Default,,0000,0000,0000,,为了我们的责任\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}For our obligations,
+Dialogue: 0,0:41:54.39,0:41:55.43,Default,,0000,0000,0000,,为了我们的战友\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for our comrades-in-arms,
+Dialogue: 0,0:41:56.31,0:41:58.30,Default,,0000,0000,0000,,必须战胜一切不可能\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we must overcome all odds!
+Dialogue: 0,0:41:59.23,0:42:00.21,Default,,0000,0000,0000,,我们一定要\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have to return
+Dialogue: 0,0:42:00.24,0:42:01.25,Default,,0000,0000,0000,,凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}triumphantly!
+Dialogue: 0,0:42:01.34,0:42:02.38,Default,,0000,0000,0000,,凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In triumph!
+Dialogue: 0,0:42:03.20,0:42:04.27,Default,,0000,0000,0000,,凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In triumph!
+Dialogue: 0,0:42:04.39,0:42:06.28,Default,,0000,0000,0000,,我们一起凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We will return victorious!
+Dialogue: 0,0:42:06.44,0:42:08.20,Default,,0000,0000,0000,,凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Victorious!
+Dialogue: 0,0:42:08.31,0:42:09.33,Default,,0000,0000,0000,,凯旋归来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Victorious!
+Dialogue: 0,0:42:10.27,0:42:10.41,Default,,0000,0000,0000,,出发\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go!
+Dialogue: 0,0:42:11.23,0:42:11.39,Default,,0000,0000,0000,,行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move!
+Dialogue: 0,0:42:12.24,0:42:12.42,Default,,0000,0000,0000,,行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move!
+Dialogue: 0,0:42:39.31,0:42:43.25,Default,,0000,0000,0000,,贾德巴拉古城有上千年的历史文化古迹\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jiadebala dates back a thousand years.
+Dialogue: 0,0:42:43.33,0:42:45.20,Default,,0000,0000,0000,,有大量的文物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's home to many priceless relics.
+Dialogue: 0,0:42:45.23,0:42:47.20,Default,,0000,0000,0000,,"复仇者组织"占领后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}When the brotherhood captured the city,
+Dialogue: 0,0:42:47.20,0:42:49.34,Default,,0000,0000,0000,,就是依靠贩卖文物和走私毒品\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}they sold off artefacts, smuggled drugs
+Dialogue: 0,0:42:49.34,0:42:51.29,Default,,0000,0000,0000,,获得巨额的财富\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and made a fortune.
+Dialogue: 0,0:42:52.29,0:42:55.34,Default,,0000,0000,0000,,城内的无辜百姓都成为他们的人质\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The locals have become their hostages.
+Dialogue: 0,0:42:55.40,0:42:57.42,Default,,0000,0000,0000,,如果政府军强攻的话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}If government forces were to attack,
+Dialogue: 0,0:42:58.41,0:43:02.20,Default,,0000,0000,0000,,我想整座千年古城恐泊会毁于一旦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the city can be destroyed overnight.
+Dialogue: 0,0:43:02.24,0:43:04.37,Default,,0000,0000,0000,,喀拉苏带我们见的这位朋友靠谱吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can we trust kalasu's friend?
+Dialogue: 0,0:43:04.43,0:43:06.24,Default,,0000,0000,0000,,他会帮我们吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Will he help us?
+Dialogue: 0,0:43:06.34,0:43:08.42,Default,,0000,0000,0000,,阿巴提是当地最好的厨师\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Abati is the best chef around.
+Dialogue: 0,0:43:10.31,0:43:12.21,Default,,0000,0000,0000,,被毒贩枪杀了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Killed...
+Dialogue: 0,0:43:16.21,0:43:18.41,Default,,0000,0000,0000,,被挟持的人质  Fareeda\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is the hostage fareeda.
+Dialogue: 0,0:43:18.44,0:43:20.39,Default,,0000,0000,0000,,还有我们的队员雷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lei is one of ours.
+Dialogue: 0,0:43:21.34,0:43:23.26,Default,,0000,0000,0000,,我们要找到他们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We cannot leave them behind.
+Dialogue: 0,0:43:24.36,0:43:25.42,Default,,0000,0000,0000,,你知道的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You know what it's like
+Dialogue: 0,0:43:26.28,0:43:28.39,Default,,0000,0000,0000,,想救你在乎的人是什么感觉\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}to wanna save someone you care about.
+Dialogue: 0,0:43:33.41,0:43:35.30,Default,,0000,0000,0000,,我能帮助你和家人离开这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can help you and your family
+Dialogue: 0,0:43:35.34,0:43:37.27,Default,,0000,0000,0000,,开始新的生活\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}start a new life somewhere else.
+Dialogue: 0,0:43:37.41,0:43:40.43,Default,,0000,0000,0000,,我只需要你带我们进入城堡\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I just need your help to get us inside the fortress.
+Dialogue: 0,0:43:51.21,0:43:53.25,Default,,0000,0000,0000,,我只能送她进去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can only transport her.
+Dialogue: 0,0:43:53.30,0:43:56.28,Default,,0000,0000,0000,,其他人可以从无人防守区进去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Rest of the team have to take the unguarded route.
+Dialogue: 0,0:43:56.36,0:43:58.23,Default,,0000,0000,0000,,为什么没有把守?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why are there no guards?
+Dialogue: 0,0:43:58.25,0:43:59.23,Default,,0000,0000,0000,,很险要\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's rough.
+Dialogue: 0,0:43:59.40,0:44:01.24,Default,,0000,0000,0000,,你们打算怎么逃出来?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How are you gonna escape?
+Dialogue: 0,0:44:02.30,0:44:03.31,Default,,0000,0000,0000,,我们有个计划\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've a plan,
+Dialogue: 0,0:44:03.43,0:44:05.25,Default,,0000,0000,0000,,但需要您的帮助\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but we need your help.
+Dialogue: 0,0:44:14.37,0:44:16.24,Default,,0000,0000,0000,,开门  穆罕默德\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Open up, Mohammed.
+Dialogue: 0,0:44:16.24,0:44:17.35,Default,,0000,0000,0000,,是我  阿巴提\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is abati.
+Dialogue: 0,0:44:24.35,0:44:27.29,Default,,0000,0000,0000,,这里我能带你们来的最接近城堡的地方\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is the closest I can get you to the fortress.
+Dialogue: 0,0:44:27.35,0:44:29.22,Default,,0000,0000,0000,,我现在得走了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have to go now.
+Dialogue: 0,0:44:29.30,0:44:30.36,Default,,0000,0000,0000,,穆罕默德是我的人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mohammed is my man.
+Dialogue: 0,0:44:30.36,0:44:31.34,Default,,0000,0000,0000,,会留下保护你们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He'll take care of you. Okay. Come.
+Dialogue: 0,0:44:51.34,0:44:52.28,Default,,0000,0000,0000,,我化这个妆\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This special war paint
+Dialogue: 0,0:44:52.28,0:44:53.29,Default,,0000,0000,0000,,是为了暴露的时候\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}will save me from getting killed
+Dialogue: 0,0:44:53.29,0:44:54.26,Default,,0000,0000,0000,,不被你们误伤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}by friendly fire.
+Dialogue: 0,0:45:22.21,0:45:23.42,Default,,0000,0000,0000,,这两台防弹车是Omar专用的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}These two bulletproof vehicles
+Dialogue: 0,0:45:24.21,0:45:25.21,Default,,0000,0000,0000,,按装甲车的规格\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are specially modified for Omar,
+Dialogue: 0,0:45:25.21,0:45:25.44,Default,,0000,0000,0000,,特别改装过\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}just like armoured cars.
+Dialogue: 0,0:45:36.33,0:45:38.42,Default,,0000,0000,0000,,他们真的会把我们杀掉吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Will they really kill us?
+Dialogue: 0,0:45:42.20,0:45:44.23,Default,,0000,0000,0000,,我不想这么早死掉\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't want to die so young.
+Dialogue: 0,0:45:46.38,0:45:49.21,Default,,0000,0000,0000,,让我看看你的右手\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Show me your right palm.
+Dialogue: 0,0:45:57.41,0:45:58.40,Default,,0000,0000,0000,,放心吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't worry,
+Dialogue: 0,0:45:59.21,0:46:00.21,Default,,0000,0000,0000,,你不会死的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you'll survive.
+Dialogue: 0,0:46:00.29,0:46:01.28,Default,,0000,0000,0000,,为什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why?
+Dialogue: 0,0:46:01.34,0:46:03.28,Default,,0000,0000,0000,,因为你的生命线很长啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have a long life line. What's this?
+Dialogue: 0,0:46:21.24,0:46:23.31,Default,,0000,0000,0000,,放心吧"急先锋"会来救我们的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't worry, vanguard will come for us.
+Dialogue: 0,0:46:25.24,0:46:26.23,Default,,0000,0000,0000,,什么呀?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But how?
+Dialogue: 0,0:46:32.21,0:46:33.35,Default,,0000,0000,0000,,告诉你一个好的消息\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have good news for you.
+Dialogue: 0,0:46:33.42,0:46:35.37,Default,,0000,0000,0000,,你的父亲很快会来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your father is on his way,
+Dialogue: 0,0:46:35.44,0:46:37.23,Default,,0000,0000,0000,,你老板也会来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and your boss, too.
+Dialogue: 0,0:46:38.33,0:46:39.26,Default,,0000,0000,0000,,带他出去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get him out.
+Dialogue: 0,0:46:41.25,0:46:42.26,Default,,0000,0000,0000,,你们想干嘛?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What do you want?
+Dialogue: 0,0:46:43.29,0:46:44.42,Default,,0000,0000,0000,,你们要带他去哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where are you taking him?
+Dialogue: 0,0:46:46.20,0:46:47.41,Default,,0000,0000,0000,,你们要带他去哪儿啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where are you taking him?
+Dialogue: 0,0:47:09.25,0:47:11.42,Default,,0000,0000,0000,,你和我们"北极狼"挺有缘啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're destined to cross paths again.
+Dialogue: 0,0:47:12.21,0:47:14.31,Default,,0000,0000,0000,,第一次你从我们手上把人带走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}First you snatched someone from our grasp.
+Dialogue: 0,0:47:15.21,0:47:17.20,Default,,0000,0000,0000,,这次我们把你拿下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This time I have you captured.
+Dialogue: 0,0:47:17.40,0:47:20.23,Default,,0000,0000,0000,,能跟我们打平手的人不多\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not many can get even with us.
+Dialogue: 0,0:47:22.29,0:47:23.44,Default,,0000,0000,0000,,我老板很欣赏你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My boss sees something special in you.
+Dialogue: 0,0:47:24.34,0:47:26.21,Default,,0000,0000,0000,,如果你跟着我们干\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Work with us,
+Dialogue: 0,0:47:26.24,0:47:28.36,Default,,0000,0000,0000,,一年挣的钱够你花一辈子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you'll earn more in a year
+Dialogue: 0,0:47:28.36,0:47:29.36,Default,,0000,0000,0000,,你知道吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}than a lifetime.
+Dialogue: 0,0:47:29.44,0:47:31.34,Default,,0000,0000,0000,,我和你们不一样\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We are different.
+Dialogue: 0,0:47:32.21,0:47:33.28,Default,,0000,0000,0000,,不都是拿命赚钱?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We both risk lives for money.
+Dialogue: 0,0:47:33.28,0:47:34.25,Default,,0000,0000,0000,,有什么不一样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's so different?
+Dialogue: 0,0:47:36.44,0:47:38.27,Default,,0000,0000,0000,,知足  知不足\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Be content, know your weaknesses.
+Dialogue: 0,0:47:38.43,0:47:39.37,Default,,0000,0000,0000,,有为\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Things you do,
+Dialogue: 0,0:47:40.34,0:47:41.28,Default,,0000,0000,0000,,有不为\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}things you don't.
+Dialogue: 0,0:47:44.23,0:47:45.26,Default,,0000,0000,0000,,你什么意思?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What are you talking about?
+Dialogue: 0,0:47:45.40,0:47:46.39,Default,,0000,0000,0000,,我听不懂\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't understand.
+Dialogue: 0,0:47:47.35,0:47:49.26,Default,,0000,0000,0000,,不要放纵自己的欲望\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Never indulge in desire.
+Dialogue: 0,0:47:50.41,0:47:52.30,Default,,0000,0000,0000,,要有自知之明\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Know yourself.
+Dialogue: 0,0:47:54.21,0:47:56.42,Default,,0000,0000,0000,,应该做的事  必须要做\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Know what you should do,
+Dialogue: 0,0:47:58.21,0:48:00.29,Default,,0000,0000,0000,,不该做的事  必不能做\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}know what you shouldn't do.
+Dialogue: 0,0:48:03.24,0:48:04.38,Default,,0000,0000,0000,,你学会了我们的语言\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've learned our tongue,
+Dialogue: 0,0:48:06.26,0:48:07.40,Default,,0000,0000,0000,,没能学会我们的文化\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but not our ethics.
+Dialogue: 0,0:48:10.28,0:48:11.38,Default,,0000,0000,0000,,老板他说…\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boss, he says that...
+Dialogue: 0,0:48:15.44,0:48:17.21,Default,,0000,0000,0000,,错误的选择\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Big mistake.
+Dialogue: 0,0:48:18.27,0:48:19.25,Default,,0000,0000,0000,,带他出去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take him away.
+Dialogue: 0,0:48:28.44,0:48:31.22,Default,,0000,0000,0000,,雷震宇身上被绑上了炸弹衣\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're strapping a bomb vest on lei,
+Dialogue: 0,0:48:31.31,0:48:32.37,Default,,0000,0000,0000,,带有定时引爆器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}with a timer.
+Dialogue: 0,0:48:47.36,0:48:51.22,Default,,0000,0000,0000,,"急先锋"答应带秦国立来交换人质\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Vanguard has promised to bring qin in exchange for the hostages.
+Dialogue: 0,0:48:51.38,0:48:53.22,Default,,0000,0000,0000,,但我不相信他们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But I wouldn't trust them.
+Dialogue: 0,0:48:53.33,0:48:55.28,Default,,0000,0000,0000,,他们肯定会设法营救\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They will attempt a rescue.
+Dialogue: 0,0:48:57.23,0:49:00.31,Default,,0000,0000,0000,,我们的城堡建立了几千年\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}In the millennia since our fortress was built,
+Dialogue: 0,0:49:00.31,0:49:02.23,Default,,0000,0000,0000,,坚不可摧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}there's never been a breach.
+Dialogue: 0,0:49:02.29,0:49:05.28,Default,,0000,0000,0000,,我们的战士从小接受训练\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Our warriors have been trained since boyhood.
+Dialogue: 0,0:49:05.37,0:49:07.29,Default,,0000,0000,0000,,我们还是应该采取防备措施\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We should still take precaution.
+Dialogue: 0,0:49:07.33,0:49:08.36,Default,,0000,0000,0000,,加强戒备\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Step up security
+Dialogue: 0,0:49:09.26,0:49:10.35,Default,,0000,0000,0000,,随时准备开枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and shoot on sight.
+Dialogue: 0,0:49:13.44,0:49:14.40,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boss.
+Dialogue: 0,0:49:18.37,0:49:19.43,Default,,0000,0000,0000,,什么计划?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's the plan?
+Dialogue: 0,0:49:20.41,0:49:22.25,Default,,0000,0000,0000,,交易仍然有效\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The deal is still on.
+Dialogue: 0,0:49:22.38,0:49:24.25,Default,,0000,0000,0000,,钱准备好了吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did you prepare the money?
+Dialogue: 0,0:49:24.31,0:49:25.24,Default,,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:49:25.36,0:49:27.31,Default,,0000,0000,0000,,交易的时间和地点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Time and location of exchange?
+Dialogue: 0,0:49:27.38,0:49:29.21,Default,,0000,0000,0000,,我会再告诉你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I will let you know.
+Dialogue: 0,0:49:33.24,0:49:34.37,Default,,0000,0000,0000,,-大家晚上好  -晚上好啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Good evening, brothers. - Good evening.
+Dialogue: 0,0:49:34.41,0:49:36.39,Default,,0000,0000,0000,,-试试我的点心  拿去  -真客气\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Come try some snacks. - Thank you.
+Dialogue: 0,0:49:36.39,0:49:37.41,Default,,0000,0000,0000,,先走啦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got to go.
+Dialogue: 0,0:49:37.44,0:49:39.29,Default,,0000,0000,0000,,走吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go!
+Dialogue: 0,0:49:59.23,0:50:00.33,Default,,0000,0000,0000,,我靠\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Holy shit!
+Dialogue: 0,0:50:01.42,0:50:04.23,Default,,0000,0000,0000,,戴着防毒面具怎么还那么臭\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Even wearing my mask, this place reeks like hell!
+Dialogue: 0,0:50:04.25,0:50:05.35,Default,,0000,0000,0000,,我快受不了啦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't stand it anymore.
+Dialogue: 0,0:50:05.35,0:50:06.43,Default,,0000,0000,0000,,赶紧爬啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Keep moving!
+Dialogue: 0,0:50:07.30,0:50:10.22,Default,,0000,0000,0000,,防毒面具它不防臭啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The masks are no match for the smells.
+Dialogue: 0,0:50:24.21,0:50:24.41,Default,,0000,0000,0000,,太臭了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Too stinky.
+Dialogue: 0,0:50:25.33,0:50:26.25,Default,,0000,0000,0000,,太臭了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Too stinky.
+Dialogue: 0,0:50:27.39,0:50:28.42,Default,,0000,0000,0000,,十二点钟方向\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}At twelve o'clock,
+Dialogue: 0,0:50:28.42,0:50:30.21,Default,,0000,0000,0000,,发现四名武装人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}four gunmen
+Dialogue: 0,0:50:30.26,0:50:31.33,Default,,0000,0000,0000,,他们正在向北移动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are heading north.
+Dialogue: 0,0:50:31.41,0:50:32.39,Default,,0000,0000,0000,,三点钟方位\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}At three o'clock,
+Dialogue: 0,0:50:32.42,0:50:34.38,Default,,0000,0000,0000,,有一位武装人员正在原地戒备\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}one armed man is standing guard.
+Dialogue: 0,0:50:35.25,0:50:37.24,Default,,0000,0000,0000,,南部方位没有发现任何情况\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All clear on the south side.
+Dialogue: 0,0:50:38.29,0:50:40.20,Default,,0000,0000,0000,,你们去那边巡逻\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You do your usual beat.
+Dialogue: 0,0:50:56.33,0:50:57.34,Default,,0000,0000,0000,,我们进来了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We're in.
+Dialogue: 0,0:51:02.27,0:51:04.23,Default,,0000,0000,0000,,敌方守卫没有异常情况\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everything's normal.
+Dialogue: 0,0:51:04.33,0:51:05.44,Default,,0000,0000,0000,,你们可以按计划分头行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Split up as planned.
+Dialogue: 0,0:51:06.26,0:51:06.40,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Copy that.
+Dialogue: 0,0:51:09.22,0:51:11.20,Default,,0000,0000,0000,,Laila今晚她留在你这儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Laila, she stays with you tonight.
+Dialogue: 0,0:51:11.23,0:51:11.40,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay.
+Dialogue: 0,0:51:14.41,0:51:17.29,Default,,0000,0000,0000,,明天我带你进入Omar的城堡\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll bring you to Omar's compound tomorrow.
+Dialogue: 0,0:51:17.29,0:51:18.34,Default,,0000,0000,0000,,麻烦把灯关了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please turn off the light.
+Dialogue: 0,0:51:18.34,0:51:19.26,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes.
+Dialogue: 0,0:52:01.28,0:52:02.23,Default,,0000,0000,0000,,炸弹好了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Explosive all set go!
+Dialogue: 0,0:53:22.42,0:53:24.35,Default,,0000,0000,0000,,已发现雷震宇在天台位置\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've located lei on the rooftop.
+Dialogue: 0,0:53:28.34,0:53:29.41,Default,,0000,0000,0000,,雷震宇的十二点方向\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are two snipers
+Dialogue: 0,0:53:30.21,0:53:31.30,Default,,0000,0000,0000,,有两名狙击手埋伏\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}lurking at twelve o'clock.
+Dialogue: 0,0:53:56.43,0:53:57.42,Default,,0000,0000,0000,,他们来了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They are here.
+Dialogue: 0,0:53:59.39,0:54:01.44,Default,,0000,0000,0000,,让我们来打中国鸭子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's shoot some Chinese ducks.
+Dialogue: 0,0:54:09.33,0:54:10.36,Default,,0000,0000,0000,,我已经就位了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm in position.
+Dialogue: 0,0:54:15.34,0:54:16.39,Default,,0000,0000,0000,,你最好先离开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You'd better leave now. Okay.
+Dialogue: 0,0:54:27.37,0:54:28.26,Default,,0000,0000,0000,,爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad, dad...
+Dialogue: 0,0:54:28.41,0:54:29.34,Default,,0000,0000,0000,,别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move! Dad...
+Dialogue: 0,0:54:36.27,0:54:37.44,Default,,0000,0000,0000,,我是"急先锋"的头儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm the head of vanguard.
+Dialogue: 0,0:54:38.22,0:54:39.28,Default,,0000,0000,0000,,负责这次交换人质\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's make the exchange.
+Dialogue: 0,0:54:39.31,0:54:43.29,Default,,0000,0000,0000,,我看你说话像个头儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You speak with the conviction and impatience of a man in charge,
+Dialogue: 0,0:54:45.33,0:54:47.24,Default,,0000,0000,0000,,但在这儿我说了算\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but you're not in charge here!
+Dialogue: 0,0:54:51.33,0:54:55.31,Default,,0000,0000,0000,,秦先生  你带了我要的东西吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr qin, have you brought me what I asked for?
+Dialogue: 0,0:54:59.31,0:55:00.39,Default,,0000,0000,0000,,拿来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on, give it to me.
+Dialogue: 0,0:55:07.34,0:55:09.24,Default,,0000,0000,0000,,他们已经进入陷阱\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Target is in the trap,
+Dialogue: 0,0:55:09.27,0:55:10.43,Default,,0000,0000,0000,,我们会干掉他们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we'll finish them.
+Dialogue: 0,0:55:16.33,0:55:18.20,Default,,0000,0000,0000,,这是什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What is this bullshit?
+Dialogue: 0,0:55:18.30,0:55:21.36,Default,,0000,0000,0000,,这是我帮你父亲管理的财产清单\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's the list of your father's assets I managed.
+Dialogue: 0,0:55:22.24,0:55:24.27,Default,,0000,0000,0000,,他把大部分资产都兑换成了黄金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He converted most of them into gold
+Dialogue: 0,0:55:24.36,0:55:27.38,Default,,0000,0000,0000,,但是藏在了一个安全的地方\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}but hid it away in a secure place.
+Dialogue: 0,0:55:28.24,0:55:29.34,Default,,0000,0000,0000,,我可以带你去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can take you there.
+Dialogue: 0,0:55:31.39,0:55:32.39,Default,,0000,0000,0000,,兑现承诺吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Honour your promise,
+Dialogue: 0,0:55:32.42,0:55:34.29,Default,,0000,0000,0000,,放了Fareeda和雷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}release fareeda and lei.
+Dialogue: 0,0:55:37.34,0:55:39.36,Default,,0000,0000,0000,,除非我先拿到我的财产\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not until I have the assets.
+Dialogue: 0,0:55:49.29,0:55:51.44,Default,,0000,0000,0000,,我听说"急先锋"从不放弃任何队员\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I heardvanguard never leaves anyone behind.
+Dialogue: 0,0:55:53.24,0:55:54.39,Default,,0000,0000,0000,,我今天就想验证一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'd like to test that theory.
+Dialogue: 0,0:56:03.34,0:56:05.36,Default,,0000,0000,0000,,是我的话就赶紧说再见\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I would say my goodbyes quickly.
+Dialogue: 0,0:56:07.42,0:56:08.43,Default,,0000,0000,0000,,秦先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr qin,
+Dialogue: 0,0:56:09.43,0:56:11.44,Default,,0000,0000,0000,,你女儿的死期到了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}your daughter's time is up!
+Dialogue: 0,0:56:12.22,0:56:14.23,Default,,0000,0000,0000,,不  求你  把她的头砍下来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No, stop! - No, please. - Cut her head down!
+Dialogue: 0,0:56:20.28,0:56:21.22,Default,,0000,0000,0000,,什么情况\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's going on?
+Dialogue: 0,0:56:21.24,0:56:21.42,Default,,0000,0000,0000,,不要动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop!
+Dialogue: 0,0:56:22.33,0:56:23.38,Default,,0000,0000,0000,,看你的胸口\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look at your chest.
+Dialogue: 0,0:56:26.37,0:56:27.34,Default,,0000,0000,0000,,放下武器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Drop the gun,
+Dialogue: 0,0:56:27.43,0:56:29.34,Default,,0000,0000,0000,,告诉他们放下枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}tell everybody drop their guns!
+Dialogue: 0,0:56:29.36,0:56:30.37,Default,,0000,0000,0000,,所有人不许碰她\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody gets hurt.
+Dialogue: 0,0:56:32.29,0:56:33.42,Default,,0000,0000,0000,,所有人都把枪放下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Everybody drop your guns.
+Dialogue: 0,0:56:59.27,0:57:00.33,Default,,0000,0000,0000,,我踩着跳雷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm standing on bouncing mines!
+Dialogue: 0,0:57:03.27,0:57:04.29,Default,,0000,0000,0000,,封锁所有城堡出口\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Block all the gates!
+Dialogue: 0,0:57:06.24,0:57:06.40,Default,,0000,0000,0000,,趴下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hit the deck!
+Dialogue: 0,0:57:37.37,0:57:39.27,Default,,0000,0000,0000,,凯旋来不及了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan, we've no time!
+Dialogue: 0,0:57:39.36,0:57:40.38,Default,,0000,0000,0000,,先解决你身上这个\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's deal with the vest first.
+Dialogue: 0,0:57:40.42,0:57:42.30,Default,,0000,0000,0000,,别管我  你们走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't worry about me, just go!
+Dialogue: 0,0:57:42.30,0:57:43.30,Default,,0000,0000,0000,,少废话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cut the bullshit!
+Dialogue: 0,0:57:54.29,0:57:55.33,Default,,0000,0000,0000,,他们太鬼了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're so sneaky.
+Dialogue: 0,0:57:55.37,0:57:57.23,Default,,0000,0000,0000,,剪哪条线都会炸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Whichever wire I cut will set it off.
+Dialogue: 0,0:57:57.30,0:57:58.27,Default,,0000,0000,0000,,快走吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just leave.
+Dialogue: 0,0:58:00.39,0:58:02.28,Default,,0000,0000,0000,,把电池冷冻就爆不了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can deactivate the bomb by freezing the battery.
+Dialogue: 0,0:58:14.36,0:58:15.36,Default,,0000,0000,0000,,还有跳雷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Now the bouncing mines!
+Dialogue: 0,0:58:16.21,0:58:18.22,Default,,0000,0000,0000,,凯旋解决不了的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan, there's nothing you can do.
+Dialogue: 0,0:58:18.29,0:58:19.37,Default,,0000,0000,0000,,你还有儿子  你不能死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You have a son. You need to stay alive.
+Dialogue: 0,0:58:20.24,0:58:22.21,Default,,0000,0000,0000,,快走  快走吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just go! Run!
+Dialogue: 0,0:58:22.30,0:58:23.22,Default,,0000,0000,0000,,脚离开后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take your feet off,
+Dialogue: 0,0:58:23.26,0:58:24.43,Default,,0000,0000,0000,,跳雷弹起1.2米就会爆炸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the mines will bounce up and explode mid-air,
+Dialogue: 0,0:58:24.43,0:58:26.29,Default,,0000,0000,0000,,杀伤半径14米\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}decimating everything within 14 metres.
+Dialogue: 0,0:58:52.37,0:58:53.40,Default,,0000,0000,0000,,建平  背后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Jianping, behind you!
+Dialogue: 0,0:59:11.20,0:59:11.38,Default,,0000,0000,0000,,延龙\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yanlong!
+Dialogue: 0,0:59:12.34,0:59:13.22,Default,,0000,0000,0000,,你先撤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You go first. Okay.
+Dialogue: 0,0:59:16.42,0:59:17.44,Default,,0000,0000,0000,,我数一二三\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On my count of three,
+Dialogue: 0,0:59:18.28,0:59:19.26,Default,,0000,0000,0000,,一起跳\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}jump!
+Dialogue: 0,0:59:19.99,0:59:20.99,Default,,0000,0000,0000,,一\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}One,
+Dialogue: 0,0:59:21.24,0:59:22.24,Default,,0000,0000,0000,,二\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}two,
+Dialogue: 0,0:59:22.65,0:59:23.27,Default,,0000,0000,0000,,三\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}three,
+Dialogue: 0,0:59:23.30,0:59:24.24,Default,,0000,0000,0000,,跳\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}jump!
+Dialogue: 0,0:59:39.78,0:59:40.78,Default,,0000,0000,0000,,走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go.
+Dialogue: 0,0:59:42.20,0:59:42.43,Default,,0000,0000,0000,,在那里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Over there!
+Dialogue: 0,0:59:44.20,0:59:45.37,Default,,0000,0000,0000,,干掉他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Shoot him down!
+Dialogue: 0,1:00:05.24,1:00:06.25,Default,,0000,0000,0000,,救Farceda\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go help fareeda! Go!
+Dialogue: 0,1:00:24.36,1:00:25.31,Default,,0000,0000,0000,,跟紧我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay with me. Go!
+Dialogue: 0,1:00:37.29,1:00:38.29,Default,,0000,0000,0000,,我不能中枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't be shot.
+Dialogue: 0,1:00:39.35,1:00:41.26,Default,,0000,0000,0000,,我也不能中枪啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Me neither!
+Dialogue: 0,1:00:42.43,1:00:44.33,Default,,0000,0000,0000,,他们在这儿都过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're over here! Here.
+Dialogue: 0,1:01:02.23,1:01:02.40,Default,,0000,0000,0000,,别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move.
+Dialogue: 0,1:01:03.43,1:01:04.40,Default,,0000,0000,0000,,接着\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Catch it.
+Dialogue: 0,1:01:14.41,1:01:15.30,Default,,0000,0000,0000,,撤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pull out!
+Dialogue: 0,1:01:20.28,1:01:21.30,Default,,0000,0000,0000,,来人啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come...
+Dialogue: 0,1:01:21.30,1:01:22.38,Default,,0000,0000,0000,,快点  快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need everyone!
+Dialogue: 0,1:01:22.38,1:01:24.31,Default,,0000,0000,0000,,所有人都快去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}On the double!
+Dialogue: 0,1:01:24.44,1:01:26.23,Default,,0000,0000,0000,,Omar需要支援\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Omar needs help!
+Dialogue: 0,1:01:26.25,1:01:27.38,Default,,0000,0000,0000,,穆罕默德  跟我来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mohammed, come with me.
+Dialogue: 0,1:01:30.37,1:01:32.23,Default,,0000,0000,0000,,封锁所有出口\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Block all the exits!
+Dialogue: 0,1:01:32.33,1:01:34.20,Default,,0000,0000,0000,,所有人到自己位置\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold your positions
+Dialogue: 0,1:01:34.24,1:01:35.29,Default,,0000,0000,0000,,封锁大门\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and lock the gate!
+Dialogue: 0,1:02:05.28,1:02:06.26,Default,,0000,0000,0000,,没事吧?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Are you alright?
+Dialogue: 0,1:02:06.34,1:02:07.23,Default,,0000,0000,0000,,没事儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm fine.
+Dialogue: 0,1:02:07.25,1:02:07.37,Default,,0000,0000,0000,,走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go.
+Dialogue: 0,1:02:09.33,1:02:11.31,Default,,0000,0000,0000,,后方街道有阿巴提和穆罕默德\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Abati and Mohammed are just blocks away
+Dialogue: 0,1:02:11.31,1:02:12.39,Default,,0000,0000,0000,,驾驶车辆前来接应\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}on their way to pick you up.
+Dialogue: 0,1:02:17.34,1:02:18.27,Default,,0000,0000,0000,,这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This way, quick!
+Dialogue: 0,1:02:27.28,1:02:28.31,Default,,0000,0000,0000,,延龙补位\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yanlong, cover me. Copy!
+Dialogue: 0,1:02:33.20,1:02:33.33,Default,,0000,0000,0000,,上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go! Move!
+Dialogue: 0,1:02:43.21,1:02:43.35,Default,,0000,0000,0000,,给你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take this.
+Dialogue: 0,1:02:44.21,1:02:44.39,Default,,0000,0000,0000,,救人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move him!
+Dialogue: 0,1:02:47.29,1:02:48.21,Default,,0000,0000,0000,,挺住\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hang in there! Let's go!
+Dialogue: 0,1:02:52.21,1:02:53.20,Default,,0000,0000,0000,,周斌撤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Zhou, pull out! Go.
+Dialogue: 0,1:02:56.30,1:02:57.22,Default,,0000,0000,0000,,快上车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in, quick!
+Dialogue: 0,1:02:57.37,1:02:58.34,Default,,0000,0000,0000,,上车  快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in.
+Dialogue: 0,1:03:06.22,1:03:07.29,Default,,0000,0000,0000,,撤  我掩护\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pull out, I'll cover! Copy!
+Dialogue: 0,1:03:15.23,1:03:16.23,Default,,0000,0000,0000,,上车  快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in, quick!
+Dialogue: 0,1:03:18.21,1:03:20.37,Default,,0000,0000,0000,,走  快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, go, go... Go!
+Dialogue: 0,1:03:30.28,1:03:31.24,Default,,0000,0000,0000,,火箭筒\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Rpg!
+Dialogue: 0,1:03:31.44,1:03:32.44,Default,,0000,0000,0000,,凯旋\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan!
+Dialogue: 0,1:03:46.35,1:03:48.43,Default,,0000,0000,0000,,已经探测不到张凯旋的生命体征\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't detect kaixuan's vital signs.
+Dialogue: 0,1:03:49.37,1:03:51.39,Default,,0000,0000,0000,,凯旋已经失去生命迹象啦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}His vital signs are gone!
+Dialogue: 0,1:03:56.43,1:03:57.41,Default,,0000,0000,0000,,都给我上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, come on.
+Dialogue: 0,1:04:01.29,1:04:02.27,Default,,0000,0000,0000,,我们被包围了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're closing in.
+Dialogue: 0,1:04:02.27,1:04:04.28,Default,,0000,0000,0000,,再不走我们都走不了了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need to go now or be trapped.
+Dialogue: 0,1:04:08.28,1:04:10.20,Default,,0000,0000,0000,,让我去把他救回来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll find kaixuan and bring him back.
+Dialogue: 0,1:04:11.37,1:04:12.40,Default,,0000,0000,0000,,去  小心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure, be safe!
+Dialogue: 0,1:04:12.40,1:04:13.33,Default,,0000,0000,0000,,掩护\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Cover him!
+Dialogue: 0,1:04:13.78,1:04:14.78,Default,,0000,0000,0000,,Yes, sir!\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir!
+Dialogue: 0,1:04:23.44,1:04:24.38,Default,,0000,0000,0000,,延龙\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yanlong,
+Dialogue: 0,1:04:24.38,1:04:25.33,Default,,0000,0000,0000,,怎么样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are you alright?
+Dialogue: 0,1:04:26.42,1:04:27.39,Default,,0000,0000,0000,,-没事儿  -走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- I'm okay. - Let's go.
+Dialogue: 0,1:04:33.31,1:04:34.24,Default,,0000,0000,0000,,凯旋\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan!
+Dialogue: 0,1:04:52.35,1:04:53.35,Default,,0000,0000,0000,,快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hurry up.
+Dialogue: 0,1:04:57.37,1:04:59.35,Default,,0000,0000,0000,,兄弟  顶住啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hang in there, bro!
+Dialogue: 0,1:05:08.41,1:05:09.34,Default,,0000,0000,0000,,撤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Pull out!
+Dialogue: 0,1:05:13.43,1:05:16.20,Default,,0000,0000,0000,,快撤  再不走就来不及了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go now or it'll be too late!
+Dialogue: 0,1:05:23.35,1:05:24.29,Default,,0000,0000,0000,,走啊快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go, let's go!
+Dialogue: 0,1:05:24.29,1:05:25.27,Default,,0000,0000,0000,,他们要的是我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They just want me!
+Dialogue: 0,1:05:25.27,1:05:26.20,Default,,0000,0000,0000,,秦国立\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Qin!
+Dialogue: 0,1:05:30.38,1:05:32.21,Default,,0000,0000,0000,,-你回来  -停\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- You come back! - Stop, stop!
+Dialogue: 0,1:05:32.30,1:05:33.27,Default,,0000,0000,0000,,快走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come back!
+Dialogue: 0,1:05:33.31,1:05:35.20,Default,,0000,0000,0000,,把我女儿带走  快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Take my daughter out of here! Quick!
+Dialogue: 0,1:05:35.26,1:05:36.38,Default,,0000,0000,0000,,记得我们的约定\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Remember our deal.
+Dialogue: 0,1:05:38.27,1:05:40.31,Default,,0000,0000,0000,,爸  不要…\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad, don't...
+Dialogue: 0,1:05:40.40,1:05:43.21,Default,,0000,0000,0000,,爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dad. Dad!
+Dialogue: 0,1:05:44.20,1:05:45.23,Default,,0000,0000,0000,,-快  -进来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get in. Quick - come on
+Dialogue: 0,1:05:56.20,1:05:56.43,Default,,0000,0000,0000,,都别开枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody shoots!
+Dialogue: 0,1:06:13.25,1:06:14.22,Default,,0000,0000,0000,,挺住\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hang in there!
+Dialogue: 0,1:06:28.21,1:06:30.30,Default,,0000,0000,0000,,兄弟  你不能死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Buddy, don't die on me.
+Dialogue: 0,1:06:30.30,1:06:31.26,Default,,0000,0000,0000,,不能死\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay alive!
+Dialogue: 0,1:06:33.34,1:06:35.22,Default,,0000,0000,0000,,凯旋  你给我起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan, wake up!
+Dialogue: 0,1:06:43.22,1:06:44.34,Default,,0000,0000,0000,,你的儿子嘉华\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Remember your son jiahua.
+Dialogue: 0,1:06:45.34,1:06:47.43,Default,,0000,0000,0000,,你说过你要成为他的英雄\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You said you'd be his hero.
+Dialogue: 0,1:06:48.21,1:06:49.37,Default,,0000,0000,0000,,这都是你说的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You promised!
+Dialogue: 0,1:06:50.33,1:06:51.40,Default,,0000,0000,0000,,你给我起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wake up now!
+Dialogue: 0,1:06:51.43,1:06:52.36,Default,,0000,0000,0000,,起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}up now!
+Dialogue: 0,1:06:52.42,1:06:54.27,Default,,0000,0000,0000,,起来呀\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}C'm on!
+Dialogue: 0,1:06:55.37,1:06:57.42,Default,,0000,0000,0000,,凯旋  你给我起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan, wake up.
+Dialogue: 0,1:07:03.28,1:07:04.31,Default,,0000,0000,0000,,起来啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wake up, you hear me?
+Dialogue: 0,1:07:21.43,1:07:23.25,Default,,0000,0000,0000,,小心  趴下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold tight! Take cover!
+Dialogue: 0,1:07:44.24,1:07:45.20,Default,,0000,0000,0000,,抓稳了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hold tight!
+Dialogue: 0,1:08:33.37,1:08:34.37,Default,,0000,0000,0000,,兄弟\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stop, dear...
+Dialogue: 0,1:08:34.37,1:08:36.29,Default,,0000,0000,0000,,别按了  疼\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't...
+Dialogue: 0,1:09:00.35,1:09:02.33,Default,,0000,0000,0000,,这一路颠  颠对了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks to my rollercoaster ride!
+Dialogue: 0,1:09:05.24,1:09:07.20,Default,,0000,0000,0000,,你刚才是不是亲我了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did you just kiss me?
+Dialogue: 0,1:09:10.27,1:09:12.20,Default,,0000,0000,0000,,你得对我负责任啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm all yours now!
+Dialogue: 0,1:09:23.42,1:09:25.24,Default,,0000,0000,0000,,我儿子送我的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My son gave me this.
+Dialogue: 0,1:09:27.33,1:09:29.22,Default,,0000,0000,0000,,还是咱们儿子最好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Our son is the best!
+Dialogue: 0,1:09:41.29,1:09:43.23,Default,,0000,0000,0000,,放心  你爸爸不会有事\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Relax, your father will be fine.
+Dialogue: 0,1:09:43.37,1:09:44.39,Default,,0000,0000,0000,,他们需要他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They need him alive.
+Dialogue: 0,1:09:47.33,1:09:49.27,Default,,0000,0000,0000,,我知道去哪儿找他们\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know where to find them.
+Dialogue: 0,1:10:03.35,1:10:04.41,Default,,0000,0000,0000,,跟踪器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tracking device.
+Dialogue: 0,1:10:09.33,1:10:11.34,Default,,0000,0000,0000,,我不喜欢严刑逼供\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't like torture
+Dialogue: 0,1:10:12.33,1:10:16.22,Default,,0000,0000,0000,,我更不喜欢废话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}as much as I don't like bullshit.
+Dialogue: 0,1:10:17.27,1:10:19.28,Default,,0000,0000,0000,,是你出卖了我父亲吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Did you betray my father?
+Dialogue: 0,1:10:20.38,1:10:21.34,Default,,0000,0000,0000,,没有\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No.
+Dialogue: 0,1:10:22.30,1:10:23.35,Default,,0000,0000,0000,,黄金在哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where is the gold?
+Dialogue: 0,1:10:24.33,1:10:25.30,Default,,0000,0000,0000,,迪拜\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dubai.
+Dialogue: 0,1:10:26.29,1:10:27.34,Default,,0000,0000,0000,,我带你去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll take you there.
+Dialogue: 0,1:10:27.40,1:10:29.21,Default,,0000,0000,0000,,别伤害我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't hurt me.
+Dialogue: 0,1:10:46.34,1:10:48.28,Default,,0000,0000,0000,,Omar父亲刚付了购买大规模\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Omar's father paid a deposit
+Dialogue: 0,1:10:48.30,1:10:50.24,Default,,0000,0000,0000,,杀伤性武器的订金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}on weapons of mass destruction.
+Dialogue: 0,1:10:50.36,1:10:53.30,Default,,0000,0000,0000,,交易还没完成  他就死了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But he was killed before the deal went through.
+Dialogue: 0,1:10:53.33,1:10:57.21,Default,,0000,0000,0000,,他们在迪拜的某处藏匿了两个亿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They have more than $200m stowed somewhere in Dubai
+Dialogue: 0,1:10:57.33,1:11:00.22,Default,,0000,0000,0000,,我们必须要在他们交易时一网打尽\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we'll have to catch them in the act of making the deal.
+Dialogue: 0,1:11:00.33,1:11:03.28,Default,,0000,0000,0000,,根据你们提供的"北极狼"情报\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Based on your intel information of the arctic wolves,
+Dialogue: 0,1:11:03.28,1:11:06.26,Default,,0000,0000,0000,,我们已查到了全部该组织成员的资料\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we found information on every arctic wolves mercenary.
+Dialogue: 0,1:11:06.33,1:11:07.43,Default,,0000,0000,0000,,其中两名成员已于今早入境\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two of them entered Dubai this morning,
+Dialogue: 0,1:11:07.43,1:11:09.35,Default,,0000,0000,0000,,目前已在我们的监控之下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and they are under our surveillance.
+Dialogue: 0,1:11:11.37,1:11:14.28,Default,,0000,0000,0000,,我们现在还不确定他们是否与绑架秦国立\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We cannot confirm if they are connected with the kidnapping of qin
+Dialogue: 0,1:11:14.31,1:11:15.38,Default,,0000,0000,0000,,以及这次武器交易有关\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}or the arms deal.
+Dialogue: 0,1:11:18.25,1:11:18.36,Default,,0000,0000,0000,,老板\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir,
+Dialogue: 0,1:11:19.23,1:11:20.42,Default,,0000,0000,0000,,这次行动我们可以带枪吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}can we carry firearms?
+Dialogue: 0,1:11:20.42,1:11:21.29,Default,,0000,0000,0000,,不行\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No,
+Dialogue: 0,1:11:21.39,1:11:25.20,Default,,0000,0000,0000,,你们只能协助和协商调查\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you will be only assisting and consulting with the investigation.
+Dialogue: 0,1:11:25.25,1:11:26.31,Default,,0000,0000,0000,,所有的行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All field operations here
+Dialogue: 0,1:11:26.35,1:11:28.40,Default,,0000,0000,0000,,都由我们迪拜警方负责\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}are going to be carried out by our police force.
+Dialogue: 0,1:11:29.29,1:11:30.33,Default,,0000,0000,0000,,你会听中文?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You understand Chinese?
+Dialogue: 0,1:11:31.30,1:11:32.28,Default,,0000,0000,0000,,我能听懂\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can understand,
+Dialogue: 0,1:11:32.30,1:11:33.35,Default,,0000,0000,0000,,但不太会说\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}though I don't speak much.
+Dialogue: 0,1:11:34.28,1:11:35.34,Default,,0000,0000,0000,,我的老婆是中国人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}My wife is Chinese.
+Dialogue: 0,1:11:36.44,1:11:37.44,Default,,0000,0000,0000,,中国人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Chinese!
+Dialogue: 0,1:11:38.22,1:11:39.25,Default,,0000,0000,0000,,肯定很漂亮\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Must be beautiful.
+Dialogue: 0,1:11:39.29,1:11:40.31,Default,,0000,0000,0000,,当然\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Absolutely.
+Dialogue: 0,1:11:52.24,1:11:53.33,Default,,0000,0000,0000,,这个就是Mardct\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is marder.
+Dialogue: 0,1:11:55.29,1:11:56.36,Default,,0000,0000,0000,,他是个好色之徒\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He's a serial womaniser.
+Dialogue: 0,1:11:57.20,1:11:58.41,Default,,0000,0000,0000,,前女友都是小演员和模特儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Loves dating models and small-time actresses.
+Dialogue: 0,1:11:59.22,1:12:01.20,Default,,0000,0000,0000,,而且有暴力倾向\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He has a violent temper.
+Dialogue: 0,1:12:01.35,1:12:02.34,Default,,0000,0000,0000,,一年前\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Arrested last year
+Dialogue: 0,1:12:02.34,1:12:04.21,Default,,0000,0000,0000,,他因为殴打女友被拘留\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for beating up a girlfriend.
+Dialogue: 0,1:12:06.26,1:12:07.28,Default,,0000,0000,0000,,大写的渣男\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A typical scumbag!
+Dialogue: 0,1:12:14.34,1:12:16.30,Default,,0000,0000,0000,,今天下午游泳池见\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll see you at the pool this afternoon.
+Dialogue: 0,1:12:17.28,1:12:19.20,Default,,0000,0000,0000,,我们最好能拷贝到他们的手机\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Best if we can hack his phones
+Dialogue: 0,1:12:19.22,1:12:20.24,Default,,0000,0000,0000,,和信用卡信息\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and credit cards.
+Dialogue: 0,1:12:20.24,1:12:21.29,Default,,0000,0000,0000,,摸清他们的底细\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Then we can find out more.
+Dialogue: 0,1:12:21.35,1:12:22.30,Default,,0000,0000,0000,,这没问题\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}No problem.
+Dialogue: 0,1:12:22.40,1:12:25.38,Default,,0000,0000,0000,,但是这两个人反侦察能力非常强\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But they are careful and alert,
+Dialogue: 0,1:12:25.42,1:12:26.40,Default,,0000,0000,0000,,很难靠近\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}hard to infiltrate.
+Dialogue: 0,1:12:36.25,1:12:38.28,Default,,0000,0000,0000,,那咱们就用美人计\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How about a honeytrap?
+Dialogue: 0,1:12:40.40,1:12:42.22,Default,,0000,0000,0000,,好主意\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Brilliant!
+Dialogue: 0,1:12:44.24,1:12:45.34,Default,,0000,0000,0000,,你们看着我干嘛?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why are you staring at me?
+Dialogue: 0,1:12:45.41,1:12:48.23,Default,,0000,0000,0000,,你们平时不是说我像个爷们吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Didn't you always say I'm one of the boys?
+Dialogue: 0,1:12:52.33,1:12:54.20,Default,,0000,0000,0000,,还美人计\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Forget honeytrap,
+Dialogue: 0,1:12:55.40,1:12:56.33,Default,,0000,0000,0000,,做不了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}not me!
+Dialogue: 0,1:13:01.21,1:13:02.21,Default,,0000,0000,0000,,凯旋哥\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Kaixuan,
+Dialogue: 0,1:13:03.21,1:13:04.26,Default,,0000,0000,0000,,要不你来?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}how about you?
+Dialogue: 0,1:13:10.42,1:13:13.20,Default,,0000,0000,0000,,还真是小心啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not taking any chances huh?
+Dialogue: 0,1:13:14.36,1:13:16.33,Default,,0000,0000,0000,,来换个姿势\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Change the pose.
+Dialogue: 0,1:13:17.34,1:13:19.26,Default,,0000,0000,0000,,很好  继续\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great, a little more.
+Dialogue: 0,1:13:20.37,1:13:22.22,Default,,0000,0000,0000,,来  拨弄拨弄头发\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good. Stroke your hair.
+Dialogue: 0,1:13:22.37,1:13:24.31,Default,,0000,0000,0000,,特别棒特别美\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good. Nice posture.
+Dialogue: 0,1:13:24.31,1:13:26.29,Default,,0000,0000,0000,,来  多一点  对\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A little more, great!
+Dialogue: 0,1:13:26.29,1:13:28.29,Default,,0000,0000,0000,,在泳池里谈生意真好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not a bad conference room for the day.
+Dialogue: 0,1:13:29.35,1:13:30.35,Default,,0000,0000,0000,,完全同意\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm with you on that.
+Dialogue: 0,1:13:31.37,1:13:32.35,Default,,0000,0000,0000,,很好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wonderful!
+Dialogue: 0,1:13:32.35,1:13:33.39,Default,,0000,0000,0000,,来  转个身\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn around...
+Dialogue: 0,1:13:40.29,1:13:41.31,Default,,0000,0000,0000,,对  大笑\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great!
+Dialogue: 0,1:13:41.31,1:13:42.39,Default,,0000,0000,0000,,特别美\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sweet!
+Dialogue: 0,1:13:44.39,1:13:46.40,Default,,0000,0000,0000,,位置不错保持啊  别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Great pose! Hold it right there...
+Dialogue: 0,1:13:54.36,1:13:57.20,Default,,0000,0000,0000,,很好  光线很美啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Very good, the lighting is beautiful.
+Dialogue: 0,1:13:57.20,1:13:58.21,Default,,0000,0000,0000,,我们再来几张\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's take a few more photos
+Dialogue: 0,1:14:00.23,1:14:03.26,Default,,0000,0000,0000,,货两天内必须送到迪拜\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}the merchandise must be delivered to Dubai in two days.
+Dialogue: 0,1:14:03.31,1:14:06.21,Default,,0000,0000,0000,,你们能保证安全进港吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Can you guarantee its safe passage into the port?
+Dialogue: 0,1:14:06.23,1:14:06.36,Default,,0000,0000,0000,,当然\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes!
+Dialogue: 0,1:14:06.40,1:14:09.30,Default,,0000,0000,0000,,我们的货不需要进港\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Our goods doesn't even have to enter the port.
+Dialogue: 0,1:14:09.35,1:14:12.26,Default,,0000,0000,0000,,它可以远程遥控\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It can be controlled remotely.
+Dialogue: 0,1:14:12.28,1:14:14.35,Default,,0000,0000,0000,,但这交易被你们拖了一年\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But you've delayed it for one year.
+Dialogue: 0,1:14:16.33,1:14:20.21,Default,,0000,0000,0000,,所以要完成交易还要两个亿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So if you want to finish the deal, it's still $200m.
+Dialogue: 0,1:14:20.21,1:14:21.20,Default,,0000,0000,0000,,只要现金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Only cash.
+Dialogue: 0,1:14:21.35,1:14:23.25,Default,,0000,0000,0000,,钱到货到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You'll get what you pay for.
+Dialogue: 0,1:14:30.43,1:14:32.25,Default,,0000,0000,0000,,稍等我一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll get back to you shortly.
+Dialogue: 0,1:14:32.33,1:14:33.23,Default,,0000,0000,0000,,没问题\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure.
+Dialogue: 0,1:14:34.38,1:14:35.37,Default,,0000,0000,0000,,好  差不多了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We are almost done here.
+Dialogue: 0,1:14:35.37,1:14:37.21,Default,,0000,0000,0000,,我们去沙滩那边拍吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's shoot some more at the beach.
+Dialogue: 0,1:14:37.21,1:14:39.20,Default,,0000,0000,0000,,亲爱的  我们换身衣服再拍啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Darling, let's get changed first.
+Dialogue: 0,1:14:43.41,1:14:44.35,Default,,0000,0000,0000,,怎么样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How's it going?
+Dialogue: 0,1:14:45.20,1:14:46.20,Default,,0000,0000,0000,,他是中东\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}He works for Josef,
+Dialogue: 0,1:14:46.20,1:14:47.41,Default,,0000,0000,0000,,头号军火贩子尤瑟夫的人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}a major arms dealer in the middle east.
+Dialogue: 0,1:14:48.24,1:14:50.20,Default,,0000,0000,0000,,想办法拷贝他们的手机卡\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's find ways to hack their phones.
+Dialogue: 0,1:14:54.42,1:14:55.33,Default,,0000,0000,0000,,什么事?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's happening?
+Dialogue: 0,1:14:55.40,1:14:57.26,Default,,0000,0000,0000,,那三个亚洲人很可疑\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I believe the three asians
+Dialogue: 0,1:14:57.26,1:14:58.36,Default,,0000,0000,0000,,一直往你那边拍照\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}have been taking pictures of you.
+Dialogue: 0,1:14:59.42,1:15:00.36,Default,,0000,0000,0000,,亲爱的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Darling,
+Dialogue: 0,1:15:01.28,1:15:03.21,Default,,0000,0000,0000,,没阳光了  咱们得抓点紧了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}we need to hurry to catch the light.
+Dialogue: 0,1:15:03.37,1:15:04.30,Default,,0000,0000,0000,,好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure.
+Dialogue: 0,1:15:10.27,1:15:12.28,Default,,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hi, good day!
+Dialogue: 0,1:15:18.26,1:15:19.35,Default,,0000,0000,0000,,快去沙滩  没光了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To the beach now. Light's fading.
+Dialogue: 0,1:15:20.37,1:15:22.23,Default,,0000,0000,0000,,你们想的什么破美人计\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So much for your honeytrap!
+Dialogue: 0,1:15:22.23,1:15:23.25,Default,,0000,0000,0000,,我都穿成那样了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Dressing up like this
+Dialogue: 0,1:15:23.33,1:15:24.26,Default,,0000,0000,0000,,他都不理我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and he still ignores me.
+Dialogue: 0,1:15:24.28,1:15:25.34,Default,,0000,0000,0000,,我就问你她漂不漂亮?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't you think she's beautiful?
+Dialogue: 0,1:15:25.39,1:15:26.30,Default,,0000,0000,0000,,漂亮\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Of course.
+Dialogue: 0,1:15:26.33,1:15:28.21,Default,,0000,0000,0000,,漂亮到我都不好意思看了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So gorgeous I can't even bear to look!
+Dialogue: 0,1:15:32.25,1:15:34.28,Default,,0000,0000,0000,,他们在沙滩上拍照\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They are still taking pictures on the beach.
+Dialogue: 0,1:15:34.38,1:15:35.36,Default,,0000,0000,0000,,所以?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}So?
+Dialogue: 0,1:15:36.23,1:15:37.31,Default,,0000,0000,0000,,我觉得他们没什么\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think they are clean.
+Dialogue: 0,1:15:38.24,1:15:39.37,Default,,0000,0000,0000,,你让我失去了一个机会\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You just kill my chances.
+Dialogue: 0,1:15:40.27,1:15:41.35,Default,,0000,0000,0000,,今晚本应该很美好的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I could have got lucky tonight.
+Dialogue: 0,1:15:42.33,1:15:43.29,Default,,0000,0000,0000,,抱歉了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm sorry.
+Dialogue: 0,1:15:44.31,1:15:46.21,Default,,0000,0000,0000,,谨慎为妙\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have to be careful.
+Dialogue: 0,1:15:46.39,1:15:47.39,Default,,0000,0000,0000,,我们再来啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's do it one more time.
+Dialogue: 0,1:15:49.24,1:15:51.44,Default,,0000,0000,0000,,很好  继续  来让裙子再飘一点儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good, keep on, let your dress flutters.
+Dialogue: 0,1:15:55.27,1:15:56.21,Default,,0000,0000,0000,,有了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got it.
+Dialogue: 0,1:15:58.37,1:16:00.36,Default,,0000,0000,0000,,你看  我就说好看吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See, aren't they great?
+Dialogue: 0,1:16:00.40,1:16:02.24,Default,,0000,0000,0000,,我们还有机会\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All is not lost.
+Dialogue: 0,1:16:04.31,1:16:05.31,Default,,0000,0000,0000,,韩国人?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Korean?
+Dialogue: 0,1:16:08.28,1:16:09.33,Default,,0000,0000,0000,,我是中国人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'm Chinese.
+Dialogue: 0,1:16:10.23,1:16:11.23,Default,,0000,0000,0000,,中国人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Chinese!
+Dialogue: 0,1:16:11.40,1:16:13.23,Default,,0000,0000,0000,,很漂亮的照片\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Beautiful pictures.
+Dialogue: 0,1:16:15.38,1:16:16.30,Default,,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hello...
+Dialogue: 0,1:16:17.21,1:16:18.39,Default,,0000,0000,0000,,我是她的经纪人  需要帮忙吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I am her agent. Can I help you?
+Dialogue: 0,1:16:18.41,1:16:20.37,Default,,0000,0000,0000,,我投资的中东泳装品牌在找模特儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A middle-eastern swimwear brand I invested in...
+Dialogue: 0,1:16:20.37,1:16:23.22,Default,,0000,0000,0000,,靠近他的手机就可以复制手机卡\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}To copy, just place your phone next to his.
+Dialogue: 0,1:16:23.24,1:16:26.21,Default,,0000,0000,0000,,我觉得她非常适合\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I think it could be very fit for her.
+Dialogue: 0,1:16:26.24,1:16:27.40,Default,,0000,0000,0000,,你可以加我微信\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can add my wechat.
+Dialogue: 0,1:16:29.33,1:16:31.21,Default,,0000,0000,0000,,你可以扫我的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can scan me.
+Dialogue: 0,1:16:31.23,1:16:32.20,Default,,0000,0000,0000,,好啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure...
+Dialogue: 0,1:16:34.29,1:16:35.24,Default,,0000,0000,0000,,可以了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Got you.
+Dialogue: 0,1:16:35.42,1:16:37.22,Default,,0000,0000,0000,,保持联系\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll be in touch.
+Dialogue: 0,1:16:38.37,1:16:39.39,Default,,0000,0000,0000,,夹克不错\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nice jacket.
+Dialogue: 0,1:16:39.39,1:16:40.31,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thanks. Come
+Dialogue: 0,1:16:44.22,1:16:45.20,Default,,0000,0000,0000,,怎么样?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}how did it go?
+Dialogue: 0,1:16:45.22,1:16:45.39,Default,,0000,0000,0000,,复制好了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}A copy is made.
+Dialogue: 0,1:16:57.33,1:17:00.20,Default,,0000,0000,0000,,美国约翰C·斯坦尼斯号航空母舰\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The aircraft carrier USS John c. Stennis
+Dialogue: 0,1:17:00.20,1:17:01.42,Default,,0000,0000,0000,,今天抵达拉希德港\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}arrives today at port rashid
+Dialogue: 0,1:17:01.42,1:17:03.35,Default,,0000,0000,0000,,对阿拉伯联台酋长国迪拜\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for a four-day visit of Dubai
+Dialogue: 0,1:17:03.35,1:17:05.40,Default,,0000,0000,0000,,进行为期四天的访问\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}in the United Arab Emirates.
+Dialogue: 0,1:17:05.40,1:17:08.41,Default,,0000,0000,0000,,现在直播格雷道斯舰长在航母上的讲话\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Live from the aircraft carrier, captain Greg dawes.
+Dialogue: 0,1:17:10.34,1:17:12.22,Default,,0000,0000,0000,,他们要两亿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They want $200m.
+Dialogue: 0,1:17:12.33,1:17:14.24,Default,,0000,0000,0000,,必须现金\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It has to be in cash.
+Dialogue: 0,1:17:14.34,1:17:15.43,Default,,0000,0000,0000,,我会用黄金支付\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll pay in gold.
+Dialogue: 0,1:17:25.20,1:17:27.37,Default,,0000,0000,0000,,以牙还牙  道斯先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}An eye for an eye, mr dawes!
+Dialogue: 0,1:17:45.24,1:17:46.29,Default,,0000,0000,0000,,天气很好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The weather is clear.
+Dialogue: 0,1:17:47.20,1:17:49.20,Default,,0000,0000,0000,,只看得见海鸥  没有猎鹰\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There are only seagulls, no falcons.
+Dialogue: 0,1:17:50.43,1:17:51.44,Default,,0000,0000,0000,,一切安全\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's safe.
+Dialogue: 0,1:17:57.23,1:17:59.29,Default,,0000,0000,0000,,我们搞定了警方的监控\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We've taken care of the police surveillance.
+Dialogue: 0,1:17:59.29,1:18:00.38,Default,,0000,0000,0000,,他们的一切动作皆在掌握\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We'll see every move they make.
+Dialogue: 0,1:18:01.22,1:18:02.40,Default,,0000,0000,0000,,通知他们交易地点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Tell them the exchange location.
+Dialogue: 0,1:18:03.21,1:18:04.31,Default,,0000,0000,0000,,一手交钱一手交货\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We pay on delivery.
+Dialogue: 0,1:18:06.22,1:18:06.42,Default,,0000,0000,0000,,我爸爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's dad!
+Dialogue: 0,1:18:08.33,1:18:09.34,Default,,0000,0000,0000,,打开监听设备\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn on the sound,
+Dialogue: 0,1:18:10.20,1:18:11.30,Default,,0000,0000,0000,,监听Marder手机\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}monitor marder's phone.
+Dialogue: 0,1:18:20.41,1:18:23.44,Default,,0000,0000,0000,,长官  交易地点是一个二手车市场\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sir, the location is a second-hand car dealership.
+Dialogue: 0,1:18:24.42,1:18:26.44,Default,,0000,0000,0000,,立马派人过去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Send a team there at once.
+Dialogue: 0,1:18:27.23,1:18:27.39,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir!
+Dialogue: 0,1:18:30.22,1:18:30.38,Default,,0000,0000,0000,,看紧他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Watch him.
+Dialogue: 0,1:18:41.31,1:18:42.29,Default,,0000,0000,0000,,目标离开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They are on their way.
+Dialogue: 0,1:18:45.41,1:18:47.27,Default,,0000,0000,0000,,这台车多少钱?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How much is this?
+Dialogue: 0,1:18:48.35,1:18:49.39,Default,,0000,0000,0000,,两百二十万迪拉姆\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}About 2.2m dirham.
+Dialogue: 0,1:18:49.43,1:18:51.28,Default,,0000,0000,0000,,等于四百万人民币\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's about rmb 4m.
+Dialogue: 0,1:18:52.20,1:18:54.38,Default,,0000,0000,0000,,在国内  这款赛道版要一千多万\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This special edition costs rmb 10m in China.
+Dialogue: 0,1:18:55.21,1:18:56.33,Default,,0000,0000,0000,,那挺划算的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's a bargain!
+Dialogue: 0,1:18:56.33,1:18:57.33,Default,,0000,0000,0000,,给我来一台\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I'll take one.
+Dialogue: 0,1:18:57.33,1:18:58.39,Default,,0000,0000,0000,,他们到了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Okay, they're coming.
+Dialogue: 0,1:19:07.42,1:19:08.34,Default,,0000,0000,0000,,到了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}They're here.
+Dialogue: 0,1:19:26.27,1:19:27.39,Default,,0000,0000,0000,,通知特警去二手车市场待命\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get SWAT in position.
+Dialogue: 0,1:19:29.33,1:19:30.27,Default,,0000,0000,0000,,快点儿\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move it.
+Dialogue: 0,1:19:38.44,1:19:40.25,Default,,0000,0000,0000,,黄金在哪儿?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's the gold?
+Dialogue: 0,1:19:40.25,1:19:41.40,Default,,0000,0000,0000,,老板他们来了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Boss, they're here.
+Dialogue: 0,1:19:46.23,1:19:47.31,Default,,0000,0000,0000,,我们终于见面了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Finally we meet.
+Dialogue: 0,1:19:48.36,1:19:49.36,Default,,0000,0000,0000,,时间正好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good timing.
+Dialogue: 0,1:19:50.28,1:19:51.26,Default,,0000,0000,0000,,只能看着\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Watching from the sideline,
+Dialogue: 0,1:19:51.31,1:19:52.27,Default,,0000,0000,0000,,真郁闷\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}a real bummer!
+Dialogue: 0,1:19:54.41,1:19:55.39,Default,,0000,0000,0000,,那可不一定\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Not for long...
+Dialogue: 0,1:20:31.20,1:20:32.25,Default,,0000,0000,0000,,这里的每一辆黄金车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Each gold car
+Dialogue: 0,1:20:32.28,1:20:35.28,Default,,0000,0000,0000,,都价值超过一亿美元\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}is worth over one hundred million dollars.
+Dialogue: 0,1:20:35.36,1:20:39.21,Default,,0000,0000,0000,,车身防弹  车胎防爆\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The windows, the tires, are all bullet-proof.
+Dialogue: 0,1:20:42.28,1:20:44.21,Default,,0000,0000,0000,,你随便挑两辆吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You may pick two cars.
+Dialogue: 0,1:20:45.22,1:20:47.27,Default,,0000,0000,0000,,多出的算小费\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Consider the extra money a gratuity.
+Dialogue: 0,1:20:48.41,1:20:49.43,Default,,0000,0000,0000,,我喜欢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I love them!
+Dialogue: 0,1:20:51.35,1:20:53.28,Default,,0000,0000,0000,,但是我们怎么把它开出迪拜?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}But how do I get them out of Dubai?
+Dialogue: 0,1:20:53.38,1:20:55.27,Default,,0000,0000,0000,,这不是问题\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It shouldn't be a problem.
+Dialogue: 0,1:20:57.35,1:20:59.39,Default,,0000,0000,0000,,这辆车已经被镀箔\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This car has foil on it.
+Dialogue: 0,1:21:00.36,1:21:02.26,Default,,0000,0000,0000,,黄金镶嵌在下面\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's gold underneath.
+Dialogue: 0,1:21:02.31,1:21:03.39,Default,,0000,0000,0000,,镀什么颜色\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Choose any colour,
+Dialogue: 0,1:21:04.31,1:21:06.25,Default,,0000,0000,0000,,套什么号牌\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}put a license plate on,
+Dialogue: 0,1:21:06.44,1:21:08.33,Default,,0000,0000,0000,,随你喜欢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and you're good to go.
+Dialogue: 0,1:21:11.22,1:21:12.35,Default,,0000,0000,0000,,我收下我的礼物\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have my present,
+Dialogue: 0,1:21:17.27,1:21:18.26,Default,,0000,0000,0000,,这是你的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}here's yours.
+Dialogue: 0,1:21:18.41,1:21:22.21,Default,,0000,0000,0000,,简单操作二十公里内击落任何目标\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It will take down anything within 20km.
+Dialogue: 0,1:21:22.27,1:21:24.20,Default,,0000,0000,0000,,这是我们开发的"雷驰系统\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is called flash mob.
+Dialogue: 0,1:21:24.36,1:21:26.33,Default,,0000,0000,0000,,航母停靠在码头\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The aircraft carrier is docked
+Dialogue: 0,1:21:26.37,1:21:28.39,Default,,0000,0000,0000,,更容易受到攻击\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}which makes it vulnerable to attack.
+Dialogue: 0,1:21:29.23,1:21:31.37,Default,,0000,0000,0000,,它的自动化启动非常快\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Its automated system is so fast,
+Dialogue: 0,1:21:31.42,1:21:33.24,Default,,0000,0000,0000,,一旦启动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}by the time you launch,
+Dialogue: 0,1:21:33.28,1:21:35.28,Default,,0000,0000,0000,,对方再反应已经太迟了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}it's too late for them to respond.
+Dialogue: 0,1:21:36.31,1:21:38.37,Default,,0000,0000,0000,,这就是我们的机器价格不菲的原因\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's why our machine is so expensive.
+Dialogue: 0,1:21:39.36,1:21:41.21,Default,,0000,0000,0000,,我要怎么控制?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How do I operate it?
+Dialogue: 0,1:21:41.27,1:21:42.20,Default,,0000,0000,0000,,简单\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Easy!
+Dialogue: 0,1:21:42.39,1:21:44.24,Default,,0000,0000,0000,,像游戏控制器一样\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's like a game controller.
+Dialogue: 0,1:21:44.27,1:21:45.23,Default,,0000,0000,0000,,启动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Activate,
+Dialogue: 0,1:21:45.26,1:21:46.44,Default,,0000,0000,0000,,点这里锁定目标\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}lock in the target there,
+Dialogue: 0,1:21:47.25,1:21:48.35,Default,,0000,0000,0000,,发射按键\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}then press launch.
+Dialogue: 0,1:21:49.24,1:21:50.22,Default,,0000,0000,0000,,在这里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There.
+Dialogue: 0,1:21:52.38,1:21:55.35,Default,,0000,0000,0000,,美军在那次行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The us army was responsible for the bombing
+Dialogue: 0,1:21:55.38,1:21:58.39,Default,,0000,0000,0000,,杀死了Maasym在内  Omar所有的家人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}that killed maasym and the rest of Omar's family.
+Dialogue: 0,1:21:59.41,1:22:02.30,Default,,0000,0000,0000,,美国约翰C.斯坦尼斯号航母近日在迪拜访问\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The USS John c. Stennis is currently in Dubai.
+Dialogue: 0,1:22:02.33,1:22:06.20,Default,,0000,0000,0000,,舰长格雷·道斯正是行动的指挥\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Captain Greg dawes was the commander of the search and destroy operation.
+Dialogue: 0,1:22:06.20,1:22:08.27,Default,,0000,0000,0000,,因此Omar想要报复也就不足为奇了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}There is no surprise Omar wants revenge.
+Dialogue: 0,1:22:08.35,1:22:10.31,Default,,0000,0000,0000,,立即通知美军\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go tell the us military immediately.
+Dialogue: 0,1:22:10.31,1:22:11.25,Default,,0000,0000,0000,,收到\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, sir!
+Dialogue: 0,1:22:13.25,1:22:14.33,Default,,0000,0000,0000,,你说过会放过我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You said you'd let me go.
+Dialogue: 0,1:22:14.33,1:22:15.29,Default,,0000,0000,0000,,我骗你的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I lied.
+Dialogue: 0,1:22:16.37,1:22:19.25,Default,,0000,0000,0000,,就正如你骗我父亲\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Just like you lied to my father.
+Dialogue: 0,1:22:20.24,1:22:21.35,Default,,0000,0000,0000,,我知道你背叛了他\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I know you betrayed him,
+Dialogue: 0,1:22:21.42,1:22:23.34,Default,,0000,0000,0000,,我保证\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and I'm making sure
+Dialogue: 0,1:22:23.44,1:22:25.43,Default,,0000,0000,0000,,你会得到应有的后果\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}you get what you deserve.
+Dialogue: 0,1:22:27.20,1:22:29.21,Default,,0000,0000,0000,,震宇先带她去警察总部\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lei, take her to the police hq.
+Dialogue: 0,1:22:30.23,1:22:31.40,Default,,0000,0000,0000,,所有单位待命\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All units standby!
+Dialogue: 0,1:22:33.44,1:22:35.34,Default,,0000,0000,0000,,Fareeda这儿很危险\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Fareeda, it's dangerous.
+Dialogue: 0,1:22:38.28,1:22:39.28,Default,,0000,0000,0000,,这一路走来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All the way,
+Dialogue: 0,1:22:39.28,1:22:40.36,Default,,0000,0000,0000,,从非洲到中东\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}from Africa to the middle east,
+Dialogue: 0,1:22:40.40,1:22:41.42,Default,,0000,0000,0000,,只要有你在我身边\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}as long as you were by my side,
+Dialogue: 0,1:22:41.42,1:22:43.33,Default,,0000,0000,0000,,我都能逢凶化吉\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I came through everything unscathed.
+Dialogue: 0,1:22:45.29,1:22:46.23,Default,,0000,0000,0000,,所以跟我走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Please come with me.
+Dialogue: 0,1:22:46.35,1:22:48.23,Default,,0000,0000,0000,,保护你的安全是我的责任\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I have a duty to protect you!
+Dialogue: 0,1:22:50.35,1:22:53.28,Default,,0000,0000,0000,,那保护我爸的安全不也是你的责任吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Isn't it your duty to protect my father as well?
+Dialogue: 0,1:22:54.43,1:22:56.29,Default,,0000,0000,0000,,我不能失去我爸爸\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't lose my father.
+Dialogue: 0,1:22:59.23,1:23:00.42,Default,,0000,0000,0000,,除非你用麻醉枪打晕我\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Unless you knock me out with tranquilliser,
+Dialogue: 0,1:23:01.29,1:23:02.40,Default,,0000,0000,0000,,不然我是不会跟你走的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I won't go with you.
+Dialogue: 0,1:23:11.42,1:23:13.40,Default,,0000,0000,0000,,先生们  这不是演习\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Alright, gentlemen, this is not a drill.
+Dialogue: 0,1:23:13.40,1:23:14.42,Default,,0000,0000,0000,,现在什么情况?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What's the status?
+Dialogue: 0,1:23:15.22,1:23:16.38,Default,,0000,0000,0000,,我们接到了袭击预警\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We have a possible hostile attack.
+Dialogue: 0,1:23:16.42,1:23:18.26,Default,,0000,0000,0000,,-这里封锁  -请返回\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn around - go back
+Dialogue: 0,1:23:20.39,1:23:21.39,Default,,0000,0000,0000,,-请快离开  -那边\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}go, go, go - that way
+Dialogue: 0,1:23:24.30,1:23:25.33,Default,,0000,0000,0000,,都拿出武器\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}grab your weapons!
+Dialogue: 0,1:23:28.42,1:23:30.37,Default,,0000,0000,0000,,这是我们要救的  人质\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}This is the hostage we need to save.
+Dialogue: 0,1:24:02.37,1:24:03.27,Default,,0000,0000,0000,,走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move!
+Dialogue: 0,1:24:08.22,1:24:08.43,Default,,0000,0000,0000,,我们撤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's go!
+Dialogue: 0,1:24:21.35,1:24:22.31,Default,,0000,0000,0000,,人质在黄金悍马车上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hostage's in the gold Hummer.
+Dialogue: 0,1:24:22.31,1:24:23.23,Default,,0000,0000,0000,,跟我来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come with me.
+Dialogue: 0,1:24:43.25,1:24:45.22,Default,,0000,0000,0000,,你们都有家伙  我拿什么追啊?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You both have your own gears. What about me?
+Dialogue: 0,1:24:45.26,1:24:46.33,Default,,0000,0000,0000,,你不是有这辆车吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You've got this truck.
+Dialogue: 0,1:24:46.43,1:24:47.42,Default,,0000,0000,0000,,待会儿见\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}See you later.
+Dialogue: 0,1:25:00.23,1:25:01.25,Default,,0000,0000,0000,,站住\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey! Stop!
+Dialogue: 0,1:25:01.25,1:25:02.21,Default,,0000,0000,0000,,不许动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move!
+Dialogue: 0,1:25:02.21,1:25:03.24,Default,,0000,0000,0000,,别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Freeze!
+Dialogue: 0,1:25:04.41,1:25:06.37,Default,,0000,0000,0000,,转过身去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Turn around!
+Dialogue: 0,1:25:07.33,1:25:08.40,Default,,0000,0000,0000,,手放头上\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hands behind your head!
+Dialogue: 0,1:25:16.33,1:25:18.28,Default,,0000,0000,0000,,红色警报  全面戒备\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Warning red, weapons tight,
+Dialogue: 0,1:25:18.28,1:25:20.20,Default,,0000,0000,0000,,F35战斗机准备起飞\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and prepare f35!
+Dialogue: 0,1:25:31.28,1:25:34.39,Default,,0000,0000,0000,,探测到的未知机载目标方位角为2-3-2\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Unknown airborne object has been detected, 2-3-2,
+Dialogue: 0,1:25:34.39,1:25:36.34,Default,,0000,0000,0000,,约16000码\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}approximately 16,000 yards.
+Dialogue: 0,1:25:37.25,1:25:38.25,Default,,0000,0000,0000,,那是什么?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What the hell is that?
+Dialogue: 0,1:27:31.42,1:27:32.42,Default,,0000,0000,0000,,我的队员\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}She's on my team.
+Dialogue: 0,1:28:00.38,1:28:01.39,Default,,0000,0000,0000,,我教她的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I teach her.
+Dialogue: 0,1:28:10.34,1:28:11.26,Default,,0000,0000,0000,,不许动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move!
+Dialogue: 0,1:28:17.34,1:28:18.28,Default,,0000,0000,0000,,神雕\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Condor!
+Dialogue: 0,1:28:18.37,1:28:19.44,Default,,0000,0000,0000,,你到底有多少个队员?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How many people have you trained?
+Dialogue: 0,1:28:19.44,1:28:20.41,Default,,0000,0000,0000,,太多了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Many, many... Go, go, go!
+Dialogue: 0,1:29:35.33,1:29:36.26,Default,,0000,0000,0000,,让开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Out of the way!
+Dialogue: 0,1:29:37.42,1:29:38.38,Default,,0000,0000,0000,,前进\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move, move!
+Dialogue: 0,1:29:39.25,1:29:40.24,Default,,0000,0000,0000,,封锁出口\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Secure the exit!
+Dialogue: 0,1:29:43.30,1:29:44.40,Default,,0000,0000,0000,,我们又错过什么了?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What have we just missed?
+Dialogue: 0,1:29:50.29,1:29:51.42,Default,,0000,0000,0000,,小心\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Watch out, watch out!
+Dialogue: 0,1:29:54.43,1:29:55.33,Default,,0000,0000,0000,,坐下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sit down!
+Dialogue: 0,1:30:09.30,1:30:10.38,Default,,0000,0000,0000,,往后退\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay back, stay back.
+Dialogue: 0,1:30:11.29,1:30:12.38,Default,,0000,0000,0000,,快出来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}C'mon, get up, get up!
+Dialogue: 0,1:30:12.38,1:30:13.41,Default,,0000,0000,0000,,不许动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move!
+Dialogue: 0,1:30:13.43,1:30:15.44,Default,,0000,0000,0000,,退后  都退后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Back off! I say back off now!
+Dialogue: 0,1:30:15.44,1:30:17.21,Default,,0000,0000,0000,,退后\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Back off!
+Dialogue: 0,1:30:17.24,1:30:19.21,Default,,0000,0000,0000,,都给我趴下  趴下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get down! I say get down!
+Dialogue: 0,1:30:19.24,1:30:20.21,Default,,0000,0000,0000,,都趴下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get down!
+Dialogue: 0,1:30:22.41,1:30:24.21,Default,,0000,0000,0000,,我们需要增援\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}We need backup.
+Dialogue: 0,1:30:27.39,1:30:28.43,Default,,0000,0000,0000,,那边走\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- There! - Gol!
+Dialogue: 0,1:30:29.44,1:30:31.30,Default,,0000,0000,0000,,待着别动  小心点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Stay here. - Be careful.
+Dialogue: 0,1:30:32.34,1:30:33.43,Default,,0000,0000,0000,,别动  快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Stay down! - Move!
+Dialogue: 0,1:30:46.33,1:30:47.26,Default,,0000,0000,0000,,快躲起来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go somewhere safe.
+Dialogue: 0,1:30:49.27,1:30:49.43,Default,,0000,0000,0000,,快点\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come on!
+Dialogue: 0,1:30:56.29,1:30:57.21,Default,,0000,0000,0000,,等一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait,
+Dialogue: 0,1:30:57.24,1:30:58.26,Default,,0000,0000,0000,,那边有楼梯\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}stairs are over there!
+Dialogue: 0,1:30:58.28,1:30:59.34,Default,,0000,0000,0000,,太好了  来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- That's great! - Come, come.
+Dialogue: 0,1:31:00.21,1:31:00.37,Default,,0000,0000,0000,,你别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Stay where you are.
+Dialogue: 0,1:31:00.42,1:31:01.35,Default,,0000,0000,0000,,过来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Come
+Dialogue: 0,1:31:01.40,1:31:03.23,Default,,0000,0000,0000,,-滚开  -趴下  别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}move - get down! Don't move!
+Dialogue: 0,1:31:03.34,1:31:04.37,Default,,0000,0000,0000,,都滚开  快走开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Get away! - Move!
+Dialogue: 0,1:31:05.27,1:31:06.20,Default,,0000,0000,0000,,走开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Move!
+Dialogue: 0,1:31:08.28,1:31:10.26,Default,,0000,0000,0000,,走开  出去  走开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Get off! Get off! - Get away!
+Dialogue: 0,1:31:14.41,1:31:15.40,Default,,0000,0000,0000,,走开  滚开\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Move! - Get away!
+Dialogue: 0,1:31:22.41,1:31:24.44,Default,,0000,0000,0000,,不许动  都不许动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't move. Nobody moves!
+Dialogue: 0,1:31:24.44,1:31:26.35,Default,,0000,0000,0000,,都退后  别乱动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get down, don't move...
+Dialogue: 0,1:31:29.27,1:31:30.26,Default,,0000,0000,0000,,别乱动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nobody...
+Dialogue: 0,1:31:37.25,1:31:38.40,Default,,0000,0000,0000,,你干嘛自己打自己?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Why did you shoot yourself?
+Dialogue: 0,1:31:59.36,1:32:00.33,Default,,0000,0000,0000,,都别动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hands up!
+Dialogue: 0,1:32:00.33,1:32:01.33,Default,,0000,0000,0000,,举起手\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hands in the air!
+Dialogue: 0,1:32:15.43,1:32:16.39,Default,,0000,0000,0000,,Omar在哪里\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Where's Omar?
+Dialogue: 0,1:32:16.39,1:32:17.33,Default,,0000,0000,0000,,在下面呢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Down there.
+Dialogue: 0,1:32:17.33,1:32:18.42,Default,,0000,0000,0000,,-爸爸  -Farccda\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- Dad! - Fareeda!
+Dialogue: 0,1:32:21.42,1:32:23.22,Default,,0000,0000,0000,,他是怎么下去的?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How did he get down there?
+Dialogue: 0,1:32:23.22,1:32:24.21,Default,,0000,0000,0000,,我也不知道\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I don't know!
+Dialogue: 0,1:32:24.35,1:32:25.31,Default,,0000,0000,0000,,举起手来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hands up!
+Dialogue: 0,1:32:25.44,1:32:27.20,Default,,0000,0000,0000,,放下枪\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Drop the gun!
+Dialogue: 0,1:32:27.20,1:32:28.37,Default,,0000,0000,0000,,等等  自己人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait, he's one of us.
+Dialogue: 0,1:32:31.34,1:32:32.31,Default,,0000,0000,0000,,你可以走了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}You can go!
+Dialogue: 0,1:32:33.22,1:32:34.37,Default,,0000,0000,0000,,谢谢你的配合\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you for your cooperation.
+Dialogue: 0,1:32:34.37,1:32:35.33,Default,,0000,0000,0000,,谢谢你\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Peace be upon you!
+Dialogue: 0,1:32:38.34,1:32:39.30,Default,,0000,0000,0000,,没事了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It's all over now.
+Dialogue: 0,1:32:43.44,1:32:46.39,Default,,0000,0000,0000,,关于昨天在迪拜发生袭击的最新消息\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}An update on the attack yesterday in Dubai.
+Dialogue: 0,1:32:46.39,1:32:49.33,Default,,0000,0000,0000,,警方已正式报告十五人受伤\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The police have officially reported 15 injuries,
+Dialogue: 0,1:32:49.33,1:32:50.37,Default,,0000,0000,0000,,没有人员死亡\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}no casualties.
+Dialogue: 0,1:32:50.40,1:32:54.22,Default,,0000,0000,0000,,两架FA-18和一架F35被毁\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Two f/a-18 and one f35 were destroyed.
+Dialogue: 0,1:32:54.24,1:32:58.24,Default,,0000,0000,0000,,这得力于迪拜警方向美军提供的准确情报\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}It is all because the Dubai police provided accurate intels to the us military.
+Dialogue: 0,1:32:58.24,1:32:59.34,Default,,0000,0000,0000,,所以与此次袭击有关的不法分子\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All related to the attack
+Dialogue: 0,1:32:59.34,1:33:01.22,Default,,0000,0000,0000,,都已被迪拜警方逮捕\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}have been arrested by the Dubai police.
+Dialogue: 0,1:33:01.24,1:33:03.43,Default,,0000,0000,0000,,此外  警方还截获七辆黄金车\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}And in addition the police have retrieved seven gold cars
+Dialogue: 0,1:33:03.43,1:33:06.27,Default,,0000,0000,0000,,价值超过八亿美元\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}worth more than 800 million dollars!
+Dialogue: 0,1:33:37.30,1:33:38.23,Default,,0000,0000,0000,,晚上好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good evening!
+Dialogue: 0,1:33:38.26,1:33:39.30,Default,,0000,0000,0000,,晚上好  唐先生\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Good evening, mr tang.
+Dialogue: 0,1:33:39.30,1:33:40.23,Default,,0000,0000,0000,,你好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How are you?
+Dialogue: 0,1:33:40.23,1:33:41.36,Default,,0000,0000,0000,,给你介绍一下我的太太\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let me introduce my wife.
+Dialogue: 0,1:33:42.35,1:33:43.35,Default,,0000,0000,0000,,Hattawi夫人\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mrs hattawi.
+Dialogue: 0,1:33:43.35,1:33:45.20,Default,,0000,0000,0000,,唐焕庭先生  您好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mr tang, nice to meet you.
+Dialogue: 0,1:33:45.29,1:33:46.34,Default,,0000,0000,0000,,你夫人非常…\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Your wife is just so...
+Dialogue: 0,1:33:46.36,1:33:47.29,Default,,0000,0000,0000,,漂亮\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Beautiful.
+Dialogue: 0,1:33:48.23,1:33:49.23,Default,,0000,0000,0000,,优雅\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Elegant too!
+Dialogue: 0,1:33:49.25,1:33:50.27,Default,,0000,0000,0000,,听我先生说\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I heard from my husband
+Dialogue: 0,1:33:50.30,1:33:51.44,Default,,0000,0000,0000,,这次多亏了你们"急先锋"\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}that thanks tovanguard
+Dialogue: 0,1:33:51.44,1:33:53.31,Default,,0000,0000,0000,,及时提供了关键信息\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}for their timely and vital info,
+Dialogue: 0,1:33:53.35,1:33:56.25,Default,,0000,0000,0000,,才将这次的危机的损失降到了最低\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}damages were kept to a minimal.
+Dialogue: 0,1:33:56.30,1:33:57.29,Default,,0000,0000,0000,,这次的行动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The way that
+Dialogue: 0,1:33:57.33,1:33:59.25,Default,,0000,0000,0000,,你先生带领迪拜警察\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}your husband has led the Dubai police
+Dialogue: 0,1:33:59.29,1:34:01.20,Default,,0000,0000,0000,,真是让我大开眼界\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}was a real eye-opener for us.
+Dialogue: 0,1:34:01.36,1:34:04.37,Default,,0000,0000,0000,,你的团队才让我印象深刻\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I am the one actually impressed by your amazing team!
+Dialogue: 0,1:34:04.39,1:34:05.42,Default,,0000,0000,0000,,这是我们的责任\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}All in the line of duty!
+Dialogue: 0,1:34:05.42,1:34:06.39,Default,,0000,0000,0000,,你们好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hey, guys,
+Dialogue: 0,1:34:06.39,1:34:07.44,Default,,0000,0000,0000,,做得很棒\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}well done!
+Dialogue: 0,1:34:24.24,1:34:26.21,Default,,0000,0000,0000,,-你好  -太感谢"急先锋"了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}- How do you do? - Thank you, vanguard
+Dialogue: 0,1:34:30.28,1:34:32.21,Default,,0000,0000,0000,,你不是有东西送给人家吗?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}don't you have something for her?
+Dialogue: 0,1:34:34.22,1:34:35.38,Default,,0000,0000,0000,,老板你怎么知道的?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}How did you know, sir?
+Dialogue: 0,1:34:36.20,1:34:37.25,Default,,0000,0000,0000,,有什么我不知道的\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Nothing escapes me!
+Dialogue: 0,1:34:37.41,1:34:38.40,Default,,0000,0000,0000,,去吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Go on.
+Dialogue: 0,1:34:40.20,1:34:41.21,Default,,0000,0000,0000,,走啦\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Get out of here!
+Dialogue: 0,1:34:47.40,1:34:49.34,Default,,0000,0000,0000,,那…  你送我什么呀?\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}What have you got for me?
+Dialogue: 0,1:34:49.43,1:34:50.39,Default,,0000,0000,0000,,等一下\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Wait. Great!
+Dialogue: 0,1:35:18.31,1:35:19.33,Default,,0000,0000,0000,,太神奇了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}That's amazing!
+Dialogue: 0,1:35:22.33,1:35:23.33,Default,,0000,0000,0000,,我的任务完成了\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Mission accomplished.
+Dialogue: 0,1:35:24.21,1:35:24.44,Default,,0000,0000,0000,,希望你喜欢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Hope you liked it.
+Dialogue: 0,1:35:26.24,1:35:27.23,Default,,0000,0000,0000,,很喜欢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Yes, I love it.
+Dialogue: 0,1:35:35.39,1:35:36.38,Default,,0000,0000,0000,,谢谢\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Thank you.
+Dialogue: 0,1:35:36.40,1:35:38.22,Default,,0000,0000,0000,,谢我们干什么啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Don't thank us,
+Dialogue: 0,1:35:38.25,1:35:39.40,Default,,0000,0000,0000,,你得感谢小蜜蜂啊\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}thank the bees!
+Dialogue: 0,1:35:45.28,1:35:46.24,Default,,0000,0000,0000,,看\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Look!
+Dialogue: 0,1:35:46.44,1:35:48.24,Default,,0000,0000,0000,,中国新年\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Chinese new year!
+Dialogue: 0,1:35:48.39,1:35:49.40,Default,,0000,0000,0000,,元宵节\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Lantern festival!
+Dialogue: 0,1:35:50.39,1:35:52.27,Default,,0000,0000,0000,,让我们来一起合个影吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Let's take a photo together.
+Dialogue: 0,1:35:52.39,1:35:53.29,Default,,0000,0000,0000,,来\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Sure - come
+Dialogue: 0,1:35:53.43,1:35:54.37,Default,,0000,0000,0000,,来吧\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}come on...
+Dialogue: 0,1:36:05.35,1:36:07.30,Default,,0000,0000,0000,,新年好\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Happy new year!
+Dialogue: 0,1:36:07.33,1:36:09.34,Default,,0000,0000,0000,,恭喜发财\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}Prosperity and good health to all!
+Dialogue: 0,1:39:05.82,1:39:07.19,Default,,0000,0000,0000,,我就像这样…\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I was like this...
+Dialogue: 0,1:39:07.40,1:39:10.24,Default,,0000,0000,0000,,摩托艇压住了我！\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}The jet ski pinned me!
+Dialogue: 0,1:39:10.57,1:39:11.53,Default,,0000,0000,0000,,我推不上去\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}I can't push it up,
+Dialogue: 0,1:39:11.57,1:39:12.73,Default,,0000,0000,0000,,也不能动\N{\fn微软雅黑}{\fs12}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}and can't move either.

@@ -12,19 +12,19 @@ let package = Package(
 
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
-        .executable(name: "Ramc", targets: ["Ramc"]),
+        .executable(name: "reg", targets: ["reg"]),
 
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/pvieito/PythonKit.git", .branch("master")),
+        // .package(url: "https://github.com/pvieito/PythonKit.git", .branch("master")),
     ],
 
     targets: [
         
         .executableTarget(
-            name: "Ramc",
-            path: "./"
+            name: "reg",
+            path: "./regex"
         ),
     ]
 )

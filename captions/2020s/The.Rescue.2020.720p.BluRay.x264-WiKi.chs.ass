@@ -1,0 +1,1515 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:26.00,0:02:26.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告船长
+Dialogue: 0,0:02:26.76,0:02:29.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}2  3  4  5号救助小艇
+Dialogue: 0,0:02:29.28,0:02:31.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带20个油井工人现在返航
+Dialogue: 0,0:02:32.25,0:02:35.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}丁一  有没有方法去拯救平台上的两名工人
+Dialogue: 0,0:02:35.62,0:02:37.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那边火势猛烈气流不稳定
+Dialogue: 0,0:02:37.91,0:02:39.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}悬停时间不能超过1分钟
+Dialogue: 0,0:02:39.79,0:02:41.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  你有什么方案
+Dialogue: 0,0:02:41.58,0:02:42.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了  放我下去救人
+Dialogue: 0,0:02:43.16,0:02:45.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先离开  等我通知再来接我
+Dialogue: 0,0:02:46.79,0:02:48.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}钻井平台随时都会坍塌
+Dialogue: 0,0:02:48.50,0:02:49.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们有没有把握
+Dialogue: 0,0:02:49.75,0:02:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没问题  大家
+Dialogue: 0,0:02:51.33,0:02:51.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没问题
+Dialogue: 0,0:02:52.58,0:02:53.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没问题
+Dialogue: 0,0:02:55.12,0:02:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}丁哥  你行不行
+Dialogue: 0,0:02:58.41,0:03:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}总指挥  31没问题
+Dialogue: 0,0:03:03.16,0:03:05.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}风向320  3米秒
+Dialogue: 0,0:03:05.33,0:03:07.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当前高度240
+Dialogue: 0,0:03:07.12,0:03:09.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}230  220
+Dialogue: 0,0:03:19.33,0:03:20.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助小艇  赶快离开
+Dialogue: 0,0:03:20.95,0:03:22.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白  治疗机长
+Dialogue: 0,0:03:22.58,0:03:23.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,0:03:23.95,0:03:26.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  报告你的状况
+Dialogue: 0,0:03:26.45,0:03:28.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告
+Dialogue: 0,0:03:28.54,0:03:29.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}丁机长受伤
+Dialogue: 0,0:03:29.33,0:03:30.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  你来接
+Dialogue: 0,0:03:30.91,0:03:32.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}副驾驶霍达接管机长
+Dialogue: 0,0:03:33.45,0:03:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长  你忍住
+Dialogue: 0,0:03:36.29,0:03:37.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这还有一个  忍一下
+Dialogue: 0,0:03:37.70,0:03:38.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  你可以吗
+Dialogue: 0,0:03:48.95,0:03:50.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:03:50.20,0:03:53.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在这种情况没办法长时间悬停放你下去
+Dialogue: 0,0:03:53.45,0:03:54.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我从这出舱
+Dialogue: 0,0:03:55.29,0:03:57.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  你从火顶上飞过去
+Dialogue: 0,0:03:57.16,0:03:58.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听我指示减速
+Dialogue: 0,0:03:58.58,0:04:00.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}用绞车的荡势带我过去
+Dialogue: 0,0:04:02.87,0:04:04.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你得看好我
+Dialogue: 0,0:04:04.87,0:04:05.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}肯定
+Dialogue: 0,0:04:13.29,0:04:14.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  上
+Dialogue: 0,0:04:21.29,0:04:22.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}降五度
+Dialogue: 0,0:04:26.79,0:04:27.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}降三度
+Dialogue: 0,0:04:37.58,0:04:38.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}五
+Dialogue: 0,0:04:39.08,0:04:40.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}四
+Dialogue: 0,0:04:40.66,0:04:41.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}三
+Dialogue: 0,0:04:42.00,0:04:42.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二
+Dialogue: 0,0:04:43.37,0:04:44.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一
+Dialogue: 0,0:04:44.62,0:04:45.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}减速
+Dialogue: 0,0:05:13.33,0:05:14.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告
+Dialogue: 0,0:05:14.50,0:05:15.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个伤者  一个稳定
+Dialogue: 0,0:05:15.70,0:05:17.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另一个右小腿开放性骨折
+Dialogue: 0,0:05:17.37,0:05:18.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看着我  深呼吸
+Dialogue: 0,0:05:18.66,0:05:20.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吸气  呼气
+Dialogue: 0,0:05:21.16,0:05:21.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吸气
+Dialogue: 0,0:05:24.58,0:05:26.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  平台三点钟方向
+Dialogue: 0,0:05:26.54,0:05:28.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个吊臂之间可以进入
+Dialogue: 0,0:05:28.91,0:05:29.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白
+Dialogue: 0,0:05:30.16,0:05:30.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来
+Dialogue: 0,0:05:48.58,0:05:49.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下来  快
+Dialogue: 0,0:05:50.25,0:05:50.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快
+Dialogue: 0,0:06:18.00,0:06:18.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达
+Dialogue: 0,0:06:27.00,0:06:28.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  小心后面
+Dialogue: 0,0:06:51.25,0:06:52.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:06:52.33,0:06:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  有没有危险  报告你的状况
+Dialogue: 0,0:06:55.20,0:06:56.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没事
+Dialogue: 0,0:06:59.66,0:07:01.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  我们的飞机飞不过去了
+Dialogue: 0,0:07:05.91,0:07:08.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们先别过来  我想办法
+Dialogue: 0,0:07:12.62,0:07:14.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别跑  回来
+Dialogue: 0,0:07:14.83,0:07:16.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回来
+Dialogue: 0,0:07:16.79,0:07:18.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点
+Dialogue: 0,0:07:23.79,0:07:25.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}帮我  扶他起来
+Dialogue: 0,0:07:25.75,0:07:26.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来
+Dialogue: 0,0:07:29.16,0:07:29.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,0:07:32.00,0:07:33.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快  躺着
+Dialogue: 0,0:07:36.16,0:07:39.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}套上  手给我  快
+Dialogue: 0,0:07:49.00,0:07:52.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}拿着听着  等我通知
+Dialogue: 0,0:07:52.91,0:07:53.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等我通知
+Dialogue: 0,0:07:56.00,0:07:58.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  塔顶等我
+Dialogue: 0,0:08:03.95,0:08:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达
+Dialogue: 0,0:08:05.87,0:08:07.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可以的
+Dialogue: 0,0:08:16.87,0:08:18.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  我到了中层
+Dialogue: 0,0:08:33.37,0:08:36.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  你集中精力
+Dialogue: 0,0:08:36.41,0:08:37.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}数据我来看
+Dialogue: 0,0:08:39.87,0:08:41.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}塔顶高度  330
+Dialogue: 0,0:08:42.45,0:08:44.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}需要再下降100英尺
+Dialogue: 0,0:08:50.25,0:08:51.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  我还有10米就到
+Dialogue: 0,0:09:03.20,0:09:07.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}440  435
+Dialogue: 0,0:09:07.95,0:09:10.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是不是这条  是这条吗
+Dialogue: 0,0:09:11.62,0:09:13.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是这条
+Dialogue: 0,0:09:13.79,0:09:15.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队长  我们马上到
+Dialogue: 0,0:09:16.25,0:09:17.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前四
+Dialogue: 0,0:09:22.66,0:09:23.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前三
+Dialogue: 0,0:09:24.75,0:09:25.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前二
+Dialogue: 0,0:09:26.54,0:09:27.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前一
+Dialogue: 0,0:09:31.20,0:09:31.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到
+Dialogue: 0,0:09:32.20,0:09:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}稳定
+Dialogue: 0,0:09:49.04,0:09:49.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,0:10:11.16,0:10:13.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}霍达  申请离队了
+Dialogue: 0,0:10:14.25,0:10:16.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他无法面对自己的失误
+Dialogue: 0,0:10:19.04,0:10:20.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那一哥呢
+Dialogue: 0,0:10:22.20,0:10:26.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一哥的决定  我是能理解
+Dialogue: 0,0:10:29.37,0:10:31.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不可能会批准你离队的
+Dialogue: 0,0:10:32.25,0:10:34.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是临危受命  没有人会怪你的
+Dialogue: 0,0:10:34.62,0:10:36.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当时如果没有一哥的话
+Dialogue: 0,0:10:37.20,0:10:38.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我已经把大家都害了
+Dialogue: 0,0:10:40.79,0:10:41.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这四年
+Dialogue: 0,0:10:42.79,0:10:44.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都是我的幸运
+Dialogue: 0,0:10:49.50,0:10:50.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看大命
+Dialogue: 0,0:10:51.75,0:10:55.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还记得那天我们救大命上来吗
+Dialogue: 0,0:10:56.70,0:10:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当时我们都很惊讶
+Dialogue: 0,0:10:58.58,0:11:00.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}它凭什么在大海里挺过去
+Dialogue: 0,0:11:05.16,0:11:07.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是因为幸运  才遇到我们
+Dialogue: 0,0:11:08.62,0:11:12.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是因为它够坚持才有幸运的机会
+Dialogue: 0,0:11:14.37,0:11:15.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你得记住
+Dialogue: 0,0:11:16.91,0:11:18.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是幸运  给你机会
+Dialogue: 0,0:11:27.62,0:11:28.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:11:29.66,0:11:32.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们飞机上不能有一个犹豫的人
+Dialogue: 0,0:11:39.70,0:11:40.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一哥
+Dialogue: 0,0:11:41.62,0:11:43.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我下的决定的问题
+Dialogue: 0,0:11:44.16,0:11:46.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  千万别这么想
+Dialogue: 0,0:11:46.41,0:11:47.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的决定跟你没关系
+Dialogue: 0,0:11:47.95,0:11:48.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不不  不是
+Dialogue: 0,0:11:50.79,0:11:52.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你有没有这么想过
+Dialogue: 0,0:11:52.75,0:11:55.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们这队人为什么能合作那么多年
+Dialogue: 0,0:11:56.20,0:11:58.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是因为大家都相信你
+Dialogue: 0,0:11:59.50,0:12:01.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}飞了二十多年
+Dialogue: 0,0:12:01.75,0:12:05.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这一次我真的害怕了
+Dialogue: 0,0:12:08.37,0:12:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当恐惧来了  它就走不了
+Dialogue: 0,0:12:40.66,0:12:41.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}八
+Dialogue: 0,0:12:42.25,0:12:43.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}九
+Dialogue: 0,0:12:43.58,0:12:44.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十
+Dialogue: 0,0:12:44.79,0:12:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十一
+Dialogue: 0,0:12:46.29,0:12:47.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十二
+Dialogue: 0,0:12:47.75,0:12:48.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十三
+Dialogue: 0,0:12:49.33,0:12:50.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十四
+Dialogue: 0,0:13:03.83,0:13:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}慢点
+Dialogue: 0,0:13:06.83,0:13:09.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  在暑期班你可以认识很多新朋友
+Dialogue: 0,0:13:10.04,0:13:12.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且听说这里的合唱团很棒啊
+Dialogue: 0,0:13:12.20,0:13:13.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么样开心吧
+Dialogue: 0,0:13:13.75,0:13:14.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}嗯
+Dialogue: 0,0:13:17.58,0:13:21.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}兄弟们听着  回去就要见到新机长  方宇陵
+Dialogue: 0,0:13:21.62,0:13:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回头  大家  收拾收拾
+Dialogue: 0,0:13:23.33,0:13:24.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,0:13:25.54,0:13:27.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们就要有个女机长了
+Dialogue: 0,0:13:27.50,0:13:29.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别没规矩
+Dialogue: 0,0:13:30.00,0:13:33.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不可能  除了你之外  我是咱们队最有风度的
+Dialogue: 0,0:13:34.95,0:13:36.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}风你个屁
+Dialogue: 0,0:13:37.70,0:13:39.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别给我们丢人
+Dialogue: 0,0:13:40.87,0:13:42.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最后两百米冲刺
+Dialogue: 0,0:13:43.37,0:13:45.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}女机长  我们来了
+Dialogue: 0,0:14:22.66,0:14:24.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她的稳定性真的很高
+Dialogue: 0,0:14:41.70,0:14:42.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告潘主任
+Dialogue: 0,0:14:42.87,0:14:43.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直升机性能良好
+Dialogue: 0,0:14:44.00,0:14:45.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一切正常  没问题
+Dialogue: 0,0:14:45.50,0:14:47.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  给你介绍一下
+Dialogue: 0,0:14:47.54,0:14:49.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是主班的  特勤员高谦
+Dialogue: 0,0:14:49.79,0:14:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也是我们行动队长
+Dialogue: 0,0:14:51.16,0:14:51.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,0:14:51.62,0:14:53.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是宇凌的副驾驶刘斌
+Dialogue: 0,0:14:53.54,0:14:54.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,0:14:54.79,0:14:56.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这位是绞车手  赵呈
+Dialogue: 0,0:14:57.16,0:14:57.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}副班特勤员
+Dialogue: 0,0:14:57.75,0:15:00.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好  我是白洋  合作愉快
+Dialogue: 0,0:15:00.25,0:15:01.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,0:15:01.00,0:15:03.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  你跟宇凌安排一下接下来的日程
+Dialogue: 0,0:15:03.37,0:15:04.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好的主任
+Dialogue: 0,0:15:05.66,0:15:06.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请
+Dialogue: 0,0:15:08.62,0:15:09.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,0:15:09.41,0:15:12.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  我看了你们全部的工作报告
+Dialogue: 0,0:15:12.20,0:15:15.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们做得不错  任务完成度也非常高
+Dialogue: 0,0:15:16.16,0:15:18.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢  他们是很不错
+Dialogue: 0,0:15:19.12,0:15:22.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过高队  你做事情的方式有些问题
+Dialogue: 0,0:15:24.08,0:15:24.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么问题
+Dialogue: 0,0:15:25.20,0:15:26.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}钻井平台之后
+Dialogue: 0,0:15:26.45,0:15:29.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两个队员的离开  你不觉得就是个问题吗
+Dialogue: 0,0:15:29.91,0:15:33.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有时候解决问题的方式不需要那么激进
+Dialogue: 0,0:15:35.75,0:15:37.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果那个办法是唯一的呢
+Dialogue: 0,0:15:38.54,0:15:40.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们做救援的  有自信是好的
+Dialogue: 0,0:15:40.91,0:15:42.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可也要理解其他人
+Dialogue: 0,0:15:43.33,0:15:44.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人是救出来了
+Dialogue: 0,0:15:44.95,0:15:46.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可全队都逃不出来  有什么用呢
+Dialogue: 0,0:15:48.83,0:15:49.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我决定过去
+Dialogue: 0,0:15:50.37,0:15:52.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我就有把握什么能做  什么不能做
+Dialogue: 0,0:15:53.83,0:15:56.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我明白你救人是靠直觉
+Dialogue: 0,0:15:56.87,0:15:58.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可我驾驶是靠仪表
+Dialogue: 0,0:15:58.75,0:16:00.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}仪表会告诉我什么能做
+Dialogue: 0,0:16:00.58,0:16:01.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么不能做
+Dialogue: 0,0:16:01.54,0:16:02.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个我也明白
+Dialogue: 0,0:16:04.04,0:16:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:16:05.75,0:16:08.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实我们目的一样  都是为了拯救生命
+Dialogue: 0,0:16:09.20,0:16:11.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你负责救人  我负责大家的安全
+Dialogue: 0,0:16:11.41,0:16:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以  我们才要配合
+Dialogue: 0,0:16:14.58,0:16:16.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}特勤队的里面是把生的希望留给别人
+Dialogue: 0,0:16:16.87,0:16:18.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可并不是让你拿命去换
+Dialogue: 0,0:16:20.41,0:16:22.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你非要这么说  我也没办法
+Dialogue: 0,0:16:23.37,0:16:26.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那我就多救机条命  我就值了吗
+Dialogue: 0,0:16:31.25,0:16:35.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可以放轻松  呼一口气
+Dialogue: 0,0:16:36.33,0:16:41.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别随便  像一只斗败公鸡
+Dialogue: 0,0:16:41.50,0:16:45.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没心情吃大米
+Dialogue: 0,0:16:46.20,0:16:51.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}台阶楼梯  每一步的寻觅
+Dialogue: 0,0:16:51.29,0:16:56.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}成功成绩  因为你的努力
+Dialogue: 0,0:17:04.66,0:17:05.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下一位
+Dialogue: 0,0:17:06.16,0:17:07.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高奕聪同学
+Dialogue: 0,0:17:26.00,0:17:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安静
+Dialogue: 0,0:17:27.79,0:17:29.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高奕聪  怎么了
+Dialogue: 0,0:17:52.70,0:17:54.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你干嘛学我发型
+Dialogue: 0,0:17:54.66,0:17:56.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没学你
+Dialogue: 0,0:18:00.29,0:18:03.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈妈说  浪费食物天理难容
+Dialogue: 0,0:18:03.50,0:18:05.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会有报应的
+Dialogue: 0,0:18:05.12,0:18:06.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不是贪吃
+Dialogue: 0,0:18:06.58,0:18:09.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是怕你有报应才帮你的
+Dialogue: 0,0:18:10.20,0:18:13.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你吃完就走吧  我想一个人
+Dialogue: 0,0:18:13.41,0:18:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁会想一个人
+Dialogue: 0,0:18:15.12,0:18:15.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看你
+Dialogue: 0,0:18:16.04,0:18:19.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个人占住滑梯  都没有人走过来了
+Dialogue: 0,0:18:20.04,0:18:22.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不陪你  就没有人陪你了
+Dialogue: 0,0:18:22.33,0:18:23.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有
+Dialogue: 0,0:18:23.33,0:18:26.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有人想跟失败的人玩
+Dialogue: 0,0:18:27.12,0:18:29.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也没有人跟你玩
+Dialogue: 0,0:18:29.50,0:18:31.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那就不一样
+Dialogue: 0,0:18:31.20,0:18:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不喜欢跟比我成功的人玩
+Dialogue: 0,0:18:36.50,0:18:37.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你在看啥
+Dialogue: 0,0:18:38.00,0:18:39.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在看妈妈
+Dialogue: 0,0:18:40.20,0:18:42.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈妈  哪儿
+Dialogue: 0,0:18:43.16,0:18:44.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她死了
+Dialogue: 0,0:18:45.37,0:18:48.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}死了  可怜
+Dialogue: 0,0:18:48.58,0:18:53.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你该不会相信大人所说的  人死了会上天吧
+Dialogue: 0,0:18:54.45,0:18:55.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}外婆说的
+Dialogue: 0,0:18:56.25,0:18:58.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你没坐过飞机吗
+Dialogue: 0,0:18:59.58,0:19:00.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我坐过
+Dialogue: 0,0:19:00.45,0:19:03.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐飞机我看到太阳和云彩
+Dialogue: 0,0:19:03.50,0:19:05.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没看到你的妈妈呀
+Dialogue: 0,0:19:05.45,0:19:08.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实你可以叫你爸爸找个新妈妈
+Dialogue: 0,0:19:08.66,0:19:10.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她会很爱你的
+Dialogue: 0,0:19:10.33,0:19:11.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}新妈妈
+Dialogue: 0,0:19:14.91,0:19:18.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  接下来我们在讨论下一个失败的案例
+Dialogue: 0,0:19:19.50,0:19:21.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一艘两百尺的捕鱼船
+Dialogue: 0,0:19:21.29,0:19:25.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在离岸60海哩的方位触礁  船底破裂
+Dialogue: 0,0:19:25.45,0:19:27.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船上总共20个人
+Dialogue: 0,0:19:27.91,0:19:29.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但最后只救出10个人
+Dialogue: 0,0:19:30.58,0:19:31.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}问题在哪
+Dialogue: 0,0:19:32.95,0:19:35.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}问题在于他们采用吊运的方式上
+Dialogue: 0,0:19:35.33,0:19:38.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当时挂着六级强风  大浪使船剧烈摇摆
+Dialogue: 0,0:19:39.75,0:19:43.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且甲板上还有天线  和捕网支架
+Dialogue: 0,0:19:44.70,0:19:47.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我相信当时他们在恶劣的条件下花了大量的时间
+Dialogue: 0,0:19:47.87,0:19:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}使直升机和船保持同步  耽搁了救援时机
+Dialogue: 0,0:19:51.37,0:19:52.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不对
+Dialogue: 0,0:19:52.50,0:19:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我觉得是他们以为\NS92A的搭载力和抗风力足以应付
+Dialogue: 0,0:19:56.70,0:19:59.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以没有及时放下救生筏
+Dialogue: 0,0:19:59.95,0:20:01.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果及时放下救生筏
+Dialogue: 0,0:20:01.95,0:20:04.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以省去很多上下直升机的时间
+Dialogue: 0,0:20:04.83,0:20:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是这个案例中途出现另一个难题
+Dialogue: 0,0:20:08.50,0:20:10.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在船沉没前的10分钟
+Dialogue: 0,0:20:10.95,0:20:13.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们才发现除了那20个人之外
+Dialogue: 0,0:20:13.41,0:20:16.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有另外8个船员被困在货舱内
+Dialogue: 0,0:20:17.25,0:20:20.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直升机上面那10个船员已经处于休克状态
+Dialogue: 0,0:20:21.91,0:20:24.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}应该要立刻送往救助船上急救
+Dialogue: 0,0:20:24.70,0:20:26.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么办  大家怎么想
+Dialogue: 0,0:20:28.29,0:20:32.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}货舱还没有进水  那可以从甲板进到客舱
+Dialogue: 0,0:20:32.45,0:20:34.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再从机舱进货舱
+Dialogue: 0,0:20:34.83,0:20:37.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船的左舷角度已经超过了30度
+Dialogue: 0,0:20:38.12,0:20:40.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而倾斜后的舱门很难打开
+Dialogue: 0,0:20:40.95,0:20:43.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}10分钟肯定到不了
+Dialogue: 0,0:20:45.25,0:20:46.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我觉得小白这个点可以想
+Dialogue: 0,0:20:48.95,0:20:51.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船底裂口离货舱是最近的
+Dialogue: 0,0:20:52.00,0:20:55.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们可以考虑从货舱的裂口进入
+Dialogue: 0,0:20:55.79,0:20:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没错
+Dialogue: 0,0:20:56.87,0:20:59.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我带着爆破工具还有备用氧气瓶
+Dialogue: 0,0:20:59.16,0:21:00.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从裂口潜入舱内
+Dialogue: 0,0:21:01.41,0:21:02.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把他们救出来
+Dialogue: 0,0:21:02.91,0:21:06.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚刚不是说直升机那10名船员需要尽快救治吗
+Dialogue: 0,0:21:06.79,0:21:08.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们不可能在现场等你
+Dialogue: 0,0:21:08.37,0:21:09.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你把他们送走
+Dialogue: 0,0:21:09.95,0:21:12.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我把人送到救生筏  等你们回来
+Dialogue: 0,0:21:12.37,0:21:14.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不可能  当时那么恶劣的条件
+Dialogue: 0,0:21:14.70,0:21:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这个方法成功率太小  风险太大
+Dialogue: 0,0:21:17.41,0:21:19.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}更何况我让你下去  就必须对你负责
+Dialogue: 0,0:21:19.45,0:21:20.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我能下去我就有把握
+Dialogue: 0,0:21:20.95,0:21:23.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是机长  我有权利不让你下去
+Dialogue: 0,0:21:23.08,0:21:25.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是机长  你更应该相信你的队员
+Dialogue: 0,0:21:26.29,0:21:28.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了好了  可以
+Dialogue: 0,0:21:29.08,0:21:32.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}像我们这些冲在最前线的人才是最危险的
+Dialogue: 0,0:21:33.16,0:21:35.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说她做事一板一眼的
+Dialogue: 0,0:21:35.33,0:21:37.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那以后我们还怎么干
+Dialogue: 0,0:21:38.12,0:21:39.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了  我明白
+Dialogue: 0,0:21:40.04,0:21:43.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她现在是机长  大家是要互相配合
+Dialogue: 0,0:21:43.95,0:21:46.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且她也出过那么多任务
+Dialogue: 0,0:21:46.12,0:21:49.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才只是讨论  到了战场未必会那么冷静
+Dialogue: 0,0:21:49.75,0:21:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你没事别那么激动  好不好
+Dialogue: 0,0:21:51.45,0:21:52.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没激动
+Dialogue: 0,0:21:53.00,0:21:55.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么着我们都是出动了上百次任务的人了
+Dialogue: 0,0:21:56.50,0:21:59.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个判断力我们还是有的
+Dialogue: 0,0:21:59.41,0:22:02.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我知道我们坐在一个机舱里
+Dialogue: 0,0:22:02.16,0:22:05.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要出动的时候得经过她同意  对不对
+Dialogue: 0,0:22:05.41,0:22:07.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是话说回来了
+Dialogue: 0,0:22:09.00,0:22:12.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么事我们俩心里最有数  这事能不能成
+Dialogue: 0,0:22:13.33,0:22:15.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那不还是  你看
+Dialogue: 0,0:22:15.29,0:22:17.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那一次不是你一上  我们就决定了
+Dialogue: 0,0:22:17.87,0:22:19.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们一决定你就上了  对不对
+Dialogue: 0,0:22:21.70,0:22:22.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:22:22.66,0:22:24.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}晚上要不要叫方机长一起
+Dialogue: 0,0:22:24.75,0:22:26.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就当给她接风啰
+Dialogue: 0,0:22:26.70,0:22:29.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行  那你们谁去问问
+Dialogue: 0,0:22:32.95,0:22:36.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但我怕我去了  你们没机会怎么办
+Dialogue: 0,0:22:39.37,0:22:40.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哎  湿的
+Dialogue: 0,0:22:40.25,0:22:41.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以进来吗
+Dialogue: 0,0:22:42.08,0:22:43.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以
+Dialogue: 0,0:22:49.79,0:22:51.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家晚上都有空吗
+Dialogue: 0,0:22:51.25,0:22:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我想请大家吃个饭
+Dialogue: 0,0:22:52.54,0:22:53.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有啊
+Dialogue: 0,0:22:53.70,0:22:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不就咱们俩去
+Dialogue: 0,0:22:55.41,0:22:56.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们都没时间
+Dialogue: 0,0:22:58.50,0:23:00.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}正好我们有个沙滩派对
+Dialogue: 0,0:23:00.62,0:23:01.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一块吧
+Dialogue: 0,0:23:01.62,0:23:03.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  听你们的
+Dialogue: 0,0:23:07.25,0:23:08.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看我干嘛  实话
+Dialogue: 0,0:23:25.75,0:23:27.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她跟平常很不一样
+Dialogue: 0,0:23:30.25,0:23:32.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他不工作的时候  就是这个样子
+Dialogue: 0,0:24:03.33,0:24:06.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冲啊  高奕聪
+Dialogue: 0,0:24:07.83,0:24:08.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了到了
+Dialogue: 0,0:24:09.00,0:24:12.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  爸爸  我打赢了呈哥哥
+Dialogue: 0,0:24:12.83,0:24:14.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么厉害
+Dialogue: 0,0:24:15.00,0:24:16.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么回事  连我儿子都打不过
+Dialogue: 0,0:24:16.79,0:24:18.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主要他这拳头不是随你了吗
+Dialogue: 0,0:24:19.33,0:24:20.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  打得好
+Dialogue: 0,0:24:20.62,0:24:21.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你呈哥哥老是欺负我
+Dialogue: 0,0:24:21.75,0:24:22.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}替我打他几拳  好不好
+Dialogue: 0,0:24:22.79,0:24:23.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没有    当然
+Dialogue: 0,0:24:23.66,0:24:24.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多打他
+Dialogue: 0,0:24:36.79,0:24:39.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  你怎么在这
+Dialogue: 0,0:24:40.25,0:24:43.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌姐姐  你是开飞机的吗
+Dialogue: 0,0:24:44.00,0:24:44.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊
+Dialogue: 0,0:24:45.54,0:24:47.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我可不可以做你的飞机啊
+Dialogue: 0,0:24:50.29,0:24:51.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不可以
+Dialogue: 0,0:24:51.50,0:24:53.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}姐姐的飞机是不能随便坐的
+Dialogue: 0,0:24:54.25,0:24:56.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}啊  那怎么才能坐呀
+Dialogue: 0,0:24:57.08,0:24:58.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是给有需要的人坐的
+Dialogue: 0,0:24:59.37,0:25:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我需要
+Dialogue: 0,0:25:00.79,0:25:03.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你需要  你为什么需要啊
+Dialogue: 0,0:25:03.58,0:25:05.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我想飞上天见我的妈妈
+Dialogue: 0,0:25:13.37,0:25:15.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大人不可以骗小孩唷
+Dialogue: 0,0:25:20.04,0:25:23.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌姐姐  你有小孩子吗
+Dialogue: 0,0:25:24.08,0:25:24.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有啊
+Dialogue: 0,0:25:25.16,0:25:27.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你喜欢小孩子吗
+Dialogue: 0,0:25:27.25,0:25:29.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}喜欢  怎么了
+Dialogue: 0,0:25:29.87,0:25:32.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  快过来
+Dialogue: 0,0:25:38.87,0:25:39.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点  快点
+Dialogue: 0,0:25:49.20,0:25:52.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不好意思喔  我儿子一直缠着你
+Dialogue: 0,0:25:53.70,0:25:54.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有
+Dialogue: 0,0:25:57.25,0:25:58.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么会做这个工作
+Dialogue: 0,0:25:58.87,0:26:01.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}很少有女孩子会愿意做这个
+Dialogue: 0,0:26:01.87,0:26:02.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}很奇怪吗
+Dialogue: 0,0:26:08.04,0:26:09.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我爸爸也是飞行员
+Dialogue: 0,0:26:10.33,0:26:11.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以我也喜欢飞
+Dialogue: 0,0:26:12.70,0:26:14.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我以前是陆战队的
+Dialogue: 0,0:26:15.37,0:26:16.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你爸是哪个部队的
+Dialogue: 0,0:26:18.08,0:26:20.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他是战斗机试飞员  叫  方穆廷
+Dialogue: 0,0:26:22.20,0:26:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}六年前试飞任务牺牲的方老师
+Dialogue: 0,0:26:27.75,0:26:28.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实
+Dialogue: 0,0:26:29.95,0:26:32.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是他启发了我的人生方向
+Dialogue: 0,0:26:34.41,0:26:36.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我记得方老师说过一句话
+Dialogue: 0,0:26:38.54,0:26:41.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有的成功都需要有人勇敢地向前走
+Dialogue: 0,0:26:42.12,0:26:43.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}才能够完成
+Dialogue: 0,0:26:44.87,0:26:46.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我非常认同他的说法
+Dialogue: 0,0:26:46.70,0:26:48.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以我白天跟你说的  就是这个意思
+Dialogue: 0,0:26:52.25,0:26:53.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}又对不起了
+Dialogue: 0,0:26:57.75,0:27:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还没有跟爸爸说今天上学怎么样呢
+Dialogue: 0,0:27:00.37,0:27:01.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有认识新朋友吗
+Dialogue: 0,0:27:04.25,0:27:05.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,0:27:06.45,0:27:09.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你什么时候帮我找一个新妈妈呀
+Dialogue: 0,0:27:14.37,0:27:17.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不是才说你很想念妈妈吗
+Dialogue: 0,0:27:18.00,0:27:19.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么要找个新妈妈
+Dialogue: 0,0:27:19.75,0:27:20.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想啊
+Dialogue: 0,0:27:20.95,0:27:24.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是  新妈妈也可以疼我  照顾我
+Dialogue: 0,0:27:26.20,0:27:28.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸疼你照顾你  还不够吗
+Dialogue: 0,0:27:29.33,0:27:31.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是爸爸  不是妈妈
+Dialogue: 0,0:27:31.75,0:27:33.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸妈妈不都一样
+Dialogue: 0,0:27:34.00,0:27:35.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是不一样
+Dialogue: 0,0:27:35.83,0:27:36.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一样
+Dialogue: 0,0:27:37.66,0:27:39.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你赶紧找吧
+Dialogue: 0,0:27:40.45,0:27:41.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}螺丝掉了
+Dialogue: 0,0:27:41.12,0:27:42.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧找镙丝  要不然飞机飞不了了
+Dialogue: 0,0:27:46.50,0:27:48.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  你真笨
+Dialogue: 0,0:27:48.50,0:27:51.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老公啊  老公
+Dialogue: 0,0:27:52.08,0:27:53.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这件新婚纱漂不漂亮
+Dialogue: 0,0:27:53.95,0:27:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}漂亮
+Dialogue: 0,0:27:54.75,0:27:56.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}义大利纯手工制作
+Dialogue: 0,0:27:57.00,0:27:58.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当然  漂亮
+Dialogue: 0,0:28:00.66,0:28:02.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}义大利的
+Dialogue: 0,0:28:05.08,0:28:06.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那应该很贵吧
+Dialogue: 0,0:28:06.29,0:28:07.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当然贵啊
+Dialogue: 0,0:28:08.37,0:28:10.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  坐
+Dialogue: 0,0:28:13.00,0:28:14.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们呢
+Dialogue: 0,0:28:16.20,0:28:17.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别跟钱过不去
+Dialogue: 0,0:28:19.79,0:28:21.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别总浪费自己的钱
+Dialogue: 0,0:28:22.50,0:28:24.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不会啊  我是拿你的钱买的
+Dialogue: 0,0:28:26.62,0:28:28.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那更不应该浪费了
+Dialogue: 0,0:28:31.16,0:28:34.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你宁愿心疼你的钱都不跟我拍是不是
+Dialogue: 0,0:28:37.29,0:28:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没关系
+Dialogue: 0,0:28:39.20,0:28:41.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我呢待会再去买几件贵的
+Dialogue: 0,0:28:41.79,0:28:44.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}然后送给那些真正想拍的人
+Dialogue: 0,0:28:44.87,0:28:46.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}反正你也不拍  对不对
+Dialogue: 0,0:28:46.54,0:28:47.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这就去买
+Dialogue: 0,0:28:47.54,0:28:48.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我再去买几件回来
+Dialogue: 0,0:28:48.45,0:28:50.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冷静  冷静  这就去买
+Dialogue: 0,0:28:50.20,0:28:52.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我错了  我错了  我就买  我就买
+Dialogue: 0,0:28:52.25,0:28:54.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}拍  拍  拍  拍  拍
+Dialogue: 0,0:28:54.66,0:28:56.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}早说拍不就完了吗
+Dialogue: 0,0:28:59.20,0:29:00.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有时间就拍
+Dialogue: 0,0:29:04.66,0:29:07.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助  102  CR4431  报告
+Dialogue: 0,0:29:07.50,0:29:10.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前往座标北纬23度39分57秒
+Dialogue: 0,0:29:11.25,0:29:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东经107度34分59秒进行山区训练
+Dialogue: 0,0:29:18.62,0:29:20.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}搜索半径范围3海哩
+Dialogue: 0,0:29:20.58,0:29:24.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}采取扇型搜救方式  限时45分钟  完毕
+Dialogue: 0,0:29:25.54,0:29:27.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}102  收到  注意天气
+Dialogue: 0,0:29:27.33,0:29:29.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两小时内稳定  祝一切顺利
+Dialogue: 0,0:29:31.25,0:29:32.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}接通接近二
+Dialogue: 0,0:29:32.29,0:29:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}指示灯有  功率减小
+Dialogue: 0,0:29:34.08,0:29:36.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目标悬停高度50英尺
+Dialogue: 0,0:29:36.20,0:29:38.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}80  70
+Dialogue: 0,0:29:45.29,0:29:46.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈脱钩
+Dialogue: 0,0:29:52.12,0:29:53.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}白洋脱钩
+Dialogue: 0,0:29:56.33,0:29:57.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们先去布置
+Dialogue: 0,0:29:57.91,0:30:00.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们去待命点  到点后再通报
+Dialogue: 0,0:30:00.50,0:30:01.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,0:30:08.00,0:30:08.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌
+Dialogue: 0,0:30:09.20,0:30:10.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直升机有问题  检查一下
+Dialogue: 0,0:30:10.87,0:30:11.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,0:30:12.37,0:30:13.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}操纵杆不顺
+Dialogue: 0,0:30:15.54,0:30:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长  主减
+Dialogue: 0,0:30:17.70,0:30:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主减速器油压在下降
+Dialogue: 0,0:30:26.08,0:30:27.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}紧急求救  紧急求救
+Dialogue: 0,0:30:27.62,0:30:30.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家检查    安全带  我们准备迫降
+Dialogue: 0,0:30:31.12,0:30:33.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长  信号太弱  我们无法呼叫紧急求救讯号
+Dialogue: 0,0:30:34.33,0:30:36.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}减速到最省功率速度  关闭通风
+Dialogue: 0,0:30:36.66,0:30:39.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}关闭自动驾驶  下降到雷达高度500英尺
+Dialogue: 0,0:30:41.20,0:30:43.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}速度检查  通风检查  自动驾驶检查
+Dialogue: 0,0:30:44.08,0:30:46.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌  观察10到12点钟方位障碍物
+Dialogue: 0,0:30:46.58,0:30:47.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}障碍物距离  60
+Dialogue: 0,0:30:48.00,0:30:49.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在高度  620  安全
+Dialogue: 0,0:30:51.83,0:30:52.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前面有瀑布
+Dialogue: 0,0:30:52.83,0:30:54.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们在瀑布上面的空地降落
+Dialogue: 0,0:30:54.50,0:30:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长  不知道那片地稳不稳
+Dialogue: 0,0:30:57.16,0:30:58.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没得选  一定要去
+Dialogue: 0,0:31:00.75,0:31:02.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}着陆位置11点钟方位
+Dialogue: 0,0:31:02.45,0:31:03.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}距离  50  速度
+Dialogue: 0,0:31:03.91,0:31:04.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}速度  60  节
+Dialogue: 0,0:31:05.00,0:31:05.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}温度  压力
+Dialogue: 0,0:31:05.91,0:31:08.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}温度125  压力20
+Dialogue: 0,0:31:08.75,0:31:09.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放起落架
+Dialogue: 0,0:31:09.75,0:31:10.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}起落架检查
+Dialogue: 0,0:31:12.37,0:31:13.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}左右坡度
+Dialogue: 0,0:31:13.50,0:31:16.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}正常  高度100  90
+Dialogue: 0,0:31:17.00,0:31:17.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}取消悬停
+Dialogue: 0,0:31:18.00,0:31:18.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备降落
+Dialogue: 0,0:31:18.87,0:31:19.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}70
+Dialogue: 0,0:31:20.20,0:31:21.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}60
+Dialogue: 0,0:31:21.66,0:31:22.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}50
+Dialogue: 0,0:31:23.37,0:31:24.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}40
+Dialogue: 0,0:31:25.12,0:31:26.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}30
+Dialogue: 0,0:31:27.00,0:31:27.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}20
+Dialogue: 0,0:31:41.08,0:31:42.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  什么情况
+Dialogue: 0,0:31:43.20,0:31:45.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在还在做检查  有消息再报告
+Dialogue: 0,0:31:46.00,0:31:48.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们所在地今晚天气不太稳定
+Dialogue: 0,0:31:48.08,0:31:50.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}夜航风险大  建议你们留一晚
+Dialogue: 0,0:31:50.33,0:31:51.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}注意安全保持联络
+Dialogue: 0,0:31:51.70,0:31:52.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白
+Dialogue: 0,0:31:52.62,0:31:54.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另外  我已经联系了赵呈和白洋
+Dialogue: 0,0:31:54.70,0:31:55.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们都安全的
+Dialogue: 0,0:31:55.91,0:31:56.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到  谢谢
+Dialogue: 0,0:31:57.62,0:31:59.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么这个东西会在主减里面
+Dialogue: 0,0:32:00.45,0:32:02.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不是说已经复检了吗
+Dialogue: 0,0:32:04.83,0:32:06.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长对不起    是我疏忽
+Dialogue: 0,0:32:06.00,0:32:07.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}疏忽
+Dialogue: 0,0:32:07.45,0:32:08.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}能疏忽吗
+Dialogue: 0,0:32:11.45,0:32:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌
+Dialogue: 0,0:32:13.54,0:32:14.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要帮忙吗
+Dialogue: 0,0:32:16.91,0:32:18.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不用了  我自己可以
+Dialogue: 0,0:32:22.50,0:32:24.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你再检查清楚了
+Dialogue: 0,0:32:35.16,0:32:36.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这天气变坏了
+Dialogue: 0,0:32:37.04,0:32:38.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船长建议  明早再飞
+Dialogue: 0,0:32:40.29,0:32:41.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还不知道  能不能飞呢
+Dialogue: 0,0:32:43.95,0:32:45.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我看你就别怪他了
+Dialogue: 0,0:32:46.12,0:32:47.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他的样子也挺内疚的
+Dialogue: 0,0:32:48.37,0:32:49.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}作为领队
+Dialogue: 0,0:32:49.54,0:32:51.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们要对所有人的安全负责
+Dialogue: 0,0:32:53.25,0:32:54.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是
+Dialogue: 0,0:32:56.41,0:32:57.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个很有意思
+Dialogue: 0,0:32:59.20,0:33:00.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可以试试
+Dialogue: 0,0:33:01.37,0:33:02.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么都不用想
+Dialogue: 0,0:33:07.33,0:33:08.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就试试吧
+Dialogue: 0,0:33:24.45,0:33:26.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我听聪聪说过了
+Dialogue: 0,0:33:31.16,0:33:32.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那年聪聪两岁
+Dialogue: 0,0:33:33.62,0:33:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她癌症走的
+Dialogue: 0,0:33:39.83,0:33:41.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他那么小  谁照顾她
+Dialogue: 0,0:33:42.66,0:33:44.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一直是外婆照顾
+Dialogue: 0,0:33:45.87,0:33:49.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个时候外婆觉得孩子跟着她会比较好
+Dialogue: 0,0:33:50.37,0:33:53.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过慢慢长大发现聪聪个性内向
+Dialogue: 0,0:33:53.45,0:33:56.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以我决定把他接回我身边  希望会好一点
+Dialogue: 0,0:33:59.29,0:34:02.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我听聪聪说  你太太救过了
+Dialogue: 0,0:34:03.04,0:34:04.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她也是救援队的吗
+Dialogue: 0,0:34:06.04,0:34:08.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是  是我救了她
+Dialogue: 0,0:34:11.45,0:34:13.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她是我当救生员救的第一个人
+Dialogue: 0,0:34:34.58,0:34:36.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是救生员高谦
+Dialogue: 0,0:34:52.25,0:34:53.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这么土
+Dialogue: 0,0:34:53.91,0:34:55.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这故事  不会是你编的吧
+Dialogue: 0,0:34:57.04,0:34:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}像编的吗
+Dialogue: 0,0:34:59.04,0:35:01.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}风雨  闪电  悬崖
+Dialogue: 0,0:35:02.04,0:35:04.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要编也编个新鲜点的吧
+Dialogue: 0,0:35:23.79,0:35:24.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}很冷吗
+Dialogue: 0,0:35:30.79,0:35:32.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也冷吧
+Dialogue: 0,0:35:33.20,0:35:34.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你觉得呢
+Dialogue: 0,0:35:36.83,0:35:37.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我觉得
+Dialogue: 0,0:35:38.83,0:35:40.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不咱俩抱一起吧
+Dialogue: 0,0:35:44.50,0:35:45.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么眼神啊你
+Dialogue: 0,0:35:47.37,0:35:48.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我喜欢女的
+Dialogue: 0,0:35:51.08,0:35:52.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不行了太冷了
+Dialogue: 0,0:36:00.62,0:36:03.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}转过去  别瞅我
+Dialogue: 0,0:36:04.04,0:36:05.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没瞅你
+Dialogue: 0,0:36:11.25,0:36:12.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别跟别人说
+Dialogue: 0,0:36:13.70,0:36:14.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}秘密
+Dialogue: 0,0:36:15.95,0:36:16.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}秘密
+Dialogue: 0,0:36:18.25,0:36:18.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}秘密
+Dialogue: 0,0:36:48.91,0:36:51.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助  102  呼叫  CR4431
+Dialogue: 0,0:36:51.37,0:36:52.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}431  收到
+Dialogue: 0,0:36:53.37,0:36:55.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}北纬22度  06.18
+Dialogue: 0,0:36:55.83,0:36:58.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东经107度  22.45
+Dialogue: 0,0:36:58.45,0:37:00.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚刚发生3. 6级地震
+Dialogue: 0,0:37:00.16,0:37:01.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们油量多少
+Dialogue: 0,0:37:01.20,0:37:03.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直升机状态能否执行任务
+Dialogue: 0,0:37:03.58,0:37:05.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}事发地6海哩
+Dialogue: 0,0:37:07.70,0:37:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回航距离90海哩
+Dialogue: 0,0:37:09.62,0:37:10.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}油量600
+Dialogue: 0,0:37:10.91,0:37:12.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们留在现场只有10分钟时间
+Dialogue: 0,0:37:12.95,0:37:15.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直升机状态没问题  随时可以出任务
+Dialogue: 0,0:37:15.58,0:37:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}同意  你们前往救援
+Dialogue: 0,0:37:41.20,0:37:45.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呼叫救助102  CR4431刚刚到达目标位置
+Dialogue: 0,0:37:49.87,0:37:51.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  一辆运输车在河上撞毁
+Dialogue: 0,0:37:51.95,0:37:53.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另一辆油罐车车头卡在山腰
+Dialogue: 0,0:37:57.16,0:37:58.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}司机现在还有意识
+Dialogue: 0,0:37:58.83,0:38:00.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}油罐车随时可能爆炸
+Dialogue: 0,0:38:01.41,0:38:05.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31报告  发现生还者  正在想办法救人
+Dialogue: 0,0:38:06.70,0:38:09.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我用副绞车带钢缆下去锁住车头
+Dialogue: 0,0:38:10.12,0:38:12.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你移到安全的距离  可以吗
+Dialogue: 0,0:38:13.04,0:38:13.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以
+Dialogue: 0,0:38:16.54,0:38:17.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里是背风
+Dialogue: 0,0:38:18.33,0:38:21.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前方地势狭窄  气流变化很大
+Dialogue: 0,0:38:21.16,0:38:22.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌  现在的数据
+Dialogue: 0,0:38:25.29,0:38:27.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}风向108  6米秒
+Dialogue: 0,0:38:28.37,0:38:30.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下沉气流60米每分钟
+Dialogue: 0,0:38:46.66,0:38:47.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}关门  扶稳
+Dialogue: 0,0:39:23.20,0:39:23.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}追上去
+Dialogue: 0,0:39:32.75,0:39:33.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心有乱流
+Dialogue: 0,0:39:41.29,0:39:42.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}剩余功率一直在下降
+Dialogue: 0,0:39:42.66,0:39:43.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只剩百分之十了
+Dialogue: 0,0:39:43.66,0:39:45.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}盯紧了  低于百分之五告诉我
+Dialogue: 0,0:40:17.75,0:40:18.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}气流稳定
+Dialogue: 0,0:40:20.20,0:40:21.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后舱准备
+Dialogue: 0,0:40:41.37,0:40:42.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}稳定  放缆
+Dialogue: 0,0:40:42.54,0:40:43.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后舱打开舱门
+Dialogue: 0,0:40:50.75,0:40:51.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}右四
+Dialogue: 0,0:40:54.29,0:40:55.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}右二
+Dialogue: 0,0:40:57.12,0:40:57.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}稳定
+Dialogue: 0,0:41:08.08,0:41:08.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}锁缆
+Dialogue: 0,0:41:11.62,0:41:12.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队出舱
+Dialogue: 0,0:41:16.79,0:41:17.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}锁副绞车
+Dialogue: 0,0:41:19.45,0:41:20.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦到
+Dialogue: 0,0:41:20.29,0:41:22.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌  随时注意山谷气流变化
+Dialogue: 0,0:41:23.04,0:41:24.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在剩余功率是多少
+Dialogue: 0,0:41:25.37,0:41:26.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}百分之八  温度正常
+Dialogue: 0,0:41:40.04,0:41:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  注意身后
+Dialogue: 0,0:41:48.29,0:41:48.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,0:41:48.95,0:41:49.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}白洋  收紧
+Dialogue: 0,0:41:57.54,0:41:58.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,0:42:08.95,0:42:09.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:42:12.79,0:42:13.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先救人
+Dialogue: 0,0:42:22.58,0:42:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坚持住  没事的
+Dialogue: 0,0:42:24.75,0:42:25.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坚持住
+Dialogue: 0,0:42:25.91,0:42:27.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的脚
+Dialogue: 0,0:42:43.08,0:42:43.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,0:42:44.87,0:42:46.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  面镜
+Dialogue: 0,0:42:46.75,0:42:47.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么情况
+Dialogue: 0,0:42:47.66,0:42:48.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他腿插住了
+Dialogue: 0,0:42:50.20,0:42:52.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白  工具  快点
+Dialogue: 0,0:43:26.70,0:43:28.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}油罐残骸掉下河了
+Dialogue: 0,0:43:28.04,0:43:30.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队小心  有大批漂流物过来了
+Dialogue: 0,0:43:33.20,0:43:33.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,0:43:34.75,0:43:35.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  赶紧
+Dialogue: 0,0:43:37.70,0:43:38.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}焊枪
+Dialogue: 0,0:43:40.62,0:43:41.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,0:43:52.41,0:43:53.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队小心
+Dialogue: 0,0:43:58.62,0:43:59.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,0:44:03.04,0:44:04.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么情况
+Dialogue: 0,0:44:18.41,0:44:19.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,0:44:22.08,0:44:23.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  兄弟
+Dialogue: 0,0:44:24.95,0:44:25.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}兄弟
+Dialogue: 0,0:44:27.20,0:44:28.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告  赵呈受伤了
+Dialogue: 0,0:44:29.04,0:44:31.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机长  油罐残骸被冲过来了
+Dialogue: 0,0:44:35.87,0:44:37.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  没时间了  快
+Dialogue: 0,0:44:43.83,0:44:44.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,0:44:45.04,0:44:46.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快  快
+Dialogue: 0,0:44:48.83,0:44:51.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  把手给我
+Dialogue: 0,0:44:59.25,0:45:00.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白  走
+Dialogue: 0,0:45:00.70,0:45:01.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备断缆
+Dialogue: 0,0:45:28.62,0:45:29.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}医生怎么说
+Dialogue: 0,0:45:30.79,0:45:31.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小伤而已
+Dialogue: 0,0:45:32.33,0:45:33.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这个还小伤
+Dialogue: 0,0:45:34.37,0:45:36.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当时太急了  顾不了那么多了
+Dialogue: 0,0:45:37.45,0:45:39.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你也知道当时直升机碰到气流
+Dialogue: 0,0:45:39.12,0:45:40.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该就听机长的指示
+Dialogue: 0,0:45:40.54,0:45:41.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊
+Dialogue: 0,0:45:41.41,0:45:43.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是我习惯了你的行动节奏
+Dialogue: 0,0:45:43.66,0:45:45.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}自然反应  一下子改不了
+Dialogue: 0,0:45:46.20,0:45:47.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟你讲
+Dialogue: 0,0:45:48.04,0:45:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你没有呼吸的时候  你不知道我有多害怕
+Dialogue: 0,0:45:53.62,0:45:57.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}原来那些  死里逃生的人说的话是真的
+Dialogue: 0,0:45:58.29,0:45:59.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么讲
+Dialogue: 0,0:46:00.20,0:46:02.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人的灵魂在离开身体的时候
+Dialogue: 0,0:46:03.25,0:46:05.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会见到这辈子  最重要的那个人
+Dialogue: 0,0:46:07.70,0:46:08.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我吗
+Dialogue: 0,0:46:10.25,0:46:11.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}幸好不是
+Dialogue: 0,0:46:13.16,0:46:15.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}幸好你这次没事
+Dialogue: 0,0:46:17.70,0:46:18.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还开玩笑
+Dialogue: 0,0:46:32.04,0:46:35.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我写在大橙子的后面的话\N你到底有没有每天在看
+Dialogue: 0,0:46:36.12,0:46:36.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有啊
+Dialogue: 0,0:46:39.20,0:46:40.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我有话要跟你说
+Dialogue: 0,0:46:42.45,0:46:43.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老婆
+Dialogue: 0,0:46:48.45,0:46:49.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你干什么呀
+Dialogue: 0,0:46:49.75,0:46:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我一直以为拍婚纱照
+Dialogue: 0,0:46:53.20,0:46:54.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是一件小事
+Dialogue: 0,0:46:56.37,0:46:57.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但为什么
+Dialogue: 0,0:46:58.20,0:47:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我连一件小事都不能为你做呢
+Dialogue: 0,0:47:03.00,0:47:05.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我怕我们会留下遗憾
+Dialogue: 0,0:47:07.75,0:47:09.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么拍
+Dialogue: 0,0:47:09.41,0:47:11.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你连西装都不爱穿怎么拍
+Dialogue: 0,0:47:11.75,0:47:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我准备好了
+Dialogue: 0,0:47:19.20,0:47:20.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么样  老婆
+Dialogue: 0,0:47:23.54,0:47:24.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你拿着
+Dialogue: 0,0:47:28.79,0:47:29.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  A组预备
+Dialogue: 0,0:47:30.25,0:47:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边准备
+Dialogue: 0,0:47:35.87,0:47:36.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住
+Dialogue: 0,0:47:36.75,0:47:39.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们的对手不是旁边的人  是大自然
+Dialogue: 0,0:47:39.95,0:47:42.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们两个今天慢了  是不是没有吃早饭
+Dialogue: 0,0:47:47.58,0:47:49.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}加快  突破你们的极限
+Dialogue: 0,0:49:11.12,0:49:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  快  快
+Dialogue: 0,0:49:13.87,0:49:14.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}慢了  慢了
+Dialogue: 0,0:49:15.25,0:49:18.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别松劲  好
+Dialogue: 0,0:49:18.37,0:49:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌  加快
+Dialogue: 0,0:50:17.33,0:50:18.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,0:50:18.91,0:50:21.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的裤子是咖啡颜色的吗
+Dialogue: 0,0:50:21.79,0:50:22.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊
+Dialogue: 0,0:50:22.91,0:50:26.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像咖啡颜色涂得不好看
+Dialogue: 0,0:50:26.75,0:50:29.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸明天放假
+Dialogue: 0,0:50:30.91,0:50:32.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们飞啰
+Dialogue: 0,0:50:32.08,0:50:33.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好啊
+Dialogue: 0,0:50:37.33,0:50:38.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,0:50:39.12,0:50:41.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你喜欢宇凌姐姐吗
+Dialogue: 0,0:50:43.50,0:50:45.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小孩子不要问这种问题
+Dialogue: 0,0:50:45.75,0:50:48.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个问题为什么不能问
+Dialogue: 0,0:50:56.54,0:50:59.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你到底喜不喜欢
+Dialogue: 0,0:50:59.83,0:51:01.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不喜欢
+Dialogue: 0,0:51:09.08,0:51:10.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么不喜欢
+Dialogue: 0,0:51:11.00,0:51:12.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么不能不喜欢呢
+Dialogue: 0,0:51:12.75,0:51:15.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为我喜欢  你就应该喜欢呀
+Dialogue: 0,0:51:16.00,0:51:17.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那不一定
+Dialogue: 0,0:51:18.04,0:51:20.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不可以  爸爸一定要说喜欢
+Dialogue: 0,0:51:20.66,0:51:23.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点说喜欢  快点
+Dialogue: 0,0:51:36.20,0:51:37.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记好了吗
+Dialogue: 0,0:51:55.41,0:51:56.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出来了
+Dialogue: 0,0:51:57.25,0:51:59.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸你别吵
+Dialogue: 0,0:52:00.00,0:52:02.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸有个好消息要告诉你
+Dialogue: 0,0:52:02.70,0:52:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在拉屎
+Dialogue: 0,0:52:09.62,0:52:12.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸明天会看到好多直升机
+Dialogue: 0,0:52:12.54,0:52:14.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道有没有人想去
+Dialogue: 0,0:52:15.37,0:52:17.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要去  我要去
+Dialogue: 0,0:52:19.45,0:52:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要去哪
+Dialogue: 0,0:52:22.16,0:52:23.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要去
+Dialogue: 0,0:52:23.87,0:52:25.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么味道  没擦屁股呀
+Dialogue: 0,0:52:29.50,0:52:30.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}臭不臭
+Dialogue: 0,0:52:30.29,0:52:31.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}太臭了
+Dialogue: 0,0:52:31.62,0:52:34.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}臭不臭死你  擦屁股去
+Dialogue: 0,0:52:45.12,0:52:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}加油  加油  加油  加油  加油
+Dialogue: 0,0:52:55.79,0:52:57.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哦  太厉害了
+Dialogue: 0,0:52:58.70,0:53:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个是我爸爸
+Dialogue: 0,0:53:00.45,0:53:02.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你爸爸可真厉害
+Dialogue: 0,0:53:02.54,0:53:03.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对啊  真厉害
+Dialogue: 0,0:53:15.33,0:53:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸好厉害  爸爸好厉害
+Dialogue: 0,0:53:19.95,0:53:22.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们不是说我们坐飞机吧
+Dialogue: 0,0:53:22.70,0:53:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们现在就过去坐飞机
+Dialogue: 0,0:53:24.50,0:53:25.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好啊
+Dialogue: 0,0:53:28.20,0:53:28.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,0:53:31.58,0:53:34.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  起飞前我们要做一个手势
+Dialogue: 0,0:53:38.62,0:53:39.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备起飞啰
+Dialogue: 0,0:53:53.58,0:53:54.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哇  爸爸
+Dialogue: 0,0:53:54.29,0:53:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,0:53:56.08,0:53:57.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们在飞呀
+Dialogue: 0,0:54:02.95,0:54:06.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好漂亮  像真的一样
+Dialogue: 0,0:54:11.91,0:54:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪
+Dialogue: 0,0:54:12.91,0:54:15.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌姐姐帮你完成了你的心愿
+Dialogue: 0,0:54:15.16,0:54:16.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是不是要谢谢人家
+Dialogue: 0,0:54:16.87,0:54:18.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢  宇凌姐姐
+Dialogue: 0,0:54:18.45,0:54:19.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对啰
+Dialogue: 0,0:54:19.29,0:54:22.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是  我还有个心愿
+Dialogue: 0,0:54:22.91,0:54:24.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要那么贪心好吗
+Dialogue: 0,0:54:24.70,0:54:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个剩下的心愿  我们回家再说
+Dialogue: 0,0:54:27.50,0:54:30.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪还有什么心愿\N宇凌姐姐有什么能帮你呢
+Dialogue: 0,0:54:32.04,0:54:33.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你喜欢我的爸爸吗
+Dialogue: 0,0:54:37.45,0:54:38.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  你看看外面的天气
+Dialogue: 0,0:54:38.70,0:54:40.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我爸爸喜欢你
+Dialogue: 0,0:54:42.08,0:54:45.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要乱说话  我没说过我喜欢他  你别
+Dialogue: 0,0:54:45.20,0:54:47.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起  不好意思  我不是这个意思
+Dialogue: 0,0:54:47.29,0:54:50.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看这个小朋友    小朋友就爱乱说话
+Dialogue: 0,0:54:50.45,0:54:52.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可以当我的新妈妈吗
+Dialogue: 0,0:54:52.75,0:54:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}飞机掉了  危险  坐好  坐好
+Dialogue: 0,0:54:55.04,0:54:58.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以吗
+Dialogue: 0,0:55:01.54,0:55:02.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}巧儿
+Dialogue: 0,0:55:02.70,0:55:04.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪你去哪了
+Dialogue: 0,0:55:07.54,0:55:09.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪妈妈  你好
+Dialogue: 0,0:55:11.41,0:55:12.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们去玩吧
+Dialogue: 0,0:55:12.54,0:55:13.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好啊  走吧
+Dialogue: 0,0:55:13.79,0:55:15.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈妈  我去玩了齁
+Dialogue: 0,0:55:15.54,0:55:16.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  好
+Dialogue: 0,0:55:16.79,0:55:19.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要玩不该玩的
+Dialogue: 0,0:55:25.95,0:55:26.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌
+Dialogue: 0,0:55:28.37,0:55:29.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去玩吧
+Dialogue: 0,0:55:30.33,0:55:32.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌要辞职了  他之前有跟你沟通过吗
+Dialogue: 0,0:55:33.00,0:55:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}辞职
+Dialogue: 0,0:55:38.54,0:55:39.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌
+Dialogue: 0,0:55:42.95,0:55:45.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出什么事了  为什么走得那么急​​
+Dialogue: 0,0:55:46.83,0:55:47.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}私人原因
+Dialogue: 0,0:55:49.75,0:55:50.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刘斌
+Dialogue: 0,0:55:51.29,0:55:53.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这么做会影响队伍的
+Dialogue: 0,0:55:54.91,0:55:57.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}队里走人很正常  有什么可影响的呢
+Dialogue: 0,0:55:57.91,0:56:00.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且我是按正规手续辞的职
+Dialogue: 0,0:56:00.12,0:56:01.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赔偿金我已经付过了
+Dialogue: 0,0:56:06.91,0:56:08.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你另谋高就我管不了
+Dialogue: 0,0:56:09.04,0:56:11.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但你说走就走是不是太不负责任了
+Dialogue: 0,0:56:12.12,0:56:14.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一级事故  一级事故
+Dialogue: 0,0:56:14.25,0:56:18.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有单位主管和行动指挥立刻到指挥室
+Dialogue: 0,0:56:19.95,0:56:20.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去不去
+Dialogue: 0,0:56:23.54,0:56:24.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}方机长  走
+Dialogue: 0,0:56:30.70,0:56:32.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快  这边走
+Dialogue: 0,0:56:33.50,0:56:34.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边
+Dialogue: 0,0:56:35.37,0:56:36.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边
+Dialogue: 0,0:56:37.00,0:56:38.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大橙子
+Dialogue: 0,0:56:38.41,0:56:40.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}照顾好聪聪他们  在这等我
+Dialogue: 0,0:56:40.45,0:56:41.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边  这边
+Dialogue: 0,0:56:41.54,0:56:42.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心点
+Dialogue: 0,0:56:45.87,0:56:48.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们区在这里待命  另一区交给你了
+Dialogue: 0,0:56:50.87,0:56:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从里斯卡起飞的鸥翼航空
+Dialogue: 0,0:56:52.54,0:56:56.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}HL538航班遭遇连续恶劣天气
+Dialogue: 0,0:56:56.33,0:56:58.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}误闯了一片30海哩宽的雷暴
+Dialogue: 0,0:56:58.50,0:57:01.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两台引擎先后因冰雹袭击而熄火
+Dialogue: 0,0:57:01.25,0:57:03.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目前飞机处于滑翔姿态
+Dialogue: 0,0:57:03.12,0:57:06.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}前方传回来的消息称客机正按原计划飞往机场
+Dialogue: 0,0:57:06.33,0:57:07.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但事态发展仍不明朗
+Dialogue: 0,0:57:07.87,0:57:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助船已经出发了
+Dialogue: 0,0:57:09.25,0:57:11.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全体队员备齐下水装备和救生筏
+Dialogue: 0,0:57:11.45,0:57:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}停机坪待命
+Dialogue: 0,0:57:12.20,0:57:12.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是
+Dialogue: 0,0:57:13.83,0:57:14.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主任
+Dialogue: 0,0:57:15.75,0:57:17.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没办法留住刘斌
+Dialogue: 0,0:57:17.41,0:57:18.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但  事情重大
+Dialogue: 0,0:57:18.54,0:57:20.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请批准我一个人出发
+Dialogue: 0,0:57:20.62,0:57:21.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也是
+Dialogue: 0,0:57:22.33,0:57:24.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}很久没上过前线了
+Dialogue: 0,0:57:25.08,0:57:25.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟你去
+Dialogue: 0,0:57:26.75,0:57:27.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是
+Dialogue: 0,0:57:49.29,0:57:50.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事的  亲爱的
+Dialogue: 0,0:57:57.37,0:57:59.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呼叫  鸥翼  538
+Dialogue: 0,0:57:59.37,0:58:01.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}雷达显示你们距离机场50海哩
+Dialogue: 0,0:58:02.04,0:58:04.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}预计3分钟后离开雷暴区
+Dialogue: 0,0:58:05.83,0:58:07.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告总指挥  最后一班机已经落地
+Dialogue: 0,0:58:10.20,0:58:12.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出港航班已全部滑出  跑道可用
+Dialogue: 0,0:58:14.50,0:58:16.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}各单位注意    各单位请注意
+Dialogue: 0,0:58:16.45,0:58:18.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}鸥翼538已紧急安排优先降落
+Dialogue: 0,0:58:18.79,0:58:20.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}预计10分钟后落地  跑道05
+Dialogue: 0,0:58:22.20,0:58:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}鸥翼538  呼叫
+Dialogue: 0,0:58:24.66,0:58:26.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}飞航空层高度150
+Dialogue: 0,0:58:26.29,0:58:27.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}速度272节
+Dialogue: 0,0:58:28.79,0:58:30.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们正以每分钟2000英尺下降中
+Dialogue: 0,0:58:38.54,0:58:40.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呼叫  鸥翼538
+Dialogue: 0,0:58:41.16,0:58:42.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们现在能看到出口了
+Dialogue: 0,0:58:42.83,0:58:46.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们现在飞航空层高度130  282节
+Dialogue: 0,0:58:46.58,0:58:49.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要求引导进场
+Dialogue: 0,0:58:56.16,0:58:57.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们失去冲压涡轮
+Dialogue: 0,0:58:57.62,0:58:59.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后备电源剩下多少
+Dialogue: 0,0:59:01.16,0:59:02.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}25％
+Dialogue: 0,0:59:02.33,0:59:05.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  应该可以坚持到机场
+Dialogue: 0,0:59:17.33,0:59:19.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}女士们  先生们  这是机长
+Dialogue: 0,0:59:19.95,0:59:21.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们已穿过雷暴区
+Dialogue: 0,0:59:21.20,0:59:23.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们可以取下氧气面罩
+Dialogue: 0,0:59:23.79,0:59:26.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}飞机按照计划在机场降落
+Dialogue: 0,0:59:27.33,0:59:28.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请保持镇静
+Dialogue: 0,0:59:30.54,0:59:32.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会没事的  好吗
+Dialogue: 0,0:59:32.75,0:59:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我想快点回家
+Dialogue: 0,0:59:34.08,0:59:36.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不用担心  我们会没事的
+Dialogue: 0,0:59:37.45,0:59:38.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还好吗
+Dialogue: 0,0:59:40.54,0:59:42.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先生请你坐下  交给我们处理
+Dialogue: 0,0:59:43.87,0:59:45.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请坐下  交给我们
+Dialogue: 0,0:59:55.87,0:59:56.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}罗伯特
+Dialogue: 0,1:00:02.87,1:00:03.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的孩子
+Dialogue: 0,1:00:06.79,1:00:09.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不  不要拉开
+Dialogue: 0,1:00:09.91,1:00:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听我们的指示再拉开
+Dialogue: 0,1:00:15.66,1:00:16.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,1:00:19.08,1:00:22.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呼叫  鸥翼538  我们遭遇微爆流
+Dialogue: 0,1:00:22.12,1:00:24.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下降速度  每分钟3500英尺
+Dialogue: 0,1:00:24.45,1:00:27.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}客机从10000英尺急坠落至8500英尺
+Dialogue: 0,1:00:27.58,1:00:29.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们不能按原计划到达机场
+Dialogue: 0,1:00:29.45,1:00:33.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}各救援单位注意  计划有变
+Dialogue: 0,1:00:34.41,1:00:36.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}特勤队全数赶往现场
+Dialogue: 0,1:00:36.58,1:00:38.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}客机7分钟后海上迫降
+Dialogue: 0,1:00:38.58,1:00:40.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目标范围离岸20海哩
+Dialogue: 0,1:00:40.41,1:00:42.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}北纬24度  20'  29"  N
+Dialogue: 0,1:00:42.66,1:00:45.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东经118度  31'  30"  E
+Dialogue: 0,1:00:45.45,1:00:47.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}搜寻海域半径5海哩
+Dialogue: 0,1:00:47.50,1:00:50.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机上连机组人员一共113人
+Dialogue: 0,1:00:50.62,1:00:51.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出发
+Dialogue: 0,1:00:51.58,1:00:52.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:00:55.41,1:00:57.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  跑道干净
+Dialogue: 0,1:00:57.12,1:00:59.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}离地后保持目视直飞救助区  可以起飞
+Dialogue: 0,1:01:07.75,1:01:08.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发生紧急情况
+Dialogue: 0,1:01:09.04,1:01:11.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一架民航客机要在海上迫降
+Dialogue: 0,1:01:11.33,1:01:13.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东渡航道所有船只马上转移航道
+Dialogue: 0,1:01:14.08,1:01:16.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}重复  发生紧急情况
+Dialogue: 0,1:01:16.12,1:01:18.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一架民航客机要在海上迫降
+Dialogue: 0,1:01:18.37,1:01:21.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东渡航道所有船只马上转移航道
+Dialogue: 0,1:01:36.91,1:01:39.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}鸥翼538  我们是中国救援
+Dialogue: 0,1:01:39.66,1:01:41.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们正在前往你的位置
+Dialogue: 0,1:01:45.58,1:01:46.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}鸥翼538
+Dialogue: 0,1:01:47.00,1:01:49.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救援队离你们20海哩
+Dialogue: 0,1:01:53.45,1:01:55.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在我这
+Dialogue: 0,1:01:55.41,1:01:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢你
+Dialogue: 0,1:01:58.79,1:02:00.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哦  我的上帝  你还好吗
+Dialogue: 0,1:02:02.29,1:02:03.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备水上迫降
+Dialogue: 0,1:02:03.66,1:02:05.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}按下水上迫降按钮
+Dialogue: 0,1:02:05.70,1:02:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}关闭所有通风系统
+Dialogue: 0,1:02:06.87,1:02:08.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有襟翼在位置
+Dialogue: 0,1:02:08.45,1:02:09.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}襟翼一
+Dialogue: 0,1:02:09.62,1:02:10.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}襟翼二
+Dialogue: 0,1:02:11.08,1:02:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}襟翼三
+Dialogue: 0,1:02:14.95,1:02:17.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目标就要到达  大家准备
+Dialogue: 0,1:02:19.50,1:02:20.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后舱开舱门
+Dialogue: 0,1:02:36.58,1:02:38.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}空服人员  准备防撞姿势
+Dialogue: 0,1:02:38.75,1:02:42.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撑  撑  撑  抱紧身体  弯腰低头
+Dialogue: 0,1:02:46.25,1:02:48.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}太快了  减速板
+Dialogue: 0,1:02:54.50,1:02:56.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高度700英尺
+Dialogue: 0,1:02:57.25,1:02:58.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}600英尺
+Dialogue: 0,1:03:00.70,1:03:01.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}500英尺
+Dialogue: 0,1:03:04.33,1:03:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}400英尺
+Dialogue: 0,1:03:07.50,1:03:08.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}300英尺
+Dialogue: 0,1:03:10.41,1:03:11.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}该死
+Dialogue: 0,1:03:31.58,1:03:34.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主任  我们用三架直升机的绞车拉住机尾
+Dialogue: 0,1:03:34.87,1:03:37.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}减缓下沉速度  争取救援时间
+Dialogue: 0,1:03:37.41,1:03:38.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有机长可以吗
+Dialogue: 0,1:03:39.45,1:03:40.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没问题
+Dialogue: 0,1:03:40.29,1:03:41.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32没问题
+Dialogue: 0,1:03:41.50,1:03:42.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}34没问题
+Dialogue: 0,1:03:42.37,1:03:43.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}33 做现场观察支援
+Dialogue: 0,1:03:44.04,1:03:46.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家收收队准备跳水
+Dialogue: 0,1:03:51.87,1:03:53.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}A  C  队跟着我去逃生舱门
+Dialogue: 0,1:03:53.50,1:03:55.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}B  D  负责机尾
+Dialogue: 0,1:03:58.87,1:04:00.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家准备
+Dialogue: 0,1:04:03.75,1:04:04.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备
+Dialogue: 0,1:04:04.83,1:04:05.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跳
+Dialogue: 0,1:04:42.91,1:04:45.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  要快  机尾往下沉了
+Dialogue: 0,1:04:50.62,1:04:52.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  32  起
+Dialogue: 0,1:04:55.37,1:04:56.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32  稳住
+Dialogue: 0,1:04:56.41,1:04:57.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}31  稳住
+Dialogue: 0,1:05:05.54,1:05:06.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机尾到位
+Dialogue: 0,1:05:06.45,1:05:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}以目前客机的状态
+Dialogue: 0,1:05:07.83,1:05:09.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}绞车最多只能撑15分钟
+Dialogue: 0,1:05:09.83,1:05:10.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家抓紧时间
+Dialogue: 0,1:05:10.91,1:05:12.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}34  靠近
+Dialogue: 0,1:05:22.58,1:05:24.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}34  报告  缆索锁好了
+Dialogue: 0,1:05:26.25,1:05:29.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安鹏  机尾状况怎么样
+Dialogue: 0,1:05:29.33,1:05:30.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们这边被座椅挡住了
+Dialogue: 0,1:05:31.08,1:05:32.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}尽快打开一条通路
+Dialogue: 0,1:05:32.79,1:05:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让更多人出来
+Dialogue: 0,1:05:34.08,1:05:34.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:05:36.00,1:05:38.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  去打开前门
+Dialogue: 0,1:05:38.41,1:05:39.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:05:40.00,1:05:40.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白
+Dialogue: 0,1:05:40.66,1:05:41.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在
+Dialogue: 0,1:05:49.50,1:05:51.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}董亮  清空过道  快
+Dialogue: 0,1:05:54.70,1:05:56.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  机头已经开裂
+Dialogue: 0,1:05:56.91,1:05:59.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}随时可能断开  抓紧时间
+Dialogue: 0,1:06:06.33,1:06:07.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边
+Dialogue: 0,1:06:27.83,1:06:28.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事的
+Dialogue: 0,1:06:43.41,1:06:44.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会带你出去
+Dialogue: 0,1:07:07.33,1:07:09.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  两边舱门都打不开
+Dialogue: 0,1:07:09.91,1:07:11.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去机头凿开挡风玻璃
+Dialogue: 0,1:07:11.45,1:07:13.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从驾驶舱进去  快
+Dialogue: 0,1:07:13.16,1:07:13.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是
+Dialogue: 0,1:07:14.58,1:07:15.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快  把这些拿走
+Dialogue: 0,1:07:16.08,1:07:17.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行李箱都先扔出去
+Dialogue: 0,1:07:17.70,1:07:18.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上液压剪
+Dialogue: 0,1:07:29.54,1:07:31.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心准备抬人出来
+Dialogue: 0,1:07:37.12,1:07:39.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32报告  我们开始承受不了飞机重量
+Dialogue: 0,1:07:39.45,1:07:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}需要加大绞车的承载量
+Dialogue: 0,1:07:41.04,1:07:42.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主任  可以吗
+Dialogue: 0,1:07:42.75,1:07:45.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}同意  到百分之八十通知我
+Dialogue: 0,1:07:45.37,1:07:47.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家注意  我们只有十分钟
+Dialogue: 0,1:07:47.45,1:07:49.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}尽快把伤者撤离
+Dialogue: 0,1:08:00.04,1:08:02.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冷静  我来帮你
+Dialogue: 0,1:08:03.29,1:08:06.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还好吗  把手搭上来  来吧
+Dialogue: 0,1:08:08.25,1:08:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带她出去
+Dialogue: 0,1:08:17.91,1:08:19.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  商务舱里面还有婴儿
+Dialogue: 0,1:08:20.00,1:08:20.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们快点
+Dialogue: 0,1:08:20.75,1:08:22.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}短时间打不开
+Dialogue: 0,1:08:22.62,1:08:23.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我试试从裂缝进去
+Dialogue: 0,1:08:24.20,1:08:24.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:08:24.62,1:08:25.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们继续
+Dialogue: 0,1:08:25.62,1:08:26.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:08:43.70,1:08:46.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  呼叫救助102
+Dialogue: 0,1:08:46.70,1:08:48.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们还有多久到达
+Dialogue: 0,1:08:48.37,1:08:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  我们还有二十分钟
+Dialogue: 0,1:08:51.00,1:08:53.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助小艇报告  我们5分钟后到达
+Dialogue: 0,1:08:55.91,1:08:57.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  我进来了
+Dialogue: 0,1:09:21.70,1:09:23.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  孩子没事
+Dialogue: 0,1:09:24.20,1:09:26.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我打开了口子  把婴儿递给我
+Dialogue: 0,1:09:26.16,1:09:26.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:09:33.50,1:09:35.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白  把伤者扶出去
+Dialogue: 0,1:09:35.79,1:09:36.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:09:36.41,1:09:37.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备浮床
+Dialogue: 0,1:09:38.16,1:09:39.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把一号重伤员先送出来
+Dialogue: 0,1:09:40.95,1:09:42.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}婴儿现在过来
+Dialogue: 0,1:09:49.25,1:09:50.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快去检查其他乘客
+Dialogue: 0,1:09:50.75,1:09:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:09:52.91,1:09:53.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还好吗
+Dialogue: 0,1:09:55.08,1:09:57.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救救我的丈夫
+Dialogue: 0,1:09:57.75,1:09:59.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放心  我会的
+Dialogue: 0,1:10:13.29,1:10:14.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快
+Dialogue: 0,1:10:14.87,1:10:16.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心  抱好
+Dialogue: 0,1:10:16.45,1:10:18.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  加快速度
+Dialogue: 0,1:10:20.29,1:10:21.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机头情况现在怎么样
+Dialogue: 0,1:10:21.91,1:10:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是打不开
+Dialogue: 0,1:10:29.45,1:10:30.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有多少人能出来
+Dialogue: 0,1:10:31.16,1:10:34.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  轻伤已经全部救出  重伤还有15个
+Dialogue: 0,1:10:39.83,1:10:42.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32  34  你们还能撑多久
+Dialogue: 0,1:10:42.20,1:10:44.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32  报告  已经超过了安全线
+Dialogue: 0,1:10:44.50,1:10:47.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}34  报告  我们已经到百分之七十了
+Dialogue: 0,1:10:47.04,1:10:49.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有人快点    最后五分钟
+Dialogue: 0,1:10:55.08,1:10:55.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,1:10:55.79,1:10:57.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我打开了一个洞  把人送出来
+Dialogue: 0,1:10:59.08,1:11:01.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  小艇队已到达现场
+Dialogue: 0,1:11:02.41,1:11:04.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们去机翼  我们去机尾
+Dialogue: 0,1:11:04.37,1:11:05.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白了
+Dialogue: 0,1:11:05.83,1:11:09.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}客机随时都会下沉  救助小艇尽快把救生筏拖走
+Dialogue: 0,1:11:13.20,1:11:16.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}33报告  艇队现在将第一批伤员送往救助船
+Dialogue: 0,1:11:17.12,1:11:19.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}客机倾斜角度有增大迹象
+Dialogue: 0,1:11:19.79,1:11:22.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚收到消息  第二批救助小艇4分钟后到
+Dialogue: 0,1:11:34.08,1:11:36.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  你怎么了
+Dialogue: 0,1:11:36.50,1:11:38.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我看不清楚
+Dialogue: 0,1:11:40.37,1:11:42.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在呢  怎么样
+Dialogue: 0,1:11:46.25,1:11:47.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事了
+Dialogue: 0,1:11:50.33,1:11:51.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}机尾最后一个
+Dialogue: 0,1:11:51.54,1:11:54.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里出不去了  里面的人从前面撤离
+Dialogue: 0,1:11:55.91,1:11:58.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  已经撤离了42人
+Dialogue: 0,1:12:01.33,1:12:03.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}方队长  我们的绞车快撑不住了
+Dialogue: 0,1:12:05.79,1:12:07.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32  也快撑不住了
+Dialogue: 0,1:12:07.95,1:12:09.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  还有多少人
+Dialogue: 0,1:12:09.79,1:12:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  客舱里还有8人  驾驶舱里还有人
+Dialogue: 0,1:12:13.04,1:12:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}绞车快撑不住了  快
+Dialogue: 0,1:12:16.54,1:12:18.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  快打开驾驶舱门
+Dialogue: 0,1:12:18.45,1:12:18.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:12:18.95,1:12:20.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我带你出去
+Dialogue: 0,1:12:21.08,1:12:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我的孩子在哪里
+Dialogue: 0,1:12:23.41,1:12:24.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放心  她没事
+Dialogue: 0,1:12:24.62,1:12:26.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们会照顾好她的  好吗
+Dialogue: 0,1:12:26.08,1:12:27.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你会很快看到了她
+Dialogue: 0,1:12:31.58,1:12:33.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  机尾开始沉了  赶紧
+Dialogue: 0,1:12:44.45,1:12:46.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}嘿  快开门
+Dialogue: 0,1:12:46.79,1:12:48.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}嘿  嘿  嘿
+Dialogue: 0,1:12:48.66,1:12:51.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}孩子  我需要你去打开那扇门
+Dialogue: 0,1:12:53.37,1:12:54.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能听到吗
+Dialogue: 0,1:12:55.16,1:12:56.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点  快点
+Dialogue: 0,1:12:56.79,1:12:57.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心
+Dialogue: 0,1:13:05.70,1:13:06.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扶他出去
+Dialogue: 0,1:13:13.29,1:13:15.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还好吗  来
+Dialogue: 0,1:13:16.95,1:13:17.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}检查机长
+Dialogue: 0,1:13:17.83,1:13:18.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会的
+Dialogue: 0,1:13:19.50,1:13:21.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们下去帮忙  这里交给我
+Dialogue: 0,1:13:21.66,1:13:22.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:13:28.66,1:13:30.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  撤退
+Dialogue: 0,1:13:30.83,1:13:33.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  时间还来得及
+Dialogue: 0,1:13:36.91,1:13:38.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  快
+Dialogue: 0,1:13:45.04,1:13:48.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是椅子  我不能    我被椅子卡住了
+Dialogue: 0,1:13:48.95,1:13:50.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扶他过来
+Dialogue: 0,1:14:03.50,1:14:04.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心他的伤口
+Dialogue: 0,1:14:17.37,1:14:19.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主任  绞车到极限了
+Dialogue: 0,1:14:20.62,1:14:21.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全体队员马上撤退
+Dialogue: 0,1:14:21.91,1:14:23.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}马上撤退
+Dialogue: 0,1:14:23.75,1:14:25.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  快点
+Dialogue: 0,1:14:25.25,1:14:26.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这边快好了
+Dialogue: 0,1:14:27.25,1:14:28.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}绞车快撑不住了
+Dialogue: 0,1:14:28.54,1:14:29.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救不了也出来
+Dialogue: 0,1:14:29.75,1:14:30.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了
+Dialogue: 0,1:14:30.75,1:14:32.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}马上就出来了
+Dialogue: 0,1:14:39.54,1:14:40.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们先退
+Dialogue: 0,1:14:40.04,1:14:41.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,1:14:41.58,1:14:42.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦你不能进去
+Dialogue: 0,1:14:44.20,1:14:45.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}绞车手  断缆
+Dialogue: 0,1:14:48.20,1:14:49.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}32  断缆
+Dialogue: 0,1:14:53.62,1:14:55.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助小艇全速撤离
+Dialogue: 0,1:14:56.25,1:14:58.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈  快出来
+Dialogue: 0,1:14:58.91,1:14:59.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了
+Dialogue: 0,1:15:04.62,1:15:06.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}34  报告  绞车撑不住了
+Dialogue: 0,1:15:12.75,1:15:14.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  赵呈  你们给我出来
+Dialogue: 0,1:15:14.75,1:15:15.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,1:15:17.66,1:15:18.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来
+Dialogue: 0,1:15:27.54,1:15:28.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,1:15:30.29,1:15:31.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈
+Dialogue: 0,1:19:19.45,1:19:20.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}总指挥
+Dialogue: 0,1:19:20.87,1:19:22.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}确认是特勤员赵呈
+Dialogue: 0,1:19:27.25,1:19:29.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你回来呀
+Dialogue: 0,1:19:38.62,1:19:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回来呀
+Dialogue: 0,1:19:48.16,1:19:51.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回来
+Dialogue: 0,1:20:08.45,1:20:09.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这不能怪你
+Dialogue: 0,1:20:10.08,1:20:12.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不能因为自责影响自己
+Dialogue: 0,1:20:13.75,1:20:17.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}每次我下的决定  他们都不会怀疑
+Dialogue: 0,1:20:20.91,1:20:22.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:20:24.20,1:20:25.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:20:26.00,1:20:28.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要走  爸爸
+Dialogue: 0,1:20:30.12,1:20:32.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  爸爸在这  不要哭
+Dialogue: 0,1:20:33.08,1:20:34.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸在这
+Dialogue: 0,1:20:34.87,1:20:39.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  你掉到海里  我找不到你
+Dialogue: 0,1:20:40.50,1:20:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在这
+Dialogue: 0,1:20:42.25,1:20:45.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我不要你像呈哥哥
+Dialogue: 0,1:20:45.62,1:20:48.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我不要你去上班
+Dialogue: 0,1:20:48.25,1:20:50.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不要你走
+Dialogue: 0,1:22:57.00,1:22:57.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高先生
+Dialogue: 0,1:22:58.87,1:22:59.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是
+Dialogue: 0,1:23:00.70,1:23:02.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}太好了  终于找到你了
+Dialogue: 0,1:23:03.37,1:23:04.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们去了海南的基地
+Dialogue: 0,1:23:05.00,1:23:07.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们说你转到这里来了
+Dialogue: 0,1:23:08.58,1:23:09.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请问你是
+Dialogue: 0,1:23:09.50,1:23:13.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哦  不好意思  我姓李  从英国来的
+Dialogue: 0,1:23:13.70,1:23:15.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实是我太太想见你
+Dialogue: 0,1:23:16.37,1:23:18.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她想亲口跟你说对不起
+Dialogue: 0,1:23:27.25,1:23:29.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你救了我
+Dialogue: 0,1:23:31.16,1:23:34.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我很抱歉
+Dialogue: 0,1:23:34.16,1:23:35.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}抱歉
+Dialogue: 0,1:23:35.37,1:23:36.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}五年前
+Dialogue: 0,1:23:36.41,1:23:38.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}繁星号邮轮失火翻船
+Dialogue: 0,1:23:39.29,1:23:40.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是您救了她
+Dialogue: 0,1:23:42.66,1:23:43.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你就了她之后
+Dialogue: 0,1:23:44.95,1:23:46.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们就回英国治疗
+Dialogue: 0,1:23:46.87,1:23:49.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是她始终无法面对自己的样子
+Dialogue: 0,1:23:50.04,1:23:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她想不开
+Dialogue: 0,1:23:51.70,1:23:53.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}曾经还自杀过
+Dialogue: 0,1:23:54.29,1:23:57.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但还好  运气又眷顾了她一次
+Dialogue: 0,1:23:58.50,1:24:00.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直到有一天
+Dialogue: 0,1:24:00.50,1:24:04.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她突然间又看回那份报导那场意外的报纸
+Dialogue: 0,1:24:05.16,1:24:07.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看了之后她就崩溃了
+Dialogue: 0,1:24:07.79,1:24:09.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她哭着跑过来跟我说
+Dialogue: 0,1:24:09.62,1:24:11.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她觉得很对不起
+Dialogue: 0,1:24:11.37,1:24:14.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}很对不起那位拼了命来救她的救生员
+Dialogue: 0,1:24:14.70,1:24:15.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是我的工作
+Dialogue: 0,1:24:16.70,1:24:17.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}李先生
+Dialogue: 0,1:24:19.79,1:24:22.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看到你们能熬过来  我很高兴
+Dialogue: 0,1:24:24.70,1:24:25.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢
+Dialogue: 0,1:24:28.83,1:24:30.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是你的儿子吗
+Dialogue: 0,1:24:31.04,1:24:31.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是的
+Dialogue: 0,1:24:32.25,1:24:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪  打个招呼
+Dialogue: 0,1:24:34.91,1:24:36.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好
+Dialogue: 0,1:24:36.79,1:24:40.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你爸爸  他是一个真正的英雄
+Dialogue: 0,1:24:40.54,1:24:42.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该感到骄傲
+Dialogue: 0,1:24:43.95,1:24:44.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:24:46.45,1:24:47.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我想起来了
+Dialogue: 0,1:24:47.58,1:24:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你想起什么
+Dialogue: 0,1:24:48.62,1:24:51.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}Dad  是  爸爸  Hero  是  英雄
+Dialogue: 0,1:24:52.37,1:24:54.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人人都说你是英雄
+Dialogue: 0,1:24:54.75,1:24:55.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那我是吗
+Dialogue: 0,1:24:55.75,1:24:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是呀
+Dialogue: 0,1:24:59.04,1:25:00.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:25:00.29,1:25:01.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我奖你的
+Dialogue: 0,1:25:01.45,1:25:04.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我奖你  奖你
+Dialogue: 0,1:25:15.95,1:25:17.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}喔  我来看看你们
+Dialogue: 0,1:25:17.58,1:25:18.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢  进来吧
+Dialogue: 0,1:25:20.62,1:25:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪
+Dialogue: 0,1:25:21.41,1:25:22.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}宇凌姐姐
+Dialogue: 0,1:25:23.00,1:25:24.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在玩什么啊
+Dialogue: 0,1:25:24.12,1:25:25.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赛车游戏
+Dialogue: 0,1:25:25.75,1:25:27.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哇  好厉害
+Dialogue: 0,1:25:32.16,1:25:32.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,1:25:33.58,1:25:36.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我有点看不清楚
+Dialogue: 0,1:25:37.33,1:25:39.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事吧  眼睛哪里不舒服
+Dialogue: 0,1:25:42.75,1:25:43.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事了
+Dialogue: 0,1:25:44.25,1:25:45.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了  不可以再玩游戏
+Dialogue: 0,1:25:45.66,1:25:46.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该休息了
+Dialogue: 0,1:25:47.37,1:25:48.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  吃蛋糕
+Dialogue: 0,1:25:49.12,1:25:52.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}飞喽  宇凌姐姐带好吃的蛋糕来了
+Dialogue: 0,1:25:54.29,1:25:55.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想吃哪一个
+Dialogue: 0,1:25:59.16,1:26:00.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃这个好不好
+Dialogue: 0,1:26:00.45,1:26:01.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:26:01.50,1:26:02.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}吃吧
+Dialogue: 0,1:26:02.58,1:26:03.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们聊聊吧
+Dialogue: 0,1:26:04.16,1:26:04.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行
+Dialogue: 0,1:26:05.29,1:26:07.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家都等着你回来
+Dialogue: 0,1:26:13.37,1:26:15.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是聪聪的问题吗
+Dialogue: 0,1:26:16.62,1:26:17.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我自己的问题
+Dialogue: 0,1:26:23.91,1:26:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还记得刚见面的时候  我说你太激进了
+Dialogue: 0,1:26:26.83,1:26:28.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是怎么回答我的吗
+Dialogue: 0,1:26:31.62,1:26:33.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我明白你的顾虑
+Dialogue: 0,1:26:33.54,1:26:35.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是以你的经验和能力
+Dialogue: 0,1:26:36.33,1:26:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我相信你一定可以迈过这道坎
+Dialogue: 0,1:26:46.58,1:26:48.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为我恐惧
+Dialogue: 0,1:27:14.37,1:27:17.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我害怕我在现场下不了判断
+Dialogue: 0,1:27:20.87,1:27:24.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该知道全国队员只有三百多人
+Dialogue: 0,1:27:25.91,1:27:27.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}少你一个就少一分力
+Dialogue: 0,1:27:27.70,1:27:29.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但现场有那么多变化
+Dialogue: 0,1:27:30.58,1:27:32.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不能没有我的直觉
+Dialogue: 0,1:27:32.29,1:27:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不能犹豫
+Dialogue: 0,1:27:32.83,1:27:34.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实你不用想那么多
+Dialogue: 0,1:27:36.25,1:27:39.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了现场  你就知道该怎么做
+Dialogue: 0,1:27:43.12,1:27:44.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}文珊说
+Dialogue: 0,1:27:45.00,1:27:47.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个表是你送给赵呈的
+Dialogue: 0,1:27:48.54,1:27:50.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赵呈一直都说
+Dialogue: 0,1:27:51.37,1:27:54.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最开心的就是能有你这个好搭档
+Dialogue: 0,1:27:57.08,1:28:02.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我相信赵呈也想和你继续同行
+Dialogue: 0,1:28:12.54,1:28:13.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪呢
+Dialogue: 0,1:28:13.91,1:28:14.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪
+Dialogue: 0,1:28:14.91,1:28:18.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在厕所里  宇凌姐姐呢
+Dialogue: 0,1:28:18.25,1:28:21.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}姐姐在呢  快出来陪姐姐再吃一块蛋糕
+Dialogue: 0,1:28:21.45,1:28:24.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  你为什么要关灯啊
+Dialogue: 0,1:28:24.16,1:28:25.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没有关灯
+Dialogue: 0,1:28:26.41,1:28:26.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,1:28:26.87,1:28:29.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我什么都看不到了
+Dialogue: 0,1:28:29.95,1:28:31.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我好怕
+Dialogue: 0,1:28:31.33,1:28:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别怕  爸爸来了  爸爸来了  别怕  别怕
+Dialogue: 0,1:28:34.95,1:28:37.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我好害怕
+Dialogue: 0,1:28:37.45,1:28:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪别怕
+Dialogue: 0,1:28:40.08,1:28:40.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了
+Dialogue: 0,1:28:40.83,1:28:44.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸  我看不到你
+Dialogue: 0,1:28:44.54,1:28:46.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸在这  别害怕
+Dialogue: 0,1:28:47.37,1:28:49.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会带他去医院  我送你们
+Dialogue: 0,1:28:49.41,1:28:50.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,1:28:50.66,1:28:51.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快走
+Dialogue: 0,1:28:51.87,1:28:53.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别怕  别怕  别怕
+Dialogue: 0,1:28:55.08,1:28:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从病理切片结果看出
+Dialogue: 0,1:28:57.50,1:29:01.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪背部原本痊愈的骨肉瘤  确诊复发
+Dialogue: 0,1:29:02.00,1:29:04.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且已经转移到脑部
+Dialogue: 0,1:29:13.62,1:29:15.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}医生怎么说
+Dialogue: 0,1:29:16.87,1:29:18.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}医生说
+Dialogue: 0,1:29:19.79,1:29:24.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪大脑鞍区有一个直径三公分的肿瘤
+Dialogue: 0,1:29:25.29,1:29:29.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为水肿问题压迫到视神经所以才突然看不见
+Dialogue: 0,1:29:32.58,1:29:34.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目前病情虽然稳定
+Dialogue: 0,1:29:37.29,1:29:39.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是如果耽搁下去
+Dialogue: 0,1:29:40.16,1:29:43.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一旦扩散就会有生命危险
+Dialogue: 0,1:29:46.33,1:29:48.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明天早上就得动手术
+Dialogue: 0,1:29:49.12,1:29:53.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他还那么小  风险太大了
+Dialogue: 0,1:29:57.16,1:29:59.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}医生说成功率只有三成
+Dialogue: 0,1:30:07.33,1:30:08.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我搞不懂
+Dialogue: 0,1:30:14.00,1:30:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么你要抢走我所有爱的人
+Dialogue: 0,1:30:20.95,1:30:23.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是因为我从你手中救回那些人
+Dialogue: 0,1:30:28.29,1:30:29.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事的
+Dialogue: 0,1:30:35.04,1:30:37.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你想打倒我
+Dialogue: 0,1:30:41.75,1:30:44.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我就跟你斗下去
+Dialogue: 0,1:30:56.70,1:30:57.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:30:58.37,1:31:00.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么时候可以回家
+Dialogue: 0,1:31:03.62,1:31:05.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在还不可以
+Dialogue: 0,1:31:07.08,1:31:10.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为聪聪的身体里面有一只怪兽
+Dialogue: 0,1:31:10.83,1:31:12.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}它要打倒你
+Dialogue: 0,1:31:13.41,1:31:17.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那是不是医生可以把它赶走
+Dialogue: 0,1:31:19.75,1:31:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是医生说
+Dialogue: 0,1:31:22.33,1:31:24.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪要很勇敢
+Dialogue: 0,1:31:25.62,1:31:28.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你和他才能一起去打怪兽
+Dialogue: 0,1:31:30.37,1:31:33.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}打不过会不会死
+Dialogue: 0,1:31:39.83,1:31:41.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当然不会
+Dialogue: 0,1:31:42.16,1:31:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你记不记得那个外国阿姨教爸爸什么
+Dialogue: 0,1:31:46.45,1:31:47.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}英雄
+Dialogue: 0,1:31:48.08,1:31:49.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对
+Dialogue: 0,1:31:49.91,1:31:52.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是英雄的儿子
+Dialogue: 0,1:31:57.50,1:32:00.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你将来也会是一个英雄
+Dialogue: 0,1:32:39.95,1:32:41.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高先生  还有一个小时
+Dialogue: 0,1:32:41.58,1:32:44.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们就要带高奕聪做手术前的准备了
+Dialogue: 0,1:32:44.62,1:32:46.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  谢谢
+Dialogue: 0,1:32:50.45,1:32:51.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:32:52.54,1:32:54.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我好饿
+Dialogue: 0,1:32:54.95,1:32:57.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪乖  做完手术马上就可以吃饭了
+Dialogue: 0,1:32:57.58,1:33:00.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们刚刚收到现场的画面  事故原因尚且不明
+Dialogue: 0,1:33:00.83,1:33:03.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}该船可能会发生二次爆炸的危险
+Dialogue: 0,1:33:03.50,1:33:05.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}由于天然气爆炸产生的威力巨大
+Dialogue: 0,1:33:06.04,1:33:09.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}海事部门已经将半径3海哩范围进行封锁
+Dialogue: 0,1:33:09.50,1:33:11.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救助船暂时撤离
+Dialogue: 0,1:33:11.12,1:33:13.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}此时仍有20余名船员被困在舱内
+Dialogue: 0,1:33:14.08,1:33:17.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}海上应急反应特勤队已派出人员冒险登船
+Dialogue: 0,1:33:17.79,1:33:20.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}试图在二次爆炸前将遇险人员救出
+Dialogue: 0,1:33:21.00,1:33:22.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}部分特勤人员受伤
+Dialogue: 0,1:33:23.29,1:33:24.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸
+Dialogue: 0,1:33:24.83,1:33:27.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要去救他们
+Dialogue: 0,1:33:32.91,1:33:34.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你让我去吗
+Dialogue: 0,1:33:34.70,1:33:36.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对  你要去救他们
+Dialogue: 0,1:33:39.45,1:33:40.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你一个人可以吗
+Dialogue: 0,1:33:41.20,1:33:42.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我可以呀
+Dialogue: 0,1:33:45.00,1:33:48.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}英雄  你要回来哟
+Dialogue: 0,1:33:59.08,1:34:01.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好  我是708号房高奕聪的爸爸
+Dialogue: 0,1:34:01.33,1:34:03.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他现在要动手术  但我有急事得出去
+Dialogue: 0,1:34:03.41,1:34:04.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会尽快回来
+Dialogue: 0,1:34:06.62,1:34:08.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小李小李  我这边还需要帮忙  快过来
+Dialogue: 0,1:34:09.41,1:34:10.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让开  让开
+Dialogue: 0,1:34:11.29,1:34:13.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  放这边  头向这边
+Dialogue: 0,1:34:14.91,1:34:15.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,1:34:15.58,1:34:17.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小亮
+Dialogue: 0,1:34:20.37,1:34:21.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让一下  让一下
+Dialogue: 0,1:34:30.08,1:34:32.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}运控注意  伤员4人  全部需要担架
+Dialogue: 0,1:34:35.33,1:34:36.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给飞机加油  快
+Dialogue: 0,1:34:36.45,1:34:37.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:34:43.70,1:34:44.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安队  我准备好了
+Dialogue: 0,1:34:45.00,1:34:45.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在直升机那等我
+Dialogue: 0,1:34:45.95,1:34:46.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是
+Dialogue: 0,1:34:58.70,1:34:59.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,1:34:59.20,1:35:00.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}情况怎么样
+Dialogue: 0,1:35:00.66,1:35:02.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们刚刚救出15名船员
+Dialogue: 0,1:35:02.50,1:35:05.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另外还有8个躲在最底层第6层的安全舱
+Dialogue: 0,1:35:05.54,1:35:08.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们把安全舱灌满了水  尝试降温  就在这
+Dialogue: 0,1:35:09.33,1:35:12.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们有4个队员  包括小白在内  被困在三层了
+Dialogue: 0,1:35:13.45,1:35:15.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们新一批的伤员马上到了  通知医院准备
+Dialogue: 0,1:35:16.66,1:35:17.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}潘主任
+Dialogue: 0,1:35:17.62,1:35:20.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}东一飞和南一飞增援的队员\N还有30分钟才能到这里
+Dialogue: 0,1:35:23.95,1:35:26.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}主任  我们有多少兄弟受伤
+Dialogue: 0,1:35:31.12,1:35:33.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪不是要做手术吗
+Dialogue: 0,1:35:33.95,1:35:36.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}特勤队现在人手不足  能去的只有我们
+Dialogue: 0,1:35:36.95,1:35:39.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该留着陪孩子  你回来干嘛
+Dialogue: 0,1:35:39.95,1:35:41.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}每个人都属于自己的战场
+Dialogue: 0,1:35:42.16,1:35:43.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是一个特勤员
+Dialogue: 0,1:35:44.29,1:35:47.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}运控注意  CR4431有两名伤者准备落地
+Dialogue: 0,1:35:48.79,1:35:50.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}本来装载了10万立方米的天然气
+Dialogue: 0,1:35:51.37,1:35:53.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}幸好在它爆炸之前
+Dialogue: 0,1:35:53.33,1:35:55.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在码头上卸载了7万立方米  离开了
+Dialogue: 0,1:35:56.25,1:35:57.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}2号罐  4号罐是空的
+Dialogue: 0,1:35:58.16,1:36:01.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}3号罐爆炸了  火从底部开始燃烧
+Dialogue: 0,1:36:01.16,1:36:04.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}产生的热力通过储存管道扩散到主楼
+Dialogue: 0,1:36:04.62,1:36:06.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以底舱的温度越来越高
+Dialogue: 0,1:36:06.70,1:36:09.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}1号罐在船头只有三分之一的存气
+Dialogue: 0,1:36:09.20,1:36:11.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}既使爆炸了  影响也没有太大
+Dialogue: 0,1:36:11.20,1:36:13.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在最麻烦的是靠近主楼的5号罐
+Dialogue: 0,1:36:13.50,1:36:14.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为他存气最多
+Dialogue: 0,1:36:14.87,1:36:16.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}按专家的计算
+Dialogue: 0,1:36:16.16,1:36:18.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}它爆炸的威力  足以炸毁整艘船
+Dialogue: 0,1:36:18.95,1:36:20.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们有没有说还剩多少时间
+Dialogue: 0,1:36:20.41,1:36:21.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}应该不到30分钟了
+Dialogue: 0,1:36:21.62,1:36:22.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好  明白
+Dialogue: 0,1:36:22.95,1:36:23.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,1:36:30.08,1:36:30.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多加小心
+Dialogue: 0,1:36:30.83,1:36:31.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}知道了  知道了
+Dialogue: 0,1:36:34.04,1:36:35.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}过来  上31
+Dialogue: 0,1:36:39.00,1:36:39.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}方机长
+Dialogue: 0,1:36:39.75,1:36:41.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}加油完成  再做最后检查  1分钟
+Dialogue: 0,1:36:42.04,1:36:44.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  已确认优先起飞  准备好报告
+Dialogue: 0,1:36:46.20,1:36:48.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在大部分入口都已经被损坏了
+Dialogue: 0,1:36:48.37,1:36:50.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只能通过后甲板4号门进去
+Dialogue: 0,1:36:50.54,1:36:52.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}里面有一条楼梯直达底舱
+Dialogue: 0,1:36:52.79,1:36:54.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}六层的入口被挡住了
+Dialogue: 0,1:36:54.70,1:36:57.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以咱们现在只能经过五层发电舱
+Dialogue: 0,1:36:57.58,1:36:59.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从六层的发电机舱进去
+Dialogue: 0,1:37:00.83,1:37:03.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安队这样  三层状况你们最清楚
+Dialogue: 0,1:37:04.45,1:37:06.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小白他们就交给你们
+Dialogue: 0,1:37:06.45,1:37:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:37:06.87,1:37:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我负责船员
+Dialogue: 0,1:37:08.95,1:37:10.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}里面的每分钟情况都在变化
+Dialogue: 0,1:37:11.04,1:37:12.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们一定要记清楚行动的路线
+Dialogue: 0,1:37:13.20,1:37:14.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不管行动成功与否
+Dialogue: 0,1:37:14.62,1:37:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住  15分钟  我们一定得出来
+Dialogue: 0,1:37:17.50,1:37:18.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是  明白
+Dialogue: 0,1:37:18.33,1:37:19.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}方机长  时间
+Dialogue: 0,1:37:19.83,1:37:21.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}10分钟后到达
+Dialogue: 0,1:38:15.91,1:38:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么时候来的
+Dialogue: 0,1:38:17.45,1:38:18.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个星期前
+Dialogue: 0,1:38:20.66,1:38:21.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}紧张是正常的
+Dialogue: 0,1:38:22.70,1:38:24.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}顾好自己的氧气
+Dialogue: 0,1:38:25.16,1:38:26.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住学过的东西
+Dialogue: 0,1:38:33.08,1:38:34.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目标45秒后接近
+Dialogue: 0,1:38:52.50,1:38:55.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431报告  特勤员准备接近目标
+Dialogue: 0,1:38:56.25,1:38:56.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后舱开舱门
+Dialogue: 0,1:39:07.04,1:39:08.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后甲板50度
+Dialogue: 0,1:39:08.87,1:39:09.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备下去
+Dialogue: 0,1:39:18.41,1:39:19.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:39:22.08,1:39:23.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}15分钟
+Dialogue: 0,1:39:48.87,1:39:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}里面温度太高  门打不开
+Dialogue: 0,1:39:51.04,1:39:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备C4炸药把它给炸了
+Dialogue: 0,1:39:52.54,1:39:53.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:40:00.25,1:40:01.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}三  二  一
+Dialogue: 0,1:40:05.00,1:40:07.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦    救到人后通知我  我回来接你们
+Dialogue: 0,1:40:27.08,1:40:27.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  走  走
+Dialogue: 0,1:40:46.84,1:40:47.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}注意时间
+Dialogue: 0,1:40:53.50,1:40:54.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}150度
+Dialogue: 0,1:40:54.30,1:40:54.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:41:23.34,1:41:25.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  尽快下去  跟紧我
+Dialogue: 0,1:41:50.46,1:41:52.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}肿瘤把颈内动脉包裹了
+Dialogue: 0,1:41:52.42,1:41:53.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}注意随时观察数据
+Dialogue: 0,1:41:53.80,1:41:54.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等一下
+Dialogue: 0,1:41:55.63,1:41:57.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压75/40  心率73
+Dialogue: 0,1:41:58.05,1:41:58.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压不稳
+Dialogue: 0,1:41:59.00,1:41:59.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}手术暂停
+Dialogue: 0,1:42:01.30,1:42:04.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}阿托品0.3  去氧肾5微克  静推
+Dialogue: 0,1:42:10.71,1:42:12.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别动  等我
+Dialogue: 0,1:42:16.71,1:42:17.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坚持住
+Dialogue: 0,1:42:45.59,1:42:47.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  给我
+Dialogue: 0,1:42:48.46,1:42:49.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上来
+Dialogue: 0,1:42:51.25,1:42:52.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事吧
+Dialogue: 0,1:42:54.34,1:42:56.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有没有受伤  还可以吗
+Dialogue: 0,1:42:58.88,1:43:00.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没事  我可以
+Dialogue: 0,1:43:02.17,1:43:03.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟紧我
+Dialogue: 0,1:43:21.59,1:43:22.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}灭火弹  快
+Dialogue: 0,1:43:40.92,1:43:43.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告  刚离开5层发电舱
+Dialogue: 0,1:43:57.13,1:43:58.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安鹏报告  已经达到3层
+Dialogue: 0,1:44:07.30,1:44:08.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}白洋
+Dialogue: 0,1:44:11.21,1:44:13.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}白洋
+Dialogue: 0,1:44:16.96,1:44:19.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我困在里面
+Dialogue: 0,1:44:19.96,1:44:22.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}白洋撑住  我们来了
+Dialogue: 0,1:44:22.67,1:44:23.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们几个怎样
+Dialogue: 0,1:44:53.88,1:44:55.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们来了白洋
+Dialogue: 0,1:44:55.34,1:44:57.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撑住  快到了
+Dialogue: 0,1:44:58.30,1:44:59.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撑住
+Dialogue: 0,1:45:10.13,1:45:12.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告  现在进入6层
+Dialogue: 0,1:45:24.21,1:45:25.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安全舱  安全舱
+Dialogue: 0,1:45:25.75,1:45:27.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们是救援队  能听到吗
+Dialogue: 0,1:45:27.59,1:45:29.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊  我能听得见
+Dialogue: 0,1:45:29.71,1:45:30.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}里面状况如何
+Dialogue: 0,1:45:31.09,1:45:33.84,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里太热  我们快受不了了
+Dialogue: 0,1:45:34.50,1:45:35.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别担心  我们马上就到
+Dialogue: 0,1:45:48.00,1:45:48.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走
+Dialogue: 0,1:46:11.92,1:46:12.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}320度
+Dialogue: 0,1:46:13.46,1:46:14.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安全舱  安全舱
+Dialogue: 0,1:46:14.75,1:46:16.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}能否确认里面是不是灌满了水
+Dialogue: 0,1:46:16.55,1:46:17.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多少水
+Dialogue: 0,1:46:17.46,1:46:21.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}3万公升  我们把储水罐的水全部放出来了
+Dialogue: 0,1:46:21.13,1:46:22.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你做的很好  听好了
+Dialogue: 0,1:46:23.34,1:46:27.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会把火扑灭  不过我需要你们的合作  好吗
+Dialogue: 0,1:46:27.63,1:46:28.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好的
+Dialogue: 0,1:46:29.30,1:46:31.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一旦你听见爆炸声  打开门
+Dialogue: 0,1:46:32.25,1:46:35.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把水放出来使走廊降温明白吗
+Dialogue: 0,1:46:35.92,1:46:37.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白了
+Dialogue: 0,1:46:37.30,1:46:38.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们开始做吧
+Dialogue: 0,1:46:46.17,1:46:47.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好了吗
+Dialogue: 0,1:46:48.30,1:46:49.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备
+Dialogue: 0,1:46:50.34,1:46:50.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上
+Dialogue: 0,1:47:12.88,1:47:13.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心  轻点
+Dialogue: 0,1:47:19.46,1:47:20.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撑住啊
+Dialogue: 0,1:47:20.88,1:47:21.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}止血
+Dialogue: 0,1:47:21.67,1:47:22.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好
+Dialogue: 0,1:47:24.09,1:47:25.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  醒醒
+Dialogue: 0,1:47:26.00,1:47:27.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}醒醒
+Dialogue: 0,1:47:28.30,1:47:29.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}撑住
+Dialogue: 0,1:47:30.34,1:47:32.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}屋里还有两个队员
+Dialogue: 0,1:47:46.92,1:47:49.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别睡啊
+Dialogue: 0,1:47:56.42,1:47:58.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们走了
+Dialogue: 0,1:48:10.00,1:48:12.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦报告  现在带船员回到5层
+Dialogue: 0,1:48:12.21,1:48:14.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白  我们靠近来接你们
+Dialogue: 0,1:48:18.92,1:48:21.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点  走快点
+Dialogue: 0,1:48:22.09,1:48:23.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心
+Dialogue: 0,1:48:28.34,1:48:29.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}趴下
+Dialogue: 0,1:48:34.05,1:48:35.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}待在这
+Dialogue: 0,1:48:43.50,1:48:44.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上面通道没了
+Dialogue: 0,1:48:44.92,1:48:47.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}唯一的方法是从下面的通道过
+Dialogue: 0,1:48:47.25,1:48:49.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  500度  灭火弹炸不开了
+Dialogue: 0,1:48:49.96,1:48:52.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  我已到位  你们在哪
+Dialogue: 0,1:48:52.09,1:48:53.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}报告  我们正在返回
+Dialogue: 0,1:48:53.71,1:48:55.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是5层发电舱火势失控
+Dialogue: 0,1:48:55.59,1:48:56.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在想办法
+Dialogue: 0,1:48:57.13,1:48:58.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}注意时间
+Dialogue: 0,1:48:58.92,1:49:01.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}引擎舱那边有一个电梯井  可以通往隔壁的应急舱
+Dialogue: 0,1:49:01.80,1:49:04.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}引爆里面的灭火罐是让这里灭火的唯一机会
+Dialogue: 0,1:49:06.13,1:49:07.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把你的炸药给我
+Dialogue: 0,1:49:10.92,1:49:11.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让我去吧  高队
+Dialogue: 0,1:49:12.80,1:49:14.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你带着他们
+Dialogue: 0,1:49:14.34,1:49:16.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}火一熄  就冲过去
+Dialogue: 0,1:49:18.21,1:49:21.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里温度很高  火势随时会再烧起来
+Dialogue: 0,1:49:23.75,1:49:24.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心点
+Dialogue: 0,1:49:33.55,1:49:36.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}进去  快点
+Dialogue: 0,1:50:21.92,1:50:23.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}维全  准备
+Dialogue: 0,1:50:27.30,1:50:28.84,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点
+Dialogue: 0,1:50:49.21,1:50:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走  走  走
+Dialogue: 0,1:52:14.84,1:52:16.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队  你怎么样
+Dialogue: 0,1:52:17.50,1:52:19.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带他们走  别管我
+Dialogue: 0,1:52:19.25,1:52:20.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收到
+Dialogue: 0,1:52:23.00,1:52:24.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下面什么情况
+Dialogue: 0,1:52:27.00,1:52:27.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快好了
+Dialogue: 0,1:52:30.92,1:52:31.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以
+Dialogue: 0,1:52:36.05,1:52:37.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安队  船员带出来了
+Dialogue: 0,1:52:37.96,1:52:40.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快走  快  快点
+Dialogue: 0,1:52:41.09,1:52:42.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  你在哪
+Dialogue: 0,1:52:42.92,1:52:44.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在电梯井里  正在上来
+Dialogue: 0,1:52:45.13,1:52:48.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你赶快把人带离开船  再来接我
+Dialogue: 0,1:53:48.05,1:53:48.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等一下
+Dialogue: 0,1:53:49.00,1:53:51.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压79/46  心率89
+Dialogue: 0,1:53:52.00,1:53:54.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出血量太大  情况比预计危急
+Dialogue: 0,1:53:55.09,1:53:56.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}准备输血
+Dialogue: 0,1:53:58.96,1:54:00.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去氧肾5微克  静推
+Dialogue: 0,1:54:00.96,1:54:02.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明胶海绵  快
+Dialogue: 0,1:54:03.13,1:54:04.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点
+Dialogue: 0,1:54:04.09,1:54:06.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压62/30  心脏率120
+Dialogue: 0,1:54:06.09,1:54:07.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再来
+Dialogue: 0,1:54:07.13,1:54:08.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快  快
+Dialogue: 0,1:54:08.96,1:54:09.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}加压输血
+Dialogue: 0,1:54:11.09,1:54:12.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再来
+Dialogue: 0,1:54:12.96,1:54:13.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压现在多少
+Dialogue: 0,1:54:13.96,1:54:16.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压54/23  心率130
+Dialogue: 0,1:54:18.05,1:54:20.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压50/24  心率140
+Dialogue: 0,1:54:20.92,1:54:21.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}血压快站不住了
+Dialogue: 0,1:54:30.13,1:54:34.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}低头  走  快走
+Dialogue: 0,1:54:36.00,1:54:37.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人都出来了没有
+Dialogue: 0,1:54:37.96,1:54:38.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}8个船员都出来了
+Dialogue: 0,1:54:39.09,1:54:40.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是高队还在里面
+Dialogue: 0,1:54:42.13,1:54:44.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431准备起飞
+Dialogue: 0,1:54:46.09,1:54:47.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不能再过去了  方机长
+Dialogue: 0,1:54:47.96,1:54:49.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在船随时都会爆炸
+Dialogue: 0,1:54:49.05,1:54:51.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是因为要爆炸了  我才必须要去救他
+Dialogue: 0,1:54:52.00,1:54:55.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果你们现在过去  只会有更大的伤亡
+Dialogue: 0,1:54:56.96,1:54:59.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦是生命  你们也是生命
+Dialogue: 0,1:55:03.13,1:55:04.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有人下飞机
+Dialogue: 0,1:55:05.09,1:55:06.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我自己去
+Dialogue: 0,1:55:07.05,1:55:09.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船长  副驾驶没问题
+Dialogue: 0,1:55:09.96,1:55:12.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}船长  绞车手也没问题
+Dialogue: 0,1:55:14.05,1:55:17.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431再次请求起飞
+Dialogue: 0,1:55:17.96,1:55:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们不要过去
+Dialogue: 0,1:55:21.09,1:55:22.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  是你吗
+Dialogue: 0,1:55:23.09,1:55:24.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你在哪
+Dialogue: 0,1:55:25.09,1:55:27.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在引擎舱
+Dialogue: 0,1:55:29.09,1:55:31.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这里已经完全失控
+Dialogue: 0,1:55:33.09,1:55:34.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我出不去了
+Dialogue: 0,1:55:37.00,1:55:38.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定有办法的
+Dialogue: 0,1:55:39.05,1:55:40.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:55:40.96,1:55:42.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定有办法可以出来的
+Dialogue: 0,1:55:43.96,1:55:45.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们所有人都在等你
+Dialogue: 0,1:55:46.09,1:55:48.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪也在等你
+Dialogue: 0,1:55:50.13,1:55:51.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:55:54.00,1:55:55.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  回答我
+Dialogue: 0,1:55:56.96,1:55:58.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:55:59.05,1:56:01.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回答我  高谦
+Dialogue: 0,1:56:02.05,1:56:04.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}帮我去医院接聪聪
+Dialogue: 0,1:56:07.09,1:56:09.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要跟他说我这样
+Dialogue: 0,1:56:11.96,1:56:13.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你就跟他说
+Dialogue: 0,1:56:16.13,1:56:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸把这里的事情忙完
+Dialogue: 0,1:56:21.13,1:56:24.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会尽快去接他
+Dialogue: 0,1:56:32.96,1:56:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:56:35.33,1:56:37.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,1:56:40.29,1:56:42.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦
+Dialogue: 0,2:02:18.20,2:02:19.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,2:02:20.25,2:02:21.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高队
+Dialogue: 0,2:02:43.25,2:02:47.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}呼叫101
+Dialogue: 0,2:02:52.20,2:02:53.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是你吗  高谦
+Dialogue: 0,2:02:54.72,2:02:56.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是高谦
+Dialogue: 0,2:02:58.20,2:02:59.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是高谦
+Dialogue: 0,2:03:05.20,2:03:06.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦没事
+Dialogue: 0,2:03:08.29,2:03:09.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦没事
+Dialogue: 0,2:03:12.20,2:03:13.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你等着  我马上来
+Dialogue: 0,2:03:14.29,2:03:16.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你等着  我马上过来
+Dialogue: 0,2:03:17.93,2:03:22.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}CR4431  请求起飞请求马上起飞
+Dialogue: 0,2:03:57.86,2:04:00.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高谦  医院那边说
+Dialogue: 0,2:04:00.95,2:04:04.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪的手术不是很顺利
+Dialogue: 0,2:05:17.03,2:05:18.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能过的
+Dialogue: 0,2:05:20.99,2:05:22.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能过的
+Dialogue: 0,2:05:24.86,2:05:25.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能撑过去
+Dialogue: 0,2:05:28.86,2:05:29.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪很勇敢
+Dialogue: 0,2:05:32.99,2:05:34.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪很勇敢  你能撑过去
+Dialogue: 0,2:05:37.95,2:05:39.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪你能打败怪兽
+Dialogue: 0,2:05:41.95,2:05:42.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸回来了
+Dialogue: 0,2:05:45.86,2:05:47.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}爸爸听你的话回来了
+Dialogue: 0,2:06:05.03,2:06:06.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有人问我
+Dialogue: 0,2:06:07.82,2:06:10.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当你一次次闯入危险里救人时
+Dialogue: 0,2:06:11.86,2:06:13.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你有没有想过  会死在哪里
+Dialogue: 0,2:06:14.95,2:06:15.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}答案是
+Dialogue: 0,2:06:15.99,2:06:16.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想过
+Dialogue: 0,2:06:17.90,2:06:18.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}无数次想过
+Dialogue: 0,2:06:20.82,2:06:22.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}生活里常有突如其来的灾难
+Dialogue: 0,2:06:23.99,2:06:26.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人生充满挫折和挑战
+Dialogue: 0,2:06:27.07,2:06:28.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}难关一个接着一个
+Dialogue: 0,2:06:29.90,2:06:30.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不愿屈服
+Dialogue: 0,2:06:32.86,2:06:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只能反抗
+Dialogue: 0,2:06:35.90,2:06:38.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当我们为生命拼搏到最后一口气
+Dialogue: 0,2:06:39.90,2:06:40.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那一口气
+Dialogue: 0,2:06:42.99,2:06:44.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是勇气
+Dialogue: 0,2:07:31.90,2:07:33.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好  谢谢邀请  欢迎你们全家欢迎你
+Dialogue: 0,2:07:48.03,2:07:49.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}聪聪
+Dialogue: 0,2:07:49.82,2:07:51.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}心巧  新年快乐
+Dialogue: 0,2:07:51.95,2:07:53.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你玩得开心吗
+Dialogue: 0,2:07:53.95,2:07:54.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开心
+Dialogue: 0,2:07:54.99,2:07:56.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你有没有想我啊
+Dialogue: 0,2:07:56.95,2:07:57.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想啦
+Dialogue: 0,2:07:58.95,2:08:00.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那  我的礼物呢
+Dialogue: 0,2:08:02.86,2:08:04.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别说  让我想想
+Dialogue: 0,2:08:08.03,2:08:08.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢
+Dialogue: 0,2:08:11.95,2:08:14.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她是谁  为什么跟你笑的那么开心
+Dialogue: 0,2:08:15.03,2:08:15.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}朋友呀
+Dialogue: 0,2:08:16.82,2:08:19.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那  你为什么跟她笑的那么开心
+Dialogue: 0,2:08:20.03,2:08:21.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说呀
+Dialogue: 0,2:08:22.86,2:08:24.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哼  你回来别找我了

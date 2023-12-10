@@ -1,0 +1,1749 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,新宋体,15,&H00ffffff,&H03000000,&H00000000,&H02000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,2.00,1.00,2,10,10,3,1
+Style: Default2,新宋体,11,&H0034eeff,&H03000000,&H00000000,&H02000000,0,0,0,0,100.00,100.00,0.00,0.00,1,2.00,1.00,2,10,10,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:03.91,0:02:07.33,Default2,,0000,0000,0000,,"Children care center"
+Dialogue: 0,0:02:15.87,0:02:17.33,Default2,,0000,0000,0000,,"Tsai"
+Dialogue: 0,0:02:22.29,0:02:24.37,Default2,,0000,0000,0000,,ready... start!
+Dialogue: 0,0:02:31.04,0:02:32.62,Default2,,0000,0000,0000,,39 seconds.
+Dialogue: 0,0:02:42.62,0:02:44.36,Default2,,0000,0000,0000,,"Ar Dee"
+Dialogue: 0,0:02:44.41,0:02:45.99,Default2,,0000,0000,0000,,ready... start!
+Dialogue: 0,0:02:52.50,0:02:54.28,Default2,,0000,0000,0000,,Ready... start!
+Dialogue: 0,0:03:24.62,0:03:25.99,Default2,,0000,0000,0000,,Ready and start!
+Dialogue: 0,0:03:54.95,0:03:57.49,Default2,,0000,0000,0000,,What's mine is yours.
+Dialogue: 0,0:03:57.50,0:03:59.83,Default2,,0000,0000,0000,,What's yours is mine. Here...
+Dialogue: 0,0:04:00.25,0:04:01.25,Default2,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:04:04.62,0:04:07.36,Default2,,0000,0000,0000,,Did you make that?
+Dialogue: 0,0:04:07.62,0:04:08.62,Default2,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:14.37,0:04:16.41,Default2,,0000,0000,0000,,Hey, that's my candy!
+Dialogue: 0,0:04:16.70,0:04:17.99,Default2,,0000,0000,0000,,So?
+Dialogue: 0,0:04:52.20,0:04:54.41,Default2,,0000,0000,0000,,Tsai! Help!
+Dialogue: 0,0:04:54.79,0:04:56.07,Default2,,0000,0000,0000,,Help!
+Dialogue: 0,0:04:56.25,0:04:57.41,Default2,,0000,0000,0000,,Dee!
+Dialogue: 0,0:05:09.54,0:05:10.62,Default2,,0000,0000,0000,,Tsai!
+Dialogue: 0,0:07:28.83,0:07:29.94,Default2,,0000,0000,0000,,Police! Out of the car!
+Dialogue: 0,0:07:43.58,0:07:46.54,Default2,,0000,0000,0000,,A car hit the crowd at.noon today in downtown,
+Dialogue: 0,0:07:46.54,0:07:48.74,Default2,,0000,0000,0000,,leaving 5 people dead and 18 injured.
+Dialogue: 0,0:07:48.75,0:07:50.24,Default2,,0000,0000,0000,,The driver was miu kwok lung,
+Dialogue: 0,0:07:50.29,0:07:52.57,Default2,,0000,0000,0000,,the ceo of a listed company.
+Dialogue: 0,0:07:52.58,0:07:53.94,Default2,,0000,0000,0000,,Someone at the scene recorded
+Dialogue: 0,0:07:53.95,0:07:56.91,Default2,,0000,0000,0000,,miu crashed into the crowd at high speed
+Dialogue: 0,0:07:56.91,0:08:00.11,Default2,,0000,0000,0000,,and stopped after hitting.a tour bus head-on.
+Dialogue: 0,0:08:00.12,0:08:02.28,Default2,,0000,0000,0000,,Miu then used a cutter and killed himself
+Dialogue: 0,0:08:02.29,0:08:04.57,Default2,,0000,0000,0000,,by cutting his cervical aorta.
+Dialogue: 0,0:08:04.58,0:08:05.94,Default2,,0000,0000,0000,,He was pronounced dead on the scene.
+Dialogue: 0,0:08:05.95,0:08:08.19,Default2,,0000,0000,0000,,A task force has been.set up to investigate.
+Dialogue: 0,0:08:08.33,0:08:12.15,Default2,,0000,0000,0000,,The police allegedly got an anonymous tip
+Dialogue: 0,0:08:12.16,0:08:14.37,Default2,,0000,0000,0000,,predicting the accident at the scene.
+Dialogue: 0,0:08:14.37,0:08:15.86,Default2,,0000,0000,0000,,Since the accident earlier this month
+Dialogue: 0,0:08:15.87,0:08:18.33,Default2,,0000,0000,0000,,involving a heavy goods vehicle in taipo,
+Dialogue: 0,0:08:18.33,0:08:20.03,Default2,,0000,0000,0000,,this is the second such.accident in a month.
+Dialogue: 0,0:08:20.04,0:08:21.37,Default2,,0000,0000,0000,,The police received
+Dialogue: 0,0:08:21.37,0:08:23.78,Default2,,0000,0000,0000,,an anonymous tip on both incidents.
+Dialogue: 0,0:08:27.91,0:08:28.82,Default2,,0000,0000,0000,,Hello, bill?
+Dialogue: 0,0:08:28.91,0:08:31.12,Default2,,0000,0000,0000,,I just saw the news. You were right.
+Dialogue: 0,0:08:31.12,0:08:33.33,Default2,,0000,0000,0000,,If we could decode the file sooner,
+Dialogue: 0,0:08:33.33,0:08:34.66,Default2,,0000,0000,0000,,we could have minimized the casualties.
+Dialogue: 0,0:08:34.66,0:08:36.32,Default2,,0000,0000,0000,,What should we do with the data?
+Dialogue: 0,0:08:36.33,0:08:37.61,Default2,,0000,0000,0000,,What should we do with the data?
+Dialogue: 0,0:08:38.37,0:08:39.49,Default2,,0000,0000,0000,,I'll keep digging.
+Dialogue: 0,0:08:39.50,0:08:40.61,Default2,,0000,0000,0000,,This is too big for us.
+Dialogue: 0,0:08:40.62,0:08:42.20,Default2,,0000,0000,0000,,We didn't hack into an ordinary database.
+Dialogue: 0,0:08:42.20,0:08:44.11,Default2,,0000,0000,0000,,It's probably a secret service file.
+Dialogue: 0,0:08:46.83,0:08:48.07,Default2,,0000,0000,0000,,Bill, keep the file safe.
+Dialogue: 0,0:08:50.25,0:08:52.20,Default2,,0000,0000,0000,,Hello?
+Dialogue: 0,0:09:38.29,0:09:40.87,Default2,,0000,0000,0000,,Relax! I'm a cop!
+Dialogue: 0,0:09:55.04,0:09:56.37,Default2,,0000,0000,0000,,Stop the bus! Open the door!
+Dialogue: 0,0:09:56.37,0:09:57.99,Default2,,0000,0000,0000,,Don't! There's a bomb.
+Dialogue: 0,0:09:59.95,0:10:01.49,Default2,,0000,0000,0000,,Control, where is ching to?
+Dialogue: 0,0:10:02.00,0:10:04.36,Default2,,0000,0000,0000,,No.25 bus on the eastern corridor.
+Dialogue: 0,0:10:04.37,0:10:05.37,Default2,,0000,0000,0000,,Ok
+Dialogue: 0,0:10:13.62,0:10:15.36,Default2,,0000,0000,0000,,Two suspicious vehicles are in pursuit.
+Dialogue: 0,0:10:29.29,0:10:30.99,Default2,,0000,0000,0000,,To, in position.
+Dialogue: 0,0:10:34.41,0:10:35.41,Default2,,0000,0000,0000,,Jump!
+Dialogue: 0,0:10:35.45,0:10:36.45,Default2,,0000,0000,0000,,No!
+Dialogue: 0,0:10:38.75,0:10:40.28,Default2,,0000,0000,0000,,Suspicious vehicles closing in.
+Dialogue: 0,0:10:40.95,0:10:41.74,Default2,,0000,0000,0000,,Listen to me.
+Dialogue: 0,0:10:41.75,0:10:43.70,Default2,,0000,0000,0000,,On my count to three, let's jump.
+Dialogue: 0,0:10:46.16,0:10:47.16,Default2,,0000,0000,0000,,One.
+Dialogue: 0,0:10:57.45,0:10:58.49,Default2,,0000,0000,0000,,You tricked me.
+Dialogue: 0,0:10:58.50,0:11:00.20,Default2,,0000,0000,0000,,You said on your count to three!
+Dialogue: 0,0:11:02.29,0:11:04.45,Default2,,0000,0000,0000,,You looked so cool when you jumped in.
+Dialogue: 0,0:11:05.20,0:11:08.12,Default2,,0000,0000,0000,,Could do better if you got me a chopper.
+Dialogue: 0,0:11:08.12,0:11:09.78,Default2,,0000,0000,0000,,Who do you think you are? Tom Cruise?
+Dialogue: 0,0:11:10.37,0:11:13.24,Default2,,0000,0000,0000,,What about you? Fukuyama masaharu?
+Dialogue: 0,0:11:16.79,0:11:19.07,Default2,,0000,0000,0000,,Yiu ho yee, independent reporter?
+Dialogue: 0,0:11:19.08,0:11:21.44,Default2,,0000,0000,0000,,That's just your cover.
+Dialogue: 0,0:11:21.70,0:11:23.57,Default2,,0000,0000,0000,,M.i.t. Grad.
+Dialogue: 0,0:11:23.58,0:11:25.79,Default2,,0000,0000,0000,,Electrical engineering and it major.
+Dialogue: 0,0:11:25.79,0:11:27.87,Default2,,0000,0000,0000,,Up-and-coming hacker,
+Dialogue: 0,0:11:27.87,0:11:29.41,Default2,,0000,0000,0000,,who specializes in malware.
+Dialogue: 0,0:11:29.70,0:11:32.07,Default2,,0000,0000,0000,,You were arrested in the U.S. in 2016.
+Dialogue: 0,0:11:32.08,0:11:34.95,Default2,,0000,0000,0000,,But the NSA hired you instead
+Dialogue: 0,0:11:34.95,0:11:36.86,Default2,,0000,0000,0000,,and dropped all charges against you.
+Dialogue: 0,0:11:38.08,0:11:41.49,Default2,,0000,0000,0000,,We found out prior to.the crash in downtown,
+Dialogue: 0,0:11:41.75,0:11:43.74,Default2,,0000,0000,0000,,in a café in wanchai,
+Dialogue: 0,0:11:43.75,0:11:45.91,Default2,,0000,0000,0000,,you tipped off the police about the crash,
+Dialogue: 0,0:11:45.91,0:11:47.90,Default2,,0000,0000,0000,,despite being surrounded by cctv.
+Dialogue: 0,0:11:47.91,0:11:49.55,Default2,,0000,0000,0000,,That means you didn't want people to die.
+Dialogue: 0,0:11:50.83,0:11:52.74,Default2,,0000,0000,0000,,If we're on the same side,
+Dialogue: 0,0:11:52.95,0:11:53.99,Default2,,0000,0000,0000,,why not work together?
+Dialogue: 0,0:11:54.20,0:11:56.74,Default2,,0000,0000,0000,,Go ahead and detain me if you have proof.
+Dialogue: 0,0:11:56.83,0:11:57.83,Default2,,0000,0000,0000,,That won't be necessary.
+Dialogue: 0,0:11:58.16,0:11:59.65,Default2,,0000,0000,0000,,Sign your name and you're free to go.
+Dialogue: 0,0:12:00.33,0:12:03.49,Default2,,0000,0000,0000,,We'll tell the media you left the precinct.
+Dialogue: 0,0:12:04.20,0:12:06.03,Default2,,0000,0000,0000,,Someone just tried to kill me.
+Dialogue: 0,0:12:06.04,0:12:07.65,Default2,,0000,0000,0000,,I'm dead if I walk out of here.
+Dialogue: 0,0:12:07.66,0:12:08.99,Default2,,0000,0000,0000,,Probably just cripple you.
+Dialogue: 0,0:12:09.29,0:12:10.87,Default2,,0000,0000,0000,,These people have backing.
+Dialogue: 0,0:12:10.87,0:12:12.36,Default2,,0000,0000,0000,,Bodyguards won't help.
+Dialogue: 0,0:12:13.08,0:12:14.08,Default2,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:12:17.16,0:12:18.16,Default2,,0000,0000,0000,,Sir!
+Dialogue: 0,0:12:18.33,0:12:19.69,Default2,,0000,0000,0000,,About 2 weeks ago,
+Dialogue: 0,0:12:20.25,0:12:22.70,Default2,,0000,0000,0000,,I wanted to write about human trafficking
+Dialogue: 0,0:12:22.70,0:12:24.57,Default2,,0000,0000,0000,,I managed to
+Dialogue: 0,0:12:24.58,0:12:27.04,Default2,,0000,0000,0000,,hack into an overseas database.
+Dialogue: 0,0:12:27.04,0:12:27.78,Default2,,0000,0000,0000,,Bill!
+Dialogue: 0,0:12:27.79,0:12:29.65,Default2,,0000,0000,0000,,But they caught on.
+Dialogue: 0,0:12:29.66,0:12:31.74,Default2,,0000,0000,0000,,We only managed to.download part of the file.
+Dialogue: 0,0:12:31.95,0:12:33.03,Default2,,0000,0000,0000,,They started their attack.
+Dialogue: 0,0:12:33.04,0:12:34.74,Default2,,0000,0000,0000,,Our security system will.crash in 30 seconds.
+Dialogue: 0,0:12:34.75,0:12:37.03,Default2,,0000,0000,0000,,Most of those files were encrypted.
+Dialogue: 0,0:12:37.50,0:12:39.03,Default2,,0000,0000,0000,,After we decoded them, we found out
+Dialogue: 0,0:12:39.29,0:12:41.49,Default2,,0000,0000,0000,,someone intends to disrupt.taipo and downtown.
+Dialogue: 0,0:12:41.50,0:12:43.10,Default2,,0000,0000,0000,,Someone intends to disrupt.taipo and downtown.
+Dialogue: 0,0:12:43.12,0:12:44.58,Default2,,0000,0000,0000,,I believe
+Dialogue: 0,0:12:44.58,0:12:46.61,Default2,,0000,0000,0000,,the police is covering up for them.
+Dialogue: 0,0:12:49.25,0:12:50.41,Default2,,0000,0000,0000,,What makes you say that?
+Dialogue: 0,0:12:50.41,0:12:52.28,Default2,,0000,0000,0000,,Among the files I hacked into,
+Dialogue: 0,0:12:52.29,0:12:55.95,Default2,,0000,0000,0000,,I found archive footages and texts.
+Dialogue: 0,0:12:59.04,0:13:00.87,Default2,,0000,0000,0000,,The texts were in english,
+Dialogue: 0,0:13:00.87,0:13:03.11,Default2,,0000,0000,0000,,but incomplete like the archives.
+Dialogue: 0,0:13:03.12,0:13:06.03,Default2,,0000,0000,0000,,I deduced from the texts,
+Dialogue: 0,0:13:06.04,0:13:08.07,Default2,,0000,0000,0000,,there's an underground organization abroad.
+Dialogue: 0,0:13:08.08,0:13:09.74,Default2,,0000,0000,0000,,This organization kidnaps children
+Dialogue: 0,0:13:09.75,0:13:11.58,Default2,,0000,0000,0000,,and trains them into field agents.
+Dialogue: 0,0:13:11.75,0:13:13.16,Default2,,0000,0000,0000,,These agents have already
+Dialogue: 0,0:13:13.16,0:13:15.90,Default2,,0000,0000,0000,,infiltrated the police around the world.
+Dialogue: 0,0:13:22.58,0:13:23.86,Default2,,0000,0000,0000,,What's up?
+Dialogue: 0,0:13:27.08,0:13:29.91,Default2,,0000,0000,0000,,The security wing will take over.
+Dialogue: 0,0:13:31.62,0:13:32.78,Default2,,0000,0000,0000,,To, take a break.
+Dialogue: 0,0:13:32.79,0:13:33.87,Default2,,0000,0000,0000,,Grace, kill the mic.
+Dialogue: 0,0:13:41.08,0:13:44.12,Default2,,0000,0000,0000,,If sw wants us to hand over the case,
+Dialogue: 0,0:13:44.12,0:13:45.95,Default2,,0000,0000,0000,,the acp should call us.
+Dialogue: 0,0:13:45.95,0:13:46.99,Default2,,0000,0000,0000,,He's on his way.
+Dialogue: 0,0:13:47.00,0:13:48.20,Default2,,0000,0000,0000,,Then let's wait till he's here.
+Dialogue: 0,0:13:48.20,0:13:49.24,Default2,,0000,0000,0000,,Excuse me, we need to continue.
+Dialogue: 0,0:13:49.25,0:13:50.25,Default2,,0000,0000,0000,,No!
+Dialogue: 0,0:13:50.70,0:13:53.04,Default2,,0000,0000,0000,,She's involved in two major attacks.
+Dialogue: 0,0:13:53.04,0:13:55.45,Default2,,0000,0000,0000,,This is definitely our case.
+Dialogue: 0,0:13:57.20,0:13:58.36,Default2,,0000,0000,0000,,Cheng,
+Dialogue: 0,0:13:59.95,0:14:02.95,Default2,,0000,0000,0000,,the girl just started to talk.
+Dialogue: 0,0:14:02.95,0:14:04.11,Default2,,0000,0000,0000,,If you pull the plug now,
+Dialogue: 0,0:14:04.12,0:14:05.78,Default2,,0000,0000,0000,,everything will go down the drain.
+Dialogue: 0,0:14:06.16,0:14:07.20,Default2,,0000,0000,0000,,Chong,
+Dialogue: 0,0:14:07.33,0:14:10.40,Default2,,0000,0000,0000,,pack up everything and.keep them under wraps.
+Dialogue: 0,0:14:10.41,0:14:11.57,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:11.58,0:14:12.58,Default2,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:14:15.91,0:14:19.61,Default2,,0000,0000,0000,,The girl mentioned dirty cops on the force.
+Dialogue: 0,0:14:19.62,0:14:21.86,Default2,,0000,0000,0000,,I was thinking who should I guard against
+Dialogue: 0,0:14:21.87,0:14:22.95,Default2,,0000,0000,0000,,and you waltzed in.
+Dialogue: 0,0:14:23.87,0:14:25.41,Default2,,0000,0000,0000,,Should I guard against you?
+Dialogue: 0,0:14:28.20,0:14:29.53,Default2,,0000,0000,0000,,Aren't you a cop?
+Dialogue: 0,0:14:46.04,0:14:48.62,Default2,,0000,0000,0000,,Ching to, cib.
+Dialogue: 0,0:14:49.04,0:14:50.99,Default2,,0000,0000,0000,,6 years ago, he went undercover.
+Dialogue: 0,0:15:01.45,0:15:03.16,Default2,,0000,0000,0000,,Should I guard against him too?
+Dialogue: 0,0:15:07.45,0:15:09.36,Default2,,0000,0000,0000,,I won't dismiss your doubts.
+Dialogue: 0,0:15:09.37,0:15:12.03,Default2,,0000,0000,0000,,But who knows who's dirty?
+Dialogue: 0,0:15:22.12,0:15:22.95,Default2,,0000,0000,0000,,Cheng sir!
+Dialogue: 0,0:15:22.95,0:15:23.82,Default2,,0000,0000,0000,,What did you tell her?
+Dialogue: 0,0:15:23.83,0:15:26.37,Default2,,0000,0000,0000,,By protocol, everything.related to the case,
+Dialogue: 0,0:15:26.37,0:15:27.49,Default2,,0000,0000,0000,,I can only report to my commanding officer.
+Dialogue: 0,0:15:27.50,0:15:28.83,Default2,,0000,0000,0000,,Sw will take over the case.
+Dialogue: 0,0:15:28.83,0:15:29.78,Default2,,0000,0000,0000,,We're waiting to hear from the acp.
+Dialogue: 0,0:15:29.79,0:15:30.95,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:31.79,0:15:34.57,Default2,,0000,0000,0000,,You wore us out. We need a break.
+Dialogue: 0,0:15:34.58,0:15:35.69,Default2,,0000,0000,0000,,Care for a late snack?
+Dialogue: 0,0:15:39.45,0:15:40.99,Default2,,0000,0000,0000,,Don't forget what I said.
+Dialogue: 0,0:15:50.16,0:15:51.24,Default2,,0000,0000,0000,,What did he say?
+Dialogue: 0,0:15:51.25,0:15:52.45,Default2,,0000,0000,0000,,Nothing important.
+Dialogue: 0,0:15:53.08,0:15:54.57,Default2,,0000,0000,0000,,Such an attitude.
+Dialogue: 0,0:15:55.62,0:15:58.69,Default2,,0000,0000,0000,,You know about him and his poker face.
+Dialogue: 0,0:15:58.70,0:16:01.41,Default2,,0000,0000,0000,,Sw is a sensitive department.
+Dialogue: 0,0:16:01.41,0:16:02.53,Default2,,0000,0000,0000,,He's not entirely wrong.
+Dialogue: 0,0:16:02.66,0:16:04.90,Default2,,0000,0000,0000,,Still! You were his mentor.
+Dialogue: 0,0:16:04.91,0:16:07.82,Default2,,0000,0000,0000,,Don't say that. That's ancient history.
+Dialogue: 0,0:16:07.83,0:16:09.78,Default2,,0000,0000,0000,,He now holds a key position.
+Dialogue: 0,0:16:10.45,0:16:12.66,Default2,,0000,0000,0000,,Not me. I'm old school.
+Dialogue: 0,0:16:12.66,0:16:15.20,Default2,,0000,0000,0000,,Once a mentor, always a mentor.
+Dialogue: 0,0:16:16.25,0:16:17.25,Default2,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:17.75,0:16:19.11,Default2,,0000,0000,0000,,When you see me every day,
+Dialogue: 0,0:16:19.12,0:16:21.08,Default2,,0000,0000,0000,,kneel, kowtow, serve me tea,
+Dialogue: 0,0:16:21.08,0:16:22.78,Default2,,0000,0000,0000,,and address me as shifu.
+Dialogue: 0,0:16:22.79,0:16:24.99,Default2,,0000,0000,0000,,Pour you a libation and burn incense too?
+Dialogue: 0,0:16:26.58,0:16:29.45,Default2,,0000,0000,0000,,What about the guy who.went after yiu ho yee?
+Dialogue: 0,0:16:29.95,0:16:32.41,Default2,,0000,0000,0000,,He must have had military training.
+Dialogue: 0,0:16:32.41,0:16:35.12,Default2,,0000,0000,0000,,Any update on the crash in downtown?
+Dialogue: 0,0:16:35.62,0:16:37.58,Default2,,0000,0000,0000,,According to the assessment.of the task force
+Dialogue: 0,0:16:37.58,0:16:41.45,Default2,,0000,0000,0000,,terrorists had the dirt on miu kwok lung.
+Dialogue: 0,0:16:43.04,0:16:45.40,Default2,,0000,0000,0000,,He did it to protect his family.
+Dialogue: 0,0:16:45.41,0:16:48.40,Default2,,0000,0000,0000,,Miu was in finance and loan.
+Dialogue: 0,0:16:48.41,0:16:49.99,Default2,,0000,0000,0000,,His clients are mostly Europeans.
+Dialogue: 0,0:16:50.00,0:16:51.11,Default2,,0000,0000,0000,,After the incident,
+Dialogue: 0,0:16:51.12,0:16:52.49,Default2,,0000,0000,0000,,the stock price of his company
+Dialogue: 0,0:16:52.50,0:16:53.99,Default2,,0000,0000,0000,,and his partners' companies took a dive.
+Dialogue: 0,0:16:54.00,0:16:55.78,Default2,,0000,0000,0000,,Someone intends to use the attack
+Dialogue: 0,0:16:55.79,0:16:57.03,Default2,,0000,0000,0000,,to disrupt the economy.
+Dialogue: 0,0:16:57.04,0:16:58.78,Default2,,0000,0000,0000,,We should alert interpol.
+Dialogue: 0,0:16:58.79,0:17:00.37,Default2,,0000,0000,0000,,I suggest we contact the Myanmar police
+Dialogue: 0,0:17:00.37,0:17:02.28,Default2,,0000,0000,0000,,to get the hard disk yiu ho yee mentioned,
+Dialogue: 0,0:17:02.29,0:17:03.40,Default2,,0000,0000,0000,,because it contains deployment plans
+Dialogue: 0,0:17:03.41,0:17:05.90,Default2,,0000,0000,0000,,of suspected terrorists
+Dialogue: 0,0:17:05.91,0:17:08.07,Default2,,0000,0000,0000,,that may endanger other countries.
+Dialogue: 0,0:17:08.08,0:17:09.16,Default2,,0000,0000,0000,,I agree.
+Dialogue: 0,0:17:09.16,0:17:10.20,Default2,,0000,0000,0000,,Me too.
+Dialogue: 0,0:17:11.33,0:17:13.69,Default2,,0000,0000,0000,,I'll contact the Myanmar police.
+Dialogue: 0,0:17:13.70,0:17:14.49,Default2,,0000,0000,0000,,Cheng sir,
+Dialogue: 0,0:17:14.66,0:17:16.53,Default2,,0000,0000,0000,,put yiu ho yee in a safe house asap.
+Dialogue: 0,0:17:16.54,0:17:17.32,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:17:17.33,0:17:20.32,Default2,,0000,0000,0000,,Keep this case to yourselves.
+Dialogue: 0,0:17:20.66,0:17:21.65,Default2,,0000,0000,0000,,No one else must know about it.
+Dialogue: 0,0:17:21.66,0:17:22.82,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:17:24.75,0:17:25.75,Default2,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:35.91,0:17:36.99,Default2,,0000,0000,0000,,- About the case....- Tonight...
+Dialogue: 0,0:17:37.00,0:17:38.28,Default2,,0000,0000,0000,,Sorry, go ahead!
+Dialogue: 0,0:17:39.12,0:17:41.41,Default2,,0000,0000,0000,,Sorry, I took your case.
+Dialogue: 0,0:17:42.08,0:17:44.41,Default2,,0000,0000,0000,,Don't be silly. It's under your department.
+Dialogue: 0,0:17:47.37,0:17:48.95,Default2,,0000,0000,0000,,What were you saying?
+Dialogue: 0,0:17:50.66,0:17:53.32,Default2,,0000,0000,0000,,It's not important. Here's the elevator.
+Dialogue: 0,0:17:55.12,0:18:03.12,Default2,,0000,0000,0000,,Happy birthday to you...
+Dialogue: 0,0:18:06.87,0:18:08.61,Default2,,0000,0000,0000,,Wait! Make a wish!
+Dialogue: 0,0:18:08.62,0:18:10.83,Default2,,0000,0000,0000,,Think hard... it'll come true.
+Dialogue: 0,0:18:10.83,0:18:12.41,Default2,,0000,0000,0000,,- Close your eyes..- Make a wish first.
+Dialogue: 0,0:18:14.37,0:18:16.61,Default2,,0000,0000,0000,,The longer the better.
+Dialogue: 0,0:18:26.08,0:18:28.24,Default2,,0000,0000,0000,,You're late.
+Dialogue: 0,0:18:29.75,0:18:30.83,Default2,,0000,0000,0000,,Here's your present.
+Dialogue: 0,0:18:32.75,0:18:34.83,Default2,,0000,0000,0000,,This piece of second-hand trash?
+Dialogue: 0,0:18:34.83,0:18:36.41,Default2,,0000,0000,0000,,Some friend you are!
+Dialogue: 0,0:18:36.41,0:18:38.37,Default2,,0000,0000,0000,,It took me all night to bid for it.
+Dialogue: 0,0:18:38.37,0:18:39.73,Default2,,0000,0000,0000,,Give it back if you don't want it.
+Dialogue: 0,0:18:42.08,0:18:44.79,Default2,,0000,0000,0000,,If I don't mind this crap, don't nag.
+Dialogue: 0,0:18:44.79,0:18:45.87,Default2,,0000,0000,0000,,Why does an old man like kiddie stuff?
+Dialogue: 0,0:18:45.87,0:18:47.24,Default2,,0000,0000,0000,,Why does an old man like kiddie stuff?
+Dialogue: 0,0:18:47.25,0:18:48.78,Default2,,0000,0000,0000,,Everyone has a child inside. But not you.
+Dialogue: 0,0:18:48.79,0:18:49.49,Default2,,0000,0000,0000,,You won't understand.
+Dialogue: 0,0:18:49.50,0:18:50.99,Default2,,0000,0000,0000,,I don't think you'd wear it.
+Dialogue: 0,0:18:51.00,0:18:52.78,Default2,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:18:52.79,0:18:53.99,Default2,,0000,0000,0000,,I'd keep it for 20 years and auction it.
+Dialogue: 0,0:18:54.00,0:18:56.20,Default2,,0000,0000,0000,,I'd keep it for 20 years and auction it.
+Dialogue: 0,0:18:58.16,0:18:59.16,Default2,,0000,0000,0000,,Cheng!
+Dialogue: 0,0:19:00.33,0:19:01.16,Default2,,0000,0000,0000,,Happy birthday!
+Dialogue: 0,0:19:01.16,0:19:01.82,Default2,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:01.83,0:19:03.66,Default2,,0000,0000,0000,,I meant to remind you in the elevator.
+Dialogue: 0,0:19:03.66,0:19:05.12,Default2,,0000,0000,0000,,No need. I remember.
+Dialogue: 0,0:19:05.16,0:19:05.74,Default2,,0000,0000,0000,,Thank you
+Dialogue: 0,0:19:05.75,0:19:06.86,Default2,,0000,0000,0000,,yip sir, let's take a picture.
+Dialogue: 0,0:19:06.87,0:19:08.11,Default2,,0000,0000,0000,,Ok...
+Dialogue: 0,0:19:08.20,0:19:09.28,Default2,,0000,0000,0000,,Let me just take one picture.
+Dialogue: 0,0:19:09.29,0:19:10.95,Default2,,0000,0000,0000,,I have to go. Happy birthday.
+Dialogue: 0,0:19:10.95,0:19:12.69,Default2,,0000,0000,0000,,You can't wait for me to take one picture?
+Dialogue: 0,0:19:12.70,0:19:14.24,Default2,,0000,0000,0000,,When was the last time we had a drink?
+Dialogue: 0,0:19:27.25,0:19:28.97,Default2,,0000,0000,0000,,"Hong Kong police force organisation chart"
+Dialogue: 0,0:19:34.79,0:19:38.23,Default2,,0000,0000,0000,,The girl mentioned dirty cops on the force.
+Dialogue: 0,0:19:38.25,0:19:40.11,Default2,,0000,0000,0000,,I was thinking who should I guard against
+Dialogue: 0,0:19:40.12,0:19:41.58,Default2,,0000,0000,0000,,and you waltzed in.
+Dialogue: 0,0:19:42.16,0:19:43.95,Default2,,0000,0000,0000,,Should I guard against you?
+Dialogue: 0,0:20:50.83,0:20:52.66,Default2,,0000,0000,0000,,After we decoded them, we found out
+Dialogue: 0,0:20:52.66,0:20:54.90,Default2,,0000,0000,0000,,someone intends to disrupt.taipo and downtown.
+Dialogue: 0,0:20:54.91,0:20:56.57,Default2,,0000,0000,0000,,Someone intends to disrupt.taipo and downtown.
+Dialogue: 0,0:20:56.58,0:21:00.28,Default2,,0000,0000,0000,,I believe the police is.covering up for them.
+Dialogue: 0,0:21:00.62,0:21:03.49,Default2,,0000,0000,0000,,I deduced from the text,
+Dialogue: 0,0:21:03.50,0:21:05.24,Default2,,0000,0000,0000,,there's an underground organization abroad.
+Dialogue: 0,0:21:05.25,0:21:06.86,Default2,,0000,0000,0000,,This organization kidnaps children
+Dialogue: 0,0:21:06.87,0:21:09.03,Default2,,0000,0000,0000,,and trains them into field agents.
+Dialogue: 0,0:21:44.66,0:21:46.12,Default2,,0000,0000,0000,,This organization kidnaps children
+Dialogue: 0,0:21:46.12,0:21:48.58,Default2,,0000,0000,0000,,and trains them into field agents.
+Dialogue: 0,0:21:48.58,0:21:49.66,Default2,,0000,0000,0000,,These agents have already
+Dialogue: 0,0:21:49.66,0:21:52.57,Default2,,0000,0000,0000,,infiltrated the police around the world.
+Dialogue: 0,0:21:56.75,0:21:59.91,Default2,,0000,0000,0000,,Ching-ching always loves.to eat ice cream every day.
+Dialogue: 0,0:21:59.91,0:22:01.90,Default2,,0000,0000,0000,,What do you think, sir?
+Dialogue: 0,0:22:04.62,0:22:05.20,Default2,,0000,0000,0000,,Morning!
+Dialogue: 0,0:22:05.20,0:22:06.20,Default2,,0000,0000,0000,,Morning!
+Dialogue: 0,0:22:06.70,0:22:08.91,Default2,,0000,0000,0000,,Ching-ching, if you want ice cream,
+Dialogue: 0,0:22:08.91,0:22:10.20,Default2,,0000,0000,0000,,tell daddy, ok?
+Dialogue: 0,0:22:10.20,0:22:10.82,Default2,,0000,0000,0000,,Ok!
+Dialogue: 0,0:22:10.83,0:22:11.78,Default2,,0000,0000,0000,,What flavor do you like?
+Dialogue: 0,0:22:11.79,0:22:14.74,Default2,,0000,0000,0000,,Durian and chocolate.
+Dialogue: 0,0:22:14.75,0:22:15.86,Default2,,0000,0000,0000,,You're so greedy.
+Dialogue: 0,0:22:16.25,0:22:17.61,Default2,,0000,0000,0000,,Bye, daddy!
+Dialogue: 0,0:22:17.62,0:22:19.11,Default2,,0000,0000,0000,,Bye!
+Dialogue: 0,0:22:21.04,0:22:23.95,Default2,,0000,0000,0000,,Sir, you come back and have dinner tonight?
+Dialogue: 0,0:22:26.20,0:22:28.69,Default2,,0000,0000,0000,,Cheng sir, I spoke to the Myanmar police.
+Dialogue: 0,0:22:28.70,0:22:31.57,Default2,,0000,0000,0000,,You leave for Myanmar in an hour.
+Dialogue: 0,0:22:31.58,0:22:34.90,Default2,,0000,0000,0000,,Bring back yiu ho yee's hacked files.
+Dialogue: 0,0:22:35.50,0:22:37.11,Default2,,0000,0000,0000,,In case there's mole among us,
+Dialogue: 0,0:22:37.12,0:22:39.66,Default2,,0000,0000,0000,,we should limit the people involved.
+Dialogue: 0,0:22:39.66,0:22:41.40,Default2,,0000,0000,0000,,But considering your backup,
+Dialogue: 0,0:22:41.41,0:22:43.12,Default2,,0000,0000,0000,,I picked someone for you.
+Dialogue: 0,0:22:43.12,0:22:44.33,Default2,,0000,0000,0000,,I hope you won't object.
+Dialogue: 0,0:22:44.33,0:22:46.28,Default2,,0000,0000,0000,,I trust your arrangement.
+Dialogue: 0,0:22:46.83,0:22:47.86,Default2,,0000,0000,0000,,Send them in.
+Dialogue: 0,0:22:51.20,0:22:52.78,Default2,,0000,0000,0000,,Sir!
+Dialogue: 0,0:22:54.66,0:22:55.99,Default2,,0000,0000,0000,,Sir!
+Dialogue: 0,0:23:01.66,0:23:03.49,Default2,,0000,0000,0000,,Cheng sir and ching sir go to Myanmar.
+Dialogue: 0,0:23:03.50,0:23:05.74,Default2,,0000,0000,0000,,The local elite force will help you.
+Dialogue: 0,0:23:05.75,0:23:07.33,Default2,,0000,0000,0000,,Yip sir will hold down the fort at cib,
+Dialogue: 0,0:23:07.33,0:23:09.61,Default2,,0000,0000,0000,,monitor the operation and provide backup.
+Dialogue: 0,0:23:09.62,0:23:10.66,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:23:24.12,0:23:25.36,Default2,,0000,0000,0000,,Too low tech, right?
+Dialogue: 0,0:23:25.37,0:23:27.20,Default2,,0000,0000,0000,,No, I played with it when I was little.
+Dialogue: 0,0:23:27.20,0:23:29.19,Default2,,0000,0000,0000,,Everyone from our generation did.
+Dialogue: 0,0:23:29.20,0:23:31.36,Default2,,0000,0000,0000,,Better than cell phones.
+Dialogue: 0,0:23:31.37,0:23:33.86,Default2,,0000,0000,0000,,I'm quite attached to it.
+Dialogue: 0,0:23:35.58,0:23:37.11,Default2,,0000,0000,0000,,Do you recognize me?
+Dialogue: 0,0:23:44.08,0:23:46.82,Default2,,0000,0000,0000,,2 years ago in fanling,
+Dialogue: 0,0:23:46.83,0:23:48.55,Default2,,0000,0000,0000,,I was under you in an anti-terrorist drill.
+Dialogue: 0,0:23:50.16,0:23:51.65,Default2,,0000,0000,0000,,I don't recall.
+Dialogue: 0,0:23:51.66,0:23:52.82,Default2,,0000,0000,0000,,How unlike you.
+Dialogue: 0,0:23:53.20,0:23:55.03,Default2,,0000,0000,0000,,Maybe it's an occupational hazard.
+Dialogue: 0,0:23:55.75,0:23:57.78,Default2,,0000,0000,0000,,Cib's top criterion in.choosing an undercover
+Dialogue: 0,0:23:57.79,0:23:59.65,Default2,,0000,0000,0000,,is the ability to recognize a face.
+Dialogue: 0,0:23:59.70,0:24:01.07,Default2,,0000,0000,0000,,I was a uc for several years.
+Dialogue: 0,0:24:01.20,0:24:03.16,Default2,,0000,0000,0000,,You don't look like it.
+Dialogue: 0,0:24:03.16,0:24:05.28,Default2,,0000,0000,0000,,As a uc, you're too obvious.
+Dialogue: 0,0:24:05.54,0:24:07.57,Default2,,0000,0000,0000,,The more you try to cover up,
+Dialogue: 0,0:24:07.58,0:24:10.29,Default2,,0000,0000,0000,,the easier it is to blow your cover.
+Dialogue: 0,0:24:12.58,0:24:14.61,Default2,,0000,0000,0000,,Obvious can be intentional.
+Dialogue: 0,0:24:26.58,0:24:27.94,Default2,,0000,0000,0000,,Today, we have a joint operation
+Dialogue: 0,0:24:27.95,0:24:29.07,Default2,,0000,0000,0000,,with the Hong Kong police.
+Dialogue: 0,0:24:29.08,0:24:29.91,Default2,,0000,0000,0000,,The objective is to safeguard
+Dialogue: 0,0:24:29.91,0:24:30.74,Default2,,0000,0000,0000,,the evidence of their case
+Dialogue: 0,0:24:30.75,0:24:32.74,Default2,,0000,0000,0000,,and arrest all related suspects.
+Dialogue: 0,0:24:32.87,0:24:34.16,Default2,,0000,0000,0000,,Intel shows target is in a crowded place.
+Dialogue: 0,0:24:34.16,0:24:36.24,Default2,,0000,0000,0000,,Intel shows target is in a crowded place.
+Dialogue: 0,0:24:36.29,0:24:38.37,Default2,,0000,0000,0000,,In order not to alert the target,
+Dialogue: 0,0:24:38.37,0:24:39.91,Default2,,0000,0000,0000,,we'll go inside disguised as civilians.
+Dialogue: 0,0:24:39.91,0:24:42.28,Default2,,0000,0000,0000,,If we encounter any attack or resistance,
+Dialogue: 0,0:24:42.45,0:24:44.87,Default2,,0000,0000,0000,,we swear to protect our.people against the enemy.
+Dialogue: 0,0:24:44.87,0:24:45.83,Default2,,0000,0000,0000,,We swear to protect our.people against the enemy.
+Dialogue: 0,0:24:45.83,0:24:46.83,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:24:54.95,0:24:56.82,Default2,,0000,0000,0000,,North gate secure.
+Dialogue: 0,0:24:57.75,0:24:58.75,Default2,,0000,0000,0000,,Roger that!
+Dialogue: 0,0:25:24.16,0:25:25.40,Default2,,0000,0000,0000,,Keep quiet! Get out!
+Dialogue: 0,0:25:32.33,0:25:34.03,Default2,,0000,0000,0000,,Keep quiet! Get out!
+Dialogue: 0,0:25:34.16,0:25:35.87,Default2,,0000,0000,0000,,Go...
+Dialogue: 0,0:25:44.04,0:25:45.45,Default2,,0000,0000,0000,,Alpha team in position.
+Dialogue: 0,0:25:45.70,0:25:47.41,Default2,,0000,0000,0000,,Breaching in 3 seconds.
+Dialogue: 0,0:25:59.79,0:26:01.82,Default2,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:26:01.83,0:26:03.82,Default2,,0000,0000,0000,,No visual. No comms either.
+Dialogue: 0,0:26:06.79,0:26:09.03,Default2,,0000,0000,0000,,To, do you copy?
+Dialogue: 0,0:26:09.04,0:26:12.11,Default2,,0000,0000,0000,,Men down. Send backup.
+Dialogue: 0,0:26:14.20,0:26:15.36,Default2,,0000,0000,0000,,Cheng, talk to me!
+Dialogue: 0,0:26:15.58,0:26:17.36,Default2,,0000,0000,0000,,Are we back up?
+Dialogue: 0,0:26:29.91,0:26:31.28,Default2,,0000,0000,0000,,Hard disk...
+Dialogue: 0,0:26:57.91,0:26:58.82,Default2,,0000,0000,0000,,How much longer?
+Dialogue: 0,0:26:58.83,0:26:59.82,Default2,,0000,0000,0000,,Still no visual.
+Dialogue: 0,0:26:59.83,0:27:01.16,Default2,,0000,0000,0000,,Comms back up.
+Dialogue: 0,0:27:01.16,0:27:03.57,Default2,,0000,0000,0000,,To, do you copy? What's the status?
+Dialogue: 0,0:27:03.58,0:27:04.32,Default2,,0000,0000,0000,,Ambushed by an assassin.
+Dialogue: 0,0:27:04.33,0:27:06.44,Default2,,0000,0000,0000,,We're in pursuit to retrieve the hard disk.
+Dialogue: 0,0:27:07.37,0:27:08.45,Default2,,0000,0000,0000,,Locate them.
+Dialogue: 0,0:27:08.79,0:27:09.82,Default2,,0000,0000,0000,,Visual not steady.
+Dialogue: 0,0:27:17.83,0:27:18.83,Default2,,0000,0000,0000,,John, are you there yet?
+Dialogue: 0,0:27:32.95,0:27:34.41,Default2,,0000,0000,0000,,I have the hard disk.
+Dialogue: 0,0:28:00.29,0:28:01.95,Default2,,0000,0000,0000,,B point!
+Dialogue: 0,0:28:41.16,0:28:42.16,Default2,,0000,0000,0000,,Reload!
+Dialogue: 0,0:28:50.00,0:28:51.03,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,0:29:04.91,0:29:06.03,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,0:29:13.41,0:29:15.37,Default2,,0000,0000,0000,,Hop on! Landing!
+Dialogue: 0,0:29:18.12,0:29:19.33,Default2,,0000,0000,0000,,W ait for me!
+Dialogue: 0,0:29:33.41,0:29:35.57,Default2,,0000,0000,0000,,I have the hard disk. They're not on board.
+Dialogue: 0,0:29:41.58,0:29:43.36,Default2,,0000,0000,0000,,They outgun us. Chopper is hit.
+Dialogue: 0,0:29:43.37,0:29:44.37,Default2,,0000,0000,0000,,Pending your order!
+Dialogue: 0,0:30:02.08,0:30:03.08,Default2,,0000,0000,0000,,Yip sir!
+Dialogue: 0,0:30:06.50,0:30:07.58,Default2,,0000,0000,0000,,Pull out!
+Dialogue: 0,0:30:09.29,0:30:10.40,Default2,,0000,0000,0000,,John, pull out.
+Dialogue: 0,0:30:10.62,0:30:11.91,Default2,,0000,0000,0000,,Pull out!
+Dialogue: 0,0:31:08.16,0:31:09.16,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,0:32:33.20,0:32:35.24,Default2,,0000,0000,0000,,Yip sir, the hard disk is a blank.
+Dialogue: 0,0:32:57.20,0:33:00.24,Default2,,0000,0000,0000,,Ambush and cib comms went dead.
+Dialogue: 0,0:33:00.25,0:33:02.66,Default2,,0000,0000,0000,,It's possible we have a mole.
+Dialogue: 0,0:33:02.66,0:33:04.37,Default2,,0000,0000,0000,,Regarding the operation,
+Dialogue: 0,0:33:04.37,0:33:06.74,Default2,,0000,0000,0000,,15 people in the know, including us.
+Dialogue: 0,0:33:06.75,0:33:09.70,Default2,,0000,0000,0000,,What about yiu ho yee?
+Dialogue: 0,0:33:09.70,0:33:11.79,Default2,,0000,0000,0000,,Why didn't the assassin kill her
+Dialogue: 0,0:33:11.79,0:33:13.20,Default2,,0000,0000,0000,,but want to kidnap her?
+Dialogue: 0,0:33:13.20,0:33:15.11,Default2,,0000,0000,0000,,If someone threatened miu kwok lung,
+Dialogue: 0,0:33:15.12,0:33:17.28,Default2,,0000,0000,0000,,she might be threatened as well.
+Dialogue: 0,0:33:17.29,0:33:20.78,Default2,,0000,0000,0000,,Is it possible yiu ho yee is a terrorist?
+Dialogue: 0,0:33:22.37,0:33:24.24,Default2,,0000,0000,0000,,Yip sir, what's your take?
+Dialogue: 0,0:33:27.12,0:33:28.16,Default2,,0000,0000,0000,,Anything is possible.
+Dialogue: 0,0:33:28.16,0:33:30.57,Default2,,0000,0000,0000,,Does that include the missing ching to?
+Dialogue: 0,0:33:32.12,0:33:34.11,Default2,,0000,0000,0000,,Should we suspect him?
+Dialogue: 0,0:33:34.20,0:33:36.11,Default2,,0000,0000,0000,,Myanmar police cleared the scene.
+Dialogue: 0,0:33:36.29,0:33:38.28,Default2,,0000,0000,0000,,But still no sign of him.
+Dialogue: 0,0:33:38.29,0:33:39.78,Default2,,0000,0000,0000,,The point is,
+Dialogue: 0,0:33:40.12,0:33:42.49,Default2,,0000,0000,0000,,he was the last person.to touch the hard disk
+Dialogue: 0,0:33:43.45,0:33:46.24,Default2,,0000,0000,0000,,I'm afraid I can't keep up.
+Dialogue: 0,0:33:48.66,0:33:51.90,Default2,,0000,0000,0000,,While I worry about my colleague's safety,
+Dialogue: 0,0:33:52.29,0:33:55.32,Default2,,0000,0000,0000,,you're questioning his loyalty.
+Dialogue: 0,0:33:55.54,0:33:58.40,Default2,,0000,0000,0000,,You don't give a damn about his safety,
+Dialogue: 0,0:33:58.50,0:34:01.69,Default2,,0000,0000,0000,,because you're anxious to get answers?
+Dialogue: 0,0:34:04.29,0:34:05.70,Default2,,0000,0000,0000,,Maybe I dropped the ball.
+Dialogue: 0,0:34:08.87,0:34:11.16,Default2,,0000,0000,0000,,Ching to worked for me for a long time.
+Dialogue: 0,0:34:12.25,0:34:13.86,Default2,,0000,0000,0000,,He's my buddy.
+Dialogue: 0,0:34:15.33,0:34:17.16,Default2,,0000,0000,0000,,I will not suspect him.
+Dialogue: 0,0:34:17.16,0:34:19.32,Default2,,0000,0000,0000,,What if I told you
+Dialogue: 0,0:34:19.33,0:34:21.24,Default2,,0000,0000,0000,,I have intel
+Dialogue: 0,0:34:21.25,0:34:23.33,Default2,,0000,0000,0000,,ching to is on the take?
+Dialogue: 0,0:34:27.62,0:34:29.24,Default2,,0000,0000,0000,,I can vouch for him.
+Dialogue: 0,0:34:36.29,0:34:36.95,Default2,,0000,0000,0000,,Safe house!
+Dialogue: 0,0:34:36.95,0:34:37.95,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:34:41.37,0:34:42.37,Default2,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:34:43.04,0:34:44.20,Default2,,0000,0000,0000,,What now?
+Dialogue: 0,0:34:45.16,0:34:45.90,Default2,,0000,0000,0000,,Any word on to?
+Dialogue: 0,0:34:45.91,0:34:47.53,Default2,,0000,0000,0000,,Pending the Myanmar police's report.
+Dialogue: 0,0:34:47.54,0:34:48.90,Default2,,0000,0000,0000,,- You came back with John..- Didn't I make myself clear?
+Dialogue: 0,0:34:48.91,0:34:50.62,Default2,,0000,0000,0000,,Why didn't anyone stay behind to find out?
+Dialogue: 0,0:34:50.62,0:34:51.53,Default2,,0000,0000,0000,,It's a human life.
+Dialogue: 0,0:34:51.54,0:34:53.03,Default2,,0000,0000,0000,,So you noticed?
+Dialogue: 0,0:34:53.37,0:34:54.97,Default2,,0000,0000,0000,,Then why did you order them to pull out?
+Dialogue: 0,0:34:56.66,0:34:57.95,Default2,,0000,0000,0000,,To disappeared
+Dialogue: 0,0:34:58.25,0:34:59.86,Default2,,0000,0000,0000,,because of you.
+Dialogue: 0,0:35:22.20,0:35:23.49,Default2,,0000,0000,0000,,I must find him.
+Dialogue: 0,0:35:25.75,0:35:26.58,Default2,,0000,0000,0000,,I will let them know
+Dialogue: 0,0:35:26.58,0:35:27.74,Default2,,0000,0000,0000,,he's not a dirty cop.
+Dialogue: 0,0:35:28.25,0:35:29.66,Default2,,0000,0000,0000,,He came back for me.
+Dialogue: 0,0:35:30.62,0:35:31.91,Default2,,0000,0000,0000,,He can't be dirty.
+Dialogue: 0,0:35:33.04,0:35:34.87,Default2,,0000,0000,0000,,It's useless for me to stay in Myanmar.
+Dialogue: 0,0:35:35.16,0:35:37.74,Default2,,0000,0000,0000,,Yiu ho yee is our only lead.
+Dialogue: 0,0:35:39.37,0:35:40.37,Default2,,0000,0000,0000,,Trust me.
+Dialogue: 0,0:35:46.08,0:35:47.16,Default2,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:35:50.41,0:35:51.45,Default2,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:36:00.29,0:36:01.53,Default2,,0000,0000,0000,,Cheng sir is here.
+Dialogue: 0,0:36:08.41,0:36:10.07,Default2,,0000,0000,0000,,Why is the hard disk a blank?
+Dialogue: 0,0:36:10.08,0:36:11.41,Default2,,0000,0000,0000,,Did you make it up?
+Dialogue: 0,0:36:11.41,0:36:12.24,Default2,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:36:12.25,0:36:13.95,Default2,,0000,0000,0000,,There were heavy casualties in Myanmar.
+Dialogue: 0,0:36:16.95,0:36:18.53,Default2,,0000,0000,0000,,Start telling us the truth.
+Dialogue: 0,0:36:20.79,0:36:22.45,Default2,,0000,0000,0000,,What about bill?
+Dialogue: 0,0:36:22.87,0:36:24.28,Default2,,0000,0000,0000,,Dead.
+Dialogue: 0,0:36:29.50,0:36:31.41,Default2,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:36:31.41,0:36:33.49,Default2,,0000,0000,0000,,What's your connection with the terrorists?
+Dialogue: 0,0:36:40.66,0:36:43.40,Default2,,0000,0000,0000,,You want to bury Hong Kong with you?
+Dialogue: 0,0:36:44.66,0:36:46.12,Default2,,0000,0000,0000,,Bill is dead.
+Dialogue: 0,0:36:49.25,0:36:51.11,Default2,,0000,0000,0000,,I won't say another word.
+Dialogue: 0,0:36:55.33,0:36:57.11,Default2,,0000,0000,0000,,On account of your.possible false statement,
+Dialogue: 0,0:36:57.12,0:36:58.99,Default2,,0000,0000,0000,,and connection to two terrorist attacks,
+Dialogue: 0,0:36:59.00,0:37:00.53,Default2,,0000,0000,0000,,you're now under arrest.
+Dialogue: 0,0:37:02.87,0:37:05.49,Default2,,0000,0000,0000,,Yes, the hacked files
+Dialogue: 0,0:37:05.50,0:37:07.03,Default2,,0000,0000,0000,,will be treated as a permanent leak.
+Dialogue: 0,0:37:07.33,0:37:09.28,Default2,,0000,0000,0000,,Our Hong Kong agent has.confirmed the hacker
+Dialogue: 0,0:37:09.50,0:37:13.16,Default2,,0000,0000,0000,,knew nothing about our list of agents,
+Dialogue: 0,0:37:14.45,0:37:17.04,Default2,,0000,0000,0000,,and is clueless about details and timeline
+Dialogue: 0,0:37:17.04,0:37:18.32,Default2,,0000,0000,0000,,of our global operation.
+Dialogue: 0,0:37:18.33,0:37:21.87,Default2,,0000,0000,0000,,The hacker has shut down.the entire data system.
+Dialogue: 0,0:37:21.87,0:37:24.24,Default2,,0000,0000,0000,,We won't be able to execute any plan
+Dialogue: 0,0:37:24.25,0:37:26.20,Default2,,0000,0000,0000,,unless the system is unlocked.
+Dialogue: 0,0:37:26.87,0:37:28.61,Default2,,0000,0000,0000,,All of our efforts over the years
+Dialogue: 0,0:37:28.62,0:37:30.03,Default2,,0000,0000,0000,,will just go down the drain.
+Dialogue: 0,0:37:30.20,0:37:31.91,Default2,,0000,0000,0000,,Tung, you should really know,
+Dialogue: 0,0:37:31.91,0:37:34.98,Default2,,0000,0000,0000,,the aftermath of this.will indeed be terrible
+Dialogue: 0,0:37:35.00,0:37:38.16,Default2,,0000,0000,0000,,if this incident is not.reversed immediately.
+Dialogue: 0,0:37:39.70,0:37:41.28,Default2,,0000,0000,0000,,Grasp your time.
+Dialogue: 0,0:37:46.37,0:37:48.36,Default2,,0000,0000,0000,,Mr. tung, hq has reverted.
+Dialogue: 0,0:37:48.37,0:37:50.70,Default2,,0000,0000,0000,,They still can't unlock the files.
+Dialogue: 0,0:37:50.83,0:37:52.69,Default2,,0000,0000,0000,,We must find the hacker.
+Dialogue: 0,0:37:54.91,0:37:58.08,Default2,,0000,0000,0000,,Did we get what I want in Myanmar?
+Dialogue: 0,0:38:12.87,0:38:15.11,Default2,,0000,0000,0000,,I have the hard disk.
+Dialogue: 0,0:38:43.12,0:38:45.33,Default2,,0000,0000,0000,,Car 1, in 400m reroute to...
+Dialogue: 0,0:38:51.45,0:38:52.45,Default2,,0000,0000,0000,,Get down!
+Dialogue: 0,0:40:56.04,0:40:57.20,Default2,,0000,0000,0000,,Why you?
+Dialogue: 0,0:41:05.37,0:41:06.41,Default2,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:41:07.54,0:41:09.40,Default2,,0000,0000,0000,,I didn't really know at first.
+Dialogue: 0,0:41:10.08,0:41:11.11,Default2,,0000,0000,0000,,I'm actually
+Dialogue: 0,0:41:12.00,0:41:13.91,Default2,,0000,0000,0000,,a greedy and righteous cop.
+Dialogue: 0,0:41:13.95,0:41:15.57,Default2,,0000,0000,0000,,It's so bloody contradictory.
+Dialogue: 0,0:41:15.58,0:41:19.20,Default2,,0000,0000,0000,,Until yiu ho yee gave me the answer.
+Dialogue: 0,0:41:20.04,0:41:21.28,Default2,,0000,0000,0000,,I haven't been a sell-out yet
+Dialogue: 0,0:41:22.16,0:41:23.45,Default2,,0000,0000,0000,,because the price was not right.
+Dialogue: 0,0:41:27.12,0:41:28.74,Default2,,0000,0000,0000,,You have yiu ho yee,
+Dialogue: 0,0:41:29.45,0:41:30.16,Default2,,0000,0000,0000,,hand her over.
+Dialogue: 0,0:41:30.16,0:41:32.74,Default2,,0000,0000,0000,,I just told you, I chose money.
+Dialogue: 0,0:41:33.16,0:41:37.45,Default2,,0000,0000,0000,,You know how much she's.worth on the market.
+Dialogue: 0,0:41:38.95,0:41:41.07,Default2,,0000,0000,0000,,I'm giving you a chance to work with me.
+Dialogue: 0,0:41:42.29,0:41:44.20,Default2,,0000,0000,0000,,I can plead your case in the future.
+Dialogue: 0,0:41:45.45,0:41:47.24,Default2,,0000,0000,0000,,I recorded this just now.
+Dialogue: 0,0:41:47.62,0:41:49.78,Default2,,0000,0000,0000,,You were next to your.aide when he was shot.
+Dialogue: 0,0:41:50.12,0:41:52.11,Default2,,0000,0000,0000,,Why did the gunners shoot.at him and not you?
+Dialogue: 0,0:41:57.62,0:41:58.70,Default2,,0000,0000,0000,,Is it possible
+Dialogue: 0,0:41:58.70,0:42:00.19,Default2,,0000,0000,0000,,you sent those thugs?
+Dialogue: 0,0:42:01.08,0:42:02.69,Default2,,0000,0000,0000,,Quit your good cop act.
+Dialogue: 0,0:42:02.70,0:42:04.11,Default2,,0000,0000,0000,,Aren't you tired?
+Dialogue: 0,0:42:31.58,0:42:32.74,Default2,,0000,0000,0000,,Tsai!
+Dialogue: 0,0:42:49.58,0:42:50.74,Default2,,0000,0000,0000,,Blanks?
+Dialogue: 0,0:42:55.20,0:42:56.57,Default2,,0000,0000,0000,,You're tsai?
+Dialogue: 0,0:44:56.12,0:44:57.95,Default2,,0000,0000,0000,,Emma, does ching-ching.still have the fever?
+Dialogue: 0,0:44:58.00,0:45:00.99,Default2,,0000,0000,0000,,Better. I think it's the water.
+Dialogue: 0,0:45:02.54,0:45:04.20,Default2,,0000,0000,0000,,Why did we move here?
+Dialogue: 0,0:45:04.62,0:45:05.99,Default2,,0000,0000,0000,,She can't adapt.
+Dialogue: 0,0:45:11.12,0:45:15.49,Default2,,0000,0000,0000,,Honey, anyway, I'll support.whatever reason it is.
+Dialogue: 0,0:45:17.16,0:45:20.12,Default2,,0000,0000,0000,,We'll talk when you get home.
+Dialogue: 0,0:45:23.29,0:45:24.49,Default2,,0000,0000,0000,,Emma?
+Dialogue: 0,0:45:40.37,0:45:41.23,Default2,,0000,0000,0000,,Poor baby.
+Dialogue: 0,0:45:41.25,0:45:42.36,Default2,,0000,0000,0000,,Don't cry.
+Dialogue: 0,0:45:46.20,0:45:48.74,Default2,,0000,0000,0000,,We're not against having a family.
+Dialogue: 0,0:45:48.75,0:45:52.19,Default2,,0000,0000,0000,,But you can't turn your back and walk away.
+Dialogue: 0,0:45:54.29,0:45:55.87,Default2,,0000,0000,0000,,Take your pick.
+Dialogue: 0,0:46:06.87,0:46:08.20,Default2,,0000,0000,0000,,Mr. tung,
+Dialogue: 0,0:46:09.66,0:46:10.78,Default2,,0000,0000,0000,,I won't do it again.
+Dialogue: 0,0:46:18.95,0:46:19.95,Default2,,0000,0000,0000,,Emma!
+Dialogue: 0,0:46:25.41,0:46:27.24,Default2,,0000,0000,0000,,We taught you
+Dialogue: 0,0:46:27.75,0:46:29.83,Default2,,0000,0000,0000,,people you love will suffer.
+Dialogue: 0,0:46:29.83,0:46:30.83,Default2,,0000,0000,0000,,See?
+Dialogue: 0,0:46:31.91,0:46:32.91,Default2,,0000,0000,0000,,Honey!
+Dialogue: 0,0:46:34.33,0:46:35.53,Default2,,0000,0000,0000,,5 more years.
+Dialogue: 0,0:46:36.75,0:46:39.82,Default2,,0000,0000,0000,,We'll let you go in 5 years.
+Dialogue: 0,0:47:09.75,0:47:12.61,Default2,,0000,0000,0000,,You drew a good lot. You're with Cheng sir.
+Dialogue: 0,0:47:12.79,0:47:13.79,Default2,,0000,0000,0000,,Really?
+Dialogue: 0,0:47:32.95,0:47:34.44,Default2,,0000,0000,0000,,We taught you
+Dialogue: 0,0:47:34.45,0:47:37.45,Default2,,0000,0000,0000,,people you love will suffer. See?
+Dialogue: 0,0:47:39.33,0:47:40.49,Default2,,0000,0000,0000,,Do you recognize me?
+Dialogue: 0,0:47:40.50,0:47:42.91,Default2,,0000,0000,0000,,2 years ago in fanling,
+Dialogue: 0,0:47:42.91,0:47:44.63,Default2,,0000,0000,0000,,I was under you in an anti-terrorist drill.
+Dialogue: 0,0:47:45.33,0:47:46.49,Default2,,0000,0000,0000,,I don't recall.
+Dialogue: 0,0:47:58.66,0:48:00.03,Default2,,0000,0000,0000,,Dee!
+Dialogue: 0,0:48:07.33,0:48:08.36,Default2,,0000,0000,0000,,Tsai!
+Dialogue: 0,0:48:38.37,0:48:39.08,Default2,,0000,0000,0000,,Drink some water.
+Dialogue: 0,0:48:39.37,0:48:41.61,Default2,,0000,0000,0000,,Just kill me. Don't waste your time.
+Dialogue: 0,0:48:43.41,0:48:44.41,Default2,,0000,0000,0000,,In 2013,
+Dialogue: 0,0:48:44.87,0:48:46.45,Default2,,0000,0000,0000,,you became an independent reporter,
+Dialogue: 0,0:48:46.45,0:48:47.78,Default2,,0000,0000,0000,,and went to the Philippines
+Dialogue: 0,0:48:47.79,0:48:49.15,Default2,,0000,0000,0000,,to cover the red light district.
+Dialogue: 0,0:48:50.83,0:48:52.99,Default2,,0000,0000,0000,,You were there for 3 years.
+Dialogue: 0,0:49:01.41,0:49:02.45,Default2,,0000,0000,0000,,In 2017,
+Dialogue: 0,0:49:02.45,0:49:04.41,Default2,,0000,0000,0000,,you fell off the grid
+Dialogue: 0,0:49:04.58,0:49:05.99,Default2,,0000,0000,0000,,and became active only recently.
+Dialogue: 0,0:49:07.75,0:49:10.03,Default2,,0000,0000,0000,,You disappeared because of her.
+Dialogue: 0,0:49:10.58,0:49:12.94,Default2,,0000,0000,0000,,An m.I.T. Honor student became a reporter
+Dialogue: 0,0:49:12.95,0:49:14.57,Default2,,0000,0000,0000,,because you needed an excuse
+Dialogue: 0,0:49:14.58,0:49:16.41,Default2,,0000,0000,0000,,to look for someone in unusual places.
+Dialogue: 0,0:49:16.62,0:49:17.70,Default2,,0000,0000,0000,,Unfortunately,
+Dialogue: 0,0:49:19.45,0:49:21.32,Default2,,0000,0000,0000,,by the time you found her,
+Dialogue: 0,0:49:23.62,0:49:24.99,Default2,,0000,0000,0000,,she was already dead.
+Dialogue: 0,0:49:46.12,0:49:48.45,Default2,,0000,0000,0000,,Why did you dig that up?
+Dialogue: 0,0:49:48.75,0:49:50.61,Default2,,0000,0000,0000,,My little sister died tragically.
+Dialogue: 0,0:49:51.75,0:49:53.45,Default2,,0000,0000,0000,,It was horrible.
+Dialogue: 0,0:49:54.08,0:49:56.07,Default2,,0000,0000,0000,,You grabbed her.
+Dialogue: 0,0:49:56.33,0:49:58.57,Default2,,0000,0000,0000,,When she ran away from the camp,
+Dialogue: 0,0:49:58.58,0:50:00.61,Default2,,0000,0000,0000,,you sent her to a brothel.
+Dialogue: 0,0:50:06.08,0:50:07.61,Default2,,0000,0000,0000,,She was only 8 years old!
+Dialogue: 0,0:50:07.95,0:50:10.24,Default2,,0000,0000,0000,,Why didn't you just kill her?
+Dialogue: 0,0:50:10.25,0:50:14.57,Default2,,0000,0000,0000,,Even if you kill me, I.won't unlock the files
+Dialogue: 0,0:50:14.58,0:50:16.24,Default2,,0000,0000,0000,,ching to is not the bad guy.
+Dialogue: 0,0:50:21.95,0:50:23.91,Default2,,0000,0000,0000,,He's been acting on my orders.
+Dialogue: 0,0:50:24.75,0:50:27.66,Default2,,0000,0000,0000,,In order to secure your.hard disk in Myanmar,
+Dialogue: 0,0:50:27.66,0:50:29.15,Default2,,0000,0000,0000,,he had to disappear.
+Dialogue: 0,0:50:35.29,0:50:37.03,Default2,,0000,0000,0000,,I have the hard disk.
+Dialogue: 0,0:50:40.16,0:50:41.87,Default2,,0000,0000,0000,,I have the hard disk.
+Dialogue: 0,0:50:41.87,0:50:42.87,Default2,,0000,0000,0000,,Good job.
+Dialogue: 0,0:50:43.00,0:50:46.61,Default2,,0000,0000,0000,,He took you here on my order to protect you
+Dialogue: 0,0:51:01.16,0:51:03.70,Default2,,0000,0000,0000,,He's part of a counter terrorist ghost team
+Dialogue: 0,0:51:03.70,0:51:06.07,Default2,,0000,0000,0000,,under the Hong Kong police.
+Dialogue: 0,0:51:08.08,0:51:11.53,Default2,,0000,0000,0000,,Iff, the invisible frontline force.
+Dialogue: 0,0:51:12.25,0:51:14.86,Default2,,0000,0000,0000,,Because the iff is highly confidential,
+Dialogue: 0,0:51:14.87,0:51:16.91,Default2,,0000,0000,0000,,it is outside the establishment,
+Dialogue: 0,0:51:17.54,0:51:19.53,Default2,,0000,0000,0000,,and they report directly to me.
+Dialogue: 0,0:51:28.00,0:51:29.86,Default2,,0000,0000,0000,,If it's highly confidential,
+Dialogue: 0,0:51:31.37,0:51:32.91,Default2,,0000,0000,0000,,why are you telling me?
+Dialogue: 0,0:51:33.45,0:51:35.49,Default2,,0000,0000,0000,,I want you to help us fight terrorists.
+Dialogue: 0,0:51:35.83,0:51:38.54,Default2,,0000,0000,0000,,I want to know why they.wish to capture you.
+Dialogue: 0,0:51:39.29,0:51:41.07,Default2,,0000,0000,0000,,Because I locked their data system.
+Dialogue: 0,0:51:43.66,0:51:45.87,Default2,,0000,0000,0000,,I didn't have time to download everything.
+Dialogue: 0,0:51:45.87,0:51:47.03,Default2,,0000,0000,0000,,But it dawned on me
+Dialogue: 0,0:51:47.04,0:51:48.70,Default2,,0000,0000,0000,,to send them a virus
+Dialogue: 0,0:51:49.08,0:51:51.74,Default2,,0000,0000,0000,,to paralyze their system,
+Dialogue: 0,0:51:51.75,0:51:53.58,Default2,,0000,0000,0000,,stop them from operating it
+Dialogue: 0,0:51:53.58,0:51:54.36,Default2,,0000,0000,0000,,and deny them access to their database.
+Dialogue: 0,0:51:54.37,0:51:56.86,Default2,,0000,0000,0000,,And deny them access to their database.
+Dialogue: 0,0:51:56.87,0:51:58.49,Default2,,0000,0000,0000,,The only way to unlock it,
+Dialogue: 0,0:52:00.79,0:52:02.12,Default2,,0000,0000,0000,,is my Iris.
+Dialogue: 0,0:52:06.70,0:52:07.74,Default2,,0000,0000,0000,,We're currently outside the home of
+Dialogue: 0,0:52:07.75,0:52:10.53,Default2,,0000,0000,0000,,missing sp of police, Cheng chun yin.
+Dialogue: 0,0:52:10.54,0:52:12.90,Default2,,0000,0000,0000,,The police is inside combing for evidence.
+Dialogue: 0,0:52:13.75,0:52:14.95,Default2,,0000,0000,0000,,Regarding the kidnapping of yiu ho yee
+Dialogue: 0,0:52:14.95,0:52:18.57,Default2,,0000,0000,0000,,the key witness to the crash in downtown...
+Dialogue: 0,0:52:18.58,0:52:21.41,Default2,,0000,0000,0000,,Relax! Your daughter is safe with us.
+Dialogue: 0,0:52:29.20,0:52:30.03,Default2,,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:52:30.04,0:52:31.90,Default2,,0000,0000,0000,,Did you know someone
+Dialogue: 0,0:52:31.91,0:52:34.12,Default2,,0000,0000,0000,,is looking for a buyer for yiu ho yee?
+Dialogue: 0,0:52:34.12,0:52:35.45,Default2,,0000,0000,0000,,I didn't know.
+Dialogue: 0,0:52:35.45,0:52:38.29,Default2,,0000,0000,0000,,They also claim to have the hard disk.
+Dialogue: 0,0:52:38.29,0:52:39.28,Default2,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:52:39.29,0:52:42.40,Default2,,0000,0000,0000,,Probably the missing cop from Myanmar.
+Dialogue: 0,0:52:42.41,0:52:43.78,Default2,,0000,0000,0000,,Your old partner.
+Dialogue: 0,0:52:44.04,0:52:47.07,Default2,,0000,0000,0000,,He's with cib. He's not my partner.
+Dialogue: 0,0:52:47.08,0:52:48.57,Default2,,0000,0000,0000,,Find out where he stands.
+Dialogue: 0,0:52:48.58,0:52:50.94,Default2,,0000,0000,0000,,Set up a meeting with him in your name.
+Dialogue: 0,0:52:51.37,0:52:52.16,Default2,,0000,0000,0000,,I see.
+Dialogue: 0,0:52:52.16,0:52:53.24,Default2,,0000,0000,0000,,Wait to hear from me.
+Dialogue: 0,0:52:59.70,0:53:03.45,Default2,,0000,0000,0000,,"03:00 cheung sha wan cooked food market"
+Dialogue: 0,0:53:07.87,0:53:09.61,Default2,,0000,0000,0000,,when Cheng escaped through the window,
+Dialogue: 0,0:53:09.62,0:53:11.11,Default2,,0000,0000,0000,,he left behind a blood sample.
+Dialogue: 0,0:53:11.12,0:53:12.53,Default2,,0000,0000,0000,,Based on his DNA
+Dialogue: 0,0:53:12.54,0:53:15.78,Default2,,0000,0000,0000,,we confirm he's your childhood friend tsai.
+Dialogue: 0,0:53:17.08,0:53:19.54,Default2,,0000,0000,0000,,What's mine is yours.
+Dialogue: 0,0:53:19.54,0:53:20.90,Default2,,0000,0000,0000,,What's yours is mine.
+Dialogue: 0,0:53:23.00,0:53:24.11,Default2,,0000,0000,0000,,Over the years, while.looking for you friend,
+Dialogue: 0,0:53:24.12,0:53:26.53,Default2,,0000,0000,0000,,over the years, while.looking for you friend,
+Dialogue: 0,0:53:26.54,0:53:27.24,Default2,,0000,0000,0000,,you have been feeding us intel
+Dialogue: 0,0:53:27.25,0:53:29.33,Default2,,0000,0000,0000,,about this secret organization.
+Dialogue: 0,0:53:30.20,0:53:30.94,Default2,,0000,0000,0000,,Why?
+Dialogue: 0,0:53:30.95,0:53:34.32,Default2,,0000,0000,0000,,I'm sure they kidnapped my friend.
+Dialogue: 0,0:53:34.33,0:53:35.57,Default2,,0000,0000,0000,,He's innocent.
+Dialogue: 0,0:53:35.58,0:53:37.79,Default2,,0000,0000,0000,,If he didn't come back.to save me back then,
+Dialogue: 0,0:53:37.79,0:53:39.49,Default2,,0000,0000,0000,,I would have been the bad guy.
+Dialogue: 0,0:53:39.50,0:53:40.50,Default2,,0000,0000,0000,,Sir!
+Dialogue: 0,0:53:41.00,0:53:42.70,Default2,,0000,0000,0000,,Here's your chance.
+Dialogue: 0,0:53:42.70,0:53:44.99,Default2,,0000,0000,0000,,We intend to set up a new task force,
+Dialogue: 0,0:53:45.00,0:53:47.95,Default2,,0000,0000,0000,,that may help you find your friend.
+Dialogue: 0,0:53:50.37,0:53:53.99,Default2,,0000,0000,0000,,Sir, strictly speaking, he's a victim.
+Dialogue: 0,0:53:54.20,0:53:57.53,Default2,,0000,0000,0000,,Can I speak to him before the operation?
+Dialogue: 0,0:53:58.45,0:54:00.99,Default2,,0000,0000,0000,,Back then, he might have been a victim.
+Dialogue: 0,0:54:01.00,0:54:02.53,Default2,,0000,0000,0000,,But today,
+Dialogue: 0,0:54:02.87,0:54:05.16,Default2,,0000,0000,0000,,you have no idea what he has become.
+Dialogue: 0,0:54:05.50,0:54:08.99,Default2,,0000,0000,0000,,If you're soft with him,.will he reciprocate?
+Dialogue: 0,0:54:10.08,0:54:12.36,Default2,,0000,0000,0000,,Sir, he must have his reasons.
+Dialogue: 0,0:54:12.83,0:54:14.69,Default2,,0000,0000,0000,,He took bullets for me in Myanmar.
+Dialogue: 0,0:54:17.16,0:54:19.20,Default2,,0000,0000,0000,,The other day when he fired those shots,
+Dialogue: 0,0:54:22.33,0:54:23.53,Default2,,0000,0000,0000,,he aimed to miss.
+Dialogue: 0,0:54:23.83,0:54:25.16,Default2,,0000,0000,0000,,He didn't know they were blanks.
+Dialogue: 0,0:54:25.62,0:54:27.99,Default2,,0000,0000,0000,,I think he never intended to kill me.
+Dialogue: 0,0:54:30.87,0:54:31.87,Default2,,0000,0000,0000,,Ok!
+Dialogue: 0,0:54:33.12,0:54:34.41,Default2,,0000,0000,0000,,5 minutes.
+Dialogue: 0,0:54:34.41,0:54:37.28,Default2,,0000,0000,0000,,Leung sir will breach in 5 minutes.
+Dialogue: 0,0:54:37.75,0:54:39.28,Default2,,0000,0000,0000,,Yes, sir! Thank you, sir!
+Dialogue: 0,0:54:43.41,0:54:44.95,Default2,,0000,0000,0000,,Follow your orders.
+Dialogue: 0,0:55:03.37,0:55:04.37,Default2,,0000,0000,0000,,Do you still play this?
+Dialogue: 0,0:55:11.12,0:55:13.99,Default2,,0000,0000,0000,,Yiu ho yee, the hard disk. Name your price.
+Dialogue: 0,0:55:15.75,0:55:17.11,Default2,,0000,0000,0000,,When we were little,
+Dialogue: 0,0:55:17.45,0:55:18.86,Default2,,0000,0000,0000,,inside the orphanage,
+Dialogue: 0,0:55:18.87,0:55:20.31,Default2,,0000,0000,0000,,we were great with the rubik's cube.
+Dialogue: 0,0:55:20.54,0:55:23.49,Default2,,0000,0000,0000,,We were naughty and the teachers hated us.
+Dialogue: 0,0:55:23.50,0:55:25.36,Default2,,0000,0000,0000,,But they also knew we were smart.
+Dialogue: 0,0:55:25.37,0:55:27.08,Default2,,0000,0000,0000,,It drove them crazy.
+Dialogue: 0,0:55:28.37,0:55:29.78,Default2,,0000,0000,0000,,Don't try my Patience.
+Dialogue: 0,0:55:36.41,0:55:38.57,Default2,,0000,0000,0000,,This is your file.
+Dialogue: 0,0:55:42.62,0:55:44.86,Default2,,0000,0000,0000,,We have been apart for so long,
+Dialogue: 0,0:55:46.79,0:55:48.57,Default2,,0000,0000,0000,,many things have become fuzzy.
+Dialogue: 0,0:55:51.41,0:55:52.70,Default2,,0000,0000,0000,,I only remember
+Dialogue: 0,0:55:53.79,0:55:55.99,Default2,,0000,0000,0000,,the way you laughed when you were happy.
+Dialogue: 0,0:55:58.62,0:56:00.33,Default2,,0000,0000,0000,,He's an old friend?!
+Dialogue: 0,0:56:00.75,0:56:03.20,Default2,,0000,0000,0000,,Sounds like he wants to catch up.
+Dialogue: 0,0:56:05.91,0:56:07.49,Default2,,0000,0000,0000,,First you tell me you want money.
+Dialogue: 0,0:56:07.50,0:56:09.11,Default2,,0000,0000,0000,,Now you talk about the good ole' days.
+Dialogue: 0,0:56:09.12,0:56:10.36,Default2,,0000,0000,0000,,Make up your mind.
+Dialogue: 0,0:56:10.79,0:56:12.12,Default2,,0000,0000,0000,,We're running out of time.
+Dialogue: 0,0:56:12.12,0:56:14.66,Default2,,0000,0000,0000,,Tsai, let me help you.
+Dialogue: 0,0:56:16.12,0:56:17.12,Default2,,0000,0000,0000,,Name your price.
+Dialogue: 0,0:56:20.83,0:56:23.16,Default2,,0000,0000,0000,,Ching sir, your boss from cib is here.
+Dialogue: 0,0:56:28.70,0:56:29.66,Default2,,0000,0000,0000,,"Private number"
+Dialogue: 0,0:56:29.66,0:56:31.20,Default2,,0000,0000,0000,,"I am ching sir's snitch."
+Dialogue: 0,0:56:31.20,0:56:33.49,Default2,,0000,0000,0000,,"03:00 cheung sha wan cooked food market"
+Dialogue: 0,0:57:02.95,0:57:05.87,Default2,,0000,0000,0000,,I'm so happy to see you both.
+Dialogue: 0,0:57:06.37,0:57:11.44,Default2,,0000,0000,0000,,To, I thought I got you killed.
+Dialogue: 0,0:57:11.75,0:57:14.20,Default2,,0000,0000,0000,,Seeing you alive and in one piece,
+Dialogue: 0,0:57:14.20,0:57:16.03,Default2,,0000,0000,0000,,I'm so relieved.
+Dialogue: 0,0:57:20.66,0:57:21.70,Default2,,0000,0000,0000,,And you, Cheng!
+Dialogue: 0,0:57:22.50,0:57:25.24,Default2,,0000,0000,0000,,I thought you were kidnapped by terrorists.
+Dialogue: 0,0:57:25.25,0:57:27.61,Default2,,0000,0000,0000,,When in fact you had a date.
+Dialogue: 0,0:57:31.20,0:57:32.66,Default2,,0000,0000,0000,,Care to share this happy occasion with me?
+Dialogue: 0,0:57:32.66,0:57:34.45,Default2,,0000,0000,0000,,Care to share this happy occasion with me?
+Dialogue: 0,0:57:34.66,0:57:36.57,Default2,,0000,0000,0000,,I will tell you what you want to know.
+Dialogue: 0,0:57:37.08,0:57:38.44,Default2,,0000,0000,0000,,But right now, you need to leave.
+Dialogue: 0,0:57:43.83,0:57:46.24,Default2,,0000,0000,0000,,You said I'm your shifu, right?
+Dialogue: 0,0:57:47.37,0:57:50.91,Default2,,0000,0000,0000,,But your snitch knows more than I do.
+Dialogue: 0,0:57:51.41,0:57:53.45,Default2,,0000,0000,0000,,Should I answer you when you call me shifu?
+Dialogue: 0,0:57:59.41,0:58:00.87,Default2,,0000,0000,0000,,Cheng, do you know what people said
+Dialogue: 0,0:58:00.87,0:58:03.33,Default2,,0000,0000,0000,,about you behind your back?
+Dialogue: 0,0:58:05.45,0:58:07.28,Default2,,0000,0000,0000,,But you still have my vote.
+Dialogue: 0,0:58:09.37,0:58:11.78,Default2,,0000,0000,0000,,You think I suspect you both?
+Dialogue: 0,0:58:14.62,0:58:15.62,Default2,,0000,0000,0000,,No!
+Dialogue: 0,0:58:16.33,0:58:17.33,Default2,,0000,0000,0000,,The answer is no!
+Dialogue: 0,0:58:18.87,0:58:21.28,Default2,,0000,0000,0000,,Because I trained both of you.
+Dialogue: 0,0:58:21.79,0:58:24.12,Default2,,0000,0000,0000,,If I had doubts about either of you,
+Dialogue: 0,0:58:24.95,0:58:26.94,Default2,,0000,0000,0000,,then I must be a complete failure.
+Dialogue: 0,0:58:28.95,0:58:30.36,Default2,,0000,0000,0000,,But the fact is,
+Dialogue: 0,0:58:31.50,0:58:33.03,Default2,,0000,0000,0000,,I am a failure.
+Dialogue: 0,0:58:44.50,0:58:46.03,Default2,,0000,0000,0000,,Suspicious character at exit a.
+Dialogue: 0,0:58:46.04,0:58:47.65,Default2,,0000,0000,0000,,3 more at exit c.
+Dialogue: 0,0:58:47.66,0:58:48.70,Default2,,0000,0000,0000,,All teams regroup.
+Dialogue: 0,0:58:48.70,0:58:50.11,Default2,,0000,0000,0000,,If you have nothing to say,
+Dialogue: 0,0:58:50.12,0:58:52.16,Default2,,0000,0000,0000,,call the boys
+Dialogue: 0,0:58:52.16,0:58:53.65,Default2,,0000,0000,0000,,and we'll celebrate.
+Dialogue: 0,0:58:53.66,0:58:54.32,Default2,,0000,0000,0000,,No thanks.
+Dialogue: 0,0:58:54.33,0:58:55.36,Default2,,0000,0000,0000,,You should leave.
+Dialogue: 0,0:58:56.54,0:58:58.03,Default2,,0000,0000,0000,,I told you to leave!
+Dialogue: 0,0:58:58.20,0:58:59.82,Default2,,0000,0000,0000,,Time to say goodbye.
+Dialogue: 0,0:58:59.95,0:59:01.66,Default2,,0000,0000,0000,,Make ching to kill him.
+Dialogue: 0,0:59:03.00,0:59:04.16,Default2,,0000,0000,0000,,Kill him!
+Dialogue: 0,0:59:05.41,0:59:06.28,Default2,,0000,0000,0000,,Are you nuts?
+Dialogue: 0,0:59:06.29,0:59:09.32,Default2,,0000,0000,0000,,Tell him you'll trade if he takes him out.
+Dialogue: 0,1:00:15.08,1:00:16.08,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,1:01:38.37,1:01:39.53,Default2,,0000,0000,0000,,Put pressure on it.
+Dialogue: 0,1:01:39.75,1:01:40.78,Default2,,0000,0000,0000,,Press!
+Dialogue: 0,1:01:43.91,1:01:45.49,Default2,,0000,0000,0000,,Is this an operation?
+Dialogue: 0,1:02:06.87,1:02:07.87,Default2,,0000,0000,0000,,Yes!
+Dialogue: 0,1:02:08.75,1:02:10.28,Default2,,0000,0000,0000,,This is an operation.
+Dialogue: 0,1:02:33.41,1:02:36.58,Default2,,0000,0000,0000,,They want the swap in Spain.
+Dialogue: 0,1:02:36.58,1:02:38.36,Default2,,0000,0000,0000,,Ching sir will pose as the seller
+Dialogue: 0,1:02:38.37,1:02:39.66,Default2,,0000,0000,0000,,and hand over yiu ho yee.
+Dialogue: 0,1:02:40.12,1:02:43.49,Default2,,0000,0000,0000,,The local g.E.O. Will back us up.
+Dialogue: 0,1:02:43.50,1:02:45.16,Default2,,0000,0000,0000,,We'll split into 3 teams.
+Dialogue: 0,1:02:45.20,1:02:47.95,Default2,,0000,0000,0000,,A team, ching sir, Johnson and chi...
+Dialogue: 0,1:02:47.95,1:02:51.15,Default2,,0000,0000,0000,,B team, assault team and sniper team.
+Dialogue: 0,1:02:51.25,1:02:54.20,Default2,,0000,0000,0000,,C team, tech support and bg team.
+Dialogue: 0,1:02:54.20,1:02:56.36,Default2,,0000,0000,0000,,Leung sir, last night at 19:00,
+Dialogue: 0,1:02:56.37,1:02:58.03,Default2,,0000,0000,0000,,the nanny and Cheng chun yin's daughter
+Dialogue: 0,1:02:58.04,1:02:59.45,Default2,,0000,0000,0000,,left the flat with two men.
+Dialogue: 0,1:02:59.45,1:03:00.91,Default2,,0000,0000,0000,,She's probably still in Hong Kong.
+Dialogue: 0,1:03:00.91,1:03:02.47,Default2,,0000,0000,0000,,Keep looking. I need an exact location.
+Dialogue: 0,1:03:02.58,1:03:03.58,Default2,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,1:03:35.08,1:03:36.08,Default2,,0000,0000,0000,,It's Mr. tung.
+Dialogue: 0,1:03:38.45,1:03:39.45,Default2,,0000,0000,0000,,Yes?
+Dialogue: 0,1:03:40.12,1:03:42.53,Default2,,0000,0000,0000,,We still don't know ching to's motive,
+Dialogue: 0,1:03:43.16,1:03:46.53,Default2,,0000,0000,0000,,but I think he's tied.to the Hong Kong police
+Dialogue: 0,1:03:46.54,1:03:48.20,Default2,,0000,0000,0000,,don't underestimate him.
+Dialogue: 0,1:03:48.20,1:03:49.20,Default2,,0000,0000,0000,,Yes.
+Dialogue: 0,1:03:49.91,1:03:51.28,Default2,,0000,0000,0000,,Mr. tung!
+Dialogue: 0,1:03:51.29,1:03:52.29,Default2,,0000,0000,0000,,Yes?
+Dialogue: 0,1:03:55.41,1:03:56.62,Default2,,0000,0000,0000,,It has been 5 years.
+Dialogue: 0,1:03:57.75,1:03:59.86,Default2,,0000,0000,0000,,When can I leave with my daughter?
+Dialogue: 0,1:03:59.87,1:04:02.28,Default2,,0000,0000,0000,,The nerve of you to bring that up!
+Dialogue: 0,1:04:03.70,1:04:05.66,Default2,,0000,0000,0000,,We made you an sp
+Dialogue: 0,1:04:05.66,1:04:07.78,Default2,,0000,0000,0000,,and invested so much resources in you.
+Dialogue: 0,1:04:07.79,1:04:09.70,Default2,,0000,0000,0000,,What have you done for us?
+Dialogue: 0,1:04:09.91,1:04:11.74,Default2,,0000,0000,0000,,Now you even blew your cover.
+Dialogue: 0,1:04:12.16,1:04:14.15,Default2,,0000,0000,0000,,We still won't give up on you,
+Dialogue: 0,1:04:14.16,1:04:16.12,Default2,,0000,0000,0000,,but will help you start over.
+Dialogue: 0,1:04:16.12,1:04:17.45,Default2,,0000,0000,0000,,Have you considered how much
+Dialogue: 0,1:04:18.29,1:04:22.28,Default2,,0000,0000,0000,,time and resources were wasted on you?
+Dialogue: 0,1:04:22.29,1:04:25.70,Default2,,0000,0000,0000,,Never bring up leaving again.
+Dialogue: 0,1:04:26.20,1:04:27.53,Default2,,0000,0000,0000,,Do you and your daughter
+Dialogue: 0,1:04:27.95,1:04:29.99,Default2,,0000,0000,0000,,want the gifts we have given you?
+Dialogue: 0,1:04:41.16,1:04:42.16,Default2,,0000,0000,0000,,Yes!
+Dialogue: 0,1:04:42.41,1:04:43.57,Default2,,0000,0000,0000,,Very good!
+Dialogue: 0,1:05:28.00,1:05:29.49,Default2,,0000,0000,0000,,This specialty from the Philippines,
+Dialogue: 0,1:05:29.50,1:05:31.11,Default2,,0000,0000,0000,,is part of my childhood memory.
+Dialogue: 0,1:05:32.20,1:05:34.99,Default2,,0000,0000,0000,,Have a candy. Sugar can help you relax.
+Dialogue: 0,1:05:38.75,1:05:40.49,Default2,,0000,0000,0000,,Thanks for risking your life to help us.
+Dialogue: 0,1:05:42.95,1:05:44.49,Default2,,0000,0000,0000,,I should say,
+Dialogue: 0,1:05:47.37,1:05:49.03,Default2,,0000,0000,0000,,I have waited too long for this.
+Dialogue: 0,1:05:57.25,1:05:58.45,Default2,,0000,0000,0000,,If you have doubts,
+Dialogue: 0,1:05:59.16,1:06:00.32,Default2,,0000,0000,0000,,it's not too late to say no.
+Dialogue: 0,1:06:03.79,1:06:04.87,Default2,,0000,0000,0000,,Don't worry,
+Dialogue: 0,1:06:05.62,1:06:08.24,Default2,,0000,0000,0000,,my sister will be watching over me.
+Dialogue: 0,1:06:10.37,1:06:12.08,Default2,,0000,0000,0000,,I'm well prepared for this.
+Dialogue: 0,1:06:40.62,1:06:43.03,Default2,,0000,0000,0000,,Mr. tung, we've got the location.
+Dialogue: 0,1:06:48.29,1:06:49.62,Default2,,0000,0000,0000,,Target's locked.
+Dialogue: 0,1:07:24.54,1:07:26.07,Default2,,0000,0000,0000,,C team, ready?
+Dialogue: 0,1:07:26.58,1:07:27.58,Default2,,0000,0000,0000,,In position.
+Dialogue: 0,1:07:27.62,1:07:29.33,Default2,,0000,0000,0000,,Ok, wait for your order over there.
+Dialogue: 0,1:08:26.00,1:08:28.08,Default2,,0000,0000,0000,,Ching sir, 9 o'clock.
+Dialogue: 0,1:08:28.91,1:08:30.24,Default2,,0000,0000,0000,,5 o'clock.
+Dialogue: 0,1:08:30.25,1:08:31.74,Default2,,0000,0000,0000,,Two targets at 3 o'clock.
+Dialogue: 0,1:08:31.75,1:08:32.86,Default2,,0000,0000,0000,,10 o'clock.
+Dialogue: 0,1:08:44.41,1:08:46.45,Default2,,0000,0000,0000,,Mr. tung, he's here.
+Dialogue: 0,1:08:46.91,1:08:48.03,Default2,,0000,0000,0000,,Any minute now.
+Dialogue: 0,1:08:48.62,1:08:49.78,Default2,,0000,0000,0000,,I'll give you half the money.
+Dialogue: 0,1:08:50.95,1:08:52.74,Default2,,0000,0000,0000,,You killed my buddy.
+Dialogue: 0,1:08:53.20,1:08:54.78,Default2,,0000,0000,0000,,That made me very upset.
+Dialogue: 0,1:08:55.91,1:08:57.20,Default2,,0000,0000,0000,,It's now a different deal.
+Dialogue: 0,1:08:57.75,1:08:59.24,Default2,,0000,0000,0000,,Your life is part of the package.
+Dialogue: 0,1:09:04.95,1:09:06.07,Default2,,0000,0000,0000,,Sorry!
+Dialogue: 0,1:09:08.91,1:09:09.95,Default2,,0000,0000,0000,,I can't help you.
+Dialogue: 0,1:09:11.20,1:09:13.95,Default2,,0000,0000,0000,,Demon, give him the other phone.
+Dialogue: 0,1:09:18.12,1:09:19.03,Default2,,0000,0000,0000,,Talk to me.
+Dialogue: 0,1:09:19.04,1:09:21.28,Default2,,0000,0000,0000,,You have no right to settle the score.
+Dialogue: 0,1:09:22.16,1:09:24.87,Default2,,0000,0000,0000,,I don't? I'll drop the phone now,
+Dialogue: 0,1:09:24.87,1:09:28.11,Default2,,0000,0000,0000,,and talk to you after I ride on a bull.
+Dialogue: 0,1:09:30.12,1:09:31.24,Default2,,0000,0000,0000,,You want to play games?
+Dialogue: 0,1:09:31.25,1:09:32.61,Default2,,0000,0000,0000,,I'm happy to oblige.
+Dialogue: 0,1:09:33.25,1:09:36.28,Default2,,0000,0000,0000,,If you don't hand over yiu ho yee, fine!
+Dialogue: 0,1:09:36.66,1:09:38.32,Default2,,0000,0000,0000,,I'll make Hong Kong foot the bill.
+Dialogue: 0,1:09:38.62,1:09:40.95,Default2,,0000,0000,0000,,I'm partial to deadly games.
+Dialogue: 0,1:09:44.79,1:09:46.87,Default2,,0000,0000,0000,,Apart from this one, there are three more.
+Dialogue: 0,1:09:47.12,1:09:48.61,Default2,,0000,0000,0000,,All set to go off during rush hour.
+Dialogue: 0,1:09:48.62,1:09:51.45,Default2,,0000,0000,0000,,Boom! Boom! Boom!
+Dialogue: 0,1:09:59.20,1:10:02.45,Default2,,0000,0000,0000,,If you don't work for the Hong Kong police,
+Dialogue: 0,1:10:02.45,1:10:04.32,Default2,,0000,0000,0000,,you don't give a damn.
+Dialogue: 0,1:10:04.33,1:10:06.99,Default2,,0000,0000,0000,,Looks like you have tricks up your sleeves.
+Dialogue: 0,1:10:07.33,1:10:09.61,Default2,,0000,0000,0000,,Yes, I can call off the trade.
+Dialogue: 0,1:10:09.62,1:10:11.24,Default2,,0000,0000,0000,,Demon, Cheng, leave!
+Dialogue: 0,1:10:16.12,1:10:19.24,Default2,,0000,0000,0000,,Fine! You better not grovel on your knees.
+Dialogue: 0,1:10:22.37,1:10:25.69,Default2,,0000,0000,0000,,You think you can pull a.fast one in the tunnel?
+Dialogue: 0,1:10:26.87,1:10:28.78,Default2,,0000,0000,0000,,You can't fool me.
+Dialogue: 0,1:10:45.29,1:10:46.74,Default2,,0000,0000,0000,,Target's locked.
+Dialogue: 0,1:11:03.37,1:11:05.08,Default2,,0000,0000,0000,,You have no bargaining chip.
+Dialogue: 0,1:11:08.00,1:11:10.83,Default2,,0000,0000,0000,,I solved all the problems.
+Dialogue: 0,1:11:30.20,1:11:32.41,Default2,,0000,0000,0000,,System unlocked. Restoring.
+Dialogue: 0,1:11:36.33,1:11:39.12,Default2,,0000,0000,0000,,If you wish to kneel, there's still time.
+Dialogue: 0,1:12:35.83,1:12:36.82,Default2,,0000,0000,0000,,Restoring failed.
+Dialogue: 0,1:12:36.83,1:12:39.11,Default2,,0000,0000,0000,,Someone is hacking in at ultra high speed.
+Dialogue: 0,1:12:43.12,1:12:46.11,Default2,,0000,0000,0000,,Exit point at your 12 o'clock, 800m away.
+Dialogue: 0,1:12:50.33,1:12:51.78,Default2,,0000,0000,0000,,You wanted to call it off.
+Dialogue: 0,1:12:51.79,1:12:53.24,Default2,,0000,0000,0000,,Now you want to continue?
+Dialogue: 0,1:12:53.75,1:12:55.91,Default2,,0000,0000,0000,,You think you have the real yiu ho yee?
+Dialogue: 0,1:13:11.25,1:13:12.83,Default2,,0000,0000,0000,,C team, ready?
+Dialogue: 0,1:13:12.83,1:13:13.41,Default2,,0000,0000,0000,,In position.
+Dialogue: 0,1:13:13.41,1:13:15.32,Default2,,0000,0000,0000,,Ok, wait for your order over there.
+Dialogue: 0,1:13:15.58,1:13:16.58,Default2,,0000,0000,0000,,Roger.
+Dialogue: 0,1:13:19.33,1:13:22.29,Default2,,0000,0000,0000,,The real one is viewing your secrets.
+Dialogue: 0,1:13:33.08,1:13:36.53,Default2,,0000,0000,0000,,Didn't you notice a blip on your monitors?
+Dialogue: 0,1:13:44.58,1:13:45.74,Default2,,0000,0000,0000,,During the blip,
+Dialogue: 0,1:13:45.75,1:13:48.28,Default2,,0000,0000,0000,,we inserted a pre-recorded visual.
+Dialogue: 0,1:13:53.41,1:13:56.95,Default2,,0000,0000,0000,,You thugs are too dead to play the endgame.
+Dialogue: 0,1:14:04.25,1:14:05.41,Default2,,0000,0000,0000,,Still don't get it?
+Dialogue: 0,1:14:05.41,1:14:07.90,Default2,,0000,0000,0000,,The Iris scan didn't unlock anything.
+Dialogue: 0,1:14:07.91,1:14:10.40,Default2,,0000,0000,0000,,It's in fact, another virus.
+Dialogue: 0,1:14:13.87,1:14:15.20,Default2,,0000,0000,0000,,Kill the girl!
+Dialogue: 0,1:14:16.58,1:14:18.74,Default2,,0000,0000,0000,,Ching sir, I found the bombs.
+Dialogue: 0,1:14:18.75,1:14:20.41,Default2,,0000,0000,0000,,I can track them to their base.
+Dialogue: 0,1:14:31.50,1:14:34.08,Default2,,0000,0000,0000,,Armor integrity 15%. Evacuate...
+Dialogue: 0,1:14:34.08,1:14:35.57,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,1:14:39.25,1:14:40.25,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,1:14:55.37,1:14:57.16,Default2,,0000,0000,0000,,Run, ho yee! Go!
+Dialogue: 0,1:14:57.16,1:14:59.03,Default2,,0000,0000,0000,,Sis, help me!
+Dialogue: 0,1:15:14.41,1:15:18.78,Default2,,0000,0000,0000,,Armor integrity 5%. Evacuate...
+Dialogue: 0,1:15:26.20,1:15:30.57,Default2,,0000,0000,0000,,Armor integrity 3%. Evacuate...
+Dialogue: 0,1:15:32.20,1:15:33.69,Default2,,0000,0000,0000,,Their base is not in Spain.
+Dialogue: 0,1:15:33.70,1:15:36.19,Default2,,0000,0000,0000,,It's in Hong Kong...!
+Dialogue: 0,1:15:39.00,1:15:40.49,Default2,,0000,0000,0000,,Call ctru!
+Dialogue: 0,1:15:52.45,1:15:56.82,Default2,,0000,0000,0000,,Armor integrity 1%. Evacuate...
+Dialogue: 0,1:16:16.50,1:16:19.36,Default2,,0000,0000,0000,,Police! Freeze!
+Dialogue: 0,1:16:28.08,1:16:31.15,Default2,,0000,0000,0000,,There's a bomb! Clear out!
+Dialogue: 0,1:16:31.87,1:16:34.74,Default2,,0000,0000,0000,,Demon, Cheng!
+Dialogue: 0,1:16:35.50,1:16:37.08,Default2,,0000,0000,0000,,Kill that cop!
+Dialogue: 0,1:17:21.87,1:17:23.53,Default2,,0000,0000,0000,,W-a-l-l
+Dialogue: 0,1:18:03.75,1:18:04.75,Default2,,0000,0000,0000,,Reload!
+Dialogue: 0,1:18:06.95,1:18:07.95,Default2,,0000,0000,0000,,Go!
+Dialogue: 0,1:18:56.29,1:18:57.78,Default2,,0000,0000,0000,,Destroy the system.
+Dialogue: 0,1:24:15.66,1:24:17.32,Default2,,0000,0000,0000,,Your daughter is safe.
+Dialogue: 0,1:24:24.79,1:24:27.75,Default2,,0000,0000,0000,,Don't be afraid. I'm a policeman..Come here.
+Dialogue: 0,1:24:37.04,1:24:38.78,Default2,,0000,0000,0000,,After all these years,
+Dialogue: 0,1:24:40.62,1:24:42.70,Default2,,0000,0000,0000,,this is the only thing I can do for you.
+Dialogue: 0,1:24:45.04,1:24:47.07,Default2,,0000,0000,0000,,For 30 years, you took the heat for me.
+Dialogue: 0,1:24:52.12,1:24:56.07,Default2,,0000,0000,0000,,If you hadn't come back for me,
+Dialogue: 0,1:24:56.95,1:24:58.61,Default2,,0000,0000,0000,,the one they have taken
+Dialogue: 0,1:24:59.33,1:25:00.66,Default2,,0000,0000,0000,,should have been me.
+Dialogue: 0,1:25:05.79,1:25:07.24,Default2,,0000,0000,0000,,All these years...
+Dialogue: 0,1:25:10.79,1:25:12.57,Default2,,0000,0000,0000,,How could you stand it?
+Dialogue: 0,1:25:14.54,1:25:16.12,Default2,,0000,0000,0000,,How could you?
+Dialogue: 0,1:25:33.66,1:25:35.07,Default2,,0000,0000,0000,,Dee,
+Dialogue: 0,1:25:36.08,1:25:37.24,Default2,,0000,0000,0000,,it's ok.
+Dialogue: 0,1:25:38.83,1:25:40.07,Default2,,0000,0000,0000,,It's over.
+Dialogue: 0,1:25:41.75,1:25:42.91,Default2,,0000,0000,0000,,It's ok.
+Dialogue: 0,1:25:50.75,1:25:51.99,Default2,,0000,0000,0000,,We're brothers.
+Dialogue: 0,1:25:53.29,1:25:54.95,Default2,,0000,0000,0000,,Whatever I still owe you,
+Dialogue: 0,1:25:55.66,1:25:57.28,Default2,,0000,0000,0000,,in the next life...
+Dialogue: 0,1:27:46.08,1:27:49.95,Default2,,0000,0000,0000,,Come on... didn't you.want to save your pal?
+Dialogue: 0,1:28:03.04,1:28:04.37,Default2,,0000,0000,0000,,Dee,
+Dialogue: 0,1:28:06.54,1:28:08.03,Default2,,0000,0000,0000,,see you around.
+Dialogue: 0,1:28:26.12,1:28:27.12,Default2,,0000,0000,0000,,Let go!
+Dialogue: 0,1:28:27.25,1:28:28.25,Default2,,0000,0000,0000,,Let go!
+Dialogue: 0,1:28:28.66,1:28:29.74,Default2,,0000,0000,0000,,Let go!
+Dialogue: 0,1:29:44.08,1:29:51.23,Default2,,0000,0000,0000,,"The loner dwells on memories"
+Dialogue: 0,1:29:51.83,1:29:58.48,Default2,,0000,0000,0000,,"drifting around like a segment of a story"
+Dialogue: 0,1:29:59.66,1:30:06.11,Default2,,0000,0000,0000,,"a promise concealed in time"
+Dialogue: 0,1:30:07.54,1:30:11.11,Default2,,0000,0000,0000,,"condensed into Amber after many years"
+Dialogue: 0,1:30:11.12,1:30:13.86,Default2,,0000,0000,0000,,3 months ago, in Spain and the Philippines
+Dialogue: 0,1:30:13.87,1:30:15.78,Default2,,0000,0000,0000,,interpol busted many child soldier camps.
+Dialogue: 0,1:30:15.79,1:30:17.82,Default2,,0000,0000,0000,,Children rescued from these camps
+Dialogue: 0,1:30:17.83,1:30:19.36,Default2,,0000,0000,0000,,have been moved to local orphanages.
+Dialogue: 0,1:30:19.37,1:30:25.74,Default2,,0000,0000,0000,,"One must pay one's debt"
+Dialogue: 0,1:30:27.20,1:30:33.57,Default2,,0000,0000,0000,,"may those apart find what they want."
+Dialogue: 0,1:30:35.04,1:30:41.44,Default2,,0000,0000,0000,,"I loved regrets, I have no regrets."
+Dialogue: 0,1:30:42.87,1:30:50.40,Default2,,0000,0000,0000,,"The longing I have is silent"
+Dialogue: 0,1:30:54.75,1:31:01.82,Default2,,0000,0000,0000,,"ll hope we don't have to ask why"
+Dialogue: 0,1:31:02.58,1:31:10.16,Default2,,0000,0000,0000,,"who knows why things come and go"
+Dialogue: 0,1:31:10.54,1:31:17.41,Default2,,0000,0000,0000,,"ll hope we can be happy"
+Dialogue: 0,1:31:18.08,1:31:25.83,Default2,,0000,0000,0000,,"so we won't waste our encounter"
+Dialogue: 0,1:31:30.66,1:31:38.03,Default2,,0000,0000,0000,,"time is like a train,.we're like passengers.”
+Dialogue: 0,1:31:38.50,1:31:45.82,Default2,,0000,0000,0000,,"The most beautiful part.is we were together."
+Dialogue: 0,0:00:02.71,0:00:15.11,Default,,0000,0000,0000,,烧猪乐园：禽兽村【王少柱】制作
+Dialogue: 0,0:02:03.91,0:02:07.33,Default,,0000,0000,0000,,（孤儿院）
+Dialogue: 0,0:02:15.87,0:02:17.33,Default,,0000,0000,0000,,（奀仔)
+Dialogue: 0,0:02:22.29,0:02:24.37,Default,,0000,0000,0000,,准备，开始
+Dialogue: 0,0:02:31.04,0:02:32.62,Default,,0000,0000,0000,,3 9秒
+Dialogue: 0,0:02:42.62,0:02:44.37,Default,,0000,0000,0000,,（阿Dee)
+Dialogue: 0,0:02:44.41,0:02:46.00,Default,,0000,0000,0000,,准备，开始
+Dialogue: 0,0:02:52.50,0:02:54.29,Default,,0000,0000,0000,,准备，开始
+Dialogue: 0,0:03:24.62,0:03:26.00,Default,,0000,0000,0000,,准备，开始
+Dialogue: 0,0:03:54.95,0:03:57.50,Default,,0000,0000,0000,,奀仔，我的就是你的
+Dialogue: 0,0:03:57.50,0:03:59.83,Default,,0000,0000,0000,,你的就是我的，拿！
+Dialogue: 0,0:04:00.25,0:04:01.16,Default,,0000,0000,0000,,多谢
+Dialogue: 0,0:04:04.62,0:04:07.37,Default,,0000,0000,0000,,奀仔，你拼的？
+Dialogue: 0,0:04:07.62,0:04:08.62,Default,,0000,0000,0000,,嗯
+Dialogue: 0,0:04:14.37,0:04:16.41,Default,,0000,0000,0000,,喂，为什么抢我的糖
+Dialogue: 0,0:04:16.70,0:04:18.00,Default,,0000,0000,0000,,不行啊？
+Dialogue: 0,0:04:52.20,0:04:54.41,Default,,0000,0000,0000,,奀仔，救命呀
+Dialogue: 0,0:04:54.79,0:04:56.08,Default,,0000,0000,0000,,救命呀
+Dialogue: 0,0:04:56.25,0:04:57.41,Default,,0000,0000,0000,,阿Dee
+Dialogue: 0,0:05:09.54,0:05:10.62,Default,,0000,0000,0000,,奀仔
+Dialogue: 0,0:07:28.83,0:07:29.95,Default,,0000,0000,0000,,警察，落车
+Dialogue: 0,0:07:43.58,0:07:46.54,Default,,0000,0000,0000,,今日中午，在闹市发生私家车撞向人群
+Dialogue: 0,0:07:46.54,0:07:48.75,Default,,0000,0000,0000,,至今已造成五死十八伤
+Dialogue: 0,0:07:48.75,0:07:50.25,Default,,0000,0000,0000,,警方证实涉案司机
+Dialogue: 0,0:07:50.29,0:07:52.58,Default,,0000,0000,0000,,为上市公司主席廖国能
+Dialogue: 0,0:07:52.58,0:07:53.95,Default,,0000,0000,0000,,现场有市民拍到
+Dialogue: 0,0:07:53.95,0:07:56.91,Default,,0000,0000,0000,,廖国能以高速撞向横过马路的途人
+Dialogue: 0,0:07:56.91,0:08:00.12,Default,,0000,0000,0000,,之后再撞向迎头的旅游巴士才停下
+Dialogue: 0,0:08:00.12,0:08:02.29,Default,,0000,0000,0000,,出事后，廖国能以一把界刀
+Dialogue: 0,0:08:02.29,0:08:04.58,Default,,0000,0000,0000,,割向自已颈部大动脉自杀
+Dialogue: 0,0:08:04.58,0:08:05.95,Default,,0000,0000,0000,,其后证实死亡
+Dialogue: 0,0:08:05.95,0:08:08.20,Default,,0000,0000,0000,,警方已成立专案小组调查
+Dialogue: 0,0:08:08.33,0:08:12.16,Default,,0000,0000,0000,,有消息指，事发前曾有匿名人士与警方联络
+Dialogue: 0,0:08:12.16,0:08:14.37,Default,,0000,0000,0000,,预告上址将有事发生
+Dialogue: 0,0:08:14.37,0:08:15.87,Default,,0000,0000,0000,,今次是继本月初
+Dialogue: 0,0:08:15.87,0:08:18.33,Default,,0000,0000,0000,,「大埔重型货车撞人事件」之后
+Dialogue: 0,0:08:18.33,0:08:20.04,Default,,0000,0000,0000,,第二宗严重车祸
+Dialogue: 0,0:08:20.04,0:08:21.37,Default,,0000,0000,0000,,两宗车祸同样有
+Dialogue: 0,0:08:21.37,0:08:23.79,Default,,0000,0000,0000,,匿名人士曾与警方联络
+Dialogue: 0,0:08:27.91,0:08:28.83,Default,,0000,0000,0000,,喂，阿Bill？
+Dialogue: 0,0:08:28.91,0:08:31.12,Default,,0000,0000,0000,,我刚刚看完新闻了，真的全被你猜中
+Dialogue: 0,0:08:31.12,0:08:33.33,Default,,0000,0000,0000,,如果可以早点破解档案的话
+Dialogue: 0,0:08:33.33,0:08:34.66,Default,,0000,0000,0000,,就不用死这么多人
+Dialogue: 0,0:08:34.66,0:08:36.33,Default,,0000,0000,0000,,那老板，我们拿着这些数据
+Dialogue: 0,0:08:36.33,0:08:37.62,Default,,0000,0000,0000,,现在该怎么办？
+Dialogue: 0,0:08:38.37,0:08:39.50,Default,,0000,0000,0000,,我要自已查下去
+Dialogue: 0,0:08:39.50,0:08:40.62,Default,,0000,0000,0000,,但这事太大了
+Dialogue: 0,0:08:40.62,0:08:42.20,Default,,0000,0000,0000,,我们骇到的不是普通料
+Dialogue: 0,0:08:42.20,0:08:44.12,Default,,0000,0000,0000,,可能是特工集团的料
+Dialogue: 0,0:08:46.83,0:08:48.08,Default,,0000,0000,0000,,Bill，保住档案
+Dialogue: 0,0:08:50.25,0:08:52.20,Default,,0000,0000,0000,,喂?
+Dialogue: 0,0:09:38.29,0:09:40.87,Default,,0000,0000,0000,,别怕，我是警察
+Dialogue: 0,0:09:55.04,0:09:56.37,Default,,0000,0000,0000,,停车，开门
+Dialogue: 0,0:09:56.37,0:09:58.00,Default,,0000,0000,0000,,有炸弹，不能停车
+Dialogue: 0,0:09:59.95,0:10:01.50,Default,,0000,0000,0000,,监控室，程滔位置？
+Dialogue: 0,0:10:02.00,0:10:04.37,Default,,0000,0000,0000,,程Sir在2S巴士上，上了东九龙走廊
+Dialogue: 0,0:10:04.37,0:10:05.29,Default,,0000,0000,0000,,好
+Dialogue: 0,0:10:13.62,0:10:15.37,Default,,0000,0000,0000,,有两辆可疑车辆追着目标
+Dialogue: 0,0:10:29.29,0:10:31.00,Default,,0000,0000,0000,,阿滔，到位
+Dialogue: 0,0:10:34.41,0:10:35.25,Default,,0000,0000,0000,,跳过去
+Dialogue: 0,0:10:35.45,0:10:36.29,Default,,0000,0000,0000,,不跳
+Dialogue: 0,0:10:38.75,0:10:40.29,Default,,0000,0000,0000,,可疑车辆从后方追上来了
+Dialogue: 0,0:10:40.95,0:10:41.75,Default,,0000,0000,0000,,你听我说
+Dialogue: 0,0:10:41.75,0:10:43.70,Default,,0000,0000,0000,,我数一二三，我们一起跳出去
+Dialogue: 0,0:10:46.16,0:10:47.08,Default,,0000,0000,0000,,一
+Dialogue: 0,0:10:57.45,0:10:58.50,Default,,0000,0000,0000,,你玩我呀你
+Dialogue: 0,0:10:58.50,0:11:00.20,Default,,0000,0000,0000,,不是说好一二三再跳吗？
+Dialogue: 0,0:11:02.29,0:11:04.45,Default,,0000,0000,0000,,你知不知你跳下来真的很有型
+Dialogue: 0,0:11:05.20,0:11:08.12,Default,,0000,0000,0000,,叫了你订架直升机，可以再有型点
+Dialogue: 0,0:11:08.12,0:11:09.79,Default,,0000,0000,0000,,你以为你真的是汤告鲁斯？
+Dialogue: 0,0:11:10.37,0:11:13.25,Default,,0000,0000,0000,,你不也在装福山雅治吗？
+Dialogue: 0,0:11:16.79,0:11:19.08,Default,,0000,0000,0000,,姚可仪，独立记者？
+Dialogue: 0,0:11:19.08,0:11:21.45,Default,,0000,0000,0000,,记者只是你用来掩饰身份的
+Dialogue: 0,0:11:21.70,0:11:23.58,Default,,0000,0000,0000,,你在美国麻省理工大学毕业
+Dialogue: 0,0:11:23.58,0:11:25.79,Default,,0000,0000,0000,,修读电机工程和讯科学系
+Dialogue: 0,0:11:25.79,0:11:27.87,Default,,0000,0000,0000,,亦是一名新冒起的知名骇客
+Dialogue: 0,0:11:27.87,0:11:29.41,Default,,0000,0000,0000,,擅长编写恶意程式
+Dialogue: 0,0:11:29.70,0:11:32.08,Default,,0000,0000,0000,,2016年，你被美国警方拘捕
+Dialogue: 0,0:11:32.08,0:11:34.95,Default,,0000,0000,0000,,同年，美国国安局反征用你
+Dialogue: 0,0:11:34.95,0:11:36.87,Default,,0000,0000,0000,,撤销对你的所有控罪
+Dialogue: 0,0:11:38.08,0:11:41.50,Default,,0000,0000,0000,,我们也查到，在闹市车撞人事件发生之前
+Dialogue: 0,0:11:41.75,0:11:43.75,Default,,0000,0000,0000,,你在湾仔一家咖啡店上网
+Dialogue: 0,0:11:43.75,0:11:45.91,Default,,0000,0000,0000,,通知警方那里将会有事发生
+Dialogue: 0,0:11:45.91,0:11:47.91,Default,,0000,0000,0000,,你明知那边有很多闭路电视还要这么做
+Dialogue: 0,0:11:47.91,0:11:49.45,Default,,0000,0000,0000,,即是你也不想看到有人死
+Dialogue: 0,0:11:50.83,0:11:52.75,Default,,0000,0000,0000,,既然大家立场一致
+Dialogue: 0,0:11:52.95,0:11:54.00,Default,,0000,0000,0000,,为什么不合作？
+Dialogue: 0,0:11:54.20,0:11:56.75,Default,,0000,0000,0000,,如果你有证据扣留我的话，就扣留我
+Dialogue: 0,0:11:56.83,0:11:57.79,Default,,0000,0000,0000,,那不用了
+Dialogue: 0,0:11:58.16,0:11:59.66,Default,,0000,0000,0000,,你出去签个名便可以走
+Dialogue: 0,0:12:00.33,0:12:03.50,Default,,0000,0000,0000,,警方会向各大传媒公布你离开警察局的消息
+Dialogue: 0,0:12:04.20,0:12:06.04,Default,,0000,0000,0000,,我刚刚才被人追杀
+Dialogue: 0,0:12:06.04,0:12:07.66,Default,,0000,0000,0000,,就这么走出去，我死定了
+Dialogue: 0,0:12:07.66,0:12:09.00,Default,,0000,0000,0000,,残废也有可能
+Dialogue: 0,0:12:09.29,0:12:10.87,Default,,0000,0000,0000,,捉你的人来头也不小
+Dialogue: 0,0:12:10.87,0:12:12.37,Default,,0000,0000,0000,,你请保镖也没有用
+Dialogue: 0,0:12:13.08,0:12:14.08,Default,,0000,0000,0000,,祝你好运
+Dialogue: 0,0:12:17.16,0:12:18.00,Default,,0000,0000,0000,,阿Sir
+Dialogue: 0,0:12:18.33,0:12:19.70,Default,,0000,0000,0000,,大约半个月前吧
+Dialogue: 0,0:12:20.25,0:12:22.70,Default,,0000,0000,0000,,我想写一篇关于「人口贩运」的报导
+Dialogue: 0,0:12:22.70,0:12:24.58,Default,,0000,0000,0000,,于是我用了我的方法
+Dialogue: 0,0:12:24.58,0:12:27.04,Default,,0000,0000,0000,,骇入了一个外国的大型数据库
+Dialogue: 0,0:12:27.04,0:12:27.79,Default,,0000,0000,0000,,Bill！
+Dialogue: 0,0:12:27.79,0:12:29.66,Default,,0000,0000,0000,,不料被对方发现了
+Dialogue: 0,0:12:29.66,0:12:31.75,Default,,0000,0000,0000,,所以我只下载到他们的部份档案
+Dialogue: 0,0:12:31.95,0:12:33.04,Default,,0000,0000,0000,,对方开始攻击我们
+Dialogue: 0,0:12:33.04,0:12:34.75,Default,,0000,0000,0000,,防护系统30秒后失效
+Dialogue: 0,0:12:34.75,0:12:37.04,Default,,0000,0000,0000,,而这些档案大多数都有加密的
+Dialogue: 0,0:12:37.50,0:12:39.04,Default,,0000,0000,0000,,破解了之后我便发现
+Dialogue: 0,0:12:39.29,0:12:41.50,Default,,0000,0000,0000,,似乎是有人想在「大埔」和闹市
+Dialogue: 0,0:12:41.50,0:12:42.87,Default,,0000,0000,0000,,两个地方搞事情
+Dialogue: 0,0:12:43.12,0:12:44.58,Default,,0000,0000,0000,,我相信
+Dialogue: 0,0:12:44.58,0:12:46.62,Default,,0000,0000,0000,,他们这样做是有警察的包庇
+Dialogue: 0,0:12:49.25,0:12:50.41,Default,,0000,0000,0000,,你凭什么这样说？
+Dialogue: 0,0:12:50.41,0:12:52.29,Default,,0000,0000,0000,,因为在我骇到的档案中
+Dialogue: 0,0:12:52.29,0:12:55.95,Default,,0000,0000,0000,,我发现一条纪片，和一些文字资料
+Dialogue: 0,0:12:59.04,0:13:00.87,Default,,0000,0000,0000,,资料是用英文写成的
+Dialogue: 0,0:13:00.87,0:13:03.12,Default,,0000,0000,0000,,和纪录片一样内容并不完整
+Dialogue: 0,0:13:03.12,0:13:06.04,Default,,0000,0000,0000,,但凭这些资料已经可以推断
+Dialogue: 0,0:13:06.04,0:13:08.08,Default,,0000,0000,0000,,外国存在一个地下集团
+Dialogue: 0,0:13:08.08,0:13:09.75,Default,,0000,0000,0000,,这个集团专门掳拐儿童
+Dialogue: 0,0:13:09.75,0:13:11.58,Default,,0000,0000,0000,,还长期训练他们成为特工
+Dialogue: 0,0:13:11.75,0:13:13.16,Default,,0000,0000,0000,,估计这些特工
+Dialogue: 0,0:13:13.16,0:13:15.91,Default,,0000,0000,0000,,已经大量渗透进了全世界的警队里
+Dialogue: 0,0:13:22.58,0:13:23.87,Default,,0000,0000,0000,,怎么了，阿井？
+Dialogue: 0,0:13:27.08,0:13:29.91,Default,,0000,0000,0000,,我们保安部会接手这案子
+Dialogue: 0,0:13:31.62,0:13:32.79,Default,,0000,0000,0000,,阿滔，停一停
+Dialogue: 0,0:13:32.79,0:13:33.87,Default,,0000,0000,0000,,Grace，熄咪
+Dialogue: 0,0:13:41.08,0:13:44.12,Default,,0000,0000,0000,,保安部想接手这宗案子
+Dialogue: 0,0:13:44.12,0:13:45.95,Default,,0000,0000,0000,,程序上，要助理处长通知我的
+Dialogue: 0,0:13:45.95,0:13:47.00,Default,,0000,0000,0000,,助理处长快回来
+Dialogue: 0,0:13:47.00,0:13:48.20,Default,,0000,0000,0000,,要不等他到了再说
+Dialogue: 0,0:13:48.20,0:13:49.25,Default,,0000,0000,0000,,不好意思，我们继续
+Dialogue: 0,0:13:49.25,0:13:50.12,Default,,0000,0000,0000,,不行
+Dialogue: 0,0:13:50.70,0:13:53.04,Default,,0000,0000,0000,,她已经牵涉到两宗大型的袭击
+Dialogue: 0,0:13:53.04,0:13:55.45,Default,,0000,0000,0000,,这案子，归我们管
+Dialogue: 0,0:13:57.20,0:13:58.37,Default,,0000,0000,0000,,阿井
+Dialogue: 0,0:13:59.95,0:14:02.95,Default,,0000,0000,0000,,这个女孩刚刚才开口说了两句
+Dialogue: 0,0:14:02.95,0:14:04.12,Default,,0000,0000,0000,,如果你现在喊停
+Dialogue: 0,0:14:04.12,0:14:05.79,Default,,0000,0000,0000,,我们会前功尽废的
+Dialogue: 0,0:14:06.16,0:14:07.20,Default,,0000,0000,0000,,阿庄
+Dialogue: 0,0:14:07.33,0:14:10.41,Default,,0000,0000,0000,,把所有东西带走，确保要全部保密
+Dialogue: 0,0:14:10.41,0:14:11.58,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:14:11.58,0:14:12.50,Default,,0000,0000,0000,,Sorry！
+Dialogue: 0,0:14:15.91,0:14:19.62,Default,,0000,0000,0000,,那女孩刚才说警队里面渗入了很多黑警
+Dialogue: 0,0:14:19.62,0:14:21.87,Default,,0000,0000,0000,,我正在想我应该防范谁好呢？
+Dialogue: 0,0:14:21.87,0:14:22.95,Default,,0000,0000,0000,,你就走进来了
+Dialogue: 0,0:14:23.87,0:14:25.41,Default,,0000,0000,0000,,我是不是应该防范你呢？
+Dialogue: 0,0:14:28.20,0:14:29.54,Default,,0000,0000,0000,,你不也是警察？
+Dialogue: 0,0:14:46.04,0:14:48.62,Default,,0000,0000,0000,,程滔，刑事情报科
+Dialogue: 0,0:14:49.04,0:14:51.00,Default,,0000,0000,0000,,六年前当过卧底
+Dialogue: 0,0:14:51.66,0:14:54.70,Default,,0000,0000,0000,,归队后，办事常越界
+Dialogue: 0,0:15:01.45,0:15:03.16,Default,,0000,0000,0000,,我需不需要也防范他？
+Dialogue: 0,0:15:07.45,0:15:09.37,Default,,0000,0000,0000,,我不否定你的怀疑
+Dialogue: 0,0:15:09.37,0:15:12.04,Default,,0000,0000,0000,,但谁是黑警，有谁知道
+Dialogue: 0,0:15:22.12,0:15:22.95,Default,,0000,0000,0000,,井Sir
+Dialogue: 0,0:15:22.95,0:15:23.83,Default,,0000,0000,0000,,你跟她说什么？
+Dialogue: 0,0:15:23.83,0:15:26.37,Default,,0000,0000,0000,,根据警务程式，一切有关案情的资料
+Dialogue: 0,0:15:26.37,0:15:27.50,Default,,0000,0000,0000,,我只能报告上级
+Dialogue: 0,0:15:27.50,0:15:28.83,Default,,0000,0000,0000,,保安部要接手这案子
+Dialogue: 0,0:15:28.83,0:15:29.79,Default,,0000,0000,0000,,我们正在等助理处长通知！
+Dialogue: 0,0:15:29.79,0:15:30.95,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:15:31.79,0:15:34.58,Default,,0000,0000,0000,,被你弄得累死了，我们需要休息一下
+Dialogue: 0,0:15:34.58,0:15:35.70,Default,,0000,0000,0000,,吃宵夜吗？
+Dialogue: 0,0:15:39.45,0:15:41.00,Default,,0000,0000,0000,,记住我说过的话
+Dialogue: 0,0:15:50.16,0:15:51.25,Default,,0000,0000,0000,,他说过什么了？
+Dialogue: 0,0:15:51.25,0:15:52.45,Default,,0000,0000,0000,,没什么
+Dialogue: 0,0:15:53.08,0:15:54.58,Default,,0000,0000,0000,,这什么态度
+Dialogue: 0,0:15:55.62,0:15:58.70,Default,,0000,0000,0000,,你第一天认识他？一向都板着个脸
+Dialogue: 0,0:15:58.70,0:16:01.41,Default,,0000,0000,0000,,而且现在转去了保安部，敏感部门
+Dialogue: 0,0:16:01.41,0:16:02.54,Default,,0000,0000,0000,,没什么错
+Dialogue: 0,0:16:02.66,0:16:04.91,Default,,0000,0000,0000,,是没错，但你也算他师父
+Dialogue: 0,0:16:04.91,0:16:07.83,Default,,0000,0000,0000,,这件事情你千万别再提了，很久以前的事情
+Dialogue: 0,0:16:07.83,0:16:09.79,Default,,0000,0000,0000,,人家现在身居要职
+Dialogue: 0,0:16:10.45,0:16:12.66,Default,,0000,0000,0000,,我不是的，我很老派思想的
+Dialogue: 0,0:16:12.66,0:16:15.20,Default,,0000,0000,0000,,我是一日为师，终身为父
+Dialogue: 0,0:16:16.25,0:16:17.20,Default,,0000,0000,0000,,谢谢
+Dialogue: 0,0:16:17.75,0:16:19.12,Default,,0000,0000,0000,,所以我希望你每天见到我
+Dialogue: 0,0:16:19.12,0:16:21.08,Default,,0000,0000,0000,,都给我倒杯茶，跪下，磕个响头
+Dialogue: 0,0:16:21.08,0:16:22.79,Default,,0000,0000,0000,,喊声师父，我就满足了
+Dialogue: 0,0:16:22.79,0:16:25.00,Default,,0000,0000,0000,,好，也奠酒，上香吧
+Dialogue: 0,0:16:26.58,0:16:29.45,Default,,0000,0000,0000,,想抓姚可仪的人，有什么特征？
+Dialogue: 0,0:16:29.95,0:16:32.41,Default,,0000,0000,0000,,看他的身手应该是受过专业的军事训练
+Dialogue: 0,0:16:32.41,0:16:35.12,Default,,0000,0000,0000,,那「闹市车撞人案」有没有进展？
+Dialogue: 0,0:16:35.62,0:16:37.58,Default,,0000,0000,0000,,根据专责小组的判断
+Dialogue: 0,0:16:37.58,0:16:41.45,Default,,0000,0000,0000,,廖国能可能有黑材料被疑似恐怖分子掌握
+Dialogue: 0,0:16:43.04,0:16:45.41,Default,,0000,0000,0000,,他为了保住家人，所以才犯案
+Dialogue: 0,0:16:45.41,0:16:48.41,Default,,0000,0000,0000,,廖国能的企业生意包括金融和借贷
+Dialogue: 0,0:16:48.41,0:16:50.00,Default,,0000,0000,0000,,客户大多是欧洲人
+Dialogue: 0,0:16:50.00,0:16:51.12,Default,,0000,0000,0000,,这次出事之后
+Dialogue: 0,0:16:51.12,0:16:52.50,Default,,0000,0000,0000,,他公司连同他欧洲许多搭档
+Dialogue: 0,0:16:52.50,0:16:54.00,Default,,0000,0000,0000,,的公司股票也全线下跌
+Dialogue: 0,0:16:54.00,0:16:55.79,Default,,0000,0000,0000,,有人想利用袭击事件
+Dialogue: 0,0:16:55.79,0:16:57.04,Default,,0000,0000,0000,,影响金融经济
+Dialogue: 0,0:16:57.04,0:16:58.79,Default,,0000,0000,0000,,我们要马上通知国际刑警
+Dialogue: 0,0:16:58.79,0:17:00.37,Default,,0000,0000,0000,,我建议联络缅甸警方
+Dialogue: 0,0:17:00.37,0:17:02.29,Default,,0000,0000,0000,,把姚可仪提及的硬碟拿回来
+Dialogue: 0,0:17:02.29,0:17:03.41,Default,,0000,0000,0000,,因为里面的资料
+Dialogue: 0,0:17:03.41,0:17:05.91,Default,,0000,0000,0000,,涉及到疑似恐怖分子所有的部署
+Dialogue: 0,0:17:05.91,0:17:08.08,Default,,0000,0000,0000,,也影响到其他国家的安全
+Dialogue: 0,0:17:08.08,0:17:09.16,Default,,0000,0000,0000,,我同意
+Dialogue: 0,0:17:09.16,0:17:10.20,Default,,0000,0000,0000,,我也同意
+Dialogue: 0,0:17:11.33,0:17:13.70,Default,,0000,0000,0000,,好，我联络缅甸警方
+Dialogue: 0,0:17:13.70,0:17:14.50,Default,,0000,0000,0000,,井Sir
+Dialogue: 0,0:17:14.66,0:17:16.54,Default,,0000,0000,0000,,尽快安排安全屋给姚可仪
+Dialogue: 0,0:17:16.54,0:17:17.33,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:17:17.33,0:17:20.33,Default,,0000,0000,0000,,这个案子，不可以再多一个知情人
+Dialogue: 0,0:17:20.66,0:17:21.66,Default,,0000,0000,0000,,一个都不可以
+Dialogue: 0,0:17:21.66,0:17:22.83,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:17:24.75,0:17:25.62,Default,,0000,0000,0000,,喂
+Dialogue: 0,0:17:35.91,0:17:37.00,Default,,0000,0000,0000,,抢你的案子 今晚
+Dialogue: 0,0:17:37.00,0:17:38.29,Default,,0000,0000,0000,,不好意思，你说
+Dialogue: 0,0:17:39.12,0:17:41.41,Default,,0000,0000,0000,,抢你的案子，不好意思
+Dialogue: 0,0:17:42.08,0:17:44.41,Default,,0000,0000,0000,,别傻了，是归你部门管的
+Dialogue: 0,0:17:47.37,0:17:48.95,Default,,0000,0000,0000,,刚才你想说什么？
+Dialogue: 0,0:17:50.66,0:17:53.33,Default,,0000,0000,0000,,没事，不重要，来，电梯到了
+Dialogue: 0,0:17:55.12,0:18:06.45,Default,,0000,0000,0000,,祝你生日快乐…
+Dialogue: 0,0:18:06.87,0:18:08.62,Default,,0000,0000,0000,,等一下，先许愿
+Dialogue: 0,0:18:08.62,0:18:10.83,Default,,0000,0000,0000,,慢慢想，这样才会灵的
+Dialogue: 0,0:18:10.83,0:18:12.41,Default,,0000,0000,0000,,闭上眼睛 许愿了再切蛋糕
+Dialogue: 0,0:18:14.37,0:18:16.62,Default,,0000,0000,0000,,许得越长就越灵验
+Dialogue: 0,0:18:26.08,0:18:28.25,Default,,0000,0000,0000,,你迟到了还搞事
+Dialogue: 0,0:18:29.75,0:18:30.83,Default,,0000,0000,0000,,生日礼物
+Dialogue: 0,0:18:32.75,0:18:34.83,Default,,0000,0000,0000,,送我个二手破手表便当生日礼物
+Dialogue: 0,0:18:34.83,0:18:36.41,Default,,0000,0000,0000,,你可真够朋友
+Dialogue: 0,0:18:36.41,0:18:38.37,Default,,0000,0000,0000,,我在电脑前守了一夜才拍到的
+Dialogue: 0,0:18:38.37,0:18:39.70,Default,,0000,0000,0000,,你不要便还我
+Dialogue: 0,0:18:42.08,0:18:44.79,Default,,0000,0000,0000,,我不嫌弃你破手表，你就别啰嗦了
+Dialogue: 0,0:18:44.79,0:18:45.87,Default,,0000,0000,0000,,你都几十岁的人了
+Dialogue: 0,0:18:45.87,0:18:47.25,Default,,0000,0000,0000,,怎么还喜欢小孩子的东西
+Dialogue: 0,0:18:47.25,0:18:48.79,Default,,0000,0000,0000,,这叫赤子之心，你没有
+Dialogue: 0,0:18:48.79,0:18:49.50,Default,,0000,0000,0000,,你不会明白
+Dialogue: 0,0:18:49.50,0:18:51.00,Default,,0000,0000,0000,,我就不信你会戴着它
+Dialogue: 0,0:18:51.00,0:18:52.79,Default,,0000,0000,0000,,我确实不会戴
+Dialogue: 0,0:18:52.79,0:18:54.00,Default,,0000,0000,0000,,我肯定是要收在床底下
+Dialogue: 0,0:18:54.00,0:18:56.20,Default,,0000,0000,0000,,二十年之后拿出来拍卖的
+Dialogue: 0,0:18:58.16,0:18:59.16,Default,,0000,0000,0000,,井
+Dialogue: 0,0:19:00.33,0:19:01.16,Default,,0000,0000,0000,,生日快乐
+Dialogue: 0,0:19:01.16,0:19:01.83,Default,,0000,0000,0000,,多谢
+Dialogue: 0,0:19:01.83,0:19:03.66,Default,,0000,0000,0000,,刚才在电梯前就想提醒你
+Dialogue: 0,0:19:03.66,0:19:05.12,Default,,0000,0000,0000,,不用提醒，我记得
+Dialogue: 0,0:19:05.16,0:19:05.75,Default,,0000,0000,0000,,多谢
+Dialogue: 0,0:19:05.75,0:19:06.87,Default,,0000,0000,0000,,叶Sir，过来拍张照
+Dialogue: 0,0:19:06.87,0:19:08.12,Default,,0000,0000,0000,,好的
+Dialogue: 0,0:19:08.20,0:19:09.29,Default,,0000,0000,0000,,等我一下，先拍张照片
+Dialogue: 0,0:19:09.29,0:19:10.95,Default,,0000,0000,0000,,不妨碍你，生日快乐，我先走了
+Dialogue: 0,0:19:10.95,0:19:12.70,Default,,0000,0000,0000,,拍张照都不等我？
+Dialogue: 0,0:19:12.70,0:19:14.25,Default,,0000,0000,0000,,我们俩多久没喝过酒？
+Dialogue: 0,0:19:27.25,0:19:28.41,Default,,0000,0000,0000,,（警队高层架构图）
+Dialogue: 0,0:19:34.79,0:19:38.25,Default,,0000,0000,0000,,那女孩刚才说警队里面渗入了很多黑警
+Dialogue: 0,0:19:38.25,0:19:40.12,Default,,0000,0000,0000,,我正在想我应该防范谁好呢？
+Dialogue: 0,0:19:40.12,0:19:41.58,Default,,0000,0000,0000,,你就走进来了
+Dialogue: 0,0:19:42.16,0:19:43.95,Default,,0000,0000,0000,,我是不是应该防范你呢？
+Dialogue: 0,0:20:50.83,0:20:52.66,Default,,0000,0000,0000,,破解之后我便发现
+Dialogue: 0,0:20:52.66,0:20:54.91,Default,,0000,0000,0000,,似乎是有人想在「大埔」和闹市
+Dialogue: 0,0:20:54.91,0:20:56.58,Default,,0000,0000,0000,,两个地方搞事情
+Dialogue: 0,0:20:56.58,0:21:00.29,Default,,0000,0000,0000,,我相信，他们这样做是有警察的包庇
+Dialogue: 0,0:21:00.62,0:21:03.50,Default,,0000,0000,0000,,但凭这些资料已经可以推断
+Dialogue: 0,0:21:03.50,0:21:05.25,Default,,0000,0000,0000,,外国存在一个地下集团
+Dialogue: 0,0:21:05.25,0:21:06.87,Default,,0000,0000,0000,,这个集团专门掳拐儿童
+Dialogue: 0,0:21:06.87,0:21:09.04,Default,,0000,0000,0000,,还长期训练他们成为特工
+Dialogue: 0,0:21:44.66,0:21:46.12,Default,,0000,0000,0000,,这个集团专门掳拐儿童
+Dialogue: 0,0:21:46.12,0:21:48.58,Default,,0000,0000,0000,,还长期训练他们成为特工
+Dialogue: 0,0:21:48.58,0:21:49.66,Default,,0000,0000,0000,,估计这些特工
+Dialogue: 0,0:21:49.66,0:21:52.58,Default,,0000,0000,0000,,已经大量渗透进了全世界的警队里
+Dialogue: 0,0:21:56.75,0:21:59.91,Default,,0000,0000,0000,,晴晴常常放学都要吃冰淇淋
+Dialogue: 0,0:21:59.91,0:22:01.91,Default,,0000,0000,0000,,我该怎么做，先生？
+Dialogue: 0,0:22:04.62,0:22:05.95,Default,,0000,0000,0000,,早晨
+Dialogue: 0,0:22:06.70,0:22:08.91,Default,,0000,0000,0000,,晴晴，如果想吃冰淇淋
+Dialogue: 0,0:22:08.91,0:22:10.20,Default,,0000,0000,0000,,就告诉爸爸，知道吗？
+Dialogue: 0,0:22:10.20,0:22:10.83,Default,,0000,0000,0000,,知道
+Dialogue: 0,0:22:10.83,0:22:11.79,Default,,0000,0000,0000,,想吃什么味道？
+Dialogue: 0,0:22:11.79,0:22:14.75,Default,,0000,0000,0000,,我想吃榴槤，还有巧克力
+Dialogue: 0,0:22:14.75,0:22:15.87,Default,,0000,0000,0000,,那么贪心？
+Dialogue: 0,0:22:16.25,0:22:17.62,Default,,0000,0000,0000,,再见，爸爸
+Dialogue: 0,0:22:17.62,0:22:19.12,Default,,0000,0000,0000,,再见
+Dialogue: 0,0:22:21.04,0:22:23.95,Default,,0000,0000,0000,,先生，你今晚会回来吃饭吗？
+Dialogue: 0,0:22:26.20,0:22:28.70,Default,,0000,0000,0000,,井Sir，我和缅甸警方沟通好了
+Dialogue: 0,0:22:28.70,0:22:31.58,Default,,0000,0000,0000,,一个小时后，你去缅甸参与行动
+Dialogue: 0,0:22:31.58,0:22:34.91,Default,,0000,0000,0000,,行动目标是将姚可仪骇到的档案资料拿回来
+Dialogue: 0,0:22:35.50,0:22:37.12,Default,,0000,0000,0000,,为了避免有内鬼
+Dialogue: 0,0:22:37.12,0:22:39.66,Default,,0000,0000,0000,,其实行动本来不适合太多人参与
+Dialogue: 0,0:22:39.66,0:22:41.41,Default,,0000,0000,0000,,但我考虑到支援的问题
+Dialogue: 0,0:22:41.41,0:22:43.12,Default,,0000,0000,0000,,决定找几个人帮忙
+Dialogue: 0,0:22:43.12,0:22:44.33,Default,,0000,0000,0000,,希望你没意见
+Dialogue: 0,0:22:44.33,0:22:46.29,Default,,0000,0000,0000,,我相信处长你的安排
+Dialogue: 0,0:22:46.83,0:22:47.87,Default,,0000,0000,0000,,带他们进来
+Dialogue: 0,0:22:51.20,0:22:52.79,Default,,0000,0000,0000,,处长
+Dialogue: 0,0:22:54.66,0:22:56.00,Default,,0000,0000,0000,,Sir！
+Dialogue: 0,0:23:01.66,0:23:03.50,Default,,0000,0000,0000,,井Sir、程Sir，你们去缅甸
+Dialogue: 0,0:23:03.50,0:23:05.75,Default,,0000,0000,0000,,当地精锐部队会接应你们
+Dialogue: 0,0:23:05.75,0:23:07.33,Default,,0000,0000,0000,,叶Sir坐镇刑事情报科
+Dialogue: 0,0:23:07.33,0:23:09.62,Default,,0000,0000,0000,,除了监察行动，还要无间断支援他们
+Dialogue: 0,0:23:09.62,0:23:10.66,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:23:24.12,0:23:25.37,Default,,0000,0000,0000,,是不是挺低端的？
+Dialogue: 0,0:23:25.37,0:23:27.20,Default,,0000,0000,0000,,不是啊，我小时候也玩过
+Dialogue: 0,0:23:27.20,0:23:29.20,Default,,0000,0000,0000,,我们这代人就是玩这些
+Dialogue: 0,0:23:29.20,0:23:31.37,Default,,0000,0000,0000,,不用整天看着手机
+Dialogue: 0,0:23:31.37,0:23:33.87,Default,,0000,0000,0000,,玩久了，还会有感情
+Dialogue: 0,0:23:35.58,0:23:37.12,Default,,0000,0000,0000,,其实你认不认得我？
+Dialogue: 0,0:23:44.08,0:23:46.83,Default,,0000,0000,0000,,两年前在粉岭的反恐训练
+Dialogue: 0,0:23:46.83,0:23:48.33,Default,,0000,0000,0000,,我跟过你
+Dialogue: 0,0:23:50.16,0:23:51.66,Default,,0000,0000,0000,,不认得
+Dialogue: 0,0:23:51.66,0:23:52.83,Default,,0000,0000,0000,,不像你
+Dialogue: 0,0:23:53.20,0:23:55.04,Default,,0000,0000,0000,,不过可能是我职业病
+Dialogue: 0,0:23:55.75,0:23:57.79,Default,,0000,0000,0000,,刑事情报科选卧底
+Dialogue: 0,0:23:57.79,0:23:59.66,Default,,0000,0000,0000,,的首要条件就是认人能力
+Dialogue: 0,0:23:59.70,0:24:01.08,Default,,0000,0000,0000,,我也当过几年卧底
+Dialogue: 0,0:24:01.20,0:24:03.16,Default,,0000,0000,0000,,你一点都不像
+Dialogue: 0,0:24:03.16,0:24:05.29,Default,,0000,0000,0000,,我没见过卧底这么外露
+Dialogue: 0,0:24:05.54,0:24:07.58,Default,,0000,0000,0000,,越是假装掩饰
+Dialogue: 0,0:24:07.58,0:24:10.29,Default,,0000,0000,0000,,但偏偏，便露出马脚
+Dialogue: 0,0:24:12.58,0:24:14.62,Default,,0000,0000,0000,,外露也可以是故意的
+Dialogue: 0,0:24:26.58,0:24:27.95,Default,,0000,0000,0000,,（缅甸语）今天我们和香港警方
+Dialogue: 0,0:24:27.95,0:24:29.08,Default,,0000,0000,0000,,（缅甸语）展开联合行动
+Dialogue: 0,0:24:29.08,0:24:29.91,Default,,0000,0000,0000,,（缅甸语）目标是要保住港方
+Dialogue: 0,0:24:29.91,0:24:30.75,Default,,0000,0000,0000,,（缅甸语）一个涉案证据
+Dialogue: 0,0:24:30.75,0:24:32.75,Default,,0000,0000,0000,,（缅甸语）还要搜捕一切嫌疑人
+Dialogue: 0,0:24:32.87,0:24:34.16,Default,,0000,0000,0000,,（缅甸语）线报显示
+Dialogue: 0,0:24:34.16,0:24:36.25,Default,,0000,0000,0000,,（缅甸语）目标人物身处人口稠密的地方
+Dialogue: 0,0:24:36.29,0:24:38.37,Default,,0000,0000,0000,,（缅甸语）为免打草惊蛇
+Dialogue: 0,0:24:38.37,0:24:39.91,Default,,0000,0000,0000,,（缅甸语）我们会以平民装束混入目标单位
+Dialogue: 0,0:24:39.91,0:24:42.29,Default,,0000,0000,0000,,（缅甸语）行动过程如果遇到任何突袭反抗
+Dialogue: 0,0:24:42.45,0:24:44.87,Default,,0000,0000,0000,,（缅甸语）我们誓必保卫人民性命
+Dialogue: 0,0:24:44.87,0:24:45.83,Default,,0000,0000,0000,,（缅甸语）对敌人勇抗到底
+Dialogue: 0,0:24:45.83,0:24:46.75,Default,,0000,0000,0000,,（缅甸语）遵命
+Dialogue: 0,0:24:54.95,0:24:56.83,Default,,0000,0000,0000,,北面安全
+Dialogue: 0,0:24:57.75,0:24:58.54,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:25:24.16,0:25:25.41,Default,,0000,0000,0000,,（缅甸语）安静，离开
+Dialogue: 0,0:25:32.33,0:25:34.04,Default,,0000,0000,0000,,（缅甸语）安静，离开
+Dialogue: 0,0:25:34.16,0:25:35.87,Default,,0000,0000,0000,,（缅甸语）走！
+Dialogue: 0,0:25:44.04,0:25:45.45,Default,,0000,0000,0000,,Alpha Team到位
+Dialogue: 0,0:25:45.70,0:25:47.41,Default,,0000,0000,0000,,3秒后攻击
+Dialogue: 0,0:25:59.79,0:26:01.83,Default,,0000,0000,0000,,发生什么事？
+Dialogue: 0,0:26:01.83,0:26:03.83,Default,,0000,0000,0000,,没信号了，通讯器也没声音
+Dialogue: 0,0:26:06.79,0:26:09.04,Default,,0000,0000,0000,,阿滔，听到吗？
+Dialogue: 0,0:26:09.04,0:26:12.12,Default,,0000,0000,0000,,有人受伤，请增援
+Dialogue: 0,0:26:14.20,0:26:15.37,Default,,0000,0000,0000,,阿井，说话！
+Dialogue: 0,0:26:15.58,0:26:17.37,Default,,0000,0000,0000,,修复好了没有？
+Dialogue: 0,0:26:29.91,0:26:31.29,Default,,0000,0000,0000,,硬碟
+Dialogue: 0,0:26:57.91,0:26:58.83,Default,,0000,0000,0000,,还要等多久
+Dialogue: 0,0:26:58.83,0:26:59.83,Default,,0000,0000,0000,,画面还没修复好
+Dialogue: 0,0:26:59.83,0:27:01.16,Default,,0000,0000,0000,,声音修复好了
+Dialogue: 0,0:27:01.16,0:27:03.58,Default,,0000,0000,0000,,阿滔，听到了吗？现在什么情况？
+Dialogue: 0,0:27:03.58,0:27:04.33,Default,,0000,0000,0000,,有杀手伏击
+Dialogue: 0,0:27:04.33,0:27:06.45,Default,,0000,0000,0000,,我们正在追那个杀手，要取回硬碟
+Dialogue: 0,0:27:07.37,0:27:08.45,Default,,0000,0000,0000,,定位他们的位置
+Dialogue: 0,0:27:08.79,0:27:09.83,Default,,0000,0000,0000,,画面还没能稳定
+Dialogue: 0,0:27:17.83,0:27:18.83,Default,,0000,0000,0000,,阿庄，到了没有？
+Dialogue: 0,0:27:32.95,0:27:34.41,Default,,0000,0000,0000,,拿到硬碟
+Dialogue: 0,0:28:00.29,0:28:01.95,Default,,0000,0000,0000,,B Point！
+Dialogue: 0,0:28:41.16,0:28:41.87,Default,,0000,0000,0000,,换弹
+Dialogue: 0,0:28:50.00,0:28:51.04,Default,,0000,0000,0000,,走呀！
+Dialogue: 0,0:29:04.91,0:29:06.04,Default,,0000,0000,0000,,上！
+Dialogue: 0,0:29:13.41,0:29:15.37,Default,,0000,0000,0000,,你先上来，降落！
+Dialogue: 0,0:29:18.12,0:29:19.33,Default,,0000,0000,0000,,等我！
+Dialogue: 0,0:29:33.41,0:29:35.58,Default,,0000,0000,0000,,硬碟在我手，他们还没上机
+Dialogue: 0,0:29:41.58,0:29:43.37,Default,,0000,0000,0000,,火力太猛，飞机快撑不住
+Dialogue: 0,0:29:43.37,0:29:44.08,Default,,0000,0000,0000,,要求指令！
+Dialogue: 0,0:30:02.08,0:30:02.91,Default,,0000,0000,0000,,叶Sir！
+Dialogue: 0,0:30:06.50,0:30:07.58,Default,,0000,0000,0000,,撤退
+Dialogue: 0,0:30:09.29,0:30:10.41,Default,,0000,0000,0000,,阿庄，撤退
+Dialogue: 0,0:30:10.62,0:30:11.91,Default,,0000,0000,0000,,撤退呀！
+Dialogue: 0,0:31:08.16,0:31:09.00,Default,,0000,0000,0000,,走！
+Dialogue: 0,0:32:33.20,0:32:35.25,Default,,0000,0000,0000,,叶Sir，硬碟里什么都没有
+Dialogue: 0,0:32:57.20,0:33:00.25,Default,,0000,0000,0000,,有人伏击，刑事情报科通讯系统出现问题
+Dialogue: 0,0:33:00.25,0:33:02.66,Default,,0000,0000,0000,,很有可能，我们有内鬼
+Dialogue: 0,0:33:02.66,0:33:04.37,Default,,0000,0000,0000,,对行动知情的人
+Dialogue: 0,0:33:04.37,0:33:06.75,Default,,0000,0000,0000,,加上我们房里几位，总共十五人
+Dialogue: 0,0:33:06.75,0:33:09.70,Default,,0000,0000,0000,,除此之外，大家有没有想过姚可仪这个人
+Dialogue: 0,0:33:09.70,0:33:11.79,Default,,0000,0000,0000,,为什么杀手必要保住她的命
+Dialogue: 0,0:33:11.79,0:33:13.20,Default,,0000,0000,0000,,还要抓走她
+Dialogue: 0,0:33:13.20,0:33:15.12,Default,,0000,0000,0000,,既然廖国能是被人要胁的
+Dialogue: 0,0:33:15.12,0:33:17.29,Default,,0000,0000,0000,,姚可仪也一样有可能被人要胁着
+Dialogue: 0,0:33:17.29,0:33:20.79,Default,,0000,0000,0000,,大胆推测，姚可仪有没有可能是恐怖分子？
+Dialogue: 0,0:33:22.37,0:33:24.25,Default,,0000,0000,0000,,叶Sir，你觉得呢？
+Dialogue: 0,0:33:27.12,0:33:28.16,Default,,0000,0000,0000,,我觉得一切也有可能
+Dialogue: 0,0:33:28.16,0:33:30.58,Default,,0000,0000,0000,,那包不包括还没有找到的程滔
+Dialogue: 0,0:33:32.12,0:33:34.12,Default,,0000,0000,0000,,他也值得被怀疑？
+Dialogue: 0,0:33:34.20,0:33:36.12,Default,,0000,0000,0000,,缅甸已经清理现场
+Dialogue: 0,0:33:36.29,0:33:38.29,Default,,0000,0000,0000,,但是仍然找不到他
+Dialogue: 0,0:33:38.29,0:33:39.79,Default,,0000,0000,0000,,最重要的是
+Dialogue: 0,0:33:40.12,0:33:42.50,Default,,0000,0000,0000,,他最后接触过那硬碟
+Dialogue: 0,0:33:43.45,0:33:46.25,Default,,0000,0000,0000,,我想我跟不上大家的节奏
+Dialogue: 0,0:33:48.66,0:33:51.91,Default,,0000,0000,0000,,我还在担心我伙计的安危
+Dialogue: 0,0:33:52.29,0:33:55.33,Default,,0000,0000,0000,,但你们却怀疑他是不是有问题
+Dialogue: 0,0:33:55.54,0:33:58.41,Default,,0000,0000,0000,,我真的不明白一个人的性命安危你们不管
+Dialogue: 0,0:33:58.50,0:34:01.70,Default,,0000,0000,0000,,是不是因为你们急着为这件事情找个解释？
+Dialogue: 0,0:34:04.29,0:34:05.70,Default,,0000,0000,0000,,当是我失职吧
+Dialogue: 0,0:34:08.87,0:34:11.16,Default,,0000,0000,0000,,程滔跟了我很多年
+Dialogue: 0,0:34:12.25,0:34:13.87,Default,,0000,0000,0000,,是我的好兄弟
+Dialogue: 0,0:34:15.33,0:34:17.16,Default,,0000,0000,0000,,我不会怀疑他
+Dialogue: 0,0:34:17.16,0:34:19.33,Default,,0000,0000,0000,,那如果我告诉你
+Dialogue: 0,0:34:19.33,0:34:21.25,Default,,0000,0000,0000,,有情报显示
+Dialogue: 0,0:34:21.25,0:34:23.33,Default,,0000,0000,0000,,程滔有可能是黑警呢？
+Dialogue: 0,0:34:27.62,0:34:29.25,Default,,0000,0000,0000,,我担保他
+Dialogue: 0,0:34:36.29,0:34:36.95,Default,,0000,0000,0000,,去安全屋
+Dialogue: 0,0:34:36.95,0:34:37.87,Default,,0000,0000,0000,,收到
+Dialogue: 0,0:34:41.37,0:34:42.37,Default,,0000,0000,0000,,站住！
+Dialogue: 0,0:34:43.04,0:34:44.20,Default,,0000,0000,0000,,干什么？
+Dialogue: 0,0:34:45.16,0:34:45.91,Default,,0000,0000,0000,,阿滔现在有什么消息？
+Dialogue: 0,0:34:45.91,0:34:47.54,Default,,0000,0000,0000,,缅甸警方在调查，我也在等报告
+Dialogue: 0,0:34:47.54,0:34:48.91,Default,,0000,0000,0000,,你跟阿庄一起回来 我说得够清楚吗？
+Dialogue: 0,0:34:48.91,0:34:50.62,Default,,0000,0000,0000,,为什么你不留一个人等消息呀？
+Dialogue: 0,0:34:50.62,0:34:51.54,Default,,0000,0000,0000,,是人命来的
+Dialogue: 0,0:34:51.54,0:34:53.04,Default,,0000,0000,0000,,你也知道是人命？
+Dialogue: 0,0:34:53.37,0:34:54.79,Default,,0000,0000,0000,,那你下令撤退？
+Dialogue: 0,0:34:56.66,0:34:57.95,Default,,0000,0000,0000,,阿滔的失踪
+Dialogue: 0,0:34:58.25,0:34:59.87,Default,,0000,0000,0000,,是你间接造成的
+Dialogue: 0,0:35:22.20,0:35:23.50,Default,,0000,0000,0000,,我一定要找回他
+Dialogue: 0,0:35:25.75,0:35:26.58,Default,,0000,0000,0000,,我要让那帮家伙知道
+Dialogue: 0,0:35:26.58,0:35:27.75,Default,,0000,0000,0000,,他不是黑警
+Dialogue: 0,0:35:28.25,0:35:29.66,Default,,0000,0000,0000,,阿滔有回头救我
+Dialogue: 0,0:35:30.62,0:35:31.91,Default,,0000,0000,0000,,他怎会是黑警
+Dialogue: 0,0:35:33.04,0:35:34.87,Default,,0000,0000,0000,,我留在缅甸是没用的
+Dialogue: 0,0:35:35.16,0:35:37.75,Default,,0000,0000,0000,,现在唯一的线索，就是姚可仪
+Dialogue: 0,0:35:39.37,0:35:40.29,Default,,0000,0000,0000,,相信我
+Dialogue: 0,0:35:46.08,0:35:47.16,Default,,0000,0000,0000,,对不起
+Dialogue: 0,0:35:50.41,0:35:51.45,Default,,0000,0000,0000,,对不起
+Dialogue: 0,0:36:00.29,0:36:01.54,Default,,0000,0000,0000,,井Sir到了
+Dialogue: 0,0:36:08.41,0:36:10.08,Default,,0000,0000,0000,,为什么那硬碟是空的？
+Dialogue: 0,0:36:10.08,0:36:11.41,Default,,0000,0000,0000,,是不是所有事都是你编出来？
+Dialogue: 0,0:36:11.41,0:36:12.25,Default,,0000,0000,0000,,你说什么？
+Dialogue: 0,0:36:12.25,0:36:13.95,Default,,0000,0000,0000,,我们在缅甸死了很多人
+Dialogue: 0,0:36:16.95,0:36:18.54,Default,,0000,0000,0000,,你还不说真话？
+Dialogue: 0,0:36:20.79,0:36:22.45,Default,,0000,0000,0000,,阿Bill呢？
+Dialogue: 0,0:36:22.87,0:36:24.29,Default,,0000,0000,0000,,死了
+Dialogue: 0,0:36:29.50,0:36:31.41,Default,,0000,0000,0000,,你到底是什么人
+Dialogue: 0,0:36:31.41,0:36:33.50,Default,,0000,0000,0000,,跟恐怖分子有什么关系？
+Dialogue: 0,0:36:40.66,0:36:43.41,Default,,0000,0000,0000,,你是不是要全香港的人跟你一起陪葬
+Dialogue: 0,0:36:44.66,0:36:46.12,Default,,0000,0000,0000,,阿Bill死了
+Dialogue: 0,0:36:49.25,0:36:51.12,Default,,0000,0000,0000,,我什么都不会再说
+Dialogue: 0,0:36:55.33,0:36:57.12,Default,,0000,0000,0000,,现在我怀疑你给假口供
+Dialogue: 0,0:36:57.12,0:36:59.00,Default,,0000,0000,0000,,加上跟两宗恐怖袭击案有关
+Dialogue: 0,0:36:59.00,0:37:00.54,Default,,0000,0000,0000,,所以正式拘捕你
+Dialogue: 0,0:37:02.87,0:37:05.50,Default,,0000,0000,0000,,没错，那个被走的档案
+Dialogue: 0,0:37:05.50,0:37:07.04,Default,,0000,0000,0000,,要视为永久泄漏
+Dialogue: 0,0:37:07.33,0:37:09.29,Default,,0000,0000,0000,,但是我香港的特工已经确定
+Dialogue: 0,0:37:09.50,0:37:13.16,Default,,0000,0000,0000,,那个骇客对我们特工的名单一无所知
+Dialogue: 0,0:37:14.45,0:37:17.04,Default,,0000,0000,0000,,对我们全球行动的细节和时间表
+Dialogue: 0,0:37:17.04,0:37:18.33,Default,,0000,0000,0000,,只是掌握有限
+Dialogue: 0,0:37:18.33,0:37:21.87,Default,,0000,0000,0000,,但是骇客锁住了我们的资料系统
+Dialogue: 0,0:37:21.87,0:37:24.25,Default,,0000,0000,0000,,只要系统一天打不开
+Dialogue: 0,0:37:24.25,0:37:26.20,Default,,0000,0000,0000,,我们都实行不了任何计划
+Dialogue: 0,0:37:26.87,0:37:28.62,Default,,0000,0000,0000,,总部多年来的心血
+Dialogue: 0,0:37:28.62,0:37:30.04,Default,,0000,0000,0000,,会毁于一旦
+Dialogue: 0,0:37:30.20,0:37:31.91,Default,,0000,0000,0000,,董，你应该非常清楚
+Dialogue: 0,0:37:31.91,0:37:35.00,Default,,0000,0000,0000,,如果这件事不妥当处理的话
+Dialogue: 0,0:37:35.00,0:37:38.16,Default,,0000,0000,0000,,后果将会有多可怕
+Dialogue: 0,0:37:39.70,0:37:41.29,Default,,0000,0000,0000,,把握时间
+Dialogue: 0,0:37:46.37,0:37:48.37,Default,,0000,0000,0000,,董先生，总部回复
+Dialogue: 0,0:37:48.37,0:37:50.70,Default,,0000,0000,0000,,用尽所有方法也无法解锁
+Dialogue: 0,0:37:50.83,0:37:52.70,Default,,0000,0000,0000,,一定要抓到那个骇客
+Dialogue: 0,0:37:54.91,0:37:58.08,Default,,0000,0000,0000,,缅甸行动，能不能拿到我想要的东西？
+Dialogue: 0,0:38:12.87,0:38:15.12,Default,,0000,0000,0000,,那硬碟在我手
+Dialogue: 0,0:38:43.12,0:38:45.33,Default,,0000,0000,0000,,头车，4 0 0米后改道去
+Dialogue: 0,0:38:51.45,0:38:52.45,Default,,0000,0000,0000,,趴下
+Dialogue: 0,0:40:56.04,0:40:57.20,Default,,0000,0000,0000,,为什么会是你
+Dialogue: 0,0:41:05.37,0:41:06.41,Default,,0000,0000,0000,,你想怎么样？
+Dialogue: 0,0:41:07.54,0:41:09.41,Default,,0000,0000,0000,,之前我自己也不知道
+Dialogue: 0,0:41:10.08,0:41:11.12,Default,,0000,0000,0000,,其实我是一个
+Dialogue: 0,0:41:12.00,0:41:13.91,Default,,0000,0000,0000,,既贪钱，又正义的警察
+Dialogue: 0,0:41:13.95,0:41:15.58,Default,,0000,0000,0000,,很矛盾，想不通
+Dialogue: 0,0:41:15.58,0:41:19.20,Default,,0000,0000,0000,,幸好，直至姚可仪的出现我终于找到答案
+Dialogue: 0,0:41:20.04,0:41:21.29,Default,,0000,0000,0000,,不出卖正义
+Dialogue: 0,0:41:22.16,0:41:23.45,Default,,0000,0000,0000,,也只不过是价钱未够
+Dialogue: 0,0:41:24.08,0:41:25.62,Default,,0000,0000,0000,,你不要跟我说废话
+Dialogue: 0,0:41:27.12,0:41:28.75,Default,,0000,0000,0000,,姚可仪在你手上
+Dialogue: 0,0:41:29.45,0:41:30.16,Default,,0000,0000,0000,,交她出来
+Dialogue: 0,0:41:30.16,0:41:32.75,Default,,0000,0000,0000,,我刚才不是跟你说过，我选择了钱
+Dialogue: 0,0:41:33.16,0:41:37.45,Default,,0000,0000,0000,,那女人现在在人质市场值多少钱，你知道的
+Dialogue: 0,0:41:38.95,0:41:41.08,Default,,0000,0000,0000,,我给你一个机会跟我合作
+Dialogue: 0,0:41:42.29,0:41:44.20,Default,,0000,0000,0000,,将来我还可以帮你求情
+Dialogue: 0,0:41:45.45,0:41:47.25,Default,,0000,0000,0000,,这影片是我刚才拍到的
+Dialogue: 0,0:41:47.62,0:41:49.79,Default,,0000,0000,0000,,你助手中枪的时候你在他身边
+Dialogue: 0,0:41:50.12,0:41:52.12,Default,,0000,0000,0000,,为什么枪手只打他不打你？
+Dialogue: 0,0:41:57.62,0:41:58.70,Default,,0000,0000,0000,,会不会那些人
+Dialogue: 0,0:41:58.70,0:42:00.20,Default,,0000,0000,0000,,是你派来的？
+Dialogue: 0,0:42:01.08,0:42:02.70,Default,,0000,0000,0000,,还装好警察？
+Dialogue: 0,0:42:02.70,0:42:04.12,Default,,0000,0000,0000,,你累不累呀？
+Dialogue: 0,0:42:31.58,0:42:32.75,Default,,0000,0000,0000,,奀仔
+Dialogue: 0,0:42:49.58,0:42:50.75,Default,,0000,0000,0000,,空弹？
+Dialogue: 0,0:42:55.20,0:42:56.58,Default,,0000,0000,0000,,你是奀仔？
+Dialogue: 0,0:44:56.12,0:44:57.95,Default,,0000,0000,0000,,Emma，怎样？晴晴退烧了没有？
+Dialogue: 0,0:44:58.00,0:45:01.00,Default,,0000,0000,0000,,好点了，我想她不适应这里的水
+Dialogue: 0,0:45:02.54,0:45:04.20,Default,,0000,0000,0000,,其实为什么我们要搬来这里？
+Dialogue: 0,0:45:04.62,0:45:06.00,Default,,0000,0000,0000,,BB很难适应的
+Dialogue: 0,0:45:11.12,0:45:15.50,Default,,0000,0000,0000,,老公，不管什么原因，我也会支持你的
+Dialogue: 0,0:45:17.16,0:45:20.12,Default,,0000,0000,0000,,好啦，等你回来再商量
+Dialogue: 0,0:45:23.29,0:45:24.50,Default,,0000,0000,0000,,Emma？
+Dialogue: 0,0:45:40.37,0:45:41.25,Default,,0000,0000,0000,,这么凄凉
+Dialogue: 0,0:45:41.25,0:45:42.37,Default,,0000,0000,0000,,不要哭了
+Dialogue: 0,0:45:46.20,0:45:48.75,Default,,0000,0000,0000,,总部不是不让你结婚生小孩
+Dialogue: 0,0:45:48.75,0:45:52.20,Default,,0000,0000,0000,,但是你不能违反制度一走了之吧
+Dialogue: 0,0:45:54.29,0:45:55.87,Default,,0000,0000,0000,,两个你选一个吧
+Dialogue: 0,0:46:06.87,0:46:08.20,Default,,0000,0000,0000,,董先生
+Dialogue: 0,0:46:09.66,0:46:10.79,Default,,0000,0000,0000,,我以后不敢
+Dialogue: 0,0:46:18.95,0:46:19.91,Default,,0000,0000,0000,,Emma
+Dialogue: 0,0:46:25.41,0:46:27.25,Default,,0000,0000,0000,,总部教过你
+Dialogue: 0,0:46:27.75,0:46:29.83,Default,,0000,0000,0000,,你有关心的人结果会更惨
+Dialogue: 0,0:46:29.83,0:46:30.70,Default,,0000,0000,0000,,你看到了吧！
+Dialogue: 0,0:46:31.91,0:46:32.91,Default,,0000,0000,0000,,老婆
+Dialogue: 0,0:46:34.33,0:46:35.54,Default,,0000,0000,0000,,再过五年吧
+Dialogue: 0,0:46:36.75,0:46:39.83,Default,,0000,0000,0000,,五年后，总部会给你自由
+Dialogue: 0,0:47:09.75,0:47:12.62,Default,,0000,0000,0000,,你今天分组抽到支好签喔，跟井Sir
+Dialogue: 0,0:47:12.79,0:47:13.79,Default,,0000,0000,0000,,是吗？
+Dialogue: 0,0:47:32.95,0:47:34.45,Default,,0000,0000,0000,,总部教过你
+Dialogue: 0,0:47:34.45,0:47:37.45,Default,,0000,0000,0000,,你有关心的人结果会更惨，你看到了吧！
+Dialogue: 0,0:47:39.33,0:47:40.50,Default,,0000,0000,0000,,其实你认不认得我？
+Dialogue: 0,0:47:40.50,0:47:42.91,Default,,0000,0000,0000,,两年前在粉岭的反恐训练
+Dialogue: 0,0:47:42.91,0:47:44.33,Default,,0000,0000,0000,,我跟过你
+Dialogue: 0,0:47:45.33,0:47:46.50,Default,,0000,0000,0000,,不认得
+Dialogue: 0,0:47:58.66,0:48:00.04,Default,,0000,0000,0000,,阿Dee
+Dialogue: 0,0:48:07.33,0:48:08.37,Default,,0000,0000,0000,,奀仔
+Dialogue: 0,0:48:38.37,0:48:39.08,Default,,0000,0000,0000,,喝口水
+Dialogue: 0,0:48:39.37,0:48:41.62,Default,,0000,0000,0000,,你要杀就杀，别浪费时间
+Dialogue: 0,0:48:43.41,0:48:44.37,Default,,0000,0000,0000,,2013年
+Dialogue: 0,0:48:44.87,0:48:46.45,Default,,0000,0000,0000,,你成为独立记者
+Dialogue: 0,0:48:46.45,0:48:47.79,Default,,0000,0000,0000,,去了菲律宾的红灯区
+Dialogue: 0,0:48:47.79,0:48:49.16,Default,,0000,0000,0000,,做深度采访
+Dialogue: 0,0:48:50.83,0:48:53.00,Default,,0000,0000,0000,,一去，便去了三年
+Dialogue: 0,0:49:01.41,0:49:02.45,Default,,0000,0000,0000,,2017年
+Dialogue: 0,0:49:02.45,0:49:04.41,Default,,0000,0000,0000,,你在整个新闻圈内消失
+Dialogue: 0,0:49:04.58,0:49:06.00,Default,,0000,0000,0000,,直至最近才活跃起来
+Dialogue: 0,0:49:07.75,0:49:10.04,Default,,0000,0000,0000,,你消失的原因，是因为她
+Dialogue: 0,0:49:10.58,0:49:12.95,Default,,0000,0000,0000,,一个麻省理工的高材生去当记者
+Dialogue: 0,0:49:12.95,0:49:14.58,Default,,0000,0000,0000,,是想借着记者的背景
+Dialogue: 0,0:49:14.58,0:49:16.41,Default,,0000,0000,0000,,去一些特殊的地方找人
+Dialogue: 0,0:49:16.62,0:49:17.70,Default,,0000,0000,0000,,很可惜
+Dialogue: 0,0:49:19.45,0:49:21.33,Default,,0000,0000,0000,,当你找到你想找的人的时候
+Dialogue: 0,0:49:23.62,0:49:25.00,Default,,0000,0000,0000,,她已经不幸离世
+Dialogue: 0,0:49:46.12,0:49:48.45,Default,,0000,0000,0000,,你为什么要把她给搜出来？
+Dialogue: 0,0:49:48.75,0:49:50.62,Default,,0000,0000,0000,,我妹妹死得很惨
+Dialogue: 0,0:49:51.75,0:49:53.45,Default,,0000,0000,0000,,她死得很惨
+Dialogue: 0,0:49:54.08,0:49:56.08,Default,,0000,0000,0000,,就是你们把我妹妹抓走
+Dialogue: 0,0:49:56.33,0:49:58.58,Default,,0000,0000,0000,,她从营里逃走出来的时候
+Dialogue: 0,0:49:58.58,0:50:00.62,Default,,0000,0000,0000,,你们送她去卖淫
+Dialogue: 0,0:50:06.08,0:50:07.62,Default,,0000,0000,0000,,她才八岁呀
+Dialogue: 0,0:50:07.95,0:50:10.25,Default,,0000,0000,0000,,为什么你们不直接杀死她
+Dialogue: 0,0:50:10.25,0:50:14.58,Default,,0000,0000,0000,,就算你杀了我，我也不会帮你们解锁的
+Dialogue: 0,0:50:14.58,0:50:16.25,Default,,0000,0000,0000,,程滔他不是坏人
+Dialogue: 0,0:50:21.95,0:50:23.91,Default,,0000,0000,0000,,他一直都在听我的命令做事
+Dialogue: 0,0:50:24.75,0:50:27.66,Default,,0000,0000,0000,,在缅甸为了保住你的硬碟
+Dialogue: 0,0:50:27.66,0:50:29.16,Default,,0000,0000,0000,,所以他假装失踪
+Dialogue: 0,0:50:35.29,0:50:37.04,Default,,0000,0000,0000,,拿到硬碟
+Dialogue: 0,0:50:40.16,0:50:41.87,Default,,0000,0000,0000,,那硬碟在我手
+Dialogue: 0,0:50:41.87,0:50:42.75,Default,,0000,0000,0000,,做得好
+Dialogue: 0,0:50:43.00,0:50:46.62,Default,,0000,0000,0000,,他抓你来这里，也是听我命令要保护你
+Dialogue: 0,0:51:01.16,0:51:03.70,Default,,0000,0000,0000,,他其实是隶属香港警队一个专门
+Dialogue: 0,0:51:03.70,0:51:06.08,Default,,0000,0000,0000,,打击恐怖分子的神秘部队
+Dialogue: 0,0:51:08.08,0:51:11.54,Default,,0000,0000,0000,,IFF，隐形战线部队
+Dialogue: 0,0:51:12.25,0:51:14.87,Default,,0000,0000,0000,,因为要高度保密，所以隐形战线部队
+Dialogue: 0,0:51:14.87,0:51:16.91,Default,,0000,0000,0000,,是在警队常规编制以外
+Dialogue: 0,0:51:17.54,0:51:19.54,Default,,0000,0000,0000,,他们是直接向我报告
+Dialogue: 0,0:51:28.00,0:51:29.87,Default,,0000,0000,0000,,既然要高度保密
+Dialogue: 0,0:51:31.37,0:51:32.91,Default,,0000,0000,0000,,那为什么要告诉我？
+Dialogue: 0,0:51:33.45,0:51:35.50,Default,,0000,0000,0000,,我想请你一起打击恐怖分子
+Dialogue: 0,0:51:35.83,0:51:38.54,Default,,0000,0000,0000,,我想知道他们一直要抓你的原因
+Dialogue: 0,0:51:39.29,0:51:41.08,Default,,0000,0000,0000,,因为我锁住了他们的电脑系统
+Dialogue: 0,0:51:43.66,0:51:45.87,Default,,0000,0000,0000,,当时，我不够时间下载所有档案
+Dialogue: 0,0:51:45.87,0:51:47.04,Default,,0000,0000,0000,,所以灵机一触
+Dialogue: 0,0:51:47.04,0:51:48.70,Default,,0000,0000,0000,,我向他们发送了个病毒
+Dialogue: 0,0:51:49.08,0:51:51.75,Default,,0000,0000,0000,,病毒的功能就是瘫痪他们的电脑系统
+Dialogue: 0,0:51:51.75,0:51:53.58,Default,,0000,0000,0000,,并且不能再进行任何操作
+Dialogue: 0,0:51:53.58,0:51:54.37,Default,,0000,0000,0000,,也就是说
+Dialogue: 0,0:51:54.37,0:51:56.87,Default,,0000,0000,0000,,他们再打不开他们资料中心的任何内容
+Dialogue: 0,0:51:56.87,0:51:58.50,Default,,0000,0000,0000,,而唯一解锁的方法
+Dialogue: 0,0:52:00.79,0:52:02.12,Default,,0000,0000,0000,,就是我的虹膜
+Dialogue: 0,0:52:06.70,0:52:07.75,Default,,0000,0000,0000,,我们现在身处的位置
+Dialogue: 0,0:52:07.75,0:52:10.54,Default,,0000,0000,0000,,就是失踪警司井进贤的家外
+Dialogue: 0,0:52:10.54,0:52:12.91,Default,,0000,0000,0000,,里面有大批探员仍然在搜证
+Dialogue: 0,0:52:13.75,0:52:14.95,Default,,0000,0000,0000,,至于怀疑被人拐走
+Dialogue: 0,0:52:14.95,0:52:18.58,Default,,0000,0000,0000,,车撞人案的关键证人姚可仪，警方现正…
+Dialogue: 0,0:52:18.58,0:52:21.41,Default,,0000,0000,0000,,放心，我们已经接到你的女儿了
+Dialogue: 0,0:52:29.20,0:52:30.04,Default,,0000,0000,0000,,谢谢
+Dialogue: 0,0:52:30.04,0:52:31.91,Default,,0000,0000,0000,,知不知道有人放风说
+Dialogue: 0,0:52:31.91,0:52:34.12,Default,,0000,0000,0000,,姚可仪在他手上，想找买家？
+Dialogue: 0,0:52:34.12,0:52:35.45,Default,,0000,0000,0000,,不知道
+Dialogue: 0,0:52:35.45,0:52:38.29,Default,,0000,0000,0000,,连那个硬碟也在他们手上
+Dialogue: 0,0:52:38.29,0:52:39.29,Default,,0000,0000,0000,,什么人？
+Dialogue: 0,0:52:39.29,0:52:42.41,Default,,0000,0000,0000,,我们估计那个是在缅甸失踪的警察
+Dialogue: 0,0:52:42.41,0:52:43.79,Default,,0000,0000,0000,,即是你的老搭档
+Dialogue: 0,0:52:44.04,0:52:47.08,Default,,0000,0000,0000,,他是刑事情报科的人，不是我老搭档
+Dialogue: 0,0:52:47.08,0:52:48.58,Default,,0000,0000,0000,,摸清楚他的底细
+Dialogue: 0,0:52:48.58,0:52:50.95,Default,,0000,0000,0000,,用你的身份，把他约出来
+Dialogue: 0,0:52:51.37,0:52:52.16,Default,,0000,0000,0000,,明白
+Dialogue: 0,0:52:52.16,0:52:53.25,Default,,0000,0000,0000,,等我的消息吧
+Dialogue: 0,0:53:07.87,0:53:09.62,Default,,0000,0000,0000,,井进贤穿窗逃走
+Dialogue: 0,0:53:09.62,0:53:11.12,Default,,0000,0000,0000,,留下的血液样本
+Dialogue: 0,0:53:11.12,0:53:12.54,Default,,0000,0000,0000,,经过DNA鉴定
+Dialogue: 0,0:53:12.54,0:53:15.79,Default,,0000,0000,0000,,证实井进贤，就是你小时候的朋友，奀仔
+Dialogue: 0,0:53:17.08,0:53:19.54,Default,,0000,0000,0000,,奀仔，我的就是你的
+Dialogue: 0,0:53:19.54,0:53:20.91,Default,,0000,0000,0000,,你的就是我的
+Dialogue: 0,0:53:23.00,0:53:24.12,Default,,0000,0000,0000,,这么多年以来
+Dialogue: 0,0:53:24.12,0:53:26.54,Default,,0000,0000,0000,,你一直查探你失踪朋友的消
+Dialogue: 0,0:53:26.54,0:53:27.25,Default,,0000,0000,0000,,不断提供
+Dialogue: 0,0:53:27.25,0:53:29.33,Default,,0000,0000,0000,,神秘集团的情报给我们
+Dialogue: 0,0:53:30.20,0:53:30.95,Default,,0000,0000,0000,,为什么？
+Dialogue: 0,0:53:30.95,0:53:34.33,Default,,0000,0000,0000,,我敢肯定，我朋友当年就是被神秘集团掳走
+Dialogue: 0,0:53:34.33,0:53:35.58,Default,,0000,0000,0000,,他是无辜的
+Dialogue: 0,0:53:35.58,0:53:37.79,Default,,0000,0000,0000,,如果小时候不是因为他救了我
+Dialogue: 0,0:53:37.79,0:53:39.50,Default,,0000,0000,0000,,今天的我，就是贼
+Dialogue: 0,0:53:39.50,0:53:40.41,Default,,0000,0000,0000,,Sir！
+Dialogue: 0,0:53:41.00,0:53:42.70,Default,,0000,0000,0000,,今天你终于等到一个机会
+Dialogue: 0,0:53:42.70,0:53:45.00,Default,,0000,0000,0000,,警队准备成立一个新的部队
+Dialogue: 0,0:53:45.00,0:53:47.95,Default,,0000,0000,0000,,希望你透过这里，可以找回你的朋友
+Dialogue: 0,0:53:50.37,0:53:54.00,Default,,0000,0000,0000,,Sir，严格来说，他也是受害人
+Dialogue: 0,0:53:54.20,0:53:57.54,Default,,0000,0000,0000,,可不可以在行动之前，让我跟他说几句？
+Dialogue: 0,0:53:58.45,0:54:01.00,Default,,0000,0000,0000,,他小时候的确是受害人
+Dialogue: 0,0:54:01.00,0:54:02.54,Default,,0000,0000,0000,,但是时至今日
+Dialogue: 0,0:54:02.87,0:54:05.16,Default,,0000,0000,0000,,你已经没办法估计他变成什么样
+Dialogue: 0,0:54:05.50,0:54:09.00,Default,,0000,0000,0000,,你对他心软，他会不会也是一样？
+Dialogue: 0,0:54:10.08,0:54:12.37,Default,,0000,0000,0000,,Sir，我觉得他是有苦衷
+Dialogue: 0,0:54:12.83,0:54:14.70,Default,,0000,0000,0000,,在缅甸他帮我挡过枪
+Dialogue: 0,0:54:17.16,0:54:19.20,Default,,0000,0000,0000,,还有，他向我开那两枪
+Dialogue: 0,0:54:22.33,0:54:23.54,Default,,0000,0000,0000,,都是故意射失
+Dialogue: 0,0:54:23.83,0:54:25.16,Default,,0000,0000,0000,,他不知道是空弹
+Dialogue: 0,0:54:25.62,0:54:28.00,Default,,0000,0000,0000,,我觉得，他根本就没有想过要杀我
+Dialogue: 0,0:54:30.87,0:54:31.87,Default,,0000,0000,0000,,好
+Dialogue: 0,0:54:33.12,0:54:34.41,Default,,0000,0000,0000,,五分钟
+Dialogue: 0,0:54:34.41,0:54:37.29,Default,,0000,0000,0000,,五分钟之后，梁Sir就会带队攻进去
+Dialogue: 0,0:54:37.75,0:54:39.29,Default,,0000,0000,0000,,收到！ 谢谢！
+Dialogue: 0,0:54:43.41,0:54:44.95,Default,,0000,0000,0000,,记住听指令
+Dialogue: 0,0:55:03.37,0:55:04.25,Default,,0000,0000,0000,,还有没有玩这个？
+Dialogue: 0,0:55:11.12,0:55:14.00,Default,,0000,0000,0000,,姚可仪，硬碟，开个价
+Dialogue: 0,0:55:15.75,0:55:17.12,Default,,0000,0000,0000,,我记得小时候
+Dialogue: 0,0:55:17.45,0:55:18.87,Default,,0000,0000,0000,,我跟你在孤儿院
+Dialogue: 0,0:55:18.87,0:55:20.16,Default,,0000,0000,0000,,玩扭计骰很棒
+Dialogue: 0,0:55:20.54,0:55:23.50,Default,,0000,0000,0000,,也很调皮，老师都很讨厌我们
+Dialogue: 0,0:55:23.50,0:55:25.37,Default,,0000,0000,0000,,但是知道我们很聪明
+Dialogue: 0,0:55:25.37,0:55:27.08,Default,,0000,0000,0000,,害他们经常很矛盾
+Dialogue: 0,0:55:28.37,0:55:29.79,Default,,0000,0000,0000,,我没什么耐性
+Dialogue: 0,0:55:36.41,0:55:38.58,Default,,0000,0000,0000,,这是你小时候的档案
+Dialogue: 0,0:55:42.62,0:55:44.87,Default,,0000,0000,0000,,其实我跟你分开这么多年
+Dialogue: 0,0:55:46.79,0:55:48.58,Default,,0000,0000,0000,,很多事我已经很模糊
+Dialogue: 0,0:55:51.41,0:55:52.70,Default,,0000,0000,0000,,我只记得
+Dialogue: 0,0:55:53.79,0:55:56.00,Default,,0000,0000,0000,,你开心笑的时候的样子
+Dialogue: 0,0:55:58.62,0:56:00.33,Default,,0000,0000,0000,,原来是你老朋友
+Dialogue: 0,0:56:00.75,0:56:03.20,Default,,0000,0000,0000,,听语气，他挺想跟你叙旧
+Dialogue: 0,0:56:05.91,0:56:07.50,Default,,0000,0000,0000,,你一时又说钱可靠
+Dialogue: 0,0:56:07.50,0:56:09.12,Default,,0000,0000,0000,,现在又跟我玩叙旧
+Dialogue: 0,0:56:09.12,0:56:10.37,Default,,0000,0000,0000,,你想清楚再跟我说
+Dialogue: 0,0:56:10.79,0:56:12.12,Default,,0000,0000,0000,,没时间了
+Dialogue: 0,0:56:12.12,0:56:14.66,Default,,0000,0000,0000,,奀仔，给我个机会帮你
+Dialogue: 0,0:56:16.12,0:56:17.12,Default,,0000,0000,0000,,开价
+Dialogue: 0,0:56:20.83,0:56:23.16,Default,,0000,0000,0000,,程Sir，你刑事情报科的长官来了
+Dialogue: 0,0:57:02.95,0:57:05.87,Default,,0000,0000,0000,,看到你们两个出现我真的很开心
+Dialogue: 0,0:57:06.37,0:57:11.45,Default,,0000,0000,0000,,我还日日夜夜以为我害了你，滔
+Dialogue: 0,0:57:11.75,0:57:14.20,Default,,0000,0000,0000,,看到你齐齐整整完好无缺
+Dialogue: 0,0:57:14.20,0:57:16.04,Default,,0000,0000,0000,,我真的放心
+Dialogue: 0,0:57:20.66,0:57:21.70,Default,,0000,0000,0000,,怎么了，阿井？
+Dialogue: 0,0:57:22.50,0:57:25.25,Default,,0000,0000,0000,,害我还担心你被恐怖分子抓了
+Dialogue: 0,0:57:25.25,0:57:27.62,Default,,0000,0000,0000,,原来你们两个自己约见面
+Dialogue: 0,0:57:31.20,0:57:32.66,Default,,0000,0000,0000,,怎样？这么开心的事
+Dialogue: 0,0:57:32.66,0:57:34.45,Default,,0000,0000,0000,,有什么可以分享一下？
+Dialogue: 0,0:57:34.66,0:57:36.58,Default,,0000,0000,0000,,你想知道的事我会回答你
+Dialogue: 0,0:57:37.08,0:57:38.45,Default,,0000,0000,0000,,但你要先走
+Dialogue: 0,0:57:43.83,0:57:46.25,Default,,0000,0000,0000,,你口口声声叫我做师父，对吧？
+Dialogue: 0,0:57:47.37,0:57:50.91,Default,,0000,0000,0000,,现在你的线人知道的事情比我还多
+Dialogue: 0,0:57:51.41,0:57:53.45,Default,,0000,0000,0000,,你以后叫我师父，我该不该回应你？
+Dialogue: 0,0:57:59.41,0:58:00.87,Default,,0000,0000,0000,,阿井，你知不知有很多人
+Dialogue: 0,0:58:00.87,0:58:03.33,Default,,0000,0000,0000,,在你背后跟我说了你很多事
+Dialogue: 0,0:58:05.45,0:58:07.29,Default,,0000,0000,0000,,但我一样这么信任你
+Dialogue: 0,0:58:09.37,0:58:11.79,Default,,0000,0000,0000,,你们猜我有没有怀疑过你们两个？
+Dialogue: 0,0:58:14.62,0:58:15.50,Default,,0000,0000,0000,,没有
+Dialogue: 0,0:58:16.33,0:58:17.29,Default,,0000,0000,0000,,是没有
+Dialogue: 0,0:58:18.87,0:58:21.29,Default,,0000,0000,0000,,因为你们两个是我教出来的
+Dialogue: 0,0:58:21.79,0:58:24.12,Default,,0000,0000,0000,,如果连你们两个都怀疑
+Dialogue: 0,0:58:24.95,0:58:26.95,Default,,0000,0000,0000,,我觉得我做人会很失败
+Dialogue: 0,0:58:28.95,0:58:30.37,Default,,0000,0000,0000,,但是事实证明
+Dialogue: 0,0:58:31.50,0:58:33.04,Default,,0000,0000,0000,,我真的很失败
+Dialogue: 0,0:58:44.50,0:58:46.04,Default,,0000,0000,0000,,A出口有可疑人物
+Dialogue: 0,0:58:46.04,0:58:47.66,Default,,0000,0000,0000,,C出口有三个可疑身影
+Dialogue: 0,0:58:47.66,0:58:48.70,Default,,0000,0000,0000,,大队准备
+Dialogue: 0,0:58:48.70,0:58:50.12,Default,,0000,0000,0000,,如果大家没什么说的
+Dialogue: 0,0:58:50.12,0:58:52.16,Default,,0000,0000,0000,,便叫人把兄弟们约出来
+Dialogue: 0,0:58:52.16,0:58:53.66,Default,,0000,0000,0000,,给你们洗尘庆祝一下
+Dialogue: 0,0:58:53.66,0:58:54.33,Default,,0000,0000,0000,,不用
+Dialogue: 0,0:58:54.33,0:58:55.37,Default,,0000,0000,0000,,你走
+Dialogue: 0,0:58:56.54,0:58:58.04,Default,,0000,0000,0000,,我叫你走啊
+Dialogue: 0,0:58:58.20,0:58:59.83,Default,,0000,0000,0000,,是时候送他上路了
+Dialogue: 0,0:58:59.95,0:59:01.66,Default,,0000,0000,0000,,叫姓程的杀了他
+Dialogue: 0,0:59:03.00,0:59:04.16,Default,,0000,0000,0000,,杀了他
+Dialogue: 0,0:59:05.41,0:59:06.29,Default,,0000,0000,0000,,你疯了？
+Dialogue: 0,0:59:06.29,0:59:09.33,Default,,0000,0000,0000,,告诉他，如果他敢动手，随时跟他交易
+Dialogue: 0,1:00:15.08,1:00:15.95,Default,,0000,0000,0000,,上
+Dialogue: 0,1:01:38.37,1:01:39.54,Default,,0000,0000,0000,,按着它
+Dialogue: 0,1:01:39.75,1:01:40.79,Default,,0000,0000,0000,,按着它啊
+Dialogue: 0,1:01:43.91,1:01:45.50,Default,,0000,0000,0000,,你是不是在行动？
+Dialogue: 0,1:02:06.87,1:02:07.83,Default,,0000,0000,0000,,是！
+Dialogue: 0,1:02:08.75,1:02:10.29,Default,,0000,0000,0000,,我是在行动
+Dialogue: 0,1:02:33.41,1:02:36.58,Default,,0000,0000,0000,,现在歹徒要求在西班牙进行交易
+Dialogue: 0,1:02:36.58,1:02:38.37,Default,,0000,0000,0000,,程Sir会以卖家的身份
+Dialogue: 0,1:02:38.37,1:02:39.66,Default,,0000,0000,0000,,交出姚可仪
+Dialogue: 0,1:02:40.12,1:02:43.50,Default,,0000,0000,0000,,当地的反恐特别行动小组将会支援我们
+Dialogue: 0,1:02:43.50,1:02:45.16,Default,,0000,0000,0000,,我们会分成三组人
+Dialogue: 0,1:02:45.20,1:02:47.95,Default,,0000,0000,0000,,第一组，会是程Sir、Johnson还有阿超
+Dialogue: 0,1:02:47.95,1:02:51.16,Default,,0000,0000,0000,,第二组，会是攻击队还有狙击手队
+Dialogue: 0,1:02:51.25,1:02:54.20,Default,,0000,0000,0000,,第三组，会是技术支援队还有掩护队
+Dialogue: 0,1:02:54.20,1:02:56.37,Default,,0000,0000,0000,,梁Sir，于昨晚时间1 9点
+Dialogue: 0,1:02:56.37,1:02:58.04,Default,,0000,0000,0000,,那保姆抱了井进贤女儿
+Dialogue: 0,1:02:58.04,1:02:59.45,Default,,0000,0000,0000,,跟着两名男子离开
+Dialogue: 0,1:02:59.45,1:03:00.91,Default,,0000,0000,0000,,应该仍然在香港的
+Dialogue: 0,1:03:00.91,1:03:02.41,Default,,0000,0000,0000,,继续找，我要正确位置
+Dialogue: 0,1:03:02.58,1:03:03.58,Default,,0000,0000,0000,,收到
+Dialogue: 0,1:03:35.08,1:03:36.08,Default,,0000,0000,0000,,董先生
+Dialogue: 0,1:03:38.45,1:03:39.33,Default,,0000,0000,0000,,是
+Dialogue: 0,1:03:40.12,1:03:42.54,Default,,0000,0000,0000,,虽然还没有弄清楚程滔的动机
+Dialogue: 0,1:03:43.16,1:03:46.54,Default,,0000,0000,0000,,但是我觉得他应该跟香港警队仍然有关连
+Dialogue: 0,1:03:46.54,1:03:48.20,Default,,0000,0000,0000,,所以你们绝对不能轻敌
+Dialogue: 0,1:03:48.20,1:03:49.08,Default,,0000,0000,0000,,是
+Dialogue: 0,1:03:49.91,1:03:51.29,Default,,0000,0000,0000,,董生
+Dialogue: 0,1:03:51.29,1:03:52.20,Default,,0000,0000,0000,,说
+Dialogue: 0,1:03:55.41,1:03:56.62,Default,,0000,0000,0000,,也已经五年
+Dialogue: 0,1:03:57.75,1:03:59.87,Default,,0000,0000,0000,,我跟我女儿什么时候可以走？
+Dialogue: 0,1:03:59.87,1:04:02.29,Default,,0000,0000,0000,,你还有胆量提出来
+Dialogue: 0,1:04:03.70,1:04:05.66,Default,,0000,0000,0000,,我们帮你弄到警司的位置上
+Dialogue: 0,1:04:05.66,1:04:07.79,Default,,0000,0000,0000,,花了这么多心血在你身上
+Dialogue: 0,1:04:07.79,1:04:09.70,Default,,0000,0000,0000,,这么长时间以来，你贡献过什么？
+Dialogue: 0,1:04:09.91,1:04:11.75,Default,,0000,0000,0000,,现在弄到连身份也暴露了
+Dialogue: 0,1:04:12.16,1:04:14.16,Default,,0000,0000,0000,,总部也没有考虑过放弃你
+Dialogue: 0,1:04:14.16,1:04:16.12,Default,,0000,0000,0000,,还帮你重新来过
+Dialogue: 0,1:04:16.12,1:04:17.45,Default,,0000,0000,0000,,可你有想过
+Dialogue: 0,1:04:18.29,1:04:22.29,Default,,0000,0000,0000,,这会浪费总部，多少的资源和时间？
+Dialogue: 0,1:04:22.29,1:04:25.70,Default,,0000,0000,0000,,你懂的，以后不要再提走这个字了
+Dialogue: 0,1:04:26.20,1:04:27.54,Default,,0000,0000,0000,,你们父女俩
+Dialogue: 0,1:04:27.95,1:04:30.00,Default,,0000,0000,0000,,还要不要总部给的恩赐？
+Dialogue: 0,1:04:41.16,1:04:42.08,Default,,0000,0000,0000,,要
+Dialogue: 0,1:04:42.41,1:04:43.58,Default,,0000,0000,0000,,那就好
+Dialogue: 0,1:05:28.00,1:05:29.50,Default,,0000,0000,0000,,菲律宾特产
+Dialogue: 0,1:05:29.50,1:05:31.12,Default,,0000,0000,0000,,是我的童年回忆
+Dialogue: 0,1:05:32.20,1:05:35.00,Default,,0000,0000,0000,,吃颗糖吧，糖份可以使人放松
+Dialogue: 0,1:05:38.75,1:05:40.50,Default,,0000,0000,0000,,多谢你这一次愿意冒险帮我们
+Dialogue: 0,1:05:42.95,1:05:44.50,Default,,0000,0000,0000,,应该是说
+Dialogue: 0,1:05:47.37,1:05:49.04,Default,,0000,0000,0000,,我等这天等了很久
+Dialogue: 0,1:05:57.25,1:05:58.45,Default,,0000,0000,0000,,如果你有犹豫
+Dialogue: 0,1:05:59.16,1:06:00.33,Default,,0000,0000,0000,,现在反悔还来得及
+Dialogue: 0,1:06:03.79,1:06:04.87,Default,,0000,0000,0000,,放心吧
+Dialogue: 0,1:06:05.62,1:06:08.25,Default,,0000,0000,0000,,我相信我妹妹一定会保佑我
+Dialogue: 0,1:06:10.37,1:06:12.08,Default,,0000,0000,0000,,我已做好心理准备
+Dialogue: 0,1:06:40.62,1:06:43.04,Default,,0000,0000,0000,,董先生，找到他们的位置
+Dialogue: 0,1:06:48.29,1:06:49.62,Default,,0000,0000,0000,,目标锁定
+Dialogue: 0,1:07:24.54,1:07:26.08,Default,,0000,0000,0000,,C Team，准备好了吗？
+Dialogue: 0,1:07:26.58,1:07:27.54,Default,,0000,0000,0000,,到了！
+Dialogue: 0,1:07:27.62,1:07:29.33,Default,,0000,0000,0000,,好，在那边等通知
+Dialogue: 0,1:08:26.00,1:08:28.08,Default,,0000,0000,0000,,程Sir，9点方向
+Dialogue: 0,1:08:28.91,1:08:30.25,Default,,0000,0000,0000,,5点方向
+Dialogue: 0,1:08:30.25,1:08:31.75,Default,,0000,0000,0000,,两个目标3点方向
+Dialogue: 0,1:08:31.75,1:08:32.87,Default,,0000,0000,0000,,10点方向
+Dialogue: 0,1:08:44.41,1:08:46.45,Default,,0000,0000,0000,,董先生，他到了
+Dialogue: 0,1:08:46.91,1:08:48.04,Default,,0000,0000,0000,,随时开始
+Dialogue: 0,1:08:48.62,1:08:49.79,Default,,0000,0000,0000,,我先给你一半钱
+Dialogue: 0,1:08:50.95,1:08:52.75,Default,,0000,0000,0000,,你们杀了我好朋友
+Dialogue: 0,1:08:53.20,1:08:54.79,Default,,0000,0000,0000,,让我很不开心
+Dialogue: 0,1:08:55.91,1:08:57.20,Default,,0000,0000,0000,,所以现在协议改了
+Dialogue: 0,1:08:57.75,1:08:59.25,Default,,0000,0000,0000,,要加上你的命
+Dialogue: 0,1:09:04.95,1:09:06.08,Default,,0000,0000,0000,,对不起
+Dialogue: 0,1:09:08.91,1:09:09.95,Default,,0000,0000,0000,,我无能为力
+Dialogue: 0,1:09:11.20,1:09:13.95,Default,,0000,0000,0000,,Demon，把另外一部电话交给他
+Dialogue: 0,1:09:18.12,1:09:19.04,Default,,0000,0000,0000,,说
+Dialogue: 0,1:09:19.04,1:09:21.29,Default,,0000,0000,0000,,你有什么资格跟我的人算账？
+Dialogue: 0,1:09:22.16,1:09:24.87,Default,,0000,0000,0000,,我没资格？我现在就扔下电话
+Dialogue: 0,1:09:24.87,1:09:28.12,Default,,0000,0000,0000,,拉一头牛过来骑，骑完再跟你谈也可以
+Dialogue: 0,1:09:30.12,1:09:31.25,Default,,0000,0000,0000,,跟我玩？好
+Dialogue: 0,1:09:31.25,1:09:32.62,Default,,0000,0000,0000,,那我也跟你玩一下
+Dialogue: 0,1:09:33.25,1:09:36.29,Default,,0000,0000,0000,,你不把姚可仪交出来，没问题
+Dialogue: 0,1:09:36.66,1:09:38.33,Default,,0000,0000,0000,,我就找香港人算账
+Dialogue: 0,1:09:38.62,1:09:40.95,Default,,0000,0000,0000,,我最喜欢便是玩死亡游戏
+Dialogue: 0,1:09:44.79,1:09:46.87,Default,,0000,0000,0000,,除了这个，还有三个
+Dialogue: 0,1:09:47.12,1:09:48.62,Default,,0000,0000,0000,,会在下班的繁忙时间
+Dialogue: 0,1:09:48.62,1:09:51.45,Default,,0000,0000,0000,,一起爆炸，崩
+Dialogue: 0,1:09:59.20,1:10:02.45,Default,,0000,0000,0000,,怎么样？如果你不是代表香港警察的话
+Dialogue: 0,1:10:02.45,1:10:04.33,Default,,0000,0000,0000,,应该对你没什么影响
+Dialogue: 0,1:10:04.33,1:10:07.00,Default,,0000,0000,0000,,看来，你好像还有很多把戏
+Dialogue: 0,1:10:07.33,1:10:09.62,Default,,0000,0000,0000,,没错，我可以宣布交易取消
+Dialogue: 0,1:10:09.62,1:10:11.25,Default,,0000,0000,0000,,Demon、阿井，走
+Dialogue: 0,1:10:16.12,1:10:19.25,Default,,0000,0000,0000,,好啊，等一下，不要向我下跪
+Dialogue: 0,1:10:22.37,1:10:25.70,Default,,0000,0000,0000,,你以为你在隧道里换人神不知鬼不觉？
+Dialogue: 0,1:10:26.87,1:10:28.79,Default,,0000,0000,0000,,你骗不了我
+Dialogue: 0,1:10:45.29,1:10:46.75,Default,,0000,0000,0000,,目标锁定
+Dialogue: 0,1:11:03.37,1:11:05.08,Default,,0000,0000,0000,,你根本没有资格跟我谈交易
+Dialogue: 0,1:11:08.00,1:11:10.83,Default,,0000,0000,0000,,因为凭我的本事，已经解决所有的问题
+Dialogue: 0,1:11:30.20,1:11:32.41,Default,,0000,0000,0000,,成功解锁，系统修复中
+Dialogue: 0,1:11:36.33,1:11:39.12,Default,,0000,0000,0000,,如果想给我下跪的话，现在还来得及
+Dialogue: 0,1:12:35.83,1:12:36.83,Default,,0000,0000,0000,,修复失败
+Dialogue: 0,1:12:36.83,1:12:39.12,Default,,0000,0000,0000,,系统再次被高速入侵
+Dialogue: 0,1:12:43.12,1:12:46.12,Default,,0000,0000,0000,,撤离地点在你12点方向，800米以外
+Dialogue: 0,1:12:50.33,1:12:51.79,Default,,0000,0000,0000,,又是你说要取消交易的
+Dialogue: 0,1:12:51.79,1:12:53.25,Default,,0000,0000,0000,,现在又想继续啊？
+Dialogue: 0,1:12:53.75,1:12:55.91,Default,,0000,0000,0000,,你以为姚可仪真的被你掳走了？
+Dialogue: 0,1:13:11.25,1:13:12.83,Default,,0000,0000,0000,,C Team，准备好了吗？
+Dialogue: 0,1:13:12.83,1:13:13.41,Default,,0000,0000,0000,,到了
+Dialogue: 0,1:13:13.41,1:13:15.33,Default,,0000,0000,0000,,好，在那边等通知
+Dialogue: 0,1:13:15.58,1:13:16.45,Default,,0000,0000,0000,,收到
+Dialogue: 0,1:13:19.33,1:13:22.29,Default,,0000,0000,0000,,真的姚可仪正在参观你的秘密
+Dialogue: 0,1:13:33.08,1:13:36.54,Default,,0000,0000,0000,,你没发现刚刚你的电脑画面被扰了？
+Dialogue: 0,1:13:44.58,1:13:45.75,Default,,0000,0000,0000,,其实在那个时候
+Dialogue: 0,1:13:45.75,1:13:48.29,Default,,0000,0000,0000,,已经换上我们预先拍摄好的画面
+Dialogue: 0,1:13:53.41,1:13:56.95,Default,,0000,0000,0000,,我想你的杀手们，应该没命玩压轴游戏
+Dialogue: 0,1:14:04.25,1:14:05.41,Default,,0000,0000,0000,,还不明白？
+Dialogue: 0,1:14:05.41,1:14:07.91,Default,,0000,0000,0000,,就是当你以为收到虹膜解锁的时候
+Dialogue: 0,1:14:07.91,1:14:10.41,Default,,0000,0000,0000,,其实，只是另一种的电脑病毒
+Dialogue: 0,1:14:13.87,1:14:15.20,Default,,0000,0000,0000,,杀了那女的！
+Dialogue: 0,1:14:16.58,1:14:18.75,Default,,0000,0000,0000,,程Sir，我知道那三个炸的位置
+Dialogue: 0,1:14:18.75,1:14:20.41,Default,,0000,0000,0000,,我有机会追踪到他们基地的位置
+Dialogue: 0,1:14:31.50,1:14:34.08,Default,,0000,0000,0000,,防护数值15%，撤离，撤离
+Dialogue: 0,1:14:34.08,1:14:35.58,Default,,0000,0000,0000,,走啊！
+Dialogue: 0,1:14:39.25,1:14:40.20,Default,,0000,0000,0000,,走
+Dialogue: 0,1:14:55.37,1:14:57.16,Default,,0000,0000,0000,,走吧，可仪，走！
+Dialogue: 0,1:14:57.16,1:14:59.04,Default,,0000,0000,0000,,妹妹，保佑我
+Dialogue: 0,1:15:14.41,1:15:18.79,Default,,0000,0000,0000,,防护数值5%，撤离，撤离
+Dialogue: 0,1:15:26.20,1:15:30.58,Default,,0000,0000,0000,,防护数值3%，撤离，撤离
+Dialogue: 0,1:15:32.20,1:15:33.70,Default,,0000,0000,0000,,他们的基地不在西班牙
+Dialogue: 0,1:15:33.70,1:15:36.20,Default,,0000,0000,0000,,在香港！
+Dialogue: 0,1:15:39.00,1:15:40.50,Default,,0000,0000,0000,,马上通知反恐特勤队
+Dialogue: 0,1:15:52.45,1:15:56.83,Default,,0000,0000,0000,,防护数值1%，撤离，撤离
+Dialogue: 0,1:16:16.50,1:16:19.37,Default,,0000,0000,0000,,警察，站住，站住！
+Dialogue: 0,1:16:28.08,1:16:31.16,Default,,0000,0000,0000,,有炸弹，全部人离开，走！
+Dialogue: 0,1:16:31.87,1:16:34.75,Default,,0000,0000,0000,,Demon，阿井
+Dialogue: 0,1:16:35.50,1:16:37.08,Default,,0000,0000,0000,,杀了那警察！
+Dialogue: 0,1:17:21.87,1:17:23.54,Default,,0000,0000,0000,,墙壁
+Dialogue: 0,1:18:00.33,1:18:02.91,Default,,0000,0000,0000,,（救我女儿）
+Dialogue: 0,1:18:03.75,1:18:04.41,Default,,0000,0000,0000,,换弹
+Dialogue: 0,1:18:06.95,1:18:07.75,Default,,0000,0000,0000,,走！
+Dialogue: 0,1:18:56.29,1:18:57.79,Default,,0000,0000,0000,,销毁系统
+Dialogue: 0,1:24:15.66,1:24:17.33,Default,,0000,0000,0000,,你女儿很安全
+Dialogue: 0,1:24:24.79,1:24:27.75,Default,,0000,0000,0000,,妹妹不用怕，我是警察，跟我来
+Dialogue: 0,1:24:37.04,1:24:38.79,Default,,0000,0000,0000,,这么多年来
+Dialogue: 0,1:24:40.62,1:24:42.70,Default,,0000,0000,0000,,我只能为你做到这件事
+Dialogue: 0,1:24:45.04,1:24:47.08,Default,,0000,0000,0000,,但你替我熬了三十年
+Dialogue: 0,1:24:52.12,1:24:56.08,Default,,0000,0000,0000,,如果当初不是你回来救我
+Dialogue: 0,1:24:56.95,1:24:58.62,Default,,0000,0000,0000,,被人绑走的
+Dialogue: 0,1:24:59.33,1:25:00.66,Default,,0000,0000,0000,,是我才对
+Dialogue: 0,1:25:05.79,1:25:07.25,Default,,0000,0000,0000,,这么多年来
+Dialogue: 0,1:25:10.79,1:25:12.58,Default,,0000,0000,0000,,你是怎么过？
+Dialogue: 0,1:25:14.54,1:25:16.12,Default,,0000,0000,0000,,你是怎样过的？
+Dialogue: 0,1:25:33.66,1:25:35.08,Default,,0000,0000,0000,,阿Dee
+Dialogue: 0,1:25:36.08,1:25:37.25,Default,,0000,0000,0000,,没关系
+Dialogue: 0,1:25:38.83,1:25:40.08,Default,,0000,0000,0000,,过去了
+Dialogue: 0,1:25:41.75,1:25:42.91,Default,,0000,0000,0000,,没关系
+Dialogue: 0,1:25:50.75,1:25:52.00,Default,,0000,0000,0000,,做兄弟
+Dialogue: 0,1:25:53.29,1:25:54.95,Default,,0000,0000,0000,,这辈子还不完给你
+Dialogue: 0,1:25:55.66,1:25:57.29,Default,,0000,0000,0000,,下辈子我…
+Dialogue: 0,1:27:46.08,1:27:49.95,Default,,0000,0000,0000,,过来呀，你不是要救你兄弟吗？
+Dialogue: 0,1:28:03.04,1:28:04.37,Default,,0000,0000,0000,,阿Dee
+Dialogue: 0,1:28:06.54,1:28:08.04,Default,,0000,0000,0000,,下辈子见
+Dialogue: 0,1:28:26.12,1:28:27.08,Default,,0000,0000,0000,,放手！
+Dialogue: 0,1:28:27.25,1:28:28.04,Default,,0000,0000,0000,,放手！
+Dialogue: 0,1:28:28.66,1:28:29.75,Default,,0000,0000,0000,,放手！
+Dialogue: 0,1:29:44.08,1:29:51.25,Default,,0000,0000,0000,,「孤独的人 在回忆里入座」
+Dialogue: 0,1:29:51.83,1:29:58.50,Default,,0000,0000,0000,,「沿途漂泊 像故事的段落」
+Dialogue: 0,1:29:59.66,1:30:06.12,Default,,0000,0000,0000,,「某一句誓言 被时光藏匿了」
+Dialogue: 0,1:30:07.54,1:30:11.12,Default,,0000,0000,0000,,「多年后凝结 成琥珀」
+Dialogue: 0,1:30:11.12,1:30:13.87,Default,,0000,0000,0000,,三个月前，国际刑警分别在西班牙及菲律宾
+Dialogue: 0,1:30:13.87,1:30:15.79,Default,,0000,0000,0000,,捣破多个童兵训练营
+Dialogue: 0,1:30:15.79,1:30:17.83,Default,,0000,0000,0000,,被救出的儿童目前被安置于
+Dialogue: 0,1:30:17.83,1:30:19.37,Default,,0000,0000,0000,,当地的临时孤儿院
+Dialogue: 0,1:30:19.37,1:30:25.75,Default,,0000,0000,0000,,「人失去的 当欠了该还的」
+Dialogue: 0,1:30:27.20,1:30:33.58,Default,,0000,0000,0000,,「愿失散的 旧爱各得其所」
+Dialogue: 0,1:30:35.04,1:30:41.45,Default,,0000,0000,0000,,「我爱过遗憾 此生才无憾了」
+Dialogue: 0,1:30:42.87,1:30:50.41,Default,,0000,0000,0000,,「赠你的挂念 是沉默」
+Dialogue: 0,1:30:54.75,1:31:01.83,Default,,0000,0000,0000,,「但愿你我 别再问为什么」
+Dialogue: 0,1:31:02.58,1:31:10.16,Default,,0000,0000,0000,,「风吹云散来得也去得 谁参得透因果」
+Dialogue: 0,1:31:10.54,1:31:17.41,Default,,0000,0000,0000,,「但愿你我 能如约的快乐」
+Dialogue: 0,1:31:18.08,1:31:25.83,Default,,0000,0000,0000,,「才不辜负 相遇多难得」
+Dialogue: 0,1:31:30.66,1:31:38.04,Default,,0000,0000,0000,,「时光好似列车 我们都是旅客」
+Dialogue: 0,1:31:38.50,1:31:45.83,Default,,0000,0000,0000,,「最美不过 同行过」

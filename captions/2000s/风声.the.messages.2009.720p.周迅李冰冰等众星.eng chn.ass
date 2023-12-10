@@ -1,0 +1,1101 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: en,华文中宋,15,&H0087FDFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,2,2,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:26.21,0:01:29.63,en,,0,0,0,,CHlNA, DURING THE SlNO-JAPANESE WAR
+Dialogue: 0,0:01:30.09,0:01:33.75,en,,0,0,0,,A BITTER POWER STRUGGLE TEARS THE COUNTRY APART
+Dialogue: 0,0:01:34.26,0:01:38.09,en,,0,0,0,,VICE PRESIDENT WANG DECLARES A NEW GOVERNMENT
+Dialogue: 0,0:01:40.60,0:01:43.76,en,,0,0,0,,BACKED BY THE INVADING JAPANESE ARMY
+Dialogue: 0,0:01:44.43,0:01:47.27,en,,0,0,0,,THIS PUPPET REGIME TRIES TO LURE AWAY OFFICIALS
+Dialogue: 0,0:01:47.94,0:01:53.40,en,,0,0,0,,FROM CHIANG KAI-SHEK'S CAMP TO FURTHER GAIN FAVOR WITH HIS JAPANESE MASTERS
+Dialogue: 0,0:02:10.08,0:02:12.50,en,,0,0,0,,WANG BRUTALLY CLAMPS DOWN THE RESISTANCE
+Dialogue: 0,0:02:12.63,0:02:15.09,en,,0,0,0,,THAT SEEKS TO RETURN CHINA TO THE CHINESE
+Dialogue: 0,0:02:15.21,0:02:18.97,en,,0,0,0,,AS THE PUPPET REGIME GROWS MORE TYRANNICAL
+Dialogue: 0,0:02:19.09,0:02:22.64,en,,0,0,0,,THE RESISTANCE COUNTERS WITH INCREASINGLY BLOODY ASSASSINATIONS
+Dialogue: 0,0:02:25.06,0:02:31.56,en,,0,0,0,,< The Message >\Ncym合并中英字
+Dialogue: 0,0:02:59.59,0:03:04.85,en,,0,0,0,,OCTOBER 10, 1942...THE NATIONAL HOLIDAY
+Dialogue: 0,0:03:27.54,0:03:28.95,en,,0,0,0,,Sorry\N对不起
+Dialogue: 0,0:03:28.95,0:03:30.95,en,,0,0,0,,We're closed tonight\N今天这里不营业
+Dialogue: 0,0:03:30.96,0:03:33.21,en,,0,0,0,,How come? We're trying to celebrate\N为什么今天过节啊
+Dialogue: 0,0:03:33.37,0:03:35.37,en,,0,0,0,,The whole restaurant's booked\N场子被我们包了
+Dialogue: 0,0:03:35.63,0:03:37.63,en,,0,0,0,,Got it?\N明白吗
+Dialogue: 0,0:03:43.13,0:03:48.22,en,,0,0,0,,Even General Tang has joined us\N连唐生明将军都到南京跟汪主席合作了
+Dialogue: 0,0:03:48.72,0:03:52.52,en,,0,0,0,,And he's not the only one, of course You know General He and the rest of them\N还有齐燮元，何行健，李长齐
+Dialogue: 0,0:03:52.81,0:03:56.15,en,,0,0,0,,We're beating back Chiang Kai-shek and his men in every battle\N目前重庆方面是节节败退
+Dialogue: 0,0:03:56.65,0:04:00.57,en,,0,0,0,,His government won't be able to hold out much longer\N蒋介石四面投降是迟早的事
+Dialogue: 0,0:04:01.74,0:04:04.49,en,,0,0,0,,President Wang holds you in the highest esteem\N汪主席非常敬仰您
+Dialogue: 0,0:04:04.78,0:04:06.74,en,,0,0,0,,He sent me here to invite you\N特别交代下来
+Dialogue: 0,0:04:06.74,0:04:09.58,en,,0,0,0,,to join him on the viewing platform at the ceremony\N要我今天一定请您老到观礼台就坐
+Dialogue: 0,0:04:11.29,0:04:13.29,en,,0,0,0,,He would be most honored\Neven if you're only there briefly\N哪怕就一分钟
+Dialogue: 0,0:04:24.59,0:04:31.09,en,,0,0,0,,President Wang needs the support of people like you\N您的出面具有非常意义,和平政府需要像您这样的大家出来执掌局面
+Dialogue: 0,0:04:47.70,0:04:49.70,en,,0,0,0,,Go ahead\N去吧
+Dialogue: 0,0:04:53.79,0:04:57.46,en,,0,0,0,,The Chungking-style chicken here is the genuine article\N这里的粉蒸鸡可是纯正的重庆味儿
+Dialogue: 0,0:04:57.79,0:05:01.09,en,,0,0,0,,You've been holed up in the North too long. Have a taste\N您隐居在北方 难得一尝
+Dialogue: 0,0:05:03.05,0:05:04.63,en,,0,0,0,,Mr. Fan\N范老先生
+Dialogue: 0,0:05:04.63,0:05:07.80,en,,0,0,0,,I need your answer now\N您好歹给我一个交代
+Dialogue: 0,0:05:32.41,0:05:34.75,en,,0,0,0,,"Wang's Intelligence Gunned Down by Rebels"
+Dialogue: 0,0:05:34.87,0:05:38.62,en,,0,0,0,,"Imperial Officer Poisoned"
+Dialogue: 0,0:05:43.05,0:05:45.05,en,,0,0,0,,"Terrorists Strike Down Imperial Officer"
+Dialogue: 0,0:05:45.51,0:05:49.18,en,,0,0,0,,"Rebels attack the Imperial Research Center"
+Dialogue: 0,0:05:53.81,0:05:56.93,en,,0,0,0,,"Transport Facility Destroyed in Rebel Bomb Attack"
+Dialogue: 0,0:05:57.48,0:06:00.06,en,,0,0,0,,"Japanese Imperial Officer Axed"
+Dialogue: 0,0:06:10.41,0:06:14.12,en,,0,0,0,,JAPANESE MILITARY POLICE DEPARTMENT -
+Dialogue: 0,0:06:22.38,0:06:24.38,en,,0,0,0,,Smells nice...\N真香啊
+Dialogue: 0,0:06:26.30,0:06:28.30,en,,0,0,0,,Doesn't it?\N这是一种香料
+Dialogue: 0,0:06:28.55,0:06:30.55,en,,0,0,0,,It comes from Sri Lanka\N从斯里兰卡来的
+Dialogue: 0,0:06:32.47,0:06:34.55,en,,0,0,0,,Drives our Puppy crazy\N八妞最喜欢
+Dialogue: 0,0:06:36.56,0:06:40.02,en,,0,0,0,,Now tell me - because you will sooner or later-\N说吧 早晚都得说
+Dialogue: 0,0:06:40.90,0:06:43.06,en,,0,0,0,,Who do you get your orders from?\N你们的情报是从哪来的
+Dialogue: 0,0:07:12.18,0:07:12.88,en,,0,0,0,,Puppy\N八妞
+Dialogue: 0,0:07:12.89,0:07:14.89,en,,0,0,0,,Go\N上
+Dialogue: 0,0:07:28.53,0:07:30.53,en,,0,0,0,,Colonel Takeda\N武田长
+Dialogue: 0,0:07:32.41,0:07:34.78,en,,0,0,0,,You must be Mr. Six\N您一定就是六爷
+Dialogue: 0,0:07:35.12,0:07:36.70,en,,0,0,0,,I'm a great admirer of your work\N久仰
+Dialogue: 0,0:07:36.70,0:07:38.54,en,,0,0,0,,You're too kind\N不敢不敢不敢
+Dialogue: 0,0:07:38.54,0:07:41.20,en,,0,0,0,,Col. Takeda has a remarkable command of Chinese\N太君的中国话说的真是太好啦
+Dialogue: 0,0:07:41.33,0:07:42.71,en,,0,0,0,,She's a tough one\N那女的很硬
+Dialogue: 0,0:07:42.71,0:07:44.29,en,,0,0,0,,We've tried everything at our disposal\N用尽了一切手段
+Dialogue: 0,0:07:44.29,0:07:45.50,en,,0,0,0,,She won't break\N都不肯开口
+Dialogue: 0,0:07:45.50,0:07:47.29,en,,0,0,0,,Then Mr. Six is the man for the job\N那请六爷就对了
+Dialogue: 0,0:07:47.30,0:07:49.30,en,,0,0,0,,Don't let me keep you\N一切拜托了
+Dialogue: 0,0:07:54.68,0:07:56.93,en,,0,0,0,,Just turn these assassinations over...\N摧毁暗杀组织的事情
+Dialogue: 0,0:07:57.31,0:07:59.31,en,,0,0,0,,...to the Chinese authorities\N交给汪政府的剿匪司令部就行了
+Dialogue: 0,0:07:59.81,0:08:02.64,en,,0,0,0,,You'll be sent back to the Home Islands soon enough\N你马上就要被遣送回本土了
+Dialogue: 0,0:08:03.48,0:08:06.15,en,,0,0,0,,Don't get mixed up in all this\N还搀和这做什么
+Dialogue: 0,0:08:06.31,0:08:07.23,en,,0,0,0,,Gen. Tsukeda, sir-\N报告挂尾中将
+Dialogue: 0,0:08:07.23,0:08:09.02,en,,0,0,0,,The head of the Resistance...\N这一系列暗杀行动
+Dialogue: 0,0:08:09.03,0:08:12.11,en,,0,0,0,,...is a man code-named Magnum\N是反日组织领导人“老枪”策划的
+Dialogue: 0,0:08:13.20,0:08:15.49,en,,0,0,0,,Though he's never exposed himself\N“老枪”一直神出鬼没
+Dialogue: 0,0:08:15.66,0:08:19.53,en,,0,0,0,,He is behind these assassinations\N从未泄露过真面目
+Dialogue: 0,0:08:19.66,0:08:21.58,en,,0,0,0,,I've got a strong feeling that\N我有强烈直觉
+Dialogue: 0,0:08:21.58,0:08:23.16,en,,0,0,0,,Magnum has a mole in our operations\N我们的内部有老枪的卧底
+Dialogue: 0,0:08:23.16,0:08:26.17,en,,0,0,0,,Feelings are for women, Takeda\N直觉是女人的擅长
+Dialogue: 0,0:08:26.58,0:08:30.75,en,,0,0,0,,Feelings don't have any place in war\N武田君什么时候也开始靠直觉打仗了
+Dialogue: 0,0:08:44.14,0:08:46.14,en,,0,0,0,,My part in the war is almost over, sir\N我即将退出战场
+Dialogue: 0,0:08:46.27,0:08:49.11,en,,0,0,0,,This would be my last chance to redeem myself\N这是我的最后一次机会
+Dialogue: 0,0:08:49.23,0:08:52.19,en,,0,0,0,,I cannot return home as a failure. It would bring shame to my family\N我不能饮败而归 致家族蒙羞
+Dialogue: 0,0:09:22.31,0:09:24.31,en,,0,0,0,,That woman finally cracked\N那女的招了
+Dialogue: 0,0:09:30.52,0:09:32.61,en,,0,0,0,,She's with Magnum alright\N她的确是老枪的部下
+Dialogue: 0,0:09:34.07,0:09:35.40,en,,0,0,0,,She says they get their orders\N他们每次行动之前
+Dialogue: 0,0:09:35.40,0:09:40.62,en,,0,0,0,,from a message board in front of the city temple\N都会有人在城隍庙前的告示栏，分别给他们贴发指令
+Dialogue: 0,0:09:41.24,0:09:43.62,en,,0,0,0,,The orders are written on a lottery flyer\N指令都写在彩票广告上
+Dialogue: 0,0:09:47.16,0:09:50.38,en,,0,0,0,,That sounds like their M. O.\N这符合他们的一贯做法
+Dialogue: 0,0:09:54.09,0:09:56.55,en,,0,0,0,,We found this in her home\N这是从她家搜出来的
+Dialogue: 0,0:10:02.10,0:10:04.81,en,,0,0,0,,Has she ever met the person who posts the flyers?\N她遇见过贴指令的人吗
+Dialogue: 0,0:10:05.02,0:10:07.02,en,,0,0,0,,She bumped into him once\N撞见过一次
+Dialogue: 0,0:10:07.14,0:10:09.14,en,,0,0,0,,He's an old cripple\N是个瘸子
+Dialogue: 0,0:10:15.11,0:10:18.45,en,,0,0,0,,CITY TEMPLE -
+Dialogue: 0,0:10:48.31,0:10:50.35,en,,0,0,0,,Commissioner, I've seen the cripple before\N处长 我认识那个瘸子
+Dialogue: 0,0:10:50.48,0:10:52.81,en,,0,0,0,,He's a janitor at the Counterinsurgency Center.\N他是我们司令部的清洁工
+Dialogue: 0,0:10:59.15,0:11:01.15,en,,0,0,0,,-Retreat! -Yes sir!\N-撤        -是
+Dialogue: 0,0:11:12.83,0:11:17.00,en,,0,0,0,,Mission abort!\N行动取消
+Dialogue: 0,0:11:28.10,0:11:30.52,en,,0,0,0,,You did the right thing\N你放他走是对的
+Dialogue: 0,0:11:30.89,0:11:32.89,en,,0,0,0,,If you'd taken him in\N要当场逮人
+Dialogue: 0,0:11:33.35,0:11:35.90,en,,0,0,0,,We'd have lost our only lead\N线索就永远断了
+Dialogue: 0,0:11:36.19,0:11:40.40,en,,0,0,0,,If the person who posts the flyers is a janitor at our Counterinsurgency Center.\N贴告示的那个人既然是我们司令部的清洁工
+Dialogue: 0,0:11:40.86,0:11:42.70,en,,0,0,0,,Then we can also presume\N可以合理判断
+Dialogue: 0,0:11:42.70,0:11:43.95,en,,0,0,0,,that he's getting his information\N给他情报的人
+Dialogue: 0,0:11:43.95,0:11:47.41,en,,0,0,0,,from someone else working at the Counterinsurgency Center.\N也潜伏在司令部里
+Dialogue: 0,0:11:48.20,0:11:49.54,en,,0,0,0,,Correct\N不错
+Dialogue: 0,0:11:49.54,0:11:53.87,en,,0,0,0,,Our sources say their codename is Phantom\N线报显示这个卧底代号叫老鬼
+Dialogue: 0,0:11:55.46,0:11:57.46,en,,0,0,0,,The next move is ours\N我来下个套吧
+Dialogue: 0,0:12:14.06,0:12:16.73,en,,0,0,0,,The recent surge in planned terrorist acts
+Dialogue: 0,0:12:17.06,0:12:20.36,en,,0,0,0,,Suggests a problem with our intelligence channels
+Dialogue: 0,0:12:20.90,0:12:23.90,en,,0,0,0,,General Osamu Tsukeda, The Imperial Army
+Dialogue: 0,0:12:24.45,0:12:27.70,en,,0,0,0,,invites Commander Zhang of Counterinsurgency Center and personnels involved
+Dialogue: 0,0:12:27.83,0:12:30.95,en,,0,0,0,,To meet at Bai Cao Hall...
+Dialogue: 0,0:12:31.08,0:12:34.04,en,,0,0,0,,On October 31, 9 p.m.
+Dialogue: 0,0:12:34.50,0:12:37.25,en,,0,0,0,,We shall discuss ongoing intelligence efforts
+Dialogue: 0,0:12:44.76,0:12:48.85,en,,0,0,0,,COUNTERINSURGENCY CENTER -
+Dialogue: 0,0:13:17.79,0:13:20.46,en,,0,0,0,,Li Ningyu, Head Officer of the Decoding Section
+Dialogue: 0,0:13:27.97,0:13:30.97,en,,0,0,0,,Gu Xiaomeng, Administration Officer of the Decoding Section
+Dialogue: 0,0:13:40.90,0:13:43.69,en,,0,0,0,,Wu Zhiguo, Chief Captain of Counterinsurgence
+Dialogue: 0,0:13:51.99,0:13:56.62,en,,0,0,0,,Jin Shenghuo, Section Chief of the Military Office
+Dialogue: 0,0:14:09.80,0:14:11.76,en,,0,0,0,,Bai Xiaonian, Aide to the Commander of Counterinsurgency For the Commander\N独守空房呢
+Dialogue: 0,0:14:26.82,0:14:30.32,en,,0,0,0,,CITY TEMPLE, TWO DAYS LATER -
+Dialogue: 0,0:14:45.67,0:14:47.67,en,,0,0,0,,Tsukeda et al to gather at Bai Cao Hall on October 31
+Dialogue: 0,0:14:47.76,0:14:49.92,en,,0,0,0,,Request assassination plan from Magnum
+Dialogue: 0,0:15:30.84,0:15:47.59,en,,0,0,0,,Wait\N噢 请等一下      好 好
+Dialogue: 0,0:15:53.78,0:15:54.57,en,,0,0,0,,We have to go\N走
+Dialogue: 0,0:15:54.57,0:15:56.57,en,,0,0,0,,-Now? -Yes\N-现在啊       -走
+Dialogue: 0,0:17:17.82,0:17:19.78,en,,0,0,0,,Where the hell are we?\N这他妈什么地方啊
+Dialogue: 0,0:17:19.78,0:17:21.78,en,,0,0,0,,Spooky...\N一塌糊涂
+Dialogue: 0,0:17:22.87,0:17:24.79,en,,0,0,0,,It used to be called Qiu Manor.\N裘盛怀的别业
+Dialogue: 0,0:17:24.79,0:17:26.50,en,,0,0,0,,The Japanese have taken it over now...\N这里被日本人收啦
+Dialogue: 0,0:17:26.50,0:17:28.17,en,,0,0,0,,Turned it into their own little pleasure palace\N改成行宫
+Dialogue: 0,0:17:28.17,0:17:30.21,en,,0,0,0,,High-ranking officers only\N只接待高级军官
+Dialogue: 0,0:17:35.09,0:17:38.05,en,,0,0,0,,Looks like this is serious matter\N看来今晚这会议非同小可啊
+Dialogue: 0,0:17:39.93,0:17:43.01,en,,0,0,0,,And someone's......going to be in for it\N说不定会要了谁的命
+Dialogue: 0,0:17:43.02,0:17:44.56,en,,0,0,0,,What makes you say that?\N为什么
+Dialogue: 0,0:17:44.56,0:17:47.73,en,,0,0,0,,Didn't you see? The Chief of Special Services is here too\N看不见特务处王处长来了吗
+Dialogue: 0,0:17:49.65,0:17:51.11,en,,0,0,0,,Chief Wang\N老王
+Dialogue: 0,0:17:51.11,0:17:53.07,en,,0,0,0,,Good evening, everyone\N大家好
+Dialogue: 0,0:17:53.07,0:17:55.07,en,,0,0,0,,May I suggest that you go to your rooms and freshen up first?\N各位先回房休息
+Dialogue: 0,0:17:55.11,0:17:57.03,en,,0,0,0,,We'll meet in the conference room in half an hour\N半小时以后会议室见
+Dialogue: 0,0:17:57.03,0:17:59.11,en,,0,0,0,,What do you mean, freshen up?\N回什么房啊
+Dialogue: 0,0:17:59.91,0:18:02.45,en,,0,0,0,,Let's just get the meeting over with So that we can all go home\N开完会就回去 什么都没带
+Dialogue: 0,0:18:02.58,0:18:04.58,en,,0,0,0,,Patience, Ms. Gu\N顾小姐稍安勿躁
+Dialogue: 0,0:18:04.58,0:18:06.04,en,,0,0,0,,Just go to your room first\N先回房
+Dialogue: 0,0:18:06.04,0:18:08.04,en,,0,0,0,,If you would\N请
+Dialogue: 0,0:18:08.42,0:18:10.42,en,,0,0,0,,All right\N走
+Dialogue: 0,0:18:39.57,0:18:40.91,en,,0,0,0,,Lieutenant Bai-\N白长官
+Dialogue: 0,0:18:40.91,0:18:42.91,en,,0,0,0,,That room\N那边
+Dialogue: 0,0:18:43.70,0:18:44.83,en,,0,0,0,,Chief Jin-\N金处长
+Dialogue: 0,0:18:44.83,0:18:46.83,en,,0,0,0,,This way\N这边
+Dialogue: 0,0:18:47.12,0:18:48.41,en,,0,0,0,,Chief Captain Wu-\N吴大队
+Dialogue: 0,0:18:48.41,0:18:49.62,en,,0,0,0,,That way\N这边
+Dialogue: 0,0:18:49.62,0:18:51.67,en,,0,0,0,,Where's ours?\N哪个我们的呀
+Dialogue: 0,0:18:53.88,0:18:55.88,en,,0,0,0,,I'm still feeling sick\N我还想吐
+Dialogue: 0,0:19:35.38,0:19:41.13,en,,0,0,0,,Fairy shed light on heaven's secrets Win every time with White Dove lottery tickets\N鬼谷子泄天机，白鸽票必胜诀
+Dialogue: 0,0:19:45.22,0:19:48.68,en,,0,0,0,,3-6-4-4-5-6-0-2...\N叁陆肆肆伍陆零两
+Dialogue: 0,0:19:48.85,0:19:50.89,en,,0,0,0,,What is this all about?\N什么乱七八糟的
+Dialogue: 0,0:19:51.23,0:19:51.89,en,,0,0,0,,Total gibberish\N不懂
+Dialogue: 0,0:19:51.89,0:19:53.81,en,,0,0,0,,The Imperial Army\N这是今天下午
+Dialogue: 0,0:19:53.81,0:19:56.98,en,,0,0,0,,intercepted this coded message this afternoon\N皇军拦截到的一份密码
+Dialogue: 0,0:19:57.61,0:19:59.86,en,,0,0,0,,At first glance, nothing more than an ad for the lottery\N乍看是彩票广告
+Dialogue: 0,0:20:00.15,0:20:01.69,en,,0,0,0,,But according to our intelligence\N但实际上
+Dialogue: 0,0:20:01.70,0:20:04.70,en,,0,0,0,,It contains a message from an underground organization\N是地下恐怖组织在传递消息
+Dialogue: 0,0:20:04.82,0:20:07.78,en,,0,0,0,,Regarding a new wave of assassinations\N跟他们新一波的暗杀活动有关
+Dialogue: 0,0:20:08.12,0:20:09.87,en,,0,0,0,,We've asked all of you here to\N请诸位来
+Dialogue: 0,0:20:09.87,0:20:12.37,en,,0,0,0,,Help us crack the code\N就是要破解这份密电
+Dialogue: 0,0:20:12.54,0:20:13.62,en,,0,0,0,,Before it's too late\N防患于未然
+Dialogue: 0,0:20:13.62,0:20:14.54,en,,0,0,0,,You must be joking\N滑稽了 在场除了李组长
+Dialogue: 0,0:20:16.08,0:20:17.87,en,,0000,0000,0000,,None of us here are cryptographers except for Officer Li\N都不是专业译电人员
+Dialogue: 0,0:20:18.21,0:20:20.55,en,,0,0,0,,What did you bring us here for?To play mahjongg?\N来干吗\N凑牌局呢
+Dialogue: 0,0:20:20.92,0:20:25.72,en,,0,0,0,,Officer Bai, this order came directly from the upper levels of the Japanese Army\N白副官，命令由日本驻屯军军部直接下达
+Dialogue: 0,0:20:25.89,0:20:28.93,en,,0,0,0,,It would be best if everyone cooperated fully\N还希望各位都能够全力配合
+Dialogue: 0,0:20:29.10,0:20:31.31,en,,0,0,0,,Does Commander Zhang know about this?\N这件事情咱们军部知道吗
+Dialogue: 0,0:20:31.56,0:20:33.02,en,,0,0,0,,No\N不知道
+Dialogue: 0,0:20:33.02,0:20:35.02,en,,0,0,0,,The commander is in Nanking on business\N司令去南京出差了
+Dialogue: 0,0:20:35.19,0:20:37.19,en,,0,0,0,,Until the day after tomorrow\N后天才回
+Dialogue: 0,0:20:41.57,0:20:43.74,en,,0,0,0,,All these numbers...\N这都是数字啊
+Dialogue: 0,0:20:44.57,0:20:46.03,en,,0,0,0,,Don't look at me\N别看我
+Dialogue: 0,0:20:46.03,0:20:48.03,en,,0,0,0,,I don't know anything about codes\N电码我不懂
+Dialogue: 0,0:20:49.66,0:20:51.66,en,,0,0,0,,What about you?\N您说呢
+Dialogue: 0,0:20:53.08,0:20:55.29,en,,0,0,0,,Not in my area of interest\N我对这事儿不感兴趣
+Dialogue: 0,0:20:55.62,0:20:57.83,en,,0,0,0,,I specialize more in blackjack, mahjongg...\N要说二八杠 推牌九
+Dialogue: 0,0:20:57.96,0:20:59.29,en,,0,0,0,,...that kind of thing\N那我是专家
+Dialogue: 0,0:20:59.29,0:21:00.88,en,,0,0,0,,Li?\N小李
+Dialogue: 0,0:21:00.88,0:21:02.34,en,,0,0,0,,Li\N小李
+Dialogue: 0,0:21:02.34,0:21:03.71,en,,0,0,0,,You're the expert here\N这你的专业啊
+Dialogue: 0,0:21:03.72,0:21:04.72,en,,0,0,0,,What do you say?\N你意见呢
+Dialogue: 0,0:21:04.72,0:21:05.84,en,,0,0,0,,It's no good.\N没用
+Dialogue: 0,0:21:05.84,0:21:07.47,en,,0,0,0,,We can't crack it\N解不出来的
+Dialogue: 0,0:21:07.47,0:21:08.80,en,,0,0,0,,These numbers\N这一看
+Dialogue: 0,0:21:08.80,0:21:10.76,en,,0,0,0,,Have obviously been encrypted\N就是加了密的电码
+Dialogue: 0,0:21:10.76,0:21:12.35,en,,0,0,0,,There are 18 characters in total\N全长一共十八个字
+Dialogue: 0,0:21:12.35,0:21:15.56,en,,0,0,0,,To decode what they're meant to be. We'd need the codebook\N要想破译 就得找出母本
+Dialogue: 0,0:21:15.77,0:21:19.44,en,,0,0,0,,Otherwise... We could be here for days and still come up with nothing\N否则 就是坐在这想死了 也想不出来
+Dialogue: 0,0:21:24.24,0:21:25.32,en,,0,0,0,,Did you hear that?\N听见了吗
+Dialogue: 0,0:21:25.32,0:21:27.20,en,,0,0,0,,Go tell the Japanese\N跟日本人说去
+Dialogue: 0,0:21:27.20,0:21:28.82,en,,0,0,0,,We can't help them\N这么弄怎么可能有结果
+Dialogue: 0,0:21:28.82,0:21:30.37,en,,0,0,0,,I want to go home\N我要回家
+Dialogue: 0,0:21:30.37,0:21:31.99,en,,0,0,0,,I don't have time for this nonsense.\N后天老子要去清乡剿匪
+Dialogue: 0,0:21:31.99,0:21:33.99,en,,0,0,0,,I've got a sweep to go out on tomorrow\N没空跟这耗着
+Dialogue: 0,0:21:44.80,0:21:46.80,en,,0,0,0,,Col. Takeda...\N武田长
+Dialogue: 0,0:21:49.55,0:21:51.05,en,,0,0,0,,Who's that?\N谁啊
+Dialogue: 0,0:21:51.05,0:21:53.56,en,,0,0,0,,The head of intelligence for the Imperial Army\N皇军特务机关长
+Dialogue: 0,0:21:56.64,0:21:58.64,en,,0,0,0,,It's a pleasure to meet you\N久仰
+Dialogue: 0,0:21:58.65,0:22:00.65,en,,0,0,0,,A consummate professional, indeed\N不愧是专业
+Dialogue: 0,0:22:01.15,0:22:03.15,en,,0,0,0,,Here's the codebook\N这是母本
+Dialogue: 0,0:22:03.15,0:22:05.15,en,,0,0,0,,Shall we begin?\N可以开始了吧
+Dialogue: 0,0:22:24.21,0:22:26.21,en,,0,0,0,,7-8-7-\N拐捌拐幺
+Dialogue: 0,0:22:26.26,0:22:28.26,en,,0,0,0,,Got them.\N刚写完
+Dialogue: 0,0:22:29.34,0:22:30.22,en,,0,0,0,,Jin?\N老金
+Dialogue: 0,0:22:30.22,0:22:30.89,en,,0,0,0,,En\N嗯
+Dialogue: 0,0:22:30.89,0:22:32.97,en,,0,0,0,,What are they doing there?\N她们那忙什么呢
+Dialogue: 0,0:22:34.52,0:22:38.67,en,,0000,0000,0000,,They're, um... uh...\NEnough with the um-ing. What is it?\N-她们那个就是 嗨        -别哼啊嗨的 说啊你
+Dialogue: 0,0:22:38.89,0:22:40.39,en,,0,0,0,,You've heard of Morse Code?\N听说过摩斯电码吗
+Dialogue: 0,0:22:40.40,0:22:42.40,en,,0,0,0,,Get on with it\N啰嗦
+Dialogue: 0,0:22:43.57,0:22:46.48,en,,0,0,0,,Now... Morse Code is used for telegrams all over the world\N摩斯码啊 是一种国际通用的电码
+Dialogue: 0,0:22:46.78,0:22:48.69,en,,0,0,0,,With Chinese, it works a bit differently\N用到咱们中文上面就是
+Dialogue: 0,0:22:48.70,0:22:51.78,en,,0,0,0,,Each Chinese character is represented by four digits\N每四个数字代表一个汉字
+Dialogue: 0,0:22:51.91,0:22:53.95,en,,0,0,0,,There are seventy-two digits in this telegram\N您比如说这封密电
+Dialogue: 0,0:22:54.70,0:22:55.91,en,,0,0,0,,Total of eighteen characters\N原来的电码顺序
+Dialogue: 0,0:22:56.56,0:22:59.15,en,,0000,0000,0000,,But the sender deliberately scrambled the digits before they sent it out\N已经被这个发文者彻底地给弄乱了
+Dialogue: 0,0:23:00.37,0:23:04.54,en,,0,0,0,,Now Li over there is trying to figure out the algorithm they used.\N小李呢\N就是试图找出这个规律
+Dialogue: 0,0:23:04.71,0:23:07.84,en,,0,0,0,,Once she's got that She can decode the message\N才能译出这电码的原意
+Dialogue: 0,0:23:11.13,0:23:13.13,en,,0,0,0,,One - Zero\N幺洞
+Dialogue: 0,0:23:14.55,0:23:16.55,en,,0,0,0,,And?\N什么幺洞
+Dialogue: 0,0:23:23.23,0:23:25.23,en,,0,0,0,,This can't be...\N怎么会
+Dialogue: 0,0:23:25.82,0:23:27.82,en,,0,0,0,,What's wrong?\N怎么了
+Dialogue: 0,0:23:45.09,0:23:50.01,en,,0,0,0,,Tsukeda et al to gather at Bai Cao Hall on October 31 Request assassination plan from Magnum\N十月三十一日挂尾等齐聚百草堂  请同志袭杀之
+Dialogue: 0,0:24:02.77,0:24:04.77,en,,0,0,0,,What does it say\N怎么样
+Dialogue: 0,0:24:06.19,0:24:08.86,en,,0,0,0,,They're planning to assassinate General Tsukeda\N有人打算刺杀挂尾中将
+Dialogue: 0,0:24:24.00,0:24:26.50,en,,0,0,0,,We set a trap - a telegram with false summons to a meeting with Tsukeda\N我们发出了一份假集会通知
+Dialogue: 0,0:24:26.63,0:24:29.13,en,,0,0,0,,The mole in our office took the bait\N司令部里的内鬼信以为真
+Dialogue: 0,0:24:29.30,0:24:31.80,en,,0,0,0,,And sent this to their co-conspirators\N就发出了行动的情报
+Dialogue: 0,0:24:32.09,0:24:34.05,en,,0,0,0,,You five are the only ones\N百草堂的集会通知
+Dialogue: 0,0:24:34.05,0:24:36.05,en,,0,0,0,,Who had any contact with the original message\N只有你们五个人经手
+Dialogue: 0,0:24:36.05,0:24:37.43,en,,0,0,0,,Which is to say-\N也就是说
+Dialogue: 0,0:24:37.43,0:24:39.43,en,,0,0,0,,One of you is the mole\N潜伏在司令部
+Dialogue: 0,0:24:39.72,0:24:41.72,en,,0,0,0,,Who's been leaking intelligence\N窃取情报的老鬼
+Dialogue: 0,0:24:43.89,0:24:45.98,en,,0,0,0,,Under the name Phantom\N就在你们之中
+Dialogue: 0,0:24:53.90,0:24:55.90,en,,0,0,0,,Whichever one of you it is\N不管是谁
+Dialogue: 0,0:24:56.20,0:24:58.20,en,,0,0,0,,Just confess\N请自首吧
+Dialogue: 0,0:24:58.95,0:25:01.45,en,,0,0,0,,I promise you'll be treated humanely\N我保证你会受人道待遇
+Dialogue: 0,0:25:16.18,0:25:17.84,en,,0,0,0,,You'll forgive me\N对不起
+Dialogue: 0,0:25:17.84,0:25:19.72,en,,0,0,0,,But I have my orders\N职责所在
+Dialogue: 0,0:25:19.72,0:25:21.72,en,,0,0,0,,Nobody leaves the building\N鬼不显身
+Dialogue: 0,0:25:23.18,0:25:25.85,en,,0,0,0,,Until the Phantom is found\N没有人能走出这栋楼
+Dialogue: 0,0:26:53.32,0:26:55.11,en,,0,0,0,,Who are you writing to?\N写信给谁呢
+Dialogue: 0,0:26:55.11,0:26:57.11,en,,0,0,0,,You scared me\N鬼丫头
+Dialogue: 0,0:26:57.82,0:27:00.15,en,,0,0,0,,Dear sister... What are you writing a letter for\N哎呀 写信有什么用啊
+Dialogue: 0,0:27:00.28,0:27:02.24,en,,0,0,0,,We'll be out of here in two days\N等过两天我们出去了
+Dialogue: 0,0:27:02.24,0:27:04.24,en,,0,0,0,,I'll go find Liu myself\N我就亲自去找刘先生
+Dialogue: 0,0:27:04.28,0:27:06.28,en,,0,0,0,,And give him a piece of my mind\N好好惩治他
+Dialogue: 0,0:27:09.12,0:27:11.54,en,,0,0,0,,You really think we'll be out of here in two days\N你还真以为过两天能出去
+Dialogue: 0,0:27:11.67,0:27:14.92,en,,0,0,0,,Sure- It's not hard to guess who this Phantom is...\N对啊 想也知道谁是鬼啊
+Dialogue: 0,0:27:20.80,0:27:22.80,en,,0,0,0,,Tea?\N给
+Dialogue: 0,0:27:26.72,0:27:28.72,en,,0,0,0,,You've got a split seam!\N衣服开线了
+Dialogue: 0,0:27:29.31,0:27:31.27,en,,0,0,0,,On the left\N左边
+Dialogue: 0,0:27:31.27,0:27:33.27,en,,0,0,0,,I'll stitch it up for you\N我来帮你补
+Dialogue: 0,0:27:33.81,0:27:35.15,en,,0,0,0,,Take it off for me.\N你脱下来
+Dialogue: 0,0:27:35.15,0:27:36.90,en,,0,0,0,,Wow, that's a big one\N这么大的口子
+Dialogue: 0,0:27:36.90,0:27:38.65,en,,0,0,0,,Is there a sewing kit here?\N有针线吗
+Dialogue: 0,0:27:38.65,0:27:40.65,en,,0,0,0,,I think so...\N应该有吧
+Dialogue: 0,0:27:45.74,0:27:46.49,en,,0,0,0,,Bingo!\N有
+Dialogue: 0,0:27:46.49,0:27:48.49,en,,0,0,0,,Found it!\N还真有
+Dialogue: 0,0:27:51.00,0:27:53.00,en,,0,0,0,,Here, let me help\N我帮你
+Dialogue: 0,0:27:55.75,0:27:57.75,en,,0,0,0,,There you go\N好了
+Dialogue: 0,0:28:05.26,0:28:08.68,en,,0,0,0,,You once told me that your mother wanted you to be a proper lady, right?\N你不是跟我说  你妈一直要把你培养成个大家闺秀吗
+Dialogue: 0,0:28:08.81,0:28:09.89,en,,0,0,0,,Yeah\N对啊
+Dialogue: 0,0:28:09.89,0:28:13.02,en,,0,0,0,,This is the first time I've ever seen you doing anything ladylike\N这还是第一次看你做女红啊
+Dialogue: 0,0:28:18.40,0:28:20.40,en,,0,0,0,,Sis...\N玉姐
+Dialogue: 0,0:28:21.36,0:28:22.74,en,,0,0,0,,I don't know why\N不知道为什么
+Dialogue: 0,0:28:22.74,0:28:24.99,en,,0,0,0,,But I've always felt close to you\N我就是看你特别亲
+Dialogue: 0,0:28:25.70,0:28:27.70,en,,0,0,0,,Especially today...\N特别是今天
+Dialogue: 0,0:28:38.42,0:28:40.42,en,,0,0,0,,What's wrong?\N怎么了
+Dialogue: 0,0:28:48.97,0:28:51.72,en,,0,0,0,,Liu hasn't been by in days\N刘林宗已经好几天不见了
+Dialogue: 0,0:28:54.56,0:29:01.06,en,,0,0,0,,Unfettered in the wild wastes\N我本是卧龙岗上散淡的人
+Dialogue: 0,0:29:13.50,0:29:20.00,en,,0,0,0,,I mastered yin and yang, and knew the heavens...\N论阴阳如反掌保定乾坤
+Dialogue: 0,0:29:36.81,0:29:38.81,en,,0,0,0,,What are you singing?\N刚刚唱的什么调啊
+Dialogue: 0,0:29:40.11,0:29:43.03,en,,0,0,0,,The Empty City， It's an old Tangshan ballad, from Leting\N唐山皮影戏--空城计
+Dialogue: 0,0:29:43.15,0:29:45.15,en,,0,0,0,,Sing some more\N再来一段
+Dialogue: 0,0:29:45.78,0:29:47.70,en,,0,0,0,,Well-\N那得
+Dialogue: 0,0:29:47.70,0:29:49.74,en,,0,0,0,,Would I be rewarded with a smoke?\N赏支红圈抽
+Dialogue: 0,0:29:53.87,0:29:55.87,en,,0,0,0,,Here\N接着
+Dialogue: 0,0:30:04.30,0:30:10.80,en,,0,0,0,,But when the country needed me, I fought...\N先帝爷下南阳御驾三请
+Dialogue: 0,0:30:16.39,0:30:22.65,en,,0,0,0,,To cast out the pretender to the throne...\N联东吴灭曹魏
+Dialogue: 0,0:30:22.82,0:30:27.15,en,,0,0,0,,Why, Captain Wu - I never knew you were from Leting\N原来吴大队长也是唐山乐亭人
+Dialogue: 0,0:30:29.70,0:30:31.03,en,,0,0,0,,What-\N咋的
+Dialogue: 0,0:30:31.03,0:30:32.57,en,,0,0,0,,You too\N你也是
+Dialogue: 0,0:30:32.58,0:30:36.50,en,,0,0,0,,My grandfather always used to sing that when I was little\N小时候常听我三爷爷唱这个来着
+Dialogue: 0,0:30:38.54,0:30:40.33,en,,0,0,0,,No kidding? What a coincidence\N这可真是太巧了
+Dialogue: 0,0:30:40.33,0:30:43.00,en,,0,0,0,,With all the the people in the headquarters\N司令部忒大，单位多人也多
+Dialogue: 0,0:30:43.13,0:30:45.13,en,,0,0,0,,We hardly ever get the chance to talk\N也没什么机会聊天
+Dialogue: 0,0:30:45.17,0:30:47.63,en,,0,0,0,,I never thought I'd meet someone from my old hometown here\N没想到在这儿认个老乡
+Dialogue: 0,0:30:47.80,0:30:49.84,en,,0,0,0,,It must be fate\N缘分还真奇怪
+Dialogue: 0,0:30:50.01,0:30:52.18,en,,0,0,0,,There are plenty of people from around there in the headquarters\N司令部唐山人很多啊
+Dialogue: 0,0:30:52.64,0:30:54.30,en,,0,0,0,,But not necessarily from Leting village\N乐亭的不多
+Dialogue: 0,0:30:54.31,0:30:56.31,en,,0,0,0,,It might just be us\N好像就我们两个人
+Dialogue: 0,0:30:56.35,0:30:57.89,en,,0,0,0,,Yeah\N对
+Dialogue: 0,0:30:57.89,0:31:01.44,en,,0,0,0,,Say, after we get out of here in a couple days I'll take everyone out to celebrate. My treat\N过两天出去了，我请大家喝大酒
+Dialogue: 0,0:31:10.03,0:31:12.53,en,,0,0,0,,Has Li made a move yet\N李宁玉那边有什么动静
+Dialogue: 0,0:31:16.66,0:31:19.41,en,,0,0,0,,Still mooning over\N还恋着那个话剧演员吧
+Dialogue: 0,0:31:20.37,0:31:22.37,en,,0,0,0,,Her actor boyfriend, Liu\N心神不定的
+Dialogue: 0,0:31:30.97,0:31:32.97,en,,0,0,0,,Gu just said\N顾晓梦说
+Dialogue: 0,0:31:33.18,0:31:35.18,en,,0,0,0,,She knows who the Phantom is\N她知道谁是鬼
+Dialogue: 0,0:31:35.93,0:31:37.93,en,,0,0,0,,She seems a bit off\N她有点洒吧
+Dialogue: 0,0:31:42.85,0:31:44.69,en,,0,0,0,,A bit spoiled, you mean\N是有点娇气
+Dialogue: 0,0:31:44.69,0:31:46.69,en,,0,0,0,,She comes from money\N家里背景硬
+Dialogue: 0,0:31:48.74,0:31:50.74,en,,0,0,0,,As for Officer Bai...\N还有白副官
+Dialogue: 0,0:31:51.57,0:31:54.24,en,,0,0,0,,He's got friends in high places too\N也是仗着有靠山
+Dialogue: 0,0:31:56.08,0:31:59.33,en,,0,0,0,,So I've heard his relationship with Commander Zhang...\N之前就听说白小年和张司令
+Dialogue: 0,0:31:59.95,0:32:01.95,en,,0,0,0,,...is indeed very unique\N关系匪浅
+Dialogue: 0,0:32:10.63,0:32:14.09,en,,0,0,0,,I SLIPPED UP\NMEETING AT BAI CAO HALL IS A TRAP
+Dialogue: 0,0:32:16.18,0:32:18.18,en,,0,0,0,,MUST GET MESSAGE OUT IN NEXT FIVE DAYS
+Dialogue: 0,0:32:18.26,0:32:20.97,en,,0,0,0,,OR COMRADES WILL GO TO THEIR DEATHS
+Dialogue: 0,0:32:58.30,0:32:59.72,en,,0,0,0,,Come, Bai\N来了 小白
+Dialogue: 0,0:32:59.72,0:33:01.47,en,,0,0,0,,We're all waiting on you\N等你呢
+Dialogue: 0,0:33:01.47,0:33:03.98,en,,0,0,0,,Here, have something to eat\N看看吃点什么
+Dialogue: 0,0:33:05.85,0:33:07.15,en,,0,0,0,,Quite a spread.\N这么丰盛
+Dialogue: 0,0:33:07.15,0:33:09.15,en,,0,0,0,,Is this supposed to be our last supper\N吃的上路饭吗
+Dialogue: 0,0:33:13.99,0:33:16.82,en,,0,0,0,,My old friend Bai, always the joker...\N你呀 就爱说笑
+Dialogue: 0,0:33:17.53,0:33:19.49,en,,0,0,0,,That pretty little head of yours\N老唱青衣可惜了
+Dialogue: 0,0:33:19.49,0:33:21.49,en,,0,0,0,,Is just full of jokes\N可以试试花旦
+Dialogue: 0,0:33:41.14,0:33:42.56,en,,0,0,0,,You can count me out\N我整不了这个
+Dialogue: 0,0:33:42.56,0:33:44.35,en,,0,0,0,,I'm no spy-\N我哪干得了间谍
+Dialogue: 0,0:33:44.35,0:33:47.85,en,,0,0,0,,I faint at the sight of chicken blood You think I'd join the resistance?\N我连杀鸡都不敢，我有胆子当共产党
+Dialogue: 0,0:33:47.98,0:33:49.15,en,,0,0,0,,Wang-\N老王
+Dialogue: 0,0:33:49.15,0:33:51.15,en,,0,0,0,,You know me\N你知道我
+Dialogue: 0,0:33:51.36,0:33:53.28,en,,0,0,0,,This section chief position of mine...\N我这个军机处长
+Dialogue: 0,0:33:53.28,0:33:55.19,en,,0,0,0,,It's bullshit, I got it through connections\N说穿了就是个屁 裙带关系
+Dialogue: 0,0:33:56.88,0:33:57.35,en,,0000,0000,0000,,You'd know better\N是吧
+Dialogue: 0,0:33:57.49,0:34:02.16,en,,0,0,0,,My wife's related to Commander Zhang's wife on her father's side\N我们家里的跟司令夫人那不是堂姐妹嘛
+Dialogue: 0,0:34:02.29,0:34:04.24,en,,0,0,0,,See?\N哎
+Dialogue: 0,0:34:04.25,0:34:06.08,en,,0,0,0,,This all has to be a mistake\N会不会是搞错了
+Dialogue: 0,0:34:06.08,0:34:08.92,en,,0,0,0,,I've never heard anything about any Phantom\N从来没听说过什么老鬼
+Dialogue: 0,0:34:09.21,0:34:10.54,en,,0,0,0,,I mean\N哎
+Dialogue: 0,0:34:10.54,0:34:14.63,en,,0,0,0,,Maybe it's the Japanese that have the mole...Right?\N搞不好是他们日本人被渗透了 对吧
+Dialogue: 0,0:34:15.76,0:34:17.76,en,,0,0,0,,It couldn't be any more obvious\N再明白不过了
+Dialogue: 0,0:34:18.22,0:34:20.22,en,,0,0,0,,Section Chief Jin is the one you want\N你就朝金生火下手
+Dialogue: 0,0:34:20.43,0:34:22.26,en,,0,0,0,,He's the most suspicious of any of us\N肯定能问出点蹊跷
+Dialogue: 0,0:34:22.26,0:34:23.93,en,,0,0,0,,Why?\N凭什么这么说
+Dialogue: 0,0:34:23.93,0:34:25.35,en,,0,0,0,,He has a nephew\N他有个侄子
+Dialogue: 0,0:34:25.35,0:34:27.10,en,,0,0,0,,Who joined the Red Army when he was only 15\N十五岁就投了共军
+Dialogue: 0,0:34:27.10,0:34:29.39,en,,0,0,0,,He's become chief of staff at their headquarters in Yenan\N听说在延安干参谋长了都
+Dialogue: 0,0:34:29.56,0:34:33.86,en,,0,0,0,,Fence-sitter that he is Jin must still be in contact with him\N像老金这种骑墙派 肯定暗中有联系
+Dialogue: 0,0:34:34.57,0:34:36.90,en,,0,0,0,,He's been keeping a mistress for years\N他其实早就包养了小妾
+Dialogue: 0,0:34:37.24,0:34:39.61,en,,0,0,0,,With money from weapons smuggling\N用的是走私军火的黑钱
+Dialogue: 0,0:34:39.78,0:34:41.78,en,,0,0,0,,Do I look like I'm joking now?\N我像开玩笑吗
+Dialogue: 0,0:34:42.08,0:34:45.20,en,,0,0,0,,I've got dirt on everybody here, Including yours\N我那儿谁的黑底都有 包括你的
+Dialogue: 0,0:34:53.54,0:34:55.21,en,,0,0,0,,What a rough job you have-\N大哥真辛苦啊
+Dialogue: 0,0:34:55.21,0:34:56.76,en,,0,0,0,,Here all on your own\N一个人啊
+Dialogue: 0,0:34:56.76,0:34:58.76,en,,0,0,0,,The others are downstairs for backup\N这不都下楼支援去了吗
+Dialogue: 0,0:34:58.76,0:35:00.43,en,,0,0,0,,Backup?\N支援
+Dialogue: 0,0:35:00.43,0:35:02.43,en,,0,0,0,,As if we were dangerous\N跟真的一样啊
+Dialogue: 0,0:35:03.35,0:35:05.76,en,,0,0,0,,I need to make a phone call- just a short one\N我想打个电话 就说两句
+Dialogue: 0,0:35:05.93,0:35:07.93,en,,0,0,0,,No can do\N这事不行
+Dialogue: 0,0:35:08.10,0:35:11.48,en,,0,0,0,,It's just to call home, It won't be long, I promise\N就打回家 就说两句 最多三句
+Dialogue: 0,0:35:12.31,0:35:13.90,en,,0,0,0,,You can even listen, if you want\N要不你挨着我听啊
+Dialogue: 0,0:35:13.90,0:35:16.53,en,,0,0,0,,I told you, it's not an option\N我不是跟你说了吗 不行就是不行
+Dialogue: 0,0:35:18.11,0:35:20.11,en,,0,0,0,,Fine, then I won't trouble you\N算了 不为难你了
+Dialogue: 0,0:35:20.36,0:35:22.20,en,,0,0,0,,Here's the number to my house\N这是我家的电话
+Dialogue: 0,0:35:22.20,0:35:24.37,en,,0,0,0,,And a list of the things I need\N我就需要点东西
+Dialogue: 0,0:35:24.49,0:35:27.95,en,,0,0,0,,Can you call them for me and have them bring my things here?\N要不你打给他们 让他们给我送过来
+Dialogue: 0,0:35:29.04,0:35:31.04,en,,0,0,0,,Pretty please?\N求你了
+Dialogue: 0,0:35:33.13,0:35:35.13,en,,0,0,0,,Ms. Gu...\N顾小姐
+Dialogue: 0,0:35:35.75,0:35:37.75,en,,0,0,0,,We need you to come with us\N有请顾小姐
+Dialogue: 0,0:35:38.80,0:35:39.80,en,,0,0,0,,I don't know - I mean,\N不知道
+Dialogue: 0,0:35:39.80,0:35:41.51,en,,0,0,0,,I'm not sure-\N不清楚
+Dialogue: 0,0:35:41.51,0:35:43.80,en,,0,0,0,,Can't be certain...What do you want me to do?\N没法确定，那你让我说什么
+Dialogue: 0,0:35:43.97,0:35:44.80,en,,0,0,0,,Make something up?\N害人啊
+Dialogue: 0,0:35:44.80,0:35:46.30,en,,0,0,0,,No, no\N不不不
+Dialogue: 0,0:35:46.31,0:35:48.31,en,,0,0,0,,Certainly not-\N绝不能害人
+Dialogue: 0,0:35:48.39,0:35:50.39,en,,0,0,0,,You were the one who delivered the telegraph\N电文是你经手的
+Dialogue: 0,0:35:50.64,0:35:52.35,en,,0,0,0,,Just try and think back\N再仔细想想
+Dialogue: 0,0:35:52.35,0:35:54.86,en,,0,0,0,,Did you notice anything suspicious\N看哪个环节上不对劲
+Dialogue: 0,0:35:57.15,0:36:00.61,en,,0,0,0,,It all went according to protocol nothing to be suspicious of...\N所有步骤都是按程序走的 没什么疑点
+Dialogue: 0,0:36:04.12,0:36:06.12,en,,0,0,0,,What were you going to say?\N你刚才想说什么
+Dialogue: 0,0:36:06.24,0:36:07.16,en,,0,0,0,,Nothing\N没什么
+Dialogue: 0,0:36:07.16,0:36:09.49,en,,0,0,0,,You paused. Something came to mind\N有件事过了你的脑子
+Dialogue: 0,0:36:14.46,0:36:16.50,en,,0,0,0,,Captain Wu saw the telegram\N吴大队长看过电文
+Dialogue: 0,0:36:17.42,0:36:19.42,en,,0,0,0,,Go on...\N接着说
+Dialogue: 0,0:36:19.67,0:36:23.68,en,,0,0,0,,When I handed the telegraph to Chief Jin, Captain Wu was with him\N那天我给金处长传文上去 吴大队长也在
+Dialogue: 0,0:36:25.51,0:36:26.72,en,,0,0,0,,Normally...\N照理说
+Dialogue: 0,0:36:26.72,0:36:31.27,en,,0,0,0,,A classified telegram would be eyes-only for the officer in charge\N这样的密电\N不是业务主管是不能看的 对吧
+Dialogue: 0,0:36:32.73,0:36:34.02,en,,0,0,0,,But that day...\N可是那天
+Dialogue: 0,0:36:34.02,0:36:35.81,en,,0,0,0,,When I delivered it to Chief Jin\N我给金处长呈文的时候
+Dialogue: 0,0:36:35.81,0:36:39.32,en,,0,0,0,,Captain Wu didn't look away He actually glanced at it briefly\N吴大队长不但没有回避 还上前看了一眼
+Dialogue: 0,0:36:39.69,0:36:42.86,en,,0,0,0,,He shouldn't have done that\N照理说他不该犯这种错误
+Dialogue: 0,0:36:44.45,0:36:46.82,en,,0,0,0,,But then again... It's probably nothing\N但是说穿了也没什么啊
+Dialogue: 0,0:36:56.04,0:36:58.42,en,,0,0,0,,Do you know how much blood I've shed all the years\N本人追随汪主席这些年
+Dialogue: 0,0:36:58.88,0:37:00.88,en,,0,0,0,,I've served President Wang?\N流了多少血汗
+Dialogue: 0,0:37:02.47,0:37:04.55,en,,0,0,0,,I was shot three times\N光受枪伤就有三回
+Dialogue: 0,0:37:04.72,0:37:07.39,en,,0,0,0,,It's little weasels like you\N倒是像你这样的人得了势
+Dialogue: 0,0:37:07.72,0:37:11.47,en,,0,0,0,,We should be watching out for Who knows which side you'll end up on if the tables turn?\N朝秦暮楚的，谁知道你靠哪边
+Dialogue: 0,0:37:14.81,0:37:16.81,en,,0,0,0,,I see...\N明白了
+Dialogue: 0,0:37:19.32,0:37:21.23,en,,0,0,0,,Until we catch the Phantom\N没抓到老鬼以前
+Dialogue: 0,0:37:21.23,0:37:23.19,en,,0,0,0,,We're all still colleagues here\N大家都还是同事
+Dialogue: 0,0:37:23.19,0:37:25.28,en,,0,0,0,,You rank above me - just above me-\N您官又比我高一阶
+Dialogue: 0,0:37:25.49,0:37:27.49,en,,0,0,0,,And so I am showing you...\N我敬您三分
+Dialogue: 0,0:37:27.70,0:37:29.95,en,,0,0,0,,...the respect you deserve\N是给彼此留点余地
+Dialogue: 0,0:37:33.12,0:37:35.58,en,,0,0,0,,Let's hope you leave here safely\N希望你平安走出这里
+Dialogue: 0,0:37:50.47,0:37:52.47,en,,0,0,0,,Ask whatever you want,\N您尽管问
+Dialogue: 0,0:37:53.43,0:37:55.18,en,,0,0,0,,But the answer will be the same-\N但我就一句话
+Dialogue: 0,0:37:55.18,0:37:57.18,en,,0,0,0,,I don't know anything\N我什么都不知道
+Dialogue: 0,0:38:09.74,0:38:11.16,en,,0,0,0,,I checked\N查过了
+Dialogue: 0,0:38:11.16,0:38:12.08,en,,0,0,0,,It's the number to the Gus' house\N是顾家的电话
+Dialogue: 0,0:38:12.08,0:38:14.29,en,,0,0,0,,What about the list?\N我是说这份清单
+Dialogue: 0,0:38:14.83,0:38:16.83,en,,0,0,0,,Anything suspicious?\N有什么蹊跷
+Dialogue: 0,0:38:17.79,0:38:19.79,en,,0,0,0,,Looks normal to me\N有什么蹊跷？
+Dialogue: 0,0:38:22.46,0:38:24.46,en,,0,0,0,,Don't call her family\N别往她家打电话
+Dialogue: 0,0:38:25.09,0:38:27.09,en,,0,0,0,,Send someone to buy the things she's asking for\N她要的东西派人买给她
+Dialogue: 0,0:38:27.38,0:38:29.13,en,,0,0,0,,What if the others start making similar requests\N如果其他人也要求比照办
+Dialogue: 0,0:38:29.14,0:38:31.14,en,,0,0,0,,None of them would have the nerve\N别人没这个胆
+Dialogue: 0,0:38:32.85,0:38:35.64,en,,0,0,0,,What does her family do again?\N你说顾晓梦家做什么的
+Dialogue: 0,0:38:36.14,0:38:38.52,en,,0,0,0,,Her grandfather was with General Xu\N爷爷在许世昌手下干过部长
+Dialogue: 0,0:38:38.77,0:38:41.10,en,,0,0,0,,Her father went into business-\N到她父亲那才开始搞实业的
+Dialogue: 0,0:38:41.31,0:38:42.27,en,,0,0,0,,Textiles...\NCement, Shipping-\N纺织厂 水泥厂 货运行
+Dialogue: 0,0:38:43.73,0:38:45.57,en,,0,0,0,,You name it\N样样都有
+Dialogue: 0,0:38:45.57,0:38:47.57,en,,0,0,0,,They say he's close to President Wang\N说是汪主席的把兄弟
+Dialogue: 0,0:38:47.61,0:38:50.99,en,,0,0,0,,Just last year, he donated a JU-52 to the Air Force\N去年给咱航运队捐了一架JU-52
+Dialogue: 0,0:38:51.12,0:38:52.57,en,,0,0,0,,He donated a plane?\N捐飞机？
+Dialogue: 0,0:38:52.58,0:38:54.58,en,,0,0,0,,That's what I call rich\N真是有钱啊
+Dialogue: 0,0:38:55.83,0:38:57.83,en,,0,0,0,,Let's make dinner more interesting\N晚饭前
+Dialogue: 0,0:38:58.83,0:39:02.25,en,,0,0,0,,Before they go down, tell everyone what the others have said\N把他们对彼此的说法通通放出去
+Dialogue: 0,0:39:03.17,0:39:06.13,en,,0,0,0,,Including Gu saying she knows who the Phantom is\N包括顾晓梦说她知道谁是鬼
+Dialogue: 0,0:39:18.64,0:39:20.94,en,,0,0,0,,Why aren't you eating? What's the matter?\N吃啊 想什么呢
+Dialogue: 0,0:39:27.19,0:39:30.40,en,,0,0,0,,Once a bitch...Always a bitch\N妖就是妖，它不是人
+Dialogue: 0,0:39:30.86,0:39:33.70,en,,0,0,0,,A mincing, conniving little bitch\N修行千年它也成不了人
+Dialogue: 0,0:39:34.58,0:39:36.58,en,,0,0,0,,Councilor Jin Who are you talking about\N金处长，骂谁呢
+Dialogue: 0,0:39:37.29,0:39:38.66,en,,0,0,0,,The faggot knows perfectly well\N兔儿爷
+Dialogue: 0,0:39:38.66,0:39:40.66,en,,0,0,0,,Just exactly what I'm talking about\N全不干人事儿
+Dialogue: 0,0:39:42.63,0:39:45.50,en,,0,0,0,,You're spoiling- My appetite\N吃饭呢 吵什么呀
+Dialogue: 0,0:39:48.13,0:39:49.71,en,,0,0,0,,I'll rip your fucking head off!\N嘿 我操你大爷的
+Dialogue: 0,0:39:49.72,0:39:50.88,en,,0,0,0,,Calm down, Chief\N处长 处长
+Dialogue: 0,0:39:50.88,0:39:53.55,en,,0,0,0,,Let him come! The coward\N别拦着 让他打啊 孬货
+Dialogue: 0,0:39:53.76,0:39:55.10,en,,0,0,0,,We'll see how hard you can get!\N不信你硬得起来
+Dialogue: 0,0:39:55.10,0:39:56.35,en,,0,0,0,,Stop it!\N你说什么呢
+Dialogue: 0,0:39:56.35,0:39:58.35,en,,0,0,0,,-You want some whipping? -We're all colleagues here\N-我不揍死你       -都是自己人
+Dialogue: 0,0:39:59.06,0:40:01.06,en,,0,0,0,,Stop it! Calm down!\N这是干什么呀 都是自己人 别
+Dialogue: 0,0:40:08.78,0:40:11.40,en,,0,0,0,,Colleagues, my ass!\N自己人顶个屌用
+Dialogue: 0,0:40:12.03,0:40:16.28,en,,0,0,0,,I'm no colleague of a slanderous... rumor-spreading bitch!\N造谣生非 含血喷人的都是自己人
+Dialogue: 0,0:40:22.83,0:40:26.50,en,,0,0,0,,I was merely......stating the facts\N我，只是陈述事实
+Dialogue: 0,0:40:26.88,0:40:28.88,en,,0,0,0,,Facts?\N事实
+Dialogue: 0,0:40:29.21,0:40:31.55,en,,0,0,0,,I'll give you facts\N我让你看看什么是事实
+Dialogue: 0,0:40:34.97,0:40:38.26,en,,0,0,0,,I was shot twice last year at the battle in Yueyang\N去年底打岳阳 老子身中两枪一步没退
+Dialogue: 0,0:40:38.43,0:40:40.39,en,,0,0,0,,But I still kept going Didn't back down 'till I took out the enemy pillbox\N硬是拔了敌人的碉堡
+Dialogue: 0,0:40:40.39,0:40:42.43,en,,0,0,0,,Where were you then?\N你在什么地方
+Dialogue: 0,0:40:42.94,0:40:46.86,en,,0,0,0,,Sipping tea and reading the newspaper in your fucking office Then whoring around after work, I bet!\N上班看报纸喝茶 下班寻欢作乐
+Dialogue: 0,0:40:48.90,0:40:50.90,en,,0,0,0,,Captain Wu\N吴大队长
+Dialogue: 0,0:40:51.61,0:40:54.70,en,,0,0,0,,Being a brave soldier doesn't mean you're always right\N会打仗并不代表你干什么都对
+Dialogue: 0,0:40:55.11,0:40:56.99,en,,0,0,0,,Remember Deputy General Gao?\N高团长怎么着
+Dialogue: 0,0:40:56.99,0:40:59.62,en,,0,0,0,,A hero in every battle he fought even lost an arm for us\N少了一只胳膊 立功无数
+Dialogue: 0,0:40:59.79,0:41:02.12,en,,0,0,0,,But he still went to the other side in the end\N还不是说投共就投共嘛
+Dialogue: 0,0:41:02.46,0:41:03.66,en,,0,0,0,,Say that again\N你说什么
+Dialogue: 0,0:41:03.66,0:41:05.54,en,,0,0,0,,Say it again!\N你再说一遍
+Dialogue: 0,0:41:05.54,0:41:06.88,en,,0,0,0,,You're calling me a traitor?\N谁投共
+Dialogue: 0,0:41:06.88,0:41:08.04,en,,0,0,0,,Just giving an example\N我只是举个例子
+Dialogue: 0,0:41:08.04,0:41:10.17,en,,0,0,0,,You don't need to volunteer yourself so quickly\N你不用急着穿鞋
+Dialogue: 0,0:41:12.47,0:41:14.47,en,,0,0,0,,Take it easy, Captain\N哎哎 老吴 吴队长
+Dialogue: 0,0:41:14.97,0:41:16.47,en,,0,0,0,,Stop it\N干什么 你干什么
+Dialogue: 0,0:41:16.47,0:41:18.47,en,,0,0,0,,Get out of my way\N你给我闪开点
+Dialogue: 0,0:41:19.43,0:41:21.14,en,,0,0,0,,Out of my way. This is no business of yours\N你闪开点 这儿没你事
+Dialogue: 0,0:41:21.14,0:41:22.56,en,,0,0,0,,Go ahead\N你动手
+Dialogue: 0,0:41:22.56,0:41:23.68,en,,0,0,0,,Let's see what kind of a hero you are\N看你多英雄
+Dialogue: 0,0:41:23.68,0:41:26.52,en,,0,0,0,,If you're so strong, why don't you go pick fights with the Japanese instead of women\N有力气打女人 不去和日本人较劲
+Dialogue: 0,0:41:36.07,0:41:38.07,en,,0,0,0,,Captain Wu\N吴大队
+Dialogue: 0,0:41:41.99,0:41:44.50,en,,0,0,0,,May I suggest you finish your dinner first?\N请您吃完再走
+Dialogue: 0,0:41:48.63,0:41:50.59,en,,0,0,0,,A man raises his hand against a woman\N这一屋子的人都是死人啊
+Dialogue: 0,0:41:50.59,0:41:53.00,en,,0,0,0,,And nobody does anything?\N眼看着个大男人打女人
+Dialogue: 0,0:42:01.64,0:42:04.10,en,,0,0,0,,There's no need for this\N都是自己人嘛
+Dialogue: 0,0:42:04.56,0:42:06.98,en,,0,0,0,,We're all amongst ourselves\N怎么弄成这样
+Dialogue: 0,0:42:13.11,0:42:15.11,en,,0,0,0,,NOBODY WILL MAKE IT OUT OF HERE ALIVE
+Dialogue: 0,0:42:15.24,0:42:18.03,en,,0,0,0,,NEED TO TAKE EXTREME MEASURES
+Dialogue: 0,0:42:18.20,0:42:20.95,en,,0,0,0,,TO HAVE ANY CHANCE OF GETTING MESSAGE OUT...
+Dialogue: 0,0:42:27.07,0:42:28.48,en,,0,0,0,,We truly apologize for the...\N实在抱歉
+Dialogue: 0,0:42:28.48,0:42:30.60,en,,0,0,0,,...inconvenience to you all\N这几天委屈各位长官了
+Dialogue: 0,0:42:31.02,0:42:32.81,en,,0,0,0,,Col. Takeda has specifically directed...\N武田长交代下来
+Dialogue: 0,0:42:32.81,0:42:34.36,en,,0,0,0,,After the Phantom is found...\N一旦揪出鬼
+Dialogue: 0,0:42:34.36,0:42:37.94,en,,0,0,0,,Each of you will be rewarded for your assistance If you'd all be kind enough\N各位都会因协助办案受到奖励
+Dialogue: 0,0:42:40.36,0:42:42.24,en,,0,0,0,,To write down your ranks, pay grades...\N麻烦把历年的考绩 职等
+Dialogue: 0,0:42:43.04,0:42:45.55,en,,0000,0000,0000,,...and evaluation scores...\N以及薪饷的级数写好
+Dialogue: 0,0:42:45.91,0:42:47.66,en,,0,0,0,,During the years of your service\N等侦讯结束之后
+Dialogue: 0,0:42:47.66,0:42:50.25,en,,0,0,0,,You'll all be rewarded accordingly once this is over\N作为论功行赏的依据
+Dialogue: 0,0:44:15.71,0:44:17.71,en,,0,0,0,,What do you want?\N哎 你们干什么你们
+Dialogue: 0,0:44:21.05,0:44:23.05,en,,0,0,0,,What's going on?\N怎么回事儿
+Dialogue: 0,0:44:31.43,0:44:33.43,en,,0,0,0,,Let go of me!\N放开我
+Dialogue: 0,0:44:44.82,0:44:47.24,en,,0,0,0,,Let go of me! Let go!\N放开我 放开我 放开我
+Dialogue: 0,0:44:52.08,0:44:54.08,en,,0,0,0,,Who'd they get?\N谁啊
+Dialogue: 0,0:45:23.86,0:45:25.86,en,,0,0,0,,It's not me!\N不是我
+Dialogue: 0,0:45:25.95,0:45:27.32,en,,0,0,0,,It's really not me!\N真不是我
+Dialogue: 0,0:45:27.32,0:45:29.32,en,,0,0,0,,Well, then can you explain to me...\N那请你解释一下
+Dialogue: 0,0:45:29.91,0:45:35.33,en,,0,0,0,,Just why your handwriting is identical to the Phantom's?\N为什么你的笔迹和老鬼的笔迹这么像
+Dialogue: 0,0:45:37.79,0:45:39.79,en,,0,0,0,,Well\N为什么
+Dialogue: 0,0:45:41.09,0:45:43.09,en,,0,0,0,,Someone's framing me\N有人想栽赃我
+Dialogue: 0,0:45:43.13,0:45:45.76,en,,0,0,0,,It must be. It must be!\N肯定是的 肯定的
+Dialogue: 0,0:46:10.53,0:46:12.53,en,,0,0,0,,Pull his pants down\N扒了他的裤子
+Dialogue: 0,0:46:50.99,0:46:52.99,en,,0,0,0,,Hold your step\N请留步
+Dialogue: 0,0:46:56.04,0:46:58.04,en,,0,0,0,,Commander\N司令
+Dialogue: 0,0:47:06.17,0:47:08.00,en,,0,0,0,,I'm disciplining my dog\N我管教我的狗
+Dialogue: 0,0:47:08.01,0:47:09.42,en,,0,0,0,,What's so funny about that?\N你笑什么
+Dialogue: 0,0:47:09.42,0:47:11.42,en,,0,0,0,,There's a rat in your unit\N您的单位里有奸细
+Dialogue: 0,0:47:13.89,0:47:15.51,en,,0,0,0,,What rat?\N什么奸细
+Dialogue: 0,0:47:15.51,0:47:21.48,en,,0,0,0,,General Tsukeda has asked me to take full charge of this\N挂尾中将已经委托我全权负责此事
+Dialogue: 0,0:47:24.27,0:47:26.27,en,,0,0,0,,Commander Zhang...\N他对您的信任
+Dialogue: 0,0:47:26.32,0:47:30.61,en,,0,0,0,,I'm afraid the GeneraI's faith in you... Has been greatly shaken\N因为这件事 打了很大的折扣
+Dialogue: 0,0:47:31.49,0:47:33.49,en,,0,0,0,,Do you have evidence?\N有证据吗
+Dialogue: 0,0:47:33.82,0:47:36.07,en,,0,0,0,,Bring over the handwriting file\N去把笔迹档拿过来
+Dialogue: 0,0:47:37.54,0:47:39.54,en,,0,0,0,,Now!\N快去
+Dialogue: 0,0:47:46.63,0:47:49.67,en,,0,0,0,,If it were anyone else, this would already be over\N若是别人也就罢了
+Dialogue: 0,0:47:50.51,0:47:53.34,en,,0,0,0,,But since it is Lieutenant Bai, your confidant...\N偏偏是白小年 您的机要
+Dialogue: 0,0:47:54.01,0:47:58.68,en,,0,0,0,,I think it best if you prove your innocence first\N您最好先自清
+Dialogue: 0,0:48:19.99,0:48:21.70,en,,0,0,0,,Commander...\N司令
+Dialogue: 0,0:48:21.70,0:48:23.70,en,,0,0,0,,Commander\N司令
+Dialogue: 0,0:48:24.92,0:48:26.46,en,,0,0,0,,Help me!\N救我
+Dialogue: 0,0:48:26.46,0:48:28.46,en,,0,0,0,,I'm not the Phantom!\N我不是鬼
+Dialogue: 0,0:49:30.44,0:49:33.28,en,,0,0,0,,Officer Li, please get dressed immediately and come with me\N请李组长穿好衣服 跟我走
+Dialogue: 0,0:49:33.82,0:49:34.65,en,,0,0,0,,Where to?\N去哪儿
+Dialogue: 0,0:49:34.65,0:49:37.24,en,,0,0,0,,One minute. You have one minute to get ready\N一分钟 你只有一分钟的准备时间
+Dialogue: 0,0:50:48.77,0:50:51.48,en,,0,0,0,,Please wait here.\N请稍等
+Dialogue: 0,0:50:57.03,0:50:59.03,en,,0,0,0,,Please enter...\N请
+Dialogue: 0,0:51:23.29,0:51:26.50,en,,0,0,0,,One of our men\NJust saw Captain Wu barge into Gu's bedroom\N发现吴志国闯进了顾晓梦的房间
+Dialogue: 0,0:51:30.72,0:51:32.72,en,,0,0,0,,See anything?\N什么情况
+Dialogue: 0,0:51:33.01,0:51:35.01,en,,0,0,0,,It's too dark\N看不到
+Dialogue: 0,0:51:36.85,0:51:38.85,en,,0,0,0,,Turn it up\N把声音打开
+Dialogue: 0,0:51:39.02,0:51:40.22,en,,0,0,0,,I'm apologizing to you.\N我向你道歉
+Dialogue: 0,0:51:40.23,0:51:41.77,en,,0,0,0,,I don't want your apology\N请你出去
+Dialogue: 0,0:51:41.77,0:51:43.77,en,,0,0,0,,Please just leave!\N我不需要你道歉
+Dialogue: 0,0:51:45.19,0:51:47.61,en,,0,0,0,,Why? Why can't we just talk it out?\N为什么 我们不能把话说清楚呢
+Dialogue: 0,0:51:47.73,0:51:49.23,en,,0,0,0,,What are you doing?\N你要干什么
+Dialogue: 0,0:51:49.23,0:51:51.23,en,,0,0,0,,I'll call the guards!\N我叫士兵啦
+Dialogue: 0,0:51:51.65,0:51:53.15,en,,0,0,0,,I'm their commanding officer\N我是他们的长官
+Dialogue: 0,0:51:53.16,0:51:55.62,en,,0,0,0,,What are they going to do to me?\N他们怎么可能请得动我呢
+Dialogue: 0,0:51:55.87,0:51:57.87,en,,0,0,0,,Let go of me! Let go!\N你要干什么
+Dialogue: 0,0:51:59.70,0:52:00.87,en,,0,0,0,,What's going on?\N怎么回事儿
+Dialogue: 0,0:52:00.87,0:52:02.87,en,,0,0,0,,We're losing the signal...\N信号不好
+Dialogue: 0,0:52:05.92,0:52:10.38,en,,0,0,0,,Your boyfriend, Liu - the actor?\N你男朋友是话剧演员刘林宗
+Dialogue: 0,0:52:13.30,0:52:16.76,en,,0,0,0,,You haven't seen each other for about a week, no?\N你们是不是差不多一周没有见面了
+Dialogue: 0,0:52:17.72,0:52:19.72,en,,0,0,0,,No.\N是
+Dialogue: 0,0:52:20.93,0:52:22.93,en,,0,0,0,,He's with the military police now\N他在宪兵队
+Dialogue: 0,0:52:26.19,0:52:28.06,en,,0,0,0,,What's he doing there?\N他在宪兵队干什么
+Dialogue: 0,0:52:28.07,0:52:30.23,en,,0,0,0,,What do you think he's doing there?\N宪兵队是干什么的
+Dialogue: 0,0:52:45.62,0:52:47.62,en,,0,0,0,,Commissioner!\N处长好
+Dialogue: 0,0:52:49.59,0:52:50.84,en,,0,0,0,,Why didn't you stop him?\N怎么不拦住他
+Dialogue: 0,0:52:50.84,0:52:52.84,en,,0,0,0,,I didn't dare, sir\N我想拦没敢拦
+Dialogue: 0,0:52:54.05,0:52:55.80,en,,0,0,0,,Knock on the door\N去敲门
+Dialogue: 0,0:52:55.80,0:52:57.47,en,,0,0,0,,And ask Captain Wu down to the living room\NTell him I would like to speak to him\N请吴大队长到会客室 说我有事找他
+Dialogue: 0,0:52:58.24,0:52:59.35,en,,0000,0000,0000,,Go!\NYes sir!\N去，是
+Dialogue: 0,0:53:14.80,0:53:16.47,en,,0000,0000,0000,,Commissioner, sir! No, sorry, I mean, Chief Captain, sir!\NCommissioner Wang would like to...\N王处长说找你有事
+Dialogue: 0,0:53:17.03,0:53:19.20,en,,0,0,0,,Talk to you in the living room\N在会客室里等你
+Dialogue: 0,0:53:20.78,0:53:22.78,en,,0,0,0,,Tell him I'm sleeping\N说我睡了
+Dialogue: 0,0:53:29.20,0:53:30.91,en,,0000,0000,0000,,人体解剖学
+Dialogue: 0,0:53:47.48,0:53:49.15,en,,0,0,0,,The first time I saw you,\N我第一次见你
+Dialogue: 0,0:53:49.15,0:53:51.15,en,,0,0,0,,I noticed your features\N就注意到你
+Dialogue: 0,0:53:51.65,0:53:53.27,en,,0,0,0,,A narrow forehead...\N前额骨窄
+Dialogue: 0,0:53:53.28,0:53:54.73,en,,0,0,0,,...high cheekbones...\N颧骨突高
+Dialogue: 0,0:53:54.74,0:53:56.74,en,,0,0,0,,...and a thin nose\N鼻骨细狭
+Dialogue: 0,0:53:57.07,0:53:59.07,en,,0,0,0,,Your eyes are deep-set\N眼窝深大
+Dialogue: 0,0:53:59.66,0:54:01.95,en,,0,0,0,,Women with that kind of facial structure...\N面部水准线较突出\N这种面相的女人
+Dialogue: 0,0:54:02.33,0:54:06.99,en,,0,0,0,,...are not to be trusted\N心机很深
+Dialogue: 0,0:54:07.40,0:54:11.07,en,,0000,0000,0000,,Even if on the surface they may seem to be above reproach\N但表面总做出一副不可侵犯的样子
+Dialogue: 0,0:54:12.17,0:54:14.46,en,,0,0,0,,You've been acting, all along...\N你一直在演戏
+Dialogue: 0,0:54:16.05,0:54:18.55,en,,0,0,0,,What do you take Liu in for?\N你们有什么证据抓刘林宗
+Dialogue: 0,0:54:18.93,0:54:21.64,en,,0,0,0,,A unit like Counterinsurgency can't allow for any uncertainty\N司令部这种单位不容丝毫含糊
+Dialogue: 0,0:54:21.76,0:54:23.89,en,,0,0,0,,If you share your bed with a rebel\N如果你的枕边人有问题
+Dialogue: 0,0:54:24.01,0:54:26.14,en,,0,0,0,,What else might you be sharing with him?\N你也脱不了干系
+Dialogue: 0,0:54:35.82,0:54:37.82,en,,0,0,0,,Ms. Gu?\N顾小姐
+Dialogue: 0,0:54:42.28,0:54:44.41,en,,0,0,0,,Ms. Gu... are you asleep?\N睡了吗 顾小姐
+Dialogue: 0,0:54:56.13,0:54:57.42,en,,0,0,0,,What do you want?\N有事吗
+Dialogue: 0,0:54:57.42,0:54:59.34,en,,0,0,0,,Just passing by\N路过
+Dialogue: 0,0:54:59.34,0:55:01.34,en,,0,0,0,,Are you OK?\N怎么了
+Dialogue: 0,0:55:02.18,0:55:04.18,en,,0,0,0,,I'm fine\N我没事
+Dialogue: 0,0:55:10.69,0:55:12.69,en,,0,0,0,,I brought you a snack\N给你带了点吃的
+Dialogue: 0,0:55:14.40,0:55:16.40,en,,0,0,0,,If you need anything...\N有事就叫我
+Dialogue: 0,0:55:16.53,0:55:18.53,en,,0,0,0,,I'll be around\N我都在
+Dialogue: 0,0:55:25.37,0:55:27.37,en,,0,0,0,,To hell with him!\N他该死
+Dialogue: 0,0:55:45.05,0:55:47.93,en,,0,0,0,,If you can prove that you're not the Phantom\N如果能证明你不是老鬼
+Dialogue: 0,0:55:48.68,0:55:51.43,en,,0,0,0,,It would also clear up our suspicions about Liu\N也就间接证明刘林宗的清白
+Dialogue: 0,0:55:53.27,0:55:56.61,en,,0,0,0,,I suspect the resume you submitted to us...\N我认为你给单位的生平资料
+Dialogue: 0,0:55:57.77,0:55:59.77,en,,0,0,0,,...was mostly made up\N是假的
+Dialogue: 0,0:56:01.45,0:56:03.45,en,,0,0,0,,During the interrogation today\N今天王处长的审问
+Dialogue: 0,0:56:03.45,0:56:05.45,en,,0,0,0,,Your hostility-\N你态度傲慢
+Dialogue: 0,0:56:06.20,0:56:08.62,en,,0,0,0,,Only shows that you're hiding something\N只是说明你心虚
+Dialogue: 0,0:56:15.79,0:56:19.13,en,,0,0,0,,You're one of our best code-breakers, I'm told\N听说你是一个密码天才
+Dialogue: 0,0:56:19.92,0:56:21.92,en,,0,0,0,,But did you know that...\N但是你知不知道
+Dialogue: 0,0:56:22.17,0:56:26.09,en,,0,0,0,,Every inch of the body carries a code?\N我们身体的所有部位都是密码
+Dialogue: 0,0:56:30.60,0:56:32.60,en,,0,0,0,,If you can pass this examination\N只要你能过这一关
+Dialogue: 0,0:56:32.93,0:56:36.06,en,,0,0,0,,You and Liu will have nothing to worry about\N你和刘林宗都平安
+Dialogue: 0,0:56:47.95,0:56:49.95,en,,0,0,0,,Your physical features\N人的器官
+Dialogue: 0,0:56:50.70,0:56:53.37,en,,0,0,0,,From every orifice to every limb\N四肢的长短比例
+Dialogue: 0,0:56:54.83,0:56:56.87,en,,0,0,0,,All carry the genetic code of who we are...\N都在传达信息
+Dialogue: 0,0:56:58.84,0:57:01.71,en,,0,0,0,,Showing our true identities\N都在揭穿我们的真实身份
+Dialogue: 0,0:57:08.39,0:57:10.93,en,,0,0,0,,In order to get to that\N要让你显露真面目
+Dialogue: 0,0:57:14.56,0:57:18.90,en,,0,0,0,,I'll need to break your will first\N首先要摧毁你的意志
+Dialogue: 0,0:57:19.27,0:57:21.27,en,,0,0,0,,And the way to break your will\N而摧毁意志的方法
+Dialogue: 0,0:57:21.69,0:57:23.82,en,,0,0,0,,Is to help you realize\N就是让你发现
+Dialogue: 0,0:57:25.53,0:57:28.20,en,,0,0,0,,That your body does not belong to you\N你的身体并不属于自己
+Dialogue: 0,0:57:28.66,0:57:30.91,en,,0,0,0,,It belongs to your enemy\N你的身体属于敌人
+Dialogue: 0,0:57:32.74,0:57:34.74,en,,0,0,0,,Now let go\N坦白吧
+Dialogue: 0,0:57:35.62,0:57:38.33,en,,0,0,0,,Give yourself over completely\N把你自己完全交出来
+Dialogue: 0,0:57:43.55,0:57:46.17,en,,0,0,0,,"Wherefore, there in her shimm'ring eyes of jade...\N为何在她散着金粉的眼皮之下
+Dialogue: 0,0:57:46.30,0:57:49.68,en,,0,0,0,,Shine golden pupils peering at my own?"\N用那双金色的眸子 看着我
+Dialogue: 0,0:58:09.74,0:58:11.74,en,,0,0,0,,HAVE COME UP WITH A PLAN
+Dialogue: 0,0:58:11.78,0:58:14.54,en,,0,0,0,,HEAVEN HELP ME NOW
+Dialogue: 0,0:58:17.08,0:58:21.08,en,,0,0,0,,So Lieutenant Bai died during the interrogation-\N所以白上尉是在审问过程中意外死亡的
+Dialogue: 0,0:58:22.54,0:58:24.54,en,,0,0,0,,Is that correct?Commander Zhang?\N是这样吧 司令
+Dialogue: 0,0:58:25.09,0:58:29.68,en,,0,0,0,,Right up until he died...\N...Bai insisted he was being framed\N小白临死前还说，他是被陷害的
+Dialogue: 0,0:58:30.93,0:58:32.93,en,,0,0,0,,I've wronged him!\N我错怪小白了
+Dialogue: 0,0:58:33.51,0:58:35.76,en,,0,0,0,,Everything we did for the Imperial Army\N我替皇军做牛做马
+Dialogue: 0,0:58:39.44,0:58:41.44,en,,0,0,0,,And this is how you repay us?\N你们就这样对待自己人
+Dialogue: 0,0:58:41.48,0:58:43.73,en,,0,0,0,,What else did Lieutenant Bai say?\N白副官还说什么
+Dialogue: 0,0:58:46.36,0:58:48.49,en,,0,0,0,,He said the hell with handwriting\N他说字迹算个屁啊
+Dialogue: 0,0:58:48.82,0:58:51.32,en,,0,0,0,,Chief Jin is a master calligrapher-\N金生火是书法高手
+Dialogue: 0,0:58:51.82,0:58:54.12,en,,0,0,0,,He could imitate anyone's handwriting he wanted to\N谁的字他不能仿
+Dialogue: 0,0:58:56.75,0:58:58.75,en,,0,0,0,,My condolences\N辛苦了
+Dialogue: 0,0:59:00.25,0:59:02.29,en,,0,0,0,,Please take the Commander home\N送司令回去休息吧
+Dialogue: 0,0:59:04.79,0:59:06.79,en,,0,0,0,,Rest well, Commander Zhang\N司令慢走
+Dialogue: 0,0:59:12.55,0:59:14.64,en,,0,0,0,,We've been had\N我们被算计了
+Dialogue: 0,0:59:17.64,0:59:19.64,en,,0,0,0,,The Phantom is still among us\N老鬼还在这儿
+Dialogue: 0,0:59:20.77,0:59:22.77,en,,0,0,0,,We have two days left\N剩下两天时间
+Dialogue: 0,0:59:23.44,0:59:25.44,en,,0,0,0,,No more mistakes\N不容许任何差错
+Dialogue: 0,0:59:32.11,0:59:33.36,en,,0,0,0,,Colonel Takeda\N武田君
+Dialogue: 0,0:59:33.37,0:59:35.37,en,,0,0,0,,ONE MONTH AGO
+Dialogue: 0,0:59:37.04,0:59:41.16,en,,0,0,0,,Takeda!\N武田君\N
+Dialogue: 0,0:59:42.75,0:59:44.75,en,,0,0,0,,Any thoughts you'd like to share with us?\N你有什么意见
+Dialogue: 0,0:59:47.84,0:59:49.80,en,,0,0,0,,Forgive me for being so direct\N怒在下直言
+Dialogue: 0,0:59:49.80,0:59:52.22,en,,0,0,0,,But I don't believe that your plan is feasible\N您的进攻计划并不可取
+Dialogue: 0,0:59:54.76,0:59:56.18,en,,0,0,0,,Nothing comes quickly or easily in battle\N在战场上
+Dialogue: 0,0:59:56.18,1:00:00.35,en,,0,0,0,,The cost of a rushed attack would be staggering\N急功近利的代价非常惨痛
+Dialogue: 0,1:00:07.19,1:00:12.19,en,,0,0,0,,Your opinion comes......as no surprise to me\N对你的看法，我不意外
+Dialogue: 0,1:00:12.20,1:00:18.03,en,,0,0,0,,Your grandfather killed himself On the Northern front-lines\N当年你爷爷在沙河前线作战，受不了压力自裁身亡
+Dialogue: 0,1:00:18.16,1:00:24.66,en,,0,0,0,,Cowardice seems to be a Takeda family tradition\N“怯战”早成为你武田家的传统
+Dialogue: 0,1:01:02.95,1:01:04.95,en,,0,0,0,,We have a situation\N有状况
+Dialogue: 0,1:01:05.17,1:01:07.17,en,,0,0,0,,The cripple is here!\N那个老头出现了
+Dialogue: 0,1:01:08.59,1:01:10.88,en,,0,0,0,,The janitor who posts the messages at the temple?\N那个贴告示的清洁工
+Dialogue: 0,1:01:11.21,1:01:13.21,en,,0,0,0,,I checked with the administration-\N我跟行政处对过了
+Dialogue: 0,1:01:13.42,1:01:15.88,en,,0,0,0,,He handles the slop-water here\N这里的泔水是归他管
+Dialogue: 0,1:01:16.05,1:01:18.05,en,,0,0,0,,However, he's not supposed to be here...\N但他不该今天来
+Dialogue: 0,1:01:18.35,1:01:20.35,en,,0,0,0,,...until the day after tomorrow\N说是过两天有事
+Dialogue: 0,1:01:20.39,1:01:22.39,en,,0,0,0,,He's swapped his shift with someone else\N跟同事调了班
+Dialogue: 0,1:01:23.39,1:01:24.98,en,,0,0,0,,The Phantom's gone quiet-\N老鬼不见了
+Dialogue: 0,1:01:24.98,1:01:26.10,en,,0,0,0,,They're getting worried\N他们急了
+Dialogue: 0,1:01:26.10,1:01:28.73,en,,0,0,0,,The Phantom must be anxious to notify the rebels\N老鬼现在最急迫的问题是
+Dialogue: 0,1:01:29.31,1:01:30.98,en,,0,0,0,,Not to carry through the assasination\N怎么发出消息
+Dialogue: 0,1:01:30.98,1:01:33.82,en,,0,0,0,,Here is our chance to set a trap\N取消百草堂的暗杀行动
+Dialogue: 0,1:01:38.20,1:01:40.87,en,,0,0,0,,And force the Phantom forward\N我们应该引老鬼现身
+Dialogue: 0,1:01:53.96,1:01:55.96,en,,0,0,0,,Attention everyone!\N跟各位报告
+Dialogue: 0,1:01:56.30,1:01:59.84,en,,0,0,0,,After three days of investigation We have made great progress\N经过三天审讯 可以说是有重大斩获
+Dialogue: 0,1:02:00.35,1:02:02.35,en,,0,0,0,,We are now almost certain that\N几乎可以断定
+Dialogue: 0,1:02:02.43,1:02:05.47,en,,0,0,0,,Lieutenant Bai is the Phantom\N白小年就是鬼
+Dialogue: 0,1:02:07.89,1:02:09.31,en,,0,0,0,,As a gesture of appreciation for your cooperation\N慰劳大伙辛苦
+Dialogue: 0,1:02:09.31,1:02:12.06,en,,0,0,0,,Col. Takeda has arranged a special lunch for today\N中午武田长特别加菜
+Dialogue: 0,1:02:12.44,1:02:14.98,en,,0,0,0,,Please be punctual\N请各位准时入席
+Dialogue: 0,1:02:28.79,1:02:30.79,en,,0,0,0,,Thank you\N辛苦了
+Dialogue: 0,1:02:39.34,1:02:41.34,en,,0,0,0,,Hey you!\N老陆
+Dialogue: 0,1:02:41.34,1:02:44.01,en,,0,0,0,,Go tidy up the dishes and bring back the plates\N去把桌子收拾收拾 把骨碟换回来
+Dialogue: 0,1:03:36.48,1:03:38.48,en,,0,0,0,,I, Li Ningyu...\N我 李宁玉
+Dialogue: 0,1:03:40.20,1:03:44.74,en,,0,0,0,,Graduated with honors from Wharton\N堂堂美国宾夕法尼亚大学的高材生
+Dialogue: 0,1:03:46.79,1:03:48.79,en,,0,0,0,,I am not a whore\N我不是妓女
+Dialogue: 0,1:03:51.46,1:03:53.67,en,,0,0,0,,I am not!\N我不是
+Dialogue: 0,1:03:59.55,1:04:03.88,en,,0,0,0,,I may not share your rank...\NBut that doesn't mean I'm afraid of you.\N我斗不过你，但我不怕你
+Dialogue: 0,1:04:08.85,1:04:12.10,en,,0,0,0,,Sis..\N玉姐 玉姐
+Dialogue: 0,1:04:12.23,1:04:12.98,en,,0,0,0,,You bastard!\N混蛋，把她拉回去
+Dialogue: 0,1:04:12.98,1:04:13.81,en,,0,0,0,,It's all right now\NBastard!\N混蛋
+Dialogue: 0,1:04:15.86,1:04:17.77,en,,0,0,0,,Let go of me!\N放开我
+Dialogue: 0,1:04:17.77,1:04:19.27,en,,0,0,0,,Come now\N走
+Dialogue: 0,1:04:20.11,1:04:22.11,en,,0,0,0,,Let go of me!
+Dialogue: 0,1:04:33.62,1:04:36.58,en,,0,0,0,,These goddamned people\N他妈的这帮王八蛋
+Dialogue: 0,1:04:37.67,1:04:39.17,en,,0,0,0,,We should\N干脆
+Dialogue: 0,1:04:39.17,1:04:41.17,en,,0,0,0,,Just kill them all and have done with it\N全部动大刑
+Dialogue: 0,1:04:43.80,1:04:45.80,en,,0,0,0,,It would make no difference to me\N我倒是无所谓
+Dialogue: 0,1:04:46.30,1:04:48.93,en,,0,0,0,,But I would worry for you, Commissioner Wang\N就怕你王处长今后不好办
+Dialogue: 0,1:04:50.39,1:04:53.48,en,,0,0,0,,One innocent officer has died already\N已经不明不白死了一个
+Dialogue: 0,1:04:53.81,1:04:57.35,en,,0,0,0,,If we should take another life and still find no sign of the Phantom...\N要是再闹出人命，却找不到鬼
+Dialogue: 0,1:04:57.36,1:05:00.02,en,,0,0,0,,What would you tell Commander Zhang?\N你怎么向张司令交代
+Dialogue: 0,1:05:02.69,1:05:05.49,en,,0,0,0,,Let's go over the facts again\N我们不妨再推敲一遍
+Dialogue: 0,1:05:06.32,1:05:08.91,en,,0,0,0,,I believe we can rule out Officer Li\N李宁玉应该可以排除
+Dialogue: 0,1:05:10.16,1:05:12.41,en,,0,0,0,,I've looked her over carefully\N我仔细地查过她
+Dialogue: 0,1:05:12.79,1:05:15.00,en,,0,0,0,,The only thing on her mind is her boyfriend\N她想的都是刘林宗
+Dialogue: 0,1:05:15.67,1:05:18.04,en,,0,0,0,,Someone so weak-minded\N老鬼不可能这么随性，这么脆弱
+Dialogue: 0,1:05:18.33,1:05:19.59,en,,0,0,0,,Couldn't possibly be the Phantom
+Dialogue: 0,1:05:19.59,1:05:26.59,en,,0,0,0,,What about Jin?\NHe looked at the old cripple when he was handing him his dirty plate\N老金呢，他递盘子的时候，瞪了那老头一眼
+Dialogue: 0,1:05:26.80,1:05:28.80,en,,0,0,0,,Look at it the other way\N你得反过来想
+Dialogue: 0,1:05:28.85,1:05:34.99,en,,0,0,0,,Jin has nothing to hide\NIf he looked at the cripple\N金生火心中无鬼，有人上前收盘子，彼此眼神交汇
+Dialogue: 0,1:05:35.72,1:05:37.31,en,,0000,0000,0000,,That only shows one thing\N这只是说明
+Dialogue: 0,1:05:37.56,1:05:40.47,en,,0000,0000,0000,,He is unguarded\NWhen a stranger comes close, it's only natural to react\N有陌生人靠近时 他自然会有所反应
+Dialogue: 0,1:05:41.11,1:05:43.11,en,,0,0,0,,If someone doesn't react...\N如果不反应
+Dialogue: 0,1:05:43.94,1:05:45.94,en,,0,0,0,,They're deliberately avoiding it\N反倒是刻意回避
+Dialogue: 0,1:05:45.99,1:05:48.20,en,,0,0,0,,Trying to control their focus\N闪躲对方的目光
+Dialogue: 0,1:05:51.95,1:05:56.25,en,,0,0,0,,Neither Captain Wu nor Officer Gu looked at the cripple once throughout the whole meal\N吴志国和顾晓梦从头到尾就没看那老头一眼
+Dialogue: 0,1:06:12.01,1:06:14.01,en,,0,0,0,,One of them is our Phantom\N老鬼就在他们两人之间
+Dialogue: 0,1:06:20.64,1:06:22.64,en,,0,0,0,,Everyone come outside\N所有人统统出来
+Dialogue: 0,1:06:23.56,1:06:25.56,en,,0,0,0,,Gather at the west wing immediately\N到西楼集合
+Dialogue: 0,1:06:37.16,1:06:40.25,en,,0,0,0,,To prove his innocence\N白副官为洗脱嫌疑
+Dialogue: 0,1:06:40.83,1:06:43.08,en,,0,0,0,,Lieutenant Bai gave his life\N不惜以死明志
+Dialogue: 0,1:06:43.50,1:06:45.33,en,,0,0,0,,Right up until his death...\N死前再三强调
+Dialogue: 0,1:06:45.33,1:06:47.71,en,,0,0,0,,He insisted that he was being framed\N他是被奸人陷害
+Dialogue: 0,1:06:50.17,1:06:54.18,en,,0,0,0,,Lieutenant Bai was very close to the Commander\N白副官和司令的关系非比寻常
+Dialogue: 0,1:06:54.55,1:06:57.14,en,,0,0,0,,But even that couldn't save him\N都不免落到这个下场
+Dialogue: 0,1:06:58.35,1:07:00.68,en,,0,0,0,,I suggest you all ask yourselves\N请各位扪心自问
+Dialogue: 0,1:07:02.19,1:07:04.19,en,,0,0,0,,With nothing to lean on...\N你们的背景
+Dialogue: 0,1:07:04.85,1:07:06.85,en,,0,0,0,,How will you escape his fate?\N有他硬
+Dialogue: 0,1:07:08.61,1:07:12.11,en,,0,0,0,,Merciful Buddha! Whoever it is, please...\N阿弥陀佛 到底是谁呀
+Dialogue: 0,1:07:12.57,1:07:14.20,en,,0,0,0,,I beg you - step up!\N求求你
+Dialogue: 0,1:07:14.20,1:07:15.86,en,,0,0,0,,Spare the innocent\N别殃及无辜好嘛
+Dialogue: 0,1:07:15.87,1:07:17.87,en,,0,0,0,,We would rather be wrongly harsh\N宁可错杀
+Dialogue: 0,1:07:18.08,1:07:20.08,en,,0,0,0,,Than wrongly lenient\N不能错放
+Dialogue: 0,1:07:20.16,1:07:25.29,en,,0,0,0,,If the Phantom wants to leave, there are two ways\NIn a box, or in-\N老鬼想要离开这里，除非死
+Dialogue: 0,1:07:29.30,1:07:30.71,en,,0,0,0,,What the-?\NMotherfucker! ls there anything you won't do?\N唉 唉 干嘛，还有王法吗
+Dialogue: 0,1:07:31.76,1:07:33.30,en,,0,0,0,,Calm down, Captain Wu\N别急啊 吴大队
+Dialogue: 0,1:07:33.30,1:07:35.34,en,,0,0,0,,Everyone will take their turn\N一个一个来
+Dialogue: 0,1:07:35.72,1:07:37.72,en,,0,0,0,,My friend...\N老王
+Dialogue: 0,1:07:38.51,1:07:40.26,en,,0,0,0,,Stay away!\N滚开
+Dialogue: 0,1:07:40.26,1:07:43.85,en,,0,0,0,,Stay away! Don't come close!Stay away! Stay away!\N滚开 滚开
+Dialogue: 0,1:07:47.73,1:07:50.36,en,,0,0,0,,You don't want to do this, Jin\N不要乱来哟 老金
+Dialogue: 0,1:07:54.36,1:07:56.36,en,,0,0,0,,I know what you do to people\N我知道你的手段
+Dialogue: 0,1:07:56.91,1:07:58.91,en,,0,0,0,,It'd be worse than death\N是生不如死啊
+Dialogue: 0,1:07:59.70,1:08:02.04,en,,0,0,0,,I'd rather end this here\N我赏自己一个痛快吧我
+Dialogue: 0,1:08:13.84,1:08:15.84,en,,0,0,0,,Another one down\N又少了一个
+Dialogue: 0,1:08:48.83,1:08:50.38,en,,0,0,0,,What do you want? What are you doing to me?\N干什么 干什么
+Dialogue: 0,1:08:50.38,1:08:52.46,en,,0,0,0,,Let go of me! Let go of me!\N放开我 放开我
+Dialogue: 0,1:08:53.25,1:08:54.38,en,,0,0,0,,Let go of me!\N放开我
+Dialogue: 0,1:08:54.38,1:08:56.34,en,,0,0,0,,Sis! -Let go of me! -Sis!\N-放开我        -玉姐
+Dialogue: 0,1:09:00.47,1:09:02.47,en,,0,0,0,,Let go of me!\N放开我
+Dialogue: 0,1:09:23.78,1:09:25.78,en,,0,0,0,,Go back to your room\N回房间去
+Dialogue: 0,1:09:26.79,1:09:28.21,en,,0,0,0,,Don't say a word\N别说话
+Dialogue: 0,1:09:28.21,1:09:30.21,en,,0,0,0,,Go!\N回去
+Dialogue: 0,1:10:00.86,1:10:03.49,en,,0,0,0,,Why aren't they making a sound?\N怎么一点儿动静都没有啊
+Dialogue: 0,1:10:09.96,1:10:11.96,en,,0,0,0,,You dropped a cigarette at lunch\N你中午掉了根烟
+Dialogue: 0,1:10:13.04,1:10:15.04,en,,0,0,0,,What are you talking about?\N你说什么呢
+Dialogue: 0,1:10:15.96,1:10:17.55,en,,0,0,0,,There was a message on the cigarette\N那根烟上有暗号
+Dialogue: 0,1:10:16.72,1:10:18.13,en,,0000,0000,0000,,Are you out of your mind?\NHow many more innocent people will you let die?\N疯了吧你，还想害死多少人
+Dialogue: 0,1:10:20.05,1:10:21.55,en,,0,0,0,,Officer Gu\N顾晓梦
+Dialogue: 0,1:10:21.55,1:10:23.30,en,,0,0,0,,What did I ever do to you?\N我什么地方得罪过你
+Dialogue: 0,1:10:23.30,1:10:24.68,en,,0,0,0,,Why are you always against me?\N你老跟我过意不去
+Dialogue: 0,1:10:24.68,1:10:26.35,en,,0,0,0,,It's not about you-\N我不是针对你个人
+Dialogue: 0,1:10:26.35,1:10:27.35,en,,0,0,0,,I'm just saying what I witnessed\NWhat the fuck did YOU witness?\N我只看证据，狗屁证据
+Dialogue: 0,1:10:28.52,1:10:30.60,en,,0,0,0,,The cigarette is coded\N那根烟就是证据
+Dialogue: 0,1:10:32.35,1:10:34.35,en,,0,0,0,,I'm going to give it to them\N我必须把它交上去
+Dialogue: 0,1:10:35.31,1:10:36.40,en,,0,0,0,,Officer Gu!\N顾晓梦
+Dialogue: 0,1:10:36.40,1:10:38.57,en,,0,0,0,,No one else should have to die so you can live!\N没必要为你一个人死那么多人
+Dialogue: 0,1:10:40.86,1:10:42.74,en,,0,0,0,,You bitch, I'll kill you!\N我现在就杀了你
+Dialogue: 0,1:10:42.74,1:10:43.24,en,,0,0,0,,Go!\N-快去        -是
+Dialogue: 0,1:10:43.24,1:10:43.99,en,,0,0,0,,Yes sir!\N你也去
+Dialogue: 0,1:10:44.52,1:10:45.15,en,,0000,0000,0000,,You too!\NYes sir!\N是
+Dialogue: 0,1:10:52.08,1:10:54.08,en,,0,0,0,,The door is jammed\N反锁了
+Dialogue: 0,1:10:57.55,1:10:59.55,en,,0,0,0,,Out of the way!\N闪开
+Dialogue: 0,1:11:04.18,1:11:04.93,en,,0,0,0,,Let go of her!\NLet go\N松开\N放手
+Dialogue: 0,1:11:07.76,1:11:09.64,en,,0,0,0,,You fucking whore!\N臭娘们
+Dialogue: 0,1:11:09.64,1:11:11.64,en,,0,0,0,,Fuck you!\N去你的
+Dialogue: 0,1:11:22.92,1:11:25.47,en,,0,0,0,,If only you'd spoken out earlier\N早说不没事了
+Dialogue: 0,1:11:26.08,1:11:28.03,en,,0000,0000,0000,,There'd have been no need for any of this\N白挨这一顿
+Dialogue: 0,1:11:31.85,1:11:33.85,en,,0,0,0,,Give it here\N把东西给我
+Dialogue: 0,1:11:47.45,1:11:49.95,en,,0,0,0,,During lunch yesterday...\N昨天吃中午饭的时候
+Dialogue: 0,1:11:50.45,1:11:52.54,en,,0,0,0,,The chief captain took out a cigarette...\N吴大队长掏烟
+Dialogue: 0,1:11:52.79,1:11:55.04,en,,0,0,0,,...and dropped it on the ground\N掉了一根在地上
+Dialogue: 0,1:11:57.29,1:11:58.88,en,,0,0,0,,I could sense that something was going on\N我觉得不对劲
+Dialogue: 0,1:11:58.88,1:12:00.88,en,,0,0,0,,So I covered it with my foot\N所以就踩住了
+Dialogue: 0,1:12:20.65,1:12:22.65,en,,0,0,0,,Morse code?\N摩斯电码
+Dialogue: 0,1:12:23.60,1:12:25.49,en,,0000,0000,0000,,Yes\NIn Morse code\N对\N在摩斯电码里面
+Dialogue: 0,1:12:27.32,1:12:29.32,en,,0,0,0,,This represents a single word...\N这些就代表一个字
+Dialogue: 0,1:12:28.44,1:12:31.32,en,,0000,0000,0000,,"Abort"\N撤
+Dialogue: 0,1:12:34.16,1:12:36.83,en,,0,0,0,,There are plenty of smokers in this building\N整栋楼有几个人抽烟
+Dialogue: 0,1:12:38.83,1:12:41.67,en,,0,0,0,,But you're the only one who smokes "Three Cannons"\N惟独你抽三炮台
+Dialogue: 0,1:12:42.67,1:12:44.67,en,,0,0,0,,Come on...\N还想赖
+Dialogue: 0,1:12:47.84,1:12:53.51,en,,0,0,0,,I'll give you one more chance\NFor the sake of all our time together\N念在大家同事一场，再给你一次机会
+Dialogue: 0,1:12:56.06,1:12:58.81,en,,0,0,0,,That bitch stole my cigarettes to frame me\N那娘们偷我烟诬陷我
+Dialogue: 0,1:13:00.56,1:13:02.98,en,,0,0,0,,I don't know shit about codes\N我哪懂摩斯码
+Dialogue: 0,1:13:04.78,1:13:09.36,en,,0,0,0,,You're all fucking blind!\NShe's playing you!\N你他妈瞎了狗眼，是非不分
+Dialogue: 0,1:13:51.49,1:13:53.16,en,,0,0,0,,Just confess\NTakeda has assured me that if you'll only confess\N说吧，只要你肯说
+Dialogue: 0,1:13:55.08,1:13:56.95,en,,0,0,0,,You can be pardoned   Maybe even rewarded\N武田长说了，可以戴罪立功
+Dialogue: 0,1:14:04.75,1:14:07.75,en,,0,0,0,,Our formidable Captain Wu-\N吴大队长身子骨硬
+Dialogue: 0,1:14:09.76,1:14:11.76,en,,0,0,0,,Too hard for electricity\N不怕电
+Dialogue: 0,1:14:12.68,1:14:15.60,en,,0,0,0,,Come- Let the Chief Captain down\N来把吴大队长放下
+Dialogue: 0,1:14:17.31,1:14:19.31,en,,0,0,0,,THIS IS MY LAST CHANCE TO GET THE MESSAGE OUT
+Dialogue: 0,1:14:19.31,1:14:21.60,en,,0,0,0,,IT ALL COMES DOWN TO TODAY
+Dialogue: 0,1:14:46.67,1:14:48.67,en,,0,0,0,,Gu...\N晓梦
+Dialogue: 0,1:15:00.27,1:15:02.89,en,,0,0,0,,It was a close call last night\N昨天真是有惊无险
+Dialogue: 0,1:15:03.19,1:15:05.19,en,,0,0,0,,I've sewn up the rip for you\N破口已经缝好了
+Dialogue: 0,1:15:05.69,1:15:07.23,en,,0,0,0,,But I'm not very good at it\N可就没车边
+Dialogue: 0,1:15:07.23,1:15:10.48,en,,0,0,0,,The stitching is a bit...\N...uneven...\N有点不，不规整
+Dialogue: 0,1:15:10.48,1:15:12.48,en,,0,0,0,,You've been targeted...\N你被锁定了
+Dialogue: 0,1:15:12.74,1:15:13.99,en,,0,0,0,,Both you and the Chief Captain\N你们俩被锁定了
+Dialogue: 0,1:15:13.99,1:15:15.99,en,,0,0,0,,Captain Wu hates my guts\N吴志国不甘心
+Dialogue: 0,1:15:16.41,1:15:18.41,en,,0,0,0,,He's always antagonizing me\N一直反咬我
+Dialogue: 0,1:15:24.08,1:15:26.42,en,,0,0,0,,I know it isn't Captain Wu\N我知道不是吴大队长
+Dialogue: 0,1:15:27.08,1:15:29.08,en,,0,0,0,,Don't worry...\N放心
+Dialogue: 0,1:15:29.34,1:15:31.42,en,,0,0,0,,I'll never turn on you\N我绝不会揭发你
+Dialogue: 0,1:15:46.44,1:15:48.44,en,,0,0,0,,Here, try it in\N试一下衣服
+Dialogue: 0,1:17:04.89,1:17:06.89,en,,0,0,0,,When did you know?\N你什么时候知道的
+Dialogue: 0,1:17:15.03,1:17:17.03,en,,0,0,0,,Just now\N现在
+Dialogue: 0,1:17:22.66,1:17:24.66,en,,0,0,0,,It was a blind guess\N我刚是瞎猜的
+Dialogue: 0,1:17:37.09,1:17:39.09,en,,0,0,0,,Mr. Six\N六爷 您请
+Dialogue: 0,1:17:50.48,1:17:52.48,en,,0,0,0,,Ah, Chief Captain-\N好久不见啊
+Dialogue: 0,1:17:54.40,1:17:56.40,en,,0,0,0,,Long time no see!\N吴大队长
+Dialogue: 0,1:18:14.67,1:18:17.21,en,,0,0,0,,You're aware of Mr. Six's... pride in his work\N六爷的手段你也知道
+Dialogue: 0,1:18:17.59,1:18:20.30,en,,0,0,0,,It's not too late for you to confess\N你现在赶紧说还来得及
+Dialogue: 0,1:18:20.51,1:18:23.18,en,,0,0,0,,Fuck you and fuck your ancestors!\N我操你祖宗
+Dialogue: 0,1:18:24.01,1:18:26.01,en,,0,0,0,,I'll come back...\N下辈子
+Dialogue: 0,1:18:26.64,1:18:29.14,en,,0,0,0,,And fucking kill you in my next life!\N老子剁碎了你
+Dialogue: 0,1:18:33.27,1:18:35.52,en,,0,0,0,,We're not strangers, Captain\N咱们都是自己人
+Dialogue: 0,1:18:35.65,1:18:38.86,en,,0,0,0,,You were always generous to me\N以前常受您照顾
+Dialogue: 0,1:18:39.03,1:18:41.11,en,,0,0,0,,So I'll be... restrained\N下手会有分寸的
+Dialogue: 0,1:18:47.53,1:18:49.53,en,,0,0,0,,Now relax...\N轻松啊
+Dialogue: 0,1:18:50.29,1:18:52.29,en,,0,0,0,,Breathe deeply\N呼一口气
+Dialogue: 0,1:18:53.46,1:18:55.88,en,,0,0,0,,Relax, Chief Captain...\N轻松啊 大队长
+Dialogue: 0,1:19:09.93,1:19:11.93,en,,0,0,0,,Tell me\N说
+Dialogue: 0,1:19:12.18,1:19:14.69,en,,0,0,0,,Where is Magnum?\N老枪人在哪儿
+Dialogue: 0,1:19:21.65,1:19:24.32,en,,0,0,0,,This one's good for the kidneys!\N补肾水啊这瓶
+Dialogue: 0,1:19:42.59,1:19:46.88,en,,0,0,0,,So my boyfriend is one of you too?\N林宗也是你们的人
+Dialogue: 0,1:19:53.31,1:19:55.31,en,,0,0,0,,You sent Liu to me?\N刘林宗
+Dialogue: 0,1:19:55.52,1:19:57.90,en,,0,0,0,,You've been using me all this time-\N一直都在利用我
+Dialogue: 0,1:20:11.58,1:20:13.58,en,,0,0,0,,Why me?\N为什么找上我
+Dialogue: 0,1:20:16.37,1:20:20.33,en,,0,0,0,,I rank too low. Can't get enough access We hope you'd become one of us\N我的业务层级太低，你才是信息的关键
+Dialogue: 0,1:20:25.47,1:20:27.47,en,,0,0,0,,This is beyond me\N太可怕了
+Dialogue: 0,1:20:29.89,1:20:31.97,en,,0,0,0,,Was anything real?\N你们到底什么是真的
+Dialogue: 0,1:20:33.47,1:20:35.73,en,,0,0,0,,I've always thought of you as a sister\N我真的把你当姐姐
+Dialogue: 0,1:20:42.52,1:20:44.52,en,,0,0,0,,As a sister?\N把我当姐姐
+Dialogue: 0,1:20:48.57,1:20:50.87,en,,0,0,0,,If they knew about this conversation\N我今天要是被查获
+Dialogue: 0,1:20:51.20,1:20:53.20,en,,0,0,0,,You think I'd make it out alive?\N我还有命活吗
+Dialogue: 0,1:20:54.91,1:20:56.91,en,,0,0,0,,They already got Liu\N刘林宗已经被抓获了
+Dialogue: 0,1:20:57.25,1:21:00.46,en,,0,0,0,,Had you heard? Huh?\N你知不知道啊
+Dialogue: 0,1:21:10.80,1:21:12.26,en,,0,0,0,,Where are you going?\N你去哪儿
+Dialogue: 0,1:21:12.26,1:21:14.26,en,,0,0,0,,To turn you in\N揭发你
+Dialogue: 0,1:21:14.81,1:21:16.81,en,,0,0,0,,I am going to turn you in\N我去揭发你
+Dialogue: 0,1:21:16.81,1:21:17.89,en,,0,0,0,,Fantastic\NTo die by your hand...\N非常好，我要是能死在你手上
+Dialogue: 0,1:21:21.65,1:21:23.65,en,,0,0,0,,Is probably the best I can hope for\N无话可说
+Dialogue: 0,1:22:02.31,1:22:04.81,en,,0,0,0,,You're a monster!\N你简直是个魔鬼
+Dialogue: 0,1:22:04.98,1:22:07.36,en,,0,0,0,,I was only doing my job\N我只是在执行任务
+Dialogue: 0,1:22:08.36,1:22:10.95,en,,0,0,0,,I didn't want it to go this far either\N我也不想走到这一步
+Dialogue: 0,1:22:43.94,1:22:47.02,en,,0,0,0,,Magnum... Where is Magnum?\N老枪 老枪在哪儿
+Dialogue: 0,1:22:48.86,1:22:50.99,en,,0,0,0,,Right... here\N就在这
+Dialogue: 0,1:23:07.84,1:23:09.84,en,,0,0,0,,You've already made it-\N你已经过关啦
+Dialogue: 0,1:23:10.05,1:23:12.55,en,,0,0,0,,They think Captain Wu is the Phantom\N他们现在认定是吴志国
+Dialogue: 0,1:23:16.85,1:23:19.64,en,,0,0,0,,I was the one who sent out the bad information\N错误情报是我提供的
+Dialogue: 0,1:23:20.97,1:23:23.60,en,,0,0,0,,Now I need to get the word out to my comrades\N我必须把消息传出去
+Dialogue: 0,1:23:27.48,1:23:30.44,en,,0,0,0,,There's only one way, turn me in\N现在只有一个办法 就是你去举报我
+Dialogue: 0,1:23:31.74,1:23:34.40,en,,0,0,0,,I would never do that!\N我怎么可能去举报你呢
+Dialogue: 0,1:23:34.53,1:23:36.53,en,,0,0,0,,What are you thinking?\N都什么时候了
+Dialogue: 0,1:23:37.49,1:23:41.41,en,,0,0,0,,How could a message be worth more than your own life? Huh?\N情报比你的命还重要吗 啊
+Dialogue: 0,1:23:44.50,1:23:47.79,en,,0,0,0,,Your life? Huh?\N比命重要吗 啊
+Dialogue: 0,1:23:51.42,1:23:59.68,en,,0,0,0,,I don't care...\NWhat other people do with their lives-\N晓梦，别人怎么样我不管
+Dialogue: 0,1:24:02.02,1:24:04.14,en,,0,0,0,,But I want you to live\N我要你活着
+Dialogue: 0,1:24:12.28,1:24:14.78,en,,0,0,0,,For the first time I can finally open up to you...\N好不容易以真面目相对
+Dialogue: 0,1:24:14.95,1:24:20.95,en,,0,0,0,,If only for a few more days and nights to talk with you, heart to heart\N我真想和你聊上几天几夜，说说心里话
+Dialogue: 0,1:24:21.12,1:24:22.91,en,,0,0,0,,But there's no time left\NDo you understand? No time\N可是现在没有时间了 你知道吗 没有了
+Dialogue: 0,1:24:29.29,1:24:31.29,en,,0,0,0,,I'm begging you\N我求你
+Dialogue: 0,1:24:31.30,1:24:33.30,en,,0,0,0,,Turn me in\N向他们举报我吧
+Dialogue: 0,1:24:45.77,1:24:47.94,en,,0,0,0,,Usually, three needles is all it takes\N一般人三针下去
+Dialogue: 0,1:24:48.15,1:24:51.15,en,,0,0,0,,For an ordinary man to confess and fingerprint their testimony\N认罪的认罪 画押的画押
+Dialogue: 0,1:24:52.15,1:24:54.15,en,,0,0,0,,The Chief Captain...\N这吴大队长
+Dialogue: 0,1:24:55.03,1:24:57.03,en,,0,0,0,,Is indeed a remarkable man\N不是凡人
+Dialogue: 0,1:24:57.03,1:24:59.16,en,,0,0,0,,Is there any other way...\N还有什么别的
+Dialogue: 0,1:25:00.12,1:25:02.12,en,,0,0,0,,To make him talk?\N门路
+Dialogue: 0,1:25:35.15,1:25:38.49,en,,0,0,0,,Open the gate!\NLet me in!\N开门\N让我进去
+Dialogue: 0,1:25:57.92,1:26:00.42,en,,0,0,0,,I found this under Officer Gu's pillow-\N在晓梦被子里发现的
+Dialogue: 0,1:26:08.06,1:26:11.02,en,,0,0,0,,The Chief Captain is innocent!\N吴大队长是被栽赃的
+Dialogue: 0,1:26:14.15,1:26:16.15,en,,0,0,0,,Hurry up\N快
+Dialogue: 0,1:26:46.72,1:26:48.72,en,,0,0,0,,Flip him over\N把他翻过来
+Dialogue: 0,1:26:58.44,1:27:01.11,en,,0,0,0,,Unfettered\N我本是
+Dialogue: 0,1:27:03.11,1:27:06.87,en,,0,0,0,,In the wild wastes\N卧龙岗上
+Dialogue: 0,1:27:08.54,1:27:11.95,en,,0,0,0,,I mastered\N散淡的人
+Dialogue: 0,1:27:14.83,1:27:24.63,en,,0,0,0,,Yin and Yang\NAnd knew the heavens...\N论阴阳如反掌
+Dialogue: 0,1:27:25.97,1:27:32.47,en,,0,0,0,,But when the country needed me, I fought\N保定乾坤
+Dialogue: 0,1:27:35.44,1:27:45.07,en,,0000,0000,0000,,先帝爷下南阳
+Dialogue: 0,1:28:11.97,1:28:14.73,en,,0,0,0,,You smoke Camels\N你抽的是骆驼
+Dialogue: 0,1:28:15.06,1:28:18.31,en,,0,0,0,,And yet Officer Li found a pack of Three Cannons under your pillow\N可被窝里掖的是三炮台
+Dialogue: 0,1:28:18.86,1:28:21.23,en,,0,0,0,,That's awfully damning\N这可太明显了
+Dialogue: 0,1:28:31.54,1:28:33.74,en,,0,0,0,,I'm trying, really trying, to help you here\N我是真的想帮助你\N快
+Dialogue: 0,1:28:34.20,1:28:35.50,en,,0,0,0,,But\NWe're running out of time\N我们没有时间了
+Dialogue: 0,1:28:39.50,1:28:41.50,en,,0,0,0,,Those aren't my cigarettes\N那不是我的烟
+Dialogue: 0,1:28:44.80,1:28:46.80,en,,0,0,0,,Get her up there!\N上
+Dialogue: 0,1:29:02.57,1:29:04.57,en,,0,0,0,,Stop\N停
+Dialogue: 0,1:29:21.21,1:29:23.21,en,,0,0,0,,She won't talk\N她什么都不肯说
+Dialogue: 0,1:29:39.19,1:29:41.31,en,,0,0,0,,How do you do, Phantom-sensei\N你好 老鬼先生
+Dialogue: 0,1:29:42.36,1:29:44.36,en,,0,0,0,,We meet at last\N总算见面了
+Dialogue: 0,1:29:53.03,1:29:55.91,en,,0,0,0,,How long have you been spying at the Counter-Insurgency Center.\N你在单位里潜伏了多久
+Dialogue: 0,1:29:56.04,1:29:58.29,en,,0,0,0,,Do you take orders directly from Magnum?\N是直属老枪指挥吗
+Dialogue: 0,1:30:04.84,1:30:06.84,en,,0,0,0,,I can guarantee you...\N只要你合作
+Dialogue: 0,1:30:07.26,1:30:09.42,en,,0,0,0,,Full protection if you cooperate\N我担保你的人身安全
+Dialogue: 0,1:30:09.67,1:30:11.67,en,,0,0,0,,Not only for you\N不止是你
+Dialogue: 0,1:30:13.64,1:30:15.64,en,,0,0,0,,But also your family\N还有你的家人
+Dialogue: 0,1:30:17.35,1:30:19.64,en,,0,0,0,,I can guarantee that\N我通通可以担保
+Dialogue: 0,1:30:27.98,1:30:30.53,en,,0,0,0,,Let's not get carried away now, Takeda\N武田长说大话了吧
+Dialogue: 0,1:30:31.66,1:30:36.24,en,,0,0,0,,During a strategy meeting. You assaulted a superior officer\N军部高参会议你暴行犯上 重伤长官
+Dialogue: 0,1:30:36.79,1:30:39.58,en,,0,0,0,,You're about to be deported back to Japan\N自己都快被贬回本土了
+Dialogue: 0,1:30:40.54,1:30:44.00,en,,0,0,0,,Where you'll probably face court-martial. You're in no position to guarantee me anything\N你跟我保证什么呀
+Dialogue: 0,1:30:55.80,1:30:57.80,en,,0,0,0,,Let me put it this way\N我说过
+Dialogue: 0,1:30:58.01,1:31:00.77,en,,0,0,0,,When I say I can guarantee you and your family safety\N我有能力保护你和你的家人
+Dialogue: 0,1:31:02.98,1:31:04.98,en,,0,0,0,,I am also saying that\N我的意思是
+Dialogue: 0,1:31:05.31,1:31:10.53,en,,0,0,0,,I am in a position\NTo hurt you......and your loved ones\N我也有能力，伤害你和你的家人
+Dialogue: 0,1:31:22.56,1:31:25.29,en,,0000,0000,0000,,Hello?\N喂
+Dialogue: 0,1:31:31.01,1:31:33.01,en,,0,0,0,,There must have been a delay on the road\N路上耽搁了
+Dialogue: 0,1:31:33.30,1:31:35.59,en,,0,0,0,,minutes later than planned\N比预计时间晚了二十分钟
+Dialogue: 0,1:31:36.30,1:31:38.05,en,,0,0,0,,Number 6, South Bank-\N南河沿六号
+Dialogue: 0,1:31:38.05,1:31:39.72,en,,0,0,0,,That's your parents' address, no?\N是你家的地址吧
+Dialogue: 0,1:31:39.72,1:31:42.93,en,,0,0,0,,Leave my parents out of this. This has nothing to do with them\N我的事儿你别扯我父母
+Dialogue: 0,1:31:50.07,1:31:52.07,en,,0,0,0,,A call for you\N接个电话
+Dialogue: 0,1:31:56.40,1:32:02.27,en,,0000,0000,0000,,Mother...\N妈\N在你家
+Dialogue: 0,1:32:02.33,1:32:03.33,en,,0,0,0,,Right now Another gun just like this one is pointed at your mother's head\N也同样有把枪顶着你妈的脑袋
+Dialogue: 0,1:32:07.67,1:32:09.67,en,,0,0,0,,Your decision\N就看你怎么处理了
+Dialogue: 0,1:32:13.84,1:32:20.34,en,,0,0,0,,Save her life and you can save your own\N这不必是生死离别，只要你肯放自己一马
+Dialogue: 0,1:32:33.57,1:32:35.57,en,,0,0,0,,Enough\N好了
+Dialogue: 0,1:32:35.90,1:32:37.90,en,,0,0,0,,Tell Madame Gu\N告诉老太太
+Dialogue: 0,1:32:38.24,1:32:40.87,en,,0,0,0,,Her daughter will be home soon\N晓梦很快就可以回去
+Dialogue: 0,1:32:43.24,1:32:46.08,en,,0000,0000,0000,,You see\N你看
+Dialogue: 0,1:32:46.08,1:32:48.08,en,,0,0,0,,That wasn't too hard, was it?\N很简单
+Dialogue: 0,1:32:59.64,1:33:01.64,en,,0,0,0,,I am the Phantom\N我是老鬼
+Dialogue: 0,1:33:03.97,1:33:06.85,en,,0,0,0,,I take my orders directly from Magnum\N我直接受上线老枪的领导
+Dialogue: 0,1:33:09.35,1:33:12.77,en,,0,0,0,,Captain Wu never laid eyes on the telegram I made that up to frame him\N吴志国确实没有看文件 是我赖他的
+Dialogue: 0,1:33:15.19,1:33:16.65,en,,0,0,0,,As for Lieutenant Bai I was the one who forged his-\NLet's talk about Magnum\N-还有白小年是我模仿他        -谈谈老枪吧
+Dialogue: 0,1:33:19.61,1:33:21.61,en,,0,0,0,,Where is he now?\N他现在人在哪里
+Dialogue: 0,1:33:26.50,1:33:28.50,en,,0,0,0,,OK\N可以啊
+Dialogue: 0,1:33:29.83,1:33:32.21,en,,0,0,0,,But not in front of him\N可我不希望有人在
+Dialogue: 0,1:33:47.27,1:33:49.52,en,,0,0,0,,I have no idea where he is\N我不可能知道他在哪儿
+Dialogue: 0,1:33:50.23,1:33:52.06,en,,0,0,0,,I've never seen him\N我从来没见过他本人
+Dialogue: 0,1:33:52.06,1:33:56.07,en,,0,0,0,,But you must be in contact with him\N那你总要跟他联系吧，否则情报如何传递
+Dialogue: 0,1:33:57.24,1:33:59.24,en,,0,0,0,,The board in front of the City Temple\N还是城隍庙的布告栏
+Dialogue: 0,1:33:59.32,1:34:02.07,en,,0,0,0,,Does he post the orders himself?\NWhat do you think?\N他自己去贴的吗，你说呢
+Dialogue: 0,1:34:02.07,1:34:04.07,en,,0,0,0,,Would you do it yourself?\N你会自己去吗
+Dialogue: 0,1:34:04.45,1:34:07.08,en,,0,0,0,,You're wasting my time\N你说这些等于没有说
+Dialogue: 0,1:34:11.00,1:34:13.00,en,,0,0,0,,Sorry\N那对不起了
+Dialogue: 0,1:34:13.88,1:34:16.04,en,,0,0,0,,But the truth is I know more about you...\N我对你了解比较多
+Dialogue: 0,1:34:16.21,1:34:18.21,en,,0,0,0,,...than I do about Magnum\N对老枪一无所知
+Dialogue: 0,1:34:25.22,1:34:27.22,en,,0,0,0,,Commander, sir!\N司令好
+Dialogue: 0,1:34:33.02,1:34:35.02,en,,0,0,0,,Where is Takeda?\N武田呢
+Dialogue: 0,1:34:38.57,1:34:40.57,en,,0,0,0,,I need to see him now\N武田去哪儿了
+Dialogue: 0,1:34:48.62,1:34:50.62,en,,0,0,0,,What else can you tell me?\N你还想说什么
+Dialogue: 0,1:34:50.66,1:34:52.66,en,,0,0,0,,Oh, lots...\N想说的有很多啊
+Dialogue: 0,1:34:53.37,1:34:57.25,en,,0,0,0,,About your family... Your upbringing... And about that awful weak spot of yours...\N你的出身 你的家庭 还有你内心的懦弱
+Dialogue: 0,1:34:59.63,1:35:03.34,en,,0,0,0,,Your grandfather became Lieutenant General after the Meiji Restoration\N维新后你祖父当了陆军中将
+Dialogue: 0,1:35:03.68,1:35:06.18,en,,0,0,0,,Your father also distinguished himself\N你父亲也跟着沾了光
+Dialogue: 0,1:35:06.60,1:35:08.93,en,,0,0,0,,As a Colonel in the Navy\N当上了海军中佐
+Dialogue: 0,1:35:15.77,1:35:17.44,en,,0,0,0,,Indeed\N你知道吗
+Dialogue: 0,1:35:17.44,1:35:20.69,en,,0,0,0,,You are a most talented spy\N你的确是一个很出色的特务
+Dialogue: 0,1:35:23.78,1:35:25.95,en,,0,0,0,,Halfway through the Russo-Japanese War\N日俄战争打到一半
+Dialogue: 0,1:35:26.91,1:35:30.45,en,,0,0,0,,Your grandfather killed himself in the front-line\N你祖父突然在前线自杀了
+Dialogue: 0,1:35:32.75,1:35:37.04,en,,0,0,0,,No military men have ever respected you\N你一直觉得同僚在用异样的眼光看你
+Dialogue: 0,1:35:46.55,1:35:48.55,en,,0,0,0,,You bitch!\N你耍我
+Dialogue: 0,1:35:55.81,1:35:58.23,en,,0,0,0,,Don't shoot!\N别开枪 别开枪
+Dialogue: 0,1:36:15.58,1:36:17.58,en,,0,0,0,,She was determined to die\N她就是想死
+Dialogue: 0,1:36:18.04,1:36:20.25,en,,0,0,0,,And we all played right into it\N我们都中计了
+Dialogue: 0,1:36:57.71,1:37:00.71,en,,0,0,0,,You never had any authority to conduct this investigation\N你根本没有获得授权
+Dialogue: 0,1:37:01.25,1:37:05.51,en,,0,0,0,,General Tsukeda turned down your request-\N挂尾中将当场否决了你的请求
+Dialogue: 0,1:37:05.67,1:37:08.97,en,,0,0,0,,This operation- ls entirely illegitimate!\N你这次行动完全是假传圣旨
+Dialogue: 0,1:37:11.60,1:37:15.97,en,,0,0,0,,At this point, does it really matter...\N...whether I was authorized or not?\N我有没有得到授权，还重要吗
+Dialogue: 0,1:37:18.31,1:37:25.94,en,,0,0,0,,My goal-Is to catch Magnum\NAnd wipe out his terrorist organization\N抓到老枪，消灭反日恐怖组织，才是我这场战役的目的
+Dialogue: 0,1:37:26.53,1:37:29.40,en,,0,0,0,,I cannot return to Japan in shame\N我不能以戴罪之身回国
+Dialogue: 0,1:37:31.62,1:37:35.29,en,,0,0,0,,You conducted interrogations under false military orders\N你冒着假造军令的危险审问囚犯
+Dialogue: 0,1:37:32.28,1:37:40.92,en,,0000,0000,0000,,Two ranking officers died here，Along with a Chief Captain who's half dead\NIf word of this gets out\N这里死了两个军职人员,一个上校大队长半死不活,消息传出去,
+Dialogue: 0,1:37:40.92,1:37:42.25,en,,0,0,0,,They'll haul both of us before a court-martial\NWe need to find someone to pin this on\N你我都难逃军法处置，必须找人顶罪
+Dialogue: 0,1:37:52.26,1:37:54.26,en,,0,0,0,,Sirs...\N二位长官
+Dialogue: 0,1:37:54.76,1:37:56.76,en,,0,0,0,,I have matters to discuss with Col. Takeda\N我和武田长有事要谈
+Dialogue: 0,1:37:56.77,1:37:58.77,en,,0,0,0,,Leave us be\N你先下去吧
+Dialogue: 0,1:37:58.28,1:38:01.14,en,,0000,0000,0000,,Yes sir\N是
+Dialogue: 0,1:38:18.04,1:38:20.04,en,,0,0,0,,You double-crossing son of a bitch!\N我操你大爷的
+Dialogue: 0,1:38:20.92,1:38:22.92,en,,0,0,0,,You son of a bitch!\N我操你大爷的
+Dialogue: 0,1:38:23.46,1:38:24.50,en,,0,0,0,,Takeda!\N武田长
+Dialogue: 0,1:38:24.50,1:38:25.63,en,,0,0,0,,Colonel Takeda!\N我对你一直
+Dialogue: 0,1:38:26.52,1:38:28.59,en,,0000,0000,0000,,You know I've...\NI've always been loyal-\N你清楚的啊
+Dialogue: 0,1:38:27.84,1:38:30.59,en,,0000,0000,0000,,Back-stabbing bastards!\N你让他
+Dialogue: 0,1:38:53.91,1:38:56.83,en,,0,0,0,,At least the Phantom wasn't able to escape\N起码老鬼没有离开这儿
+Dialogue: 0,1:38:58.33,1:39:00.33,en,,0,0,0,,Stick with the original plan tonight\N今晚按原定计划
+Dialogue: 0,1:39:00.33,1:39:02.33,en,,0,0,0,,Set a trap at Bai Cao Hall\N在百草堂设伏
+Dialogue: 0,1:39:04.13,1:39:06.25,en,,0,0,0,,If we can catch Magnum...\N抓住老枪
+Dialogue: 0,1:39:06.38,1:39:08.84,en,,0,0,0,,...we might still have a chance\N是我们唯一的生路
+Dialogue: 0,1:40:16.11,1:40:18.78,en,,0,0,0,,THREE MONTHS LATER
+Dialogue: 0,1:41:37.07,1:41:39.20,en,,0,0,0,,Where did you last make port?\N你们从哪里来
+Dialogue: 0,1:41:39.86,1:41:41.41,en,,0,0,0,,Taiwan?\N台湾
+Dialogue: 0,1:41:40.56,1:41:43.24,en,,0000,0000,0000,,Saigon?\N西贡
+Dialogue: 0,1:41:43.24,1:41:45.24,en,,0,0,0,,No, not Saigon-\N不是西贡
+Dialogue: 0,1:41:46.91,1:41:50.71,en,,0,0,0,,This ship doesn't stop there\N“爱和丸号”不走那条航线
+Dialogue: 0,1:42:00.63,1:42:04.51,en,,0,0,0,,What's the point of sending more troops in?\N现在增兵有何意义
+Dialogue: 0,1:42:06.18,1:42:09.31,en,,0,0,0,,This war just might end earlier than we'd thought\N这场仗看来要提早结束了
+Dialogue: 0,1:42:12.06,1:42:14.06,en,,0,0,0,,I'm going home a criminal\N我是罪犯
+Dialogue: 0,1:42:14.69,1:42:18.82,en,,0,0,0,,But I've got it better than you- At least I'm going home\N可我有一点比你强，我要回家了
+Dialogue: 0,1:42:33.00,1:42:35.50,en,,0,0,0,,I'm here to shorten the trip\N我来送你上路
+Dialogue: 0,1:43:14.08,1:43:16.25,en,,0,0,0,,"Peace at Last"
+Dialogue: 0,1:43:40.44,1:43:45.95,en,,0,0,0,,Li Ningyu!\N李宁玉
+Dialogue: 0,1:43:45.08,1:43:58.63,en,,0000,0000,0000,,There's someone here for you\NAfter working for the puppet regime during the war\N有人找你\N像我这种战时在伪政府有工作经历的
+Dialogue: 0,1:44:01.08,1:44:02.14,en,,0000,0000,0000,,You know how it is-\N现在这下场
+Dialogue: 0,1:44:01.92,1:44:05.22,en,,0,0,0,,I'm really pretty lucky...\N已经算好的了
+Dialogue: 0,1:44:05.64,1:44:09.87,en,,0000,0000,0000,,...to have even this \NThe report you wrote helped a lot- I should thank you\N这还要多谢你当时帮我写的陈情
+Dialogue: 0,1:44:11.39,1:44:13.39,en,,0,0,0,,Poor Liu, though-\N我只是可怜林宗
+Dialogue: 0,1:44:16.77,1:44:19.36,en,,0,0,0,,The Japanese were going to put him in front of a firing squad\N日本人原本要枪毙他的
+Dialogue: 0,1:44:19.90,1:44:22.07,en,,0,0,0,,But three days before the execution\N差三天执行死刑的时候
+Dialogue: 0,1:44:22.23,1:44:23.82,en,,0,0,0,,The Japanese surrendered\N日本投降了
+Dialogue: 0,1:44:23.82,1:44:25.82,en,,0,0,0,,He kept his life alright\N捡回条命来
+Dialogue: 0,1:44:27.49,1:44:29.49,en,,0,0,0,,But he's never been the same\N可人也废了
+Dialogue: 0,1:44:31.16,1:44:33.87,en,,0,0,0,,Anyway, you're not here to hear me complain\N你来不是来听我诉苦的吧
+Dialogue: 0,1:44:38.33,1:44:42.25,en,,0,0,0,,Actually...\NI'm here about the dress\N我来\N是想跟你借那件旗袍看看
+Dialogue: 0,1:44:44.42,1:44:46.34,en,,0,0,0,,The dress?\N旗袍
+Dialogue: 0,1:44:46.34,1:44:49.72,en,,0,0,0,,The one Gu mended for you\N就是晓梦亲手给你缝补的那件
+Dialogue: 0,1:44:53.02,1:44:54.35,en,,0,0,0,,Gu and l...\N我和晓梦
+Dialogue: 0,1:44:54.35,1:44:56.35,en,,0,0,0,,We were both in the resistance\N都是共产党地下抗日组织的
+Dialogue: 0,1:44:56.39,1:44:58.69,en,,0,0,0,,Although we were both undercover in the Counterinsurgency Center\N但即使潜伏在同一个单位
+Dialogue: 0,1:44:58.85,1:45:00.69,en,,0,0,0,,She had no idea who I was\N她也不知道我的身份
+Dialogue: 0,1:45:00.69,1:45:02.69,en,,0,0,0,,It wasn't until that night on the balcony\N直到被关进裘庄的当晚
+Dialogue: 0,1:45:02.94,1:45:05.86,en,,0,0,0,,When I started singing "The Empty City"\N我在阳台上唱起那段空城计
+Dialogue: 0,1:45:06.20,1:45:08.53,en,,0,0,0,,That she learned I was one of her comrades\N她才知道我是自己人
+Dialogue: 0,1:45:16.54,1:45:19.96,en,,0,0,0,,We use the song like a secret password\N这段唱腔是抗日地下组织的秘密口令
+Dialogue: 0,1:45:20.46,1:45:25.05,en,,0,0,0,,To reach out to our comrades...\NWhenever we're in trouble.\N凡是能够听出其中蹊跷的，就是同志
+Dialogue: 0,1:45:42.65,1:45:44.65,en,,0,0,0,,Relax, now\N别老绷着脸
+Dialogue: 0,1:45:45.03,1:45:46.82,en,,0,0,0,,I lost my temper\N那天我态度不好
+Dialogue: 0,1:45:46.82,1:45:48.82,en,,0,0,0,,I'm here to apologize\N我来向你道歉
+Dialogue: 0,1:45:53.76,1:46:00.21,en,,0000,0000,0000,,I don't want your apology\NPlease just leave!\N请你出去，我不需要你道歉
+Dialogue: 0,1:46:01.88,1:46:03.38,en,,0,0,0,,-What are you doing? -Just relax\N-你要干什么        -坐下
+Dialogue: 0,1:46:03.38,1:46:05.17,en,,0,0,0,,I'll call the guards!\N我叫士兵啦
+Dialogue: 0,1:46:05.17,1:46:07.17,en,,0,0,0,,Stop! What are you doing?\N放手啊 你要干什么
+Dialogue: 0,1:46:09.59,1:46:11.05,en,,0,0,0,,Are you trying to threaten me?\N你这是人身威胁
+Dialogue: 0,1:46:11.05,1:46:14.39,en,,0,0,0,,I'm their commanding officer What are they going to do to me?\N我是他们的长官，他们怎么可能请得动我呢
+Dialogue: 0,1:46:14.93,1:46:16.72,en,,0,0,0,,Let go of me!\N你要干什么
+Dialogue: 0,1:46:16.72,1:46:18.93,en,,0,0,0,,-Relax now. Let's sit down and talk it out -Let go of me!\N你怕什么 我们坐下来谈一谈，-放手
+Dialogue: 0,1:46:19.06,1:46:21.27,en,,0,0,0,,Relax We're both from the same village...\N我们既是同事又是老乡
+Dialogue: 0,1:46:21.44,1:46:23.44,en,,0,0,0,,-l won't do anything to harm you. -Let go of me\N-我怎么可能伤害你呢        -放手啊
+Dialogue: 0,1:46:23.44,1:46:24.52,en,,0,0,0,,Let go! Back off!\NJust Calm down\N你坐下 坐下
+Dialogue: 0,1:46:29.03,1:46:30.95,en,,0,0,0,,I know you're the one\N我已清楚你的身份
+Dialogue: 0,1:46:30.95,1:46:31.99,en,,0,0,0,,But I beg you\NComrade to comrade. Hide yourself\N现在情况危急 作为同志我建议你
+Dialogue: 0,1:46:34.16,1:46:35.87,en,,0,0,0,,Let me take the heat\N这个情况由我来顶
+Dialogue: 0,1:46:35.87,1:46:37.87,en,,0,0,0,,Try to get the word out\N你设法传递信息
+Dialogue: 0,1:46:38.83,1:46:40.83,en,,0,0,0,,But it was me that sent out the false intelligence\N错误消息是我发出去的
+Dialogue: 0,1:46:40.83,1:46:42.83,en,,0,0,0,,I should take the consequences\N应该由我负责
+Dialogue: 0,1:46:43.75,1:46:45.75,en,,0,0,0,,You couldn't stand the torture\N你顶不住的
+Dialogue: 0,1:46:46.25,1:46:48.80,en,,0,0,0,,You're in no position to tell me what to do- I only take orders from Magnum\N我只受老枪指挥，无可奉命
+Dialogue: 0,1:47:12.15,1:47:16.16,en,,0,0,0,,Then why was Gu always clashing with you?\N那晓梦当时为什么先咬你啊
+Dialogue: 0,1:47:16.37,1:47:17.99,en,,0,0,0,,It's one of our tricks\N这是一种默契
+Dialogue: 0,1:47:17.99,1:47:19.99,en,,0,0,0,,If two comrades are taken in at the same time\N如果两个人同时被捕
+Dialogue: 0,1:47:20.20,1:47:22.37,en,,0,0,0,,We fight, accuse each other, do whatever it takes...\N为了确保不被一网打尽
+Dialogue: 0,1:47:22.71,1:47:24.71,en,,0,0,0,,To keep them from getting everyone\N就必须站在对立面
+Dialogue: 0,1:47:25.21,1:47:27.21,en,,0,0,0,,That way, at least one of us would get out alive\N起码保一个人出去
+Dialogue: 0,1:47:27.25,1:47:29.25,en,,0,0,0,,Let go of me!\N放开我
+Dialogue: 0,1:47:46.36,1:47:51.36,en,,0,0,0,,If word doesn't get out tonight the resistance will be crushed
+Dialogue: 0,1:48:03.25,1:48:06.62,en,,0,0,0,,You must survive. Find a way to get the message out
+Dialogue: 0,1:48:11.96,1:48:16.38,en,,0,0,0,,I am MAGNUM. I hereby order you to turn me in
+Dialogue: 0,1:48:34.90,1:48:38.66,en,,0,0,0,,You stay alive. I have a plan
+Dialogue: 0,1:48:43.41,1:48:45.46,en,,0,0,0,,You dropped a cigarette at lunch\N你中午掉了根烟
+Dialogue: 0,1:48:46.54,1:48:48.12,en,,0,0,0,,What are you talking about?\N你说什么呢
+Dialogue: 0,1:48:48.13,1:48:49.96,en,,0,0,0,,There was a message on the cigarette\N那根烟上有暗号
+Dialogue: 0,1:48:49.96,1:48:51.96,en,,0,0,0,,Are you out of your mind?\N疯了吧你
+Dialogue: 0,1:48:52.76,1:48:54.76,en,,0,0,0,,I didn't understand at the time what she was trying to do\N我当时并没有明白
+Dialogue: 0,1:48:54.88,1:48:57.84,en,,0,0,0,,She'd decided from the start that she'd sacrifice herself\N晓梦其实早就决定牺牲自己
+Dialogue: 0,1:48:58.97,1:49:01.60,en,,0,0,0,,To make sure I got the message out\N好让我把讯息传出去
+Dialogue: 0,1:49:06.44,1:49:08.27,en,,0,0,0,,That song, "The Empty City"\N我那首空城计
+Dialogue: 0,1:49:08.27,1:49:10.48,en,,0,0,0,,With a few changes in the tune and lyrics\N随着曲调唱词的变化
+Dialogue: 0,1:49:10.65,1:49:13.23,en,,0,0,0,,It becomes a tool for transmitting urgent messages\N它还可以传递情报
+Dialogue: 0,1:49:28.37,1:49:30.37,en,,0,0,0,,BAD INFORMATION
+Dialogue: 0,1:49:30.92,1:49:33.88,en,,0,0,0,,ABORT MISSION MAGNUM
+Dialogue: 0,1:49:40.68,1:49:42.55,en,,0,0,0,,When Gu made you turn her in\N晓梦让你举报她
+Dialogue: 0,1:49:42.55,1:49:44.64,en,,0,0,0,,It was to make sure that I got out\N就是要保我出去
+Dialogue: 0,1:49:47.48,1:49:49.98,en,,0,0,0,,What if you'd been unconscious when you got to the hospital?\N可要是你在医院昏迷不醒
+Dialogue: 0,1:49:51.15,1:49:53.15,en,,0,0,0,,Or nobody was there to hear your message?\N或者没有接应的人
+Dialogue: 0,1:49:53.27,1:49:55.53,en,,0,0,0,,Then it would all have been for nothing\N晓梦不是白白牺牲了吗
+Dialogue: 0,1:50:08.83,1:50:10.12,en,,0,0,0,,In fact...Gu had also sewn a mission abort message...\N晓梦实际上把取消行动的情报
+Dialogue: 0,1:50:12.88,1:50:15.29,en,,0,0,0,,...onto her undergarments-\N同时缝在了自己的内衣上
+Dialogue: 0,1:50:15.59,1:50:17.63,en,,0,0,0,,As another way to get the word out\N作为另一种途径
+Dialogue: 0,1:50:32.69,1:50:37.69,en,,0,0,0,,BAD INFORMATION ABORT MISSION PHANTOM
+Dialogue: 0,1:50:39.53,1:50:42.15,en,,0,0,0,,Nobody was going to get out of that mansion alive\N因为只有死人才能离开裘庄
+Dialogue: 0,1:50:42.53,1:50:44.53,en,,0,0,0,,So Gu...\N晓梦
+Dialogue: 0,1:50:45.66,1:50:48.87,en,,0,0,0,,Used her body to pass on the message in death\N也用自己的身体把情报传了出去
+Dialogue: 0,1:51:17.02,1:51:19.07,en,,0,0,0,,She also wanted me to pass on\N晓梦让我转告
+Dialogue: 0,1:51:19.57,1:51:21.40,en,,0,0,0,,The message she left for you\N她给你的话
+Dialogue: 0,1:51:21.40,1:51:23.78,en,,0,0,0,,It's in the lining of your dress\N都留在这旗袍里面了
+Dialogue: 0,1:51:48.76,1:51:50.76,en,,0,0,0,,You'd know this better than me-\N这个你比我懂
+Dialogue: 0,1:51:50.93,1:51:52.93,en,,0,0,0,,It's all Morse Code\N全是摩斯码
+Dialogue: 0,1:51:58.27,1:52:01.53,en,,0,0,0,,THIS IS MY LAST CHANCE TO GET THE MESSAGE OUT
+Dialogue: 0,1:52:01.86,1:52:05.78,en,,0,0,0,,IT ALL COMES DOWN TO TODAY
+Dialogue: 0,1:52:08.12,1:52:10.45,en,,0,0,0,,I'M NOT AFRAID OF DYING-
+Dialogue: 0,1:52:11.29,1:52:17.50,en,,0,0,0,,BUT ONLY FEAR MY LOVED ONES WON'T KNOW WHAT I'VE DIED FOR
+Dialogue: 0,1:52:18.63,1:52:21.92,en,,0,0,0,,I AM LEAVING THESE WORDS IN THE HOPE THAT
+Dialogue: 0,1:52:22.76,1:52:27.30,en,,0,0,0,,Ll AND MY FAMILY WILL FORGIVE MY DECISION
+Dialogue: 0,1:53:38.75,1:53:42.67,en,,0,0,0,,I am leaving these words in the hope that...\N我身在炼狱留下这份记录
+Dialogue: 0,1:53:43.59,1:53:49.01,en,,0,0,0,,Li and my family will forgive my decision\N是希望家人和玉姐原谅我此刻的决定
+Dialogue: 0,1:53:50.39,1:53:52.05,en,,0,0,0,,But I have faith...\N但我坚信
+Dialogue: 0,1:53:52.05,1:53:54.97,en,,0,0,0,,That you will come to understand my intentions\N你们终会明白我的心情
+Dialogue: 0,1:53:56.18,1:53:58.18,en,,0,0,0,,My dearest loved ones...\N我亲爱的人
+Dialogue: 0,1:53:58.31,1:54:00.73,en,,0,0,0,,Though my death brings you great pain\N我对你们如此无情
+Dialogue: 0,1:54:01.44,1:54:03.90,en,,0,0,0,,But our people face mortal peril\N只因为民族已到存亡之际
+Dialogue: 0,1:54:04.11,1:54:06.11,en,,0,0,0,,I would do anything to stop it\N我辈只能奋不顾身
+Dialogue: 0,1:54:06.23,1:54:08.23,en,,0,0,0,,Even if it's giving up my little life\N挽救于万一
+Dialogue: 0,1:54:10.07,1:54:12.62,en,,0,0,0,,Whatever they may do to my body\N我的肉体即将陨灭
+Dialogue: 0,1:54:12.74,1:54:16.49,en,,0,0,0,,My soul will always live on with you\N灵魂却将与你们同在
+Dialogue: 0,1:54:19.79,1:54:21.75,en,,0,0,0,,What the enemy can never understand is...\N敌人不会了解
+Dialogue: 0,1:54:21.75,1:54:25.42,en,,0,0,0,,That Phantom and Magnum represent not individuals...\N老鬼 老枪 不是个人
+Dialogue: 0,1:54:25.84,1:54:27.88,en,,0,0,0,,They represent a brotherhood\N而是一种精神
+Dialogue: 0,1:54:28.51,1:54:30.51,en,,0,0,0,,And a faith in justice\N一种信仰
+Dialogue: 0,1:55:00.12,1:55:04.25,en,,0,0,0,,Honorary presented by Hualu Cultural Enterprises Co., ltd.\NIssued by Hualu Electronic Audio & Video Publish Co., ltd.\Ncym合并中英字
+

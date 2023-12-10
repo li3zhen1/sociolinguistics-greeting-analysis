@@ -1,0 +1,1452 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00ffffff,&H00ffd000,&H8000000,&H80000000,0,0,0,0,100.00,100.00,0.00,0.00,1,1.00,2.00,2,10,10,8,134
+Style: English,Tahoma,10,&H00009fff,&H00ffd000,&H80000000,&H80000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,1.00,2.00,2,10,10,8,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.96,0:00:34.72,Default,NTP,0000,0000,0000,,你觉得它很可爱  对不对\N{\rEnglish}You think this is cute, don't you?
+Dialogue: 0,0:00:34.80,0:00:38.00,Default,NTP,0000,0000,0000,,你觉得你们有真正的情感共鸣\N{\rEnglish}You think there's a real connection there.
+Dialogue: 0,0:00:38.12,0:00:40.72,Default,NTP,0000,0000,0000,,你喂它吃东西\N{\rEnglish}So you feed it,
+Dialogue: 0,0:00:40.80,0:00:42.84,Default,NTP,0000,0000,0000,,给它穿衣服\N{\rEnglish}you dress it up.
+Dialogue: 0,0:00:43.05,0:00:46.84,Default,NTP,0000,0000,0000,,{\fs24}九 条 命
+Dialogue: 0,0:00:46.92,0:00:48.57,Default,NTP,0000,0000,0000,,但是猫并不在乎你的死活\N{\rEnglish}But a cat doesn't care if you live or die
+Dialogue: 0,0:00:48.64,0:00:51.45,Default,NTP,0000,0000,0000,,只要有人每天给它吃两顿饭就行\N{\rEnglish}as long as someone gives it Friskies twice a day.
+Dialogue: 0,0:01:00.76,0:01:04.97,Default,NTP,0000,0000,0000,,可是人们极度渴求陪伴\N{\rEnglish}But people are so desperate for someone to hold onto
+Dialogue: 0,0:01:05.04,0:01:06.92,Default,NTP,0000,0000,0000,,已经饥不择食\N{\rEnglish}they'll take whatever they can get.
+Dialogue: 0,0:01:07.64,0:01:10.40,Default,NTP,0000,0000,0000,,我是在出事后几个月  在街头捡到他的\N{\rEnglish}I found him on the street, months after the accident
+Dialogue: 0,0:01:10.48,0:01:12.52,Default,NTP,0000,0000,0000,,我总把他打扮成正雄的样子\N{\rEnglish}and I dress him like Masao.
+Dialogue: 0,0:01:12.60,0:01:16.16,Default,NTP,0000,0000,0000,,我知道是我儿子附身在猫上回来找我了\N{\rEnglish}I know my son has come back to me in this cat.
+Dialogue: 0,0:01:16.32,0:01:19.80,Default,NTP,0000,0000,0000,,但是不管你有多孤单\N{\rEnglish}But no matter how lonely you are,
+Dialogue: 0,0:01:19.88,0:01:23.16,Default,NTP,0000,0000,0000,,猫总归不是人\N{\rEnglish}a cat is not a person.
+Dialogue: 0,0:01:45.40,0:01:47.84,Default,NTP,0000,0000,0000,,谢谢  你真会安慰人\N{\rEnglish}Okay. Super helpful, uh...
+Dialogue: 0,0:01:46.63,0:01:49.77,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}布兰德航空
+Dialogue: 0,0:01:47.96,0:01:51.04,Default,NTP,0000,0000,0000,,市场部希望能把新广告牌投入使用\N{\rEnglish}Oh, so marketing wants sign-off on the new billboard.
+Dialogue: 0,0:01:51.05,0:01:53.12,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}梦想成真
+Dialogue: 0,0:01:51.88,0:01:53.40,Default,NTP,0000,0000,0000,,你觉得如何\N{\rEnglish}What do you think?
+Dialogue: 0,0:01:53.48,0:01:55.36,Default,NTP,0000,0000,0000,,可能修图修得有点狠了\N{\rEnglish}It might be a little heavy on the Photoshop.
+Dialogue: 0,0:01:55.44,0:01:56.48,Default,NTP,0000,0000,0000,,来架真正的F16\N{\rEnglish}Get me a real F-16.
+Dialogue: 0,0:01:56.56,0:01:57.60,Default,NTP,0000,0000,0000,,拍点真实的照片\N{\rEnglish}We'll take some real pictures.
+Dialogue: 0,0:01:57.72,0:01:59.44,Default,NTP,0000,0000,0000,,不  他们说没有这个预算\N{\rEnglish}No, they said they don't have the budget for it.
+Dialogue: 0,0:01:59.52,0:02:00.88,Default,NTP,0000,0000,0000,,那就把市场部开了\N{\rEnglish}Fire the marketing department!
+Dialogue: 0,0:02:00.96,0:02:03.24,Default,NTP,0000,0000,0000,,你要把整个市场部都开掉吗\N{\rEnglish}You wanna fire the entire marketing department?
+Dialogue: 0,0:02:03.32,0:02:06.29,Default,NTP,0000,0000,0000,,不是  我要真正的F16战隼战斗机  下一件事\N{\rEnglish}No. I wanna fly a real F-16. What's next?
+Dialogue: 0,0:02:06.36,0:02:08.01,Default,NTP,0000,0000,0000,,你让我提醒你\N{\rEnglish}I'm supposed to remind you,
+Dialogue: 0,0:02:08.08,0:02:09.32,Default,NTP,0000,0000,0000,,劳拉留了两条留言\N{\rEnglish}Lara's left two messages.
+Dialogue: 0,0:02:09.44,0:02:10.88,Default,NTP,0000,0000,0000,,她为什么打电话\N{\rEnglish}Why is she calling?
+Dialogue: 0,0:02:10.96,0:02:12.48,Default,NTP,0000,0000,0000,,因为她是你妻子\N{\rEnglish}Because she's your wife.
+Dialogue: 0,0:02:12.56,0:02:14.92,Default,NTP,0000,0000,0000,,之后的媒体见面会\N{\rEnglish}I put together some talking points
+Dialogue: 0,0:02:15.00,0:02:16.33,Default,NTP,0000,0000,0000,,我帮你整理了要点\N{\rEnglish}for your press conference.
+Dialogue: 0,0:02:16.40,0:02:17.68,Default,NTP,0000,0000,0000,,你多大来着\N{\rEnglish}How old are you again?
+Dialogue: 0,0:02:17.76,0:02:18.80,Default,NTP,0000,0000,0000,,28岁\N{\rEnglish}Twenty-eight.
+Dialogue: 0,0:02:18.88,0:02:19.92,Default,NTP,0000,0000,0000,,我已经跟媒体打交道28年了\N{\rEnglish}That's how long I've been talking to the press.
+Dialogue: 0,0:02:20.00,0:02:21.00,Default,NTP,0000,0000,0000,,放心吧\N{\rEnglish}I'll be fine.
+Dialogue: 0,0:02:21.08,0:02:22.12,Default,NTP,0000,0000,0000,,先生  我们准备好了\N{\rEnglish}Sir, we're ready.
+Dialogue: 0,0:02:24.08,0:02:25.68,Default,NTP,0000,0000,0000,,不如你今天跟我一起跳吧\N{\rEnglish}Why don't you jump with me today?
+Dialogue: 0,0:02:25.76,0:02:28.20,Default,NTP,0000,0000,0000,,算了吧  我刚吃完早餐\N{\rEnglish}Oh, yeah, no. I just had breakfast, so...
+Dialogue: 0,0:02:28.32,0:02:29.40,Default,NTP,0000,0000,0000,,来吧\N{\rEnglish}Come on!
+Dialogue: 0,0:02:29.84,0:02:31.68,Default,NTP,0000,0000,0000,,爸  不行\N{\rEnglish}Dad, I can't. I can't.
+Dialogue: 0,0:02:32.36,0:02:33.69,Default,NTP,0000,0000,0000,,好吧\N{\rEnglish}All right.
+Dialogue: 0,0:02:34.32,0:02:37.56,Default,NTP,0000,0000,0000,,胆小鬼\N{\rEnglish}Chicken!
+Dialogue: 0,0:02:41.64,0:02:43.16,Default,NTP,0000,0000,0000,,说得真狠  爸\N{\rEnglish}Good one, Dad.
+Dialogue: 0,0:03:01.28,0:03:02.28,Default,NTP,0000,0000,0000,,漂亮\N{\rEnglish}Yeah!
+Dialogue: 0,0:03:02.36,0:03:03.77,Default,NTP,0000,0000,0000,,非常厉害\N{\rEnglish}Very nice, very nice!
+Dialogue: 0,0:03:05.12,0:03:06.45,Default,NTP,0000,0000,0000,,着陆很完美\N{\rEnglish}Perfect landing.
+Dialogue: 0,0:03:06.52,0:03:07.85,Default,NTP,0000,0000,0000,,谢谢\N{\rEnglish}Thank you.
+Dialogue: 0,0:03:07.92,0:03:10.60,Default,NTP,0000,0000,0000,,谢谢大家  谢谢\N{\rEnglish}Thank you very much. Thank you.
+Dialogue: 0,0:03:10.88,0:03:12.12,Default,NTP,0000,0000,0000,,大家上午好\N{\rEnglish}Good morning, everyone.
+Dialogue: 0,0:03:12.20,0:03:13.36,Default,NTP,0000,0000,0000,,这里景色太好了\N{\rEnglish}What an incredible view.
+Dialogue: 0,0:03:13.44,0:03:16.33,Default,NTP,0000,0000,0000,,我是说一大早见到各位真是赏心悦目\N{\rEnglish}And I mean all of you that I get to look at this fine morning.
+Dialogue: 0,0:03:16.40,0:03:17.68,Default,NTP,0000,0000,0000,,谢谢各位抽空前来\N{\rEnglish}Thank you for coming.
+Dialogue: 0,0:03:17.80,0:03:19.40,Default,NTP,0000,0000,0000,,等一个月后\N{\rEnglish}Now, when we open this building
+Dialogue: 0,0:03:19.48,0:03:20.89,Default,NTP,0000,0000,0000,,这座大楼竣工\N{\rEnglish}one month from today.
+Dialogue: 0,0:03:21.08,0:03:23.92,Default,NTP,0000,0000,0000,,布兰德大楼会是北美最高的建筑\N{\rEnglish}The FireBrand Tower will be the tallest building in North America.
+Dialogue: 0,0:03:24.12,0:03:26.36,Default,NTP,0000,0000,0000,,也就是说这么多年来被迫在那破地方工作\N{\rEnglish}And that means that we can finally move out of that dump
+Dialogue: 0,0:03:26.44,0:03:28.60,Default,NTP,0000,0000,0000,,我们终于可以搬出去了\N{\rEnglish}we've all been forced to work in all these years down the block.
+Dialogue: 0,0:03:28.68,0:03:29.84,Default,NTP,0000,0000,0000,,跟我们讲讲芝加哥吧\N{\rEnglish}Tell us about Chicago.
+Dialogue: 0,0:03:29.92,0:03:32.36,Default,NTP,0000,0000,0000,,布兰德先生  您对百丽宫大厦有什么看法\N{\rEnglish}Mr. Brand, any comment on the Paragon Tower?
+Dialogue: 0,0:03:32.52,0:03:35.76,Default,NTP,0000,0000,0000,,你是说他们在芝加哥堆砌起来的简易房吗\N{\rEnglish}Oh, you mean that tin shack they're gluing together over there in Chicago?
+Dialogue: 0,0:03:35.84,0:03:36.88,Default,NTP,0000,0000,0000,,我就不说什么了\N{\rEnglish}No. No comment on that.
+Dialogue: 0,0:03:36.96,0:03:39.00,Default,NTP,0000,0000,0000,,据说会比您的大楼高18米左右\N{\rEnglish}Rumor is they're beating you by 60 feet.
+Dialogue: 0,0:03:39.40,0:03:41.16,Default,NTP,0000,0000,0000,,不会的  不可能\N{\rEnglish}Well, no. There's not a chance of that.
+Dialogue: 0,0:03:41.28,0:03:43.08,Default,NTP,0000,0000,0000,,不会  我非常愿意继续回答问题\N{\rEnglish}No, no. Look, I'd love to answer more questions,
+Dialogue: 0,0:03:43.20,0:03:44.64,Default,NTP,0000,0000,0000,,但我得回办公室去了\N{\rEnglish}but I gotta get back to the office.
+Dialogue: 0,0:03:47.60,0:03:49.28,Default,NTP,0000,0000,0000,,好的  我希望这个项目做快点\N{\rEnglish}All right. I wanna move fast here.
+Dialogue: 0,0:03:49.36,0:03:51.04,Default,NTP,0000,0000,0000,,让法务部连夜把这个看一遍\N{\rEnglish}Have legal review this overnight.
+Dialogue: 0,0:03:51.16,0:03:52.84,Default,NTP,0000,0000,0000,,他们一直在忙大楼的事\N{\rEnglish}They're all tied up with the tower.
+Dialogue: 0,0:03:53.00,0:03:54.57,Default,NTP,0000,0000,0000,,我知道我们得让他开心\N{\rEnglish}Listen, I know we got to keep him happy,
+Dialogue: 0,0:03:54.64,0:03:56.56,Default,NTP,0000,0000,0000,,但是不能让这座大楼耽误我们...\N{\rEnglish}but we can't let this building distract us from...
+Dialogue: 0,0:03:56.64,0:03:58.24,Default,NTP,0000,0000,0000,,怎么  你有别的安排吗\N{\rEnglish}Why? You've got something better to do?
+Dialogue: 0,0:03:59.68,0:04:00.92,Default,NTP,0000,0000,0000,,媒体见面会顺利吗\N{\rEnglish}How was the press conference?
+Dialogue: 0,0:04:01.00,0:04:02.88,Default,NTP,0000,0000,0000,,很显然浪费了我的时间\N{\rEnglish}Well, apparently it was a distraction.
+Dialogue: 0,0:04:02.96,0:04:05.53,Default,NTP,0000,0000,0000,,我安排了一些人去考察公开募股的事了\N{\rEnglish}I pulled some staff to explore a public offering.
+Dialogue: 0,0:04:05.64,0:04:08.04,Default,NTP,0000,0000,0000,,等等  我让你把我的公司卖掉了吗\N{\rEnglish}I'm sorry. Did I ask you to sell my company?
+Dialogue: 0,0:04:08.16,0:04:09.24,Default,NTP,0000,0000,0000,,请问是要投标吗\N{\rEnglish}Are we taking bids?
+Dialogue: 0,0:04:09.32,0:04:10.40,Default,NTP,0000,0000,0000,,加利能卖多少钱\N{\rEnglish}How much can we get for Gary?
+Dialogue: 0,0:04:11.84,0:04:12.84,Default,NTP,0000,0000,0000,,我们粗略估计了一下...\N{\rEnglish}We ran some rough numbers...
+Dialogue: 0,0:04:12.96,0:04:15.12,Default,NTP,0000,0000,0000,,好  首先  为什么媒体在问我芝加哥的事\N{\rEnglish}Yeah. Well, first, why is the press asking me about Chicago?
+Dialogue: 0,0:04:15.20,0:04:16.92,Default,NTP,0000,0000,0000,,你占了上风  你的更大\N{\rEnglish}You're winning. Yours is bigger.
+Dialogue: 0,0:04:17.04,0:04:19.52,Default,NTP,0000,0000,0000,,新宣传标语终于出来了\N{\rEnglish}Well, finally there's our new slogan.
+Dialogue: 0,0:04:19.60,0:04:21.12,Default,NTP,0000,0000,0000,,竣工典礼准备得如何了\N{\rEnglish}Where are we with the opening ceremony?
+Dialogue: 0,0:04:21.20,0:04:23.12,Default,NTP,0000,0000,0000,,我们会在整座大楼上装满烟花\N{\rEnglish}We're gonna rig the entire building with fireworks.
+Dialogue: 0,0:04:23.32,0:04:25.20,Default,NTP,0000,0000,0000,,所以  我一剪彩\N{\rEnglish}Oh, so, wait. When I cut the ribbon...
+Dialogue: 0,0:04:25.28,0:04:26.28,Default,NTP,0000,0000,0000,,烟花就会绽放\N{\rEnglish}Fireworks go off.
+Dialogue: 0,0:04:26.36,0:04:28.48,Default,NTP,0000,0000,0000,,天哪  伊恩  这主意太棒了\N{\rEnglish}Oh, my God. Ian, that is just spectacular,
+Dialogue: 0,0:04:28.56,0:04:31.04,Default,NTP,0000,0000,0000,,我们又不是在庆祝国庆\N{\rEnglish}you know, if we were doing a Fourth of July celebration
+Dialogue: 0,0:04:31.12,0:04:32.56,Default,NTP,0000,0000,0000,,也不是在庆祝啤酒节\N{\rEnglish}or a really rousing Oktoberfest.
+Dialogue: 0,0:04:32.64,0:04:33.72,Default,NTP,0000,0000,0000,,汤姆  不能...\N{\rEnglish}Tom, we can't keep...
+Dialogue: 0,0:04:33.80,0:04:37.28,Default,NTP,0000,0000,0000,,我们马上就要建成北半球最高的建筑物了\N{\rEnglish}Look, we are just about to cap off the tallest building in the Northern Hemisphere
+Dialogue: 0,0:04:37.36,0:04:39.68,Default,NTP,0000,0000,0000,,要是竣工典礼不够宏大我还怎么吹牛逼\N{\rEnglish}and I can't brag about it if I don't own it.
+Dialogue: 0,0:04:39.84,0:04:40.84,Default,NTP,0000,0000,0000,,是\N{\rEnglish}Yeah.
+Dialogue: 0,0:04:40.92,0:04:43.20,Default,NTP,0000,0000,0000,,真是浪费时间\N{\rEnglish}This is the distraction.
+Dialogue: 0,0:04:44.56,0:04:48.32,Default,NTP,0000,0000,0000,,好了  假装刚才什么都没发生\N{\rEnglish}Okay, everybody, let's pretend that that didn't just happen.
+Dialogue: 0,0:05:03.96,0:05:05.20,Default,NTP,0000,0000,0000,,-这是什么  -是惊喜\N{\rEnglish}- What's that? - It's a surprise.
+Dialogue: 0,0:05:05.28,0:05:06.28,Default,NTP,0000,0000,0000,,我的生日礼物吗\N{\rEnglish}For my birthday?
+Dialogue: 0,0:05:07.56,0:05:09.28,Default,NTP,0000,0000,0000,,-你在看什么  -在看爸爸\N{\rEnglish}- What are you watching? - Dad.
+Dialogue: 0,0:05:09.96,0:05:11.64,Default,NTP,0000,0000,0000,,他让你录的吗\N{\rEnglish}Did he tell you to record this?
+Dialogue: 0,0:05:11.80,0:05:13.32,Default,NTP,0000,0000,0000,,没有  我只是想看他\N{\rEnglish}No, but I just wanted to see him.
+Dialogue: 0,0:05:13.40,0:05:14.52,Default,NTP,0000,0000,0000,,你看\N{\rEnglish}Look. Watch.
+Dialogue: 0,0:05:14.72,0:05:16.92,Default,NTP,0000,0000,0000,,这么多年来被迫在这破地方工作\N{\rEnglish}And that means that we can finally move out of that dump
+Dialogue: 0,0:05:17.00,0:05:19.92,Default,NTP,0000,0000,0000,,终于可以搬出去了\N{\rEnglish}we've all been forced to work in all these years down the block.
+Dialogue: 0,0:05:20.60,0:05:22.09,Default,NTP,0000,0000,0000,,你看了多少遍了\N{\rEnglish}How many times have you watched this?
+Dialogue: 0,0:05:23.44,0:05:24.44,Default,NTP,0000,0000,0000,,83遍\N{\rEnglish}Eighty-three.
+Dialogue: 0,0:05:24.88,0:05:26.29,Default,NTP,0000,0000,0000,,现在84遍了\N{\rEnglish}And now it's 84.
+Dialogue: 0,0:05:26.52,0:05:27.96,Default,NTP,0000,0000,0000,,我们很担心成本\N{\rEnglish}We're worried about costs.
+Dialogue: 0,0:05:28.04,0:05:30.36,Default,NTP,0000,0000,0000,,所以才来开董事会啊\N{\rEnglish}Well, that's why we call this a "Board meeting."
+Dialogue: 0,0:05:31.54,0:05:33.34,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}您妻子来电
+Dialogue: 0,0:05:32.36,0:05:33.64,Default,NTP,0000,0000,0000,,让她留言吧\N{\rEnglish}Please take a message.
+Dialogue: 0,0:05:33.72,0:05:35.72,Default,NTP,0000,0000,0000,,-汤姆  有很多问题需要考虑  -我知道\N{\rEnglish}- Tom, these are serious concerns. - I know.
+Dialogue: 0,0:05:35.80,0:05:37.32,Default,NTP,0000,0000,0000,,-我明白...  -劳拉·布兰德\N{\rEnglish}- Look, I understand... - Lara Brand.
+Dialogue: 0,0:05:37.80,0:05:39.14,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}劳拉·布兰德来电
+Dialogue: 0,0:05:39.28,0:05:41.85,Default,NTP,0000,0000,0000,,-劳拉·布兰德  -没事  出去接\N{\rEnglish}- Lara Brand. - Oh, no, go ahead. Just take it outside.
+Dialogue: 0,0:05:45.12,0:05:47.24,Default,NTP,0000,0000,0000,,伊恩  汤姆在哪里  我联系不上他\N{\rEnglish}Ian, where's Tom? I can't get ahold of him.
+Dialogue: 0,0:05:47.32,0:05:48.97,Default,NTP,0000,0000,0000,,他在开董事会  走不开\N{\rEnglish}I can't pry him away from the Board.
+Dialogue: 0,0:05:49.04,0:05:52.93,Default,NTP,0000,0000,0000,,各位听我说  我考虑过你们担心的问题\N{\rEnglish}I wanna show you all that I take your concerns very seriously.
+Dialogue: 0,0:05:53.04,0:05:55.69,Default,NTP,0000,0000,0000,,我们的运营成本比上个季度高了30%\N{\rEnglish}Our operating costs are up 30% from last quarter.
+Dialogue: 0,0:05:55.76,0:05:57.22,Default,NTP,0000,0000,0000,,我最大的担心是\N{\rEnglish}And my first concern is
+Dialogue: 0,0:05:57.22,0:05:59.97,Default,NTP,0000,0000,0000,,伊恩为什么开始搞公开募股的事了\N{\rEnglish}why is Ian coming at us with this IPO crap?
+Dialogue: 0,0:06:00.08,0:06:01.32,Default,NTP,0000,0000,0000,,他一整天都在开会吗\N{\rEnglish}He's been with the Board all day?
+Dialogue: 0,0:06:01.40,0:06:02.60,Default,NTP,0000,0000,0000,,他很难挤出时间\N{\rEnglish}It's hard to get Tom's attention.
+Dialogue: 0,0:06:02.68,0:06:03.88,Default,NTP,0000,0000,0000,,也许我应该加入董事会\N{\rEnglish}Maybe I should join the Board.
+Dialogue: 0,0:06:03.96,0:06:06.36,Default,NTP,0000,0000,0000,,或者你可以来坐我的位子  真的\N{\rEnglish}Or you can take my job. Please.
+Dialogue: 0,0:06:06.44,0:06:08.20,Default,NTP,0000,0000,0000,,伊恩跟我们提过想法\N{\rEnglish}Ian approached us with the idea.
+Dialogue: 0,0:06:08.28,0:06:10.48,Default,NTP,0000,0000,0000,,他准备了一份非常诱人的方案\N{\rEnglish}He's put together a very attractive proposal.
+Dialogue: 0,0:06:10.64,0:06:13.12,Default,NTP,0000,0000,0000,,公开募股就意味着我们会有一笔大收入\N{\rEnglish}A public offering means a big payday for all of us.
+Dialogue: 0,0:06:13.28,0:06:16.12,Default,NTP,0000,0000,0000,,我们已经把好几年的利润投进了那座楼  汤姆\N{\rEnglish}Now, we've sunk years of revenue into that building, Tom.
+Dialogue: 0,0:06:16.20,0:06:17.48,Default,NTP,0000,0000,0000,,差不多该回本了\N{\rEnglish}It's time to cash out.
+Dialogue: 0,0:06:17.64,0:06:19.92,Default,NTP,0000,0000,0000,,我们有很多现金  不是吗\N{\rEnglish}Come on, we got plenty of cash, don't we?
+Dialogue: 0,0:06:20.00,0:06:21.00,Default,NTP,0000,0000,0000,,那是为什么\N{\rEnglish}And why?
+Dialogue: 0,0:06:21.08,0:06:23.97,Default,NTP,0000,0000,0000,,因为我们做航空  做连锁超市  做手机\N{\rEnglish}Because we built airlines and retail chains and phone companies,
+Dialogue: 0,0:06:24.04,0:06:26.16,Default,NTP,0000,0000,0000,,但是没人会记得\N{\rEnglish}but no one is gonna remember any of those
+Dialogue: 0,0:06:26.32,0:06:27.65,Default,NTP,0000,0000,0000,,因为转手太多次\N{\rEnglish}because they keep changing hands.
+Dialogue: 0,0:06:27.72,0:06:29.40,Default,NTP,0000,0000,0000,,但是一百年后\N{\rEnglish}But 100 years from now,
+Dialogue: 0,0:06:29.48,0:06:31.96,Default,NTP,0000,0000,0000,,大家透过窗子看到那座大楼\N{\rEnglish}when people look out their windows and they see that tower,
+Dialogue: 0,0:06:32.04,0:06:33.88,Default,NTP,0000,0000,0000,,能够看到"布兰德"这个名字\N{\rEnglish}they're gonna see the name "Brand"
+Dialogue: 0,0:06:33.96,0:06:35.76,Default,NTP,0000,0000,0000,,这将是他们永远不会忘记的名字\N{\rEnglish}and that's a name they will never forget.
+Dialogue: 0,0:06:35.84,0:06:39.12,Default,NTP,0000,0000,0000,,而我绝对不愿意卖掉这份财富\N{\rEnglish}And that is not something that I am willing to sell.
+Dialogue: 0,0:06:39.20,0:06:41.32,Default,NTP,0000,0000,0000,,企业不是用来帮你作秀的  汤姆\N{\rEnglish}We're not running a charity for your ego, Tom.
+Dialogue: 0,0:06:41.48,0:06:43.64,Default,NTP,0000,0000,0000,,好吧  那就来玩个游戏\N{\rEnglish}Okay. Well, then instead, let's play a little game.
+Dialogue: 0,0:06:43.72,0:06:45.32,Default,NTP,0000,0000,0000,,就当好玩了\N{\rEnglish}You know, just for the fun of it.
+Dialogue: 0,0:06:45.52,0:06:49.16,Default,NTP,0000,0000,0000,,如果公司抬头里有你的名字请举手\N{\rEnglish}Raise your hand if your name is on the company letterhead.
+Dialogue: 0,0:06:49.36,0:06:51.16,Default,NTP,0000,0000,0000,,-汤姆  -不  来吧  我们只是投个票\N{\rEnglish}- Tom... - No, no. Come on, we'll just call it a vote.
+Dialogue: 0,0:06:51.32,0:06:54.16,Default,NTP,0000,0000,0000,,-汤姆  -51%\N{\rEnglish}- Tom... - Fifty-one percent!
+Dialogue: 0,0:06:54.24,0:06:55.92,Default,NTP,0000,0000,0000,,赢了的感觉真好\N{\rEnglish}Feels good to win.
+Dialogue: 0,0:06:56.00,0:06:57.68,Default,NTP,0000,0000,0000,,你们可以在我葬礼上卖了我的股份\N{\rEnglish}You can sell shares at my funeral.
+Dialogue: 0,0:06:57.76,0:07:00.04,Default,NTP,0000,0000,0000,,下次伊恩想当执行总裁的时候\N{\rEnglish}And the next time Ian wants to play CEO,
+Dialogue: 0,0:07:01.16,0:07:03.40,Default,NTP,0000,0000,0000,,我们可以一起炒了他\N{\rEnglish}we can fire him together.
+Dialogue: 0,0:07:03.88,0:07:05.80,Default,NTP,0000,0000,0000,,-能借一步说话吗  -现在不行\N{\rEnglish}- Hey, can I borrow you for a minute? - Not now.
+Dialogue: 0,0:07:05.92,0:07:07.57,Default,NTP,0000,0000,0000,,关于那座塔\N{\rEnglish}It's about the tower.
+Dialogue: 0,0:07:11.76,0:07:13.96,Default,NTP,0000,0000,0000,,我已经跟你爸说了我们的塔高出100英尺\N{\rEnglish}I already talked to your dad about this. We're 100 feet taller.
+Dialogue: 0,0:07:14.16,0:07:15.12,Default,NTP,0000,0000,0000,,我知道那是项目规划\N{\rEnglish}I know that's the projection.
+Dialogue: 0,0:07:15.20,0:07:16.24,Default,NTP,0000,0000,0000,,但那只是参考\N{\rEnglish}But that's printed to scale.
+Dialogue: 0,0:07:16.36,0:07:17.69,Default,NTP,0000,0000,0000,,芝加哥的比我们的高了60英尺\N{\rEnglish}Chicago's beating us by 60.
+Dialogue: 0,0:07:17.76,0:07:19.82,Default,NTP,0000,0000,0000,,我漏了什么东西吗  我们的更高才对\N{\rEnglish}Am I missing something here? We're taller.
+Dialogue: 0,0:07:19.82,0:07:20.69,Default,NTP,0000,0000,0000,,他们天花板里有很多钢筋\N{\rEnglish}There's too much steel in their roof.
+Dialogue: 0,0:07:20.84,0:07:21.84,Default,NTP,0000,0000,0000,,所以呢\N{\rEnglish}So?
+Dialogue: 0,0:07:22.00,0:07:24.07,Default,NTP,0000,0000,0000,,所以额定承重760吨\N{\rEnglish}So that's rated for 760 tons,
+Dialogue: 0,0:07:24.07,0:07:24.88,Default,NTP,0000,0000,0000,,现在上面什么都没有\N{\rEnglish}and there's nothing on it.
+Dialogue: 0,0:07:24.88,0:07:26.04,Default,NTP,0000,0000,0000,,但如果他们这样放钢材\N{\rEnglish}But if they laid that much steel...
+Dialogue: 0,0:07:27.68,0:07:28.76,Default,NTP,0000,0000,0000,,他们还没有完成\N{\rEnglish}They're not done.
+Dialogue: 0,0:07:28.84,0:07:29.84,Default,NTP,0000,0000,0000,,不  这不在他们的计划内\N{\rEnglish}No, that's not in their plans.
+Dialogue: 0,0:07:29.96,0:07:30.96,Default,NTP,0000,0000,0000,,他们知道我们有他们的计划\N{\rEnglish}They know we have their plans.
+Dialogue: 0,0:07:31.04,0:07:32.38,Default,NTP,0000,0000,0000,,他们想让我们觉得我们赢了\N{\rEnglish}They want us to think we're winning
+Dialogue: 0,0:07:32.38,0:07:33.40,Default,NTP,0000,0000,0000,,但他们已经批准了那个计划\N{\rEnglish}but they got a permit for that
+Dialogue: 0,0:07:33.48,0:07:34.92,Default,NTP,0000,0000,0000,,现在他们要比我们高60英尺了\N{\rEnglish}and they are beating us by 60 feet.
+Dialogue: 0,0:07:35.00,0:07:36.36,Default,NTP,0000,0000,0000,,大卫\N{\rEnglish}David!
+Dialogue: 0,0:07:36.48,0:07:38.20,Default,NTP,0000,0000,0000,,好吧  先保密\N{\rEnglish}Right. Keep this quiet.
+Dialogue: 0,0:07:40.96,0:07:42.65,Default,NTP,0000,0000,0000,,伊恩  在马德里那午睡时间之前\N{\rEnglish}Oh, Ian, let's make that call to Madrid
+Dialogue: 0,0:07:42.65,0:07:43.69,Default,NTP,0000,0000,0000,,给那边的人打个电话\N{\rEnglish}before they take their siesta.
+Dialogue: 0,0:07:43.76,0:07:44.92,Default,NTP,0000,0000,0000,,当然\N{\rEnglish}Absolutely.
+Dialogue: 0,0:07:45.64,0:07:47.52,Default,NTP,0000,0000,0000,,你知道  我们是有清洁工的\N{\rEnglish}You know, we do have janitors.
+Dialogue: 0,0:07:47.64,0:07:49.40,Default,NTP,0000,0000,0000,,-我一直在忙  -我有东西要给你\N{\rEnglish}- Yeah. I've been busy. - I got you something.
+Dialogue: 0,0:07:53.35,0:07:57.56,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}为你成为男子汉而准备的
+Dialogue: 0,0:07:58.64,0:07:59.92,Default,NTP,0000,0000,0000,,谢了  爸\N{\rEnglish}Thanks, Dad.
+Dialogue: 0,0:07:59.94,0:08:01.53,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}火兰德公司
+Dialogue: 0,0:08:01.53,0:08:03.03,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}为你成为男子汉而准备的
+Dialogue: 0,0:08:06.32,0:08:08.92,Default,NTP,0000,0000,0000,,很抱歉打扰你吃晚餐  但我需要那份报告\N{\rEnglish}I'm sorry to break up your dinner, but I need that report.
+Dialogue: 0,0:08:09.00,0:08:11.00,Default,NTP,0000,0000,0000,,告诉你老婆我来买单\N{\rEnglish}Well, tell your wife the check's on me.
+Dialogue: 0,0:08:11.08,0:08:13.76,Default,NTP,0000,0000,0000,,但她明年还是会有周年纪念的\N{\rEnglish}Yeah, but she gets another anniversary next year.
+Dialogue: 0,0:08:13.84,0:08:15.28,Default,NTP,0000,0000,0000,,我并不关心\N{\rEnglish}I don't really care.
+Dialogue: 0,0:08:17.16,0:08:19.24,Default,NTP,0000,0000,0000,,打扰一下  你看到我妻子了吗\N{\rEnglish}Oh, excuse me, have you seen my wife anywhere?
+Dialogue: 0,0:08:19.32,0:08:20.52,Default,NTP,0000,0000,0000,,她长什么样\N{\rEnglish}What does she look like?
+Dialogue: 0,0:08:20.60,0:08:24.84,Default,NTP,0000,0000,0000,,她是全世界最美的女人\N{\rEnglish}She is the most beautiful woman in the entire world.
+Dialogue: 0,0:08:24.92,0:08:27.04,Default,NTP,0000,0000,0000,,也许我见过她  让我看一看\N{\rEnglish}Oh, well, maybe I have seen her. Let me see.
+Dialogue: 0,0:08:28.44,0:08:30.56,Default,NTP,0000,0000,0000,,找到了  是她吗\N{\rEnglish}Oh, here we go. Is this her?
+Dialogue: 0,0:08:31.44,0:08:32.85,Default,NTP,0000,0000,0000,,给她打个电话吧\N{\rEnglish}Oh, let's give her a call.
+Dialogue: 0,0:08:32.92,0:08:35.36,Default,NTP,0000,0000,0000,,今天很忙  我错过什么了吗\N{\rEnglish}Yeah, it was a busy day. What did I miss?
+Dialogue: 0,0:08:36.48,0:08:37.92,Default,NTP,0000,0000,0000,,我生日是上个月\N{\rEnglish}Uh, my birthday was last month.
+Dialogue: 0,0:08:38.12,0:08:39.61,Default,NTP,0000,0000,0000,,你在跟我开玩笑吗\N{\rEnglish}You're joking me right now?
+Dialogue: 0,0:08:39.80,0:08:41.76,Default,NTP,0000,0000,0000,,你还不如让我去工作\N{\rEnglish}You're gonna have to give me more to work with than that.
+Dialogue: 0,0:08:43.96,0:08:46.04,Default,NTP,0000,0000,0000,,-糟糕  不会是今天吧  -明天\N{\rEnglish}- Oh, damn it. It's not today? - Tomorrow.
+Dialogue: 0,0:08:46.12,0:08:47.53,Default,NTP,0000,0000,0000,,那就好  我还没错过\N{\rEnglish}Oh, well, then I haven't missed it.
+Dialogue: 0,0:08:47.60,0:08:49.04,Default,NTP,0000,0000,0000,,年度父亲\N{\rEnglish}Father of the year.
+Dialogue: 0,0:08:49.12,0:08:50.48,Default,NTP,0000,0000,0000,,所以我们买什么送她\N{\rEnglish}So, what did we get her?
+Dialogue: 0,0:08:50.56,0:08:51.68,Default,NTP,0000,0000,0000,,我们什么都没买\N{\rEnglish}Oh, we didn't get her anything.
+Dialogue: 0,0:08:51.80,0:08:54.24,Default,NTP,0000,0000,0000,,你忙到连说五分钟话的时间都没有\N{\rEnglish}You were too busy to talk for five minutes,
+Dialogue: 0,0:08:54.24,0:08:55.72,Default,NTP,0000,0000,0000,,所以我买了一个化妆包\N{\rEnglish}so I got her a makeup kit.
+Dialogue: 0,0:08:55.88,0:08:58.92,Default,NTP,0000,0000,0000,,不能说那个化妆包是我们俩送的吗\N{\rEnglish}Oh, well, couldn't we say that the makeup kit's from both of us?
+Dialogue: 0,0:08:59.00,0:09:00.92,Default,NTP,0000,0000,0000,,-不能  -好吧\N{\rEnglish}- No. - Fine.
+Dialogue: 0,0:09:01.08,0:09:02.12,Default,NTP,0000,0000,0000,,我该给她买点什么\N{\rEnglish}What should I get her?
+Dialogue: 0,0:09:02.76,0:09:05.00,Default,NTP,0000,0000,0000,,也许你应该问问她想要什么\N{\rEnglish}Maybe you should ask her what she wants.
+Dialogue: 0,0:09:05.08,0:09:06.57,Default,NTP,0000,0000,0000,,趁她还没上大学\N{\rEnglish}Try getting to know her a little bit
+Dialogue: 0,0:09:06.64,0:09:08.08,Default,NTP,0000,0000,0000,,试着了解她一下吧\N{\rEnglish}before she heads off to college.
+Dialogue: 0,0:09:08.24,0:09:10.16,Default,NTP,0000,0000,0000,,别这样  还有七年呢\N{\rEnglish}Come on. I still got seven years left.
+Dialogue: 0,0:09:10.32,0:09:12.28,Default,NTP,0000,0000,0000,,或者是六年  我开玩笑呢\N{\rEnglish}Or, no, six years. I'm kidding.
+Dialogue: 0,0:09:12.52,0:09:13.85,Default,NTP,0000,0000,0000,,你就是这样带大卫的吗\N{\rEnglish}Is this how you raised David?
+Dialogue: 0,0:09:13.92,0:09:15.52,Default,NTP,0000,0000,0000,,我儿子现在还不错\N{\rEnglish}My son turned out just fine.
+Dialogue: 0,0:09:15.60,0:09:17.64,Default,NTP,0000,0000,0000,,他为了见你不得不去你那工作\N{\rEnglish}He had to apply for a job to see his dad.
+Dialogue: 0,0:09:17.72,0:09:19.16,Default,NTP,0000,0000,0000,,当然  他母亲有完全监护权\N{\rEnglish}Well, of course. His mother got full custody.
+Dialogue: 0,0:09:19.24,0:09:20.24,Default,NTP,0000,0000,0000,,我那个律师太糟糕\N{\rEnglish}I had a terrible lawyer.
+Dialogue: 0,0:09:20.32,0:09:21.73,Default,NTP,0000,0000,0000,,你参加丽贝卡的派对的时候\N{\rEnglish}When you come to Rebecca's party...
+Dialogue: 0,0:09:21.80,0:09:24.20,Default,NTP,0000,0000,0000,,还有一个月  我们就要建成最高的建筑\N{\rEnglish}Look, we are a month away from opening the tallest building in...
+Dialogue: 0,0:09:24.28,0:09:26.93,Default,NTP,0000,0000,0000,,汤姆  你去参加丽贝卡聚会的时候\N{\rEnglish}Tom! When you come to Rebecca's party,
+Dialogue: 0,0:09:27.00,0:09:29.97,Default,NTP,0000,0000,0000,,你得到场并且带一份精美的礼物\N{\rEnglish}you gotta be here and you have to bring an exceptional gift.
+Dialogue: 0,0:09:30.08,0:09:31.16,Default,NTP,0000,0000,0000,,爸爸\N{\rEnglish}Daddy!
+Dialogue: 0,0:09:31.32,0:09:33.44,Default,NTP,0000,0000,0000,,宝贝儿\N{\rEnglish}Hey, baby.
+Dialogue: 0,0:09:33.64,0:09:36.29,Default,NTP,0000,0000,0000,,天啊  睡衣真漂亮\N{\rEnglish}Oh, my Goodness. Those are such fancy pajamas.
+Dialogue: 0,0:09:36.36,0:09:37.36,Default,NTP,0000,0000,0000,,确实很漂亮\N{\rEnglish}Yeah, aren't they?
+Dialogue: 0,0:09:37.48,0:09:38.92,Default,NTP,0000,0000,0000,,-这不是睡衣  -不是吗\N{\rEnglish}- They're not pajamas. - They're not?
+Dialogue: 0,0:09:39.00,0:09:40.88,Default,NTP,0000,0000,0000,,但你是不是该睡觉了  她什么时候睡觉\N{\rEnglish}But isn't it your bedtime? What time is her bedtime?
+Dialogue: 0,0:09:41.20,0:09:42.48,Default,NTP,0000,0000,0000,,她和我们一起去\N{\rEnglish}She's coming with us.
+Dialogue: 0,0:09:42.68,0:09:43.96,Default,NTP,0000,0000,0000,,妈妈说我可以去见梅厄\N{\rEnglish}Mom says I get to meet the Mayor.
+Dialogue: 0,0:09:44.04,0:09:45.04,Default,NTP,0000,0000,0000,,真的吗\N{\rEnglish}Really?
+Dialogue: 0,0:09:45.52,0:09:47.36,Default,NTP,0000,0000,0000,,真是父女情深的一刻\N{\rEnglish}Quality father-daughter bonding time.
+Dialogue: 0,0:09:48.16,0:09:49.68,Default,NTP,0000,0000,0000,,那里会有吃的吗\N{\rEnglish}Will there be food?
+Dialogue: 0,0:09:49.84,0:09:50.92,Default,NTP,0000,0000,0000,,一万刀一份\N{\rEnglish}It's $10,000 a plate.
+Dialogue: 0,0:09:51.00,0:09:52.00,Default,NTP,0000,0000,0000,,你得像皇后一样优雅的吃饭\N{\rEnglish}You're gonna eat like a queen.
+Dialogue: 0,0:09:52.08,0:09:53.49,Default,NTP,0000,0000,0000,,会有披萨吗\N{\rEnglish}Will there be pizza?
+Dialogue: 0,0:09:53.56,0:09:55.60,Default,NTP,0000,0000,0000,,有  一万刀的披萨\N{\rEnglish}Yes, $10,000 pizza.
+Dialogue: 0,0:09:59.40,0:10:02.37,Default,NTP,0000,0000,0000,,儿童基金在市长的领导下蒸蒸日上\N{\rEnglish}The children's fund has thrived under the Mayor's leadership.
+Dialogue: 0,0:10:02.56,0:10:05.24,Default,NTP,0000,0000,0000,,为了保证爱德华兹市长能从中获利\N{\rEnglish}And to make sure Mayor Edwards gets something out of it,
+Dialogue: 0,0:10:05.32,0:10:07.04,Default,NTP,0000,0000,0000,,他将把投票年龄下调至十岁\N{\rEnglish}he's gonna lower the voting age to ten.
+Dialogue: 0,0:10:08.48,0:10:10.80,Default,NTP,0000,0000,0000,,每个人都会问我为什么我的丈夫\N{\rEnglish}Everyone asks me why my husband
+Dialogue: 0,0:10:10.92,0:10:13.04,Default,NTP,0000,0000,0000,,会来组织慈善活动\N{\rEnglish}is hosting a charity event.
+Dialogue: 0,0:10:13.12,0:10:15.52,Default,NTP,0000,0000,0000,,因为汤姆很爱孩子\N{\rEnglish}The truth is Tom loves children.
+Dialogue: 0,0:10:15.64,0:10:17.64,Default,NTP,0000,0000,0000,,他说他们造出了最好的智能手机\N{\rEnglish}He says they make the best smartphones.
+Dialogue: 0,0:10:18.12,0:10:19.36,Default,NTP,0000,0000,0000,,我没听懂\N{\rEnglish}I don't get it.
+Dialogue: 0,0:10:19.40,0:10:20.92,Default,NTP,0000,0000,0000,,她刚才呛了你爸\N{\rEnglish}She just burned your dad.
+Dialogue: 0,0:10:21.00,0:10:22.76,Default,NTP,0000,0000,0000,,他们说和孩子相处的时光\N{\rEnglish}They say there is no substitute
+Dialogue: 0,0:10:22.84,0:10:24.44,Default,NTP,0000,0000,0000,,是无可替代的\N{\rEnglish}for time with your children.
+Dialogue: 0,0:10:24.56,0:10:27.48,Default,NTP,0000,0000,0000,,我们知道  在这个房间里  钱更重要\N{\rEnglish}Although, we know, in this room, money comes close.
+Dialogue: 0,0:10:29.48,0:10:31.92,Default,NTP,0000,0000,0000,,这也就是为什么这个慈善基金会这么受欢迎\N{\rEnglish}And that's why this charity is so popular.
+Dialogue: 0,0:10:32.04,0:10:33.45,Default,NTP,0000,0000,0000,,如果你没有时间陪孩子\N{\rEnglish}If you don't have time for kids,
+Dialogue: 0,0:10:33.52,0:10:35.04,Default,NTP,0000,0000,0000,,我们可以把你的钱拿走来减轻你的负罪感\N{\rEnglish}we'll ease your guilt by taking your dough.
+Dialogue: 0,0:10:36.32,0:10:39.96,Default,NTP,0000,0000,0000,,这也就是为什么汤姆·布兰德同意\N{\rEnglish}Which is why Tom Brand has agreed to host this benefit
+Dialogue: 0,0:10:40.04,0:10:42.12,Default,NTP,0000,0000,0000,,再组织七年慈善活动\N{\rEnglish}for the next seven years.
+Dialogue: 0,0:10:44.20,0:10:47.01,Default,NTP,0000,0000,0000,,废话不多说  有请我的丈夫\N{\rEnglish}So without further ado, please welcome my husband,
+Dialogue: 0,0:10:47.08,0:10:49.04,Default,NTP,0000,0000,0000,,一个没种的家伙  汤姆·布兰德\N{\rEnglish}a real pussy cat, Tom Brand.
+Dialogue: 0,0:10:53.52,0:10:55.48,Default,NTP,0000,0000,0000,,所以  今天是个大日子\N{\rEnglish}So, today is the big day.
+Dialogue: 0,0:10:55.56,0:10:56.97,Default,NTP,0000,0000,0000,,你想好要什么了吗\N{\rEnglish}Have you thought about what you want?
+Dialogue: 0,0:10:57.04,0:10:58.16,Default,NTP,0000,0000,0000,,我想要一只猫\N{\rEnglish}I want a cat.
+Dialogue: 0,0:10:58.24,0:10:59.48,Default,NTP,0000,0000,0000,,我们那栋楼不能带宠物\N{\rEnglish}Oh, I don't think our building takes pets.
+Dialogue: 0,0:10:59.56,0:11:00.72,Default,NTP,0000,0000,0000,,可那栋楼是你的呀\N{\rEnglish}You own the building.
+Dialogue: 0,0:11:00.80,0:11:02.21,Default,NTP,0000,0000,0000,,等等  你去年是不是也说要一只猫\N{\rEnglish}Wait, didn't you ask for a cat last year?
+Dialogue: 0,0:11:02.28,0:11:04.16,Default,NTP,0000,0000,0000,,对  你给我买了一个足球桌\N{\rEnglish}Yeah, and you got me a foosball table.
+Dialogue: 0,0:11:04.24,0:11:06.04,Default,NTP,0000,0000,0000,,亲爱的  很多孩子都想要足球桌的\N{\rEnglish}Honey, most kids would kill for a foosball table.
+Dialogue: 0,0:11:06.12,0:11:07.72,Default,NTP,0000,0000,0000,,但我的朋友没人玩桌上足球\N{\rEnglish}Yeah, but none of my friends play foosball.
+Dialogue: 0,0:11:07.80,0:11:09.88,Default,NTP,0000,0000,0000,,所以至少给我只猫  我可以和猫玩\N{\rEnglish}So, at least if I have a cat, I can play with the cat.
+Dialogue: 0,0:11:09.96,0:11:11.48,Default,NTP,0000,0000,0000,,好吧  好吧  我向你保证\N{\rEnglish}All right, all right. I'll make you a deal.
+Dialogue: 0,0:11:11.56,0:11:13.88,Default,NTP,0000,0000,0000,,-我会考虑考虑  怎么样  -太好了\N{\rEnglish}- I will think about it. How about that? - Yes!
+Dialogue: 0,0:11:16.16,0:11:17.57,Default,NTP,0000,0000,0000,,给她买珠宝  女孩子喜欢珠宝\N{\rEnglish}Get her jewelry. Girls love jewelry.
+Dialogue: 0,0:11:17.64,0:11:18.64,Default,NTP,0000,0000,0000,,可以考虑苹果产品\N{\rEnglish}Pull some strings with Apple,
+Dialogue: 0,0:11:18.72,0:11:20.24,Default,NTP,0000,0000,0000,,给她弄一个最新iPhone的原型机\N{\rEnglish}get her a prototype of the new iPhone.
+Dialogue: 0,0:11:20.32,0:11:21.36,Default,NTP,0000,0000,0000,,私人演唱会怎么样\N{\rEnglish}How about a private concert?
+Dialogue: 0,0:11:21.44,0:11:22.93,Default,NTP,0000,0000,0000,,-你知道她喜欢哪个乐队吗  -不知道\N{\rEnglish}- You know what band she is into? - No.
+Dialogue: 0,0:11:23.00,0:11:24.41,Default,NTP,0000,0000,0000,,我的建议有点冒犯\N{\rEnglish}I have a radical suggestion.
+Dialogue: 0,0:11:24.48,0:11:26.20,Default,NTP,0000,0000,0000,,你有问过丽贝卡她想要什么吗\N{\rEnglish}Have you tried asking Rebecca what she wants?
+Dialogue: 0,0:11:26.28,0:11:28.24,Default,NTP,0000,0000,0000,,问过  她想要一只猫\N{\rEnglish}Yes, she wants a cat.
+Dialogue: 0,0:11:28.32,0:11:29.48,Default,NTP,0000,0000,0000,,可以  那在你经济范围之内\N{\rEnglish}Well, that's in your price range.
+Dialogue: 0,0:11:29.56,0:11:30.68,Default,NTP,0000,0000,0000,,我讨厌猫\N{\rEnglish}I hate cats.
+Dialogue: 0,0:11:30.76,0:11:32.76,Default,NTP,0000,0000,0000,,它们满屋子吐  不守规矩\N{\rEnglish}They puke all over the house. They shed all over everything.
+Dialogue: 0,0:11:32.84,0:11:34.64,Default,NTP,0000,0000,0000,,我有了一个前妻  一个现任  两个孩子\N{\rEnglish}I got an ex-wife, a wife and two kids,
+Dialogue: 0,0:11:34.72,0:11:35.92,Default,NTP,0000,0000,0000,,我不想再养东西了\N{\rEnglish}I don't need another thing to feed.
+Dialogue: 0,0:11:36.12,0:11:37.56,Default,NTP,0000,0000,0000,,矮种马怎么样\N{\rEnglish}What about a pony?
+Dialogue: 0,0:11:45.72,0:11:47.64,Default,NTP,0000,0000,0000,,你能笑一下吗  这是派对\N{\rEnglish}Could you smile? It's a party.
+Dialogue: 0,0:11:47.72,0:11:48.88,Default,NTP,0000,0000,0000,,为什么我们总要来\N{\rEnglish}Why do we always come here?
+Dialogue: 0,0:11:48.96,0:11:50.76,Default,NTP,0000,0000,0000,,或多或少  他们是家人\N{\rEnglish}They're family. More or less.
+Dialogue: 0,0:11:51.24,0:11:53.84,Default,NTP,0000,0000,0000,,你在叫什么  电梯里又没有松鼠\N{\rEnglish}What are you barking at? There are no squirrels in the elevator.
+Dialogue: 0,0:11:55.64,0:11:57.16,Default,NTP,0000,0000,0000,,给你  拉着他\N{\rEnglish}Here, take him.
+Dialogue: 0,0:11:59.96,0:12:01.53,Default,NTP,0000,0000,0000,,假装你很享受遛狗\N{\rEnglish}Just pretend you're having fun.
+Dialogue: 0,0:12:01.64,0:12:03.56,Default,NTP,0000,0000,0000,,你在逗我吗\N{\rEnglish}Seriously?
+Dialogue: 0,0:12:08.08,0:12:09.92,Default,NTP,0000,0000,0000,,生日快乐\N{\rEnglish}Happy birthday!
+Dialogue: 0,0:12:11.48,0:12:13.32,Default,NTP,0000,0000,0000,,我特喜欢这个年度盛典\N{\rEnglish}I love this yearly ritual
+Dialogue: 0,0:12:13.40,0:12:15.12,Default,NTP,0000,0000,0000,,汤姆不记得丽贝卡生日\N{\rEnglish}where Tom forgets Rebecca's birthdays
+Dialogue: 0,0:12:15.20,0:12:17.60,Default,NTP,0000,0000,0000,,你也不记得汤姆不记得丽贝卡生日\N{\rEnglish}and you forget that Tom forgets Rebecca's birthdays.
+Dialogue: 0,0:12:17.68,0:12:18.72,Default,NTP,0000,0000,0000,,他偶尔还是能记住的\N{\rEnglish}He kind of remembered.
+Dialogue: 0,0:12:18.84,0:12:21.08,Default,NTP,0000,0000,0000,,-你得敲响警钟了  -麦迪逊\N{\rEnglish}- You'd have to fire a warning shot. - Madison!
+Dialogue: 0,0:12:21.16,0:12:23.36,Default,NTP,0000,0000,0000,,汤姆和我离婚时  他和一个年轻模特好上了\N{\rEnglish}When Tom and I divorced, he got the younger model.
+Dialogue: 0,0:12:23.44,0:12:24.56,Default,NTP,0000,0000,0000,,我都不好意思了\N{\rEnglish}I'm blushing.
+Dialogue: 0,0:12:24.68,0:12:26.25,Default,NTP,0000,0000,0000,,如果他再失去你  就会去染指未成年了\N{\rEnglish}If he loses you, it's jailbait.
+Dialogue: 0,0:12:26.32,0:12:27.60,Default,NTP,0000,0000,0000,,那还挺浪漫的\N{\rEnglish}Well, that's romantic.
+Dialogue: 0,0:12:27.68,0:12:30.08,Default,NTP,0000,0000,0000,,到时候我希望你去找我的律师\N{\rEnglish}I want you to call my lawyer.
+Dialogue: 0,0:12:30.16,0:12:31.73,Default,NTP,0000,0000,0000,,你是不是收了中介费\N{\rEnglish}Do you get a finder's fee?
+Dialogue: 0,0:12:31.80,0:12:33.84,Default,NTP,0000,0000,0000,,劳拉  我和汤姆离婚那天\N{\rEnglish}Lara, the day Tom and I divorced
+Dialogue: 0,0:12:33.92,0:12:35.49,Default,NTP,0000,0000,0000,,简直是我这辈子最快乐的一天\N{\rEnglish}was the happiest day of my life.
+Dialogue: 0,0:12:35.56,0:12:37.60,Default,NTP,0000,0000,0000,,我希望你也能拥有这份快乐\N{\rEnglish}I want that happiness for you.
+Dialogue: 0,0:12:37.68,0:12:39.88,Default,NTP,0000,0000,0000,,来吧  趁你没醉得拿得不稳东西  来帮帮忙\N{\rEnglish}Come on, help me out before your hands get all shaky.
+Dialogue: 0,0:12:40.84,0:12:42.26,Default,NTP,0000,0000,0000,,喝完这杯就走\N{\rEnglish}This is for the road.
+Dialogue: 0,0:12:42.26,0:12:43.96,Default,NTP,0000,0000,0000,,我可不想被汤姆看到我们在一起\N{\rEnglish}I don't want Tom catching us together.
+Dialogue: 0,0:12:44.04,0:12:46.28,Default,NTP,0000,0000,0000,,他能拿你怎样呢  再跟你离一次婚吗\N{\rEnglish}What's he gonna do? Divorce you again?
+Dialogue: 0,0:12:47.84,0:12:49.36,Default,NTP,0000,0000,0000,,要是他能  他自然乐意\N{\rEnglish}He would if he could.
+Dialogue: 0,0:12:50.00,0:12:52.36,Default,NTP,0000,0000,0000,,你的生日派对上会有男生来吗\N{\rEnglish}Are there gonna be any boys at the party?
+Dialogue: 0,0:12:52.44,0:12:54.01,Default,NTP,0000,0000,0000,,没有\N{\rEnglish}No.
+Dialogue: 0,0:12:54.12,0:12:55.64,Default,NTP,0000,0000,0000,,你就要满11岁了  丽贝卡\N{\rEnglish}You're turning 11, Rebecca.
+Dialogue: 0,0:12:55.72,0:12:58.45,Default,NTP,0000,0000,0000,,是时候谈恋爱了  我可以帮你\N{\rEnglish}Now's the time. I could help you, you know.
+Dialogue: 0,0:12:58.52,0:13:00.32,Default,NTP,0000,0000,0000,,就像我妈帮助你妈那样\N{\rEnglish}Like how my mom helps your mom.
+Dialogue: 0,0:13:00.40,0:13:02.20,Default,NTP,0000,0000,0000,,-什么  -没什么\N{\rEnglish}- What? - Never mind.
+Dialogue: 0,0:13:02.28,0:13:03.36,Default,NTP,0000,0000,0000,,我喜欢你的房间\N{\rEnglish}I love your room.
+Dialogue: 0,0:13:03.44,0:13:04.60,Default,NTP,0000,0000,0000,,谢谢你\N{\rEnglish}Thank you.
+Dialogue: 0,0:13:04.72,0:13:06.44,Default,NTP,0000,0000,0000,,我爸爸其实更乐意花时间陪我\N{\rEnglish}My dad actually likes spending time with me,
+Dialogue: 0,0:13:06.52,0:13:08.52,Default,NTP,0000,0000,0000,,所以他从不必花钱来补偿我\N{\rEnglish}so he never has to buy me off.
+Dialogue: 0,0:13:09.88,0:13:12.56,Default,NTP,0000,0000,0000,,来  要发照片了  笑一个\N{\rEnglish}Come on. Smile for Instagram.
+Dialogue: 0,0:13:16.24,0:13:17.76,Default,NTP,0000,0000,0000,,送她只毛绒玩偶猫怎么样\N{\rEnglish}What if you got her a plush cat?
+Dialogue: 0,0:13:17.84,0:13:19.25,Default,NTP,0000,0000,0000,,看  名义上算是只猫\N{\rEnglish}See, technically, it's a cat.
+Dialogue: 0,0:13:19.36,0:13:20.72,Default,NTP,0000,0000,0000,,不  严格来说  那不是只猫\N{\rEnglish}No, technically, it's not a cat.
+Dialogue: 0,0:13:21.04,0:13:22.48,Default,NTP,0000,0000,0000,,芝加哥那边刚刚宣布\N{\rEnglish}Chicago just announced.
+Dialogue: 0,0:13:22.80,0:13:24.80,Default,NTP,0000,0000,0000,,等等  有了  我知道了\N{\rEnglish}Hang on. I got it, I got it, I got it.
+Dialogue: 0,0:13:24.88,0:13:27.28,Default,NTP,0000,0000,0000,,看看日本的田代岛\N{\rEnglish}Take a look at Tashirojima,
+Dialogue: 0,0:13:27.36,0:13:29.48,Default,NTP,0000,0000,0000,,又以"猫岛"著称\N{\rEnglish}also known as Cat Island.
+Dialogue: 0,0:13:29.56,0:13:30.80,Default,NTP,0000,0000,0000,,你可以请一位保姆陪她一起去\N{\rEnglish}Put her up there with a nanny.
+Dialogue: 0,0:13:30.88,0:13:32.60,Default,NTP,0000,0000,0000,,最重要的是  你都不用亲自去那里\N{\rEnglish}Best part, you don't even have to be there.
+Dialogue: 0,0:13:32.68,0:13:33.64,Default,NTP,0000,0000,0000,,这点子不错\N{\rEnglish}That's interesting.
+Dialogue: 0,0:13:33.72,0:13:34.92,Default,NTP,0000,0000,0000,,她每年都说想要一只猫\N{\rEnglish}She asks for a cat every single year.
+Dialogue: 0,0:13:35.04,0:13:36.16,Default,NTP,0000,0000,0000,,你不能就这样花钱了事\N{\rEnglish}You can't just buy your way out.
+Dialogue: 0,0:13:36.24,0:13:38.00,Default,NTP,0000,0000,0000,,布兰德先生  我认为\N{\rEnglish}Mr. Brand, I think the fact that
+Dialogue: 0,0:13:38.08,0:13:39.68,Default,NTP,0000,0000,0000,,你让我们花如此多时间精力来讨论这件事\N{\rEnglish}you've had us put so much time and thought into this
+Dialogue: 0,0:13:39.76,0:13:41.09,Default,NTP,0000,0000,0000,,本身就足以证明你对她的关心了\N{\rEnglish}is really gonna show her you care.
+Dialogue: 0,0:13:41.16,0:13:42.44,Default,NTP,0000,0000,0000,,如果你真的想让她感受到你的诚意\N{\rEnglish}If you wanna show her you really care,
+Dialogue: 0,0:13:42.52,0:13:43.76,Default,NTP,0000,0000,0000,,就给她她真正想要的\N{\rEnglish}just get her what she really wants.
+Dialogue: 0,0:13:44.08,0:13:45.96,Default,NTP,0000,0000,0000,,一只真正的猫\N{\rEnglish}A cat.
+Dialogue: 0,0:13:46.18,0:13:46.99,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}回电
+Dialogue: 0,0:13:47.04,0:13:48.72,Default,NTP,0000,0000,0000,,天呐\N{\rEnglish}Jeez.
+Dialogue: 0,0:14:05.16,0:14:08.48,Default,NTP,0000,0000,0000,,最近的宠物店距此约2.7公里\N{\rEnglish}Nearest pet shop, 1.7 miles.
+Dialogue: 0,0:14:13.92,0:14:15.13,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}伊恩·考克斯
+Dialogue: 0,0:14:15.55,0:14:16.32,Default,NTP,0000,0000,0000,,该死的\N{\rEnglish}Damn it.
+Dialogue: 0,0:14:16.40,0:14:17.56,Default,NTP,0000,0000,0000,,重新计算路线\N{\rEnglish}Recalculating.
+Dialogue: 0,0:14:19.40,0:14:23.29,Default,NTP,0000,0000,0000,,前方160米处右转\N{\rEnglish}In one-tenth of a mile, make a right turn.
+Dialogue: 0,0:14:28.92,0:14:30.63,Default,NTP,0000,0000,0000,,此处左转\N{\rEnglish}Make a left turn.
+Dialogue: 0,0:14:30.66,0:14:33.32,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}喵金斯宠物店
+Dialogue: 0,0:14:37.12,0:14:38.48,Default,NTP,0000,0000,0000,,您已到达目的地\N{\rEnglish}You have arrived.
+Dialogue: 0,0:14:42.52,0:14:43.52,Default,NTP,0000,0000,0000,,我的天\N{\rEnglish}Jeez!
+Dialogue: 0,0:15:40.64,0:15:42.05,Default,NTP,0000,0000,0000,,离我远点\N{\rEnglish}Get away from me.
+Dialogue: 0,0:15:43.56,0:15:44.56,Default,NTP,0000,0000,0000,,闭嘴\N{\rEnglish}Shut up.
+Dialogue: 0,0:15:45.12,0:15:47.64,Default,NTP,0000,0000,0000,,有人吗\N{\rEnglish}Hello? Hello?
+Dialogue: 0,0:15:50.52,0:15:52.24,Default,NTP,0000,0000,0000,,-你好  -嗨\N{\rEnglish}- Oh, hello. - Hi.
+Dialogue: 0,0:15:55.92,0:15:57.80,Default,NTP,0000,0000,0000,,你看起来很眼熟  我们见过吗\N{\rEnglish}You look familiar. Have we met?
+Dialogue: 0,0:15:57.88,0:15:59.04,Default,NTP,0000,0000,0000,,我不这么觉得\N{\rEnglish}Oh, I doubt it.
+Dialogue: 0,0:15:59.12,0:16:00.84,Default,NTP,0000,0000,0000,,我一定在哪见过你\N{\rEnglish}I know you from somewhere.
+Dialogue: 0,0:16:00.96,0:16:02.68,Default,NTP,0000,0000,0000,,好吧  我经常上电视\N{\rEnglish}Well, I'm on TV a lot.
+Dialogue: 0,0:16:02.76,0:16:05.16,Default,NTP,0000,0000,0000,,对  《动物星球》  我喜欢这个节目\N{\rEnglish}Yes! Animal Planet. I love that show.
+Dialogue: 0,0:16:05.24,0:16:06.44,Default,NTP,0000,0000,0000,,不  不是《动物星球》\N{\rEnglish}No, not Animal Planet.
+Dialogue: 0,0:16:06.56,0:16:09.15,Default,NTP,0000,0000,0000,,我是汤姆·布兰德  火兰德的老总\N{\rEnglish}I'm Tom Brand. I own FireBrand.
+Dialogue: 0,0:16:09.15,0:16:10.01,Default,NTP,0000,0000,0000,,我想起来了\N{\rEnglish}There you go.
+Dialogue: 0,0:16:10.01,0:16:12.00,Default,NTP,0000,0000,0000,,我在猫砂盆里用的是报纸\N{\rEnglish}I use newspaper in the poopy boxes,
+Dialogue: 0,0:16:12.08,0:16:14.48,Default,NTP,0000,0000,0000,,铲屎的时候总能看见你的脸\N{\rEnglish}and I see your face all the time.
+Dialogue: 0,0:16:15.44,0:16:16.68,Default,NTP,0000,0000,0000,,我还有急事要迟到了\N{\rEnglish}Look, I'm a little late for something,
+Dialogue: 0,0:16:16.76,0:16:18.52,Default,NTP,0000,0000,0000,,所以我们能赶紧说重点吗\N{\rEnglish}so if we could just get on with it?
+Dialogue: 0,0:16:18.72,0:16:20.72,Default,NTP,0000,0000,0000,,-喵  -当然了\N{\rEnglish}- Meow! - Sure.
+Dialogue: 0,0:16:20.88,0:16:22.48,Default,NTP,0000,0000,0000,,你不喜欢猫吧  布兰德先生\N{\rEnglish}You don't like cats, do you, Mr. Brand?
+Dialogue: 0,0:16:22.56,0:16:24.32,Default,NTP,0000,0000,0000,,我能直接挑一只走吗  然后我就要上路了\N{\rEnglish}Look, can I just pick one out? And then I'll be on my way.
+Dialogue: 0,0:16:24.40,0:16:26.40,Default,NTP,0000,0000,0000,,不是你选猫  而是猫选你\N{\rEnglish}You don't pick a cat. The cat picks you.
+Dialogue: 0,0:16:26.48,0:16:28.16,Default,NTP,0000,0000,0000,,听着  我的决定动辄牵涉上百万美元\N{\rEnglish}Look, I make million-dollar decisions for lunch.
+Dialogue: 0,0:16:28.24,0:16:29.57,Default,NTP,0000,0000,0000,,我确定我选只猫还是绰绰有余的\N{\rEnglish}I'm pretty sure I can pick out a cat.
+Dialogue: 0,0:16:29.64,0:16:31.48,Default,NTP,0000,0000,0000,,看到了吗  它喜欢你\N{\rEnglish}See that? He likes you.
+Dialogue: 0,0:16:31.56,0:16:34.88,Default,NTP,0000,0000,0000,,怪不得  它就喜欢困惑不安的灵魂\N{\rEnglish}It figures because he's attracted to troubled souls.
+Dialogue: 0,0:16:36.92,0:16:38.60,Default,NTP,0000,0000,0000,,它的九条命已然去了七条\N{\rEnglish}Used up seven lives already.
+Dialogue: 0,0:16:45.04,0:16:48.24,Default,NTP,0000,0000,0000,,也就是说芝加哥将坐拥北美最高楼\N{\rEnglish}That'll give Chicago the tallest building in North America
+Dialogue: 0,0:16:48.68,0:16:50.60,Default,NTP,0000,0000,0000,,而纽约的火兰德大楼只能退居其次\N{\rEnglish}which leaves New York and FireBrand in second place.
+Dialogue: 0,0:16:50.68,0:16:52.36,Default,NTP,0000,0000,0000,,你该选只食盆了\N{\rEnglish}You should pick a bowl.
+Dialogue: 0,0:16:52.44,0:16:53.64,Default,NTP,0000,0000,0000,,我们暂未采访到公司相关负责人\N{\rEnglish}The company could not be reached for comment.
+Dialogue: 0,0:16:54.89,0:16:56.86,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}毛绒裤先生
+Dialogue: 0,0:16:53.72,0:16:55.60,Default,NTP,0000,0000,0000,,但随着一个月后开幕仪式的举行\N{\rEnglish}But with the opening ceremony just a month away...
+Dialogue: 0,0:16:55.68,0:16:57.40,Default,NTP,0000,0000,0000,,"毛绒裤先生"\N{\rEnglish}"Mister Fuzzypants."
+Dialogue: 0,0:16:57.48,0:17:00.13,Default,NTP,0000,0000,0000,,很好\N{\rEnglish}Yeah. Yeah. Good.
+Dialogue: 0,0:17:00.44,0:17:01.68,Default,NTP,0000,0000,0000,,很好的选择\N{\rEnglish}Good choice.
+Dialogue: 0,0:17:02.16,0:17:03.57,Default,NTP,0000,0000,0000,,你能直接帮我包上吗\N{\rEnglish}Yeah. Could you just wrap it up for me?
+Dialogue: 0,0:17:03.64,0:17:04.68,Default,NTP,0000,0000,0000,,没问题\N{\rEnglish}Sure.
+Dialogue: 0,0:17:06.28,0:17:07.61,Default,NTP,0000,0000,0000,,我理解这一点\N{\rEnglish}You know, I get it.
+Dialogue: 0,0:17:07.68,0:17:10.12,Default,NTP,0000,0000,0000,,你的公司以你的姓布兰德命名\N{\rEnglish}"Brand" Because your name is Brand.
+Dialogue: 0,0:17:11.80,0:17:13.88,Default,NTP,0000,0000,0000,,-但为什么是"火兰德"呢  -多少钱\N{\rEnglish}- But why "Fire"? - How much do I owe you?
+Dialogue: 0,0:17:13.96,0:17:16.40,Default,NTP,0000,0000,0000,,因为不巧我也做了同样的事\N{\rEnglish}I ask because I did the same thing, see.
+Dialogue: 0,0:17:16.48,0:17:19.68,Default,NTP,0000,0000,0000,,我名为珀金斯\N{\rEnglish}My name is Perkins,
+Dialogue: 0,0:17:19.76,0:17:23.65,Default,NTP,0000,0000,0000,,所以我的店名是"喵金斯"\N{\rEnglish}so I call my store "Purrkins."
+Dialogue: 0,0:17:23.72,0:17:26.37,Default,NTP,0000,0000,0000,,我懂了\N{\rEnglish}Oh, I see there.
+Dialogue: 0,0:17:26.92,0:17:29.44,Default,NTP,0000,0000,0000,,我们真是如出一辙啊\N{\rEnglish}We're just like two peas in a pod.
+Dialogue: 0,0:17:29.72,0:17:30.92,Default,NTP,0000,0000,0000,,不用找了\N{\rEnglish}Yeah. Keep the change.
+Dialogue: 0,0:17:31.24,0:17:32.52,Default,NTP,0000,0000,0000,,出手大方\N{\rEnglish}Oh, wow.
+Dialogue: 0,0:17:36.72,0:17:39.61,Default,NTP,0000,0000,0000,,-你最好不要接  -什么\N{\rEnglish}- You might not wanna take that. - I'm sorry?
+Dialogue: 0,0:17:39.68,0:17:41.28,Default,NTP,0000,0000,0000,,你买了礼物  又快迟到了\N{\rEnglish}You're running late, it's a gift.
+Dialogue: 0,0:17:41.36,0:17:42.60,Default,NTP,0000,0000,0000,,你不想误了时辰吧\N{\rEnglish}You don't want to be late.
+Dialogue: 0,0:17:45.28,0:17:47.36,Default,NTP,0000,0000,0000,,赶去参加派对\N{\rEnglish}For the party?
+Dialogue: 0,0:17:51.84,0:17:52.84,Default,NTP,0000,0000,0000,,说的很对\N{\rEnglish}Right.
+Dialogue: 0,0:17:54.40,0:17:57.24,Default,NTP,0000,0000,0000,,伊恩  到底怎么回事\N{\rEnglish}Ian, what the hell is going on?
+Dialogue: 0,0:17:59.56,0:18:01.32,Default,NTP,0000,0000,0000,,猫咪们\N{\rEnglish}Okay, cats.
+Dialogue: 0,0:18:01.48,0:18:03.64,Default,NTP,0000,0000,0000,,我们行动吧\N{\rEnglish}Let's do this.
+Dialogue: 0,0:18:07.88,0:18:09.32,Default,NTP,0000,0000,0000,,真棒\N{\rEnglish}Oh, good job.
+Dialogue: 0,0:18:10.84,0:18:12.88,Default,NTP,0000,0000,0000,,-宝贝  生日快乐  -谢谢\N{\rEnglish}- Happy birthday, baby. - Thank you.
+Dialogue: 0,0:18:12.96,0:18:14.53,Default,NTP,0000,0000,0000,,第一块给我们的小寿星\N{\rEnglish}Okay, first piece for the birthday girl.
+Dialogue: 0,0:18:14.60,0:18:15.96,Default,NTP,0000,0000,0000,,给爸爸留一块吧\N{\rEnglish}And save some for Daddy.
+Dialogue: 0,0:18:16.04,0:18:18.40,Default,NTP,0000,0000,0000,,放在冰箱里去年留的蛋糕旁边就好\N{\rEnglish}Just put it in the freezer next to last year's slice.
+Dialogue: 0,0:18:19.15,0:18:20.36,Default,NTP,0000,0000,0000,,怎么了\N{\rEnglish}What?
+Dialogue: 0,0:18:26.28,0:18:27.61,Default,NTP,0000,0000,0000,,在这等着\N{\rEnglish}Wait here.
+Dialogue: 0,0:18:51.20,0:18:52.72,Default,NTP,0000,0000,0000,,别吵了\N{\rEnglish}Shut up.
+Dialogue: 0,0:19:03.56,0:19:04.68,Default,NTP,0000,0000,0000,,你买了猫送她\N{\rEnglish}Went with the cat.
+Dialogue: 0,0:19:04.76,0:19:05.80,Default,NTP,0000,0000,0000,,明智之举\N{\rEnglish}Smart move.
+Dialogue: 0,0:19:05.88,0:19:07.29,Default,NTP,0000,0000,0000,,新闻上不是在开玩笑吧\N{\rEnglish}Was that news report a joke?
+Dialogue: 0,0:19:07.36,0:19:09.04,Default,NTP,0000,0000,0000,,汤姆  我们还可以扭转局面\N{\rEnglish}Tom, we can turn this around.
+Dialogue: 0,0:19:09.12,0:19:10.20,Default,NTP,0000,0000,0000,,回头往上看\N{\rEnglish}Just look up there.
+Dialogue: 0,0:19:10.28,0:19:11.69,Default,NTP,0000,0000,0000,,那根天线有14米长\N{\rEnglish}That antenna's 47 feet.
+Dialogue: 0,0:19:11.76,0:19:12.88,Default,NTP,0000,0000,0000,,我问了我们的工程师\N{\rEnglish}I spoke to our engineers,
+Dialogue: 0,0:19:12.96,0:19:15.28,Default,NTP,0000,0000,0000,,只要装上天线支架就能把它支高\N{\rEnglish}and if we install support lines, we can raise it up.
+Dialogue: 0,0:19:15.36,0:19:16.44,Default,NTP,0000,0000,0000,,我们在新世贸大厦就是这么干的\N{\rEnglish}That's what they did at One World Trade.
+Dialogue: 0,0:19:16.52,0:19:18.24,Default,NTP,0000,0000,0000,,别说了  你从城市那头把我叫来\N{\rEnglish}Stop. You dragged me across town
+Dialogue: 0,0:19:18.40,0:19:20.12,Default,NTP,0000,0000,0000,,又爬了579米高  就为了说这个\N{\rEnglish}and up 1,900 feet to tell me this?
+Dialogue: 0,0:19:20.20,0:19:21.20,Default,NTP,0000,0000,0000,,这是解决方案\N{\rEnglish}This is a solution.
+Dialogue: 0,0:19:21.28,0:19:22.77,Default,NTP,0000,0000,0000,,-那条天线  -你还跟我说天线\N{\rEnglish}- That antenna is... - Antenna?
+Dialogue: 0,0:19:22.84,0:19:25.36,Default,NTP,0000,0000,0000,,我要的是最高楼  伊恩  不是信号最好的楼\N{\rEnglish}I wanted the tallest building, Ian, not the best reception.
+Dialogue: 0,0:19:25.44,0:19:26.85,Default,NTP,0000,0000,0000,,也许我们还可以加高楼层\N{\rEnglish}Well, maybe we can add more floors.
+Dialogue: 0,0:19:26.92,0:19:28.33,Default,NTP,0000,0000,0000,,你知道我们耗费多少心力\N{\rEnglish}Do you know how much planning went into this?
+Dialogue: 0,0:19:28.40,0:19:29.97,Default,NTP,0000,0000,0000,,才获得许可建这么高的楼吗\N{\rEnglish}To get permission to build it this height?
+Dialogue: 0,0:19:30.04,0:19:31.56,Default,NTP,0000,0000,0000,,全给你毁了  我们现在只能\N{\rEnglish}You blew it. We're now standing
+Dialogue: 0,0:19:31.64,0:19:33.13,Default,NTP,0000,0000,0000,,站在北美第二高楼顶上\N{\rEnglish}on the second tallest building in North America.
+Dialogue: 0,0:19:33.20,0:19:35.08,Default,NTP,0000,0000,0000,,只是第二而已  就因为你忙着\N{\rEnglish}Number two, because you were busy
+Dialogue: 0,0:19:35.16,0:19:37.20,Default,NTP,0000,0000,0000,,想方设法背着我卖掉我的公司\N{\rEnglish}trying to sell my company behind my back.
+Dialogue: 0,0:19:37.32,0:19:38.65,Default,NTP,0000,0000,0000,,-汤姆  -收拾东西给我滚\N{\rEnglish}- Tom... - Pack up your office!
+Dialogue: 0,0:19:40.04,0:19:41.61,Default,NTP,0000,0000,0000,,我迟到了  我知道了  不要打了\N{\rEnglish}I'm late. I know. Stop calling.
+Dialogue: 0,0:19:57.64,0:19:59.21,Default,NTP,0000,0000,0000,,-拉我上去  -你不是要开除我吗\N{\rEnglish}- Pull me up. - You're firing me?
+Dialogue: 0,0:19:59.28,0:20:00.28,Default,NTP,0000,0000,0000,,拉我一把\N{\rEnglish}Take my hand!
+Dialogue: 0,0:20:19.28,0:20:20.64,Default,NTP,0000,0000,0000,,好痛\N{\rEnglish}That hurt.
+Dialogue: 0,0:20:23.00,0:20:24.24,Default,NTP,0000,0000,0000,,血压稳定\N{\rEnglish}BP holding steady.
+Dialogue: 0,0:20:24.32,0:20:25.65,Default,NTP,0000,0000,0000,,好  我数三下  抬起来\N{\rEnglish}Okay, let's do this on three.
+Dialogue: 0,0:20:25.72,0:20:26.72,Default,NTP,0000,0000,0000,,准备好了吗\N{\rEnglish}Ready?
+Dialogue: 0,0:20:26.80,0:20:28.80,Default,NTP,0000,0000,0000,,一  二  三\N{\rEnglish}One, two, three.
+Dialogue: 0,0:20:32.72,0:20:34.44,Default,NTP,0000,0000,0000,,那家伙呢\N{\rEnglish}What about that guy?
+Dialogue: 0,0:20:36.64,0:20:38.56,Default,NTP,0000,0000,0000,,这小家伙状况还不错\N{\rEnglish}Huh, this little guy looks fine.
+Dialogue: 0,0:20:41.20,0:20:43.93,Default,NTP,0000,0000,0000,,那个人看起来比我糟糕多了\N{\rEnglish}Wow, that guy looks worse off than me.
+Dialogue: 0,0:20:44.00,0:20:46.65,Default,NTP,0000,0000,0000,,他穿着我的衣服\N{\rEnglish}And he's wearing my clothes.
+Dialogue: 0,0:20:48.16,0:20:50.28,Default,NTP,0000,0000,0000,,那是我的腰带\N{\rEnglish}And that's my belt.
+Dialogue: 0,0:20:55.36,0:20:56.72,Default,NTP,0000,0000,0000,,不是吧\N{\rEnglish}Seriously?
+Dialogue: 0,0:21:00.76,0:21:02.68,Default,NTP,0000,0000,0000,,这只是一场噩梦\N{\rEnglish}It's just a bad dream!
+Dialogue: 0,0:21:07.40,0:21:08.60,Default,NTP,0000,0000,0000,,好消息是你丈夫撑过来了\N{\rEnglish}The good news is your husband made it
+Dialogue: 0,0:21:08.68,0:21:10.40,Default,NTP,0000,0000,0000,,没有术后并发症\N{\rEnglish}through surgery with no complications,
+Dialogue: 0,0:21:10.48,0:21:12.84,Default,NTP,0000,0000,0000,,但是他脑部严重受创  失去意识\N{\rEnglish}but he had severe head trauma and is unresponsive.
+Dialogue: 0,0:21:12.92,0:21:14.52,Default,NTP,0000,0000,0000,,我这是失去意识\N{\rEnglish}You call this unresponsive?
+Dialogue: 0,0:21:15.12,0:21:16.24,Default,NTP,0000,0000,0000,,什么时候他能醒过来\N{\rEnglish}When will he wake up?
+Dialogue: 0,0:21:16.32,0:21:17.73,Default,NTP,0000,0000,0000,,布兰德太太  你丈夫在昏迷之中\N{\rEnglish}Mrs. Brand, your husband's in a coma.
+Dialogue: 0,0:21:17.80,0:21:18.88,Default,NTP,0000,0000,0000,,等过段日子\N{\rEnglish}Once the swelling in the
+Dialogue: 0,0:21:18.88,0:21:20.96,Default,NTP,0000,0000,0000,,他脑部的肿胀消除以后\N{\rEnglish}brain is reduced over the next couple of days,
+Dialogue: 0,0:21:21.04,0:21:23.00,Default,NTP,0000,0000,0000,,他的状况可能就会好转\N{\rEnglish}that's when we're more likely to see a recovery.
+Dialogue: 0,0:21:23.08,0:21:24.49,Default,NTP,0000,0000,0000,,但是现在  他的意识还没有恢复\N{\rEnglish}But right now, he's not in there.
+Dialogue: 0,0:21:24.56,0:21:25.84,Default,NTP,0000,0000,0000,,因为我的意识在这里\N{\rEnglish}That's because I'm in here!
+Dialogue: 0,0:21:25.92,0:21:27.76,Default,NTP,0000,0000,0000,,劳拉  听我说  我在这儿\N{\rEnglish}Lara, listen to me! It's me!
+Dialogue: 0,0:21:30.96,0:21:32.40,Default,NTP,0000,0000,0000,,谢天谢地  你能听见我\N{\rEnglish}Thank God. You can hear me.
+Dialogue: 0,0:21:34.04,0:21:35.84,Default,NTP,0000,0000,0000,,等一下  等等  等等  等等\N{\rEnglish}Wait, wait, wait, wait.
+Dialogue: 0,0:21:35.92,0:21:37.00,Default,NTP,0000,0000,0000,,不  不  不  不\N{\rEnglish}No, no, no, no.
+Dialogue: 0,0:21:37.08,0:21:38.80,Default,NTP,0000,0000,0000,,不要把我拿出去\N{\rEnglish}Don't leave me back there.
+Dialogue: 0,0:21:38.88,0:21:40.92,Default,NTP,0000,0000,0000,,把我和我的身体放在一起\N{\rEnglish}Hey, leave me with me.
+Dialogue: 0,0:21:47.72,0:21:48.96,Default,NTP,0000,0000,0000,,宝贝\N{\rEnglish}Hi, baby.
+Dialogue: 0,0:21:49.72,0:21:50.92,Default,NTP,0000,0000,0000,,我能看看爸爸吗\N{\rEnglish}Can I see Daddy?
+Dialogue: 0,0:21:51.00,0:21:54.24,Default,NTP,0000,0000,0000,,他在睡觉  还不能和我们讲话\N{\rEnglish}Well, he is sleeping right now so he can't talk to us,
+Dialogue: 0,0:21:54.32,0:21:56.08,Default,NTP,0000,0000,0000,,不过  他可能能听到我们\N{\rEnglish}but maybe he can hear us.
+Dialogue: 0,0:21:56.16,0:21:57.65,Default,NTP,0000,0000,0000,,我们一起进去  好吗\N{\rEnglish}We'll go in together, okay?
+Dialogue: 0,0:21:57.72,0:21:59.21,Default,NTP,0000,0000,0000,,-来吧  -我们能看他吗\N{\rEnglish}- Come on. - Shall we see?
+Dialogue: 0,0:22:00.00,0:22:02.04,Default,NTP,0000,0000,0000,,这太耻辱了\N{\rEnglish}Oh, this is so humiliating.
+Dialogue: 0,0:22:02.12,0:22:03.48,Default,NTP,0000,0000,0000,,劳拉  我想要拉他上来的\N{\rEnglish}Hey, Lara. I tried to lift him up,
+Dialogue: 0,0:22:03.56,0:22:04.68,Default,NTP,0000,0000,0000,,但是我不够强壮\N{\rEnglish}but I wasn't strong enough.
+Dialogue: 0,0:22:04.80,0:22:06.16,Default,NTP,0000,0000,0000,,-犹大  -那不是你的错\N{\rEnglish}- Judas. - No, it's not your fault.
+Dialogue: 0,0:22:06.24,0:22:07.48,Default,NTP,0000,0000,0000,,那只猫是谁的\N{\rEnglish}Whose cat is that?
+Dialogue: 0,0:22:07.56,0:22:08.84,Default,NTP,0000,0000,0000,,我想它是你的\N{\rEnglish}I think he's yours.
+Dialogue: 0,0:22:08.92,0:22:10.49,Default,NTP,0000,0000,0000,,应该是你爸爸买的  我们去看看他\N{\rEnglish}I think your dad got him. Let's go see.
+Dialogue: 0,0:22:11.00,0:22:13.00,Default,NTP,0000,0000,0000,,爸爸给我买了一只猫\N{\rEnglish}Daddy got me a cat?
+Dialogue: 0,0:22:13.08,0:22:14.76,Default,NTP,0000,0000,0000,,不可思议  对吧\N{\rEnglish}Amazing, isn't it?
+Dialogue: 0,0:22:24.60,0:22:25.64,Default,NTP,0000,0000,0000,,我说过我会打电话的\N{\rEnglish}I said I'd call.
+Dialogue: 0,0:22:34.60,0:22:36.36,Default,NTP,0000,0000,0000,,那个谁  谁都行\N{\rEnglish}Hello, someone, anyone.
+Dialogue: 0,0:22:36.44,0:22:38.84,Default,NTP,0000,0000,0000,,我被困在猫的身体里\N{\rEnglish}I'm trapped inside a cat's body.
+Dialogue: 0,0:22:38.96,0:22:40.20,Default,NTP,0000,0000,0000,,谁来救救我\N{\rEnglish}Somebody help me!
+Dialogue: 0,0:22:40.28,0:22:42.76,Default,NTP,0000,0000,0000,,你  那个穿难看绿夹克的\N{\rEnglish}You, in the horrible green jacket.
+Dialogue: 0,0:22:46.00,0:22:49.00,Default,NTP,0000,0000,0000,,你好吗\N{\rEnglish}So, how are you doin' in there?
+Dialogue: 0,0:22:49.08,0:22:51.04,Default,NTP,0000,0000,0000,,噩梦还在继续\N{\rEnglish}The nightmare continues.
+Dialogue: 0,0:22:51.12,0:22:53.36,Default,NTP,0000,0000,0000,,布兰德先生  这不是梦\N{\rEnglish}Mr. Brand, this is no dream.
+Dialogue: 0,0:22:53.44,0:22:54.85,Default,NTP,0000,0000,0000,,您能听见我\N{\rEnglish}You can hear me? - Shh.
+Dialogue: 0,0:22:54.92,0:22:56.76,Default,NTP,0000,0000,0000,,我是个猫语者\N{\rEnglish}I'm a cat whisperer.
+Dialogue: 0,0:22:56.84,0:22:58.88,Default,NTP,0000,0000,0000,,我是唯一能听懂你的话的人\N{\rEnglish}And I'm the only one who can hear you.
+Dialogue: 0,0:22:58.96,0:23:00.12,Default,NTP,0000,0000,0000,,你对我做了什么\N{\rEnglish}What did you do to me?
+Dialogue: 0,0:23:00.20,0:23:02.20,Default,NTP,0000,0000,0000,,我什么也没做  你从屋顶上摔下来了\N{\rEnglish}I didn't do anything. You fell off a roof.
+Dialogue: 0,0:23:02.28,0:23:03.93,Default,NTP,0000,0000,0000,,好吧  我要怎么从它身上出去\N{\rEnglish}Fine. How do I get out of this?
+Dialogue: 0,0:23:04.00,0:23:05.44,Default,NTP,0000,0000,0000,,错误的问题\N{\rEnglish}Wrong question.
+Dialogue: 0,0:23:05.52,0:23:08.00,Default,NTP,0000,0000,0000,,你应该问问  我是怎么进入到它身体里的\N{\rEnglish}You should ask, "How did I get into this?"
+Dialogue: 0,0:23:08.08,0:23:09.68,Default,NTP,0000,0000,0000,,好吧  我是怎么进入到它身体里的\N{\rEnglish}Fine! How did I get into this?
+Dialogue: 0,0:23:09.76,0:23:11.33,Default,NTP,0000,0000,0000,,继续问这个问题\N{\rEnglish}Keep asking that question.
+Dialogue: 0,0:23:11.40,0:23:12.89,Default,NTP,0000,0000,0000,,我希望你能自己找出答案\N{\rEnglish}I hope you figure it out.
+Dialogue: 0,0:23:12.96,0:23:14.56,Default,NTP,0000,0000,0000,,什么意思\N{\rEnglish}What does that mean?
+Dialogue: 0,0:23:15.08,0:23:16.28,Default,NTP,0000,0000,0000,,你的身体不能撑太久\N{\rEnglish}Your body won't last long.
+Dialogue: 0,0:23:16.36,0:23:19.12,Default,NTP,0000,0000,0000,,如果你不能及时回去  你接下来的一生\N{\rEnglish}If it expires, you're gonna be stuck in there
+Dialogue: 0,0:23:19.20,0:23:20.53,Default,NTP,0000,0000,0000,,就会被一直困在这只猫的身体里\N{\rEnglish}for the rest of your life.
+Dialogue: 0,0:23:20.60,0:23:22.09,Default,NTP,0000,0000,0000,,把我从这里面弄出来  你这个婊子养...\N{\rEnglish}You get me out of here, you son of a...
+Dialogue: 0,0:23:22.16,0:23:23.49,Default,NTP,0000,0000,0000,,冷静  布兰德先生\N{\rEnglish}Calm down, Mr. Brand.
+Dialogue: 0,0:23:23.56,0:23:25.08,Default,NTP,0000,0000,0000,,你是一只猫\N{\rEnglish}You're a cat.
+Dialogue: 0,0:23:25.48,0:23:26.89,Default,NTP,0000,0000,0000,,这不是世界末日\N{\rEnglish}It's not the end of the world.
+Dialogue: 0,0:23:26.96,0:23:28.76,Default,NTP,0000,0000,0000,,我讨厌猫\N{\rEnglish}I hate cats.
+Dialogue: 0,0:23:28.84,0:23:30.96,Default,NTP,0000,0000,0000,,所以才如此完美了\N{\rEnglish}That's what makes this so perfect.
+Dialogue: 0,0:23:32.68,0:23:34.12,Default,NTP,0000,0000,0000,,好吧\N{\rEnglish}All right.
+Dialogue: 0,0:23:34.20,0:23:35.92,Default,NTP,0000,0000,0000,,冷静\N{\rEnglish}Calm down.
+Dialogue: 0,0:23:36.00,0:23:38.65,Default,NTP,0000,0000,0000,,我以为爸爸会送给我一只小奶猫\N{\rEnglish}I thought Daddy would get me a kitten.
+Dialogue: 0,0:23:38.72,0:23:40.16,Default,NTP,0000,0000,0000,,它有点脏兮兮\N{\rEnglish}He is scruffy, isn't he?
+Dialogue: 0,0:23:40.84,0:23:42.36,Default,NTP,0000,0000,0000,,你要换一只吗\N{\rEnglish}What, you want to trade him in.
+Dialogue: 0,0:23:42.48,0:23:43.48,Default,NTP,0000,0000,0000,,不\N{\rEnglish}No!
+Dialogue: 0,0:23:43.56,0:23:45.08,Default,NTP,0000,0000,0000,,我也觉得你不会\N{\rEnglish}I didn't think so.
+Dialogue: 0,0:23:45.16,0:23:47.24,Default,NTP,0000,0000,0000,,欢迎到家  猫咪\N{\rEnglish}All right, welcome home, cat.
+Dialogue: 0,0:23:49.40,0:23:51.00,Default,NTP,0000,0000,0000,,可能我们应该让它自在点\N{\rEnglish}Maybe we should let him get comfortable.
+Dialogue: 0,0:23:51.08,0:23:53.84,Default,NTP,0000,0000,0000,,它想要探索新家\N{\rEnglish}He wants to explore.
+Dialogue: 0,0:23:54.00,0:23:56.44,Default,NTP,0000,0000,0000,,我今晚可以和你一起睡吗  妈妈\N{\rEnglish}Can I sleep with you tonight, Mommy?
+Dialogue: 0,0:23:57.20,0:23:58.56,Default,NTP,0000,0000,0000,,好  孩子\N{\rEnglish}Yeah, kiddo.
+Dialogue: 0,0:23:59.52,0:24:01.28,Default,NTP,0000,0000,0000,,你陪陪我也挺好\N{\rEnglish}I could use the company.
+Dialogue: 0,0:24:01.36,0:24:04.04,Default,NTP,0000,0000,0000,,留言  让她们知道这只猫就是我\N{\rEnglish}Message. Let them know I'm me.
+Dialogue: 0,0:24:04.12,0:24:05.16,Default,NTP,0000,0000,0000,,留个言\N{\rEnglish}Write a message.
+Dialogue: 0,0:24:05.24,0:24:06.60,Default,NTP,0000,0000,0000,,简单\N{\rEnglish}Simple.
+Dialogue: 0,0:24:06.68,0:24:08.72,Default,NTP,0000,0000,0000,,我是汤姆\N{\rEnglish}"Oh, hi, it's Tom.
+Dialogue: 0,0:24:08.84,0:24:10.12,Default,NTP,0000,0000,0000,,救我出来\N{\rEnglish}"Get me out of here."
+Dialogue: 0,0:24:10.20,0:24:13.96,Default,NTP,0000,0000,0000,,只需要几个单词\N{\rEnglish}Just need a few words.
+Dialogue: 0,0:24:14.04,0:24:15.53,Default,NTP,0000,0000,0000,,没什么难的\N{\rEnglish}Nothing complicated.
+Dialogue: 0,0:24:53.08,0:24:55.52,Default,NTP,0000,0000,0000,,亲爱的劳拉  不要惊慌  我是汤姆\N{\rEnglish}Dear Lara, don't panic. It's Tom.
+Dialogue: 0,0:24:55.60,0:24:57.96,Default,NTP,0000,0000,0000,,我被困在一只猫的身体里了\N{\rEnglish}I seem to be trapped in the body of a cat.
+Dialogue: 0,0:24:58.04,0:24:59.20,Default,NTP,0000,0000,0000,,这不是开玩笑\N{\rEnglish}This is not a joke.
+Dialogue: 0,0:24:59.28,0:25:01.36,Default,NTP,0000,0000,0000,,你亲爱的老公  汤姆\N{\rEnglish}Your loving husband, Tom.
+Dialogue: 0,0:25:04.48,0:25:06.00,Default,NTP,0000,0000,0000,,好吧  这样不行\N{\rEnglish}Okay, that didn't work.
+Dialogue: 0,0:25:06.08,0:25:08.40,Default,NTP,0000,0000,0000,,不过  对于一只猫来说已经不错了\N{\rEnglish}Although, not bad for a cat.
+Dialogue: 0,0:25:21.28,0:25:24.44,Default,NTP,0000,0000,0000,,讽刺的是  我现在真想玩鼠标\N{\rEnglish}Ironically, I could really use a mouse right now.
+Dialogue: 0,0:25:30.92,0:25:34.48,Default,NTP,0000,0000,0000,,妈妈  爸爸什么时候回家\N{\rEnglish}Mommy, when is Daddy gonna come home?
+Dialogue: 0,0:25:34.56,0:25:36.00,Default,NTP,0000,0000,0000,,他一醒过来  就会回来\N{\rEnglish}Just as soon as he wakes up.
+Dialogue: 0,0:25:36.12,0:25:38.44,Default,NTP,0000,0000,0000,,他们应该用一个大闹钟闹醒他\N{\rEnglish}They should use a really big alarm clock.
+Dialogue: 0,0:25:38.52,0:25:40.44,Default,NTP,0000,0000,0000,,你将来会成为一个好医生的\N{\rEnglish}You'd be a great doctor.
+Dialogue: 0,0:25:56.92,0:25:57.92,Default,NTP,0000,0000,0000,,你想要什么  猫咪\N{\rEnglish}What do you want, kitty?
+Dialogue: 0,0:25:58.00,0:26:01.56,Default,NTP,0000,0000,0000,,钱夹  加上  身份证  等于\N{\rEnglish}Money clip, plus license equals...
+Dialogue: 0,0:26:01.64,0:26:02.88,Default,NTP,0000,0000,0000,,我被困在猫里\N{\rEnglish}I'm stuck in a cat!
+Dialogue: 0,0:26:02.96,0:26:04.32,Default,NTP,0000,0000,0000,,它想要和我们一起玩\N{\rEnglish}He wants to play.
+Dialogue: 0,0:26:06.64,0:26:09.37,Default,NTP,0000,0000,0000,,抱歉  猫咪  我们要睡了\N{\rEnglish}Well, sorry, kitty. It is bedtime in here.
+Dialogue: 0,0:26:09.44,0:26:11.12,Default,NTP,0000,0000,0000,,我们明天可以一起玩\N{\rEnglish}But we can play tomorrow.
+Dialogue: 0,0:26:11.20,0:26:12.28,Default,NTP,0000,0000,0000,,明天\N{\rEnglish}Tomorrow?
+Dialogue: 0,0:26:16.00,0:26:17.08,Default,NTP,0000,0000,0000,,好吧\N{\rEnglish}Okay.
+Dialogue: 0,0:26:22.76,0:26:24.28,Default,NTP,0000,0000,0000,,我们刚才说到哪儿了\N{\rEnglish}Where were we?
+Dialogue: 0,0:28:18.96,0:28:22.24,Default,NTP,0000,0000,0000,,如果我在猫的身体里\N{\rEnglish}If I'm in a cat's body,
+Dialogue: 0,0:28:22.32,0:28:24.64,Default,NTP,0000,0000,0000,,那只猫在我身体里吗\N{\rEnglish}is a cat in my body?
+Dialogue: 0,0:28:27.80,0:28:29.96,Default,NTP,0000,0000,0000,,我一直都讨厌这块地毯\N{\rEnglish}I always hated that rug.
+Dialogue: 0,0:28:34.04,0:28:35.80,Default,NTP,0000,0000,0000,,这个苏格兰威士忌后劲真不赖\N{\rEnglish}This is good scotch.
+Dialogue: 0,0:29:01.40,0:29:02.40,Default,NTP,0000,0000,0000,,昨晚很难熬\N{\rEnglish}Rough night?
+Dialogue: 0,0:29:02.48,0:29:04.36,Default,NTP,0000,0000,0000,,没有  我只是在沉思\N{\rEnglish}No. I was just contemplating
+Dialogue: 0,0:29:04.44,0:29:07.12,Default,NTP,0000,0000,0000,,如何以猫的身体度过余生\N{\rEnglish}the rest of my life as a cat.
+Dialogue: 0,0:29:15.56,0:29:17.28,Default,NTP,0000,0000,0000,,好吧\N{\rEnglish}Okay.
+Dialogue: 0,0:29:17.40,0:29:19.05,Default,NTP,0000,0000,0000,,天哪\N{\rEnglish}Jesus!
+Dialogue: 0,0:29:19.24,0:29:20.84,Default,NTP,0000,0000,0000,,你饿了吗\N{\rEnglish}Who's hungry?
+Dialogue: 0,0:29:30.52,0:29:31.52,Default,NTP,0000,0000,0000,,很好吃哦\N{\rEnglish}Yum yum.
+Dialogue: 0,0:29:37.68,0:29:39.76,Default,NTP,0000,0000,0000,,我看了就饱了\N{\rEnglish}Looks like a cat already ate this.
+Dialogue: 0,0:29:39.88,0:29:41.56,Default,NTP,0000,0000,0000,,祝你有个好胃口\N{\rEnglish}Bon appetit.
+Dialogue: 0,0:29:41.64,0:29:43.60,Default,NTP,0000,0000,0000,,法国人  他们就会卖这些东西\N{\rEnglish}French. That'll sell this stuff.
+Dialogue: 0,0:29:51.88,0:29:53.21,Default,NTP,0000,0000,0000,,好了\N{\rEnglish}All right.
+Dialogue: 0,0:29:56.44,0:29:57.64,Default,NTP,0000,0000,0000,,这是你的猫厕所\N{\rEnglish}There's your litter box.
+Dialogue: 0,0:29:57.72,0:29:59.56,Default,NTP,0000,0000,0000,,不用了  我有那块地毯了\N{\rEnglish}No, thank you, I have the rug.
+Dialogue: 0,0:30:04.55,0:30:06.60,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}留给爸爸
+Dialogue: 0,0:30:11.60,0:30:13.64,Default,NTP,0000,0000,0000,,我当时有事才没来的\N{\rEnglish}I had a really good excuse.
+Dialogue: 0,0:30:15.60,0:30:17.60,Default,NTP,0000,0000,0000,,现在她泪闸要开了\N{\rEnglish}Here come the floodgates.
+Dialogue: 0,0:30:21.40,0:30:23.97,Default,NTP,0000,0000,0000,,你可能觉得我为了一块蛋糕就哭  好像疯了\N{\rEnglish}You probably think I'm crazy crying over a piece of cake.
+Dialogue: 0,0:30:24.04,0:30:26.52,Default,NTP,0000,0000,0000,,也可能是为了你的丈夫还在医院里昏迷\N{\rEnglish}Or that your husband's in the hospital in a coma.
+Dialogue: 0,0:30:26.60,0:30:28.36,Default,NTP,0000,0000,0000,,他会醒过来的\N{\rEnglish}He's gonna wake up.
+Dialogue: 0,0:30:29.28,0:30:30.32,Default,NTP,0000,0000,0000,,对吧\N{\rEnglish}Right?
+Dialogue: 0,0:30:30.96,0:30:33.28,Default,NTP,0000,0000,0000,,我一定要去找那个叫珀金斯的\N{\rEnglish}Oh, I really gotta find that Perkins guy.
+Dialogue: 0,0:30:36.92,0:30:38.49,Default,NTP,0000,0000,0000,,宿醉中\N{\rEnglish}Hangover!
+Dialogue: 0,0:30:40.60,0:30:42.12,Default,NTP,0000,0000,0000,,你好  猫咪\N{\rEnglish}Hello, kitty.
+Dialogue: 0,0:30:42.44,0:30:43.80,Default,NTP,0000,0000,0000,,我们该叫你什么名字\N{\rEnglish}What should we call you?
+Dialogue: 0,0:30:45.32,0:30:47.89,Default,NTP,0000,0000,0000,,这是你的名字吗  毛绒裤先生\N{\rEnglish}Is that your name? Mister Fuzzypants?
+Dialogue: 0,0:30:47.96,0:30:49.29,Default,NTP,0000,0000,0000,,可恨的因果报应\N{\rEnglish}I hate karma.
+Dialogue: 0,0:30:49.40,0:30:51.92,Default,NTP,0000,0000,0000,,你是我得到过最棒的礼物\N{\rEnglish}You're the best gift I ever got.
+Dialogue: 0,0:30:53.00,0:30:54.44,Default,NTP,0000,0000,0000,,不  太贴心了\N{\rEnglish}No, too sweet.
+Dialogue: 0,0:30:55.56,0:30:57.28,Default,NTP,0000,0000,0000,,一点也不好笑\N{\rEnglish}That wasn't funny.
+Dialogue: 0,0:30:59.12,0:31:00.64,Default,NTP,0000,0000,0000,,那你们俩在笑什么\N{\rEnglish}What are you two laughing at?
+Dialogue: 0,0:31:00.72,0:31:02.88,Default,NTP,0000,0000,0000,,我没觉得好笑\N{\rEnglish}I don't think it's funny.
+Dialogue: 0,0:31:02.96,0:31:04.16,Default,NTP,0000,0000,0000,,明白吗  这就是我的观点\N{\rEnglish}See, this is my point of view.
+Dialogue: 0,0:31:04.24,0:31:07.05,Default,NTP,0000,0000,0000,,我们不需要增加高度  而是要使用一些策略\N{\rEnglish}We don't need high rises, we need strategic growth.
+Dialogue: 0,0:31:07.12,0:31:08.36,Default,NTP,0000,0000,0000,,我们说的就是这个意思\N{\rEnglish}And that's what we've all been saying.
+Dialogue: 0,0:31:08.44,0:31:10.68,Default,NTP,0000,0000,0000,,我们现在根本不应该讨论这些\N{\rEnglish}We shouldn't even be talking about this now.
+Dialogue: 0,0:31:10.76,0:31:12.00,Default,NTP,0000,0000,0000,,我们面对的并非危机\N{\rEnglish}This isn't a crisis.
+Dialogue: 0,0:31:12.08,0:31:13.76,Default,NTP,0000,0000,0000,,而是机遇\N{\rEnglish}This is an opportunity.
+Dialogue: 0,0:31:31.12,0:31:32.16,Default,NTP,0000,0000,0000,,怎么了\N{\rEnglish}What?
+Dialogue: 0,0:31:36.00,0:31:37.12,Default,NTP,0000,0000,0000,,你想要什么\N{\rEnglish}What do you need?
+Dialogue: 0,0:31:50.32,0:31:52.28,Default,NTP,0000,0000,0000,,想吃东西的话  去猫食盆里找\N{\rEnglish}If you want food, it's in the bowl.
+Dialogue: 0,0:31:48.25,0:31:52.34,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}我不是我\N我是人
+Dialogue: 0,0:31:56.88,0:31:58.04,Default,NTP,0000,0000,0000,,是吃果味麦片\N{\rEnglish}Fruity Pebbles
+Dialogue: 0,0:31:59.04,0:32:01.69,Default,NTP,0000,0000,0000,,还是吃那个\N{\rEnglish}or that?
+Dialogue: 0,0:32:05.04,0:32:06.12,Default,NTP,0000,0000,0000,,就吃果味麦片\N{\rEnglish}Fruity Pebbles.
+Dialogue: 0,0:32:13.20,0:32:16.80,Default,NTP,0000,0000,0000,,我是猫  我是猫  我是猫  我是猫\N{\rEnglish}Be the cat, be the cat, be the cat, be the cat, be the cat!
+Dialogue: 0,0:32:19.40,0:32:20.40,Default,NTP,0000,0000,0000,,很优雅\N{\rEnglish}Graceful.
+Dialogue: 0,0:32:21.52,0:32:22.85,Default,NTP,0000,0000,0000,,是吗  你来试试\N{\rEnglish}Yeah? You try it.
+Dialogue: 0,0:32:37.28,0:32:40.32,Default,NTP,0000,0000,0000,,成功登陆\N{\rEnglish}And, nailed it!
+Dialogue: 0,0:32:41.12,0:32:42.16,Default,NTP,0000,0000,0000,,我也打电话给你妈妈了\N{\rEnglish}I called your mom, too.
+Dialogue: 0,0:32:42.24,0:32:43.84,Default,NTP,0000,0000,0000,,我只是希望把大家聚在一起\N{\rEnglish}I just wanted to get everyone together.
+Dialogue: 0,0:32:43.92,0:32:45.12,Default,NTP,0000,0000,0000,,味道真诱人\N{\rEnglish}Well, it smells great.
+Dialogue: 0,0:32:45.20,0:32:46.85,Default,NTP,0000,0000,0000,,你在做什么吃的\N{\rEnglish}What are you cooking?
+Dialogue: 0,0:32:48.48,0:32:50.32,Default,NTP,0000,0000,0000,,烤全猫\N{\rEnglish}Roast cat.
+Dialogue: 0,0:32:50.68,0:32:52.72,Default,NTP,0000,0000,0000,,估计它的脑袋刚才摔坏了\N{\rEnglish}Maybe its head got screwed up in the fall.
+Dialogue: 0,0:32:52.80,0:32:54.32,Default,NTP,0000,0000,0000,,它是个酒鬼  不肯吃东西\N{\rEnglish}He's an alcoholic. I can't get him to eat,
+Dialogue: 0,0:32:54.40,0:32:55.64,Default,NTP,0000,0000,0000,,可我却发现装着五十年麦卡伦的\N{\rEnglish}but I found an empty decanter,
+Dialogue: 0,0:32:55.72,0:32:57.60,Default,NTP,0000,0000,0000,,酒瓶空空如也  上面沾满了猫毛\N{\rEnglish}of 50-year-old Macallan with fur all over it.
+Dialogue: 0,0:32:57.68,0:32:59.33,Default,NTP,0000,0000,0000,,至少它品味还不错\N{\rEnglish}Well, at least he has good taste.
+Dialogue: 0,0:32:59.40,0:33:01.64,Default,NTP,0000,0000,0000,,也许我应该在它的食物里掺点苏格兰威士忌\N{\rEnglish}Maybe I should mix scotch into his food.
+Dialogue: 0,0:33:01.72,0:33:02.84,Default,NTP,0000,0000,0000,,我能用一下爸爸的办公室吗\N{\rEnglish}Can I use Dad's office for a bit?
+Dialogue: 0,0:33:02.92,0:33:03.96,Default,NTP,0000,0000,0000,,当然  怎么了\N{\rEnglish}Yeah, what's up?
+Dialogue: 0,0:33:04.04,0:33:05.69,Default,NTP,0000,0000,0000,,我想看看我还能做些什么\N{\rEnglish}I just want to see if I can find anything else
+Dialogue: 0,0:33:05.76,0:33:07.64,Default,NTP,0000,0000,0000,,来扭转这整个芝加哥的...\N{\rEnglish}that might help me with this whole Chicago...
+Dialogue: 0,0:33:09.48,0:33:11.52,Default,NTP,0000,0000,0000,,猫可以做核磁共振吗\N{\rEnglish}Do they make MRIs for cats?
+Dialogue: 0,0:33:11.88,0:33:13.40,Default,NTP,0000,0000,0000,,你是指CAT扫描[层状扫描]吗\N{\rEnglish}You mean CAT scans?
+Dialogue: 0,0:33:14.56,0:33:16.40,Default,NTP,0000,0000,0000,,我掉在刀上就好了\N{\rEnglish}I should have landed on the knives.
+Dialogue: 0,0:33:18.20,0:33:19.61,Default,NTP,0000,0000,0000,,我去办公室了\N{\rEnglish}I'll be in the office.
+Dialogue: 0,0:33:26.40,0:33:27.73,Default,NTP,0000,0000,0000,,你好\N{\rEnglish}Hi.
+Dialogue: 0,0:33:35.04,0:33:36.08,Default,NTP,0000,0000,0000,,难道\N{\rEnglish}So,
+Dialogue: 0,0:33:36.20,0:33:37.53,Default,NTP,0000,0000,0000,,你现在跟爸爸一样了吗\N{\rEnglish}are you like Dad now?
+Dialogue: 0,0:33:37.96,0:33:39.00,Default,NTP,0000,0000,0000,,你想说什么\N{\rEnglish}What do you mean?
+Dialogue: 0,0:33:39.12,0:33:40.53,Default,NTP,0000,0000,0000,,你成为公司的总裁了吗\N{\rEnglish}Are you president of the company?
+Dialogue: 0,0:33:41.16,0:33:44.05,Default,NTP,0000,0000,0000,,不  我的工作没变化  只是没有爸爸在了\N{\rEnglish}No, I'm doing the same job, just without Dad.
+Dialogue: 0,0:33:44.68,0:33:46.04,Default,NTP,0000,0000,0000,,你过会儿能出来吗\N{\rEnglish}Can you come out soon?
+Dialogue: 0,0:33:46.12,0:33:47.61,Default,NTP,0000,0000,0000,,可以  马上就来\N{\rEnglish}Yeah, in a minute.
+Dialogue: 0,0:33:47.76,0:33:49.92,Default,NTP,0000,0000,0000,,你真是像极了爸爸\N{\rEnglish}You're so totally like Dad.
+Dialogue: 0,0:33:54.04,0:33:55.32,Default,NTP,0000,0000,0000,,劳拉\N{\rEnglish}Lara!
+Dialogue: 0,0:33:55.40,0:33:57.76,Default,NTP,0000,0000,0000,,这下可好  "撒旦"过来吃晚饭了\N{\rEnglish}Oh, good! Satan's over for dinner.
+Dialogue: 0,0:33:58.36,0:33:59.40,Default,NTP,0000,0000,0000,,汤姆的事我很抱歉\N{\rEnglish}So sorry about Tom.
+Dialogue: 0,0:33:59.40,0:34:01.36,Default,NTP,0000,0000,0000,,我一直以为他会因为跳伞出事\N{\rEnglish}I always thought it would be skydiving,
+Dialogue: 0,0:34:01.44,0:34:02.88,Default,NTP,0000,0000,0000,,或者他的秘书会带着\N{\rEnglish}or that his secretary would just snap
+Dialogue: 0,0:34:02.96,0:34:04.45,Default,NTP,0000,0000,0000,,一支乌兹冲锋枪冲到办公室\N{\rEnglish}and bring an Uzi to the office.
+Dialogue: 0,0:34:04.60,0:34:06.80,Default,NTP,0000,0000,0000,,我还觉得你会因肉毒素过量而死呢\N{\rEnglish}I thought you'd die from a Botox overdose.
+Dialogue: 0,0:34:07.08,0:34:08.73,Default,NTP,0000,0000,0000,,你把狗带来了\N{\rEnglish}Oh, you brought the dogs.
+Dialogue: 0,0:34:09.84,0:34:11.28,Default,NTP,0000,0000,0000,,公主  珍妮特\N{\rEnglish}Princess, Jeanette!
+Dialogue: 0,0:34:21.96,0:34:24.85,Default,NTP,0000,0000,0000,,你知道汤姆昏迷了吧  你可以休息一个晚上\N{\rEnglish}You know Tom's unconscious, right? You can take the night off.
+Dialogue: 0,0:34:24.92,0:34:26.84,Default,NTP,0000,0000,0000,,是啊  可总得有人继续干活啊\N{\rEnglish}Yeah, well, someone has to keep things going.
+Dialogue: 0,0:34:26.96,0:34:29.44,Default,NTP,0000,0000,0000,,我永远搞不懂你为什么要为他工作\N{\rEnglish}I never understood why you wanted to work for him anyway.
+Dialogue: 0,0:34:29.52,0:34:31.36,Default,NTP,0000,0000,0000,,妈  你能不和我说话...\N{\rEnglish}Mom, if we could not talk...
+Dialogue: 0,0:34:31.44,0:34:33.48,Default,NTP,0000,0000,0000,,喝这个可不健康\N{\rEnglish}This isn't healthy.
+Dialogue: 0,0:34:51.12,0:34:52.77,Default,NTP,0000,0000,0000,,治疗悲伤的心灵鸡汤\N{\rEnglish}Chicken soup for grief.
+Dialogue: 0,0:35:05.44,0:35:06.85,Default,NTP,0000,0000,0000,,别追了  走开\N{\rEnglish}Stop it. Get out of here.
+Dialogue: 0,0:35:08.68,0:35:09.68,Default,NTP,0000,0000,0000,,坐下\N{\rEnglish}Heel!
+Dialogue: 0,0:35:11.04,0:35:13.20,Default,NTP,0000,0000,0000,,你能把它们带走吗  它们吓到它了\N{\rEnglish}Can you please take them away? They're really scaring him.
+Dialogue: 0,0:35:13.28,0:35:15.80,Default,NTP,0000,0000,0000,,它们对其他动物特别敏感\N{\rEnglish}They have a very strong sense about other animals.
+Dialogue: 0,0:35:15.88,0:35:17.88,Default,NTP,0000,0000,0000,,-你爸爸从哪里把它弄来的  -怎么了\N{\rEnglish}- Where'd your dad get him? - Why?
+Dialogue: 0,0:35:17.96,0:35:20.00,Default,NTP,0000,0000,0000,,他不会是从大街上捡回来的吧\N{\rEnglish}Well, did he just pick him up off the streets?
+Dialogue: 0,0:35:20.08,0:35:21.76,Default,NTP,0000,0000,0000,,它只是毛有些乱而已\N{\rEnglish}He's just a little messy.
+Dialogue: 0,0:35:21.88,0:35:24.00,Default,NTP,0000,0000,0000,,我知道你不开心  因为你爸爸快死了\N{\rEnglish}I know you're upset because your dad's dying...
+Dialogue: 0,0:35:24.28,0:35:26.88,Default,NTP,0000,0000,0000,,他不会死的  他只是昏迷\N{\rEnglish}He's not dying. He's just unconscious.
+Dialogue: 0,0:35:27.00,0:35:27.88,Default,NTP,0000,0000,0000,,我妈妈说了  你妈妈\N{\rEnglish}My mom says your mom
+Dialogue: 0,0:35:27.89,0:35:29.89,Default,NTP,0000,0000,0000,,应该客观面对他的情况\N{\rEnglish}should be more realistic about his condition.
+Dialogue: 0,0:35:31.64,0:35:33.40,Default,NTP,0000,0000,0000,,公主  珍妮特  坐下\N{\rEnglish}Princess, Jeanette, heel!
+Dialogue: 0,0:35:35.32,0:35:36.84,Default,NTP,0000,0000,0000,,T\N{\rEnglish}T
+Dialogue: 0,0:35:37.32,0:35:39.16,Default,NTP,0000,0000,0000,,O\N{\rEnglish}O
+Dialogue: 0,0:35:39.56,0:35:40.72,Default,NTP,0000,0000,0000,,M\N{\rEnglish}M.
+Dialogue: 0,0:35:41.20,0:35:43.63,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}汤姆
+Dialogue: 0,0:35:41.15,0:35:43.01,Default,NTP,0000,0000,0000,,汤姆\N{\rEnglish}Tom
+Dialogue: 0,0:35:44.20,0:35:45.88,Default,NTP,0000,0000,0000,,麦迪逊  大卫  丽贝卡  妮可\N{\rEnglish}Madison, David, Rebecca, Nicole.
+Dialogue: 0,0:35:47.12,0:35:48.12,Default,NTP,0000,0000,0000,,什么\N{\rEnglish}What?
+Dialogue: 0,0:35:48.40,0:35:49.68,Default,NTP,0000,0000,0000,,我给汤姆留了个位子\N{\rEnglish}I set a place for Tom.
+Dialogue: 0,0:35:50.04,0:35:51.27,Default,NTP,0000,0000,0000,,这可是个怪异的习惯\N{\rEnglish}Well, that's a weird habit.
+Dialogue: 0,0:35:51.27,0:35:53.24,Default,NTP,0000,0000,0000,,他应该通常不在家吃晚饭吧\N{\rEnglish}It's not like he's usually here for dinner.
+Dialogue: 0,0:35:53.60,0:35:55.04,Default,NTP,0000,0000,0000,,麦迪逊  别在今晚说这些\N{\rEnglish}Madison, not tonight.
+Dialogue: 0,0:35:55.24,0:35:57.48,Default,NTP,0000,0000,0000,,就算他在  我也是这么说\N{\rEnglish}I'd say the same thing if he were here.
+Dialogue: 0,0:35:57.56,0:35:59.00,Default,NTP,0000,0000,0000,,是啊  所以没有人喜欢你\N{\rEnglish}Yes, that's why nobody likes you.
+Dialogue: 0,0:35:59.08,0:36:01.16,Default,NTP,0000,0000,0000,,但你一直去找乔什总是有原因的\N{\rEnglish}But there's a reason you've been seeing Josh.
+Dialogue: 0,0:36:01.24,0:36:02.28,Default,NTP,0000,0000,0000,,乔什\N{\rEnglish}Josh?
+Dialogue: 0,0:36:02.36,0:36:04.01,Default,NTP,0000,0000,0000,,我现在可不愿想那事\N{\rEnglish}Oh, I can't even think about that right now.
+Dialogue: 0,0:36:04.08,0:36:07.16,Default,NTP,0000,0000,0000,,现在正是大好时机  汤姆不可能发现了\N{\rEnglish}Now's the perfect time. It's not like Tom could catch you.
+Dialogue: 0,0:36:09.96,0:36:11.40,Default,NTP,0000,0000,0000,,谁还需要猫砂盆吗\N{\rEnglish}Who needs a litter box?
+Dialogue: 0,0:36:22.44,0:36:25.68,Default,NTP,0000,0000,0000,,麦迪逊  我是一只坏坏猫\N{\rEnglish}Oh, Madison? I've been a bad kitty.
+Dialogue: 0,0:36:27.28,0:36:28.93,Default,NTP,0000,0000,0000,,你...\N{\rEnglish}Hey! You...
+Dialogue: 0,0:36:34.56,0:36:35.97,Default,NTP,0000,0000,0000,,停下来\N{\rEnglish}Cheese!
+Dialogue: 0,0:36:48.28,0:36:49.88,Default,NTP,0000,0000,0000,,真是抱歉\N{\rEnglish}Sorry, everybody.
+Dialogue: 0,0:36:50.80,0:36:51.84,Default,NTP,0000,0000,0000,,-等等  -怎么了\N{\rEnglish}- Wait. - What?
+Dialogue: 0,0:36:52.32,0:36:54.80,Default,NTP,0000,0000,0000,,没什么  我还以为我看到了...没事\N{\rEnglish}Nothing, I just thought I saw... Nothing. It's okay.
+Dialogue: 0,0:36:55.00,0:36:57.08,Default,NTP,0000,0000,0000,,劳拉  快把那只猫杀了\N{\rEnglish}Lara, that cat needs to be put down.
+Dialogue: 0,0:36:58.32,0:36:59.56,Default,NTP,0000,0000,0000,,我给你买个新包  麦迪逊\N{\rEnglish}I'll buy you a new bag, Madison.
+Dialogue: 0,0:36:59.64,0:37:02.76,Default,NTP,0000,0000,0000,,找个训猫师  或者猫语者什么的  我不管\N{\rEnglish}Hire a trainer, a cat whisperer, I don't care.
+Dialogue: 0,0:37:03.40,0:37:05.16,Default,NTP,0000,0000,0000,,我来给你开瓶新的马丁尼酒\N{\rEnglish}Let's get you a new martini.
+Dialogue: 0,0:37:05.52,0:37:06.60,Default,NTP,0000,0000,0000,,好的\N{\rEnglish}Yes.
+Dialogue: 0,0:37:06.80,0:37:09.88,Default,NTP,0000,0000,0000,,总得有人说说这空椅子的事吧\N{\rEnglish}Well, someone's gotta talk about the empty chair.
+Dialogue: 0,0:37:10.64,0:37:11.84,Default,NTP,0000,0000,0000,,我们是不是该说段祝酒词\N{\rEnglish}Should we do toasts?
+Dialogue: 0,0:37:11.84,0:37:13.04,Default,NTP,0000,0000,0000,,这又不是守灵  妈\N{\rEnglish}It's not a wake, Mom.
+Dialogue: 0,0:37:13.36,0:37:15.32,Default,NTP,0000,0000,0000,,这不是汤姆第一次进医院了\N{\rEnglish}This isn't Tom's first time in the hospital.
+Dialogue: 0,0:37:15.64,0:37:17.48,Default,NTP,0000,0000,0000,,还记得他成立航空公司那会儿吗\N{\rEnglish}Remember when he launched the airline?
+Dialogue: 0,0:37:17.56,0:37:19.60,Default,NTP,0000,0000,0000,,他总是在打电话  不眠不休\N{\rEnglish}He was always on the phone, never slept.
+Dialogue: 0,0:37:19.68,0:37:20.92,Default,NTP,0000,0000,0000,,还记得你问我什么\N{\rEnglish}You know what you asked me?
+Dialogue: 0,0:37:21.00,0:37:22.04,Default,NTP,0000,0000,0000,,吸血鬼\N{\rEnglish}Vampire.
+Dialogue: 0,0:37:22.12,0:37:23.77,Default,NTP,0000,0000,0000,,为什么爸爸是个吸血鬼\N{\rEnglish}Why is Daddy a vampire?
+Dialogue: 0,0:37:24.00,0:37:26.36,Default,NTP,0000,0000,0000,,因为妈妈把他的血吸干了\N{\rEnglish}Because Mommy sucked all his blood.
+Dialogue: 0,0:37:26.44,0:37:28.16,Default,NTP,0000,0000,0000,,他通宵达旦地工作\N{\rEnglish}He'd stay awake all night working out,
+Dialogue: 0,0:37:28.24,0:37:30.92,Default,NTP,0000,0000,0000,,然后有一天  他在跑步机上跑步时就睡着了\N{\rEnglish}and then one day, he just fell asleep on a moving treadmill.
+Dialogue: 0,0:37:31.00,0:37:32.72,Default,NTP,0000,0000,0000,,他在医院呆了一周\N{\rEnglish}He was in the hospital for a week.
+Dialogue: 0,0:37:33.12,0:37:34.80,Default,NTP,0000,0000,0000,,那是我最棒的假期\N{\rEnglish}Best vacation I ever had.
+Dialogue: 0,0:37:34.88,0:37:36.84,Default,NTP,0000,0000,0000,,有时我在凌晨四点醒来  发现他在阳台上\N{\rEnglish}I'd wake up and find him on the balcony at 4:00 A.M.
+Dialogue: 0,0:37:36.92,0:37:38.76,Default,NTP,0000,0000,0000,,呆呆地望着他的大厦\N{\rEnglish}just staring at his tower.
+Dialogue: 0,0:37:38.84,0:37:39.88,Default,NTP,0000,0000,0000,,我得为汤姆说句话\N{\rEnglish}I'll say this for Tom.
+Dialogue: 0,0:37:39.96,0:37:41.12,Default,NTP,0000,0000,0000,,他从来没有其他女人\N{\rEnglish}There was never another woman.
+Dialogue: 0,0:37:41.20,0:37:42.36,Default,NTP,0000,0000,0000,,和我在一起时  是航空公司\N{\rEnglish}With me, it was an airline.
+Dialogue: 0,0:37:42.44,0:37:44.44,Default,NTP,0000,0000,0000,,和你在一起时  是摩天大厦\N{\rEnglish}With you, it's a big skyscraper.
+Dialogue: 0,0:37:44.52,0:37:45.93,Default,NTP,0000,0000,0000,,今晚听到的话都别当真\N{\rEnglish}Ignore everything you hear tonight.
+Dialogue: 0,0:37:46.12,0:37:47.96,Default,NTP,0000,0000,0000,,别拿我做榜样  丽贝卡\N{\rEnglish}I'm not a role model, Rebecca.
+Dialogue: 0,0:37:48.04,0:37:49.37,Default,NTP,0000,0000,0000,,你已经习惯了\N{\rEnglish}You're used to it.
+Dialogue: 0,0:37:49.60,0:37:51.20,Default,NTP,0000,0000,0000,,说段祝酒词吧\N{\rEnglish}How about that toast?
+Dialogue: 0,0:37:51.44,0:37:53.68,Default,NTP,0000,0000,0000,,-祝爸爸早日醒过来  -我们想念你\N{\rEnglish}- To Dad. Wake up soon. - We miss you.
+Dialogue: 0,0:37:53.84,0:37:55.36,Default,NTP,0000,0000,0000,,或者说你的大厦想念你\N{\rEnglish}Or your tower misses you.
+Dialogue: 0,0:38:09.88,0:38:11.24,Default,NTP,0000,0000,0000,,睡得好吗\N{\rEnglish}Sleep well?
+Dialogue: 0,0:38:12.36,0:38:14.06,Default,NTP,0000,0000,0000,,丽贝卡·艾莉森·布兰德\N{\rEnglish}Rebecca Alison Brand,
+Dialogue: 0,0:38:14.06,0:38:15.76,Default,NTP,0000,0000,0000,,你的猫把黄页给毁了\N{\rEnglish}your cat destroyed the yellow pages!
+Dialogue: 0,0:38:15.88,0:38:17.53,Default,NTP,0000,0000,0000,,黄页是什么\N{\rEnglish}What's a yellow pages?
+Dialogue: 0,0:38:38.71,0:38:41.70,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}喵金斯宠物店\N出售宠物\N食物和用品\N猫咪寄放\N行为训练\N咨询
+Dialogue: 0,0:38:44.48,0:38:45.84,Default,NTP,0000,0000,0000,,你买的那只猫\N{\rEnglish}That cat you got,
+Dialogue: 0,0:38:45.92,0:38:46.88,Default,NTP,0000,0000,0000,,幸亏你这会儿在医院里\N{\rEnglish}he's lucky you're in here
+Dialogue: 0,0:38:46.96,0:38:48.61,Default,NTP,0000,0000,0000,,不然你已经把它给宰了\N{\rEnglish}or you'd have killed him by now.
+Dialogue: 0,0:38:48.72,0:38:50.00,Default,NTP,0000,0000,0000,,我有个计划可以击败芝加哥\N{\rEnglish}I got a plan to beat Chicago.
+Dialogue: 0,0:38:50.08,0:38:51.92,Default,NTP,0000,0000,0000,,就等董事会接受这个计划了\N{\rEnglish}I just need to sell it to the Board.
+Dialogue: 0,0:38:52.24,0:38:54.64,Default,NTP,0000,0000,0000,,等你醒过来  我们可能已经成为第一名了\N{\rEnglish}When you wake up, we might be number one.
+Dialogue: 0,0:38:56.00,0:38:57.20,Default,NTP,0000,0000,0000,,我们一定会尽力的\N{\rEnglish}We're doing the best that we can do.
+Dialogue: 0,0:38:57.28,0:38:58.88,Default,NTP,0000,0000,0000,,好  非常感谢\N{\rEnglish}Okay. Thank you so much.
+Dialogue: 0,0:39:04.68,0:39:05.92,Default,NTP,0000,0000,0000,,你在这儿干什么\N{\rEnglish}What are you doing here?
+Dialogue: 0,0:39:06.00,0:39:08.28,Default,NTP,0000,0000,0000,,我的手腕扭了  所以才拉不住你爸爸\N{\rEnglish}Sprained my wrist. That's why I couldn't hold on to your Dad.
+Dialogue: 0,0:39:08.36,0:39:10.28,Default,NTP,0000,0000,0000,,你来找我爸的神经科医生看手腕\N{\rEnglish}You're seeing my Dad's neurologist about your wrist?
+Dialogue: 0,0:39:10.36,0:39:11.52,Default,NTP,0000,0000,0000,,董事会需要他最新的身体状况\N{\rEnglish}The Board needs updates on his status.
+Dialogue: 0,0:39:11.60,0:39:12.76,Default,NTP,0000,0000,0000,,那问我啊\N{\rEnglish}So ask me.
+Dialogue: 0,0:39:12.84,0:39:15.16,Default,NTP,0000,0000,0000,,我们不会从悲痛丧父的人那里听取医疗建议的\N{\rEnglish}We're not going to take medical advice from the grieving son.
+Dialogue: 0,0:39:15.24,0:39:16.48,Default,NTP,0000,0000,0000,,现在是公司的巨大转型\N{\rEnglish}It's a massive transition for the company.
+Dialogue: 0,0:39:16.56,0:39:17.68,Default,NTP,0000,0000,0000,,什么转型\N{\rEnglish}What transition?
+Dialogue: 0,0:39:17.76,0:39:20.20,Default,NTP,0000,0000,0000,,办公室的大日子  祝你与董事会沟通顺利\N{\rEnglish}Big day at the office. Good luck with the Board.
+Dialogue: 0,0:39:22.60,0:39:23.88,Default,NTP,0000,0000,0000,,我们差了那么多\N{\rEnglish}We're losing by that much.
+Dialogue: 0,0:39:23.96,0:39:25.40,Default,NTP,0000,0000,0000,,再多20米  我们就第一了\N{\rEnglish}We get 70 feet, we're number one.
+Dialogue: 0,0:39:25.48,0:39:27.56,Default,NTP,0000,0000,0000,,我们现在的结构不能支撑再多一层\N{\rEnglish}Now, our structure can't support another floor,
+Dialogue: 0,0:39:27.64,0:39:28.92,Default,NTP,0000,0000,0000,,可惜我们也不能\N{\rEnglish}and unfortunately we can't
+Dialogue: 0,0:39:28.92,0:39:31.00,Default,NTP,0000,0000,0000,,偷运一个大铁锤进芝加哥\N{\rEnglish}just smuggle a wrecking ball into Chicago,
+Dialogue: 0,0:39:31.08,0:39:32.65,Default,NTP,0000,0000,0000,,所以我们需要减重\N{\rEnglish}so we need to shed weight.
+Dialogue: 0,0:39:32.72,0:39:33.84,Default,NTP,0000,0000,0000,,我还以为我们要建高一些\N{\rEnglish}I thought we were making it taller.
+Dialogue: 0,0:39:34.44,0:39:35.96,Default,NTP,0000,0000,0000,,我们拆掉一层\N{\rEnglish}We lose one floor,
+Dialogue: 0,0:39:36.36,0:39:37.56,Default,NTP,0000,0000,0000,,能换来这个\N{\rEnglish}it buys us this.
+Dialogue: 0,0:39:37.64,0:39:38.88,Default,NTP,0000,0000,0000,,那会塌的\N{\rEnglish}That's gonna collapse.
+Dialogue: 0,0:39:38.96,0:39:40.08,Default,NTP,0000,0000,0000,,用钛合金就不会\N{\rEnglish}Not if we use titanium.
+Dialogue: 0,0:39:40.16,0:39:41.36,Default,NTP,0000,0000,0000,,怎么不用黄金呢\N{\rEnglish}Why don't we just build it out of gold?
+Dialogue: 0,0:39:41.48,0:39:43.32,Default,NTP,0000,0000,0000,,它和钢一样硬  但重量只有一半\N{\rEnglish}It's as strong as steel and half the weight.
+Dialogue: 0,0:39:43.44,0:39:45.76,Default,NTP,0000,0000,0000,,我不知道你在解决什么问题\N{\rEnglish}I don't know what problem you're trying to solve here.
+Dialogue: 0,0:39:45.84,0:39:46.84,Default,NTP,0000,0000,0000,,什么意思\N{\rEnglish}Excuse me?
+Dialogue: 0,0:39:46.96,0:39:49.24,Default,NTP,0000,0000,0000,,这里是曼哈顿的核心地产\N{\rEnglish}This is a stack of prime real estate in Manhattan.
+Dialogue: 0,0:39:49.32,0:39:50.73,Default,NTP,0000,0000,0000,,一个金字塔攀爬顶可收不了租金\N{\rEnglish}We can't charge rent on a jungle gym.
+Dialogue: 0,0:39:50.80,0:39:52.48,Default,NTP,0000,0000,0000,,我父亲建造北半球最高的楼\N{\rEnglish}My father didn't build the tallest skyscraper
+Dialogue: 0,0:39:52.56,0:39:54.68,Default,NTP,0000,0000,0000,,不是为了一点点租金\N{\rEnglish}in the Northern Hemisphere for a little rent money.
+Dialogue: 0,0:39:54.76,0:39:56.17,Default,NTP,0000,0000,0000,,它不是最高的楼\N{\rEnglish}It's not the tallest skyscraper.
+Dialogue: 0,0:39:56.32,0:39:57.73,Default,NTP,0000,0000,0000,,因为你搞砸了\N{\rEnglish}Because you screwed up.
+Dialogue: 0,0:40:01.28,0:40:02.65,Default,NTP,0000,0000,0000,,听着  如果汤姆在这里\N{\rEnglish}Look. If Tom were here,
+Dialogue: 0,0:40:02.65,0:40:05.17,Default,NTP,0000,0000,0000,,你知道他绝对会这么做\N{\rEnglish}you know this is exactly what he would do.
+Dialogue: 0,0:40:05.24,0:40:08.24,Default,NTP,0000,0000,0000,,我很钦佩你如此尊重你父亲的想法  大卫\N{\rEnglish}I appreciate that you want to honor your father, David.
+Dialogue: 0,0:40:08.32,0:40:09.48,Default,NTP,0000,0000,0000,,我们得注意账目\N{\rEnglish}We need to watch the books.
+Dialogue: 0,0:40:09.56,0:40:12.84,Default,NTP,0000,0000,0000,,公司不能总是把钱花在汤姆的玩乐项目上\N{\rEnglish}Our company can't keep diverting funds into Tom's pet projects.
+Dialogue: 0,0:40:13.28,0:40:14.48,Default,NTP,0000,0000,0000,,这是他的公司\N{\rEnglish}It's his company.
+Dialogue: 0,0:40:14.56,0:40:15.60,Default,NTP,0000,0000,0000,,谢谢你  大卫\N{\rEnglish}Thank you, David.
+Dialogue: 0,0:40:16.16,0:40:17.68,Default,NTP,0000,0000,0000,,他还没死\N{\rEnglish}He's not dead.
+Dialogue: 0,0:40:32.40,0:40:33.44,Default,NTP,0000,0000,0000,,你想试试吗\N{\rEnglish}You wanna try?
+Dialogue: 0,0:40:33.52,0:40:34.52,Default,NTP,0000,0000,0000,,你想试试吗\N{\rEnglish}You wanna try?
+Dialogue: 0,0:40:34.60,0:40:35.84,Default,NTP,0000,0000,0000,,老天救救我吧\N{\rEnglish}Lord help me.
+Dialogue: 0,0:40:36.60,0:40:40.12,Default,NTP,0000,0000,0000,,我们来试试  包包不是垃圾箱\N{\rEnglish}Okay, let's try "A purse is not a litter box."
+Dialogue: 0,0:40:40.68,0:40:42.60,Default,NTP,0000,0000,0000,,包包不是垃圾箱\N{\rEnglish}A purse is not a litter box.
+Dialogue: 0,0:40:45.92,0:40:48.28,Default,NTP,0000,0000,0000,,毛绒裤先生是她父亲给她的最后一样东西\N{\rEnglish}Mr. Fuzzypants was the last thing her father gave her,
+Dialogue: 0,0:40:48.36,0:40:49.85,Default,NTP,0000,0000,0000,,所以她很粘着它\N{\rEnglish}so she's really latched on.
+Dialogue: 0,0:40:50.04,0:40:52.72,Default,NTP,0000,0000,0000,,它想博得注意  看得出来\N{\rEnglish}Mmm. He wants attention, obviously.
+Dialogue: 0,0:40:53.04,0:40:54.88,Default,NTP,0000,0000,0000,,-这是我们的女儿  丽贝卡  -你好\N{\rEnglish}- This is our daughter, Rebecca. - Hello.
+Dialogue: 0,0:40:55.32,0:40:57.04,Default,NTP,0000,0000,0000,,你得把我说的每句话都讲给他们听\N{\rEnglish}You are going to tell them every word I say.
+Dialogue: 0,0:41:00.16,0:41:01.36,Default,NTP,0000,0000,0000,,摔得漂亮  不错\N{\rEnglish}Good move. Nice.
+Dialogue: 0,0:41:01.64,0:41:02.80,Default,NTP,0000,0000,0000,,你倒来试试\N{\rEnglish}You try it.
+Dialogue: 0,0:41:02.88,0:41:05.69,Default,NTP,0000,0000,0000,,你爸爸从我的店里买了这只猫  你知道吗\N{\rEnglish}Your dad bought this cat at my store. Did you know that?
+Dialogue: 0,0:41:05.92,0:41:07.49,Default,NTP,0000,0000,0000,,谁在乎  帮我翻译\N{\rEnglish}Who cares? Just translate.
+Dialogue: 0,0:41:07.56,0:41:08.53,Default,NTP,0000,0000,0000,,我记得他说\N{\rEnglish}I remember, he said
+Dialogue: 0,0:41:08.53,0:41:10.72,Default,NTP,0000,0000,0000,,他想把你说想要的给到你\N{\rEnglish}he wanted you to have exactly what you asked for.
+Dialogue: 0,0:41:10.84,0:41:13.68,Default,NTP,0000,0000,0000,,猫痴  我不是让你过来无视我的\N{\rEnglish}Hey, cat freak, I didn't call you down here to ignore me.
+Dialogue: 0,0:41:14.52,0:41:16.76,Default,NTP,0000,0000,0000,,能让我们单独待会儿吗\N{\rEnglish}Could we have a moment of privacy, please?
+Dialogue: 0,0:41:18.64,0:41:19.80,Default,NTP,0000,0000,0000,,你和猫\N{\rEnglish}You and the cat?
+Dialogue: 0,0:41:19.88,0:41:20.88,Default,NTP,0000,0000,0000,,-是的  -好吧\N{\rEnglish}- Yeah. - Okay.
+Dialogue: 0,0:41:27.64,0:41:29.88,Default,NTP,0000,0000,0000,,你没时间玩游戏了  布兰德先生\N{\rEnglish}You don't have time for games, Mr. Brand.
+Dialogue: 0,0:41:29.96,0:41:31.45,Default,NTP,0000,0000,0000,,告诉他们我是谁\N{\rEnglish}Tell them who I am.
+Dialogue: 0,0:41:31.52,0:41:33.09,Default,NTP,0000,0000,0000,,我不是你的新闻发布人\N{\rEnglish}I'm not your press agent.
+Dialogue: 0,0:41:35.88,0:41:37.00,Default,NTP,0000,0000,0000,,你是个猫语者\N{\rEnglish}Well, you're a cat whisperer,
+Dialogue: 0,0:41:37.08,0:41:39.08,Default,NTP,0000,0000,0000,,我挺能肯定我还是只猫\N{\rEnglish}and I'm pretty sure I'm still a cat!
+Dialogue: 0,0:41:41.92,0:41:43.00,Default,NTP,0000,0000,0000,,你有没问过自己\N{\rEnglish}Have you asked yourself
+Dialogue: 0,0:41:43.08,0:41:44.65,Default,NTP,0000,0000,0000,,你怎么落到这个地步的\N{\rEnglish}how you got into this position?
+Dialogue: 0,0:41:44.72,0:41:45.88,Default,NTP,0000,0000,0000,,我试过上网搜  但你知道\N{\rEnglish}I tried googling it, but you know,
+Dialogue: 0,0:41:45.96,0:41:48.00,Default,NTP,0000,0000,0000,,没有给猫爪子用的键盘\N{\rEnglish}they don't make keyboards for paws!
+Dialogue: 0,0:41:48.08,0:41:51.12,Default,NTP,0000,0000,0000,,你像个野兽一样  快把你家人逼疯了\N{\rEnglish}You're acting like a beast and you're driving your family crazy.
+Dialogue: 0,0:41:51.20,0:41:53.88,Default,NTP,0000,0000,0000,,医生没法一直维持你肉体的状况\N{\rEnglish}These doctors can't keep you alive forever,
+Dialogue: 0,0:41:53.96,0:41:57.60,Default,NTP,0000,0000,0000,,如果你想要摆脱这个局面  就得乖乖的\N{\rEnglish}so if you want to get out of this, you have to behave.
+Dialogue: 0,0:41:58.20,0:42:00.93,Default,NTP,0000,0000,0000,,如果你的肉身死了  就习惯你的爪子吧\N{\rEnglish}And if your human body goes, get used to those paws.
+Dialogue: 0,0:42:01.00,0:42:02.60,Default,NTP,0000,0000,0000,,你永远都会是只猫\N{\rEnglish}You'll be a cat forever.
+Dialogue: 0,0:42:06.84,0:42:08.96,Default,NTP,0000,0000,0000,,我不要吃猫粮\N{\rEnglish}I am not eating cat food.
+Dialogue: 0,0:42:09.24,0:42:10.73,Default,NTP,0000,0000,0000,,你除了猫粮没得选\N{\rEnglish}You'll eat cat food or else.
+Dialogue: 0,0:42:10.84,0:42:12.52,Default,NTP,0000,0000,0000,,我重9斤  全身是毛\N{\rEnglish}Oh, I'm 10 pounds and covered in fur.
+Dialogue: 0,0:42:12.60,0:42:14.36,Default,NTP,0000,0000,0000,,你还能对我干吗\N{\rEnglish}What else could you possibly do to me?
+Dialogue: 0,0:42:14.44,0:42:16.32,Default,NTP,0000,0000,0000,,这只猫没做过手术\N{\rEnglish}This cat has not been fixed.
+Dialogue: 0,0:42:16.72,0:42:17.76,Default,NTP,0000,0000,0000,,你敢\N{\rEnglish}Don't you dare.
+Dialogue: 0,0:42:18.24,0:42:20.36,Default,NTP,0000,0000,0000,,我应该带他去看兽医吗\N{\rEnglish}Oh, should I take him to the vet?
+Dialogue: 0,0:42:20.44,0:42:21.68,Default,NTP,0000,0000,0000,,-珀金斯  -等等吧\N{\rEnglish}- Perkins... - Let's wait.
+Dialogue: 0,0:42:21.76,0:42:23.36,Default,NTP,0000,0000,0000,,-如果你敢碰老子一下  -他有些进步了\N{\rEnglish}- ...if you so much as lay a finger on... - He's made progress.
+Dialogue: 0,0:42:23.44,0:42:25.16,Default,NTP,0000,0000,0000,,他现在会慢慢进步的\N{\rEnglish}He's gonna be better now.
+Dialogue: 0,0:42:25.24,0:42:28.13,Default,NTP,0000,0000,0000,,如果他不吃猫粮  不用猫砂\N{\rEnglish}If he's not eating his food, using his poopy box,
+Dialogue: 0,0:42:28.52,0:42:30.80,Default,NTP,0000,0000,0000,,打个电话给我  我亲手给他做\N{\rEnglish}give me a call. I'll clip him myself.
+Dialogue: 0,0:42:30.96,0:42:32.12,Default,NTP,0000,0000,0000,,听见没  毛绒裤\N{\rEnglish}You hear that, Fuzzypants?
+Dialogue: 0,0:42:32.20,0:42:34.44,Default,NTP,0000,0000,0000,,我是曼哈顿排名第六的富豪\N{\rEnglish}I am the sixth richest person in Manhattan!
+Dialogue: 0,0:42:34.52,0:42:35.56,Default,NTP,0000,0000,0000,,一只乖乖的宠物\N{\rEnglish}A well-behaved pet
+Dialogue: 0,0:42:35.64,0:42:37.64,Default,NTP,0000,0000,0000,,会给一个家带来爱和舒心\N{\rEnglish}brings love and comfort to a home.
+Dialogue: 0,0:42:38.32,0:42:41.00,Default,NTP,0000,0000,0000,,你的家人现在需要这些\N{\rEnglish}And your family needs that right now,
+Dialogue: 0,0:42:41.12,0:42:42.20,Default,NTP,0000,0000,0000,,你到底乖不乖\N{\rEnglish}so are you gonna behave?
+Dialogue: 0,0:42:42.84,0:42:44.56,Default,NTP,0000,0000,0000,,你得做只猫\N{\rEnglish}You need to be a cat.
+Dialogue: 0,0:42:45.64,0:42:47.56,Default,NTP,0000,0000,0000,,好啦  我会做只猫的\N{\rEnglish}Okay, I'll be a cat.
+Dialogue: 0,0:42:47.64,0:42:48.64,Default,NTP,0000,0000,0000,,乖乖的\N{\rEnglish}Behave.
+Dialogue: 0,0:42:50.64,0:42:51.72,Default,NTP,0000,0000,0000,,不结扎了\N{\rEnglish}No clipping.
+Dialogue: 0,0:42:53.48,0:42:54.81,Default,NTP,0000,0000,0000,,先走了\N{\rEnglish}All the best.
+Dialogue: 0,0:42:57.44,0:42:58.52,Default,NTP,0000,0000,0000,,慢走\N{\rEnglish}All the best.
+Dialogue: 0,0:42:59.92,0:43:01.80,Default,NTP,0000,0000,0000,,谁要做手术\N{\rEnglish}Who needs to be fixed?
+Dialogue: 0,0:43:02.16,0:43:05.88,Default,NTP,0000,0000,0000,,是啊  让三文鱼呼吸一整天气味更浓郁\N{\rEnglish}Yes, letting salmon breathe all day really brings out the flavor.
+Dialogue: 0,0:43:09.12,0:43:11.04,Default,NTP,0000,0000,0000,,老天救救我吧\N{\rEnglish}Lord, help me.
+Dialogue: 0,0:43:12.36,0:43:14.08,Default,NTP,0000,0000,0000,,猫怎么吃得进这东西\N{\rEnglish}How do cats eat this stuff?
+Dialogue: 0,0:43:16.40,0:43:18.76,Default,NTP,0000,0000,0000,,我做不到\N{\rEnglish}Ah... I can't.
+Dialogue: 0,0:43:21.68,0:43:24.25,Default,NTP,0000,0000,0000,,饿死了\N{\rEnglish}I'm starving.
+Dialogue: 0,0:43:36.56,0:43:40.36,Default,NTP,0000,0000,0000,,加油  毛绒裤  你能行的  加油\N{\rEnglish}Come on. Come on, Fuzzypants, you can do it. Come on.
+Dialogue: 0,0:43:40.96,0:43:42.29,Default,NTP,0000,0000,0000,,停住  别动\N{\rEnglish}Hold it, hold it still.
+Dialogue: 0,0:43:42.36,0:43:44.96,Default,NTP,0000,0000,0000,,停着别动  别动  别动\N{\rEnglish}Hold it still, hold it, hold it still.
+Dialogue: 0,0:43:45.20,0:43:46.72,Default,NTP,0000,0000,0000,,这应该很好玩的吗\N{\rEnglish}Is this supposed to be fun?
+Dialogue: 0,0:43:47.96,0:43:48.96,Default,NTP,0000,0000,0000,,真好\N{\rEnglish}Yeah.
+Dialogue: 0,0:43:49.72,0:43:51.05,Default,NTP,0000,0000,0000,,直接淹死我吧\N{\rEnglish}Just drown me.
+Dialogue: 0,0:43:56.48,0:43:58.28,Default,NTP,0000,0000,0000,,漂亮多了\N{\rEnglish}Well, that's an improvement.
+Dialogue: 0,0:43:58.88,0:44:00.08,Default,NTP,0000,0000,0000,,看\N{\rEnglish}Look.
+Dialogue: 0,0:44:00.16,0:44:01.32,Default,NTP,0000,0000,0000,,有意思吗\N{\rEnglish}Seriously?
+Dialogue: 0,0:44:21.52,0:44:22.56,Default,NTP,0000,0000,0000,,好猫猫\N{\rEnglish}Good kitty.
+Dialogue: 0,0:44:23.60,0:44:25.09,Default,NTP,0000,0000,0000,,当众羞辱\N{\rEnglish}Public humiliation.
+Dialogue: 0,0:44:26.32,0:44:27.32,Default,NTP,0000,0000,0000,,你好  乔什\N{\rEnglish}Hi, Josh.
+Dialogue: 0,0:44:27.40,0:44:28.44,Default,NTP,0000,0000,0000,,乔什\N{\rEnglish}Josh?
+Dialogue: 0,0:44:28.56,0:44:30.60,Default,NTP,0000,0000,0000,,我有些东西一定要给你看\N{\rEnglish}I got something I have to show you.
+Dialogue: 0,0:44:30.68,0:44:32.25,Default,NTP,0000,0000,0000,,我不能再做下去了\N{\rEnglish}Look, I can't keep doing this.
+Dialogue: 0,0:44:32.32,0:44:34.52,Default,NTP,0000,0000,0000,,不  我不接受拒绝  我已经在路上了\N{\rEnglish}No, I'm not taking no for an answer. I'm already on my way.
+Dialogue: 0,0:44:34.76,0:44:36.44,Default,NTP,0000,0000,0000,,我不会\N{\rEnglish}Yeah, I'm not gonna...
+Dialogue: 0,0:44:37.08,0:44:38.52,Default,NTP,0000,0000,0000,,我把位置发你  好吧\N{\rEnglish}I'll text you the address, okay?
+Dialogue: 0,0:44:44.72,0:44:46.24,Default,NTP,0000,0000,0000,,想都别想\N{\rEnglish}Don't even think about it.
+Dialogue: 0,0:44:46.32,0:44:47.84,Default,NTP,0000,0000,0000,,来吧  出来  我要走了\N{\rEnglish}Come on, get out of there. I gotta get going.
+Dialogue: 0,0:44:47.92,0:44:48.92,Default,NTP,0000,0000,0000,,出来吧\N{\rEnglish}Let's go.
+Dialogue: 0,0:45:01.96,0:45:03.45,Default,NTP,0000,0000,0000,,有什么不见了吗\N{\rEnglish}Missing something?
+Dialogue: 0,0:45:05.24,0:45:07.36,Default,NTP,0000,0000,0000,,过来  咪咪  过来  咪咪\N{\rEnglish}Here, kitty. Here, kitty. Here, kitty. Here, kitty.
+Dialogue: 0,0:45:07.44,0:45:08.48,Default,NTP,0000,0000,0000,,咪咪  咪咪\N{\rEnglish}Kitty, kitty, kitty, kitty.
+Dialogue: 0,0:45:10.36,0:45:11.36,Default,NTP,0000,0000,0000,,对不起  亲爱的\N{\rEnglish}Sorry, honey.
+Dialogue: 0,0:45:12.12,0:45:14.08,Default,NTP,0000,0000,0000,,咪咪  过来  咪咪\N{\rEnglish}Kitty, kitty. Come on, kitty, kitty.
+Dialogue: 0,0:45:22.84,0:45:24.12,Default,NTP,0000,0000,0000,,全世界这么多猫\N{\rEnglish}Of all the cats in the world,
+Dialogue: 0,0:45:24.24,0:45:26.40,Default,NTP,0000,0000,0000,,汤姆肯定挑中你  你简直和他一样\N{\rEnglish}of course Tom picked you. You're just like him.
+Dialogue: 0,0:45:26.48,0:45:28.05,Default,NTP,0000,0000,0000,,这就是我想告诉你的\N{\rEnglish}That's what I've been trying to tell you.
+Dialogue: 0,0:45:28.16,0:45:30.76,Default,NTP,0000,0000,0000,,固执  自私  脱毛\N{\rEnglish}Stubborn and selfish and shedding.
+Dialogue: 0,0:45:30.84,0:45:32.20,Default,NTP,0000,0000,0000,,但差别在于\N{\rEnglish}But here's the difference.
+Dialogue: 0,0:45:32.28,0:45:34.60,Default,NTP,0000,0000,0000,,法律上规定我不能阉了我的丈夫\N{\rEnglish}I'm legally barred from castrating my husband.
+Dialogue: 0,0:45:35.56,0:45:36.72,Default,NTP,0000,0000,0000,,放下\N{\rEnglish}Drop 'em.
+Dialogue: 0,0:45:38.96,0:45:40.00,Default,NTP,0000,0000,0000,,好猫猫\N{\rEnglish}Good kitty.
+Dialogue: 0,0:46:17.20,0:46:18.61,Default,NTP,0000,0000,0000,,完美\N{\rEnglish}Nailed it!
+Dialogue: 0,0:46:35.32,0:46:36.76,Default,NTP,0000,0000,0000,,抱歉  你是谁\N{\rEnglish}Excuse me, who are you?
+Dialogue: 0,0:46:38.44,0:46:39.72,Default,NTP,0000,0000,0000,,你又是谁\N{\rEnglish}Who are you?
+Dialogue: 0,0:46:40.12,0:46:41.45,Default,NTP,0000,0000,0000,,不关你的事\N{\rEnglish}None of your business.
+Dialogue: 0,0:46:45.04,0:46:46.56,Default,NTP,0000,0000,0000,,我们只在俄亥俄州待一天  所以\N{\rEnglish}We've only got one day in Ohio, so...
+Dialogue: 0,0:46:46.64,0:46:48.72,Default,NTP,0000,0000,0000,,-你在卖公司  -我等下给你回电话\N{\rEnglish}- You're selling the company. - I'll call you back.
+Dialogue: 0,0:46:48.80,0:46:50.52,Default,NTP,0000,0000,0000,,裁切宣传册  排队进行路演\N{\rEnglish}You're cutting the books, you're lining up a roadshow,
+Dialogue: 0,0:46:50.60,0:46:52.68,Default,NTP,0000,0000,0000,,还把高盛的人弄来驻扎在会议室\N{\rEnglish}and you got Goldman Sachs camped out in the conference room.
+Dialogue: 0,0:46:52.76,0:46:53.92,Default,NTP,0000,0000,0000,,我们要让火兰德上市\N{\rEnglish}We're taking FireBrand public.
+Dialogue: 0,0:46:54.16,0:46:55.42,Default,NTP,0000,0000,0000,,在首席执行官昏迷的情况下吗\N{\rEnglish}With the CEO in a coma?
+Dialogue: 0,0:46:55.42,0:46:56.24,Default,NTP,0000,0000,0000,,他痊愈的几率\N{\rEnglish}The odds that he recovers...
+Dialogue: 0,0:46:56.32,0:46:57.73,Default,NTP,0000,0000,0000,,-等他醒来  -如果能醒\N{\rEnglish}- When he wakes up... - If.
+Dialogue: 0,0:46:57.84,0:47:01.12,Default,NTP,0000,0000,0000,,他会把你们全炒掉\N{\rEnglish}He is gonna fire every single one of you.
+Dialogue: 0,0:47:01.28,0:47:02.48,Default,NTP,0000,0000,0000,,这是预估内的风险\N{\rEnglish}Calculated risk.
+Dialogue: 0,0:47:02.56,0:47:03.63,Default,NTP,0000,0000,0000,,大卫  交易完成之时\N{\rEnglish}David, when this deal goes through,
+Dialogue: 0,0:47:03.63,0:47:05.13,Default,NTP,0000,0000,0000,,你们家族会获益数十亿美元\N{\rEnglish}your family makes billions.
+Dialogue: 0,0:47:05.20,0:47:07.96,Default,NTP,0000,0000,0000,,就拿着这笔钱吧  你并不欠汤姆·布兰德什么\N{\rEnglish}Just take the money. You don't owe Tom Brand a thing.
+Dialogue: 0,0:47:23.76,0:47:25.12,Default,NTP,0000,0000,0000,,乔什\N{\rEnglish}Hi, Josh.
+Dialogue: 0,0:47:25.84,0:47:26.84,Default,NTP,0000,0000,0000,,这里真美\N{\rEnglish}This is pretty.
+Dialogue: 0,0:47:27.12,0:47:28.40,Default,NTP,0000,0000,0000,,美极了  对吗\N{\rEnglish}It's gorgeous, right?
+Dialogue: 0,0:47:28.48,0:47:30.40,Default,NTP,0000,0000,0000,,他是个阿伯克龙比的模特吗\N{\rEnglish}He's an Abercrombie model?
+Dialogue: 0,0:47:30.48,0:47:31.72,Default,NTP,0000,0000,0000,,等你看了这景色再赞叹不迟\N{\rEnglish}Wait till you see this view.
+Dialogue: 0,0:47:37.76,0:47:38.96,Default,NTP,0000,0000,0000,,-嗨  乔什  -嗨\N{\rEnglish}- Hi, Josh. - Hi.
+Dialogue: 0,0:47:39.84,0:47:41.00,Default,NTP,0000,0000,0000,,我们得谈谈\N{\rEnglish}We need to talk.
+Dialogue: 0,0:47:41.08,0:47:42.12,Default,NTP,0000,0000,0000,,进屋谈吧\N{\rEnglish}Let's talk inside.
+Dialogue: 0,0:47:42.20,0:47:44.28,Default,NTP,0000,0000,0000,,不  就在外面说\N{\rEnglish}No, let's just do it out here.
+Dialogue: 0,0:47:44.40,0:47:45.92,Default,NTP,0000,0000,0000,,在哪  草坪上吗\N{\rEnglish}Where, in the grass?
+Dialogue: 0,0:47:46.00,0:47:47.88,Default,NTP,0000,0000,0000,,我知道我们已经干了好几个月\N{\rEnglish}I know that we've been at this for months,
+Dialogue: 0,0:47:47.96,0:47:50.44,Default,NTP,0000,0000,0000,,你一定很想让我快点做出决定\N{\rEnglish}and you must be anxious for some kind of decision.
+Dialogue: 0,0:47:50.96,0:47:52.37,Default,NTP,0000,0000,0000,,我不能一直来见你\N{\rEnglish}I can't keep seeing you.
+Dialogue: 0,0:47:52.48,0:47:54.48,Default,NTP,0000,0000,0000,,劳拉  就看一眼\N{\rEnglish}Lara, just take a look at...
+Dialogue: 0,0:47:58.00,0:47:59.12,Default,NTP,0000,0000,0000,,毛绒裤先生\N{\rEnglish}Mr. Fuzzypants?
+Dialogue: 0,0:47:59.28,0:48:00.28,Default,NTP,0000,0000,0000,,搞什么\N{\rEnglish}Seriously?
+Dialogue: 0,0:48:00.80,0:48:02.80,Default,NTP,0000,0000,0000,,你来这里做什么\N{\rEnglish}What are you doing here?
+Dialogue: 0,0:48:03.08,0:48:05.89,Default,NTP,0000,0000,0000,,你知道吗  远离城市对于宠物来说真的很棒\N{\rEnglish}You know, getting out of the city is really great for a pet.
+Dialogue: 0,0:48:05.96,0:48:07.40,Default,NTP,0000,0000,0000,,而这地方今天刚刚挂牌上市\N{\rEnglish}And this place just went on the market today.
+Dialogue: 0,0:48:07.48,0:48:09.52,Default,NTP,0000,0000,0000,,-上市  -我不能再看更多房子了\N{\rEnglish}- Market? - I can't look at any more houses.
+Dialogue: 0,0:48:09.60,0:48:10.60,Default,NTP,0000,0000,0000,,什么\N{\rEnglish}What?
+Dialogue: 0,0:48:12.23,0:48:13.61,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}待售\N乔什·伯恩\N房产商
+Dialogue: 0,0:48:13.64,0:48:14.68,Default,NTP,0000,0000,0000,,麦迪逊介绍我们认识的时候\N{\rEnglish}When Madison introduced us,
+Dialogue: 0,0:48:14.76,0:48:16.09,Default,NTP,0000,0000,0000,,她说你准备好买了\N{\rEnglish}she said you were ready to buy.
+Dialogue: 0,0:48:16.16,0:48:17.16,Default,NTP,0000,0000,0000,,我本以为我准备好了\N{\rEnglish}I thought I was.
+Dialogue: 0,0:48:17.24,0:48:20.48,Default,NTP,0000,0000,0000,,新房子  新工作  我本准备好要离开汤姆了\N{\rEnglish}New house, new job, I was ready to leave Tom.
+Dialogue: 0,0:48:20.80,0:48:22.29,Default,NTP,0000,0000,0000,,她原本要离开我\N{\rEnglish}She was leaving me.
+Dialogue: 0,0:48:22.64,0:48:24.64,Default,NTP,0000,0000,0000,,那发生什么改变了呢\N{\rEnglish}So, what's changed?
+Dialogue: 0,0:48:24.72,0:48:27.84,Default,NTP,0000,0000,0000,,改变的是我现在有了这个毛蓬蓬的小东西\N{\rEnglish}Well, what's changed is I have this shaggy gremlin,
+Dialogue: 0,0:48:27.92,0:48:29.60,Default,NTP,0000,0000,0000,,即使是在他跟踪我的时候\N{\rEnglish}and even when he's stalking me,
+Dialogue: 0,0:48:29.68,0:48:31.08,Default,NTP,0000,0000,0000,,他也在不断提醒着我\N{\rEnglish}he's a constant reminder,
+Dialogue: 0,0:48:31.09,0:48:33.57,Default,NTP,0000,0000,0000,,汤姆所做的最后一件事是为了他女儿\N{\rEnglish}the last thing Tom did was for his daughter,
+Dialogue: 0,0:48:33.68,0:48:34.80,Default,NTP,0000,0000,0000,,还有我爱他\N{\rEnglish}and I love him.
+Dialogue: 0,0:48:34.88,0:48:35.88,Default,NTP,0000,0000,0000,,我也爱你\N{\rEnglish}And I love you.
+Dialogue: 0,0:48:35.96,0:48:37.84,Default,NTP,0000,0000,0000,,-我得走了  -我从未停止爱你\N{\rEnglish}- I need to go. - I never stopped.
+Dialogue: 0,0:48:41.20,0:48:42.24,Default,NTP,0000,0000,0000,,你现在开心了吗\N{\rEnglish}Are you happy now?
+Dialogue: 0,0:48:42.32,0:48:44.04,Default,NTP,0000,0000,0000,,除非你也开心\N{\rEnglish}Not until you are.
+Dialogue: 0,0:48:47.44,0:48:49.32,Default,NTP,0000,0000,0000,,科尔医生\N{\rEnglish}Dr. Cole.
+Dialogue: 0,0:48:49.84,0:48:51.12,Default,NTP,0000,0000,0000,,是坏消息吗\N{\rEnglish}Bad news?
+Dialogue: 0,0:48:57.56,0:49:01.32,Default,NTP,0000,0000,0000,,丽贝卡  我刚去看了下你爸爸\N{\rEnglish}Rebecca, I was just visiting Daddy.
+Dialogue: 0,0:49:01.84,0:49:03.00,Default,NTP,0000,0000,0000,,他还睡着\N{\rEnglish}He is still sleeping.
+Dialogue: 0,0:49:03.08,0:49:05.08,Default,NTP,0000,0000,0000,,但他在逐渐好起来  对吗\N{\rEnglish}He's getting better, though, right?
+Dialogue: 0,0:49:05.12,0:49:07.10,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}当他们醒不过来时该怎么办
+Dialogue: 0,0:49:05.16,0:49:07.04,Default,NTP,0000,0000,0000,,他的身体正在好转\N{\rEnglish}His body is getting better,
+Dialogue: 0,0:49:07.12,0:49:09.20,Default,NTP,0000,0000,0000,,但他昏睡了这么久\N{\rEnglish}but he's been sleeping so long,
+Dialogue: 0,0:49:09.28,0:49:11.80,Default,NTP,0000,0000,0000,,科尔医生不知道他还会不会醒\N{\rEnglish}Dr. Cole doesn't know if he's gonna wake up.
+Dialogue: 0,0:49:11.88,0:49:13.37,Default,NTP,0000,0000,0000,,但他会醒的\N{\rEnglish}But he could.
+Dialogue: 0,0:49:14.00,0:49:15.12,Default,NTP,0000,0000,0000,,他会醒的\N{\rEnglish}He could.
+Dialogue: 0,0:49:15.20,0:49:17.36,Default,NTP,0000,0000,0000,,妈妈  那就没事的\N{\rEnglish}Mom, then it's gonna be okay.
+Dialogue: 0,0:49:18.08,0:49:22.24,Default,NTP,0000,0000,0000,,爸爸工作那么辛苦  他只是需要多睡会\N{\rEnglish}Dad's been working so hard, he just needs extra sleep.
+Dialogue: 0,0:49:29.48,0:49:31.60,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,0:49:32.96,0:49:35.24,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,0:49:36.80,0:49:39.92,Default,NTP,0000,0000,0000,,在停在街角的一辆破旧汽车里\N{\rEnglish}Parked on the corner in a beat-up car
+Dialogue: 0,0:49:40.44,0:49:43.56,Default,NTP,0000,0000,0000,,分食一根五美分的糖果棒\N{\rEnglish}Dividing up a nickel candy bar
+Dialogue: 0,0:49:44.72,0:49:47.37,Default,NTP,0000,0000,0000,,谈论着他们有多聪明\N{\rEnglish}Talking all about how sharp they are
+Dialogue: 0,0:49:47.44,0:49:49.76,Default,NTP,0000,0000,0000,,这三只酷猫\N{\rEnglish}These three cool cats
+Dialogue: 0,0:49:52.60,0:49:53.84,Default,NTP,0000,0000,0000,,我很抱歉  宝贝\N{\rEnglish}I'm so sorry, baby.
+Dialogue: 0,0:49:53.92,0:49:55.08,Default,NTP,0000,0000,0000,,现在别捣乱\N{\rEnglish}Not now.
+Dialogue: 0,0:49:55.80,0:49:58.32,Default,NTP,0000,0000,0000,,三位酷酷的小姐姐\N{\rEnglish}Three cool chicks
+Dialogue: 0,0:49:59.60,0:50:03.04,Default,NTP,0000,0000,0000,,扭着屁股走在大街上\N{\rEnglish}walkin' down the street Swingin' their hips
+Dialogue: 0,0:50:03.76,0:50:06.68,Default,NTP,0000,0000,0000,,分食着一袋薯片\N{\rEnglish}Splitting up a bag of potato chips
+Dialogue: 0,0:50:06.76,0:50:10.60,Default,NTP,0000,0000,0000,,而三只酷猫为三位酷酷的小姐姐做了\N{\rEnglish}And three cool cats did three big flips for
+Dialogue: 0,0:50:10.92,0:50:13.28,Default,NTP,0000,0000,0000,,三个大大的后空翻\N{\rEnglish}three cool chicks.
+Dialogue: 0,0:50:14.76,0:50:18.48,Default,NTP,0000,0000,0000,,第一只酷猫说"老兄  瞧瞧看"\N{\rEnglish}Up popped the first cool cat he said, "Man, look at that!
+Dialogue: 0,0:50:18.64,0:50:22.08,Default,NTP,0000,0000,0000,,"老兄  你看到我看到的了吗"\N{\rEnglish}"Man, do you see what I see?"
+Dialogue: 0,0:50:22.28,0:50:23.86,Default,NTP,0000,0000,0000,,"我想要中间那个小姐姐"\N{\rEnglish}"I want that middle chick!"
+Dialogue: 0,0:50:23.86,0:50:25.84,Default,NTP,0000,0000,0000,,"我想要那个年轻的小姐姐"\N{\rEnglish}"I want that little chick!"
+Dialogue: 0,0:50:25.96,0:50:29.00,Default,NTP,0000,0000,0000,,"哥们  给我留个小姐姐"\N{\rEnglish}"Hey, man, save one chick for me!"
+Dialogue: 0,0:50:29.64,0:50:32.45,Default,NTP,0000,0000,0000,,三位酷酷的小姐姐\N{\rEnglish}Three cool chicks
+Dialogue: 0,0:50:33.60,0:50:35.44,Default,NTP,0000,0000,0000,,三位酷酷的小姐姐\N{\rEnglish}Three cool chicks
+Dialogue: 0,0:50:37.04,0:50:40.72,Default,NTP,0000,0000,0000,,她们就像天使\N{\rEnglish}They look like angels from up above
+Dialogue: 0,0:50:40.88,0:50:44.64,Default,NTP,0000,0000,0000,,而这三只酷猫真的爱上了她们\N{\rEnglish}And three cool cats really fell in love
+Dialogue: 0,0:50:44.76,0:50:48.73,Default,NTP,0000,0000,0000,,但三位酷酷的小姐姐让它们出了洋相\N{\rEnglish}But three cool chicks made three fools of these
+Dialogue: 0,0:50:48.80,0:50:50.96,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,0:50:52.56,0:50:54.40,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,0:50:54.48,0:50:55.64,Default,NTP,0000,0000,0000,,怎么了\N{\rEnglish}What?
+Dialogue: 0,0:50:53.91,0:50:58.45,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}爱你的爸爸
+Dialogue: 0,0:50:56.36,0:50:58.48,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,0:51:03.60,0:51:05.09,Default,NTP,0000,0000,0000,,怎么了\N{\rEnglish}What's wrong?
+Dialogue: 0,0:51:10.24,0:51:11.48,Default,NTP,0000,0000,0000,,天啊\N{\rEnglish}Oh, boy.
+Dialogue: 0,0:51:09.23,0:51:12.49,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}爱你的爸爸
+Dialogue: 0,0:51:13.00,0:51:14.49,Default,NTP,0000,0000,0000,,我真是个傻瓜\N{\rEnglish}I'm an idiot.
+Dialogue: 0,0:51:21.48,0:51:23.84,Default,NTP,0000,0000,0000,,我应该当一位更好的爸爸\N{\rEnglish}I should have been a better dad.
+Dialogue: 0,0:51:32.16,0:51:33.96,Default,NTP,0000,0000,0000,,我妈妈说你现在需要人陪\N{\rEnglish}My mom said you needed company right now,
+Dialogue: 0,0:51:34.04,0:51:36.00,Default,NTP,0000,0000,0000,,所以我就自告奋勇来了\N{\rEnglish}so I'm volunteering my time.
+Dialogue: 0,0:51:36.08,0:51:37.76,Default,NTP,0000,0000,0000,,我现在有点想一个人待着\N{\rEnglish}I kind of wanna be alone right now.
+Dialogue: 0,0:51:39.88,0:51:41.53,Default,NTP,0000,0000,0000,,你该去洗一下脸\N{\rEnglish}You should go wash your face.
+Dialogue: 0,0:51:41.60,0:51:44.36,Default,NTP,0000,0000,0000,,哭鼻子真的不适合你的肤色\N{\rEnglish}Crying really doesn't work with your complexion.
+Dialogue: 0,0:51:52.44,0:51:54.01,Default,NTP,0000,0000,0000,,她真是一团糟\N{\rEnglish}She's a wreck.
+Dialogue: 0,0:52:10.20,0:52:11.16,Default,NTP,0000,0000,0000,,你的蠢猫拿了我的\N{\rEnglish}Your stupid cat took my...
+Dialogue: 0,0:52:11.24,0:52:12.96,Default,NTP,0000,0000,0000,,你为什么要分享这个\N{\rEnglish}Why would you share this?
+Dialogue: 0,0:52:13.04,0:52:14.96,Default,NTP,0000,0000,0000,,我想给男孩子们看看\N{\rEnglish}I wanted to show some boys.
+Dialogue: 0,0:52:15.04,0:52:16.64,Default,NTP,0000,0000,0000,,如果他们看见你这么脆弱\N{\rEnglish}If they see you when you're vulnerable,
+Dialogue: 0,0:52:16.72,0:52:17.80,Default,NTP,0000,0000,0000,,他们会想要照顾你以及\N{\rEnglish}they'll wanna take care of you and...
+Dialogue: 0,0:52:17.88,0:52:19.72,Default,NTP,0000,0000,0000,,你把这照片发给了半个班的人看\N{\rEnglish}You sent this one to half our class.
+Dialogue: 0,0:52:19.80,0:52:20.84,Default,NTP,0000,0000,0000,,只是个玩笑而已\N{\rEnglish}That was a joke.
+Dialogue: 0,0:52:20.92,0:52:22.68,Default,NTP,0000,0000,0000,,你知道吗  我爸爸现在在医院里昏迷不醒\N{\rEnglish}You know what, my dad is in the hospital.
+Dialogue: 0,0:52:22.76,0:52:24.20,Default,NTP,0000,0000,0000,,你解释给我听这算什么玩笑\N{\rEnglish}Explain the joke to me.
+Dialogue: 0,0:52:24.28,0:52:25.96,Default,NTP,0000,0000,0000,,我只是想帮帮忙\N{\rEnglish}I was just trying to help.
+Dialogue: 0,0:52:26.08,0:52:27.41,Default,NTP,0000,0000,0000,,朋友间就该这么做\N{\rEnglish}That's what friends do.
+Dialogue: 0,0:52:27.48,0:52:29.72,Default,NTP,0000,0000,0000,,你知道吗  我妈妈和你妈妈是朋友\N{\rEnglish}You know what, my mom is friends with your mom,
+Dialogue: 0,0:52:29.80,0:52:31.29,Default,NTP,0000,0000,0000,,我经常看你过来\N{\rEnglish}and I see you over here a lot,
+Dialogue: 0,0:52:31.36,0:52:32.60,Default,NTP,0000,0000,0000,,但别装了  妮可\N{\rEnglish}but stop pretending, Nicole.
+Dialogue: 0,0:52:32.68,0:52:34.25,Default,NTP,0000,0000,0000,,我们不是朋友\N{\rEnglish}We're not friends!
+Dialogue: 0,0:52:41.04,0:52:43.12,Default,NTP,0000,0000,0000,,我简直无法相信你会这么做\N{\rEnglish}I can't believe you just did that!
+Dialogue: 0,0:52:45.12,0:52:48.48,Default,NTP,0000,0000,0000,,干得好  但你为什么会去拿她的手机\N{\rEnglish}Good work, but why did you grab her phone?
+Dialogue: 0,0:52:48.60,0:52:50.09,Default,NTP,0000,0000,0000,,因为我是你爸爸\N{\rEnglish}Because I'm your daddy.
+Dialogue: 0,0:53:01.40,0:53:04.52,Default,NTP,0000,0000,0000,,利梵托  中等研磨  苦味与醇度兼具\N{\rEnglish}Livanto, round and balanced.
+Dialogue: 0,0:53:04.60,0:53:06.80,Default,NTP,0000,0000,0000,,我现在不能玩  毛绒裤先生\N{\rEnglish}I can't play, Mr. Fuzzypants.
+Dialogue: 0,0:53:11.84,0:53:14.08,Default,NTP,0000,0000,0000,,那还真是正确答案\N{\rEnglish}That was the right answer.
+Dialogue: 0,0:53:22.28,0:53:24.56,Default,NTP,0000,0000,0000,,如果只有这样才能重新变成人\N{\rEnglish}If this is what it takes to become human,
+Dialogue: 0,0:53:27.84,0:53:30.73,Default,NTP,0000,0000,0000,,那我要成为这世上最好的猫\N{\rEnglish}I will be the best cat that ever lived.
+Dialogue: 0,0:54:01.00,0:54:04.20,Default,NTP,0000,0000,0000,,我给你带了点会让你醒来的东西\N{\rEnglish}Hey, I brought something that's gonna wake you up.
+Dialogue: 0,0:54:04.80,0:54:06.76,Default,NTP,0000,0000,0000,,一张参加北半球\N{\rEnglish}An invitation to the grand opening
+Dialogue: 0,0:54:06.84,0:54:09.32,Default,NTP,0000,0000,0000,,最高避雷针\N{\rEnglish}of the tallest lightning rod
+Dialogue: 0,0:54:09.40,0:54:11.64,Default,NTP,0000,0000,0000,,开幕式的邀请函\N{\rEnglish}in the Northern Hemisphere.
+Dialogue: 0,0:54:13.88,0:54:16.48,Default,NTP,0000,0000,0000,,我怀念跟你分享事情  汤姆\N{\rEnglish}I miss sharing things with you, Tom.
+Dialogue: 0,0:54:17.68,0:54:19.72,Default,NTP,0000,0000,0000,,所以你得醒过来\N{\rEnglish}That's why you need to wake up.
+Dialogue: 0,0:54:19.80,0:54:23.00,Default,NTP,0000,0000,0000,,我是不会孤身一人去参加这个开幕式的\N{\rEnglish}I'm not going to this thing without a date.
+Dialogue: 0,0:54:33.73,0:54:36.71,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}火兰德管理层谣言四起
+Dialogue: 0,0:54:41.68,0:54:43.44,Default,NTP,0000,0000,0000,,你想出解决办法了吗\N{\rEnglish}Are you figuring this out?
+Dialogue: 0,0:54:43.52,0:54:45.17,Default,NTP,0000,0000,0000,,我想再看一下爸爸的那些文件\N{\rEnglish}Hey. I just want another look at Dad's files.
+Dialogue: 0,0:54:45.24,0:54:46.28,Default,NTP,0000,0000,0000,,好的\N{\rEnglish}Okay.
+Dialogue: 0,0:54:46.36,0:54:48.08,Default,NTP,0000,0000,0000,,一切都还好吗\N{\rEnglish}Is everything all right?
+Dialogue: 0,0:54:50.28,0:54:52.40,Default,NTP,0000,0000,0000,,他们今天早上选定了投资者\N{\rEnglish}They locked up investors this morning.
+Dialogue: 0,0:54:52.48,0:54:54.52,Default,NTP,0000,0000,0000,,火兰德要在纽交所上市了\N{\rEnglish}FireBrand's going to the New York Stock Exchange.
+Dialogue: 0,0:54:54.60,0:54:55.68,Default,NTP,0000,0000,0000,,什么时候\N{\rEnglish}When?
+Dialogue: 0,0:54:55.76,0:54:59.44,Default,NTP,0000,0000,0000,,他们会在塔楼开幕的时候宣布\N{\rEnglish}They're announcing it when they open the tower.
+Dialogue: 0,0:54:59.84,0:55:01.49,Default,NTP,0000,0000,0000,,伊恩完全瞒着我们\N{\rEnglish}Ian totally went behind our back.
+Dialogue: 0,0:55:01.56,0:55:03.56,Default,NTP,0000,0000,0000,,他联合了本森和施泰因以及董事会的其他成员\N{\rEnglish}He's lined up Benson and Stein and the rest of the Board
+Dialogue: 0,0:55:03.64,0:55:04.64,Default,NTP,0000,0000,0000,,签订了一项秘密交易协定\N{\rEnglish}in a secret deal.
+Dialogue: 0,0:55:06.48,0:55:08.32,Default,NTP,0000,0000,0000,,看来伊恩已经谋划这个计划好几个月了\N{\rEnglish}Turns out, Ian's been working on this plan for months
+Dialogue: 0,0:55:08.40,0:55:09.84,Default,NTP,0000,0000,0000,,而且一直在等待适当的时机\N{\rEnglish}and was waiting for the right time.
+Dialogue: 0,0:55:11.64,0:55:12.76,Default,NTP,0000,0000,0000,,汤姆会杀了他们的\N{\rEnglish}Tom would kill them.
+Dialogue: 0,0:55:12.84,0:55:14.44,Default,NTP,0000,0000,0000,,他们不在乎\N{\rEnglish}They don't care.
+Dialogue: 0,0:55:19.24,0:55:22.21,Default,NTP,0000,0000,0000,,他有留下什么书面指示吗\N{\rEnglish}Did he leave any directives or anything?
+Dialogue: 0,0:55:22.48,0:55:25.13,Default,NTP,0000,0000,0000,,有份遗嘱  可他还活着啊\N{\rEnglish}Uh, there's a will, but he's not dead.
+Dialogue: 0,0:55:25.20,0:55:27.08,Default,NTP,0000,0000,0000,,我知道  我知道\N{\rEnglish}Yeah, I know, I know. I know.
+Dialogue: 0,0:55:27.16,0:55:28.73,Default,NTP,0000,0000,0000,,我只是希望能有个凭证\N{\rEnglish}I just hope there's something in here
+Dialogue: 0,0:55:28.80,0:55:31.53,Default,NTP,0000,0000,0000,,帮我赢下这场仗\N{\rEnglish}that'll help me fight this thing.
+Dialogue: 0,0:55:39.16,0:55:41.64,Default,NTP,0000,0000,0000,,该死  到处都是我\N{\rEnglish}Damn. I'm everywhere.
+Dialogue: 0,0:56:08.68,0:56:12.29,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}百丽宫大厦  火兰德大楼\N加塔尖  加高楼顶
+Dialogue: 0,0:56:10.64,0:56:12.29,Default,NTP,0000,0000,0000,,大卫·布兰德\N{\rEnglish}David Brand.
+Dialogue: 0,0:56:12.72,0:56:14.76,Default,NTP,0000,0000,0000,,得给你加薪了\N{\rEnglish}You're gonna need a raise.
+Dialogue: 0,0:56:20.12,0:56:23.20,Default,NTP,0000,0000,0000,,不过  还是先给你升个职\N{\rEnglish}But first, let's give you a promotion.
+Dialogue: 0,0:56:37.64,0:56:39.30,Default,NTP,0000,0000,0000,,大卫正收集资料  打算采取法律手段\N{\rEnglish}David's pulling files from legal.
+Dialogue: 0,0:56:39.30,0:56:40.16,Default,NTP,0000,0000,0000,,他肯定会拼尽全力\N{\rEnglish}He's gonna fight this.
+Dialogue: 0,0:56:40.24,0:56:41.81,Default,NTP,0000,0000,0000,,但只要我们投入市场  他就无力回天了\N{\rEnglish}As long as we get to market, he can't do anything.
+Dialogue: 0,0:56:49.28,0:56:52.84,Default,NTP,0000,0000,0000,,公司章程  在哪里\N{\rEnglish}Articles of incorporation. Where are they?
+Dialogue: 0,0:56:53.68,0:56:55.76,Default,NTP,0000,0000,0000,,我在汤姆的办公桌抽屉里发现了这个\N{\rEnglish}I did find this in Tom's desk.
+Dialogue: 0,0:56:55.84,0:56:58.20,Default,NTP,0000,0000,0000,,他把所有的投票股权都留给了大卫\N{\rEnglish}He left all his voting shares to David.
+Dialogue: 0,0:56:58.48,0:57:00.20,Default,NTP,0000,0000,0000,,审计部门发现这类文件了吗\N{\rEnglish}Did the audit find anything like this?
+Dialogue: 0,0:57:00.28,0:57:01.28,Default,NTP,0000,0000,0000,,当然没有\N{\rEnglish}No.
+Dialogue: 0,0:57:01.52,0:57:03.20,Default,NTP,0000,0000,0000,,大卫知道  他肯定知道\N{\rEnglish}David knows. He has to know.
+Dialogue: 0,0:57:03.28,0:57:05.24,Default,NTP,0000,0000,0000,,如果他知道  我们早就被赶走了\N{\rEnglish}If he knew, we wouldn't be here.
+Dialogue: 0,0:57:05.32,0:57:07.00,Default,NTP,0000,0000,0000,,我从未见过汤姆拥抱大卫\N{\rEnglish}I never saw Tom hug David.
+Dialogue: 0,0:57:07.08,0:57:08.24,Default,NTP,0000,0000,0000,,我不太喜欢拥抱\N{\rEnglish}I'm not much of a hugger.
+Dialogue: 0,0:57:08.36,0:57:10.60,Default,NTP,0000,0000,0000,,他让大卫在那个杂物间里办公\N{\rEnglish}He's got him working out of that broom closet.
+Dialogue: 0,0:57:10.68,0:57:12.56,Default,NTP,0000,0000,0000,,我总是忍不住想叫儿童服务中心来\N{\rEnglish}I keep wanting to call Child Services.
+Dialogue: 0,0:57:14.40,0:57:16.16,Default,NTP,0000,0000,0000,,那么\N{\rEnglish}Well then,
+Dialogue: 0,0:57:16.24,0:57:18.81,Default,NTP,0000,0000,0000,,我从没见过这个  你呢\N{\rEnglish}I never saw this. Did you?
+Dialogue: 0,0:57:18.88,0:57:19.88,Default,NTP,0000,0000,0000,,从来没有\N{\rEnglish}Never.
+Dialogue: 0,0:57:19.96,0:57:22.96,Default,NTP,0000,0000,0000,,大家都很欣赏你处理棘手问题的方式\N{\rEnglish}We all appreciate the way you've handled this situation.
+Dialogue: 0,0:57:19.97,0:57:23.04,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}公司章程
+Dialogue: 0,0:57:23.04,0:57:26.76,Default,NTP,0000,0000,0000,,如果汤姆没挺过来  我们希望你来主持大局\N{\rEnglish}If Tom doesn't pull through, we want you to take the helm.
+Dialogue: 0,0:57:26.88,0:57:28.16,Default,NTP,0000,0000,0000,,好  谢谢\N{\rEnglish}Okay, thank you.
+Dialogue: 0,0:57:30.52,0:57:39.56,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}坚持住  宝贝儿
+Dialogue: 0,0:57:31.96,0:57:33.61,Default,NTP,0000,0000,0000,,-坚持住  -好\N{\rEnglish}- Hang in there. - Yeah.
+Dialogue: 0,0:58:57.20,0:58:58.28,Default,NTP,0000,0000,0000,,妈\N{\rEnglish}Hey, Mom.
+Dialogue: 0,0:58:58.36,0:59:00.32,Default,NTP,0000,0000,0000,,我把市值数十亿的公司交给你\N{\rEnglish}I hand you the keys to a multi-billion dollar company
+Dialogue: 0,0:59:00.40,0:59:01.40,Default,NTP,0000,0000,0000,,你却打电话给你妈\N{\rEnglish}and you call your mother?
+Dialogue: 0,0:59:01.48,0:59:03.36,Default,NTP,0000,0000,0000,,你们离婚时拿到的文件都还留着吗\N{\rEnglish}Do you still have the files from the divorce?
+Dialogue: 0,0:59:03.56,0:59:05.13,Default,NTP,0000,0000,0000,,聪明\N{\rEnglish}Oh, yeah.
+Dialogue: 0,0:59:05.20,0:59:07.88,Default,NTP,0000,0000,0000,,公主  珍妮特  闭嘴\N{\rEnglish}Princess, Jeanette, shut it!
+Dialogue: 0,0:59:08.60,0:59:11.88,Default,NTP,0000,0000,0000,,公司头十年的所有档案全在这里了\N{\rEnglish}All of the company records for the first 10 years are in here.
+Dialogue: 0,0:59:11.96,0:59:13.71,Default,NTP,0000,0000,0000,,本来应该扔掉的\N{\rEnglish}Should probably get rid of this stuff,
+Dialogue: 0,0:59:13.71,0:59:15.08,Default,NTP,0000,0000,0000,,但它们让我怀念往事\N{\rEnglish}but it makes me nostalgic.
+Dialogue: 0,0:59:15.16,0:59:16.24,Default,NTP,0000,0000,0000,,-怀念爸爸吗  -他的钱\N{\rEnglish}- For Dad? - His money.
+Dialogue: 0,0:59:16.32,0:59:17.65,Default,NTP,0000,0000,0000,,至少你得到了一半\N{\rEnglish}Well, at least you got half.
+Dialogue: 0,0:59:18.20,0:59:19.31,Default,NTP,0000,0000,0000,,我不知道他怎么做到的\N{\rEnglish}I don't know how he did it,
+Dialogue: 0,0:59:19.31,0:59:20.64,Default,NTP,0000,0000,0000,,白手起家建立这家公司\N{\rEnglish}building this company from scratch.
+Dialogue: 0,0:59:20.72,0:59:23.53,Default,NTP,0000,0000,0000,,他从不回家  就是这么做到的\N{\rEnglish}He never came home. That's how he did it.
+Dialogue: 0,0:59:23.60,0:59:24.72,Default,NTP,0000,0000,0000,,你做这些干吗\N{\rEnglish}Why are you doing this?
+Dialogue: 0,0:59:24.80,0:59:26.52,Default,NTP,0000,0000,0000,,等着他表扬你"干得好"吗\N{\rEnglish}Are you waiting for him to say, "Good job"?
+Dialogue: 0,0:59:26.60,0:59:28.36,Default,NTP,0000,0000,0000,,因为你爸是绝不会说这话的\N{\rEnglish}'Cause your father is never gonna give you that.
+Dialogue: 0,0:59:28.48,0:59:30.72,Default,NTP,0000,0000,0000,,这是什么\N{\rEnglish}What's this?
+Dialogue: 0,0:59:29.35,0:59:31.54,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}火兰德
+Dialogue: 0,0:59:30.80,0:59:31.88,Default,NTP,0000,0000,0000,,什么\N{\rEnglish}What?
+Dialogue: 0,0:59:31.96,0:59:33.04,Default,NTP,0000,0000,0000,,你爸的公司刚成立那会儿\N{\rEnglish}When your father was just starting off,
+Dialogue: 0,0:59:33.12,0:59:34.72,Default,NTP,0000,0000,0000,,他不知道该起什么名字\N{\rEnglish}he couldn't think of a name for the company,
+Dialogue: 0,0:59:34.84,0:59:37.24,Default,NTP,0000,0000,0000,,然后突然有一天  你给他画了一幅画\N{\rEnglish}and then one day, you drew a picture of him.
+Dialogue: 0,0:59:37.32,0:59:39.32,Default,NTP,0000,0000,0000,,他极少陪你  但他是爱你的\N{\rEnglish}He was never there, but he loved you.
+Dialogue: 0,0:59:39.50,0:59:42.16,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}公司章程
+Dialogue: 0,0:59:40.68,0:59:42.09,Default,NTP,0000,0000,0000,,这也是你的公司\N{\rEnglish}It's your company, too.
+Dialogue: 0,0:59:42.16,0:59:44.16,Default,NTP,0000,0000,0000,,你给这地方起的名字\N{\rEnglish}You named the damn thing.
+Dialogue: 0,0:59:44.80,0:59:47.24,Default,NTP,0000,0000,0000,,一家公司对一个病人如此关心实属罕见\N{\rEnglish}It's rare for a company to be so interested in a patient.
+Dialogue: 0,0:59:47.32,0:59:49.00,Default,NTP,0000,0000,0000,,汤姆不仅仅是老板  他还是朋友\N{\rEnglish}Tom wasn't just a boss, he was a friend.
+Dialogue: 0,0:59:49.08,0:59:50.08,Default,NTP,0000,0000,0000,,我想知道他怎么样了\N{\rEnglish}I want to know how he's doing.
+Dialogue: 0,0:59:50.16,0:59:52.00,Default,NTP,0000,0000,0000,,他可能明天就会醒来  也可能永远沉睡\N{\rEnglish}He could wake up tomorrow, he could stay like this forever.
+Dialogue: 0,0:59:52.08,0:59:53.20,Default,NTP,0000,0000,0000,,我们无从知晓\N{\rEnglish}We really don't know.
+Dialogue: 0,0:59:53.28,0:59:54.88,Default,NTP,0000,0000,0000,,-那概率有多大呢  -很难说\N{\rEnglish}- Well, what are the odds? - It's hard to say.
+Dialogue: 0,0:59:54.96,0:59:56.48,Default,NTP,0000,0000,0000,,就目前而言  小于1%\N{\rEnglish}At this point, less than 1%?
+Dialogue: 0,0:59:56.56,0:59:57.58,Default,NTP,0000,0000,0000,,如果你已经做过功课了\N{\rEnglish}If you've done your research,
+Dialogue: 0,0:59:57.58,0:59:58.52,Default,NTP,0000,0000,0000,,我不知道你还想知道什么\N{\rEnglish}I don't know what else you want.
+Dialogue: 0,0:59:58.60,1:00:00.44,Default,NTP,0000,0000,0000,,我担心你给了他妻子错误的希望\N{\rEnglish}I'm concerned that you're giving his wife false hope.
+Dialogue: 0,1:00:00.52,1:00:01.80,Default,NTP,0000,0000,0000,,我告诉她了我们不能确定\N{\rEnglish}I told her we don't know.
+Dialogue: 0,1:00:01.88,1:00:04.45,Default,NTP,0000,0000,0000,,你知道  这么说会让人觉得有其他可能\N{\rEnglish}Well, you know, that makes it sound like it could go either way.
+Dialogue: 0,1:00:04.52,1:00:05.48,Default,NTP,0000,0000,0000,,我不能左右她的决定\N{\rEnglish}I can't tell her what to do.
+Dialogue: 0,1:00:05.56,1:00:06.97,Default,NTP,0000,0000,0000,,我只希望你告诉她真相\N{\rEnglish}I just want you to tell her the truth.
+Dialogue: 0,1:00:07.08,1:00:09.68,Default,NTP,0000,0000,0000,,拖延时间对这个家庭太残忍了\N{\rEnglish}Dragging this out is so hard on this family.
+Dialogue: 0,1:00:10.20,1:00:11.61,Default,NTP,0000,0000,0000,,希望你好好想想\N{\rEnglish}Just think about it.
+Dialogue: 0,1:00:45.56,1:00:47.80,Default,NTP,0000,0000,0000,,劳拉  你真迷人\N{\rEnglish}Lara, you're so beautiful.
+Dialogue: 0,1:00:47.88,1:00:49.76,Default,NTP,0000,0000,0000,,我有经常赞美你吗\N{\rEnglish}Did I tell you often enough?
+Dialogue: 0,1:00:58.24,1:01:01.00,Default,NTP,0000,0000,0000,,我只想说\N{\rEnglish}I just wanna say that I'm...
+Dialogue: 0,1:01:01.08,1:01:02.04,Default,NTP,0000,0000,0000,,对不起\N{\rEnglish}I'm sorry.
+Dialogue: 0,1:01:02.12,1:01:04.08,Default,NTP,0000,0000,0000,,过来\N{\rEnglish}Hello, there. Come here.
+Dialogue: 0,1:01:04.48,1:01:07.13,Default,NTP,0000,0000,0000,,我今晚没心情陪你疯\N{\rEnglish}I'm not in the mood for crazy tonight.
+Dialogue: 0,1:01:07.76,1:01:09.00,Default,NTP,0000,0000,0000,,好孩子\N{\rEnglish}Good boy.
+Dialogue: 0,1:01:12.72,1:01:16.04,Default,NTP,0000,0000,0000,,我猜这对你来说也不容易吧  毛绒裤先生\N{\rEnglish}I guess this isn't easy for you, huh, Mr. Fuzzypants?
+Dialogue: 0,1:01:16.12,1:01:18.52,Default,NTP,0000,0000,0000,,遇见这样的家庭\N{\rEnglish}Meeting a family like this?
+Dialogue: 0,1:01:18.60,1:01:20.20,Default,NTP,0000,0000,0000,,你需要抱抱吗\N{\rEnglish}Do you need a cuddle?
+Dialogue: 0,1:01:20.32,1:01:22.12,Default,NTP,0000,0000,0000,,今晚有人需要抱抱吗\N{\rEnglish}Somebody need a cuddle tonight?
+Dialogue: 0,1:01:28.12,1:01:29.20,Default,NTP,0000,0000,0000,,好了\N{\rEnglish}Okay.
+Dialogue: 0,1:01:29.28,1:01:31.64,Default,NTP,0000,0000,0000,,只属于咱俩的特别享受哦\N{\rEnglish}This is a special treat just for us.
+Dialogue: 0,1:01:32.60,1:01:33.60,Default,NTP,0000,0000,0000,,别说出去了\N{\rEnglish}Don't tell.
+Dialogue: 0,1:01:33.68,1:01:35.96,Default,NTP,0000,0000,0000,,悲催的是  我无人可说\N{\rEnglish}Sadly, I've got no one to tell.
+Dialogue: 0,1:01:41.12,1:01:43.08,Default,NTP,0000,0000,0000,,感觉如何\N{\rEnglish}How does that feel, huh?
+Dialogue: 0,1:01:43.16,1:01:44.73,Default,NTP,0000,0000,0000,,非常难过\N{\rEnglish}Very, very sad.
+Dialogue: 0,1:01:46.52,1:01:47.96,Default,NTP,0000,0000,0000,,晚安\N{\rEnglish}Good night.
+Dialogue: 0,1:01:50.72,1:01:52.13,Default,NTP,0000,0000,0000,,我爱你\N{\rEnglish}I love you.
+Dialogue: 0,1:01:58.48,1:01:59.64,Default,NTP,0000,0000,0000,,劳拉\N{\rEnglish}Lara.
+Dialogue: 0,1:02:00.08,1:02:01.60,Default,NTP,0000,0000,0000,,劳拉  醒醒\N{\rEnglish}Lara, wake up.
+Dialogue: 0,1:02:08.32,1:02:09.89,Default,NTP,0000,0000,0000,,你想当我的发型师吗\N{\rEnglish}Are you trying to be my hairdresser?
+Dialogue: 0,1:02:12.88,1:02:13.88,Default,NTP,0000,0000,0000,,你好\N{\rEnglish}Hello?
+Dialogue: 0,1:02:15.56,1:02:17.00,Default,NTP,0000,0000,0000,,让他上来\N{\rEnglish}Send him right up.
+Dialogue: 0,1:02:21.88,1:02:23.12,Default,NTP,0000,0000,0000,,你来卖公司的吗\N{\rEnglish}Do you have a company to sell?
+Dialogue: 0,1:02:23.20,1:02:24.40,Default,NTP,0000,0000,0000,,不  大楼开幕仪式今晚举行\N{\rEnglish}No, the tower opening's tonight
+Dialogue: 0,1:02:24.48,1:02:25.56,Default,NTP,0000,0000,0000,,我没在名单上看见你的名字\N{\rEnglish}and I didn't see your name on the list.
+Dialogue: 0,1:02:25.64,1:02:26.76,Default,NTP,0000,0000,0000,,我不太喜欢抛头露面\N{\rEnglish}I'm not getting out much.
+Dialogue: 0,1:02:27.48,1:02:28.48,Default,NTP,0000,0000,0000,,你能来我们荣幸之至\N{\rEnglish}We'd love to have you.
+Dialogue: 0,1:02:28.56,1:02:29.76,Default,NTP,0000,0000,0000,,你们当然会了\N{\rEnglish}I'm sure you would.
+Dialogue: 0,1:02:30.16,1:02:32.32,Default,NTP,0000,0000,0000,,劳拉  我们都很想念汤姆\N{\rEnglish}Lara, we all miss Tom very much.
+Dialogue: 0,1:02:32.92,1:02:36.68,Default,NTP,0000,0000,0000,,也许我没有立场说这话  但你得知道\N{\rEnglish}And maybe it's not my place to say this, but you have to know.
+Dialogue: 0,1:02:36.96,1:02:39.08,Default,NTP,0000,0000,0000,,-他不会醒来了  -妈妈\N{\rEnglish}- He's not coming back. - Mom?
+Dialogue: 0,1:02:39.32,1:02:40.68,Default,NTP,0000,0000,0000,,回你的房间  丽贝卡\N{\rEnglish}Go back to your room, Rebecca.
+Dialogue: 0,1:02:40.76,1:02:42.12,Default,NTP,0000,0000,0000,,他在说什么\N{\rEnglish}What is he talking about?
+Dialogue: 0,1:02:42.20,1:02:44.20,Default,NTP,0000,0000,0000,,收拾一下准备去上学了好吗  甜心\N{\rEnglish}Just get ready for school, okay, sweetie?
+Dialogue: 0,1:02:49.36,1:02:50.64,Default,NTP,0000,0000,0000,,你在胡说些什么\N{\rEnglish}You don't know what you're talking about.
+Dialogue: 0,1:02:50.72,1:02:51.96,Default,NTP,0000,0000,0000,,医生们说他还有机会\N{\rEnglish}The doctors say he has a chance.
+Dialogue: 0,1:02:52.08,1:02:53.57,Default,NTP,0000,0000,0000,,我理解  如果我是你\N{\rEnglish}I understand. If I were you,
+Dialogue: 0,1:02:53.64,1:02:55.84,Default,NTP,0000,0000,0000,,我会不惜一切代价让他活下来\N{\rEnglish}I would do anything to keep him alive.
+Dialogue: 0,1:02:56.40,1:02:58.32,Default,NTP,0000,0000,0000,,-但他可能会昏迷好几个月  -我可以等\N{\rEnglish}- But this could go on for months. - I can wait.
+Dialogue: 0,1:02:58.40,1:03:00.44,Default,NTP,0000,0000,0000,,或者数年  甚至永远都醒不过来\N{\rEnglish}Or years. And he never wakes up.
+Dialogue: 0,1:03:00.68,1:03:02.12,Default,NTP,0000,0000,0000,,丽贝卡  她需要哀悼父亲\N{\rEnglish}And Rebecca, she needs to mourn,
+Dialogue: 0,1:03:02.20,1:03:03.48,Default,NTP,0000,0000,0000,,可如果她一直等待永远不会回来的父亲\N{\rEnglish}she can't do that if she's waiting
+Dialogue: 0,1:03:03.56,1:03:04.97,Default,NTP,0000,0000,0000,,那她也永远尽不了孝了\N{\rEnglish}for a father who's never coming home.
+Dialogue: 0,1:03:05.04,1:03:06.04,Default,NTP,0000,0000,0000,,伊恩  不要\N{\rEnglish}Ian, don't...
+Dialogue: 0,1:03:09.24,1:03:10.40,Default,NTP,0000,0000,0000,,不要\N{\rEnglish}No!
+Dialogue: 0,1:03:12.04,1:03:13.76,Default,NTP,0000,0000,0000,,快把它弄走\N{\rEnglish}Get this off of me!
+Dialogue: 0,1:03:16.96,1:03:18.92,Default,NTP,0000,0000,0000,,求你了  把这畜生弄走\N{\rEnglish}Please! Get this beast off of me.
+Dialogue: 0,1:03:23.20,1:03:24.20,Default,NTP,0000,0000,0000,,好了  进笼子里去\N{\rEnglish}All right, in the cage.
+Dialogue: 0,1:03:24.32,1:03:25.32,Default,NTP,0000,0000,0000,,我做错什么了\N{\rEnglish}What did I do?
+Dialogue: 0,1:03:25.40,1:03:26.68,Default,NTP,0000,0000,0000,,你要进笼子里去\N{\rEnglish}You are going into the cage.
+Dialogue: 0,1:03:26.76,1:03:29.57,Default,NTP,0000,0000,0000,,这就是个野猫  你得把它送去动物收容所\N{\rEnglish}That cat is feral, and you need to take it to the pound.
+Dialogue: 0,1:03:29.64,1:03:30.80,Default,NTP,0000,0000,0000,,这可是新西服\N{\rEnglish}This is a brand new suit!
+Dialogue: 0,1:03:33.52,1:03:35.48,Default,NTP,0000,0000,0000,,就算它不挠你  我也会亲自动手\N{\rEnglish}He just clawed you before I could.
+Dialogue: 0,1:03:35.56,1:03:37.36,Default,NTP,0000,0000,0000,,-劳拉  -我可不是傻瓜\N{\rEnglish}- Lara... - I am not an idiot.
+Dialogue: 0,1:03:37.44,1:03:39.04,Default,NTP,0000,0000,0000,,你来这可不是因为关心我\N{\rEnglish}You're not here because you care about me
+Dialogue: 0,1:03:39.12,1:03:40.48,Default,NTP,0000,0000,0000,,丽贝卡或者汤姆\N{\rEnglish}or about Rebecca or about Tom.
+Dialogue: 0,1:03:40.56,1:03:43.45,Default,NTP,0000,0000,0000,,我才不会拔掉我丈夫的供氧插头来助纣为虐\N{\rEnglish}And I am not unplugging my husband to help your bottom line.
+Dialogue: 0,1:03:43.52,1:03:44.54,Default,NTP,0000,0000,0000,,再见  妈妈\N{\rEnglish}Bye, Mom.
+Dialogue: 0,1:03:44.54,1:03:45.48,Default,NTP,0000,0000,0000,,等等亲爱的  我送你去学校\N{\rEnglish}Wait, honey, I'll walk you to school.
+Dialogue: 0,1:03:45.56,1:03:46.84,Default,NTP,0000,0000,0000,,不用了  妈妈\N{\rEnglish}No, it's okay, Mom.
+Dialogue: 0,1:03:46.84,1:03:48.64,Default,NTP,0000,0000,0000,,几个街区而已  我已经11岁了\N{\rEnglish}It's only a couple of blocks and I'm 11.
+Dialogue: 0,1:03:48.76,1:03:49.88,Default,NTP,0000,0000,0000,,好吧\N{\rEnglish}Okay.
+Dialogue: 0,1:03:57.72,1:04:00.76,Default,NTP,0000,0000,0000,,我懂  你想保护丽贝卡\N{\rEnglish}I understand. You want to protect Rebecca.
+Dialogue: 0,1:04:00.84,1:04:03.00,Default,NTP,0000,0000,0000,,而我想保护公司\N{\rEnglish}And I want to protect the company.
+Dialogue: 0,1:04:03.08,1:04:04.60,Default,NTP,0000,0000,0000,,但我们都需要同一样东西\N{\rEnglish}But we both need the same thing.
+Dialogue: 0,1:04:06.12,1:04:07.12,Default,NTP,0000,0000,0000,,不送  伊恩\N{\rEnglish}Goodbye, Ian.
+Dialogue: 0,1:04:22.00,1:04:23.41,Default,NTP,0000,0000,0000,,我干洗好的衣服呢\N{\rEnglish}Where's my dry cleaning?
+Dialogue: 0,1:04:23.48,1:04:24.97,Default,NTP,0000,0000,0000,,考克斯先生  你该上塔了\N{\rEnglish}Mr. Cox, you're scheduled at the tower.
+Dialogue: 0,1:04:25.04,1:04:26.28,Default,NTP,0000,0000,0000,,我知道  告诉董事会我迟点到\N{\rEnglish}Yeah, I know. Tell the Board I'm running late.
+Dialogue: 0,1:04:26.32,1:04:28.44,Default,NTP,0000,0000,0000,,-他们都在布兰德先生的办公室  -什么\N{\rEnglish}- Oh, they're in Mr. Brand's office. - What?
+Dialogue: 0,1:04:28.52,1:04:30.60,Default,NTP,0000,0000,0000,,不过我把你和活动策划人的会面时间提前了\N{\rEnglish}But I moved up your meeting with the event planner.
+Dialogue: 0,1:04:33.32,1:04:34.48,Default,NTP,0000,0000,0000,,你们不是应该在大楼里吗\N{\rEnglish}Why aren't you at the tower?
+Dialogue: 0,1:04:34.56,1:04:36.05,Default,NTP,0000,0000,0000,,-你说要开会  -我没说\N{\rEnglish}- You called a meeting. - I didn't call a meeting.
+Dialogue: 0,1:04:36.12,1:04:37.69,Default,NTP,0000,0000,0000,,是大卫召集的会议\N{\rEnglish}David called the meeting.
+Dialogue: 0,1:04:37.76,1:04:38.80,Default,NTP,0000,0000,0000,,你打算通知我的吗\N{\rEnglish}Were you gonna tell me?
+Dialogue: 0,1:04:38.88,1:04:40.64,Default,NTP,0000,0000,0000,,他说他只需要董事会成员\N{\rEnglish}He said he just needed the Board.
+Dialogue: 0,1:04:45.85,1:04:48.19,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}猫的神秘论
+Dialogue: 0,1:04:48.96,1:04:50.88,Default,NTP,0000,0000,0000,,你想明白了\N{\rEnglish}You figured it out.
+Dialogue: 0,1:04:59.64,1:05:00.64,Default,NTP,0000,0000,0000,,董事会成员在哪里\N{\rEnglish}Where's the Board?
+Dialogue: 0,1:05:00.72,1:05:02.13,Default,NTP,0000,0000,0000,,我让他们去大厦了\N{\rEnglish}I sent them ahead to the tower.
+Dialogue: 0,1:05:02.20,1:05:03.28,Default,NTP,0000,0000,0000,,很抱歉他们错过了你的会议\N{\rEnglish}Sorry they missed your meeting.
+Dialogue: 0,1:05:03.36,1:05:04.48,Default,NTP,0000,0000,0000,,没关系  我们去那里开吧\N{\rEnglish}That's okay. We'll do it there.
+Dialogue: 0,1:05:04.56,1:05:05.64,Default,NTP,0000,0000,0000,,我们会进行一次投票\N{\rEnglish}We're gonna have a little vote.
+Dialogue: 0,1:05:05.72,1:05:07.13,Default,NTP,0000,0000,0000,,是啊  你知道吗  你不会参加开幕式\N{\rEnglish}Yeah, you know, you're not going to the opening.
+Dialogue: 0,1:05:07.20,1:05:09.64,Default,NTP,0000,0000,0000,,-真的吗  -没错  布兰德先生不再为我们工作了\N{\rEnglish}- Really? - Yeah. Mr. Brand no longer works for us.
+Dialogue: 0,1:05:09.72,1:05:11.16,Default,NTP,0000,0000,0000,,他说得对  这个公司是我的\N{\rEnglish}He's right. I own the company.
+Dialogue: 0,1:05:11.24,1:05:13.12,Default,NTP,0000,0000,0000,,还不是  请把他护送出去\N{\rEnglish}Not yet. Please escort him off the property.
+Dialogue: 0,1:05:13.20,1:05:14.20,Default,NTP,0000,0000,0000,,别碰我\N{\rEnglish}Don't touch me.
+Dialogue: 0,1:05:14.28,1:05:16.80,Default,NTP,0000,0000,0000,,伊恩  你这样做  我会带着一队律师来找你的\N{\rEnglish}Ian, you do this, I will come at you with an army of lawyers.
+Dialogue: 0,1:05:17.04,1:05:18.32,Default,NTP,0000,0000,0000,,请便  告我啊\N{\rEnglish}Go ahead. Sue me.
+Dialogue: 0,1:05:18.40,1:05:20.00,Default,NTP,0000,0000,0000,,等明天我们都有钱了再告\N{\rEnglish}Do it tomorrow when we're both rich.
+Dialogue: 0,1:05:20.08,1:05:21.05,Default,NTP,0000,0000,0000,,你真的以为用几个保镖\N{\rEnglish}Do you really think you can
+Dialogue: 0,1:05:21.05,1:05:22.56,Default,NTP,0000,0000,0000,,就能占有火兰德吗\N{\rEnglish}steal FireBrand with a couple of bouncers?
+Dialogue: 0,1:05:22.64,1:05:24.44,Default,NTP,0000,0000,0000,,你觉得你父亲的一张条子就能阻止我吗\N{\rEnglish}And you think you can stop me with a note from Daddy?
+Dialogue: 0,1:05:24.52,1:05:26.20,Default,NTP,0000,0000,0000,,你父亲就要死了  你丢掉了他的公司\N{\rEnglish}Your father's dying. You lost his company.
+Dialogue: 0,1:05:26.28,1:05:28.52,Default,NTP,0000,0000,0000,,到最后  你也成不了汤姆·布兰德\N{\rEnglish}At the end of the day, you're not Tom Brand.
+Dialogue: 0,1:05:46.36,1:05:49.26,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}喵金斯宠物店
+Dialogue: 0,1:05:51.52,1:05:52.64,Default,NTP,0000,0000,0000,,看看谁回来了\N{\rEnglish}Look who's back.
+Dialogue: 0,1:05:54.00,1:05:55.72,Default,NTP,0000,0000,0000,,我就知道你会回来的\N{\rEnglish}I knew you'd be back.
+Dialogue: 0,1:05:56.76,1:05:58.48,Default,NTP,0000,0000,0000,,看谁来了\N{\rEnglish}Look who's here.
+Dialogue: 0,1:06:07.48,1:06:09.40,Default,NTP,0000,0000,0000,,我能为你做什么  小寿星\N{\rEnglish}What can I do for you, birthday girl?
+Dialogue: 0,1:06:09.48,1:06:11.16,Default,NTP,0000,0000,0000,,我想要你收回这只猫\N{\rEnglish}I want you to take the cat back.
+Dialogue: 0,1:06:11.24,1:06:12.81,Default,NTP,0000,0000,0000,,他做什么了\N{\rEnglish}What's he done?
+Dialogue: 0,1:06:14.36,1:06:16.24,Default,NTP,0000,0000,0000,,他很好  只是...\N{\rEnglish}He's been great. It's just...
+Dialogue: 0,1:06:16.32,1:06:18.36,Default,NTP,0000,0000,0000,,我觉得他们可能想把他送走\N{\rEnglish}I think they might wanna take him away
+Dialogue: 0,1:06:18.44,1:06:20.64,Default,NTP,0000,0000,0000,,也许他最好回到这里\N{\rEnglish}and maybe he'd be better off back here.
+Dialogue: 0,1:06:20.92,1:06:23.24,Default,NTP,0000,0000,0000,,我经常收到退回来的猫\N{\rEnglish}I get returns all the time.
+Dialogue: 0,1:06:23.52,1:06:26.04,Default,NTP,0000,0000,0000,,有些猫就是不喜欢它们的新家\N{\rEnglish}Some cats just don't take to their new family.
+Dialogue: 0,1:06:26.36,1:06:29.25,Default,NTP,0000,0000,0000,,我见到你爸爸时  本来希望你们能中意它\N{\rEnglish}When I met your father, I hoped it would work out.
+Dialogue: 0,1:06:29.76,1:06:31.92,Default,NTP,0000,0000,0000,,我知道这有点蠢  但是有时我觉得\N{\rEnglish}I know it's stupid, but sometimes I feel
+Dialogue: 0,1:06:32.00,1:06:34.24,Default,NTP,0000,0000,0000,,我爸爸在通过那只猫在关照我\N{\rEnglish}like my dad's looking out for me through the cat.
+Dialogue: 0,1:06:34.40,1:06:35.52,Default,NTP,0000,0000,0000,,你想他了\N{\rEnglish}You miss him.
+Dialogue: 0,1:06:35.84,1:06:38.76,Default,NTP,0000,0000,0000,,是的  我太爱我爸爸了\N{\rEnglish}I do. I love my dad so much.
+Dialogue: 0,1:06:39.00,1:06:40.00,Default,NTP,0000,0000,0000,,他也爱你\N{\rEnglish}And he loves you,
+Dialogue: 0,1:06:40.08,1:06:42.97,Default,NTP,0000,0000,0000,,但是爱一个人光说是不够的\N{\rEnglish}but it's not enough to say you love someone.
+Dialogue: 0,1:06:43.04,1:06:44.92,Default,NTP,0000,0000,0000,,你得表现出来  有时\N{\rEnglish}You have to show it. Sometimes,
+Dialogue: 0,1:06:46.08,1:06:47.60,Default,NTP,0000,0000,0000,,爱意味着牺牲\N{\rEnglish}love means sacrifice.
+Dialogue: 0,1:06:48.52,1:06:49.80,Default,NTP,0000,0000,0000,,你得表现出来\N{\rEnglish}You have to show it.
+Dialogue: 0,1:06:52.44,1:06:55.64,Default,NTP,0000,0000,0000,,你到我家的时候  你跟他说话了\N{\rEnglish}When you came to the house, you were talking to him.
+Dialogue: 0,1:06:56.08,1:06:58.28,Default,NTP,0000,0000,0000,,这是我的工作  我是个猫语者\N{\rEnglish}It's what I do. I'm a cat whisperer.
+Dialogue: 0,1:06:59.08,1:07:02.44,Default,NTP,0000,0000,0000,,没错  但是你像跟人一样跟他说话\N{\rEnglish}Yeah, but you were talking to him like he was a person.
+Dialogue: 0,1:07:04.60,1:07:06.04,Default,NTP,0000,0000,0000,,这只猫是我爸爸吗\N{\rEnglish}Is this cat my dad?
+Dialogue: 0,1:07:06.48,1:07:08.40,Default,NTP,0000,0000,0000,,珀金斯  听着  你得告诉她\N{\rEnglish}Perkins, listen. You have to tell her.
+Dialogue: 0,1:07:08.68,1:07:10.33,Default,NTP,0000,0000,0000,,-你觉得呢  -其实\N{\rEnglish}- What do you think? - Well,
+Dialogue: 0,1:07:10.40,1:07:11.80,Default,NTP,0000,0000,0000,,他让我感觉我爸爸就在这里\N{\rEnglish}he makes me feel like my
+Dialogue: 0,1:07:11.80,1:07:14.61,Default,NTP,0000,0000,0000,,那感觉甚至比以前更强烈\N{\rEnglish}dad's still around more than he ever was before.
+Dialogue: 0,1:07:15.12,1:07:16.12,Default,NTP,0000,0000,0000,,有时候\N{\rEnglish}Sometimes,
+Dialogue: 0,1:07:16.76,1:07:19.16,Default,NTP,0000,0000,0000,,我几乎希望我的爸爸能更像这只猫\N{\rEnglish}I almost wish my daddy was more like the cat.
+Dialogue: 0,1:07:20.28,1:07:23.09,Default,NTP,0000,0000,0000,,但我真的希望我爸爸能回来\N{\rEnglish}But I really just want my daddy back.
+Dialogue: 0,1:07:24.40,1:07:25.64,Default,NTP,0000,0000,0000,,失陪一下\N{\rEnglish}Excuse me a minute.
+Dialogue: 0,1:07:27.72,1:07:29.72,Default,NTP,0000,0000,0000,,我给你看样东西\N{\rEnglish}I'm gonna show you something.
+Dialogue: 0,1:07:42.80,1:07:44.48,Default,NTP,0000,0000,0000,,马上回来\N{\rEnglish}I'll be right back.
+Dialogue: 0,1:07:45.60,1:07:46.60,Default,NTP,0000,0000,0000,,等等\N{\rEnglish}Wait.
+Dialogue: 0,1:07:53.08,1:07:54.12,Default,NTP,0000,0000,0000,,你应该跟我们在一起\N{\rEnglish}You should stay with us.
+Dialogue: 0,1:07:54.20,1:07:56.00,Default,NTP,0000,0000,0000,,猫的生活好太多了\N{\rEnglish}A cat's life is so much better.
+Dialogue: 0,1:07:56.08,1:07:57.68,Default,NTP,0000,0000,0000,,谢谢  但还是算了\N{\rEnglish}Thanks, but no thanks.
+Dialogue: 0,1:07:58.24,1:08:00.56,Default,NTP,0000,0000,0000,,我们冷漠  自私  但还是被人宠爱\N{\rEnglish}We're cold, selfish, and people still love us.
+Dialogue: 0,1:08:00.84,1:08:02.72,Default,NTP,0000,0000,0000,,我不想变成那样\N{\rEnglish}That's not who I wanna be.
+Dialogue: 0,1:08:02.84,1:08:05.00,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,1:08:06.48,1:08:08.84,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,1:08:10.08,1:08:11.60,Default,NTP,0000,0000,0000,,能跟我跳支舞吗\N{\rEnglish}May I have this dance?
+Dialogue: 0,1:08:11.68,1:08:13.52,Default,NTP,0000,0000,0000,,坐在一部旧车的角落\N{\rEnglish}Parked on the corner in a beat-up car
+Dialogue: 0,1:08:14.20,1:08:17.44,Default,NTP,0000,0000,0000,,瓜分一块五分钱的糖\N{\rEnglish}Dividing up a nickel candy bar
+Dialogue: 0,1:08:17.96,1:08:20.96,Default,NTP,0000,0000,0000,,吹嘘着它们有多敏捷\N{\rEnglish}Talking all about how sharp they are
+Dialogue: 0,1:08:21.20,1:08:23.36,Default,NTP,0000,0000,0000,,这三只酷猫\N{\rEnglish}These three cool cats
+Dialogue: 0,1:08:25.68,1:08:27.96,Default,NTP,0000,0000,0000,,三个酷酷的小妞\N{\rEnglish}Three cool chicks
+Dialogue: 0,1:08:36.72,1:08:37.80,Default,NTP,0000,0000,0000,,安全\N{\rEnglish}Clear.
+Dialogue: 0,1:08:43.12,1:08:44.64,Default,NTP,0000,0000,0000,,丽贝卡会杀掉我的\N{\rEnglish}Rebecca's gonna kill me.
+Dialogue: 0,1:08:52.08,1:08:53.12,Default,NTP,0000,0000,0000,,你好\N{\rEnglish}Hello.
+Dialogue: 0,1:08:55.68,1:08:59.52,Default,NTP,0000,0000,0000,,-"我要中间那个妞"  -"我要最小那个妞"\N{\rEnglish}- "I want that middle chick!" - "I want that little chick!"
+Dialogue: 0,1:08:59.60,1:09:02.25,Default,NTP,0000,0000,0000,,"给我留一个"\N{\rEnglish}"Hey, man, save one chick for me!"
+Dialogue: 0,1:09:03.28,1:09:05.60,Default,NTP,0000,0000,0000,,三个酷酷的小妞\N{\rEnglish}Three cool chicks
+Dialogue: 0,1:09:07.08,1:09:09.16,Default,NTP,0000,0000,0000,,三个酷酷的小妞\N{\rEnglish}Three cool chicks
+Dialogue: 0,1:09:13.08,1:09:14.44,Default,NTP,0000,0000,0000,,一切都好吗\N{\rEnglish}Hey, everything all right?
+Dialogue: 0,1:09:14.64,1:09:18.08,Default,NTP,0000,0000,0000,,三只酷猫坠入爱河\N{\rEnglish}And three cool cats really fell in love
+Dialogue: 0,1:09:18.16,1:09:22.13,Default,NTP,0000,0000,0000,,但是三个酷酷的小妞耍了三只酷猫\N{\rEnglish}But three cool chicks made three fools of these
+Dialogue: 0,1:09:22.20,1:09:24.77,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,1:09:26.08,1:09:33.00,Default,NTP,0000,0000,0000,,三只酷猫\N{\rEnglish}Three cool cats
+Dialogue: 0,1:09:37.20,1:09:39.24,Default,NTP,0000,0000,0000,,你还想退回这只猫吗\N{\rEnglish}You still wanna return the cat?
+Dialogue: 0,1:09:40.00,1:09:41.57,Default,NTP,0000,0000,0000,,不\N{\rEnglish}No.
+Dialogue: 0,1:09:42.00,1:09:44.73,Default,NTP,0000,0000,0000,,如果你想要你爸爸回来  你得走了\N{\rEnglish}If you want your dad back, you should get going.
+Dialogue: 0,1:09:50.88,1:09:53.77,Default,NTP,0000,0000,0000,,我觉得他时间不够了\N{\rEnglish}I think he might be running out of time.
+Dialogue: 0,1:09:56.44,1:09:58.60,Default,NTP,0000,0000,0000,,爸爸  当他们今晚开放大厦的时候...\N{\rEnglish}Dad, when they open the tower tonight...
+Dialogue: 0,1:10:12.72,1:10:14.13,Default,NTP,0000,0000,0000,,把头低下\N{\rEnglish}Get down.
+Dialogue: 0,1:10:15.80,1:10:17.88,Default,NTP,0000,0000,0000,,我们观察不到任何大脑活动\N{\rEnglish}We're not seeing any cerebral activity at all.
+Dialogue: 0,1:10:17.96,1:10:20.04,Default,NTP,0000,0000,0000,,我不想让你们抱有错误的希望\N{\rEnglish}I just don't want to give you false hope.
+Dialogue: 0,1:10:20.12,1:10:22.32,Default,NTP,0000,0000,0000,,他有可能再也醒不来了\N{\rEnglish}There's a possibility he's not coming back.
+Dialogue: 0,1:10:23.48,1:10:25.32,Default,NTP,0000,0000,0000,,妈妈  爸爸还在这里\N{\rEnglish}Mom, Dad's still here.
+Dialogue: 0,1:10:25.52,1:10:26.64,Default,NTP,0000,0000,0000,,能让我们单独待会儿吗\N{\rEnglish}Can you give us a minute?
+Dialogue: 0,1:10:26.72,1:10:28.24,Default,NTP,0000,0000,0000,,你知道这只猫为什么这么有趣吗\N{\rEnglish}You know how the cat's been acting funny?
+Dialogue: 0,1:10:28.32,1:10:29.73,Default,NTP,0000,0000,0000,,因为他就是爸爸\N{\rEnglish}Well, that's because it's Dad.
+Dialogue: 0,1:10:29.80,1:10:32.20,Default,NTP,0000,0000,0000,,-丽贝卡  -听我说  我能证明的\N{\rEnglish}- Rebecca... - Listen, I can prove it.
+Dialogue: 0,1:10:32.32,1:10:33.73,Default,NTP,0000,0000,0000,,我们去外面说吧\N{\rEnglish}Let's talk outside.
+Dialogue: 0,1:10:34.72,1:10:35.96,Default,NTP,0000,0000,0000,,来\N{\rEnglish}Come on.
+Dialogue: 0,1:10:37.84,1:10:39.64,Default,NTP,0000,0000,0000,,妈妈  我没瞎说\N{\rEnglish}Mom, I'm not making it up.
+Dialogue: 0,1:10:40.24,1:10:43.32,Default,NTP,0000,0000,0000,,我知道你的感受  我也很想他\N{\rEnglish}Oh, look, I know how you feel. I miss him, too.
+Dialogue: 0,1:10:43.40,1:10:46.60,Default,NTP,0000,0000,0000,,你会看到的  妈妈  他真的活在那只猫的身体里\N{\rEnglish}You'll see, Mommy. He's really alive in the cat.
+Dialogue: 0,1:10:48.68,1:10:50.12,Default,NTP,0000,0000,0000,,我搞砸了  爸爸\N{\rEnglish}I screwed up, Dad.
+Dialogue: 0,1:10:50.32,1:10:51.44,Default,NTP,0000,0000,0000,,你在说什么\N{\rEnglish}What are you talking about?
+Dialogue: 0,1:10:51.92,1:10:52.94,Default,NTP,0000,0000,0000,,我这辈子都在\N{\rEnglish}I spent my whole life
+Dialogue: 0,1:10:52.94,1:10:55.24,Default,NTP,0000,0000,0000,,等一个机会来让你骄傲\N{\rEnglish}waiting for a sign that I was making you proud.
+Dialogue: 0,1:10:55.52,1:10:56.93,Default,NTP,0000,0000,0000,,当这个机会到来时\N{\rEnglish}When I finally got it,
+Dialogue: 0,1:10:57.84,1:10:59.17,Default,NTP,0000,0000,0000,,我让你失望了\N{\rEnglish}I let you down.
+Dialogue: 0,1:10:59.60,1:11:01.17,Default,NTP,0000,0000,0000,,我失去了一切\N{\rEnglish}I lost everything.
+Dialogue: 0,1:11:02.48,1:11:03.68,Default,NTP,0000,0000,0000,,我无法承受\N{\rEnglish}I can't live with that.
+Dialogue: 0,1:11:09.88,1:11:11.53,Default,NTP,0000,0000,0000,,我不知道你是否还在\N{\rEnglish}I don't know if you're still in there,
+Dialogue: 0,1:11:12.60,1:11:13.88,Default,NTP,0000,0000,0000,,但是你不想错过这个的\N{\rEnglish}but you won't wanna miss this.
+Dialogue: 0,1:11:30.24,1:11:32.16,Default,NTP,0000,0000,0000,,因为我将第一次从那座大厦上跳下\N{\rEnglish}'Cause I'm gonna take my first jump.
+Dialogue: 0,1:11:33.88,1:11:36.85,Default,NTP,0000,0000,0000,,也是最后一次\N{\rEnglish}And my last jump right off of that tower.
+Dialogue: 0,1:11:36.92,1:11:38.04,Default,NTP,0000,0000,0000,,不要  大卫\N{\rEnglish}No, David!
+Dialogue: 0,1:11:39.32,1:11:41.84,Default,NTP,0000,0000,0000,,再见了  爸爸  我爱你\N{\rEnglish}Goodbye, Dad. I love you.
+Dialogue: 0,1:11:51.04,1:11:52.61,Default,NTP,0000,0000,0000,,那现在应该怎么办\N{\rEnglish}So how does this work?
+Dialogue: 0,1:11:53.44,1:11:54.72,Default,NTP,0000,0000,0000,,你得签一份放弃治疗同意书\N{\rEnglish}You'll need to sign a DNR.
+Dialogue: 0,1:11:55.40,1:11:56.40,Default,NTP,0000,0000,0000,,放弃治疗同意书\N{\rEnglish}DNR?
+Dialogue: 0,1:11:56.64,1:11:58.29,Default,NTP,0000,0000,0000,,他们要给我拔管子了\N{\rEnglish}They're pulling the plug on me?
+Dialogue: 0,1:11:58.36,1:12:00.36,Default,NTP,0000,0000,0000,,然后我们就会关掉呼吸机\N{\rEnglish}And then we'll take out the respirator.
+Dialogue: 0,1:12:00.56,1:12:01.56,Default,NTP,0000,0000,0000,,爸爸\N{\rEnglish}Daddy.
+Dialogue: 0,1:12:01.76,1:12:04.49,Default,NTP,0000,0000,0000,,妈妈  记得从前我跟爸爸跳舞的样子吗\N{\rEnglish}Mom, remember how me and Dad used to dance together?
+Dialogue: 0,1:12:04.56,1:12:06.96,Default,NTP,0000,0000,0000,,-是的  -我们做给你看  好吗\N{\rEnglish}- Yeah. - Just watch, okay? We'll show you, okay?
+Dialogue: 0,1:12:07.04,1:12:08.04,Default,NTP,0000,0000,0000,,爸爸  过来\N{\rEnglish}Daddy, come here.
+Dialogue: 0,1:12:08.48,1:12:10.20,Default,NTP,0000,0000,0000,,爸爸  爸爸\N{\rEnglish}Daddy. Daddy.
+Dialogue: 0,1:12:10.40,1:12:12.00,Default,NTP,0000,0000,0000,,我们得跳舞给妈妈看\N{\rEnglish}We need to show Mommy our dance.
+Dialogue: 0,1:12:12.32,1:12:13.32,Default,NTP,0000,0000,0000,,过来\N{\rEnglish}Come here.
+Dialogue: 0,1:12:14.76,1:12:15.76,Default,NTP,0000,0000,0000,,爸爸\N{\rEnglish}Daddy.
+Dialogue: 0,1:12:18.00,1:12:19.65,Default,NTP,0000,0000,0000,,爱意味着牺牲\N{\rEnglish}Love means sacrifice.
+Dialogue: 0,1:12:20.52,1:12:21.85,Default,NTP,0000,0000,0000,,爱意味着牺牲\N{\rEnglish}Love means sacrifice.
+Dialogue: 0,1:12:21.92,1:12:23.64,Default,NTP,0000,0000,0000,,爸爸  爸爸\N{\rEnglish}Daddy! Daddy!
+Dialogue: 0,1:12:23.92,1:12:26.44,Default,NTP,0000,0000,0000,,我将在小猫盒里度过余生\N{\rEnglish}I'm spending the rest of my life in a litter box.
+Dialogue: 0,1:12:26.92,1:12:27.92,Default,NTP,0000,0000,0000,,爸爸\N{\rEnglish}Daddy.
+Dialogue: 0,1:12:28.16,1:12:29.16,Default,NTP,0000,0000,0000,,爸爸\N{\rEnglish}Daddy!
+Dialogue: 0,1:12:29.84,1:12:33.04,Default,NTP,0000,0000,0000,,爸爸  爸爸  过来  我们得给她看\N{\rEnglish}Daddy! Daddy, come here! We have to show her!
+Dialogue: 0,1:12:33.68,1:12:36.25,Default,NTP,0000,0000,0000,,-爸爸  爸爸  你在干吗  -我的宝贝\N{\rEnglish}- Daddy! Daddy! What are you doing? - My baby.
+Dialogue: 0,1:12:37.28,1:12:39.32,Default,NTP,0000,0000,0000,,亲爱的  我很抱歉\N{\rEnglish}Oh, honey, I'm sorry.
+Dialogue: 0,1:12:42.40,1:12:44.88,Default,NTP,0000,0000,0000,,谢谢  她真美  不是吗\N{\rEnglish}Thank you. Isn't she beautiful?
+Dialogue: 0,1:12:45.24,1:12:47.72,Default,NTP,0000,0000,0000,,1900英尺的玻璃与钢铁\N{\rEnglish}1,900 feet of glass and steel.
+Dialogue: 0,1:12:47.88,1:12:50.72,Default,NTP,0000,0000,0000,,你可以认为我是个喜欢用数字说话的人\N{\rEnglish}Now, you can tell I'm a bit of a numbers guy,
+Dialogue: 0,1:12:50.80,1:12:53.12,Default,NTP,0000,0000,0000,,所以  对于我  这座大厦不只是个传奇\N{\rEnglish}so, for me, this tower's more than a legacy.
+Dialogue: 0,1:12:53.24,1:12:57.45,Default,NTP,0000,0000,0000,,这里有280万平方英尺的办公空间\N{\rEnglish}Its 2.8 million square feet of pristine office space.
+Dialogue: 0,1:13:09.52,1:13:11.01,Default,NTP,0000,0000,0000,,甚至在我剪彩之前\N{\rEnglish}Before I even cut a ribbon,
+Dialogue: 0,1:13:11.08,1:13:14.80,Default,NTP,0000,0000,0000,,这幢纽约的最高建筑已出租65%\N{\rEnglish}we've leased 65% of the tallest building in New York.
+Dialogue: 0,1:13:14.88,1:13:16.92,Default,NTP,0000,0000,0000,,其余的已在洽谈中\N{\rEnglish}And we're already in negotiations for the rest of it.
+Dialogue: 0,1:13:27.40,1:13:29.00,Default,NTP,0000,0000,0000,,我们的能力远不止如此\N{\rEnglish}We can be so much more.
+Dialogue: 0,1:13:29.40,1:13:32.44,Default,NTP,0000,0000,0000,,本公司的能力不仅是其各部分的总和\N{\rEnglish}But this company is greater than the sum of its parts.
+Dialogue: 0,1:13:32.52,1:13:35.04,Default,NTP,0000,0000,0000,,在去年  不但在房地产\N{\rEnglish}Beyond real estate, in the last year,
+Dialogue: 0,1:13:35.12,1:13:36.96,Default,NTP,0000,0000,0000,,在其它产业的收益也相当可观\N{\rEnglish}we've enjoyed record earnings.
+Dialogue: 0,1:13:38.04,1:13:39.76,Default,NTP,0000,0000,0000,,全球性零售业\N{\rEnglish}Global retail.
+Dialogue: 0,1:13:39.84,1:13:41.72,Default,NTP,0000,0000,0000,,但在发表重大消息之前\N{\rEnglish}But before we move on with our big announcement,
+Dialogue: 0,1:13:41.80,1:13:43.96,Default,NTP,0000,0000,0000,,一位特别嘉宾想说几句\N{\rEnglish}we have a special guest who'd like to say a few words.
+Dialogue: 0,1:13:44.04,1:13:45.64,Default,NTP,0000,0000,0000,,请欢迎爱德华兹市长\N{\rEnglish}Please welcome Mayor Edwards.
+Dialogue: 0,1:13:45.72,1:13:46.92,Default,NTP,0000,0000,0000,,谢谢你  伊恩\N{\rEnglish}Thank you, Ian.
+Dialogue: 0,1:13:49.20,1:13:50.36,Default,NTP,0000,0000,0000,,纽约\N{\rEnglish}New York...
+Dialogue: 0,1:13:50.80,1:13:53.00,Default,NTP,0000,0000,0000,,我们去告诉爸爸我们有多爱他\N{\rEnglish}We're gonna tell Daddy how much we love him.
+Dialogue: 0,1:13:56.32,1:13:57.32,Default,NTP,0000,0000,0000,,大卫\N{\rEnglish}David?
+Dialogue: 0,1:14:01.16,1:14:02.32,Default,NTP,0000,0000,0000,,我想稍用片刻\N{\rEnglish}I like to take a moment of...
+Dialogue: 0,1:14:02.40,1:14:03.76,Default,NTP,0000,0000,0000,,快来人  让我进去\N{\rEnglish}Wake up in there. Let me in.
+Dialogue: 0,1:14:03.84,1:14:05.64,Default,NTP,0000,0000,0000,,致敬让一切成为可能的梦想家\N{\rEnglish}For the dreamer who made all this possible.
+Dialogue: 0,1:14:06.80,1:14:08.04,Default,NTP,0000,0000,0000,,大卫·布兰德\N{\rEnglish}Tom Brand.
+Dialogue: 0,1:14:09.12,1:14:10.88,Default,NTP,0000,0000,0000,,交回给考克斯先生发言\N{\rEnglish}Now I'm gonna turn this back to Mr. Cox.
+Dialogue: 0,1:14:10.96,1:14:13.80,Default,NTP,0000,0000,0000,,我们都希望汤姆能够出席  但总得有人剪彩\N{\rEnglish}We all wish Tom was here, but someone's gotta cut the ribbon.
+Dialogue: 0,1:14:16.28,1:14:18.16,Default,NTP,0000,0000,0000,,拜托\N{\rEnglish}Oh, come on!
+Dialogue: 0,1:14:28.68,1:14:29.68,Default,NTP,0000,0000,0000,,等等\N{\rEnglish}Wait!
+Dialogue: 0,1:14:31.00,1:14:32.68,Default,NTP,0000,0000,0000,,谢天谢地你找到了它\N{\rEnglish}Thank goodness you found him.
+Dialogue: 0,1:14:32.76,1:14:34.04,Default,NTP,0000,0000,0000,,这玩意是你家的\N{\rEnglish}That thing is yours?
+Dialogue: 0,1:14:34.12,1:14:37.24,Default,NTP,0000,0000,0000,,它是毛绒裤先生  总是逃跑\N{\rEnglish}That's Mr. Fuzzypants. He keeps escaping.
+Dialogue: 0,1:14:37.76,1:14:39.56,Default,NTP,0000,0000,0000,,毛绒裤算什么名字\N{\rEnglish}What kind of name is Fuzzypants?
+Dialogue: 0,1:14:39.84,1:14:41.25,Default,NTP,0000,0000,0000,,拜托\N{\rEnglish}Please.
+Dialogue: 0,1:14:42.28,1:14:43.28,Default,NTP,0000,0000,0000,,谢谢你\N{\rEnglish}Thank you.
+Dialogue: 0,1:14:45.00,1:14:46.28,Default,NTP,0000,0000,0000,,你这个小胡迪尼\N{\rEnglish}You little Houdini.
+Dialogue: 0,1:14:46.36,1:14:48.32,Default,NTP,0000,0000,0000,,它不会再烦你  我保证\N{\rEnglish}He won't bother you anymore. I promise.
+Dialogue: 0,1:14:48.40,1:14:49.68,Default,NTP,0000,0000,0000,,它想抓我\N{\rEnglish}He tried to scratch me.
+Dialogue: 0,1:14:50.28,1:14:52.08,Default,NTP,0000,0000,0000,,那一定把你吓坏了\N{\rEnglish}That must have been so scary for you.
+Dialogue: 0,1:14:52.72,1:14:54.40,Default,NTP,0000,0000,0000,,毛绒裤\N{\rEnglish}Fuzzypants.
+Dialogue: 0,1:14:55.04,1:14:56.04,Default,NTP,0000,0000,0000,,谢谢你\N{\rEnglish}Thank you.
+Dialogue: 0,1:15:01.92,1:15:04.84,Default,NTP,0000,0000,0000,,刚才真是大胆之举  布兰德先生\N{\rEnglish}That was some bold move you made back there, Mr. Brand.
+Dialogue: 0,1:15:05.20,1:15:06.61,Default,NTP,0000,0000,0000,,谢谢你  珀金斯\N{\rEnglish}Thank you, Perkins.
+Dialogue: 0,1:15:09.60,1:15:10.88,Default,NTP,0000,0000,0000,,要是我的话\N{\rEnglish}If it was me,
+Dialogue: 0,1:15:10.96,1:15:12.68,Default,NTP,0000,0000,0000,,就会留在医院\N{\rEnglish}I'd have stayed at the hospital.
+Dialogue: 0,1:15:12.76,1:15:14.44,Default,NTP,0000,0000,0000,,看来我要搬到你店里了\N{\rEnglish}Guess I'm moving into your shop.
+Dialogue: 0,1:15:14.52,1:15:15.85,Default,NTP,0000,0000,0000,,不\N{\rEnglish}No,
+Dialogue: 0,1:15:15.92,1:15:18.44,Default,NTP,0000,0000,0000,,因为你撑不住了\N{\rEnglish}'cause you're not gonna make it.
+Dialogue: 0,1:15:18.72,1:15:19.84,Default,NTP,0000,0000,0000,,什么  等等\N{\rEnglish}What? Wait!
+Dialogue: 0,1:15:29.60,1:15:30.96,Default,NTP,0000,0000,0000,,等等  这里最精彩  \N{\rEnglish}Wait, this is the best part.
+Dialogue: 0,1:15:43.28,1:15:44.93,Default,NTP,0000,0000,0000,,-我们该联系动物管制所吗  -不\N{\rEnglish}- Should we call animal control? - No.
+Dialogue: 0,1:15:45.00,1:15:46.16,Default,NTP,0000,0000,0000,,我们有泰瑟枪\N{\rEnglish}We got Tasers.
+Dialogue: 0,1:15:46.24,1:15:48.36,Default,NTP,0000,0000,0000,,对  动手吧\N{\rEnglish}Right. Let's do this.
+Dialogue: 0,1:15:57.72,1:16:00.29,Default,NTP,0000,0000,0000,,好嘞  猫咪  站着别动\N{\rEnglish}All right, kitty, just stand still.
+Dialogue: 0,1:16:00.36,1:16:02.96,Default,NTP,0000,0000,0000,,悲哀的是我开除不了你们\N{\rEnglish}The sad thing is I'll never get to fire you.
+Dialogue: 0,1:16:03.20,1:16:05.20,Default,NTP,0000,0000,0000,,我们要红爆互联网了\N{\rEnglish}We're gonna break the Internet.
+Dialogue: 0,1:16:10.04,1:16:11.08,Default,NTP,0000,0000,0000,,对不起  对不起\N{\rEnglish}Sorry! Sorry!
+Dialogue: 0,1:16:11.16,1:16:13.04,Default,NTP,0000,0000,0000,,你一定要调到最大档吗\N{\rEnglish}Did you have to set it to boil?
+Dialogue: 0,1:16:18.12,1:16:19.24,Default,NTP,0000,0000,0000,,看  笨蛋\N{\rEnglish}Look, you idiot.
+Dialogue: 0,1:16:20.24,1:16:21.24,Default,NTP,0000,0000,0000,,天啊\N{\rEnglish}Oh, God.
+Dialogue: 0,1:16:22.16,1:16:23.05,Default,NTP,0000,0000,0000,,楼顶有个男人\N{\rEnglish}We got a man on the roof.
+Dialogue: 0,1:16:23.05,1:16:24.97,Default,NTP,0000,0000,0000,,我们需要消防员  医护人员\N{\rEnglish}We are gonna need fire, paramedics...
+Dialogue: 0,1:16:25.04,1:16:26.32,Default,NTP,0000,0000,0000,,还有动物管制\N{\rEnglish}And animal control.
+Dialogue: 0,1:16:26.84,1:16:28.56,Default,NTP,0000,0000,0000,,楼顶有个男人  楼顶有个男人\N{\rEnglish}We got a man on the roof. We got a man on the roof.
+Dialogue: 0,1:16:28.64,1:16:30.24,Default,NTP,0000,0000,0000,,在楼顶上的是谁\N{\rEnglish}Who's on the roof?
+Dialogue: 0,1:16:30.40,1:16:31.44,Default,NTP,0000,0000,0000,,他要跳下来\N{\rEnglish}He's going to jump!
+Dialogue: 0,1:16:31.84,1:16:33.78,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}突发新闻  一名男子在火兰德大楼顶层
+Dialogue: 0,1:16:33.84,1:16:34.84,Default,NTP,0000,0000,0000,,大卫\N{\rEnglish}David.
+Dialogue: 0,1:16:43.52,1:16:44.85,Default,NTP,0000,0000,0000,,想都别想\N{\rEnglish}Don't even think about it.
+Dialogue: 0,1:16:49.84,1:16:51.08,Default,NTP,0000,0000,0000,,先生  从那里下来\N{\rEnglish}Sir, get down from there.
+Dialogue: 0,1:16:51.16,1:16:52.76,Default,NTP,0000,0000,0000,,离开边架\N{\rEnglish}Step away from the ledge.
+Dialogue: 0,1:16:55.52,1:16:56.68,Default,NTP,0000,0000,0000,,大卫  等等\N{\rEnglish}David, wait!
+Dialogue: 0,1:17:15.39,1:17:17.69,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}火兰德公司
+Dialogue: 0,1:17:34.92,1:17:36.44,Default,NTP,0000,0000,0000,,毛绒裤先生\N{\rEnglish}Mr. Fuzzypants?
+Dialogue: 0,1:17:48.92,1:17:50.60,Default,NTP,0000,0000,0000,,我的儿子\N{\rEnglish}My son...
+Dialogue: 0,1:17:52.00,1:17:54.00,Default,NTP,0000,0000,0000,,自始至终都是男子汉\N{\rEnglish}You were a man all along.
+Dialogue: 0,1:18:15.64,1:18:17.05,Default,NTP,0000,0000,0000,,喵  好疼\N{\rEnglish}Meow, that hurt.
+Dialogue: 0,1:18:17.12,1:18:18.28,Default,NTP,0000,0000,0000,,-汤姆  汤姆  -爸爸\N{\rEnglish}- Tom? Tom? - Dad.
+Dialogue: 0,1:18:19.08,1:18:21.65,Default,NTP,0000,0000,0000,,宝贝  我好想你\N{\rEnglish}Oh, baby. Oh, I missed you so much.
+Dialogue: 0,1:18:22.28,1:18:24.24,Default,NTP,0000,0000,0000,,很高兴看到汤姆的精神依然存在\N{\rEnglish}Well, it's good to see Tom's spirit alive and well.
+Dialogue: 0,1:18:24.32,1:18:26.00,Default,NTP,0000,0000,0000,,一旦安保处理好\N{\rEnglish}As soon as security takes care of this...
+Dialogue: 0,1:18:30.52,1:18:31.56,Default,NTP,0000,0000,0000,,拜托\N{\rEnglish}Come on.
+Dialogue: 0,1:18:36.32,1:18:37.76,Default,NTP,0000,0000,0000,,各位  晚上好\N{\rEnglish}Good evening, everybody.
+Dialogue: 0,1:18:38.72,1:18:41.64,Default,NTP,0000,0000,0000,,我听说伊恩不愿提起芝加哥\N{\rEnglish}So, I hear Ian doesn't want to talk about Chicago.
+Dialogue: 0,1:18:42.12,1:18:43.88,Default,NTP,0000,0000,0000,,我们也许没有最高的建筑\N{\rEnglish}You know, we may not have the tallest building,
+Dialogue: 0,1:18:43.96,1:18:45.45,Default,NTP,0000,0000,0000,,但我们确实拥有\N{\rEnglish}but we do have the tallest building
+Dialogue: 0,1:18:45.52,1:18:46.93,Default,NTP,0000,0000,0000,,定点跳伞的最高建筑\N{\rEnglish}anyone has ever BASE jumped off.
+Dialogue: 0,1:18:47.48,1:18:48.76,Default,NTP,0000,0000,0000,,让我们用掌声欢迎大卫·布兰德\N{\rEnglish}Let's hear it for David Brand.
+Dialogue: 0,1:18:53.32,1:18:56.05,Default,NTP,0000,0000,0000,,我很荣幸宣布明天  火兰德公司\N{\rEnglish}And I'm proud to announce that tomorrow, FireBrand...
+Dialogue: 0,1:18:56.12,1:18:58.56,Default,NTP,0000,0000,0000,,火兰德公司一直是家族生意\N{\rEnglish}FireBrand has always been a family business
+Dialogue: 0,1:18:58.64,1:19:00.68,Default,NTP,0000,0000,0000,,没什么能改变这点\N{\rEnglish}and nothing is going to change that.
+Dialogue: 0,1:19:00.76,1:19:02.41,Default,NTP,0000,0000,0000,,我看到董事们均在场\N{\rEnglish}I see the Board's all here.
+Dialogue: 0,1:19:02.48,1:19:03.64,Default,NTP,0000,0000,0000,,我们投票表决吧\N{\rEnglish}Let's take a vote.
+Dialogue: 0,1:19:04.12,1:19:06.32,Default,NTP,0000,0000,0000,,百分之五十一股份反对上市\N{\rEnglish}Fifty-one percent against going public.
+Dialogue: 0,1:19:06.76,1:19:07.96,Default,NTP,0000,0000,0000,,-你被开除了  -祝你好运\N{\rEnglish}- And you're fired. - Good luck.
+Dialogue: 0,1:19:08.20,1:19:09.92,Default,NTP,0000,0000,0000,,非常感谢\N{\rEnglish}Thank you very much!
+Dialogue: 0,1:19:10.00,1:19:11.80,Default,NTP,0000,0000,0000,,女士们先生们  伊恩·考克斯\N{\rEnglish}Ian Cox, ladies and gentlemen.
+Dialogue: 0,1:19:11.88,1:19:13.40,Default,NTP,0000,0000,0000,,为他鼓掌\N{\rEnglish}Give the little guy a hand.
+Dialogue: 0,1:19:16.68,1:19:17.68,Default,NTP,0000,0000,0000,,劳拉\N{\rEnglish}Lara?
+Dialogue: 0,1:19:18.16,1:19:20.28,Default,NTP,0000,0000,0000,,大卫  大卫  他醒了\N{\rEnglish}David. David, he's awake.
+Dialogue: 0,1:19:20.40,1:19:21.60,Default,NTP,0000,0000,0000,,-我是  -你爸爸醒了\N{\rEnglish}- Yep. - Your dad's awake.
+Dialogue: 0,1:19:21.68,1:19:23.17,Default,NTP,0000,0000,0000,,好的  我立刻过来\N{\rEnglish}Okay, I'll be right there.
+Dialogue: 0,1:19:23.74,1:19:27.87,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}重大新闻  火兰德大楼隆重开幕
+Dialogue: 0,1:19:25.08,1:19:26.76,Default,NTP,0000,0000,0000,,欢迎回来  爸爸\N{\rEnglish}Welcome back, Dad.
+Dialogue: 0,1:19:29.00,1:19:31.24,Default,NTP,0000,0000,0000,,不  我应付得来证监会\N{\rEnglish}No, I can handle the SEC.
+Dialogue: 0,1:19:31.36,1:19:33.40,Default,NTP,0000,0000,0000,,-帮我联系高盛集团  -先生\N{\rEnglish}- Just get me on the phone with Goldman... - Sir...
+Dialogue: 0,1:19:33.60,1:19:35.36,Default,NTP,0000,0000,0000,,-你还是挂了吧  -你说什么\N{\rEnglish}- You might want to hang up. - Excuse me?
+Dialogue: 0,1:19:35.68,1:19:37.44,Default,NTP,0000,0000,0000,,你不会喜欢打这通电话的结果\N{\rEnglish}You're not going to like where this call is going.
+Dialogue: 0,1:19:38.00,1:19:40.20,Default,NTP,0000,0000,0000,,谢谢  抱歉  某个疯子而已\N{\rEnglish}Thank you. Sorry, some nutcase.
+Dialogue: 0,1:19:40.44,1:19:42.16,Default,NTP,0000,0000,0000,,听着  我们依然可以把他告上法庭\N{\rEnglish}Listen, we can still take him to court.
+Dialogue: 0,1:19:45.60,1:19:46.64,Default,NTP,0000,0000,0000,,伊恩\N{\rEnglish}Ian...
+Dialogue: 0,1:19:47.80,1:19:48.80,Default,NTP,0000,0000,0000,,伊恩\N{\rEnglish}Ian?
+Dialogue: 0,1:19:48.88,1:19:50.48,Default,NTP,0000,0000,0000,,老实说\N{\rEnglish}Gotta be honest.
+Dialogue: 0,1:19:50.96,1:19:52.72,Default,NTP,0000,0000,0000,,我不知道你怎么从此脱身\N{\rEnglish}I don't know how you're gonna get out of this.
+Dialogue: 0,1:19:53.64,1:19:55.05,Default,NTP,0000,0000,0000,,我讨厌猫\N{\rEnglish}I hate cats.
+Dialogue: 0,1:19:56.16,1:19:58.48,Default,NTP,0000,0000,0000,,这就是为何如此完美\N{\rEnglish}That's what makes this so perfect.
+Dialogue: 0,1:20:05.00,1:20:07.12,Default,NTP,0000,0000,0000,,你们可能想听到  我学懂了些道理\N{\rEnglish}You probably want to hear that I've learned something,
+Dialogue: 0,1:20:07.20,1:20:08.96,Default,NTP,0000,0000,0000,,我改变了\N{\rEnglish}that I've changed...
+Dialogue: 0,1:20:09.72,1:20:12.08,Default,NTP,0000,0000,0000,,我依然觉得猫是可怕的野兽\N{\rEnglish}Well, I still think cats are horrible beasts
+Dialogue: 0,1:20:12.20,1:20:13.11,Default,NTP,0000,0000,0000,,要是它们没食物了\N{\rEnglish}that would eat you in your sleep
+Dialogue: 0,1:20:13.11,1:20:14.32,Default,NTP,0000,0000,0000,,就趁你睡觉吃掉你\N{\rEnglish}if they ran out of food.
+Dialogue: 0,1:20:14.40,1:20:16.72,Default,NTP,0000,0000,0000,,它们绝对是自私的动物\N{\rEnglish}They're selfish animals. That's for sure.
+Dialogue: 0,1:20:17.12,1:20:19.16,Default,NTP,0000,0000,0000,,但我不是它们的一员\N{\rEnglish}But I'm not one of them.
+Dialogue: 0,1:20:17.24,1:20:20.26,Default,NTP,0000,0000,0000,,{\an8}{\fnSTKaiti\fs18}喵金斯宠物店
+Dialogue: 0,1:20:19.80,1:20:20.80,Default,NTP,0000,0000,0000,,再也不是\N{\rEnglish}Not anymore.
+Dialogue: 0,1:20:26.56,1:20:28.21,Default,NTP,0000,0000,0000,,安静  闭嘴\N{\rEnglish}Be quiet. Shush.
+Dialogue: 0,1:20:29.64,1:20:30.84,Default,NTP,0000,0000,0000,,布兰德先生\N{\rEnglish}Mr. Brand.
+Dialogue: 0,1:20:31.24,1:20:33.04,Default,NTP,0000,0000,0000,,你看起来焕然一新\N{\rEnglish}You look like a new man.
+Dialogue: 0,1:20:34.40,1:20:35.76,Default,NTP,0000,0000,0000,,有什么需要我效劳的\N{\rEnglish}What can I do for you?
+Dialogue: 0,1:20:37.08,1:20:39.16,Default,NTP,0000,0000,0000,,我知道毛绒裤无法替代\N{\rEnglish}I know we can't replace Fuzzypants,
+Dialogue: 0,1:20:39.24,1:20:41.00,Default,NTP,0000,0000,0000,,但我们在考虑\N{\rEnglish}but we were wondering...
+Dialogue: 0,1:20:41.08,1:20:42.80,Default,NTP,0000,0000,0000,,如果你这里有小狗\N{\rEnglish}If you have any dogs.
+Dialogue: 0,1:20:43.56,1:20:44.56,Default,NTP,0000,0000,0000,,没\N{\rEnglish}No.
+Dialogue: 0,1:20:45.36,1:20:48.84,Default,NTP,0000,0000,0000,,但就在昨天  一位老朋友过来\N{\rEnglish}But only yesterday, an old friend stopped by.
+Dialogue: 0,1:20:49.40,1:20:51.36,Default,NTP,0000,0000,0000,,用完了它的其中八条命\N{\rEnglish}Used up eight of his lives,
+Dialogue: 0,1:20:51.44,1:20:53.09,Default,NTP,0000,0000,0000,,它还告诉我\N{\rEnglish}and he tells me
+Dialogue: 0,1:20:54.64,1:20:57.16,Default,NTP,0000,0000,0000,,它想跟你一起\N{\rEnglish}he'd like to spend his last life
+Dialogue: 0,1:20:58.08,1:20:59.12,Default,NTP,0000,0000,0000,,共度余生\N{\rEnglish}with you.
+Dialogue: 0,1:21:00.56,1:21:01.97,Default,NTP,0000,0000,0000,,毛绒裤\N{\rEnglish}Fuzzypants.
+Dialogue: 0,1:21:03.60,1:21:05.96,Default,NTP,0000,0000,0000,,所以是不能养狗了\N{\rEnglish}So, that's a no on the dog, then.
+

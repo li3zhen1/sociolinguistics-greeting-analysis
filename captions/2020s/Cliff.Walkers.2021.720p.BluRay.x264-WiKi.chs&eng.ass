@@ -1,0 +1,1016 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:46.41,0:02:47.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}分开走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We'll split up{\r}
+Dialogue: 0,0:02:47.70,0:02:48.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王郁和楚良一组{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yu with Chuliang{\r}
+Dialogue: 0,0:02:48.75,0:02:49.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰跟着我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Lan, with me{\r}
+Dialogue: 0,0:02:50.29,0:02:51.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么要拆散我们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why are we splitting up?{\r}
+Dialogue: 0,0:02:51.79,0:02:53.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出发前怎么不说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why didn't you tell us before?{\r}
+Dialogue: 0,0:02:53.87,0:02:54.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}执行命令{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Follow orders{\r}
+Dialogue: 0,0:02:58.20,0:02:59.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果一组被抓{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This way, if one of us gets caught{\r}
+Dialogue: 0,0:02:59.75,0:03:01.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就不会供出另外一组了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}we won't rat out the others{\r}
+Dialogue: 0,0:03:02.54,0:03:03.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}抓紧时间告别吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Say a quick goodbye{\r}
+Dialogue: 0,0:03:04.16,0:03:05.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}离哈尔滨还有好几百里呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're still far from Harbin{\r}
+Dialogue: 0,0:03:18.20,0:03:19.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对不起{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Sorry{\r}
+Dialogue: 0,0:03:19.75,0:03:21.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没想到会分开{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I didn't think we'd be separated{\r}
+Dialogue: 0,0:03:26.04,0:03:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}活着的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Whoever makes it{\r}
+Dialogue: 0,0:03:26.83,0:03:27.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去找孩子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}searches for our children{\r}
+Dialogue: 0,0:05:12.66,0:05:14.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么还能闻见血腥味儿呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you still smell the blood?{\r}
+Dialogue: 0,0:05:38.95,0:05:39.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想说了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ready to talk now?{\r}
+Dialogue: 0,0:05:40.00,0:05:40.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:05:41.25,0:05:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll talk{\r}
+Dialogue: 0,0:05:58.95,0:06:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢先生受惊了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're scared, Mr Xie{\r}
+Dialogue: 0,0:06:01.91,0:06:02.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来了几个人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How many came?{\r}
+Dialogue: 0,0:06:03.12,0:06:04.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你都认识吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You know them all?{\r}
+Dialogue: 0,0:06:05.25,0:06:05.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}四个{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Four{\r}
+Dialogue: 0,0:06:06.50,0:06:07.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不认识{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't know them{\r}
+Dialogue: 0,0:06:07.62,0:06:08.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}从哪来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}From?{\r}
+Dialogue: 0,0:06:08.95,0:06:09.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}苏联{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}USSR{\r}
+Dialogue: 0,0:06:10.58,0:06:11.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来哈尔滨干什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why Harbin?{\r}
+Dialogue: 0,0:06:12.12,0:06:12.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They say{\r}
+Dialogue: 0,0:06:13.41,0:06:15.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说十八号有个秘密行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}there's a secret operation on the 18th{\r}
+Dialogue: 0,0:06:15.79,0:06:16.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}啥秘密行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What secret operation?{\r}
+Dialogue: 0,0:06:16.75,0:06:17.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't know{\r}
+Dialogue: 0,0:06:18.87,0:06:19.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叫{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's called{\r}
+Dialogue: 0,0:06:19.58,0:06:20.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Utrennya{\r}
+Dialogue: 0,0:06:20.95,0:06:21.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么拉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What 'nya?{\r}
+Dialogue: 0,0:06:21.83,0:06:23.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ut--{\r}
+Dialogue: 0,0:06:24.41,0:06:25.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Utrennya{\r}
+Dialogue: 0,0:06:29.91,0:06:30.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They put us{\r}
+Dialogue: 0,0:06:30.66,0:06:32.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让我们负责配合{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}in charge of coordination{\r}
+Dialogue: 0,0:06:32.54,0:06:33.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其他的真不知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's all I know{\r}
+Dialogue: 0,0:06:34.20,0:06:35.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱也不敢问那{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And I didn't dare ask{\r}
+Dialogue: 0,0:06:54.25,0:06:55.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是去虎头打猎的吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Are you hunting at Tiger Head?{\r}
+Dialogue: 0,0:06:56.37,0:06:58.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去苏家屯收皮子的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Collecting hides at Sujia Village{\r}
+Dialogue: 0,0:07:01.08,0:07:01.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang?{\r}
+Dialogue: 0,0:07:02.91,0:07:03.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是老冯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm Feng{\r}
+Dialogue: 0,0:07:04.54,0:07:06.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}组织派我来接应你们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We were sent to meet you{\r}
+Dialogue: 0,0:07:10.58,0:07:12.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们坐火车去哈尔滨{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We'll take the train to Harbin{\r}
+Dialogue: 0,0:07:12.70,0:07:14.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}沿途敌人设了很多关卡{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There will be many traps on the way{\r}
+Dialogue: 0,0:07:14.37,0:07:15.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}搜查很严{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They're strict with searches{\r}
+Dialogue: 0,0:07:15.66,0:07:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把枪  指南针{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Put guns, compasses,{\r}
+Dialogue: 0,0:07:16.91,0:07:18.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一切引起敌人怀疑的东西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}anything suspicious{\r}
+Dialogue: 0,0:07:18.79,0:07:20.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都放在这个布袋子里{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}into this sack{\r}
+Dialogue: 0,0:07:20.75,0:07:21.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回头有人来取{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Someone will collect it{\r}
+Dialogue: 0,0:07:43.29,0:07:44.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,0:07:45.25,0:07:45.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老冯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Feng{\r}
+Dialogue: 0,0:07:46.83,0:07:48.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就着烟炮来一口{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Got a smoke?{\r}
+Dialogue: 0,0:08:05.87,0:08:06.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等到了哈尔滨{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When you get to Harbin{\r}
+Dialogue: 0,0:08:07.45,0:08:08.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你帮我整把柯尔特{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}can you get me a Colt?{\r}
+Dialogue: 0,0:08:10.54,0:08:11.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}左轮{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}A revolver?{\r}
+Dialogue: 0,0:08:11.66,0:08:12.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}美国人造的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}American-made?{\r}
+Dialogue: 0,0:08:13.04,0:08:13.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不好搞{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hard to find{\r}
+Dialogue: 0,0:08:13.87,0:08:14.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你找老夏吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ask Xia{\r}
+Dialogue: 0,0:08:14.50,0:08:15.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老夏有路子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Xia has connections{\r}
+Dialogue: 0,0:08:15.79,0:08:16.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不用找他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We don't need him{\r}
+Dialogue: 0,0:08:17.00,0:08:17.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我有办法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I have my ways{\r}
+Dialogue: 0,0:08:24.91,0:08:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是不是还藏了一把枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You still have a gun on you?{\r}
+Dialogue: 0,0:08:26.79,0:08:27.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}楚良哥说了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang told me{\r}
+Dialogue: 0,0:08:27.91,0:08:29.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}凡事都得留一手{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to always be prepared{\r}
+Dialogue: 0,0:08:29.70,0:08:30.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}枪呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where is it?{\r}
+Dialogue: 0,0:08:30.75,0:08:31.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在身上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}On my body{\r}
+Dialogue: 0,0:08:32.12,0:08:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What's wrong?{\r}
+Dialogue: 0,0:08:33.12,0:08:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们是特务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They are spies{\r}
+Dialogue: 0,0:08:35.16,0:08:35.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别乱看{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't look{\r}
+Dialogue: 0,0:08:46.45,0:08:47.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把枪放我手闷子里{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Put it in my mitten{\r}
+Dialogue: 0,0:08:48.12,0:08:48.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Give it to me{\r}
+Dialogue: 0,0:08:51.50,0:08:52.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不许动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't move!{\r}
+Dialogue: 0,0:08:54.16,0:08:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}手举起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hands up{\r}
+Dialogue: 0,0:09:03.87,0:09:04.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What's wrong?{\r}
+Dialogue: 0,0:09:06.04,0:09:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}绑起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tie him up{\r}
+Dialogue: 0,0:09:18.45,0:09:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老冯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Feng{\r}
+Dialogue: 0,0:09:19.75,0:09:20.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}误会了吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You've got it wrong{\r}
+Dialogue: 0,0:09:21.70,0:09:22.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What?{\r}
+Dialogue: 0,0:09:23.00,0:09:23.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小郑{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zheng{\r}
+Dialogue: 0,0:09:28.16,0:09:29.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还真捆啊你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're really tying me up{\r}
+Dialogue: 0,0:09:30.66,0:09:31.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干嘛呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What are you doing?{\r}
+Dialogue: 0,0:09:33.00,0:09:33.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}轻点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Gently{\r}
+Dialogue: 0,0:09:48.87,0:09:50.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把手闷子扔过来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Toss me the mitten{\r}
+Dialogue: 0,0:09:55.95,0:09:56.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再扔{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Try again{\r}
+Dialogue: 0,0:10:00.87,0:10:01.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hurry{\r}
+Dialogue: 0,0:10:25.91,0:10:27.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}举着手出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come out with your hands up{\r}
+Dialogue: 0,0:12:02.33,0:12:03.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多亏你刚才那一嗓子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's good you screamed{\r}
+Dialogue: 0,0:12:04.58,0:12:05.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给了我个机会{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It gave me the chance{\r}
+Dialogue: 0,0:12:06.62,0:12:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我故意的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I did it on purpose{\r}
+Dialogue: 0,0:12:09.75,0:12:11.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么发现他们是特务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How did you know they were spies?{\r}
+Dialogue: 0,0:12:12.50,0:12:13.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟他们提的老夏{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Xia, the guy I mentioned{\r}
+Dialogue: 0,0:12:13.91,0:12:14.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}根本没这人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}doesn't exist{\r}
+Dialogue: 0,0:12:16.45,0:12:18.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那他们怎么知道暗号的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How did they know our codes?{\r}
+Dialogue: 0,0:12:19.16,0:12:20.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有人叛变了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We have a traitor{\r}
+Dialogue: 0,0:12:20.79,0:12:22.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而且级别不低{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}high up in the ranks{\r}
+Dialogue: 0,0:12:23.62,0:12:25.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那得赶紧通知楚良哥和王郁姐啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We must tell Chuliang and Yu now{\r}
+Dialogue: 0,0:12:32.95,0:12:34.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这领头的啥来路啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell me about their leader{\r}
+Dialogue: 0,0:12:36.00,0:12:37.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他叫张宪臣{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang Xianchen{\r}
+Dialogue: 0,0:12:37.50,0:12:39.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}早年做记者跑新闻{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}was a news reporter{\r}
+Dialogue: 0,0:12:40.00,0:12:41.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}四个人里面{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Of the four{\r}
+Dialogue: 0,0:12:41.33,0:12:42.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}数他阅历最老{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}he is the most educated{\r}
+Dialogue: 0,0:12:49.87,0:12:50.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}俩人啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Two people coming{\r}
+Dialogue: 0,0:12:51.75,0:12:53.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好像一男一女啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Seems to be a man and a woman{\r}
+Dialogue: 0,0:12:54.45,0:12:55.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是不是那个姓张的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is it Zhang?{\r}
+Dialogue: 0,0:12:56.25,0:12:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我哪知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How would I know?{\r}
+Dialogue: 0,0:12:57.20,0:12:58.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我又没看过照片{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've never seen their pictures{\r}
+Dialogue: 0,0:12:59.20,0:13:00.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发信号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Send the signal{\r}
+Dialogue: 0,0:13:06.75,0:13:07.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}少说话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep quiet{\r}
+Dialogue: 0,0:13:07.70,0:13:08.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不打听{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't ask questions{\r}
+Dialogue: 0,0:13:09.25,0:13:10.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们在苏联受过训{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They were trained in the USSR{\r}
+Dialogue: 0,0:13:10.41,0:13:11.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}精得很{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They're top-level{\r}
+Dialogue: 0,0:13:25.58,0:13:27.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一组肯定也联系上了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm sure Unit One has made contact{\r}
+Dialogue: 0,0:13:27.50,0:13:28.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放心{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't worry{\r}
+Dialogue: 0,0:13:35.00,0:13:35.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们把{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's put{\r}
+Dialogue: 0,0:13:36.08,0:13:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}武器和所有可以暴露身份的东西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}everything that can blow our covers{\r}
+Dialogue: 0,0:13:38.95,0:13:39.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都放在这{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and our weapons here{\r}
+Dialogue: 0,0:13:40.16,0:13:41.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}组织会派人来处理{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Organization will handle them{\r}
+Dialogue: 0,0:14:05.45,0:14:07.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你以后就跟在我身边{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}From now on, stay close{\r}
+Dialogue: 0,0:14:07.25,0:14:07.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好好干{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Work hard{\r}
+Dialogue: 0,0:14:07.91,0:14:08.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}亏待不了你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You will be rewarded{\r}
+Dialogue: 0,0:14:09.12,0:14:09.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,0:14:10.41,0:14:11.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief{\r}
+Dialogue: 0,0:14:13.83,0:14:15.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发现了老冯他们的尸体{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We found Feng and Zheng's bodies{\r}
+Dialogue: 0,0:14:15.54,0:14:16.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在哪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where?{\r}
+Dialogue: 0,0:14:16.20,0:14:17.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}五二零三地区{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zone 5203{\r}
+Dialogue: 0,0:14:27.58,0:14:28.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一组去向不明{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Team One's location is unknown{\r}
+Dialogue: 0,0:14:28.79,0:14:30.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们的人正在那带搜索呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We are searching the area now{\r}
+Dialogue: 0,0:14:30.54,0:14:32.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老冯不是很有经验吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Isn't Feng experienced?{\r}
+Dialogue: 0,0:14:32.33,0:14:33.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咋露馅的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How did he get made?{\r}
+Dialogue: 0,0:14:37.45,0:14:38.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}暗号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The codes{\r}
+Dialogue: 0,0:14:38.08,0:14:39.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有问题{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}are correct{\r}
+Dialogue: 0,0:14:39.29,0:14:40.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}暗号应该没问题{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The codes should be correct{\r}
+Dialogue: 0,0:14:41.08,0:14:42.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二组已经接上头了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Team Two has made contact{\r}
+Dialogue: 0,0:14:42.16,0:14:43.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一切顺利{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All is well{\r}
+Dialogue: 0,0:14:46.37,0:14:47.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}据我所知{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}From what I know{\r}
+Dialogue: 0,0:14:48.37,0:14:50.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}两组都没带电台{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Neither team has radios{\r}
+Dialogue: 0,0:14:50.29,0:14:51.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你意思是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You mean{\r}
+Dialogue: 0,0:14:51.25,0:14:52.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一组无法联系二组{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Team One cannot contact Team Two?{\r}
+Dialogue: 0,0:14:52.70,0:14:53.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:14:53.91,0:14:54.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Correct{\r}
+Dialogue: 0,0:14:57.45,0:14:58.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief{\r}
+Dialogue: 0,0:14:58.66,0:14:59.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}火车站用不用戒严{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}shall we tighten security at the train stations?{\r}
+Dialogue: 0,0:14:59.95,0:15:00.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No{\r}
+Dialogue: 0,0:15:01.00,0:15:01.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放松{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Relax them{\r}
+Dialogue: 0,0:15:02.50,0:15:03.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}比以前更松{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}even looser than before{\r}
+Dialogue: 0,0:15:04.00,0:15:05.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让他们都上车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let them all get on the train{\r}
+Dialogue: 0,0:15:05.45,0:15:07.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}用二组引出一组{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Use Team Two to draw out Team One{\r}
+Dialogue: 0,0:16:29.00,0:16:32.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}（有叛徒  接头的人是特务）{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}“Traitors! Contacts are spies”{\r}
+Dialogue: 0,0:17:10.95,0:17:11.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干啥{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stop{\r}
+Dialogue: 0,0:17:11.87,0:17:12.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干啥{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stop{\r}
+Dialogue: 0,0:17:12.54,0:17:13.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}排队会不会啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can't you stand in line?{\r}
+Dialogue: 0,0:17:13.54,0:17:14.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}排队{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get in line{\r}
+Dialogue: 0,0:17:15.29,0:17:16.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听不懂人话啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you speak Chinese?{\r}
+Dialogue: 0,0:17:23.37,0:17:24.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}醉鬼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Drunkard{\r}
+Dialogue: 0,0:17:57.66,0:17:58.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来  把票都准备好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get your tickets ready{\r}
+Dialogue: 0,0:17:58.79,0:17:59.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}检票啦{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ticket{\r}
+Dialogue: 0,0:18:04.25,0:18:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}票{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ticket{\r}
+Dialogue: 0,0:18:10.29,0:18:11.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yours?{\r}
+Dialogue: 0,0:18:19.79,0:18:20.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}检票呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm just checking tickets{\r}
+Dialogue: 0,0:18:20.66,0:18:21.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}滚远点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Out of the way{\r}
+Dialogue: 0,0:18:25.83,0:18:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}证件{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your papers{\r}
+Dialogue: 0,0:18:37.41,0:18:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟我走一趟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come with me{\r}
+Dialogue: 0,0:18:40.33,0:18:41.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why?{\r}
+Dialogue: 0,0:18:41.83,0:18:42.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是干什么的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who are you?{\r}
+Dialogue: 0,0:18:42.87,0:18:43.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}特务科的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Special Task Force{\r}
+Dialogue: 0,0:18:45.95,0:18:46.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我怎么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why me?{\r}
+Dialogue: 0,0:18:47.25,0:18:48.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哪来那么多废话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Cut the crap{\r}
+Dialogue: 0,0:18:48.83,0:18:49.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}例行调查{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Standard check{\r}
+Dialogue: 0,0:18:49.91,0:18:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看你就不对劲{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You look suspicious{\r}
+Dialogue: 0,0:19:11.50,0:19:12.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Go{\r}
+Dialogue: 0,0:19:45.00,0:19:46.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才特务带走个女孩{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That girl just now{\r}
+Dialogue: 0,0:19:47.04,0:19:48.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是我们的同志{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}is our comrade{\r}
+Dialogue: 0,0:20:06.37,0:20:08.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才特务带走个女孩{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The girl the secret agent just took away{\r}
+Dialogue: 0,0:20:09.50,0:20:11.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们得想办法救她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We need to rescue her{\r}
+Dialogue: 0,0:20:12.08,0:20:13.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一组的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is she with Team One?{\r}
+Dialogue: 0,0:20:16.08,0:20:17.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她跟你说什么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What did she tell you?{\r}
+Dialogue: 0,0:20:17.04,0:20:18.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Nothing{\r}
+Dialogue: 0,0:20:18.16,0:20:19.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们在车里装不认识{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We pretended to be strangers{\r}
+Dialogue: 0,0:20:21.79,0:20:22.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}另外一个人呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And her partner?{\r}
+Dialogue: 0,0:20:23.54,0:20:24.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没看见{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I didn't see him{\r}
+Dialogue: 0,0:20:25.20,0:20:26.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没在车上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Not on the train?{\r}
+Dialogue: 0,0:20:26.37,0:20:27.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No{\r}
+Dialogue: 0,0:20:27.75,0:20:29.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}牡丹江站到了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Mudanjiang Station is next{\r}
+Dialogue: 0,0:20:29.25,0:20:30.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要下车的准备{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Prepare to alight{\r}
+Dialogue: 0,0:20:31.87,0:20:33.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}牡丹江站到了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Mudanjiang Station is next{\r}
+Dialogue: 0,0:20:33.33,0:20:34.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要下车的准备{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Prepare to alight{\r}
+Dialogue: 0,0:20:39.37,0:20:40.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那要先弄清楚{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We must determine{\r}
+Dialogue: 0,0:20:40.50,0:20:42.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那女孩为什么会被带走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}why she was taken{\r}
+Dialogue: 0,0:20:44.12,0:20:44.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get off{\r}
+Dialogue: 0,0:21:03.79,0:21:04.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What's wrong?{\r}
+Dialogue: 0,0:21:05.70,0:21:07.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们坐下一趟车走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We'll take the next train{\r}
+Dialogue: 0,0:21:09.16,0:21:10.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这趟车不安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This train is unsafe{\r}
+Dialogue: 0,0:21:13.45,0:21:15.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个女同志怎么办{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And the comrade?{\r}
+Dialogue: 0,0:21:15.41,0:21:17.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她可是被特务带走的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She was taken by an agent{\r}
+Dialogue: 0,0:21:23.20,0:21:23.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell you what{\r}
+Dialogue: 0,0:21:24.66,0:21:25.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们先走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You go ahead{\r}
+Dialogue: 0,0:21:26.04,0:21:27.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我想办法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll find a way{\r}
+Dialogue: 0,0:21:27.16,0:21:27.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No.{\r}
+Dialogue: 0,0:21:28.29,0:21:29.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那样我们都会暴露的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then we'll all be exposed{\r}
+Dialogue: 0,0:21:33.50,0:21:34.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's go{\r}
+Dialogue: 0,0:21:34.58,0:21:35.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}换下一趟车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We'll take the next train{\r}
+Dialogue: 0,0:22:33.54,0:22:35.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}腰里有什么东西  给我拿出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hand over everything in your belt{\r}
+Dialogue: 0,0:22:39.20,0:22:40.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听懂我说话了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you understand?{\r}
+Dialogue: 0,0:22:40.33,0:22:41.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}快点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hurry{\r}
+Dialogue: 0,0:22:55.54,0:22:56.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来人啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Help!{\r}
+Dialogue: 0,0:24:17.29,0:24:18.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}楚良哥王郁姐他们怎么办{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What will Chuliang and Yu do?{\r}
+Dialogue: 0,0:24:19.00,0:24:20.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}身边全是特务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They're surrounded by spies{\r}
+Dialogue: 0,0:24:20.54,0:24:21.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她应该看到密码了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She should have seen the message{\r}
+Dialogue: 0,0:24:22.25,0:24:23.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们会有办法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They will find a way{\r}
+Dialogue: 0,0:24:27.45,0:24:28.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们还是分开走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We can't stay together{\r}
+Dialogue: 0,0:25:13.70,0:25:15.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}原先的密码写在哪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where was the coded message written?{\r}
+Dialogue: 0,0:25:15.95,0:25:16.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这儿{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here{\r}
+Dialogue: 0,0:25:17.50,0:25:18.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}写的什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What did it say?{\r}
+Dialogue: 0,0:25:18.62,0:25:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It said{\r}
+Dialogue: 0,0:25:21.08,0:25:22.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有叛徒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Traitors!{\r}
+Dialogue: 0,0:25:22.54,0:25:23.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}接头的人是特务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Contacts are spies{\r}
+Dialogue: 0,0:25:23.87,0:25:24.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么改的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How did you change it?{\r}
+Dialogue: 0,0:25:24.79,0:25:25.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我就在这改的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I changed it{\r}
+Dialogue: 0,0:25:26.08,0:25:27.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我改成{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to say{\r}
+Dialogue: 0,0:25:27.04,0:25:28.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一切正常{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All normal{\r}
+Dialogue: 0,0:25:28.20,0:25:29.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十八号哈尔滨见{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}See you 18th Harbin{\r}
+Dialogue: 0,0:25:32.58,0:25:33.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所有人不准下车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No one gets off here{\r}
+Dialogue: 0,0:25:34.16,0:25:35.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我横道河子我得下车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're going to Hengdaohezi{\r}
+Dialogue: 0,0:25:35.62,0:25:36.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}查完票再下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have your tickets checked{\r}
+Dialogue: 0,0:25:37.16,0:25:38.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我横道河子我可以下车吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're going to Hengdaohezi{\r}
+Dialogue: 0,0:25:38.37,0:25:39.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}查完再下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have your tickets checked{\r}
+Dialogue: 0,0:25:43.95,0:25:45.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把你的票给我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Give me your ticket{\r}
+Dialogue: 0,0:25:47.16,0:25:48.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在这等着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wait here{\r}
+Dialogue: 0,0:25:58.12,0:25:59.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那边人少{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Looks quicker over there{\r}
+Dialogue: 0,0:26:00.79,0:26:01.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}排着吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stay in line here{\r}
+Dialogue: 0,0:26:12.58,0:26:13.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}过来一下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come with me{\r}
+Dialogue: 0,0:26:16.25,0:26:17.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你谁啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who are you?{\r}
+Dialogue: 0,0:26:17.41,0:26:19.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让你过来就过来哪那么多废话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come when I tell you and shut up{\r}
+Dialogue: 0,0:26:22.45,0:26:23.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's go{\r}
+Dialogue: 0,0:26:27.75,0:26:28.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come{\r}
+Dialogue: 0,0:26:37.41,0:26:38.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你快点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hurry{\r}
+Dialogue: 0,0:26:40.04,0:26:40.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}证件{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your papers{\r}
+Dialogue: 0,0:26:45.45,0:26:46.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yours{\r}
+Dialogue: 0,0:27:02.58,0:27:03.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}票{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tickets{\r}
+Dialogue: 0,0:27:07.16,0:27:08.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}横道河子的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're going to Hengdaohezi?{\r}
+Dialogue: 0,0:27:08.20,0:27:09.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:27:10.45,0:27:11.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}横道河子没事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hengdaohezi is fine{\r}
+Dialogue: 0,0:27:11.79,0:27:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们查哈尔滨的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're checking for those going to Harbin{\r}
+Dialogue: 0,0:27:19.25,0:27:20.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算了  走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You may go{\r}
+Dialogue: 0,0:27:21.91,0:27:22.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,0:27:27.25,0:27:28.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这边{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This way{\r}
+Dialogue: 0,0:27:32.12,0:27:33.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到前边就跟他们说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell them up front{\r}
+Dialogue: 0,0:27:33.54,0:27:34.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我查过你们了啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}that I've checked you already{\r}
+Dialogue: 0,0:27:35.41,0:27:36.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢啊  谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,0:27:52.50,0:27:53.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们去哈尔滨{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're going to Harbin?{\r}
+Dialogue: 0,0:27:53.50,0:27:54.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}横道河子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hengdaohezi{\r}
+Dialogue: 0,0:27:56.12,0:27:56.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Take them away{\r}
+Dialogue: 0,0:27:57.16,0:27:57.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What?{\r}
+Dialogue: 0,0:27:58.29,0:27:59.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干啥{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why?{\r}
+Dialogue: 0,0:27:59.33,0:28:02.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们敢动我  我爸是保长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}My father is Head of Security{\r}
+Dialogue: 0,0:28:02.87,0:28:04.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}自己人  误会了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's a misunderstanding{\r}
+Dialogue: 0,0:28:11.41,0:28:12.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Go{\r}
+Dialogue: 0,0:28:23.33,0:28:25.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都挤什么挤  往后退{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stop crowding! Back up{\r}
+Dialogue: 0,0:28:47.33,0:28:48.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开门  有人没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Open up! Anyone there?{\r}
+Dialogue: 0,0:28:52.16,0:28:52.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开门{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Open up!{\r}
+Dialogue: 0,0:30:47.66,0:30:49.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰不会有什么事吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Lan should be safe, right?{\r}
+Dialogue: 0,0:30:50.79,0:30:52.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目前我们没有接收到任何情报{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We haven't heard otherwise{\r}
+Dialogue: 0,0:30:53.50,0:30:54.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}说明应该没事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}So she should be fine{\r}
+Dialogue: 0,0:30:55.87,0:30:57.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也许他们已经到哈尔滨了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Perhaps they are in Harbin already{\r}
+Dialogue: 0,0:31:01.66,0:31:02.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,0:31:02.83,0:31:04.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们去的不是马迭尔的路吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This isn't the way to The Modern{\r}
+Dialogue: 0,0:31:06.62,0:31:08.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}国联组调查团就住马迭尔{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Investigation Team is staying there{\r}
+Dialogue: 0,0:31:08.41,0:31:09.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那进出都是密探{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's full of agents{\r}
+Dialogue: 0,0:31:09.54,0:31:10.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}太不安全了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Way too unsafe{\r}
+Dialogue: 0,0:31:10.70,0:31:12.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那把我们安排在哪啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where are you putting us up?{\r}
+Dialogue: 0,0:31:12.91,0:31:14.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个旧洋楼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}An old mansion{\r}
+Dialogue: 0,0:31:14.58,0:31:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个开斯普先生堂弟的宅子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}belonging to Mr Kasper's cousin{\r}
+Dialogue: 0,0:31:16.83,0:31:18.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人常年在外国呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He lives overseas{\r}
+Dialogue: 0,0:31:18.33,0:31:19.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}房子都快荒了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The house is falling apart{\r}
+Dialogue: 0,0:31:21.12,0:31:21.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我去过{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've been there{\r}
+Dialogue: 0,0:31:22.87,0:31:24.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一下去那么多人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wouldn't all of us{\r}
+Dialogue: 0,0:31:24.66,0:31:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不会引起周围人的注意吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}going at once attract attention?{\r}
+Dialogue: 0,0:31:27.66,0:31:29.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都说那宅子邪性{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That house is so spooky{\r}
+Dialogue: 0,0:31:29.45,0:31:30.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别说人了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}people avoid it{\r}
+Dialogue: 0,0:31:30.41,0:31:31.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}鬼也不去啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Even ghosts won't haunt it{\r}
+Dialogue: 0,0:31:43.12,0:31:43.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}请进{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come on in{\r}
+Dialogue: 0,0:31:47.33,0:31:47.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小孟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Meng{\r}
+Dialogue: 0,0:31:47.95,0:31:49.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}组织上派来配合工作的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}is here to coordinate our work{\r}
+Dialogue: 0,0:31:50.50,0:31:51.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}张姐{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang Jie{\r}
+Dialogue: 0,0:31:51.41,0:31:52.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}负责饮食起居{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}food and accommodations{\r}
+Dialogue: 0,0:31:53.08,0:31:54.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}条件简陋但绝对安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Spartan, but definitely safe{\r}
+Dialogue: 0,0:31:55.12,0:31:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}女同志住后院{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Women comrades stay in the back house{\r}
+Dialogue: 0,0:32:05.87,0:32:07.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这不像前头餐厅{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The stove back here{\r}
+Dialogue: 0,0:32:07.45,0:32:08.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}炉子不太旺{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Doesn't work as well{\r}
+Dialogue: 0,0:32:08.62,0:32:10.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过三个人睡这一张床{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But with three of us in one bed{\r}
+Dialogue: 0,0:32:10.16,0:32:11.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}总比一个人暖和{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}we should be fine{\r}
+Dialogue: 0,0:32:43.66,0:32:44.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你的腿怎么样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How is your leg?{\r}
+Dialogue: 0,0:32:45.54,0:32:46.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}扭了一下  没事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's fine, just a sprain{\r}
+Dialogue: 0,0:32:50.41,0:32:52.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉行动到底是什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What is Operation Utrennya?{\r}
+Dialogue: 0,0:32:53.37,0:32:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道背荫河吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You know about Beiyinhe?{\r}
+Dialogue: 0,0:32:55.41,0:32:57.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}日本人的秘密杀人场{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Japanese secret killing grounds?{\r}
+Dialogue: 0,0:32:58.20,0:33:00.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听说进去的人没有活着出来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They say no one comes out alive{\r}
+Dialogue: 0,0:33:00.70,0:33:02.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去年秋天{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Last Autumn{\r}
+Dialogue: 0,0:33:02.41,0:33:04.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那发生了一起越狱事件{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}there was a prison break there{\r}
+Dialogue: 0,0:33:05.95,0:33:07.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个月以后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}One month later{\r}
+Dialogue: 0,0:33:07.25,0:33:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}日本人就把那个地方炸了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}the Japanese bombed it{\r}
+Dialogue: 0,0:33:10.41,0:33:11.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说他们是要隐藏什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What do you think they're hiding there{\r}
+Dialogue: 0,0:33:11.91,0:33:13.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}才付出那么大的代价{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to pay such a price to keep it secret?{\r}
+Dialogue: 0,0:33:15.41,0:33:17.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}越狱活下来的人只有一个{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Only one escapee survived{\r}
+Dialogue: 0,0:33:17.70,0:33:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叫王子阳{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wang Ziyang{\r}
+Dialogue: 0,0:33:20.04,0:33:22.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们的任务就是接他出境{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Our mission is to get him over the border{\r}
+Dialogue: 0,0:33:22.41,0:33:25.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让他在国际社会面前揭露日本人的罪行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to expose the Japanese crime internationally{\r}
+Dialogue: 0,0:33:27.95,0:33:29.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那现在出了叛徒怎么办{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What happens now that we have a traitor?{\r}
+Dialogue: 0,0:33:36.16,0:33:37.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}紧急预案{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Emergency protocol{\r}
+Dialogue: 0,0:33:37.29,0:33:38.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你会用吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you use it?{\r}
+Dialogue: 0,0:33:38.50,0:33:39.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:33:39.08,0:33:40.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我专门训练过{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've had training{\r}
+Dialogue: 0,0:33:41.33,0:33:42.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}写吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Write{\r}
+Dialogue: 0,0:33:57.58,0:33:59.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下来还需要我们做些什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What do we do next?{\r}
+Dialogue: 0,0:33:59.54,0:34:00.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么都不用做{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Nothing{\r}
+Dialogue: 0,0:34:01.16,0:34:01.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We wait{\r}
+Dialogue: 0,0:34:02.66,0:34:03.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}明白{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Understood{\r}
+Dialogue: 0,0:34:03.83,0:34:05.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Operation Utrennya{\r}
+Dialogue: 0,0:34:05.62,0:34:06.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为了这次行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}For this operation{\r}
+Dialogue: 0,0:34:07.12,0:34:08.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们整整训练了七个月{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}we trained seven months{\r}
+Dialogue: 0,0:34:08.83,0:34:10.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你们同学啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're classmates?{\r}
+Dialogue: 0,0:34:10.50,0:34:11.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}训练时侯认识的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We met in training{\r}
+Dialogue: 0,0:34:11.70,0:34:12.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算同学吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Does that make us classmates?{\r}
+Dialogue: 0,0:34:13.45,0:34:15.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他可是东方大学的高材生{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's a star pupil at Oriental University{\r}
+Dialogue: 0,0:34:15.62,0:34:16.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没读过什么书{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}but I'm not well-educated{\r}
+Dialogue: 0,0:34:17.04,0:34:17.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没他有文化{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Not as cultured as he{\r}
+Dialogue: 0,0:34:19.16,0:34:20.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那谁训练你们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who trained you?{\r}
+Dialogue: 0,0:34:20.37,0:34:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}苏联教官{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Soviet military instructors{\r}
+Dialogue: 0,0:34:21.54,0:34:22.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都训练什么啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What were you trained in?{\r}
+Dialogue: 0,0:34:23.20,0:34:24.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跳伞  射击  格斗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}airborne, marksmanship, hand-to-hand{\r}
+Dialogue: 0,0:34:24.83,0:34:25.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有俄语{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and Russian{\r}
+Dialogue: 0,0:34:25.91,0:34:27.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你还会俄语呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You speak Russian?{\r}
+Dialogue: 0,0:34:35.75,0:34:36.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么意思啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What does that mean?{\r}
+Dialogue: 0,0:34:37.12,0:34:39.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全世界无产者联合起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Proletarians of the world, unite{\r}
+Dialogue: 0,0:34:42.79,0:34:43.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}什么  什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What?{\r}
+Dialogue: 0,0:34:48.20,0:34:49.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不行这太难了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's too difficult{\r}
+Dialogue: 0,0:34:50.62,0:34:51.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我刚到苏联的时候{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When I first arrived{\r}
+Dialogue: 0,0:34:52.62,0:34:53.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}俄文字母都认不全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I didn't even know the alphabet{\r}
+Dialogue: 0,0:34:54.00,0:34:54.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直到我啃完了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}until I finished reading{\r}
+Dialogue: 0,0:34:54.91,0:34:56.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}《共产党宣言》{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Communist Manifesto{\r}
+Dialogue: 0,0:34:56.58,0:34:57.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才这句话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That quote was taken{\r}
+Dialogue: 0,0:34:57.70,0:34:59.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是书里来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}from the Manifesto{\r}
+Dialogue: 0,0:34:59.45,0:35:00.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come{\r}
+Dialogue: 0,0:35:00.95,0:35:02.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全世界无产者联合起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Proletarians of the world, unite{\r}
+Dialogue: 0,0:35:03.00,0:35:03.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hear, hear{\r}
+Dialogue: 0,0:35:04.37,0:35:08.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全世界无产者联合起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Proletarians of the world, unite{\r}
+Dialogue: 0,0:35:09.33,0:35:09.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come{\r}
+Dialogue: 0,0:35:09.91,0:35:10.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}干杯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Cheers{\r}
+Dialogue: 0,0:35:15.95,0:35:17.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二十四小时盯着呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're on them 24 hours a day{\r}
+Dialogue: 0,0:35:17.33,0:35:19.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们现在根本没机会单独交流{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They have no chance to communicate{\r}
+Dialogue: 0,0:35:19.50,0:35:21.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也没办法联系一组{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}nor contact Team One{\r}
+Dialogue: 0,0:35:21.79,0:35:23.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们老出来进去的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Won't they get suspicious{\r}
+Dialogue: 0,0:35:23.12,0:35:24.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们不怀疑吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}with you coming and going?{\r}
+Dialogue: 0,0:35:25.20,0:35:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们很关心一组{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They're worried about Team One{\r}
+Dialogue: 0,0:35:26.79,0:35:28.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让我们轮流出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and asked us to take turns{\r}
+Dialogue: 0,0:35:28.37,0:35:29.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}打探消息{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}looking for any sign of them{\r}
+Dialogue: 0,0:35:29.33,0:35:30.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不会怀疑{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I think we're fine{\r}
+Dialogue: 0,0:35:30.16,0:35:31.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那也尽量减少外出吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stay in as much as possible{\r}
+Dialogue: 0,0:35:32.41,0:35:33.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,0:35:33.58,0:35:34.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}进来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Enter{\r}
+Dialogue: 0,0:35:41.33,0:35:43.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长没事那我先回了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chief, I'll be off then{\r}
+Dialogue: 0,0:35:43.54,0:35:44.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}赶紧回去吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hurry back to the house{\r}
+Dialogue: 0,0:35:54.33,0:35:55.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}书买回来了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've bought the book{\r}
+Dialogue: 0,0:35:55.41,0:35:57.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟那个发报员身上的一模一样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's identical to the telegram operator's{\r}
+Dialogue: 0,0:35:57.41,0:35:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个版本{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The same edition{\r}
+Dialogue: 0,0:36:05.00,0:36:06.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是二组身上带的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This is carried by Team Two{\r}
+Dialogue: 0,0:36:09.29,0:36:11.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这肯定是乌特拉行动的密码母本{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's definitely the code book for Utrennya{\r}
+Dialogue: 0,0:36:11.58,0:36:12.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们就是用这联系的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This is how they communicate{\r}
+Dialogue: 0,0:36:14.54,0:36:15.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能破译吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you decipher it?{\r}
+Dialogue: 0,0:36:15.79,0:36:17.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这真不行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Definitely not{\r}
+Dialogue: 0,0:36:17.54,0:36:19.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是苏联人秘密制定的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It was encoded by the Russians{\r}
+Dialogue: 0,0:36:19.37,0:36:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}归最高领导人指挥{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and used only by the highest leaders{\r}
+Dialogue: 0,0:36:38.16,0:36:39.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这就是上级给我们的指示{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}These are our instructions from above{\r}
+Dialogue: 0,0:36:40.04,0:36:40.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住它{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Remember it{\r}
+Dialogue: 0,0:36:49.12,0:36:49.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看完了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have you read it all?{\r}
+Dialogue: 0,0:36:50.00,0:36:50.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看完了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:36:51.79,0:36:52.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能默写下来吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you write it out from memory?{\r}
+Dialogue: 0,0:36:53.00,0:36:53.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是我的优势{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That is my special skill{\r}
+Dialogue: 0,0:36:54.00,0:36:55.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}所以他们才派我来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's why they sent me here{\r}
+Dialogue: 0,0:36:59.29,0:37:01.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么用这么原始的方法传递{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What an archaic way to communicate{\r}
+Dialogue: 0,0:37:01.70,0:37:03.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当组织遭到严重破坏的时候{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When the organization is badly damaged{\r}
+Dialogue: 0,0:37:04.37,0:37:05.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}越原始{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}the most archaic methods{\r}
+Dialogue: 0,0:37:05.25,0:37:06.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}越安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}are the safest{\r}
+Dialogue: 0,0:37:11.79,0:37:13.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这套密码的母本在楚良哥那{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The code book is with Chuliang{\r}
+Dialogue: 0,0:37:13.83,0:37:14.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么翻译{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How can we decipher it?{\r}
+Dialogue: 0,0:37:15.37,0:37:17.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}哈尔滨应该能买到这本书{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We should be able to find it in Harbin{\r}
+Dialogue: 0,0:37:21.00,0:37:22.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天亮我去趟书店{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll go to the book shop in the morning{\r}
+Dialogue: 0,0:37:22.20,0:37:23.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你别出门{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You stay indoors{\r}
+Dialogue: 0,0:37:24.70,0:37:25.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我等你回来吃饭{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll have dinner ready for you{\r}
+Dialogue: 0,0:37:26.54,0:37:27.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给你炖排骨{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Braised pork ribs{\r}
+Dialogue: 0,0:37:27.37,0:37:28.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你长点心{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Be more alert{\r}
+Dialogue: 0,0:37:33.91,0:37:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多进出几次{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come and go often{\r}
+Dialogue: 0,0:37:35.04,0:37:36.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心敌人堵门{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Beware of enemy traps{\r}
+Dialogue: 0,0:37:36.79,0:37:37.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发现任何不对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If something is wrong{\r}
+Dialogue: 0,0:37:38.04,0:37:38.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}马上走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}get out immediately{\r}
+Dialogue: 0,0:37:39.54,0:37:40.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and{\r}
+Dialogue: 0,0:37:41.04,0:37:42.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}千万别去主动找任何人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}don't actively seek out anyone{\r}
+Dialogue: 0,0:37:43.50,0:37:44.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}死等联络信号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Just wait for the communication signal{\r}
+Dialogue: 0,0:37:45.41,0:37:47.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}死记刚才组织给的密码{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Memorize the code from the Organization{\r}
+Dialogue: 0,0:37:47.62,0:37:50.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}全凭它才能找到王子阳{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That is our only clue to find Wang Ziyang{\r}
+Dialogue: 0,0:38:08.12,0:38:09.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还没睡{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You're still up{\r}
+Dialogue: 0,0:38:10.25,0:38:11.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}睡不着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I can't sleep{\r}
+Dialogue: 0,0:38:11.87,0:38:13.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道楚良哥他们怎么样了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I wonder how Chuliang is doing{\r}
+Dialogue: 0,0:38:16.54,0:38:18.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你应该当他已经死了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Think of him as though he were dead{\r}
+Dialogue: 0,0:38:27.83,0:38:29.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么这么说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How can you say that?{\r}
+Dialogue: 0,0:38:32.54,0:38:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那王郁姐呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How about Yu?{\r}
+Dialogue: 0,0:38:45.37,0:38:47.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看到前面那片矮房子了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you see those low houses?{\r}
+Dialogue: 0,0:38:48.33,0:38:50.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟你王郁姐过去就住那{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yu and I used to live there{\r}
+Dialogue: 0,0:38:51.62,0:38:53.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有我们的两个孩子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}with our two children{\r}
+Dialogue: 0,0:38:55.37,0:38:57.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}五年前刚去苏联没多久{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}5 years ago, soon after we went to the USSR{\r}
+Dialogue: 0,0:38:58.29,0:39:00.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}收养他们的人就让日本人打死了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}their foster parents were killed by the Japanese{\r}
+Dialogue: 0,0:39:01.66,0:39:04.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最后有人看见他们是在马迭尔宾馆前面要饭{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They were last seen begging at Modern Hotel{\r}
+Dialogue: 0,0:39:05.66,0:39:06.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}By now{\r}
+Dialogue: 0,0:39:08.95,0:39:10.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}姐姐今年应该都八岁了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}our daughter should be 8{\r}
+Dialogue: 0,0:39:12.87,0:39:14.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}弟弟也六岁了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and our son should be 6{\r}
+Dialogue: 0,0:39:25.58,0:39:27.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道乌特拉什么意思吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you know what“utrennya”means?{\r}
+Dialogue: 0,0:39:28.04,0:39:29.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}俄语里是黎明的意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It is the Russian word for "dawn”{\r}
+Dialogue: 0,0:39:31.04,0:39:31.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:39:33.91,0:39:34.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}黎明{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Dawn{\r}
+Dialogue: 0,0:39:38.83,0:39:40.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天亮了就好了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Everything will be fine when the sun rises{\r}
+Dialogue: 0,0:43:02.70,0:43:03.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你干嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What do you want?{\r}
+Dialogue: 0,0:43:04.12,0:43:05.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你叫什么名字{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What is your name?{\r}
+Dialogue: 0,0:43:06.41,0:43:07.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我没有名字{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't have a name{\r}
+Dialogue: 0,0:43:08.12,0:43:09.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你肚子上是不是有块胎记{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you have a birthmark on your belly?{\r}
+Dialogue: 0,0:43:11.12,0:43:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你放开我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let me go{\r}
+Dialogue: 0,0:43:32.37,0:43:34.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这帮小王八犊子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}These little bastards{\r}
+Dialogue: 0,0:43:34.33,0:43:36.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}整天在这儿转悠{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}swarm around here all day{\r}
+Dialogue: 0,0:43:36.58,0:43:37.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不干好事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}up to no good{\r}
+Dialogue: 0,0:43:43.12,0:43:44.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}找人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Looking for someone?{\r}
+Dialogue: 0,0:43:44.25,0:43:45.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}刚才那孩子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That boy{\r}
+Dialogue: 0,0:43:45.79,0:43:47.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在这片儿多长时间了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How long has he been here?{\r}
+Dialogue: 0,0:43:47.08,0:43:48.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有几年了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Years{\r}
+Dialogue: 0,0:43:48.66,0:43:50.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他是不是还有个姐姐叫小芬{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Does he have a sister named Fen?{\r}
+Dialogue: 0,0:43:50.95,0:43:52.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}比他大两岁的样子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She looks about two years older?{\r}
+Dialogue: 0,0:43:52.29,0:43:53.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这我说不清楚{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That I don't know{\r}
+Dialogue: 0,0:44:52.62,0:44:53.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}必须抓活的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We need him alive{\r}
+Dialogue: 0,0:44:54.04,0:44:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁也不准打死他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No one may kill him{\r}
+Dialogue: 0,0:46:21.29,0:46:23.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}张宪臣  我劝你明智一点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Be smart, Zhang{\r}
+Dialogue: 0,0:46:52.58,0:46:53.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}十八号跟谁见面{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who are you meeting on the 18th?{\r}
+Dialogue: 0,0:46:54.12,0:46:55.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}时间  地点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Time and place?{\r}
+Dialogue: 0,0:47:27.41,0:47:29.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对这本书你们什么看法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What do you think about this book?{\r}
+Dialogue: 0,0:47:29.54,0:47:31.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}肯定是他们联络的方式{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm sure that's how they communicate{\r}
+Dialogue: 0,0:47:37.87,0:47:39.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他原来要去什么地方{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where did he want to go?{\r}
+Dialogue: 0,0:47:48.66,0:47:49.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行  钥匙给我吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All right, give me the key{\r}
+Dialogue: 0,0:49:22.95,0:49:23.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是没说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He hasn't talked yet?{\r}
+Dialogue: 0,0:49:24.41,0:49:26.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大小便都失禁了还继续吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's incontinent shall we continue?{\r}
+Dialogue: 0,0:49:26.79,0:49:27.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}算了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Forget it{\r}
+Dialogue: 0,0:49:27.58,0:49:29.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看来是块滚刀肉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He seems tough to break{\r}
+Dialogue: 0,0:49:30.70,0:49:32.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给他打一针最新进口的迷幻药{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Try the latest imported psychedelics{\r}
+Dialogue: 0,0:49:32.95,0:49:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看有用不{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}See if they work{\r}
+Dialogue: 0,0:49:34.50,0:49:35.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,0:49:35.20,0:49:36.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我来安排{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll arrange that{\r}
+Dialogue: 0,0:49:43.79,0:49:44.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有烟吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you have cigarettes?{\r}
+Dialogue: 0,0:49:44.45,0:49:45.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,0:49:45.20,0:49:46.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出去抽根烟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's go for a smoke{\r}
+Dialogue: 0,0:51:59.62,0:52:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老周{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhou{\r}
+Dialogue: 0,0:52:05.62,0:52:06.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁叛变了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who turned on us?{\r}
+Dialogue: 0,0:52:07.37,0:52:08.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢子荣{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Xie Zirong{\r}
+Dialogue: 0,0:52:13.66,0:52:14.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王郁他们怎么样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How are Yu and Chuliang?{\r}
+Dialogue: 0,0:52:15.41,0:52:16.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All right{\r}
+Dialogue: 0,0:52:16.62,0:52:17.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在周旋{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They're preparing{\r}
+Dialogue: 0,0:53:48.79,0:53:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走不了了吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There's no escape, is there?{\r}
+Dialogue: 0,0:54:01.29,0:54:02.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你先换上衣服{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Change clothes{\r}
+Dialogue: 0,0:54:03.00,0:54:04.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}带上证件{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wear the ID tag{\r}
+Dialogue: 0,0:54:04.45,0:54:05.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}然后拿枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Take the gun{\r}
+Dialogue: 0,0:54:06.37,0:54:07.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}劫持我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hold me hostage{\r}
+Dialogue: 0,0:54:08.95,0:54:10.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冲出去之后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}After we charge out{\r}
+Dialogue: 0,0:54:10.33,0:54:11.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}向我开枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}shoot At me{\r}
+Dialogue: 0,0:54:12.12,0:54:13.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只要打不死我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Anywhere, just{\r}
+Dialogue: 0,0:54:13.12,0:54:14.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就可以{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}don't kill me{\r}
+Dialogue: 0,0:54:28.62,0:54:29.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}能走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We can do it{\r}
+Dialogue: 0,0:54:30.12,0:54:31.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不走了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I wont{\r}
+Dialogue: 0,0:54:32.95,0:54:35.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这个身子出去也是废的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm worthless trash now{\r}
+Dialogue: 0,0:54:36.75,0:54:39.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}实在完成不了乌特拉行动了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I can't complete Operation Utrennya{\r}
+Dialogue: 0,0:54:39.75,0:54:41.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不如废物利用{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Might as well reuse the trash{\r}
+Dialogue: 0,0:54:41.45,0:54:43.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱俩保一个{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to keep one of us alive{\r}
+Dialogue: 0,0:54:49.29,0:54:50.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老周{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhou{\r}
+Dialogue: 0,0:54:51.29,0:54:52.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你现在{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Right now{\r}
+Dialogue: 0,0:54:53.12,0:54:55.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}比任何人都有活下去的价值{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}you're worth more alive than anyone else{\r}
+Dialogue: 0,0:54:58.37,0:54:59.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别固执{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't argue{\r}
+Dialogue: 0,0:54:59.70,0:55:01.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道我说的是对的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You know I'm right{\r}
+Dialogue: 0,0:55:09.45,0:55:10.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}告诉我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell me{\r}
+Dialogue: 0,0:55:11.04,0:55:12.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}告诉我乌特拉行动是什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What is Operation Utrennya?{\r}
+Dialogue: 0,0:55:13.37,0:55:15.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}接到逃出魔窟的王子阳{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wang has escaped from hell{\r}
+Dialogue: 0,0:55:15.70,0:55:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把他送出境{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}escort him across the border{\r}
+Dialogue: 0,0:55:16.95,0:55:19.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是人在哪儿不知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But we don't know where he is{\r}
+Dialogue: 0,0:55:19.66,0:55:20.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去找小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Find Lan{\r}
+Dialogue: 0,0:55:21.37,0:55:23.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她能帮你破解上级的指示{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She can decipher your orders{\r}
+Dialogue: 0,0:55:32.00,0:55:33.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在应该怎么做{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What now?{\r}
+Dialogue: 0,0:55:36.66,0:55:38.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上那辆白车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get in the white car{\r}
+Dialogue: 0,0:55:43.04,0:55:44.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Anything else?{\r}
+Dialogue: 0,0:55:44.41,0:55:45.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王郁他们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you help{\r}
+Dialogue: 0,0:55:47.45,0:55:48.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你能帮着脱身吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yu and the others escape?{\r}
+Dialogue: 0,0:55:51.08,0:55:52.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}尽量{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll try my best{\r}
+Dialogue: 0,0:55:53.66,0:55:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Anything else?{\r}
+Dialogue: 0,0:56:07.66,0:56:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还真有件小事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}A small favor{\r}
+Dialogue: 0,0:56:10.20,0:56:12.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}马迭尔宾馆前面的小叫花子里头{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Among the beggars at Modern Hotel{\r}
+Dialogue: 0,0:56:13.41,0:56:15.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有我和王郁的孩子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}are Yu's and my children{\r}
+Dialogue: 0,0:57:23.66,0:57:25.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}像是我的车啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That looks like my car{\r}
+Dialogue: 0,0:57:27.16,0:57:28.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}关门{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Close the doors{\r}
+Dialogue: 0,0:57:39.41,0:57:40.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}留活口{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Take him alive{\r}
+Dialogue: 0,0:58:33.41,0:58:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang{\r}
+Dialogue: 0,0:58:34.70,0:58:35.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}醒醒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wake up{\r}
+Dialogue: 0,0:58:38.45,0:58:39.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang{\r}
+Dialogue: 0,0:58:39.54,0:58:40.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}醒醒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wake up{\r}
+Dialogue: 0,0:58:41.91,0:58:43.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang{\r}
+Dialogue: 0,0:58:55.66,0:58:56.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang{\r}
+Dialogue: 0,0:58:58.95,0:59:00.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可逃出来了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You made it out!{\r}
+Dialogue: 0,0:59:01.83,0:59:03.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}同志们都盼着你回来呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The comrades have been waiting for you{\r}
+Dialogue: 0,0:59:06.91,0:59:08.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁帮你越的狱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who helped you escape?{\r}
+Dialogue: 0,0:59:11.25,0:59:13.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们要好好感谢他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We must thank him properly{\r}
+Dialogue: 0,0:59:21.41,0:59:22.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where is Lan?{\r}
+Dialogue: 0,0:59:23.45,0:59:25.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们还要一起执行计划{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You must execute the plan together{\r}
+Dialogue: 0,0:59:26.08,0:59:28.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}完成乌特拉行动啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Complete Operation Utrennya{\r}
+Dialogue: 0,0:59:29.00,0:59:31.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Lan{\r}
+Dialogue: 0,0:59:33.95,0:59:35.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Lan{\r}
+Dialogue: 0,0:59:36.16,0:59:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰怎么能跟你联络上啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How will she contact you?{\r}
+Dialogue: 0,0:59:44.66,0:59:46.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}找小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Find Lan{\r}
+Dialogue: 0,0:59:47.12,0:59:49.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}亚细亚{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}As i a{\r}
+Dialogue: 0,0:59:49.83,0:59:52.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二四六{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tuesdays, Thursdays, Saturdays{\r}
+Dialogue: 0,0:59:52.41,0:59:53.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}头尾{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}First and last{\r}
+Dialogue: 0,1:00:06.62,1:00:09.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你觉得他的手铐是怎么打开的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How do you think he opened the handcuffs?{\r}
+Dialogue: 0,1:00:09.37,1:00:11.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定有内鬼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It must be an inside job{\r}
+Dialogue: 0,1:00:11.83,1:00:13.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这么看{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's what you think?{\r}
+Dialogue: 0,1:00:13.16,1:00:14.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不然解释不通{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There's no other explanation{\r}
+Dialogue: 0,1:00:18.16,1:00:19.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他用的是金志德的车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He used Jin's car{\r}
+Dialogue: 0,1:00:20.70,1:00:22.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不要立即逮捕金志德{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Shall we arrest Jin now?{\r}
+Dialogue: 0,1:00:26.20,1:00:27.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我认为{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I believe{\r}
+Dialogue: 0,1:00:28.54,1:00:29.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他是偶然{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}he got into that car{\r}
+Dialogue: 0,1:00:29.62,1:00:31.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}才上的那辆车吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}by chance{\r}
+Dialogue: 0,1:00:31.50,1:00:33.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟老金没有关系{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin has nothing to do with this{\r}
+Dialogue: 0,1:00:36.25,1:00:37.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要真是老金的话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If he did{\r}
+Dialogue: 0,1:00:38.33,1:00:39.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那他也太笨了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}it would be too stupid of him{\r}
+Dialogue: 0,1:00:44.50,1:00:45.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这样吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's not do anything{\r}
+Dialogue: 0,1:00:45.75,1:00:46.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先不管他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}about that now{\r}
+Dialogue: 0,1:00:47.83,1:00:50.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们给我严密监视亚细亚电影院{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep a tight surveillance on Asia Cinema{\r}
+Dialogue: 0,1:00:50.95,1:00:51.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,1:01:08.25,1:01:09.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周股长来啦{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Welcome, Section Head Zhou{\r}
+Dialogue: 0,1:01:10.20,1:01:11.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要的药呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where is the medicine I wanted?{\r}
+Dialogue: 0,1:01:12.37,1:01:13.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还没来得及找呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I haven't had time to find it{\r}
+Dialogue: 0,1:01:14.12,1:01:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是头疼啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You still have a headache?{\r}
+Dialogue: 0,1:01:16.04,1:01:16.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Well{\r}
+Dialogue: 0,1:01:16.70,1:01:19.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我给您找一盒阿纳辛  您先试试{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}try this Anacin{\r}
+Dialogue: 0,1:01:22.75,1:01:23.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周股长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Head Zhou{\r}
+Dialogue: 0,1:01:24.50,1:01:25.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}找着盒阿司匹林{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I found some Aspirin{\r}
+Dialogue: 0,1:01:27.29,1:01:27.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,1:02:19.08,1:02:20.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王郁姐病了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yu is ill{\r}
+Dialogue: 0,1:02:36.20,1:02:37.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}昨晚上吃什么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What did she eat last night?{\r}
+Dialogue: 0,1:02:38.04,1:02:39.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't know{\r}
+Dialogue: 0,1:02:41.37,1:02:42.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}食物中毒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Food poisoning?{\r}
+Dialogue: 0,1:02:43.00,1:02:44.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还得住两天{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She'll need a few days{\r}
+Dialogue: 0,1:02:57.12,1:02:58.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here{\r}
+Dialogue: 0,1:02:59.50,1:03:00.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here{\r}
+Dialogue: 0,1:03:37.66,1:03:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你吃了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You took it?{\r}
+Dialogue: 0,1:03:42.29,1:03:43.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怀疑他们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You suspect them?{\r}
+Dialogue: 0,1:03:44.20,1:03:45.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们就是特务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They are spies{\r}
+Dialogue: 0,1:03:47.54,1:03:48.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你确认吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Are you sure?{\r}
+Dialogue: 0,1:03:48.95,1:03:50.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我太了解老张了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The code Zhang wrote on the train{\r}
+Dialogue: 0,1:03:51.54,1:03:53.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他不会冒着危险写两句废话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}must have been changed{\r}
+Dialogue: 0,1:03:54.62,1:03:55.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}火车上的密码{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I know him too well{\r}
+Dialogue: 0,1:03:56.00,1:03:57.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定被人改过{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He wouldn't take an unnecessary risk{\r}
+Dialogue: 0,1:03:57.62,1:03:59.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有叛徒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There is a traitor{\r}
+Dialogue: 0,1:04:00.41,1:04:01.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在我们该怎么办{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What shall we do now?{\r}
+Dialogue: 0,1:04:04.12,1:04:05.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出院的时候动手{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When I leave the hospital{\r}
+Dialogue: 0,1:04:05.95,1:04:07.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们得跑{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We must escape{\r}
+Dialogue: 0,1:04:18.91,1:04:20.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看过《伊索寓言》吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have you read Aesop's Fables?{\r}
+Dialogue: 0,1:04:29.29,1:04:31.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看过《伊索寓言》吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have you read Aesop's Fables?{\r}
+Dialogue: 0,1:04:31.91,1:04:33.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我只看过狐狸和鬣狗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've only read The Fox and the Hyena{\r}
+Dialogue: 0,1:04:35.04,1:04:37.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道狐狸为什么会拒绝它吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you know why the fox refused it?{\r}
+Dialogue: 0,1:04:39.70,1:04:40.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't know.{\r}
+Dialogue: 0,1:04:42.16,1:04:43.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么不说接头暗号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why won't you say the contact code?{\r}
+Dialogue: 0,1:04:47.87,1:04:50.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为狐狸不知道它是男是女{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Because the fox didn't know its gender{\r}
+Dialogue: 0,1:04:50.37,1:04:51.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我叫周乙{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm Zhou Yi{\r}
+Dialogue: 0,1:04:51.70,1:04:53.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是上级党组织{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}A secret agent operating{\r}
+Dialogue: 0,1:04:53.08,1:04:55.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}安插在特务科的秘密情报人员{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}from inside the Special Task Force{\r}
+Dialogue: 0,1:04:55.50,1:04:57.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢子荣叛变了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Xie Zirong has turned{\r}
+Dialogue: 0,1:04:57.37,1:04:58.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但他不知道我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But he doesn't know about me{\r}
+Dialogue: 0,1:04:59.00,1:05:00.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我自己做主{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I decided on my own{\r}
+Dialogue: 0,1:05:00.58,1:05:02.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}冒险找到了我的单线联络人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to risk approaching my liaison{\r}
+Dialogue: 0,1:05:02.79,1:05:05.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}想办法弄到了你们的接头暗号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to attain your contact code{\r}
+Dialogue: 0,1:05:07.33,1:05:08.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么要暴露你自己{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why did you expose yourself?{\r}
+Dialogue: 0,1:05:09.16,1:05:10.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张被捕了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang has been captured{\r}
+Dialogue: 0,1:05:13.62,1:05:14.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那小兰呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And Lan?{\r}
+Dialogue: 0,1:05:15.00,1:05:16.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小兰暂时安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}She is safe for now{\r}
+Dialogue: 0,1:05:16.75,1:05:17.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是老张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But Zhang{\r}
+Dialogue: 0,1:05:18.08,1:05:19.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}被注射了大量的迷幻剂{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}has been injected with psychedelics{\r}
+Dialogue: 0,1:05:20.25,1:05:21.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}昏迷中{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}While unconscious{\r}
+Dialogue: 0,1:05:21.25,1:05:22.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他可能露出了一些{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}he may have revealed{\r}
+Dialogue: 0,1:05:22.58,1:05:24.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}跟小兰的联络方法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}ways to find Lan{\r}
+Dialogue: 0,1:05:25.95,1:05:26.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}叛徒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Traitor{\r}
+Dialogue: 0,1:05:27.12,1:05:28.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他不是叛徒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He was not{\r}
+Dialogue: 0,1:05:29.70,1:05:30.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我在现场{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I was there{\r}
+Dialogue: 0,1:05:34.66,1:05:35.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Listen{\r}
+Dialogue: 0,1:05:36.37,1:05:37.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Operation Utrennya{\r}
+Dialogue: 0,1:05:37.70,1:05:39.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会有别的同志来完成{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}will be completed by other comrades{\r}
+Dialogue: 0,1:05:39.66,1:05:41.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们继续拖住敌人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep delaying the enemy{\r}
+Dialogue: 0,1:05:41.20,1:05:42.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不要轻举妄动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't make any rash moves{\r}
+Dialogue: 0,1:05:42.29,1:05:43.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听从我的安排{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Listen to my arrangements{\r}
+Dialogue: 0,1:05:44.58,1:05:46.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我会想办法让你们脱身{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I will try to free you{\r}
+Dialogue: 0,1:05:56.87,1:05:59.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你凭什么认为我们会相信你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why should we trust you?{\r}
+Dialogue: 0,1:06:00.08,1:06:01.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为你有两个孩子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Because you have two children{\r}
+Dialogue: 0,1:06:01.75,1:06:03.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在马迭尔宾馆门口要饭{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}begging outside Modern Hotel{\r}
+Dialogue: 0,1:06:08.79,1:06:10.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么找到小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How do I find Lan?{\r}
+Dialogue: 0,1:07:02.08,1:07:03.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是二四六一头一尾吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's Tuesdays, Thursdays, and Saturdays, right?{\r}
+Dialogue: 0,1:07:03.83,1:07:05.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱大白天盯啥呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}So why are we here now?{\r}
+Dialogue: 0,1:07:07.50,1:07:08.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我过去看看{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll go take a look{\r}
+Dialogue: 0,1:08:19.79,1:08:20.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也转转去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll go now{\r}
+Dialogue: 0,1:08:21.04,1:08:22.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你走几趟我走几趟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If I don't match you{\r}
+Dialogue: 0,1:08:22.25,1:08:23.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不然高科长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll catch hell from{\r}
+Dialogue: 0,1:08:23.33,1:08:24.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}又该骂我了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief Gao{\r}
+Dialogue: 0,1:09:29.29,1:09:30.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看过了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You've taken a look?{\r}
+Dialogue: 0,1:09:30.29,1:09:31.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看过了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:09:31.91,1:09:33.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}发现什么了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Did you find anything?{\r}
+Dialogue: 0,1:09:33.33,1:09:34.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No{\r}
+Dialogue: 0,1:09:51.87,1:09:53.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真没发现什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Really?{\r}
+Dialogue: 0,1:09:53.12,1:09:54.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Really{\r}
+Dialogue: 0,1:10:17.00,1:10:18.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看到了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Did you see that?{\r}
+Dialogue: 0,1:10:19.66,1:10:20.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看到了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:10:20.83,1:10:22.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你看到是谁画的了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Did you see who did it?{\r}
+Dialogue: 0,1:10:29.79,1:10:31.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是共产党{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I am a Communist{\r}
+Dialogue: 0,1:10:48.33,1:10:49.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}如果我是共党{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If I were a Communist{\r}
+Dialogue: 0,1:10:50.95,1:10:51.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我刚才做了什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}you would never have seen{\r}
+Dialogue: 0,1:10:51.83,1:10:53.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你根本就看不到{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}what I had just done{\r}
+Dialogue: 0,1:10:59.79,1:11:01.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只有站在共党的角度{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We can only catch Communists{\r}
+Dialogue: 0,1:11:02.83,1:11:04.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}才能抓共党{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}by thinking like them{\r}
+Dialogue: 0,1:11:04.70,1:11:06.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}而不是像你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and unlike you{\r}
+Dialogue: 0,1:11:07.33,1:11:08.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}整天想着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}only watching during{\r}
+Dialogue: 0,1:11:08.08,1:11:10.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}盯紧二四六头尾就可以了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tuesdays, Thursdays, Saturdays{\r}
+Dialogue: 0,1:11:14.29,1:11:15.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}高科长最在意细节了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief Gao cares about details{\r}
+Dialogue: 0,1:11:19.75,1:11:21.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你要我把你的表现告诉他吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Shall I tell him about this?{\r}
+Dialogue: 0,1:11:25.41,1:11:28.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道你为什么这么多年一直升不上去吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}See why you've never been promoted?{\r}
+Dialogue: 0,1:11:33.25,1:11:34.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天你结帐啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Coffee is on you{\r}
+Dialogue: 0,1:11:35.62,1:11:36.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Fine{\r}
+Dialogue: 0,1:11:48.50,1:11:49.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咋地啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What's wrong?{\r}
+Dialogue: 0,1:11:49.50,1:11:51.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}打不着了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It won't start?{\r}
+Dialogue: 0,1:11:51.45,1:11:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐我车走吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll give you a ride{\r}
+Dialogue: 0,1:11:53.00,1:11:53.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不用{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No, thanks{\r}
+Dialogue: 0,1:11:54.08,1:11:54.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天冷{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's too cold{\r}
+Dialogue: 0,1:11:54.75,1:11:55.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}多打几次就着了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It will start after a few tries{\r}
+Dialogue: 0,1:12:00.91,1:12:01.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come on{\r}
+Dialogue: 0,1:12:02.87,1:12:03.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come{\r}
+Dialogue: 0,1:12:15.25,1:12:15.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}行啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All right{\r}
+Dialogue: 0,1:12:15.87,1:12:18.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你这刚修好的车比我的车还好使啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Even after all that,\Nyour car is still in good shape{\r}
+Dialogue: 0,1:13:28.37,1:13:29.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天中午一点半{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Today's 1:30 show{\r}
+Dialogue: 0,1:13:29.66,1:13:30.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要三张挨着的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Three seats together{\r}
+Dialogue: 0,1:13:31.33,1:13:32.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}靠前{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Near the front{\r}
+Dialogue: 0,1:13:44.87,1:13:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,1:14:03.41,1:14:04.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金和张姐不在{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin and Zhang Jie are not here{\r}
+Dialogue: 0,1:14:05.04,1:14:06.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住这两个杯子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}remember these two cups{\r}
+Dialogue: 0,1:14:07.33,1:14:08.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别搞错了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't get them mixed up{\r}
+Dialogue: 0,1:14:10.16,1:14:11.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All right{\r}
+Dialogue: 0,1:14:16.91,1:14:18.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天是十八号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Today is the 18th{\r}
+Dialogue: 0,1:14:18.12,1:14:19.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}终于不用等了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Finally the wait is over{\r}
+Dialogue: 0,1:14:21.83,1:14:23.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在能透露一点吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you reveal a little more now?{\r}
+Dialogue: 0,1:14:24.12,1:14:25.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}无可奉告{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No comment{\r}
+Dialogue: 0,1:14:28.95,1:14:30.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那就只能聊吃的了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then we can only talk about food{\r}
+Dialogue: 0,1:14:32.08,1:14:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你看这俄木斯的红肠配红酒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Red sausage from Omsk with red wine,{\r}
+Dialogue: 0,1:14:34.95,1:14:36.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}红菜汤配黑面包{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}beet soup and black bread{\r}
+Dialogue: 0,1:14:36.79,1:14:39.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在能搞到这些已经很不错了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}not easy to get these days{\r}
+Dialogue: 0,1:14:40.29,1:14:42.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们那边经常吃西餐吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you often eat Western food?{\r}
+Dialogue: 0,1:14:42.83,1:14:43.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}西餐经常吃{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:14:43.75,1:14:45.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不过还是中餐更合胃口{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}but I prefer Chinese food{\r}
+Dialogue: 0,1:14:47.91,1:14:48.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那咖啡呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you drink coffee?{\r}
+Dialogue: 0,1:14:50.25,1:14:51.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咖啡倒是喝的惯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We drink coffee{\r}
+Dialogue: 0,1:15:11.41,1:15:12.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}头晕的厉害{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I feel very dizzy{\r}
+Dialogue: 0,1:15:13.25,1:15:14.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我先回去睡一会儿{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm going to take a nap{\r}
+Dialogue: 0,1:15:15.50,1:15:16.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我也有点晕{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I feel dizzy, too{\r}
+Dialogue: 0,1:15:23.95,1:15:25.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我送你啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll walk you back{\r}
+Dialogue: 0,1:15:44.62,1:15:45.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他怎么也倒了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why is he down, too?{\r}
+Dialogue: 0,1:15:48.08,1:15:50.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我看见他好像把杯子搞乱了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I think he mixed up the cups{\r}
+Dialogue: 0,1:15:50.50,1:15:51.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一直就这样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's always like that{\r}
+Dialogue: 0,1:15:51.87,1:15:53.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}见到酒什么都忘了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Alcohol distracts him from everything{\r}
+Dialogue: 0,1:16:02.91,1:16:03.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}楚良{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang{\r}
+Dialogue: 0,1:16:05.62,1:16:06.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}楚良{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang{\r}
+Dialogue: 0,1:17:24.66,1:17:26.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们就说今天晚上开始行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell them the operation starts tonight{\r}
+Dialogue: 0,1:17:26.87,1:17:27.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要一辆车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get a car{\r}
+Dialogue: 0,1:17:27.91,1:17:29.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}沿着巴尔干大街{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Drive along Balkan Street{\r}
+Dialogue: 0,1:17:29.08,1:17:30.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到二十五号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to Number 25{\r}
+Dialogue: 0,1:17:30.33,1:17:31.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那是罗马尼亚大使馆{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}the Romanian Embassy{\r}
+Dialogue: 0,1:17:32.33,1:17:33.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了门口以后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When you get to the door{\r}
+Dialogue: 0,1:17:33.58,1:17:34.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们要求停车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stop the car{\r}
+Dialogue: 0,1:17:34.79,1:17:35.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}让其他人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have the others{\r}
+Dialogue: 0,1:17:35.54,1:17:36.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在外面等着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}wait outside{\r}
+Dialogue: 0,1:17:36.62,1:17:37.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们俩进去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Two of you enter{\r}
+Dialogue: 0,1:17:37.79,1:17:38.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}门卫{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The guard{\r}
+Dialogue: 0,1:17:38.37,1:17:39.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会让你们出示请柬{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}will ask for an invitation{\r}
+Dialogue: 0,1:17:39.70,1:17:40.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们就说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tell him{\r}
+Dialogue: 0,1:17:40.62,1:17:42.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我是大使夫人的朋友{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I am a friend of the ambassador's wife'{\r}
+Dialogue: 0,1:17:42.41,1:17:43.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}然后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then{\r}
+Dialogue: 0,1:17:43.20,1:17:44.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}摘掉左手的手套{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}remove your left glove{\r}
+Dialogue: 0,1:17:44.41,1:17:45.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们会放行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They will let you in{\r}
+Dialogue: 0,1:17:51.83,1:17:52.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今天晚上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tonight is{\r}
+Dialogue: 0,1:17:52.70,1:17:54.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是罗马尼亚大使夫人的生日{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}the Ambassador's wife's birthday party{\r}
+Dialogue: 0,1:17:54.79,1:17:55.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会来很多人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There will be many guests{\r}
+Dialogue: 0,1:17:55.83,1:17:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只要你们进去了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}As long as you are in{\r}
+Dialogue: 0,1:17:57.04,1:17:58.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不会有人问你们是谁{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}no one will ask who you are{\r}
+Dialogue: 0,1:17:58.70,1:17:59.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}进去之后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}After you enter{\r}
+Dialogue: 0,1:17:59.66,1:18:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}穿过宴会厅{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}walk through the banquet hall{\r}
+Dialogue: 0,1:18:00.62,1:18:01.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}直接从后门出去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and exit directly via the back door{\r}
+Dialogue: 0,1:18:01.91,1:18:03.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}路边会停一辆黑色的轿车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}A black sedan will be parked there{\r}
+Dialogue: 0,1:18:03.62,1:18:05.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}钥匙就在车上插着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The key will be in the ignition{\r}
+Dialogue: 0,1:18:05.12,1:18:06.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}车上有你们需要的一切{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Everything you need will be in the car{\r}
+Dialogue: 0,1:18:07.08,1:18:09.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这个计划我会想办法再告诉王郁{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I will try to tell Yu this plan{\r}
+Dialogue: 0,1:18:22.25,1:18:23.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这枪谁发现的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who found this?{\r}
+Dialogue: 0,1:18:24.12,1:18:25.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我亲手搜出来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I found it on him myself{\r}
+Dialogue: 0,1:18:28.41,1:18:30.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}幸亏你提醒我要检查{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It's a good thing you suggested we check{\r}
+Dialogue: 0,1:18:32.54,1:18:35.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我说你们天天睡在一起都没发现{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You all slept together night after night and didn't notice?{\r}
+Dialogue: 0,1:18:37.12,1:18:38.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这跟小孟没有关系{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Meng is not to blame{\r}
+Dialogue: 0,1:18:38.25,1:18:39.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天天跟他睡一块的是我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It was me who shared a bed with him{\r}
+Dialogue: 0,1:18:40.37,1:18:41.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你怎么认为{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}So, what do you think?{\r}
+Dialogue: 0,1:18:43.58,1:18:44.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们已经暴露了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We've been made{\r}
+Dialogue: 0,1:18:45.08,1:18:47.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}应该立刻终止今天晚上的行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We should abort tonight's operation{\r}
+Dialogue: 0,1:18:47.33,1:18:48.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把他们抓起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And detain them{\r}
+Dialogue: 0,1:18:48.66,1:18:50.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有没有其他解释{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is there any other explanation?{\r}
+Dialogue: 0,1:18:52.58,1:18:53.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}当然{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Of course{\r}
+Dialogue: 0,1:18:53.29,1:18:54.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还有另外一种可能{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}there is one other possibility{\r}
+Dialogue: 0,1:18:55.00,1:18:57.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这只是一个特工的本能{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That he was just being extra cautious{\r}
+Dialogue: 0,1:18:57.37,1:18:59.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}并不意味着我们已经暴露了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and that we haven't been made{\r}
+Dialogue: 0,1:19:04.12,1:19:05.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们还有多久醒来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How much longer till they wake up?{\r}
+Dialogue: 0,1:19:08.29,1:19:09.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}最多还有一个小时{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}One hour, at most{\r}
+Dialogue: 0,1:19:12.16,1:19:13.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把枪送回去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Put back the gun{\r}
+Dialogue: 0,1:19:13.29,1:19:14.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}计划不变{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The plan remains{\r}
+Dialogue: 0,1:19:14.33,1:19:15.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}今晚行动继续{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We move tonight{\r}
+Dialogue: 0,1:19:19.50,1:19:20.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,1:19:32.91,1:19:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把枪的撞针搞了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Disable the firing pin{\r}
+Dialogue: 0,1:19:34.12,1:19:35.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}再放回去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}before putting it back{\r}
+Dialogue: 0,1:19:35.33,1:19:36.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁也别说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't tell anyone{\r}
+Dialogue: 0,1:19:36.50,1:19:37.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,1:19:39.12,1:19:40.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你给我盯着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep watching them{\r}
+Dialogue: 0,1:19:40.45,1:19:41.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看这把枪怎么开{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's see what he needs a gun for{\r}
+Dialogue: 0,1:19:48.62,1:19:49.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小孟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Meng{\r}
+Dialogue: 0,1:19:49.66,1:19:50.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有火吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}do you have a light?{\r}
+Dialogue: 0,1:19:54.20,1:19:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老周跟你说是我自己把杯子搞错的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhou told you I mixed up the cups?{\r}
+Dialogue: 0,1:19:57.04,1:19:57.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:19:57.75,1:19:59.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你就是搞错了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You did mix them up{\r}
+Dialogue: 0,1:20:10.79,1:20:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}半个小时以后出发{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We leave in half an hour{\r}
+Dialogue: 0,1:20:15.45,1:20:16.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}咱们这么多人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There are so many of us{\r}
+Dialogue: 0,1:20:17.12,1:20:18.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}目标是不是有点大{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Will we stand out too much?{\r}
+Dialogue: 0,1:20:19.50,1:20:21.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可是现在哈尔滨的特务太多{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}With so many spies in Harbin{\r}
+Dialogue: 0,1:20:21.79,1:20:23.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大家在一起会比较安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We'll be safer together{\r}
+Dialogue: 0,1:20:23.87,1:20:25.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}车上还得留个空位{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep an empty seat in the car{\r}
+Dialogue: 0,1:20:26.04,1:20:27.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回来的时候或许用得上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We may need it on our way back{\r}
+Dialogue: 0,1:20:28.25,1:20:29.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then you{\r}
+Dialogue: 0,1:20:29.29,1:20:30.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}和我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and I{\r}
+Dialogue: 0,1:20:30.25,1:20:31.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}留下来待命{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}stay and wait for orders{\r}
+Dialogue: 0,1:20:32.04,1:20:33.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:20:44.20,1:20:45.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是让你待命吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Didn't I say wait for orders{\r}
+Dialogue: 0,1:20:45.54,1:20:46.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上级的安排{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Orders from above{\r}
+Dialogue: 0,1:20:51.87,1:20:53.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那空位子还留吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Shall we keep the empty seat?{\r}
+Dialogue: 0,1:20:54.58,1:20:55.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不留了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No need{\r}
+Dialogue: 0,1:21:20.25,1:21:20.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去哪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where to?{\r}
+Dialogue: 0,1:21:21.37,1:21:22.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}巴尔干大街{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Balkan Avenue{\r}
+Dialogue: 0,1:21:22.95,1:21:24.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}巴尔干大街什么地方{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where on Balkan Avenue?{\r}
+Dialogue: 0,1:21:24.87,1:21:26.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到了就知道了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You'll know when we get there{\r}
+Dialogue: 0,1:22:07.16,1:22:07.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}停车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stop{\r}
+Dialogue: 0,1:22:14.75,1:22:15.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就这啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here?{\r}
+Dialogue: 0,1:22:15.66,1:22:16.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:22:16.62,1:22:17.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们在这等着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wait here{\r}
+Dialogue: 0,1:22:18.04,1:22:19.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟楚良下去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang and I will get out{\r}
+Dialogue: 0,1:22:19.70,1:22:20.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别熄火{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Keep the engine running{\r}
+Dialogue: 0,1:22:38.25,1:22:38.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等一下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wait{\r}
+Dialogue: 0,1:22:45.12,1:22:46.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个大使是个反共分子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Ambassador is anti-Communist{\r}
+Dialogue: 0,1:22:47.83,1:22:49.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}小心中了敌人圈套{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It could be a trap{\r}
+Dialogue: 0,1:22:50.41,1:22:51.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}联络员在里面{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The contact is inside{\r}
+Dialogue: 0,1:22:52.04,1:22:53.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们是按计划行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We have our plan{\r}
+Dialogue: 0,1:22:54.58,1:22:55.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟你们进去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll go with you{\r}
+Dialogue: 0,1:22:55.95,1:22:58.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}联络人要是发现来的人不对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If the contact sees it is not who he expects{\r}
+Dialogue: 0,1:22:58.37,1:22:59.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}会终止行动的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He will abort the operation{\r}
+Dialogue: 0,1:22:59.79,1:23:01.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那也比中了敌人圈套强吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's better than falling into his trap{\r}
+Dialogue: 0,1:23:05.33,1:23:06.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你说的对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You are right{\r}
+Dialogue: 0,1:23:07.04,1:23:08.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不计划取消吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why don't we abort?{\r}
+Dialogue: 0,1:23:08.58,1:23:09.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们回去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's call it off{\r}
+Dialogue: 0,1:23:10.29,1:23:11.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先别走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wait{\r}
+Dialogue: 0,1:23:11.91,1:23:13.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这也是担心你们的安全{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm just worried for your safety{\r}
+Dialogue: 0,1:23:14.75,1:23:15.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不然这样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why don't we do this{\r}
+Dialogue: 0,1:23:16.58,1:23:17.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王郁姐{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Sister Yu{\r}
+Dialogue: 0,1:23:18.45,1:23:19.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你一个人进去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You go in alone{\r}
+Dialogue: 0,1:23:21.16,1:23:22.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们在外面等你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And we'll wait for you outside{\r}
+Dialogue: 0,1:23:25.08,1:23:25.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All right then{\r}
+Dialogue: 0,1:23:27.37,1:23:28.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我先进去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here I go{\r}
+Dialogue: 0,1:23:37.58,1:23:38.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好夫人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Good evening, madam{\r}
+Dialogue: 0,1:23:38.25,1:23:39.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}您的请柬{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your invitation, please?{\r}
+Dialogue: 0,1:23:39.58,1:23:41.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}大使夫人是我的朋友{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The ambassador's wife is my friend{\r}
+Dialogue: 0,1:23:41.33,1:23:42.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出门的时候比较匆忙{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I left the house in a rush{\r}
+Dialogue: 0,1:23:43.00,1:23:44.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}忘记带请柬了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and forgot the invitation{\r}
+Dialogue: 0,1:23:44.41,1:23:45.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}您贵姓{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your name, please?{\r}
+Dialogue: 0,1:23:45.58,1:23:46.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我叫王郁{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I am Wang Yu{\r}
+Dialogue: 0,1:23:47.00,1:23:48.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是井田商会的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}From the Idota Association{\r}
+Dialogue: 0,1:24:27.70,1:24:28.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你好先生{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Hello, sir{\r}
+Dialogue: 0,1:24:28.41,1:24:29.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}您的请柬{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your invitation, please{\r}
+Dialogue: 0,1:24:29.95,1:24:32.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我跟刚刚进去那个女士是一起的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'm with the lady who just entered{\r}
+Dialogue: 0,1:24:32.62,1:24:33.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不好意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Pardon me{\r}
+Dialogue: 0,1:24:33.83,1:24:34.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}您叫什么名字{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What is your name, please?{\r}
+Dialogue: 0,1:24:35.37,1:24:36.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我叫楚良{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang{\r}
+Dialogue: 0,1:24:52.00,1:24:53.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我把车停好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll park the car{\r}
+Dialogue: 0,1:27:11.83,1:27:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我去看看{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll have a look?{\r}
+Dialogue: 0,1:27:13.45,1:27:14.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}去吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Go{\r}
+Dialogue: 0,1:27:15.29,1:27:15.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,1:30:24.50,1:30:25.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么开车的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you know how to drive?{\r}
+Dialogue: 0,1:30:40.25,1:30:41.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}下来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get out{\r}
+Dialogue: 0,1:33:15.58,1:33:16.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要活的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I want them alive{\r}
+Dialogue: 0,1:34:39.20,1:34:39.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}分开走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let's split up{\r}
+Dialogue: 0,1:34:59.62,1:35:00.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}走啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Go{\r}
+Dialogue: 0,1:35:37.54,1:35:38.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}分开找{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Split up{\r}
+Dialogue: 0,1:35:38.50,1:35:39.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们几个去那边{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You go that way{\r}
+Dialogue: 0,1:35:39.50,1:35:40.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Remember{\r}
+Dialogue: 0,1:35:40.54,1:35:41.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定要抓活的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I need him alive{\r}
+Dialogue: 0,1:35:41.54,1:35:42.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:37:06.04,1:37:06.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come out{\r}
+Dialogue: 0,1:37:10.16,1:37:11.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Come out{\r}
+Dialogue: 0,1:37:25.50,1:37:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把枪放下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Put down your gun{\r}
+Dialogue: 0,1:37:28.70,1:37:29.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}放下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Put it down{\r}
+Dialogue: 0,1:38:37.41,1:38:38.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Damn{\r}
+Dialogue: 0,1:38:39.66,1:38:40.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}晚了一步{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I was too late{\r}
+Dialogue: 0,1:39:14.95,1:39:15.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}死啦{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's dead?{\r}
+Dialogue: 0,1:39:16.25,1:39:17.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}服毒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He took poison{\r}
+Dialogue: 0,1:39:18.70,1:39:19.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没来得及{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Didn't get to him in time{\r}
+Dialogue: 0,1:39:21.20,1:39:22.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那个女的呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And the woman?{\r}
+Dialogue: 0,1:39:29.83,1:39:31.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周股长果断开枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Subsection Chief Zhou's sure shot{\r}
+Dialogue: 0,1:39:31.08,1:39:31.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}救了老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}saved Jin{\r}
+Dialogue: 0,1:39:31.87,1:39:32.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}因为他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}because he...{\r}
+Dialogue: 0,1:39:32.54,1:39:33.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我看见了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I saw{\r}
+Dialogue: 0,1:39:35.45,1:39:36.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那把枪呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And the gun?{\r}
+Dialogue: 0,1:39:36.45,1:39:37.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开了没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Was it shot?{\r}
+Dialogue: 0,1:39:37.66,1:39:38.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:39:38.33,1:39:40.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对方毫不犹豫先开的枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The enemy fired without hesitation{\r}
+Dialogue: 0,1:39:40.12,1:39:41.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}要不是搞了撞针{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}If you hadn't disabled the firing pin{\r}
+Dialogue: 0,1:39:41.41,1:39:42.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周股长就悬了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhou would be dead{\r}
+Dialogue: 0,1:39:42.58,1:39:43.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}弟兄们也都看见了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The men saw it, too{\r}
+Dialogue: 0,1:39:44.50,1:39:45.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我认为周股长可以排除{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I think Zhou is clean{\r}
+Dialogue: 0,1:39:46.41,1:39:47.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你认为{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is that so?{\r}
+Dialogue: 0,1:39:52.25,1:39:52.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}人不行了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's dead{\r}
+Dialogue: 0,1:39:53.04,1:39:53.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没救过来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We couldn't save him{\r}
+Dialogue: 0,1:40:36.20,1:40:36.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,1:40:37.50,1:40:39.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长让你先在这儿委屈几天{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Gao said to stay here a few days{\r}
+Dialogue: 0,1:40:48.25,1:40:49.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这次行动失败{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This operation failed{\r}
+Dialogue: 0,1:40:50.12,1:40:51.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一定是有人帮了他们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}because they had help{\r}
+Dialogue: 0,1:40:57.54,1:40:58.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这算是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}So then{\r}
+Dialogue: 0,1:40:58.95,1:41:00.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}被逮捕了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Are you arresting me?{\r}
+Dialogue: 0,1:41:00.58,1:41:01.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你紧张什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why are you so nervous?{\r}
+Dialogue: 0,1:41:03.12,1:41:04.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长缴了我的械{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You take my gun{\r}
+Dialogue: 0,1:41:04.62,1:41:06.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还问我紧张什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and ask me why I'm nervous?{\r}
+Dialogue: 0,1:41:06.41,1:41:07.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我再问一遍{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I will ask again{\r}
+Dialogue: 0,1:41:07.95,1:41:09.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我这算是被逮捕了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Have I been arrested?{\r}
+Dialogue: 0,1:41:10.08,1:41:11.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先回答问题{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Answer me first{\r}
+Dialogue: 0,1:41:12.95,1:41:15.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你认为是谁帮了他们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who do you think helped them?{\r}
+Dialogue: 0,1:41:15.58,1:41:17.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你是说大使馆的人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}From the embassy?{\r}
+Dialogue: 0,1:41:19.50,1:41:22.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我已经派人调查了使馆门口的白人小伙子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I had the guard investigated{\r}
+Dialogue: 0,1:41:22.95,1:41:24.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}拉脱维亚人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He's Latvian{\r}
+Dialogue: 0,1:41:24.62,1:41:25.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有外交护照{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}with a diplomatic passport{\r}
+Dialogue: 0,1:41:26.58,1:41:27.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我说的不是他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't mean him{\r}
+Dialogue: 0,1:41:28.45,1:41:29.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那是谁{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then who?{\r}
+Dialogue: 0,1:41:30.29,1:41:33.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢子荣除了供出乌拉特行动外{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Besides Operation Utrennya{\r}
+Dialogue: 0,1:41:33.41,1:41:35.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还提供了一个重要情报{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Xie provided other important intelligence{\r}
+Dialogue: 0,1:41:36.20,1:41:38.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}共产党的一名特工{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}A Communist special agent has{\r}
+Dialogue: 0,1:41:38.70,1:41:40.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一直秘密潜伏在特务科{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}infiltrated our task force{\r}
+Dialogue: 0,1:41:42.04,1:41:42.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谁{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who?{\r}
+Dialogue: 0,1:41:45.45,1:41:47.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}只知道是个男的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All we know is, it's a man{\r}
+Dialogue: 0,1:41:49.91,1:41:52.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}破获乌特拉行动只是一方面{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Stopping Operation Utrennya was only a part{\r}
+Dialogue: 0,1:41:52.79,1:41:53.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}更重要的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The more important part is{\r}
+Dialogue: 0,1:41:53.70,1:41:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是借这次行动{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to use this operation{\r}
+Dialogue: 0,1:41:55.45,1:41:56.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}揪出内鬼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to find the mole{\r}
+Dialogue: 0,1:42:01.04,1:42:02.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你不觉得金志德可疑吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You don't think Jin is a suspect?{\r}
+Dialogue: 0,1:42:07.33,1:42:08.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}一个死了的人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What's so suspicious{\r}
+Dialogue: 0,1:42:08.62,1:42:09.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有什么可疑的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}about a dead man?{\r}
+Dialogue: 0,1:42:09.91,1:42:11.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}张宪臣用他的车越狱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang used his car to break out{\r}
+Dialogue: 0,1:42:12.04,1:42:13.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}真是偶然吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is it really a coincidence?{\r}
+Dialogue: 0,1:42:17.16,1:42:17.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:42:18.70,1:42:20.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这种事很多{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}These things often happen{\r}
+Dialogue: 0,1:42:36.75,1:42:39.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这张电影海报很熟悉吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You've seen this movie poster?{\r}
+Dialogue: 0,1:42:44.62,1:42:46.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是谁做的记号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Who made this mark?{\r}
+Dialogue: 0,1:42:48.66,1:42:49.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I did{\r}
+Dialogue: 0,1:42:49.87,1:42:50.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why?{\r}
+Dialogue: 0,1:42:51.41,1:42:52.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为了提醒金志德{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}To remind Jin{\r}
+Dialogue: 0,1:42:53.20,1:42:55.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}做事要认真细心{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}to pay attention to details{\r}
+Dialogue: 0,1:42:55.79,1:42:57.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这也是高科长你的意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Like you always taught us{\r}
+Dialogue: 0,1:42:58.04,1:42:59.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}金志德不是这样说的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}That's not what Jin said{\r}
+Dialogue: 0,1:43:00.33,1:43:01.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他怎么说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What did he say?{\r}
+Dialogue: 0,1:43:03.20,1:43:04.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他不会胡说八道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}He wouldn't lie{\r}
+Dialogue: 0,1:43:05.08,1:43:06.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}毕竟我们这么多年的同事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We've worked together so many years{\r}
+Dialogue: 0,1:43:08.41,1:43:09.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他是怎么说的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What did he say?{\r}
+Dialogue: 0,1:43:10.25,1:43:11.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}为什么选二十号{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Why did you choose the 20th ?{\r}
+Dialogue: 0,1:43:13.20,1:43:14.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}随手画的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I just made that mark at random{\r}
+Dialogue: 0,1:43:14.37,1:43:15.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也是偶然吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Is it by coincidence?{\r}
+Dialogue: 0,1:43:16.16,1:43:18.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}还是有什么特殊意义{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Or is there a special significance?{\r}
+Dialogue: 0,1:43:21.75,1:43:23.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长我听不懂你的意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't understand what you mean{\r}
+Dialogue: 0,1:43:23.50,1:43:24.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}听不懂{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't you?{\r}
+Dialogue: 0,1:43:25.83,1:43:27.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那你就在这坐到二十号吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Then you will sit here until the 20th{\r}
+Dialogue: 0,1:44:08.83,1:44:09.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All up{\r}
+Dialogue: 0,1:44:09.54,1:44:10.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}开灯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Get up{\r}
+Dialogue: 0,1:44:11.62,1:44:12.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All up{\r}
+Dialogue: 0,1:44:12.45,1:44:13.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}都站起来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}All up{\r}
+Dialogue: 0,1:44:16.04,1:44:17.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怎么找到小兰{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}How do we find Lan?{\r}
+Dialogue: 0,1:44:17.54,1:44:18.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}二四六  头尾两场{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Tuesdays, Thursdays and Saturdays. First and last{\r}
+Dialogue: 0,1:44:19.25,1:44:20.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}选一个时间{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Choose a time{\r}
+Dialogue: 0,1:44:20.54,1:44:21.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}画上勾{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}make a tick mark{\r}
+Dialogue: 0,1:44:21.91,1:44:23.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}保护措施是什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What is the safety measure?{\r}
+Dialogue: 0,1:44:23.62,1:44:25.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}后四天的同一时间{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Four days later from that time{\r}
+Dialogue: 0,1:44:25.83,1:44:27.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}她才会出现{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}is when she will show up{\r}
+Dialogue: 0,1:44:27.45,1:44:28.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是后四天{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Remember{\r}
+Dialogue: 0,1:44:29.29,1:44:29.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}记住{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Four days later{\r}
+Dialogue: 0,1:45:09.16,1:45:11.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这是从金志德的车里搜出来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I found this in Jin's car{\r}
+Dialogue: 0,1:45:15.29,1:45:16.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}金志德{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin?{\r}
+Dialogue: 0,1:45:19.25,1:45:20.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}坐我车走吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I'll give you a ride{\r}
+Dialogue: 0,1:45:46.54,1:45:48.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对你的调查到此为止{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We're letting you go{\r}
+Dialogue: 0,1:45:53.79,1:45:54.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}怀疑是我的工作{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}It is my job to suspect people{\r}
+Dialogue: 0,1:45:54.95,1:45:56.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}也是我的职责{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}and my responsibility as well{\r}
+Dialogue: 0,1:45:56.54,1:45:57.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别介意{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Forgive me{\r}
+Dialogue: 0,1:45:57.91,1:45:58.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周末我请你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This weekend I'll treat you to{\r}
+Dialogue: 0,1:45:58.87,1:45:59.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}马迭尔西餐{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}a meal at Modern Hotel{\r}
+Dialogue: 0,1:46:01.62,1:46:02.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我不吃西餐{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I don't like Western food{\r}
+Dialogue: 0,1:46:05.33,1:46:06.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}别那么小心眼儿{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Don't be so petty{\r}
+Dialogue: 0,1:46:16.08,1:46:17.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}回去好好休息{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Go home, get some rest{\r}
+Dialogue: 0,1:46:23.50,1:46:24.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}等等{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Wait{\r}
+Dialogue: 0,1:46:38.45,1:46:40.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这把枪可不能卡壳啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}This gun will not jam{\r}
+Dialogue: 0,1:46:44.75,1:46:45.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我说嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I must say{\r}
+Dialogue: 0,1:46:47.20,1:46:48.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief{\r}
+Dialogue: 0,1:46:49.45,1:46:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你救了我一命{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You saved my life{\r}
+Dialogue: 0,1:47:34.08,1:47:35.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,1:47:35.95,1:47:36.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,1:47:40.45,1:47:41.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,1:47:42.00,1:47:43.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上级领导找你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The higher ups want to see you{\r}
+Dialogue: 0,1:47:43.33,1:47:44.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}有重要任务{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}There was an urgent mission{\r}
+Dialogue: 0,1:47:45.08,1:47:46.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}联系不上你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They couldn't find you{\r}
+Dialogue: 0,1:47:47.29,1:47:48.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这紧急时刻{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}At this critical time{\r}
+Dialogue: 0,1:47:48.70,1:47:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你们都在哪见面{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}where are you meeting?{\r}
+Dialogue: 0,1:47:51.25,1:47:52.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老金{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin{\r}
+Dialogue: 0,1:47:59.83,1:48:00.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你怎么看{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}What do you think?{\r}
+Dialogue: 0,1:48:02.00,1:48:05.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}金志德的级别绝对在张宪臣之上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Jin definitely out-ranks Zhang{\r}
+Dialogue: 0,1:48:08.16,1:48:10.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他能被自己人伤成这样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can his own people hurt him so badly?{\r}
+Dialogue: 0,1:48:12.16,1:48:13.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}苦肉计而已{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Gotta make it look real{\r}
+Dialogue: 0,1:48:13.58,1:48:14.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们常用{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Comes with the territory{\r}
+Dialogue: 0,1:48:17.45,1:48:20.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}抓到了一个潜伏多年的共产党高级卧底{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You've caught a high-level Communist spy{\r}
+Dialogue: 0,1:48:20.79,1:48:21.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}成果显著{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}who'd been in your ranks for years{\r}
+Dialogue: 0,1:48:24.33,1:48:26.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}这就是破获乌特拉行动的结果{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The result of stopping Operation Utrennya{\r}
+Dialogue: 0,1:48:27.58,1:48:29.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}可以这样向上汇报{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Can you report it this way?{\r}
+Dialogue: 0,1:48:31.00,1:48:32.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长英明{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Brilliant, Section Chief{\r}
+Dialogue: 0,1:48:54.45,1:48:55.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}持枪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Ready{\r}
+Dialogue: 0,1:48:56.58,1:48:57.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}上膛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Load{\r}
+Dialogue: 0,1:49:03.45,1:49:04.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}瞄准{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Aim{\r}
+Dialogue: 0,1:50:28.04,1:50:29.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}王子阳同志{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Comrade Wang{\r}
+Dialogue: 0,1:50:29.41,1:50:30.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我就送你到这里了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}We part ways here{\r}
+Dialogue: 0,1:50:31.16,1:50:32.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}组织上已经安排好了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Everything has been arranged{\r}
+Dialogue: 0,1:50:32.66,1:50:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}出境会一切顺利{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You'll be safe up to the border{\r}
+Dialogue: 0,1:50:34.70,1:50:35.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们后会有期{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Take care{\r}
+Dialogue: 0,1:50:36.95,1:50:37.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Thank you{\r}
+Dialogue: 0,1:50:44.62,1:50:46.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老韩  保重{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Take care, Han{\r}
+Dialogue: 0,1:51:10.33,1:51:11.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}周乙大哥{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Brother Zhou{\r}
+Dialogue: 0,1:51:12.50,1:51:14.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}现在任务已经完成了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Our mission is done{\r}
+Dialogue: 0,1:51:14.91,1:51:16.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你可以告诉我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Please tell me{\r}
+Dialogue: 0,1:51:17.16,1:51:19.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张和楚良哥是怎么牺牲的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}how Zhang and Chuliang died{\r}
+Dialogue: 0,1:51:20.25,1:51:22.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}不是说了很多回了吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I've told you often{\r}
+Dialogue: 0,1:51:24.12,1:51:25.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们勇敢战斗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They fought bravely{\r}
+Dialogue: 0,1:51:26.66,1:51:28.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把最后一颗子弹留给了自己{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}And saved the final bullet for themselves{\r}
+Dialogue: 0,1:51:31.25,1:51:32.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}他们没有被捕{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}They weren't arrested{\r}
+Dialogue: 0,1:51:32.75,1:51:34.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有被敌人折磨{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}or tortured?{\r}
+Dialogue: 0,1:51:35.04,1:51:35.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}No{\r}
+Dialogue: 0,1:51:37.29,1:51:38.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我都在现场{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I was there{\r}
+Dialogue: 0,1:51:38.79,1:51:39.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你都在现场{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}You were?{\r}
+Dialogue: 0,1:51:40.20,1:51:40.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes{\r}
+Dialogue: 0,1:51:55.50,1:51:57.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}但是我没办法救他们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But I couldn't help{\r}
+Dialogue: 0,1:52:03.29,1:52:04.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那天降落后{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}When we landed{\r}
+Dialogue: 0,1:52:05.70,1:52:07.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}楚良哥跟我说对不起{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Chuliang apologized to me{\r}
+Dialogue: 0,1:52:12.50,1:52:14.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}其实是我对不起他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}But I'm the one who should apologize{\r}
+Dialogue: 0,1:52:19.54,1:52:21.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我都没有跟他好好告别{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I didn't even say goodbye{\r}
+Dialogue: 0,1:52:27.45,1:52:29.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}没想到火车上远远看一眼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Our final meeting was{\r}
+Dialogue: 0,1:52:30.91,1:52:32.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}就是最后一面了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}a distant glance on the train{\r}
+Dialogue: 0,1:52:37.20,1:52:39.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}你知道乌特拉是什么意思吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do you know what“Utrennya"means?{\r}
+Dialogue: 0,1:52:42.50,1:52:44.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}俄语里是黎明的意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}The Russian word for 'dawn'{\r}
+Dialogue: 0,1:52:48.04,1:52:49.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}老张最后跟我说{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Zhang's last words to me were{\r}
+Dialogue: 0,1:52:50.79,1:52:52.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天亮了就好了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Everything will be fine when the sun rises{\r}
+Dialogue: 0,1:52:54.62,1:52:55.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}天亮了就好了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Everything will be fine when the sun rises{\r}
+Dialogue: 0,1:52:57.70,1:52:58.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Will we{\r}
+Dialogue: 0,1:52:59.50,1:53:01.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}能看到天亮吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}get to see the sun rise?{\r}
+Dialogue: 0,1:53:05.12,1:53:06.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}那药片呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Where is the pill?{\r}
+Dialogue: 0,1:53:06.66,1:53:07.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}在{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Here{\r}
+Dialogue: 0,1:53:07.70,1:53:08.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}给我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Give it to me{\r}
+Dialogue: 0,1:53:19.20,1:53:20.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}我要你活着{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}I want you to live{\r}
+Dialogue: 0,1:53:22.12,1:53:23.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}看到天亮{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}To see the sun rise{\r}
+Dialogue: 0,1:53:29.16,1:53:31.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}把这个给金志德的家属{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}For Jin's family{\r}
+Dialogue: 0,1:53:32.37,1:53:34.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}顺便代我慰问一下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}with my condolences{\r}
+Dialogue: 0,1:53:34.16,1:53:35.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Yes, sir{\r}
+Dialogue: 0,1:53:40.79,1:53:41.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}科长{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Section Chief{\r}
+Dialogue: 0,1:53:42.20,1:53:44.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}乌特拉行动上边已经结案了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Operation Utrennyas file is closed{\r}
+Dialogue: 0,1:53:44.66,1:53:46.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}内鬼还查吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Do we still hunt the mole?{\r}
+Dialogue: 0,1:53:48.29,1:53:49.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}先放一阵子吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Let it go for now{\r}
+Dialogue: 0,1:53:52.66,1:53:54.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}到时候让他自己跳出来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}In time he will expose himself{\r}
+Dialogue: 0,1:54:44.20,1:54:45.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs23\bord1\shad1\b0}妈妈{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC8DCF0&\b0}Your mother{\r}

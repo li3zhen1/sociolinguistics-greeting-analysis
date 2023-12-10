@@ -1,0 +1,5180 @@
+﻿1
+00:00:59,360 --> 00:01:01,520
+{\fnSimHei\fs10\b0}真是舒服呀，呢度好静呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Very comfortable, it's quiet here?{\r\fnSimHei\fs10\b0}
+
+2
+00:01:01,520 --> 00:01:04,160
+{\fnSimHei\fs10\b0}以前好旺的，点解而家冇硒人？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Used to be a crowded place, how come it's so quiet now?{\r\fnSimHei\fs10\b0}
+
+3
+00:01:04,160 --> 00:01:05,195
+{\fnSimHei\fs10\b0}唔知呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't know{\r\fnSimHei\fs10\b0}
+
+4
+00:01:05,400 --> 00:01:08,551
+{\fnSimHei\fs10\b0}你看多漂亮，我想过对面呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's so pretty there, I want to get there{\r\fnSimHei\fs10\b0}
+
+5
+00:01:08,800 --> 00:01:10,995
+{\fnSimHei\fs10\b0}喂，你两个在干什么？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, what are you two doing here?{\r\fnSimHei\fs10\b0}
+
+6
+00:01:11,200 --> 00:01:14,800
+{\fnSimHei\fs10\b0}在我地盘搞搞震，走唔走呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Damn you! You fool around in my site? Go away now{\r\fnSimHei\fs10\b0}
+
+7
+00:01:14,800 --> 00:01:16,074
+{\fnSimHei\fs10\b0}走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Beat it!{\r\fnSimHei\fs10\b0}
+
+8
+00:01:17,200 --> 00:01:18,080
+{\fnSimHei\fs10\b0}小心点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+9
+00:01:18,080 --> 00:01:19,832
+{\fnSimHei\fs10\b0}死啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit!{\r\fnSimHei\fs10\b0}
+
+10
+00:01:34,400 --> 00:01:38,840
+{\fnSimHei\fs10\b0}唔怕老实讲， 我而家正一系空心老倌啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Frankly tell you, I am a man of none a penny{\r\fnSimHei\fs10\b0}
+
+11
+00:01:38,840 --> 00:01:40,040
+{\fnSimHei\fs10\b0}我所有资金，甚至毕生的积蓄
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All my cash flow, even my savings{\r\fnSimHei\fs10\b0}
+
+12
+00:01:40,040 --> 00:01:43,440
+{\fnSimHei\fs10\b0}都投资硒在这个渡假村上面
+{\fnSimHei\fs8\1c&H80FFFF&\b0}has been invested on this resort village{\r\fnSimHei\fs10\b0}
+
+13
+00:01:43,440 --> 00:01:46,880
+{\fnSimHei\fs10\b0}翁Sir，我入纸申请旅游发展牌 足足一年
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Officer Yung, I've applied for a resort licence for more than one year{\r\fnSimHei\fs10\b0}
+
+14
+00:01:46,880 --> 00:01:49,120
+{\fnSimHei\fs10\b0}消防条例，卫生条例， 游乐场安全条例
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Regulations of Fire Department, Sanitary, and a playground regulations{\r\fnSimHei\fs10\b0}
+
+15
+00:01:49,120 --> 00:01:53,600
+{\fnSimHei\fs10\b0}我依到十足十，当然会挂万漏一
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've complied with them all, maybe I miss something{\r\fnSimHei\fs10\b0}
+
+16
+00:01:53,600 --> 00:01:57,752
+{\fnSimHei\fs10\b0}可能有少少唔合政府规格， 但系我一定改番好的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Which is not up to standard, but I'll improve whatever it is{\r\fnSimHei\fs10\b0}
+
+17
+00:01:58,200 --> 00:02:03,840
+{\fnSimHei\fs10\b0}我实在冇办法再等落去啦， 一年啦，我仲未有牌咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can't wait on any longer, it's one year and I still have no licence{\r\fnSimHei\fs10\b0}
+
+18
+00:02:03,840 --> 00:02:09,200
+{\fnSimHei\fs10\b0}Go卡呀日晒雨淋，全部散硒， 水塘干硒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The racing cars rust and the reservoir is dried out{\r\fnSimHei\fs10\b0}
+
+19
+00:02:09,200 --> 00:02:11,160
+{\fnSimHei\fs10\b0}气垫艇呢就扔下生绣了？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All the boats are rusting still{\r\fnSimHei\fs10\b0}
+
+20
+00:02:11,160 --> 00:02:16,480
+{\fnSimHei\fs10\b0}酒楼呀，Disco呀，，呕，，到发硒臭
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The restaurants and discos are stink too{\r\fnSimHei\fs10\b0}
+
+21
+00:02:16,480 --> 00:02:19,680
+{\fnSimHei\fs10\b0}我本着为香港市民提供 廉价娱乐的目标
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I at offering cheap entertainment for people of{\r\fnSimHei\fs10\b0}
+
+22
+00:02:19,680 --> 00:02:23,840
+{\fnSimHei\fs10\b0}投下毕生的精力心血， 换回来的系一盘烂帐
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And I've invested all my money but what I get back rubble{\r\fnSimHei\fs10\b0}
+
+23
+00:02:23,840 --> 00:02:28,800
+{\fnSimHei\fs10\b0}搞到呢面临破产，我为了什么？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm nearly going bankruptcy! Why must I do this?{\r\fnSimHei\fs10\b0}
+
+24
+00:02:28,800 --> 00:02:33,396
+{\fnSimHei\fs10\b0}去炒楼咪算啰，我而家真系蠢啊
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I should have invested in estate, I'm such a fool{\r\fnSimHei\fs10\b0}
+
+25
+00:02:33,600 --> 00:02:36,640
+{\fnSimHei\fs10\b0}你点会蠢呀，据我所知
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, you're not! As far as I know{\r\fnSimHei\fs10\b0}
+
+26
+00:02:36,640 --> 00:02:38,995
+{\fnSimHei\fs10\b0}你已经斟掂一个大陆财团， 收购你的渡假村啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're dealing with a Chinese group to sell your rest{\r\fnSimHei\fs10\b0}
+
+27
+00:02:40,400 --> 00:02:43,440
+{\fnSimHei\fs10\b0}照你当年买入的价钱同埋 而家卖番出去的价钱
+{\fnSimHei\fs8\1c&H80FFFF&\b0}On the price you bought in and the price you're selling{\r\fnSimHei\fs10\b0}
+
+28
+00:02:43,440 --> 00:02:45,480
+{\fnSimHei\fs10\b0}你赚的系天文数字咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You'll surely make enormous profit!{\r\fnSimHei\fs10\b0}
+
+29
+00:02:45,480 --> 00:02:49,720
+{\fnSimHei\fs10\b0}翁Sir，你救救我，渡假村的 旅游牌照一日出唔到
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Officer Yung, you must help me, one day I don't get licence{\r\fnSimHei\fs10\b0}
+
+30
+00:02:49,720 --> 00:02:51,680
+{\fnSimHei\fs10\b0}大陆班财团一日都唔肯出钱收购
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The Chinese group won't buy the resort{\r\fnSimHei\fs10\b0}
+
+31
+00:02:51,680 --> 00:02:53,680
+{\fnSimHei\fs10\b0}俾息都俾到我摊摊腰呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll be ruined just by paying interest{\r\fnSimHei\fs10\b0}
+
+32
+00:02:53,680 --> 00:02:57,468
+{\fnSimHei\fs10\b0}刘生你有咁多地， 咁多生意都唔驶怕？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mr. Lau, you have much land and business, you needn't worry{\r\fnSimHei\fs10\b0}
+
+33
+00:02:57,600 --> 00:03:01,593
+{\fnSimHei\fs10\b0}我虽然系助理政务司， 都话得下事？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm Assistant Officer, I can still make decision{\r\fnSimHei\fs10\b0}
+
+34
+00:03:01,760 --> 00:03:04,080
+{\fnSimHei\fs10\b0}最可惜就系那些环保份子好麻烦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But those Conservationists are horrible{\r\fnSimHei\fs10\b0}
+
+35
+00:03:04,080 --> 00:03:09,840
+{\fnSimHei\fs10\b0}而且他们仲指明话你的 渡假村破坏环保添
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They point out your resort is ruining the environment{\r\fnSimHei\fs10\b0}
+
+36
+00:03:09,840 --> 00:03:11,840
+{\fnSimHei\fs10\b0}我最近捐了笔钱俾环保呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've just donated a large sum for Conservative group{\r\fnSimHei\fs10\b0}
+
+37
+00:03:11,840 --> 00:03:16,640
+{\fnSimHei\fs10\b0}呢方面冇问题，只要翁Sir 大笔一挥，绝对冇问题？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's no problem, as long as you sign it, it's surely{\r\fnSimHei\fs10\b0}
+
+38
+00:03:16,640 --> 00:03:19,680
+{\fnSimHei\fs10\b0}但系我支笔冇水咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But I have no ink{\r\fnSimHei\fs10\b0}
+
+39
+00:03:19,680 --> 00:03:22,840
+{\fnSimHei\fs10\b0}冇问题咼，只要你批个牌俾我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's no problem, if you will sign it{\r\fnSimHei\fs10\b0}
+
+40
+00:03:22,840 --> 00:03:26,196
+{\fnSimHei\fs10\b0}三十万呢，湿湿碎啦， 一定搞掂俾你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You'll get no less than $300,000{\r\fnSimHei\fs10\b0}
+
+41
+00:03:27,000 --> 00:03:31,835
+{\fnSimHei\fs10\b0}咁我下面支笔呢！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What about my pen under?{\r\fnSimHei\fs10\b0}
+
+42
+00:03:33,720 --> 00:03:38,555
+{\fnSimHei\fs10\b0}讲真啦，我好好奇呀， 都未试过明星
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Frankly saying, I'm curious as I've never tried movie stars{\r\fnSimHei\fs10\b0}
+
+43
+00:03:38,960 --> 00:03:43,280
+{\fnSimHei\fs10\b0}NoProBLem，俥系我一手捧出的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No problem, I've raised her to fame{\r\fnSimHei\fs10\b0}
+
+44
+00:03:43,280 --> 00:03:46,360
+{\fnSimHei\fs10\b0}我话Y es，俥唔敢话NO的，OK？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She will do whatever I ask her to?{\r\fnSimHei\fs10\b0}
+
+45
+00:03:46,360 --> 00:03:51,200
+{\fnSimHei\fs10\b0}好，既然你咁有诚意， 咁我即管试试帮帮你啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, since you're an honest man, I'll try to help you{\r\fnSimHei\fs10\b0}
+
+46
+00:03:51,200 --> 00:03:53,873
+{\fnSimHei\fs10\b0}咁就太好啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's great!{\r\fnSimHei\fs10\b0}
+
+47
+00:03:54,200 --> 00:03:56,400
+{\fnSimHei\fs10\b0}听日呢，我就去伦敦开会
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll be going for a meeting in London tomorrow{\r\fnSimHei\fs10\b0}
+
+48
+00:03:56,400 --> 00:03:57,560
+{\fnSimHei\fs10\b0}三日之后，我就去岛度见你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll be meeting you on the island in 3 days{\r\fnSimHei\fs10\b0}
+
+49
+00:03:57,560 --> 00:03:58,117
+{\fnSimHei\fs10\b0}好，一于包在我身上？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, you can count on me{\r\fnSimHei\fs10\b0}
+
+50
+00:03:58,320 --> 00:04:00,675
+{\fnSimHei\fs10\b0}多谢翁Sir！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks, Officer Yung{\r\fnSimHei\fs10\b0}
+
+51
+00:04:01,480 --> 00:04:06,880
+{\fnSimHei\fs10\b0}阿芝呀，喂，阿芝呀， 你唔好行咁快啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Chi, Chi... wait for me{\r\fnSimHei\fs10\b0}
+
+52
+00:04:06,880 --> 00:04:10,280
+{\fnSimHei\fs10\b0}你听我讲好唔好呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Will you listen to me?{\r\fnSimHei\fs10\b0}
+
+53
+00:04:10,280 --> 00:04:15,673
+{\fnSimHei\fs10\b0}我真系冇办法先至咁的， 咁你都唔帮我一次
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I just couldn't help! You must help me this time{\r\fnSimHei\fs10\b0}
+
+54
+00:04:19,440 --> 00:04:24,560
+{\fnSimHei\fs10\b0}翁Sir唔错的，人又高大威猛， 又系政府官员咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Officer Yung is good, he's strong and handsome, and officer too{\r\fnSimHei\fs10\b0}
+
+55
+00:04:24,800 --> 00:04:27,234
+{\fnSimHei\fs10\b0}既然你咁钟意俥，咪陪俥上床啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}As you like him, you might sleep with him{\r\fnSimHei\fs10\b0}
+
+56
+00:04:28,400 --> 00:04:33,474
+{\fnSimHei\fs10\b0}阿芝，我应承你，只此一次 下不为例，咁得了吧？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Chi, I promise, no more next time, OK?{\r\fnSimHei\fs10\b0}
+
+57
+00:04:49,440 --> 00:04:54,560
+{\fnSimHei\fs10\b0}喂，唔好嫐啦，你会嫐坏个样的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't be angry or you'll look ugly{\r\fnSimHei\fs10\b0}
+
+58
+00:04:54,560 --> 00:04:56,840
+{\fnSimHei\fs10\b0}你帮我呢一次， 渡假村顺利出了牌之后
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help me and if I get the licence for the resort{\r\fnSimHei\fs10\b0}
+
+59
+00:04:56,840 --> 00:04:58,193
+{\fnSimHei\fs10\b0}我买粒大钻石俾你？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll buy you a big diamond{\r\fnSimHei\fs10\b0}
+
+60
+00:05:00,880 --> 00:05:02,960
+{\fnSimHei\fs10\b0}你知唔知呀 我炒股呀蚀了几仟万
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You know I lost millions of dollars in stock mark{\r\fnSimHei\fs10\b0}
+
+61
+00:05:02,960 --> 00:05:06,669
+{\fnSimHei\fs10\b0}事情搞不定，我跳楼的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I must die if I don't get a licence{\r\fnSimHei\fs10\b0}
+
+62
+00:05:07,200 --> 00:05:10,800
+{\fnSimHei\fs10\b0}讲钱，我都帮你媪唔少生意啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You mention of money? I've helped you earn so much{\r\fnSimHei\fs10\b0}
+
+63
+00:05:10,800 --> 00:05:14,480
+{\fnSimHei\fs10\b0}你直情当我公厕咁， 边个急就媪边个
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You take me as a toilet! Let whoever needs uses me{\r\fnSimHei\fs10\b0}
+
+64
+00:05:14,480 --> 00:05:18,560
+{\fnSimHei\fs10\b0}喂，你咁的态度算什么呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, what manner is this?{\r\fnSimHei\fs10\b0}
+
+65
+00:05:18,560 --> 00:05:20,200
+{\fnSimHei\fs10\b0}接几部烂鬼戏，就当自己系大明星
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You think you're a superstar?{\r\fnSimHei\fs10\b0}
+
+66
+00:05:20,200 --> 00:05:23,440
+{\fnSimHei\fs10\b0}你记唔记得当年呀， 我在大陆点样对你屋企人呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you remember how I treated your family in China{\r\fnSimHei\fs10\b0}
+
+67
+00:05:23,440 --> 00:05:25,720
+{\fnSimHei\fs10\b0}我花几多钱同你包装整容
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And I've spend so much to dress you up?{\r\fnSimHei\fs10\b0}
+
+68
+00:05:25,720 --> 00:05:27,960
+{\fnSimHei\fs10\b0}我对你好你就唔记得， 净系记得我的衰？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You forget all my good deeds to you but remember that little request?{\r\fnSimHei\fs10\b0}
+
+69
+00:05:27,960 --> 00:05:29,996
+{\fnSimHei\fs10\b0}你而家好巴闭啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're very smart now!{\r\fnSimHei\fs10\b0}
+
+70
+00:05:31,280 --> 00:05:32,960
+{\fnSimHei\fs10\b0}我都跟了你咁耐啦， 什么都还番硒俾你啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've been with you so long, so I've paid back everything{\r\fnSimHei\fs10\b0}
+
+71
+00:05:32,960 --> 00:05:35,155
+{\fnSimHei\fs10\b0}你仲想点咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What do you still want?{\r\fnSimHei\fs10\b0}
+
+72
+00:05:36,640 --> 00:05:40,360
+{\fnSimHei\fs10\b0}你而家唔好同我讲咁多， 我唔理你制唔制都好
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't care so much, whether you will or not{\r\fnSimHei\fs10\b0}
+
+73
+00:05:40,360 --> 00:05:46,720
+{\fnSimHei\fs10\b0}你都要做的啦，好好的， 打理下个身体
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You must do it! Do care for your health{\r\fnSimHei\fs10\b0}
+
+74
+00:05:46,720 --> 00:05:51,236
+{\fnSimHei\fs10\b0}等翁Sir在英国回来的时候， 好好地服侍俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}That you can serve Officer Yung well when he comes back from UK{\r\fnSimHei\fs10\b0}
+
+75
+00:05:51,840 --> 00:05:55,549
+{\fnSimHei\fs10\b0}做乜呀，我同你讲话做乜 唔睬我呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why? Why don't you answer me when I talk to you?{\r\fnSimHei\fs10\b0}
+
+76
+00:06:52,600 --> 00:06:58,516
+{\fnSimHei\fs10\b0}话你两句就扮硒鱼虾蟹， 重俾雷劈添，天收你呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You behaved badly! That's why thunder struck you{\r\fnSimHei\fs10\b0}
+
+77
+00:07:03,360 --> 00:07:08,150
+{\fnSimHei\fs10\b0}大佬呀，唔关我事的，我系救俥的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, I'm only trying to rescue her{\r\fnSimHei\fs10\b0}
+
+78
+00:07:15,440 --> 00:07:16,111
+{\fnSimHei\fs10\b0}大镬
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit!{\r\fnSimHei\fs10\b0}
+
+79
+00:07:22,840 --> 00:07:25,880
+{\fnSimHei\fs10\b0}为了唔浪费刘先生的宝贵时间
+{\fnSimHei\fs8\1c&H80FFFF&\b0}In order not to waste your time, Mr. Lau{\r\fnSimHei\fs10\b0}
+
+80
+00:07:25,880 --> 00:07:28,314
+{\fnSimHei\fs10\b0}我会扼要介绍本医务所的优点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll briefly introduce advantages of our clinic{\r\fnSimHei\fs10\b0}
+
+81
+00:07:28,560 --> 00:07:31,560
+{\fnSimHei\fs10\b0}唔驶讲都知呀，刘先生咁精明
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You surely know, Mr. Lau{\r\fnSimHei\fs10\b0}
+
+82
+00:07:31,560 --> 00:07:34,160
+{\fnSimHei\fs10\b0}我们系消费者委员会推荐 的三大整容医务所
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We're one of the 3 clinics recommended by Consumer Council{\r\fnSimHei\fs10\b0}
+
+83
+00:07:34,160 --> 00:07:38,840
+{\fnSimHei\fs10\b0}不过唔讲你唔知咼， 内部评分我们系最ToP？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But you don't know, we're the top of the 3{\r\fnSimHei\fs10\b0}
+
+84
+00:07:38,840 --> 00:07:41,560
+{\fnSimHei\fs10\b0}同类型手术，好似整鼻隆胸呀咁
+{\fnSimHei\fs8\1c&H80FFFF&\b0}With plastic surgery, like breast enlargement{\r\fnSimHei\fs10\b0}
+
+85
+00:07:41,560 --> 00:07:45,840
+{\fnSimHei\fs10\b0}虽然同样收费呀， 但系我有保养维修服务
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tough we change the same, we have guarantee service{\r\fnSimHei\fs10\b0}
+
+86
+00:07:45,840 --> 00:07:48,040
+{\fnSimHei\fs10\b0}年费呢只系收全部费用的10%？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It service charge is only 10% of surgery fee annual{\r\fnSimHei\fs10\b0}
+
+87
+00:07:48,040 --> 00:07:53,720
+{\fnSimHei\fs10\b0}仲可以分期付款添， 不过以刘先生的身家地位
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So with installment system, but you don't need that{\r\fnSimHei\fs10\b0}
+
+88
+00:07:53,720 --> 00:07:56,960
+{\fnSimHei\fs10\b0}梗系唔需要啦，至于眼耳口鼻
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And about other parts, like eyes, ears, mouth, nose{\r\fnSimHei\fs10\b0}
+
+89
+00:07:56,960 --> 00:07:59,360
+{\fnSimHei\fs10\b0}胸，腿，手指，脚指都可以买保险
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Or breasts, legs, fingers, all can come with insure{\r\fnSimHei\fs10\b0}
+
+90
+00:07:59,360 --> 00:08:02,400
+{\fnSimHei\fs10\b0}燕梳方面呢，我们免费代顾客安排
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And we don't charge anything for that{\r\fnSimHei\fs10\b0}
+
+91
+00:08:02,400 --> 00:08:06,320
+{\fnSimHei\fs10\b0}而款式方面呢，全部都系欧洲， 瑞士同埋日本入口
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All parts are imported from Switzerland and Japan{\r\fnSimHei\fs10\b0}
+
+92
+00:08:06,320 --> 00:08:08,720
+{\fnSimHei\fs10\b0}时装最ToP就系法国意大利
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes, France and Italy is famous for fashion{\r\fnSimHei\fs10\b0}
+
+93
+00:08:08,720 --> 00:08:11,029
+{\fnSimHei\fs10\b0}整容呢当然就系瑞士同埋日本啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But for surgery part, Swiss and Japanese is the best{\r\fnSimHei\fs10\b0}
+
+94
+00:08:12,320 --> 00:08:15,000
+{\fnSimHei\fs10\b0}我最大的优点呢，就系追得上潮流
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm famous for following the trend{\r\fnSimHei\fs10\b0}
+
+95
+00:08:15,000 --> 00:08:19,800
+{\fnSimHei\fs10\b0}单方面为人客整鼻隆胸， 已经系落后的观念啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Only surgery for nose and breasts is out-dated{\r\fnSimHei\fs10\b0}
+
+96
+00:08:19,800 --> 00:08:23,840
+{\fnSimHei\fs10\b0}我会为人客由头整到落尾， 由前整到落后
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What I offer is of whole body{\r\fnSimHei\fs10\b0}
+
+97
+00:08:23,840 --> 00:08:27,640
+{\fnSimHei\fs10\b0}提供完整的Design，配合俥的性格
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I offer a design unique for individual client{\r\fnSimHei\fs10\b0}
+
+98
+00:08:27,640 --> 00:08:30,400
+{\fnSimHei\fs10\b0}仓刂造完美的面貌
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So as to create a perfect face for them{\r\fnSimHei\fs10\b0}
+
+99
+00:08:30,400 --> 00:08:32,755
+{\fnSimHei\fs10\b0}而且我系唔收Design费用添
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Well, I don't charge the fee for design{\r\fnSimHei\fs10\b0}
+
+100
+00:08:33,120 --> 00:08:35,190
+{\fnSimHei\fs10\b0}如果系咁样我靠硒你了
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I just totally rely on you No problem!{\r\fnSimHei\fs10\b0}
+
+101
+00:08:36,520 --> 00:08:40,035
+{\fnSimHei\fs10\b0}刘生，你睇版先啦， 之后我扼要解释俾你听
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mr. Lau, look at the samples and I'll explain{\r\fnSimHei\fs10\b0}
+
+102
+00:08:40,160 --> 00:08:43,720
+{\fnSimHei\fs10\b0}刘生，呢个日本最新的产品
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mr. Lau, this is latest products from Japan{\r\fnSimHei\fs10\b0}
+
+103
+00:08:43,720 --> 00:08:46,880
+{\fnSimHei\fs10\b0}系水剂，完全冇副作用的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's water base, absolute without side effects{\r\fnSimHei\fs10\b0}
+
+104
+00:08:46,880 --> 00:08:51,080
+{\fnSimHei\fs10\b0}怀孕生仔，哺乳 能力一切正常， 软淋淋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}One can even breed and feed babies, very soft{\r\fnSimHei\fs10\b0}
+
+105
+00:08:51,080 --> 00:08:54,760
+{\fnSimHei\fs10\b0}至于整鼻哥下巴最新的手术呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And for nose and chin surgery{\r\fnSimHei\fs10\b0}
+
+106
+00:08:54,760 --> 00:08:58,560
+{\fnSimHei\fs10\b0}系由口内牙肉开刀出去， 完全不留痕迹
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We start from inner jaw, so no scar is left{\r\fnSimHei\fs10\b0}
+
+107
+00:08:58,560 --> 00:09:03,560
+{\fnSimHei\fs10\b0}整鼻哥系由上牙肉开刀， 整下巴系由下牙肉开刀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Start from upper jaw for\and lower one for one{\r\fnSimHei\fs10\b0}
+
+108
+00:09:03,560 --> 00:09:07,678
+{\fnSimHei\fs10\b0}即日出院，双眼皮，割眼袋， 容易到极啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can leave the clinic the same day! For eye surge it's even simpler{\r\fnSimHei\fs10\b0}
+
+109
+00:09:08,480 --> 00:09:09,880
+{\fnSimHei\fs10\b0}几个字就搞掂硒！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Just a couple of minutes and it's done{\r\fnSimHei\fs10\b0}
+
+110
+00:09:09,880 --> 00:09:12,269
+{\fnSimHei\fs10\b0}整容我都好熟行， 我女朋友整过好多次啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Familiar with plastic surgery as my girlfriend had it lots of time{\r\fnSimHei\fs10\b0}
+
+111
+00:09:12,320 --> 00:09:13,840
+{\fnSimHei\fs10\b0}你睇睇俥先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take a look of her first{\r\fnSimHei\fs10\b0}
+
+112
+00:09:13,840 --> 00:09:14,238
+{\fnSimHei\fs10\b0}好.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure...{\r\fnSimHei\fs10\b0}
+
+113
+00:09:16,240 --> 00:09:17,560
+{\fnSimHei\fs10\b0}除低面纱俾我睇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take the veil away{\r\fnSimHei\fs10\b0}
+
+114
+00:09:17,560 --> 00:09:20,000
+{\fnSimHei\fs10\b0}老老实实啦，俥真系好肉酸咼
+I must warn you： she's really horrible
+
+115
+00:09:20,000 --> 00:09:23,390
+{\fnSimHei\fs10\b0}几肉酸我都见过啦， 我唔惊的，你放心啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've seen all faces, I won't fear, don't worry{\r\fnSimHei\fs10\b0}
+
+116
+00:09:23,640 --> 00:09:25,756
+{\fnSimHei\fs10\b0}唔驶怕丑，我帮你手
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't be shy, I'll help you{\r\fnSimHei\fs10\b0}
+
+117
+00:09:28,360 --> 00:09:32,520
+{\fnSimHei\fs10\b0}都仲系好靓，以张小姐？ 面貌呢，烂船都有三斤钉
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Not bad, with Miss Cheung's beauty, she'll still lot pretty{\r\fnSimHei\fs10\b0}
+
+118
+00:09:32,520 --> 00:09:34,272
+{\fnSimHei\fs10\b0}不过唔需要三斤啦，两斤半就够硒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She'll absolutely look good at the worst{\r\fnSimHei\fs10\b0}
+
+119
+00:09:34,680 --> 00:09:35,795
+{\fnSimHei\fs10\b0}我可以帮俥整到十全十美
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can help her look perfect{\r\fnSimHei\fs10\b0}
+
+120
+00:09:42,560 --> 00:09:44,080
+{\fnSimHei\fs10\b0}刘生，你唔系同我开玩笑嘛？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mr. Lau, are you kidding?{\r\fnSimHei\fs10\b0}
+
+121
+00:09:44,080 --> 00:09:45,880
+{\fnSimHei\fs10\b0}呢个真系张小姐吗？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She's really Miss Cheung?{\r\fnSimHei\fs10\b0}
+
+122
+00:09:45,880 --> 00:09:46,360
+{\fnSimHei\fs10\b0}你唔认得俥咩？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't you recognize her?{\r\fnSimHei\fs10\b0}
+
+123
+00:09:46,360 --> 00:09:51,360
+{\fnSimHei\fs10\b0}认得下啦，不过搅成咁， 算小弟无能为力
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes, but I can't help in this situation{\r\fnSimHei\fs10\b0}
+
+124
+00:09:51,360 --> 00:09:54,320
+{\fnSimHei\fs10\b0}咁你又话两斤半钉都得？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But you said she'll look good at the worst?{\r\fnSimHei\fs10\b0}
+
+125
+00:09:54,320 --> 00:09:58,108
+{\fnSimHei\fs10\b0}本来就系的， 唔该你关番面纱先，唔该你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Put on the veil first{\r\fnSimHei\fs10\b0}
+
+126
+00:09:59,120 --> 00:10:03,398
+{\fnSimHei\fs10\b0}关番面纱先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Put on the veil{\r\fnSimHei\fs10\b0}
+
+127
+00:10:08,320 --> 00:10:11,400
+{\fnSimHei\fs10\b0}医生点呀，有冇得医呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Doctor, can you perform operation?{\r\fnSimHei\fs10\b0}
+
+128
+00:10:11,400 --> 00:10:15,760
+{\fnSimHei\fs10\b0}你都唔系叫我整容， 叫我易容咼，唔得？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is not plastic surgery, this is disguise, no way{\r\fnSimHei\fs10\b0}
+
+129
+00:10:15,760 --> 00:10:16,988
+{\fnSimHei\fs10\b0}我多多钱都俾得的，你惗惗俥？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can pay whatever price you charge, think it over{\r\fnSimHei\fs10\b0}
+
+130
+00:10:18,040 --> 00:10:21,669
+{\fnSimHei\fs10\b0}得，你去媪司空摘星啦， 俥的易容术出神入化的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes, go find See Hung Chak Sing, he's famous for that{\r\fnSimHei\fs10\b0}
+
+131
+00:10:22,000 --> 00:10:23,800
+{\fnSimHei\fs10\b0}去边度媪呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where can I find him?{\r\fnSimHei\fs10\b0}
+
+132
+00:10:23,800 --> 00:10:28,635
+{\fnSimHei\fs10\b0}古龙的小说嘛， 陆小凤的好朋友，千面神偷呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}In fiction, he's famous for disguising{\r\fnSimHei\fs10\b0}
+
+133
+00:10:35,440 --> 00:10:40,753
+{\fnSimHei\fs10\b0}陈果大师呀 饮番杯陈年拔兰地酒先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master Chan, taste this age-inconnu cognac{\r\fnSimHei\fs10\b0}
+
+134
+00:10:43,240 --> 00:10:46,760
+{\fnSimHei\fs10\b0}唔该你帮帮忙，医我女朋友啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Please help and cure of my girlfriend{\r\fnSimHei\fs10\b0}
+
+135
+00:10:46,760 --> 00:10:52,471
+{\fnSimHei\fs10\b0}呢只不适合我饮的， 试试我呢只陈年秘方大补酒吧
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's not my cup of tea, try the wine I prepare{\r\fnSimHei\fs10\b0}
+
+136
+00:10:56,280 --> 00:11:00,876
+{\fnSimHei\fs10\b0}试试啦，呢只酒呀， 浸了百几年啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Try it, it's been kept for more than a century{\r\fnSimHei\fs10\b0}
+
+137
+00:11:01,280 --> 00:11:03,191
+{\fnSimHei\fs10\b0}试了一定会喜欢
+
+138
+00:11:08,200 --> 00:11:10,714
+{\fnSimHei\fs10\b0}饮啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Cheers!{\r\fnSimHei\fs10\b0}
+
+139
+00:11:15,360 --> 00:11:17,555
+{\fnSimHei\fs10\b0}正呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Excellent!{\r\fnSimHei\fs10\b0}
+
+140
+00:11:18,120 --> 00:11:23,114
+{\fnSimHei\fs10\b0}饮啦，饮完之后呀，包你，，发发，，声
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You'll feel wonderful after drinking it{\r\fnSimHei\fs10\b0}
+
+141
+00:11:29,720 --> 00:11:31,480
+{\fnSimHei\fs10\b0}我呢个锦衣授魂术呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}About my skill of 'Changing Face'{\r\fnSimHei\fs10\b0}
+
+142
+00:11:31,480 --> 00:11:34,040
+{\fnSimHei\fs10\b0}系我祖宗一二三四五六七八九十 年代传俾我？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Was handed down from my remote ancestors{\r\fnSimHei\fs10\b0}
+
+143
+00:11:34,040 --> 00:11:36,720
+{\fnSimHei\fs10\b0}系我一个人先至识的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm the only person in this world who knows it{\r\fnSimHei\fs10\b0}
+
+144
+00:11:36,720 --> 00:11:40,480
+{\fnSimHei\fs10\b0}但系呢个秘方呢，系需要大量.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But this secret skill requires much...{\r\fnSimHei\fs10\b0}
+
+145
+00:11:40,480 --> 00:11:41,360
+{\fnSimHei\fs10\b0}钱唔系问题
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Money is no problem{\r\fnSimHei\fs10\b0}
+
+146
+00:11:41,360 --> 00:11:45,600
+{\fnSimHei\fs10\b0}钱系第二个问题， 最紧要系媪个皮肤幼滑
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They is only second problem, but I need a girl with delicate skin{\r\fnSimHei\fs10\b0}
+
+147
+00:11:45,600 --> 00:11:48,200
+{\fnSimHei\fs10\b0}年青貌美的少女， 将俥的青春转嫁俾俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Pretty face so as to transfer her beauty to her{\r\fnSimHei\fs10\b0}
+
+148
+00:11:48,200 --> 00:11:51,520
+{\fnSimHei\fs10\b0}讲就容易咋咼，但边度媪呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's easy to say, but where to find such one?{\r\fnSimHei\fs10\b0}
+
+149
+00:11:51,520 --> 00:11:55,560
+{\fnSimHei\fs10\b0}重有呀，呢对波呢， 大又唔可以太大
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And her breasts mustn't be too big{\r\fnSimHei\fs10\b0}
+
+150
+00:11:55,560 --> 00:11:58,028
+{\fnSimHei\fs10\b0}腿呢，幼又唔可以咁幼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Her legs mustn't be too narrow either{\r\fnSimHei\fs10\b0}
+
+151
+00:11:58,880 --> 00:12:01,320
+{\fnSimHei\fs10\b0}呢个就系问题啦， 不过唔系我问题咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is the problem, of course not mine{\r\fnSimHei\fs10\b0}
+
+152
+00:12:01,320 --> 00:12:04,800
+{\fnSimHei\fs10\b0}系你的问题， 你呢就要抽点时间帮我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's your problem, you must find time to help me{\r\fnSimHei\fs10\b0}
+
+153
+00:12:04,800 --> 00:12:07,320
+{\fnSimHei\fs10\b0}媪一个我需要的人，带俥来呢度
+
+154
+00:12:07,320 --> 00:12:11,757
+{\fnSimHei\fs10\b0}咁呢，我就可以保证恢复 番你女朋友原来的面貌啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Then I can guarantee you of resuming her beauty again{\r\fnSimHei\fs10\b0}
+
+155
+00:12:49,440 --> 00:12:51,317
+{\fnSimHei\fs10\b0}小姐呀，你留低个电话呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Miss, you've left your phone{\r\fnSimHei\fs10\b0}
+
+156
+00:12:51,520 --> 00:12:51,997
+{\fnSimHei\fs10\b0}唔该！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks{\r\fnSimHei\fs10\b0}
+
+157
+00:13:05,120 --> 00:13:07,560
+{\fnSimHei\fs10\b0}阿嫂，番去先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Please go home first{\r\fnSimHei\fs10\b0}
+
+158
+00:13:07,560 --> 00:13:08,520
+{\fnSimHei\fs10\b0}唔返呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I won't{\r\fnSimHei\fs10\b0}
+
+159
+00:13:08,520 --> 00:13:09,560
+{\fnSimHei\fs10\b0}阿嫂呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sister-in-law!{\r\fnSimHei\fs10\b0}
+
+160
+00:13:09,560 --> 00:13:10,840
+{\fnSimHei\fs10\b0}行开
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get lost{\r\fnSimHei\fs10\b0}
+
+161
+00:13:10,840 --> 00:13:11,680
+{\fnSimHei\fs10\b0}番去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go home first{\r\fnSimHei\fs10\b0}
+
+162
+00:13:11,680 --> 00:13:12,032
+{\fnSimHei\fs10\b0}要番你咪自己番啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You might go home!{\r\fnSimHei\fs10\b0}
+
+163
+00:13:13,120 --> 00:13:15,360
+{\fnSimHei\fs10\b0}走开呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Beat it!{\r\fnSimHei\fs10\b0}
+
+164
+00:13:15,360 --> 00:13:17,680
+{\fnSimHei\fs10\b0}阿嫂你去边度呀，阿嫂？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where are you going?{\r\fnSimHei\fs10\b0}
+
+165
+00:13:17,680 --> 00:13:21,150
+{\fnSimHei\fs10\b0}唔关你的事呀，唔驶你理
+{\fnSimHei\fs8\1c&H80FFFF&\b0}None of your business{\r\fnSimHei\fs10\b0}
+
+166
+00:13:21,560 --> 00:13:22,560
+{\fnSimHei\fs10\b0}咁点同大佬讲
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we say to the boss?{\r\fnSimHei\fs10\b0}
+
+167
+00:13:22,560 --> 00:13:23,117
+{\fnSimHei\fs10\b0}行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Move now{\r\fnSimHei\fs10\b0}
+
+168
+00:13:27,520 --> 00:13:34,640
+{\fnSimHei\fs10\b0}衰男人，贱男人， 臭男人冇个有良心
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Lousy guy, you damned guy are disloyal{\r\fnSimHei\fs10\b0}
+
+169
+00:13:34,640 --> 00:13:37,757
+{\fnSimHei\fs10\b0}全部都系死铲
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All men are damned fools{\r\fnSimHei\fs10\b0}
+
+170
+00:13:48,720 --> 00:13:52,880
+{\fnSimHei\fs10\b0}做什么呀，你个四眼佬， 你敢有尔我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What? Dare you touch me?{\r\fnSimHei\fs10\b0}
+
+171
+00:13:52,880 --> 00:13:57,840
+{\fnSimHei\fs10\b0}你知唔知我系边个， 我尖沙嘴霞姐你都敢有尔
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know who I am? I am Sister Ha of TST{\r\fnSimHei\fs10\b0}
+
+172
+00:13:57,840 --> 00:14:00,991
+{\fnSimHei\fs10\b0}你信唔信我一分钟之内 媪二百几人来劈死你个死铲
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can call 200 men here in 1 minute and kill you{\r\fnSimHei\fs10\b0}
+
+173
+00:14:01,280 --> 00:14:04,238
+{\fnSimHei\fs10\b0}王八蛋有尔手有尔脚
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Dare you molest?{\r\fnSimHei\fs10\b0}
+
+174
+00:14:04,480 --> 00:14:06,471
+{\fnSimHei\fs10\b0}放开我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me go{\r\fnSimHei\fs10\b0}
+
+175
+00:14:07,680 --> 00:14:12,037
+{\fnSimHei\fs10\b0}你摸我个波，唔俾钱想搏懵， 你个衰佬放开我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You grasp my breasts? Leave me alone, bastard{\r\fnSimHei\fs10\b0}
+
+176
+00:14:14,720 --> 00:14:17,109
+{\fnSimHei\fs10\b0}做什么呀，放手呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing? Let me go{\r\fnSimHei\fs10\b0}
+
+177
+00:14:18,440 --> 00:14:22,513
+{\fnSimHei\fs10\b0}你信唔信我媪人来阉了你，放开我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Must I have you castrate? Let me go{\r\fnSimHei\fs10\b0}
+
+178
+00:14:29,720 --> 00:14:32,473
+{\fnSimHei\fs10\b0}仆卜你个街
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go to hell!{\r\fnSimHei\fs10\b0}
+
+179
+00:14:50,840 --> 00:14:54,150
+{\fnSimHei\fs10\b0}望咩呀，未见过麻甩佬小便呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why? Haven't you seen a man piss before?{\r\fnSimHei\fs10\b0}
+
+180
+00:15:14,120 --> 00:15:19,558
+{\fnSimHei\fs10\b0}就算我唔杀俥呀， 俥迟早都横尸街头
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She'll die one day if I didn't kill her{\r\fnSimHei\fs10\b0}
+
+181
+00:15:24,360 --> 00:15:26,476
+{\fnSimHei\fs10\b0}真系冇眼睇呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's too bad{\r\fnSimHei\fs10\b0}
+
+182
+00:16:54,440 --> 00:16:56,749
+{\fnSimHei\fs10\b0}阴气逼人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Full of spirit atmosphere{\r\fnSimHei\fs10\b0}
+
+183
+00:17:10,560 --> 00:17:14,269
+{\fnSimHei\fs10\b0}等我来个壮阳抗阴先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I must resist with human atmosphere{\r\fnSimHei\fs10\b0}
+
+184
+00:19:20,160 --> 00:19:22,549
+{\fnSimHei\fs10\b0}拿神盐俾我！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get me the Sacred Salt{\r\fnSimHei\fs10\b0}
+
+185
+00:19:22,800 --> 00:19:25,109
+{\fnSimHei\fs10\b0}神盐呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sacred Salt{\r\fnSimHei\fs10\b0}
+
+186
+00:20:02,240 --> 00:20:06,400
+{\fnSimHei\fs10\b0}呢个岛风水好差， 所以搞到你几乎破产
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This island is bad at Feng Shui, so you nearly go bankruptcy{\r\fnSimHei\fs10\b0}
+
+187
+00:20:06,400 --> 00:20:10,109
+{\fnSimHei\fs10\b0}呢个接近港岛的龙气， 可以镇住冤魂
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is good for your luck, as it damps furious ghosts{\r\fnSimHei\fs10\b0}
+
+188
+00:20:10,840 --> 00:20:12,800
+{\fnSimHei\fs10\b0}大师呀，俥会唔会变僵尸的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, will it become vampire?{\r\fnSimHei\fs10\b0}
+
+189
+00:20:12,800 --> 00:20:17,120
+{\fnSimHei\fs10\b0}唔会，系惊俥会尸变， 所以用倒转乾坤葬尸法
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, but I fear it'll become angry ghost, so I bury upside down{\r\fnSimHei\fs10\b0}
+
+190
+00:20:17,120 --> 00:20:20,157
+{\fnSimHei\fs10\b0}不过三日之内随时会变厉鬼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But it might become angry ghost within 3 days{\r\fnSimHei\fs10\b0}
+
+191
+00:20:20,400 --> 00:20:22,080
+{\fnSimHei\fs10\b0}咁大师呀，咁点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we do, master?{\r\fnSimHei\fs10\b0}
+
+192
+00:20:22,080 --> 00:20:23,195
+{\fnSimHei\fs10\b0}脚底块宝镜会反射月光的阴气
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The Sacred Mirror on the feet reflects moonlight{\r\fnSimHei\fs10\b0}
+
+193
+00:20:24,480 --> 00:20:25,276
+{\fnSimHei\fs10\b0}俥而家做鬼都唔灵呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It can never become a mighty ghost{\r\fnSimHei\fs10\b0}
+
+194
+00:20:36,520 --> 00:20:40,400
+{\fnSimHei\fs10\b0}将沙盖住盐，呢条尸剥硒皮
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's cover the salt with sand, as it's skinned off{\r\fnSimHei\fs10\b0}
+
+195
+00:20:40,400 --> 00:20:43,800
+{\fnSimHei\fs10\b0}最怕就系盐的啦，我已经洒了神盐
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It fears salt most, I've sprinkled Sacred Salt over{\r\fnSimHei\fs10\b0}
+
+196
+00:20:43,800 --> 00:20:49,200
+{\fnSimHei\fs10\b0}而家有事的啦，呢三日 我会做法事超渡冤魂
+{\fnSimHei\fs8\1c&H80FFFF&\b0}lt'll be OK, and I'll perform ceremony for it for 3 days{\r\fnSimHei\fs10\b0}
+
+197
+00:20:49,200 --> 00:20:52,590
+{\fnSimHei\fs10\b0}三日之后毁尸灭迹
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And we'll destroy the body in 3 days{\r\fnSimHei\fs10\b0}
+
+198
+00:20:53,520 --> 00:20:56,557
+{\fnSimHei\fs10\b0}那时候，你就可以高枕无忧啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Then you can be ease off forever{\r\fnSimHei\fs10\b0}
+
+199
+00:20:57,200 --> 00:20:58,997
+{\fnSimHei\fs10\b0}大师，咁我信硒你了
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, I depend on you{\r\fnSimHei\fs10\b0}
+
+200
+00:21:00,160 --> 00:21:06,315
+{\fnSimHei\fs10\b0}希望搞掂啦，如果唔系呀， 我跳楼都唔掂的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I hope so, or I must die{\r\fnSimHei\fs10\b0}
+
+201
+00:21:06,840 --> 00:21:11,720
+{\fnSimHei\fs10\b0}洗钱就事小呀， 最紧要呢就系搞得妥妥当当
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Money is nothing, I just want it done perfectly{\r\fnSimHei\fs10\b0}
+
+202
+00:21:11,720 --> 00:21:16,032
+{\fnSimHei\fs10\b0}你放心啦，包保你冇事的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't worry, it'll be alright{\r\fnSimHei\fs10\b0}
+
+203
+00:21:32,440 --> 00:21:33,840
+{\fnSimHei\fs10\b0}你做咩呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing?{\r\fnSimHei\fs10\b0}
+
+204
+00:21:33,840 --> 00:21:35,880
+{\fnSimHei\fs10\b0}大师，咁大整蛊呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, what ajoke!{\r\fnSimHei\fs10\b0}
+
+205
+00:21:35,880 --> 00:21:37,960
+{\fnSimHei\fs10\b0}咩整蛊呀，俥刚刚做完法事
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm not joking, it's just received my ceremony{\r\fnSimHei\fs10\b0}
+
+206
+00:21:37,960 --> 00:21:43,600
+{\fnSimHei\fs10\b0}吸收紧人皮锦衣的精华， 需要一段时间慢慢吸收
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And it's now absorbing the skin, it takes time{\r\fnSimHei\fs10\b0}
+
+207
+00:21:43,600 --> 00:21:47,600
+{\fnSimHei\fs10\b0}人皮锦衣系至阴之物， 我话过要做三日法事
+{\fnSimHei\fs8\1c&H80FFFF&\b0}As the skin is from dead body, I must perform ceremony{\r\fnSimHei\fs10\b0}
+
+208
+00:21:47,600 --> 00:21:51,600
+{\fnSimHei\fs10\b0}一则超渡个冤魂， 二则消除俥身上的冤气
+{\fnSimHei\fs8\1c&H80FFFF&\b0}First to help the ghost and to rid spirit atmosphere attached on her{\r\fnSimHei\fs10\b0}
+
+209
+00:21:51,600 --> 00:21:54,400
+{\fnSimHei\fs10\b0}而家掂俥，或者口气喷亲俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}If you touch her or blow on her{\r\fnSimHei\fs10\b0}
+
+210
+00:21:54,400 --> 00:21:56,160
+{\fnSimHei\fs10\b0}俥身上的阴气被阳气一冲
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All the spirit atmosphere will be blown off{\r\fnSimHei\fs10\b0}
+
+211
+00:21:56,160 --> 00:21:57,240
+{\fnSimHei\fs10\b0}咁会点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What will happen?{\r\fnSimHei\fs10\b0}
+
+212
+00:21:57,240 --> 00:21:58,080
+{\fnSimHei\fs10\b0}玩完咯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ruined!{\r\fnSimHei\fs10\b0}
+
+213
+00:21:58,080 --> 00:21:59,560
+{\fnSimHei\fs10\b0}两日唔上呢我就跳楼啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I must die if it isn't done in 2days{\r\fnSimHei\fs10\b0}
+
+214
+00:21:59,560 --> 00:22:02,240
+{\fnSimHei\fs10\b0}咁你放心，两日之后俥自然会醒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't worry, she'll wake up in 2 days{\r\fnSimHei\fs10\b0}
+
+215
+00:22:02,240 --> 00:22:05,471
+{\fnSimHei\fs10\b0}疤痕自然会消失？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And all scars will vanish too{\r\fnSimHei\fs10\b0}
+
+216
+00:23:03,160 --> 00:23:06,516
+{\fnSimHei\fs10\b0}过瘾呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Interesting!{\r\fnSimHei\fs10\b0}
+
+217
+00:23:11,480 --> 00:23:17,396
+{\fnSimHei\fs10\b0}请师祖回宫
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, please go back{\r\fnSimHei\fs10\b0}
+
+218
+00:23:29,200 --> 00:23:31,316
+{\fnSimHei\fs10\b0}多谢师祖
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks, ancestors{\r\fnSimHei\fs10\b0}
+
+219
+00:23:34,760 --> 00:23:36,320
+{\fnSimHei\fs10\b0}好劲呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Terrific!{\r\fnSimHei\fs10\b0}
+
+220
+00:23:36,320 --> 00:23:39,640
+{\fnSimHei\fs10\b0}系咪想学呀，想学就拜师啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Want to learn? Ask Master if you want{\r\fnSimHei\fs10\b0}
+
+221
+00:23:39,640 --> 00:23:40,360
+{\fnSimHei\fs10\b0}系呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah{\r\fnSimHei\fs10\b0}
+
+222
+00:23:40,360 --> 00:23:43,200
+{\fnSimHei\fs10\b0}十二，他们来做乜的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, why are they here?{\r\fnSimHei\fs10\b0}
+
+223
+00:23:43,200 --> 00:23:45,760
+{\fnSimHei\fs10\b0}师父呀，我上次都讲过的啦， 系我的Friend来的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mentor, I've told you, they're my friends{\r\fnSimHei\fs10\b0}
+
+224
+00:23:45,760 --> 00:23:48,200
+{\fnSimHei\fs10\b0}小妖同埋阿东，他们想拜 你为师呀，喂叫师父啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Su Yi and Tung, they want you to take them as students greet the mentor now{\r\fnSimHei\fs10\b0}
+
+225
+00:23:48,200 --> 00:23:49,840
+{\fnSimHei\fs10\b0}师父！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mentor!{\r\fnSimHei\fs10\b0}
+
+226
+00:23:49,840 --> 00:23:53,320
+{\fnSimHei\fs10\b0}咪住，你两个话俾我听
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hold it, you must tell me{\r\fnSimHei\fs10\b0}
+
+227
+00:23:53,320 --> 00:23:55,400
+{\fnSimHei\fs10\b0}你们学神功系为了什么？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why do you want to learn Sacred Skills?{\r\fnSimHei\fs10\b0}
+
+228
+00:23:55,400 --> 00:23:55,960
+{\fnSimHei\fs10\b0}锄强扶弱！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}To help the weak{\r\fnSimHei\fs10\b0}
+
+229
+00:23:55,960 --> 00:23:58,235
+{\fnSimHei\fs10\b0}除暴安良！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}To rid the gangs{\r\fnSimHei\fs10\b0}
+
+230
+00:24:02,720 --> 00:24:03,160
+{\fnSimHei\fs10\b0}讲真话！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tell me the truth{\r\fnSimHei\fs10\b0}
+
+231
+00:24:03,160 --> 00:24:04,000
+{\fnSimHei\fs10\b0}方便劈友
+{\fnSimHei\fs8\1c&H80FFFF&\b0}To have power{\r\fnSimHei\fs10\b0}
+
+232
+00:24:04,000 --> 00:24:06,760
+{\fnSimHei\fs10\b0}劈人唔怕俾人劈啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can chop others without being chopped{\r\fnSimHei\fs10\b0}
+
+233
+00:24:06,760 --> 00:24:09,672
+{\fnSimHei\fs10\b0}唔系劈人， 就算你俾人劈都唔怕的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Not chopping, you needn't fear to be chopped{\r\fnSimHei\fs10\b0}
+
+234
+00:24:10,440 --> 00:24:12,795
+{\fnSimHei\fs10\b0}请神呀，就等于练了金钟罩的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Inviting Gods mean having protecting all over{\r\fnSimHei\fs10\b0}
+
+235
+00:24:13,120 --> 00:24:18,480
+{\fnSimHei\fs10\b0}系好过金钟罩呀， 练金钟罩要童子身的嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's even better than practicing, as one must be virgin to practise{\r\fnSimHei\fs10\b0}
+
+236
+00:24:18,480 --> 00:24:21,000
+{\fnSimHei\fs10\b0}你们可以唔沟女咩，重有呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So you mustn't court girls{\r\fnSimHei\fs10\b0}
+
+237
+00:24:21,000 --> 00:24:23,960
+{\fnSimHei\fs10\b0}十二，话俾他们听， 学神功最紧要系乜？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, tell them what's most important when learn Sacred Skills{\r\fnSimHei\fs10\b0}
+
+238
+00:24:23,960 --> 00:24:26,560
+{\fnSimHei\fs10\b0}最紧要准时交学费嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Most important is to pay school fee punctually{\r\fnSimHei\fs10\b0}
+
+239
+00:24:26,560 --> 00:24:26,958
+{\fnSimHei\fs10\b0}死的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit!{\r\fnSimHei\fs10\b0}
+
+240
+00:24:28,200 --> 00:24:32,480
+{\fnSimHei\fs10\b0}驶乜你讲咼， 学神功呢最紧要系诚心诚意
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You needn't say that, one must be honest when learn Sacred Skills{\r\fnSimHei\fs10\b0}
+
+241
+00:24:32,480 --> 00:24:34,720
+{\fnSimHei\fs10\b0}千万唔好半途而废呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And never drop out{\r\fnSimHei\fs10\b0}
+
+242
+00:24:34,720 --> 00:24:36,631
+{\fnSimHei\fs10\b0}约了班女呀，第日先拜师啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I have appointment with girls, we'll come other time{\r\fnSimHei\fs10\b0}
+
+243
+00:24:37,440 --> 00:24:39,560
+{\fnSimHei\fs10\b0}师父呀，第日择好日子， 再来拜师呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Mentor, we'll come when we've found a good day{\r\fnSimHei\fs10\b0}
+
+244
+00:24:39,560 --> 00:24:39,958
+{\fnSimHei\fs10\b0}我们走先啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We're leaving now{\r\fnSimHei\fs10\b0}
+
+245
+00:24:41,240 --> 00:24:42,560
+{\fnSimHei\fs10\b0}你唔记得我讲过乜？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you remember what I've said?{\r\fnSimHei\fs10\b0}
+
+246
+00:24:42,560 --> 00:24:43,600
+{\fnSimHei\fs10\b0}诚心诚意嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}One must be honest!{\r\fnSimHei\fs10\b0}
+
+247
+00:24:43,600 --> 00:24:44,999
+{\fnSimHei\fs10\b0}记得交学费呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You must pay fee punctually{\r\fnSimHei\fs10\b0}
+
+248
+00:24:50,720 --> 00:24:55,714
+{\fnSimHei\fs10\b0}我条女呀话媪了两个 姐妹出来咼，够Friend呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}My girl said she'd ask two other girls out{\r\fnSimHei\fs10\b0}
+
+249
+00:24:56,520 --> 00:24:58,238
+{\fnSimHei\fs10\b0}小妖那件呢就细细粒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf will get a short one{\r\fnSimHei\fs10\b0}
+
+250
+00:24:58,520 --> 00:25:01,751
+{\fnSimHei\fs10\b0}十二那件就老处， 高头大马，波大大？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And Sup Yi will get a tall one, with big breasts{\r\fnSimHei\fs10\b0}
+
+251
+00:25:03,200 --> 00:25:05,480
+{\fnSimHei\fs10\b0}你知唔知呀，我绰号叫乜？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know what my nick name is?{\r\fnSimHei\fs10\b0}
+
+252
+00:25:05,480 --> 00:25:06,000
+{\fnSimHei\fs10\b0}我绰号叫，，情场罐头刀，，
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's 'Girl Opener'{\r\fnSimHei\fs10\b0}
+
+253
+00:25:06,000 --> 00:25:11,028
+{\fnSimHei\fs10\b0}死啦你，而家兴易拉罐的， 开罐头驶乜罐头刀咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit, girls are open now, they don't need you{\r\fnSimHei\fs10\b0}
+
+254
+00:25:12,720 --> 00:25:16,872
+{\fnSimHei\fs10\b0}老死先话俾你听， 你把刀，听生绣都得啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll tell you, your weapon is rusting{\r\fnSimHei\fs10\b0}
+
+255
+00:25:17,440 --> 00:25:18,839
+{\fnSimHei\fs10\b0}玩我系嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Dare you fool me?{\r\fnSimHei\fs10\b0}
+
+256
+00:25:19,280 --> 00:25:20,880
+{\fnSimHei\fs10\b0}系咪约了十二同小妖呢！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You have an appointment with Elf?{\r\fnSimHei\fs10\b0}
+
+257
+00:25:20,880 --> 00:25:23,360
+{\fnSimHei\fs10\b0}系呀，那晚落完D之后成日问长问短
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah, you keeping asking about him after that night{\r\fnSimHei\fs10\b0}
+
+258
+00:25:23,360 --> 00:25:27,320
+{\fnSimHei\fs10\b0}早知你吃硬俥啦， 你钟意十二嘛，系咪？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So you like Sup Yi, right?{\r\fnSimHei\fs10\b0}
+
+259
+00:25:27,320 --> 00:25:29,840
+{\fnSimHei\fs10\b0}一场姐妹，费事同你争啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I won't seize him from you{\r\fnSimHei\fs10\b0}
+
+260
+00:25:29,840 --> 00:25:31,751
+{\fnSimHei\fs10\b0}我蚀底点，就拣小妖啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I'll take Elf{\r\fnSimHei\fs10\b0}
+
+261
+00:25:32,160 --> 00:25:34,000
+{\fnSimHei\fs10\b0}呢次就系你抅失身的好机会啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's your good chance to lose your chastity{\r\fnSimHei\fs10\b0}
+
+262
+00:25:34,000 --> 00:25:37,760
+{\fnSimHei\fs10\b0}失身！你讲呀，我都唔记得几时啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Chastity? I lost it long ago{\r\fnSimHei\fs10\b0}
+
+263
+00:25:37,760 --> 00:25:39,716
+{\fnSimHei\fs10\b0}Wancy，乜你仲系老处咩？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wancy, you're still virgin?{\r\fnSimHei\fs10\b0}
+
+264
+00:25:41,480 --> 00:25:46,320
+{\fnSimHei\fs10\b0}发达啦，戏真情假，多情善忘
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Great, it's good acting like this{\r\fnSimHei\fs10\b0}
+
+265
+00:25:46,320 --> 00:25:48,788
+{\fnSimHei\fs10\b0}最紧要呢就系有性冇爱
+{\fnSimHei\fs8\1c&H80FFFF&\b0}lmportant is to have sex only{\r\fnSimHei\fs10\b0}
+
+266
+00:25:49,560 --> 00:25:51,240
+{\fnSimHei\fs10\b0}喂，仲有乜招数呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What skills do you have?{\r\fnSimHei\fs10\b0}
+
+267
+00:25:51,240 --> 00:25:54,280
+{\fnSimHei\fs10\b0}最紧要HaPPy，不过就唔要BaBy
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I want to be happy but no baby{\r\fnSimHei\fs10\b0}
+
+268
+00:25:54,280 --> 00:25:58,240
+{\fnSimHei\fs10\b0}胶袋你？，仔好懒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This condom is for you, guys are lazy now{\r\fnSimHei\fs10\b0}
+
+269
+00:25:58,240 --> 00:26:01,596
+{\fnSimHei\fs10\b0}他们不带就不行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}If they forget this, it'll spoil the mood{\r\fnSimHei\fs10\b0}
+
+270
+00:26:02,200 --> 00:26:08,560
+{\fnSimHei\fs10\b0}不过今次一定要吊下俥瘾先啦， 大家要忍一忍啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But we must hang on them for a while, we must bear If not, they'll find us cheap{\r\fnSimHei\fs10\b0}
+
+271
+00:26:08,560 --> 00:26:12,599
+{\fnSimHei\fs10\b0}如果唔系，我们就唔吃香的啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's hard to bear? How long must we bear?{\r\fnSimHei\fs10\b0}
+
+272
+00:26:12,880 --> 00:26:16,156
+{\fnSimHei\fs10\b0}好难顶的，，，High，，阵要忍几耐先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Just one night{\r\fnSimHei\fs10\b0}
+
+273
+00:26:17,560 --> 00:26:18,160
+{\fnSimHei\fs10\b0}忍一晚
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you kidding?{\r\fnSimHei\fs10\b0}
+
+274
+00:26:18,160 --> 00:26:19,752
+{\fnSimHei\fs10\b0}你讲呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, that guy is staring at us{\r\fnSimHei\fs10\b0}
+
+275
+00:26:21,760 --> 00:26:23,352
+{\fnSimHei\fs10\b0}喂，个胡须仔眼超超咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is it done?{\r\fnSimHei\fs10\b0}
+
+276
+00:26:24,320 --> 00:26:24,800
+{\fnSimHei\fs10\b0}喂搞掂未呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Time's short! Must I help you out?{\r\fnSimHei\fs10\b0}
+
+277
+00:26:24,800 --> 00:26:27,712
+{\fnSimHei\fs10\b0}好赶呀，走先啦， 驶唔驶我帮你避呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's troublesome! Let's go{\r\fnSimHei\fs10\b0}
+
+278
+00:26:28,080 --> 00:26:31,038
+{\fnSimHei\fs10\b0}真系麻烦啦，行啦行啦，出去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, guy, have you started at me enough?{\r\fnSimHei\fs10\b0}
+
+279
+00:26:31,640 --> 00:26:34,200
+{\fnSimHei\fs10\b0}喂胡须仔，睇咁耐仲未睇够呀
+
+280
+00:26:35,880 --> 00:26:38,720
+{\fnSimHei\fs10\b0}你恨到啦，胡须仔
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You like this, guy?{\r\fnSimHei\fs10\b0}
+
+281
+00:26:38,720 --> 00:26:41,792
+{\fnSimHei\fs10\b0}食蕉啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Screw yourself!{\r\fnSimHei\fs10\b0}
+
+282
+00:26:44,400 --> 00:26:49,480
+{\fnSimHei\fs10\b0}阿东，女呢，船都埋岸好耐啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tung, where're the girls? The ship has embarked already{\r\fnSimHei\fs10\b0}
+
+283
+00:26:49,480 --> 00:26:51,357
+{\fnSimHei\fs10\b0}系咪老点的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is she fooling you?{\r\fnSimHei\fs10\b0}
+
+284
+00:26:51,600 --> 00:26:53,240
+{\fnSimHei\fs10\b0}俥敢点我，俥唔惊我飞起俥呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She dare not as she fears I desert her{\r\fnSimHei\fs10\b0}
+
+285
+00:26:53,240 --> 00:26:55,310
+{\fnSimHei\fs10\b0}话飞边个呀，唔系话我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You desert her? You mean me?{\r\fnSimHei\fs10\b0}
+
+286
+00:26:56,240 --> 00:26:59,480
+{\fnSimHei\fs10\b0}我的Friend，Wancy，Mueue 见过啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}My friends, Wancy, Mueue, you've met already{\r\fnSimHei\fs10\b0}
+
+287
+00:26:59,480 --> 00:27:00,720
+{\fnSimHei\fs10\b0}咁迟的你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why are you so late?{\r\fnSimHei\fs10\b0}
+
+288
+00:27:00,720 --> 00:27:03,359
+{\fnSimHei\fs10\b0}系咪咋型先，系咪走啰！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're complaining? We'll leave then{\r\fnSimHei\fs10\b0}
+
+289
+00:27:05,200 --> 00:27:09,760
+{\fnSimHei\fs10\b0}你重咁屎忽鬼， 今晚我就扌卜镬劲的你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}If you behave badly, I'll screw you hard tonight{\r\fnSimHei\fs10\b0}
+
+290
+00:27:09,760 --> 00:27:11,600
+{\fnSimHei\fs10\b0}你话扌卜就扌卜，你当我木鱼呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What? You take me as a whore?{\r\fnSimHei\fs10\b0}
+
+291
+00:27:11,600 --> 00:27:15,513
+{\fnSimHei\fs10\b0}平时又话自己系大男人， 原来系小男人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You always say you're big man! Just small man only{\r\fnSimHei\fs10\b0}
+
+292
+00:27:16,280 --> 00:27:17,554
+{\fnSimHei\fs10\b0}好，我依家就扌卜你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I'll screw you off now{\r\fnSimHei\fs10\b0}
+
+293
+00:27:18,560 --> 00:27:23,475
+{\fnSimHei\fs10\b0}好呀，扌卜我啦.谁怕谁
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Good, come on...{\r\fnSimHei\fs10\b0}
+
+294
+00:27:30,560 --> 00:27:32,840
+{\fnSimHei\fs10\b0}扌卜到你闩唔到水喉
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I must screw you until you die{\r\fnSimHei\fs10\b0}
+
+295
+00:27:32,840 --> 00:27:35,832
+{\fnSimHei\fs10\b0}开船啦，走啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Set sail now, let's go{\r\fnSimHei\fs10\b0}
+
+296
+00:27:38,160 --> 00:27:41,835
+{\fnSimHei\fs10\b0}喂，小妖呢袋你的，拿住
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This bag is for you, take it{\r\fnSimHei\fs10\b0}
+
+297
+00:27:55,720 --> 00:27:56,994
+{\fnSimHei\fs10\b0}死吧
+
+298
+00:27:58,040 --> 00:28:00,520
+{\fnSimHei\fs10\b0}有冇搞错呀，想谋杀咩？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why? You want to kill me?{\r\fnSimHei\fs10\b0}
+
+299
+00:28:00,520 --> 00:28:00,952
+{\fnSimHei\fs10\b0}撞鬼你咩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What happens to you?{\r\fnSimHei\fs10\b0}
+
+300
+00:28:02,680 --> 00:28:04,320
+{\fnSimHei\fs10\b0}做乜你，扮硒款，，惭，，有型咁
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why do you pretend to be stately?{\r\fnSimHei\fs10\b0}
+
+301
+00:28:04,320 --> 00:28:06,080
+{\fnSimHei\fs10\b0}系呀，你估你们系，，Mark，，哥呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah, you think you're bosses?{\r\fnSimHei\fs10\b0}
+
+302
+00:28:06,080 --> 00:28:08,240
+{\fnSimHei\fs10\b0}唔系Mark哥，船头尺
+
+303
+00:28:08,240 --> 00:28:09,600
+{\fnSimHei\fs10\b0}你似周润发？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You mean you look like movie star?{\r\fnSimHei\fs10\b0}
+
+304
+00:28:09,600 --> 00:28:17,393
+{\fnSimHei\fs10\b0}错，唔系周润发， 系周星驰个Friend周星星呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, we look like superstar{\r\fnSimHei\fs10\b0}
+
+305
+00:28:26,560 --> 00:28:29,400
+{\fnSimHei\fs10\b0}三位俏娇娃，趁大家咁高兴
+{\fnSimHei\fs8\1c&H80FFFF&\b0}As we're so happy{\r\fnSimHei\fs10\b0}
+
+306
+00:28:29,400 --> 00:28:31,640
+{\fnSimHei\fs10\b0}等小弟呢唱番只歌你听
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me sing you a song{\r\fnSimHei\fs10\b0}
+
+307
+00:28:31,640 --> 00:28:34,108
+{\fnSimHei\fs10\b0}唱乜歌呀，想唱沉只船咩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Which song? I don't want to die yet{\r\fnSimHei\fs10\b0}
+
+308
+00:28:34,400 --> 00:28:36,880
+{\fnSimHei\fs10\b0}我蚀底点，表演神打俥睇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me show you my Sacred Skills{\r\fnSimHei\fs10\b0}
+
+309
+00:28:36,880 --> 00:28:38,680
+{\fnSimHei\fs10\b0}神打？你得唔得呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sacred Skills? Can you?{\r\fnSimHei\fs10\b0}
+
+310
+00:28:38,680 --> 00:28:39,960
+{\fnSimHei\fs10\b0}咩唔得呀，在船就未试过
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure, not never on a boat before{\r\fnSimHei\fs10\b0}
+
+311
+00:28:39,960 --> 00:28:43,040
+{\fnSimHei\fs10\b0}等俥表演澿神打摧童术俾你睇啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let him show you how to invite Gods here{\r\fnSimHei\fs10\b0}
+
+312
+00:28:43,040 --> 00:28:46,320
+{\fnSimHei\fs10\b0}摧童？你吹牛咋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Invite Gods? You're boasting!{\r\fnSimHei\fs10\b0}
+
+313
+00:28:46,320 --> 00:28:48,120
+{\fnSimHei\fs10\b0}唔信系咪，好，两位师弟埋位
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You don't believe? Colleagues, come here{\r\fnSimHei\fs10\b0}
+
+314
+00:28:48,120 --> 00:28:50,395
+{\fnSimHei\fs10\b0}系
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes{\r\fnSimHei\fs10\b0}
+
+315
+00:28:51,480 --> 00:28:53,040
+{\fnSimHei\fs10\b0}我们拜师祖先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's worship ancestors first{\r\fnSimHei\fs10\b0}
+
+316
+00:28:53,040 --> 00:28:54,720
+{\fnSimHei\fs10\b0}都冇香
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is there incense?{\r\fnSimHei\fs10\b0}
+
+317
+00:28:54,720 --> 00:28:55,720
+{\fnSimHei\fs10\b0}系啰，冇香点拜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah, how to worship without incense?{\r\fnSimHei\fs10\b0}
+
+318
+00:28:55,720 --> 00:28:57,400
+{\fnSimHei\fs10\b0}我们唔驶香？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We don't need incenses{\r\fnSimHei\fs10\b0}
+
+319
+00:28:57,400 --> 00:29:00,437
+{\fnSimHei\fs10\b0}我们心中有香，胜过千言与万语
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We have incenses in our mind, come on{\r\fnSimHei\fs10\b0}
+
+320
+00:29:04,400 --> 00:29:08,518
+{\fnSimHei\fs10\b0}想偷窥？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You peep at this time?{\r\fnSimHei\fs10\b0}
+
+321
+00:29:16,000 --> 00:29:20,073
+{\fnSimHei\fs10\b0}师祖显威灵
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, show your power{\r\fnSimHei\fs10\b0}
+
+322
+00:29:28,160 --> 00:29:32,358
+{\fnSimHei\fs10\b0}死仔呀唔好弄烂我只船呀仆卜街
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Bastard, don't damage my boat{\r\fnSimHei\fs10\b0}
+
+323
+00:29:36,440 --> 00:29:38,240
+{\fnSimHei\fs10\b0}师祖显威灵
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, show your power{\r\fnSimHei\fs10\b0}
+
+324
+00:29:38,240 --> 00:29:40,151
+{\fnSimHei\fs10\b0}占童！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Gods come!{\r\fnSimHei\fs10\b0}
+
+325
+00:29:41,200 --> 00:29:43,760
+{\fnSimHei\fs10\b0}喂，咁玩法有冇事的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is it alright by playing this?{\r\fnSimHei\fs10\b0}
+
+326
+00:29:46,080 --> 00:29:48,719
+{\fnSimHei\fs10\b0}你们睇啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You can see{\r\fnSimHei\fs10\b0}
+
+327
+00:29:53,680 --> 00:29:55,796
+{\fnSimHei\fs10\b0}仲玩系嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Still fool on?{\r\fnSimHei\fs10\b0}
+
+328
+00:30:04,640 --> 00:30:05,680
+{\fnSimHei\fs10\b0}师祖回宫
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, go back please{\r\fnSimHei\fs10\b0}
+
+329
+00:30:05,680 --> 00:30:07,272
+{\fnSimHei\fs10\b0}师祖回宫
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, go back please{\r\fnSimHei\fs10\b0}
+
+330
+00:30:09,640 --> 00:30:11,073
+{\fnSimHei\fs10\b0}俥占乩童上身，赶唔走呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}God is possessing him, it won't go away{\r\fnSimHei\fs10\b0}
+
+331
+00:30:16,680 --> 00:30:18,238
+{\fnSimHei\fs10\b0}我要大打东海龙皇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I must stir up the sea{\r\fnSimHei\fs10\b0}
+
+332
+00:30:35,520 --> 00:30:39,559
+{\fnSimHei\fs10\b0}老师祖回宫
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ancestor, go back now{\r\fnSimHei\fs10\b0}
+
+333
+00:31:13,720 --> 00:31:15,560
+{\fnSimHei\fs10\b0}点呀，放低先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Lie down first{\r\fnSimHei\fs10\b0}
+
+334
+00:31:15,560 --> 00:31:20,840
+{\fnSimHei\fs10\b0}最衰十二呀，成日搅搅震
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi is bad, he always starts trouble{\r\fnSimHei\fs10\b0}
+
+335
+00:31:20,840 --> 00:31:23,560
+{\fnSimHei\fs10\b0}都叫你唔好玩的啦， 唔好再玩这些东西了
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've asked you not to play, stop doing this again{\r\fnSimHei\fs10\b0}
+
+336
+00:31:23,560 --> 00:31:24,400
+{\fnSimHei\fs10\b0}你估人家想的咩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}He doesn't want this either{\r\fnSimHei\fs10\b0}
+
+337
+00:31:24,400 --> 00:31:25,958
+{\fnSimHei\fs10\b0}离谱，搅成俥咁
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit, look how he is now{\r\fnSimHei\fs10\b0}
+
+338
+00:31:27,840 --> 00:31:29,880
+{\fnSimHei\fs10\b0}阿伯，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old man, how are you now?{\r\fnSimHei\fs10\b0}
+
+339
+00:31:29,880 --> 00:31:30,840
+{\fnSimHei\fs10\b0}冇事
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm fine{\r\fnSimHei\fs10\b0}
+
+340
+00:31:30,840 --> 00:31:31,989
+{\fnSimHei\fs10\b0}多谢你呀，伯伯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks, Old Man{\r\fnSimHei\fs10\b0}
+
+341
+00:31:33,280 --> 00:31:35,271
+{\fnSimHei\fs10\b0}后生仔，唔好同神打开玩笑呀， 好危险的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Kids, don't fool with gods and fairy{\r\fnSimHei\fs10\b0}
+
+342
+00:31:36,480 --> 00:31:37,280
+{\fnSimHei\fs10\b0}我知系我唔好？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I know I am to blame{\r\fnSimHei\fs10\b0}
+
+343
+00:31:37,280 --> 00:31:42,559
+{\fnSimHei\fs10\b0}荒山野岭，好多污糟的， 我比度符你旁身啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Spirits are everywhere in this remote place, I'll give you a spell{\r\fnSimHei\fs10\b0}
+
+344
+00:31:42,720 --> 00:31:44,517
+{\fnSimHei\fs10\b0}戴住俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Put it on{\r\fnSimHei\fs10\b0}
+
+345
+00:31:44,760 --> 00:31:47,520
+{\fnSimHei\fs10\b0}阿伯，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man, how are you?{\r\fnSimHei\fs10\b0}
+
+346
+00:31:47,520 --> 00:31:49,431
+{\fnSimHei\fs10\b0}我同你戴啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll put it on for you{\r\fnSimHei\fs10\b0}
+
+347
+00:31:53,400 --> 00:31:55,868
+{\fnSimHei\fs10\b0}真系多谢你呀，阿伯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks very much, Uncle{\r\fnSimHei\fs10\b0}
+
+348
+00:31:56,360 --> 00:31:58,794
+{\fnSimHei\fs10\b0}到啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Here we are{\r\fnSimHei\fs10\b0}
+
+349
+00:31:59,440 --> 00:32:00,480
+{\fnSimHei\fs10\b0}快点啦.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry...{\r\fnSimHei\fs10\b0}
+
+350
+00:32:00,480 --> 00:32:01,879
+{\fnSimHei\fs10\b0}行快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Walk faster...{\r\fnSimHei\fs10\b0}
+
+351
+00:32:03,440 --> 00:32:05,510
+{\fnSimHei\fs10\b0}等埋呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wait for me{\r\fnSimHei\fs10\b0}
+
+352
+00:32:09,320 --> 00:32:10,878
+{\fnSimHei\fs10\b0}等一阵先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wait{\r\fnSimHei\fs10\b0}
+
+353
+00:32:11,240 --> 00:32:17,560
+{\fnSimHei\fs10\b0}多谢阿伯救命之恩.拜拜
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks for saving me... bye!{\r\fnSimHei\fs10\b0}
+
+354
+00:32:17,560 --> 00:32:19,596
+{\fnSimHei\fs10\b0}等埋我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wait for me!{\r\fnSimHei\fs10\b0}
+
+355
+00:33:22,280 --> 00:33:30,119
+{\fnSimHei\fs10\b0}阿娣，我们终于都番到啦， 我唔会再走
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tee, we've come back at last, I'll never go away again{\r\fnSimHei\fs10\b0}
+
+356
+00:33:59,680 --> 00:34:02,831
+{\fnSimHei\fs10\b0}过来呀，打波啦，过来呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and play ball games, come on{\r\fnSimHei\fs10\b0}
+
+357
+00:34:04,720 --> 00:34:05,835
+{\fnSimHei\fs10\b0}快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come quick{\r\fnSimHei\fs10\b0}
+
+358
+00:34:06,840 --> 00:34:08,193
+{\fnSimHei\fs10\b0}打波呀好啊
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You want ball games?{\r\fnSimHei\fs10\b0}
+
+359
+00:34:11,120 --> 00:34:13,640
+{\fnSimHei\fs10\b0}系唔系打波呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's play games{\r\fnSimHei\fs10\b0}
+
+360
+00:34:13,640 --> 00:34:14,550
+{\fnSimHei\fs10\b0}打波呀
+
+361
+00:34:17,960 --> 00:34:21,794
+{\fnSimHei\fs10\b0}乜个沙滩咁多波的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why are there so many balls here?{\r\fnSimHei\fs10\b0}
+
+362
+00:34:25,480 --> 00:34:27,640
+{\fnSimHei\fs10\b0}十二就好啦，Wancy索俥个鼻
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi is enjoying as Wancy is kissing his nose{\r\fnSimHei\fs10\b0}
+
+363
+00:34:27,640 --> 00:34:31,679
+{\fnSimHei\fs10\b0}Wancy自己发姣之嘛， 上次已经喜欢十二啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wancy is mad for him, she loves him much{\r\fnSimHei\fs10\b0}
+
+364
+00:34:32,480 --> 00:34:33,160
+{\fnSimHei\fs10\b0}咁你几时索我个鼻呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}When will you kiss my nose?{\r\fnSimHei\fs10\b0}
+
+365
+00:34:33,160 --> 00:34:34,639
+{\fnSimHei\fs10\b0}鬼索你个鼻呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I won't kiss your nose{\r\fnSimHei\fs10\b0}
+
+366
+00:34:34,880 --> 00:34:36,520
+{\fnSimHei\fs10\b0}点解你唔问我呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why don't you ask me?{\r\fnSimHei\fs10\b0}
+
+367
+00:34:36,520 --> 00:34:38,272
+{\fnSimHei\fs10\b0}你又几时索我个鼻呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}When will you kiss my nose then?{\r\fnSimHei\fs10\b0}
+
+368
+00:34:38,600 --> 00:34:39,760
+{\fnSimHei\fs10\b0}睇下点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It depends{\r\fnSimHei\fs10\b0}
+
+369
+00:34:39,760 --> 00:34:42,399
+{\fnSimHei\fs10\b0}打情骂俏咁话咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're flirting?{\r\fnSimHei\fs10\b0}
+
+370
+00:34:43,960 --> 00:34:46,400
+{\fnSimHei\fs10\b0}你做乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing?{\r\fnSimHei\fs10\b0}
+
+371
+00:34:46,400 --> 00:34:48,000
+{\fnSimHei\fs10\b0}做乜？，冇事呀，边有事冇事呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Nothing? I'm doing nothing at all{\r\fnSimHei\fs10\b0}
+
+372
+00:34:48,000 --> 00:34:50,200
+{\fnSimHei\fs10\b0}你做乜？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing?{\r\fnSimHei\fs10\b0}
+
+373
+00:34:50,200 --> 00:34:52,236
+{\fnSimHei\fs10\b0}急尿呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I have natural call{\r\fnSimHei\fs10\b0}
+
+374
+00:34:52,560 --> 00:34:54,790
+{\fnSimHei\fs10\b0}急尿咪去后面啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go there if you must{\r\fnSimHei\fs10\b0}
+
+375
+00:34:57,800 --> 00:34:58,040
+{\fnSimHei\fs10\b0}你自己番去先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You might go back now{\r\fnSimHei\fs10\b0}
+
+376
+00:34:58,040 --> 00:35:01,520
+{\fnSimHei\fs10\b0}你做乜呀，你怕丑呀， 你咪后面啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why? You're shy? Just piss there{\r\fnSimHei\fs10\b0}
+
+377
+00:35:01,520 --> 00:35:02,240
+{\fnSimHei\fs10\b0}我又唔会装你？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And I won't peep{\r\fnSimHei\fs10\b0}
+
+378
+00:35:02,240 --> 00:35:03,195
+{\fnSimHei\fs10\b0}好呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK{\r\fnSimHei\fs10\b0}
+
+379
+00:35:39,560 --> 00:35:39,800
+{\fnSimHei\fs10\b0}做乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What's on?{\r\fnSimHei\fs10\b0}
+
+380
+00:35:39,800 --> 00:35:42,553
+{\fnSimHei\fs10\b0}我整亲只手呀，你仲唔快过来睇我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've hurt my hand, come and take a look{\r\fnSimHei\fs10\b0}
+
+381
+00:35:43,680 --> 00:35:44,680
+{\fnSimHei\fs10\b0}点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How is it?{\r\fnSimHei\fs10\b0}
+
+382
+00:35:44,680 --> 00:35:46,557
+{\fnSimHei\fs10\b0}你睇，流血啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Look, it's bleeding{\r\fnSimHei\fs10\b0}
+
+383
+00:35:47,560 --> 00:35:49,312
+{\fnSimHei\fs10\b0}痛唔痛呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Does it hurt?{\r\fnSimHei\fs10\b0}
+
+384
+00:35:50,880 --> 00:35:53,872
+{\fnSimHei\fs10\b0}唔驶惊冇事的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't panic, it's going to be fine{\r\fnSimHei\fs10\b0}
+
+385
+00:36:14,680 --> 00:36:18,640
+{\fnSimHei\fs10\b0}21，22，2324，成日咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}21, 22, 23, 24, it's a whole day now{\r\fnSimHei\fs10\b0}
+
+386
+00:36:18,640 --> 00:36:23,634
+{\fnSimHei\fs10\b0}24小时仲未搞掂，，，及及，，先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Not yet done for 24 hours? I must take a look{\r\fnSimHei\fs10\b0}
+
+387
+00:36:28,760 --> 00:36:31,354
+{\fnSimHei\fs10\b0}小心踢爆
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Watch out{\r\fnSimHei\fs10\b0}
+
+388
+00:36:31,960 --> 00:36:34,000
+{\fnSimHei\fs10\b0}我已经话过做法事阵唔可以入房啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've told you not to enter when I'm performing ceremony{\r\fnSimHei\fs10\b0}
+
+389
+00:36:34,000 --> 00:36:36,200
+{\fnSimHei\fs10\b0}好在落在本门守护降
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Lucky I have put a protecting charm{\r\fnSimHei\fs10\b0}
+
+390
+00:36:36,200 --> 00:36:39,360
+{\fnSimHei\fs10\b0}大师呀， 你做了二十几个钟头法事的喇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, you've performed it for a whole day{\r\fnSimHei\fs10\b0}
+
+391
+00:36:39,360 --> 00:36:41,840
+{\fnSimHei\fs10\b0}我约了高官交人的，大师呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've promised an officer to hand her to him, master{\r\fnSimHei\fs10\b0}
+
+392
+00:36:41,840 --> 00:36:44,877
+{\fnSimHei\fs10\b0}你救救我啦，我死人跳楼的喂
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You must help me or I must die{\r\fnSimHei\fs10\b0}
+
+393
+00:36:53,960 --> 00:36:57,280
+{\fnSimHei\fs10\b0}拮你.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Pin you...{\r\fnSimHei\fs10\b0}
+
+394
+00:36:57,280 --> 00:37:00,317
+{\fnSimHei\fs10\b0}子孙根，别乱插
+
+395
+00:37:00,680 --> 00:37:02,591
+{\fnSimHei\fs10\b0}喂.唔好玩啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey... let's not play{\r\fnSimHei\fs10\b0}
+
+396
+00:37:03,000 --> 00:37:05,719
+{\fnSimHei\fs10\b0}都话唔好玩啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come on, I've said not to play{\r\fnSimHei\fs10\b0}
+
+397
+00:37:06,160 --> 00:37:08,800
+{\fnSimHei\fs10\b0}等我讲故仔俾你听， 你们知唔知道呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me tell you, you don't know{\r\fnSimHei\fs10\b0}
+
+398
+00:37:08,800 --> 00:37:11,840
+{\fnSimHei\fs10\b0}呢个沙滩呀好猛鬼的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's said this is a haunted beach{\r\fnSimHei\fs10\b0}
+
+399
+00:37:11,840 --> 00:37:14,480
+{\fnSimHei\fs10\b0}听老人家讲呢，呢个沙滩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Local people keep saying{\r\fnSimHei\fs10\b0}
+
+400
+00:37:14,480 --> 00:37:17,240
+{\fnSimHei\fs10\b0}以前系日本仔用来杀人的地方
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Chis used to be the place for execution by Japanese{\r\fnSimHei\fs10\b0}
+
+401
+00:37:17,240 --> 00:37:21,320
+{\fnSimHei\fs10\b0}那些日本仔， 用铁线将人呢全部拍埋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Japanese soldiers tied people together with a wire{\r\fnSimHei\fs10\b0}
+
+402
+00:37:21,320 --> 00:37:22,840
+{\fnSimHei\fs10\b0}排成一排排
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And made them fall in line{\r\fnSimHei\fs10\b0}
+
+403
+00:37:22,840 --> 00:37:24,680
+{\fnSimHei\fs10\b0}咁用铁线呢穿过他们身
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And used wire to pierce them in a queue{\r\fnSimHei\fs10\b0}
+
+404
+00:37:24,680 --> 00:37:27,000
+{\fnSimHei\fs10\b0}监生等他们挣扌匕到死为止咼， 成行成群
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And let them struggle until death{\r\fnSimHei\fs10\b0}
+
+405
+00:37:27,000 --> 00:37:30,760
+{\fnSimHei\fs10\b0}成个沙滩都系人，咁跟住呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The beach was crowded with people and then...{\r\fnSimHei\fs10\b0}
+
+406
+00:37:30,760 --> 00:37:34,880
+{\fnSimHei\fs10\b0}在十几年前，有两个人咼， 系一男一女？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}A decade ago, one guy and a girl{\r\fnSimHei\fs10\b0}
+
+407
+00:37:34,880 --> 00:37:37,269
+{\fnSimHei\fs10\b0}咁他们在这里露营咼， 就在而家呢个位置呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Came here for camping, exactly at this position{\r\fnSimHei\fs10\b0}
+
+408
+00:37:38,440 --> 00:37:42,240
+{\fnSimHei\fs10\b0}咁俥睡觉啦，睡到差唔多大约 三四点的时候
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They were sleeping but at about 4 am{\r\fnSimHei\fs10\b0}
+
+409
+00:37:42,240 --> 00:37:44,680
+{\fnSimHei\fs10\b0}忽然之间，他们听到些声咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They suddenly heard some noise{\r\fnSimHei\fs10\b0}
+
+410
+00:37:44,680 --> 00:37:46,440
+{\fnSimHei\fs10\b0}咁他们拉开个帐篷啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So they pulled the tent open{\r\fnSimHei\fs10\b0}
+
+411
+00:37:46,440 --> 00:37:47,040
+{\fnSimHei\fs10\b0}见到好多人在这里呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And saw many people here{\r\fnSimHei\fs10\b0}
+
+412
+00:37:47,040 --> 00:37:51,120
+{\fnSimHei\fs10\b0}个个着住清装的， 拿住灯笼行来行去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}All were dressed in Ching Dynasty clothes and holding a lantern{\r\fnSimHei\fs10\b0}
+
+413
+00:37:51,120 --> 00:37:54,280
+{\fnSimHei\fs10\b0}他们惊起上来， 即刻走去码头那边啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They were so scared that they ran towards the piece{\r\fnSimHei\fs10\b0}
+
+414
+00:37:54,280 --> 00:37:57,280
+{\fnSimHei\fs10\b0}咁就撞到两个水警咼， 点知行到埋去就唔见？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And met two marine policemen, who vanished when the approached{\r\fnSimHei\fs10\b0}
+
+415
+00:37:57,280 --> 00:38:00,560
+{\fnSimHei\fs10\b0}咁他们好惊啦，咁即刻走番转头啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They were so scared and ran back{\r\fnSimHei\fs10\b0}
+
+416
+00:38:00,560 --> 00:38:02,600
+{\fnSimHei\fs10\b0}咁就走番去营幕那边， 点知唔见硒人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They got back to the tent but nobody was there{\r\fnSimHei\fs10\b0}
+
+417
+00:38:02,600 --> 00:38:05,200
+{\fnSimHei\fs10\b0}咁他们见到衫，全部都湿硒？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And all their clothes were wet{\r\fnSimHei\fs10\b0}
+
+418
+00:38:05,200 --> 00:38:07,120
+{\fnSimHei\fs10\b0}咁于是呢咁就系咁扭啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So they twisted them{\r\fnSimHei\fs10\b0}
+
+419
+00:38:07,120 --> 00:38:10,440
+{\fnSimHei\fs10\b0}点知扭出来的不是咸水，系淡水
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What came out was not sea water, but just water{\r\fnSimHei\fs10\b0}
+
+420
+00:38:10,440 --> 00:38:13,120
+{\fnSimHei\fs10\b0}咁跟住呢又见到个女人咼， 系个女鬼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And soon they saw a girl, or rather a girl ghost{\r\fnSimHei\fs10\b0}
+
+421
+00:38:13,120 --> 00:38:16,760
+{\fnSimHei\fs10\b0}咁呢只女鬼呢，俥头发好长的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It was a ghost with long hair{\r\fnSimHei\fs10\b0}
+
+422
+00:38:16,760 --> 00:38:18,560
+{\fnSimHei\fs10\b0}咁着住件白袍，又好长的咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}In a long white robe{\r\fnSimHei\fs10\b0}
+
+423
+00:38:18,560 --> 00:38:21,880
+{\fnSimHei\fs10\b0}在这里行来行去，行到去沙滩那边
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Who kept walking about, and she went to the beach{\r\fnSimHei\fs10\b0}
+
+424
+00:38:21,880 --> 00:38:21,960
+{\fnSimHei\fs10\b0}咁跟住呢，又行去后面
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And then walked to the back again{\r\fnSimHei\fs10\b0}
+
+425
+00:38:21,960 --> 00:38:23,109
+{\fnSimHei\fs10\b0}哗，你睇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, look!{\r\fnSimHei\fs10\b0}
+
+426
+00:38:28,480 --> 00:38:31,597
+{\fnSimHei\fs10\b0}死小妖，仆卜街玩我？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf, dare you fool us?{\r\fnSimHei\fs10\b0}
+
+427
+00:38:31,800 --> 00:38:34,519
+{\fnSimHei\fs10\b0}搞掂，发达咯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's done, great!{\r\fnSimHei\fs10\b0}
+
+428
+00:38:35,360 --> 00:38:36,998
+{\fnSimHei\fs10\b0}毒蛇缠呀，你两个过来帮拖呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You two come back and help me{\r\fnSimHei\fs10\b0}
+
+429
+00:38:40,160 --> 00:38:44,358
+{\fnSimHei\fs10\b0}喷她.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's not play{\r\fnSimHei\fs10\b0}
+
+430
+00:38:44,560 --> 00:38:46,869
+{\fnSimHei\fs10\b0}湿完了
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf keeps fooling us around, look{\r\fnSimHei\fs10\b0}
+
+431
+00:38:48,240 --> 00:38:50,480
+{\fnSimHei\fs10\b0}唔玩啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit, it's sticky all over, what shall we do?{\r\fnSimHei\fs10\b0}
+
+432
+00:38:50,480 --> 00:38:52,960
+{\fnSimHei\fs10\b0}小妖成日扮鬼扮马整蛊人，你睇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm sticky too, dare you swim nakedly?{\r\fnSimHei\fs10\b0}
+
+433
+00:38:52,960 --> 00:38:56,999
+{\fnSimHei\fs10\b0}咪啰，整到周身笠笠， 你睇而家点算啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure, why not?{\r\fnSimHei\fs10\b0}
+
+434
+00:38:57,440 --> 00:39:00,720
+{\fnSimHei\fs10\b0}我够搞到笠笠啰， 够唔够，，poP，，一齐裸泳？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You say so, let's go{\r\fnSimHei\fs10\b0}
+
+435
+00:39:00,720 --> 00:39:02,400
+{\fnSimHei\fs10\b0}惊乜，裸泳咪裸泳啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why? You said you'd swim naked?{\r\fnSimHei\fs10\b0}
+
+436
+00:39:02,400 --> 00:39:03,992
+{\fnSimHei\fs10\b0}你讲的，去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't push me{\r\fnSimHei\fs10\b0}
+
+437
+00:39:10,880 --> 00:39:13,633
+{\fnSimHei\fs10\b0}喂玩呀，又话裸泳
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah{\r\fnSimHei\fs10\b0}
+
+438
+00:39:15,320 --> 00:39:17,120
+{\fnSimHei\fs10\b0}要除衫呀，催催贡
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take off your clothes... be quick{\r\fnSimHei\fs10\b0}
+
+439
+00:39:17,120 --> 00:39:19,156
+{\fnSimHei\fs10\b0}系呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Great!{\r\fnSimHei\fs10\b0}
+
+440
+00:39:19,440 --> 00:39:22,398
+{\fnSimHei\fs10\b0}喂，除衫啦除衫啦，快啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Something to see{\r\fnSimHei\fs10\b0}
+
+441
+00:39:27,240 --> 00:39:28,036
+{\fnSimHei\fs10\b0}正呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit, you fool me!{\r\fnSimHei\fs10\b0}
+
+442
+00:39:29,520 --> 00:39:31,440
+{\fnSimHei\fs10\b0}睇啦，睇硒啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll get dressed{\r\fnSimHei\fs10\b0}
+
+443
+00:39:31,440 --> 00:39:34,320
+{\fnSimHei\fs10\b0}媪笨，蚀底硒添呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They made us sticky all over, nut!{\r\fnSimHei\fs10\b0}
+
+444
+00:39:34,320 --> 00:39:34,880
+{\fnSimHei\fs10\b0}着番衫先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where are you going?{\r\fnSimHei\fs10\b0}
+
+445
+00:39:34,880 --> 00:39:37,269
+{\fnSimHei\fs10\b0}俾班死仔搞到成身笠笠，衰人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get water for a bath, I won't swim naked with you{\r\fnSimHei\fs10\b0}
+
+446
+00:39:38,040 --> 00:39:40,395
+{\fnSimHei\fs10\b0}喂，你们去边度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There's ghost up there, aren't you afraid?{\r\fnSimHei\fs10\b0}
+
+447
+00:39:40,640 --> 00:39:43,560
+{\fnSimHei\fs10\b0}媪淡水冲凉啰， 唔通真系同你们裸泳呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There're 3 devils of you down here{\r\fnSimHei\fs10\b0}
+
+448
+00:39:43,560 --> 00:39:45,949
+{\fnSimHei\fs10\b0}上面有鬼的咼，你唔惊呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Nothing to fool now{\r\fnSimHei\fs10\b0}
+
+449
+00:39:46,760 --> 00:39:48,955
+{\fnSimHei\fs10\b0}下面够有鬼啰，有你三只咸湿鬼呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go{\r\fnSimHei\fs10\b0}
+
+450
+00:39:53,200 --> 00:39:54,560
+{\fnSimHei\fs10\b0}冇东西玩啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's horrible up there, is there really a ghost?{\r\fnSimHei\fs10\b0}
+
+451
+00:39:54,560 --> 00:39:56,232
+{\fnSimHei\fs10\b0}走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're timid? You're afraid?{\r\fnSimHei\fs10\b0}
+
+452
+00:40:01,800 --> 00:40:03,160
+{\fnSimHei\fs10\b0}上面咁恐怖，系咪真系有鬼的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's help you out{\r\fnSimHei\fs10\b0}
+
+453
+00:40:03,160 --> 00:40:06,840
+{\fnSimHei\fs10\b0}咪咁细胆啦，好惊呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't be afraid{\r\fnSimHei\fs10\b0}
+
+454
+00:40:06,840 --> 00:40:08,068
+{\fnSimHei\fs10\b0}等我们帮你啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why touch my ass? Hands off{\r\fnSimHei\fs10\b0}
+
+455
+00:40:08,800 --> 00:40:08,960
+{\fnSimHei\fs10\b0}唔驶惊咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm only helping you up{\r\fnSimHei\fs10\b0}
+
+456
+00:40:08,960 --> 00:40:12,720
+{\fnSimHei\fs10\b0}做乜摸我椤柚呀，放手呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're trapping my underwear{\r\fnSimHei\fs10\b0}
+
+457
+00:40:12,720 --> 00:40:14,119
+{\fnSimHei\fs10\b0}我帮手托你上去嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're fat bottomed, it's hard to push up{\r\fnSimHei\fs10\b0}
+
+458
+00:40:15,680 --> 00:40:17,360
+{\fnSimHei\fs10\b0}你隙住我条底裤啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're caressing or pushing? I can't help caressing, get up there!{\r\fnSimHei\fs10\b0}
+
+459
+00:40:17,360 --> 00:40:18,800
+{\fnSimHei\fs10\b0}你个椤柚咁重呀，托极都唔上？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Very elastic{\r\fnSimHei\fs10\b0}
+
+460
+00:40:18,800 --> 00:40:21,917
+{\fnSimHei\fs10\b0}椤柚翘起，唔摸唔俾面呀，上去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's done{\r\fnSimHei\fs10\b0}
+
+461
+00:40:22,840 --> 00:40:23,238
+{\fnSimHei\fs10\b0}够硒弹力
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Listen, you 3 devils mustn't follow us on{\r\fnSimHei\fs10\b0}
+
+462
+00:40:25,200 --> 00:40:26,838
+{\fnSimHei\fs10\b0}搞掂
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, but there's really a ghost up there{\r\fnSimHei\fs10\b0}
+
+463
+00:40:27,440 --> 00:40:29,840
+{\fnSimHei\fs10\b0}听住呀，你们三只咸湿鬼 唔好再跟住来呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Very furious ghost!{\r\fnSimHei\fs10\b0}
+
+464
+00:40:29,840 --> 00:40:31,560
+{\fnSimHei\fs10\b0}喂，唔系咼，上面真系有鬼的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's said women's underwear can cast ghosts away{\r\fnSimHei\fs10\b0}
+
+465
+00:40:31,560 --> 00:40:33,118
+{\fnSimHei\fs10\b0}好猛鬼的！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Damned shit!{\r\fnSimHei\fs10\b0}
+
+466
+00:40:33,520 --> 00:40:35,840
+{\fnSimHei\fs10\b0}听讲女人底裤真系治邪的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go and scare them{\r\fnSimHei\fs10\b0}
+
+467
+00:40:35,840 --> 00:40:37,717
+{\fnSimHei\fs10\b0}治你老母呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure{\r\fnSimHei\fs10\b0}
+
+468
+00:40:39,520 --> 00:40:40,400
+{\fnSimHei\fs10\b0}一于上去吓俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's get up, good!{\r\fnSimHei\fs10\b0}
+
+469
+00:40:40,400 --> 00:40:41,200
+{\fnSimHei\fs10\b0}好呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This way{\r\fnSimHei\fs10\b0}
+
+470
+00:40:41,200 --> 00:40:42,480
+{\fnSimHei\fs10\b0}喂，上去呀，好呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Must we take them off?{\r\fnSimHei\fs10\b0}
+
+471
+00:40:42,480 --> 00:40:44,198
+{\fnSimHei\fs10\b0}呢便呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure, we must believe it{\r\fnSimHei\fs10\b0}
+
+472
+00:40:44,800 --> 00:40:45,960
+{\fnSimHei\fs10\b0}系咪真系要除的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, let's take it off{\r\fnSimHei\fs10\b0}
+
+473
+00:40:45,960 --> 00:40:48,269
+{\fnSimHei\fs10\b0}除啦，宁可信其有，不可信其无
+
+474
+00:40:49,600 --> 00:40:50,160
+{\fnSimHei\fs10\b0}除就除啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry up!{\r\fnSimHei\fs10\b0}
+
+475
+00:40:50,160 --> 00:40:52,720
+{\fnSimHei\fs10\b0}快点啦
+
+476
+00:40:54,760 --> 00:40:56,440
+{\fnSimHei\fs10\b0}边度的，好惊呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where is it? I'm afraid{\r\fnSimHei\fs10\b0}
+
+477
+00:40:56,440 --> 00:40:57,840
+{\fnSimHei\fs10\b0}好声呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful!{\r\fnSimHei\fs10\b0}
+
+478
+00:40:57,840 --> 00:40:58,989
+{\fnSimHei\fs10\b0}好恐怖呀呢度
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's terrifying here{\r\fnSimHei\fs10\b0}
+
+479
+00:41:01,320 --> 00:41:02,878
+{\fnSimHei\fs10\b0}究竟是边？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where is it exactly?{\r\fnSimHei\fs10\b0}
+
+480
+00:41:03,040 --> 00:41:04,880
+{\fnSimHei\fs10\b0}喂，上去先媪啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, let's find up there{\r\fnSimHei\fs10\b0}
+
+481
+00:41:04,880 --> 00:41:06,520
+{\fnSimHei\fs10\b0}等埋我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wait for me{\r\fnSimHei\fs10\b0}
+
+482
+00:41:06,520 --> 00:41:08,120
+{\fnSimHei\fs10\b0}喂，有个水井在这里咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, there's a well here{\r\fnSimHei\fs10\b0}
+
+483
+00:41:08,120 --> 00:41:09,000
+{\fnSimHei\fs10\b0}系咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yeah{\r\fnSimHei\fs10\b0}
+
+484
+00:41:09,000 --> 00:41:10,040
+{\fnSimHei\fs10\b0}不过有冇水的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But is there water?{\r\fnSimHei\fs10\b0}
+
+485
+00:41:10,040 --> 00:41:11,840
+{\fnSimHei\fs10\b0}丢个桶落去咪知
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We'll see if we throw a bucket down{\r\fnSimHei\fs10\b0}
+
+486
+00:41:11,840 --> 00:41:12,120
+{\fnSimHei\fs10\b0}小心？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+487
+00:41:12,120 --> 00:41:13,269
+{\fnSimHei\fs10\b0}得啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I will{\r\fnSimHei\fs10\b0}
+
+488
+00:41:15,520 --> 00:41:16,440
+{\fnSimHei\fs10\b0}有水
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There's water{\r\fnSimHei\fs10\b0}
+
+489
+00:41:16,440 --> 00:41:17,160
+{\fnSimHei\fs10\b0}好啊
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Great{\r\fnSimHei\fs10\b0}
+
+490
+00:41:17,160 --> 00:41:19,151
+{\fnSimHei\fs10\b0}好啊，唔使腌咸鸡啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Good, we needn't stay dirty{\r\fnSimHei\fs10\b0}
+
+491
+00:41:20,240 --> 00:41:24,518
+{\fnSimHei\fs10\b0}咁重，几多水咼个井
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's heavy, the well is full of water{\r\fnSimHei\fs10\b0}
+
+492
+00:41:28,440 --> 00:41:32,558
+{\fnSimHei\fs10\b0}静静，行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's move quietly{\r\fnSimHei\fs10\b0}
+
+493
+00:41:34,120 --> 00:41:36,760
+{\fnSimHei\fs10\b0}喂，Micelle，得未呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, Michelle, is it OK?{\r\fnSimHei\fs10\b0}
+
+494
+00:41:36,760 --> 00:41:37,078
+{\fnSimHei\fs10\b0}来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Coming{\r\fnSimHei\fs10\b0}
+
+495
+00:41:42,480 --> 00:41:44,277
+{\fnSimHei\fs10\b0}喂，放我出来.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me out...{\r\fnSimHei\fs10\b0}
+
+496
+00:41:44,560 --> 00:41:46,869
+{\fnSimHei\fs10\b0}你班仆卜街，装我们冲凉
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Bastards, dare you peep us bathing?{\r\fnSimHei\fs10\b0}
+
+497
+00:41:48,400 --> 00:41:50,120
+{\fnSimHei\fs10\b0}Micelle，快澿水，快澿啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Michelle, get water here, quick{\r\fnSimHei\fs10\b0}
+
+498
+00:41:50,120 --> 00:41:51,792
+{\fnSimHei\fs10\b0}水啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Here comes the water{\r\fnSimHei\fs10\b0}
+
+499
+00:41:53,400 --> 00:41:55,311
+{\fnSimHei\fs10\b0}你做乜？，放我出？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing? Let me out{\r\fnSimHei\fs10\b0}
+
+500
+00:41:55,560 --> 00:41:58,836
+{\fnSimHei\fs10\b0}系呀！抵你有今日，未死过
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You deserve this, lousy{\r\fnSimHei\fs10\b0}
+
+501
+00:42:02,360 --> 00:42:04,396
+{\fnSimHei\fs10\b0}放我出来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let me out...{\r\fnSimHei\fs10\b0}
+
+502
+00:42:05,360 --> 00:42:09,399
+{\fnSimHei\fs10\b0}唔好再淋啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't splash anymore{\r\fnSimHei\fs10\b0}
+
+503
+00:42:10,240 --> 00:42:13,277
+{\fnSimHei\fs10\b0}淋死你？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Drown you{\r\fnSimHei\fs10\b0}
+
+504
+00:42:34,080 --> 00:42:36,000
+{\fnSimHei\fs10\b0}大师，你在这里做什么？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, what are you doing?{\r\fnSimHei\fs10\b0}
+
+505
+00:42:36,000 --> 00:42:37,080
+{\fnSimHei\fs10\b0}数钱啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I am counting money{\r\fnSimHei\fs10\b0}
+
+506
+00:42:37,080 --> 00:42:39,275
+{\fnSimHei\fs10\b0}这时候仲数银纸
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You count money at this critical moment?{\r\fnSimHei\fs10\b0}
+
+507
+00:42:39,560 --> 00:42:41,516
+{\fnSimHei\fs10\b0}食早餐先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's eat breakfast{\r\fnSimHei\fs10\b0}
+
+508
+00:42:52,720 --> 00:42:56,440
+{\fnSimHei\fs10\b0}一日三餐，最紧要就系早餐， 来啦，一齐食啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Breakfast is most important to man, let's eat now{\r\fnSimHei\fs10\b0}
+
+509
+00:42:56,440 --> 00:42:57,395
+{\fnSimHei\fs10\b0}唔驶客气啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Thanks{\r\fnSimHei\fs10\b0}
+
+510
+00:42:58,000 --> 00:43:02,520
+{\fnSimHei\fs10\b0}这些老鼠刚刚地牢捉番， 即杀即炸，好新鲜的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've just caught and fried the mice, very fresh{\r\fnSimHei\fs10\b0}
+
+511
+00:43:02,520 --> 00:43:04,960
+{\fnSimHei\fs10\b0}我而家食龙肉都冇用啦， 阿芝点呀，冇时间啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I have no appetite at all, how is Chi now?{\r\fnSimHei\fs10\b0}
+
+512
+00:43:04,960 --> 00:43:08,157
+{\fnSimHei\fs10\b0}我下昼约了人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've an appointment this afternoon{\r\fnSimHei\fs10\b0}
+
+513
+00:43:08,880 --> 00:43:11,040
+{\fnSimHei\fs10\b0}有时间，醒了啦，你自己落去睇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Time is good, she's waken up, go and take a look{\r\fnSimHei\fs10\b0}
+
+514
+00:43:11,040 --> 00:43:13,679
+{\fnSimHei\fs10\b0}系
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes{\r\fnSimHei\fs10\b0}
+
+515
+00:43:29,680 --> 00:43:31,238
+{\fnSimHei\fs10\b0}刚刚好
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Time is good{\r\fnSimHei\fs10\b0}
+
+516
+00:43:45,120 --> 00:43:48,954
+{\fnSimHei\fs10\b0}喂，老头，我媪蒙你好耐啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, I've looked for you for a long time{\r\fnSimHei\fs10\b0}
+
+517
+00:43:50,680 --> 00:43:52,033
+{\fnSimHei\fs10\b0}点呀，间屋卖唔卖呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you going to see the house or not?{\r\fnSimHei\fs10\b0}
+
+518
+00:43:53,480 --> 00:43:56,480
+{\fnSimHei\fs10\b0}喂，我有个好大的旅游计划进行
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I have a huge project to start here{\r\fnSimHei\fs10\b0}
+
+519
+00:43:56,480 --> 00:43:58,391
+{\fnSimHei\fs10\b0}而家你咁样阻住个地球转
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But you're hindering it like this{\r\fnSimHei\fs10\b0}
+
+520
+00:43:59,720 --> 00:44:04,000
+{\fnSimHei\fs10\b0}喂，当我俾面你啦， 你到底要几多钱先肯卖
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, how much will you take to sell it?{\r\fnSimHei\fs10\b0}
+
+521
+00:44:04,000 --> 00:44:06,639
+{\fnSimHei\fs10\b0}我唔等钱驶
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't need money{\r\fnSimHei\fs10\b0}
+
+522
+00:44:07,760 --> 00:44:11,720
+{\fnSimHei\fs10\b0}喂.我而家俾到一千蚊你咼， 你仲唔满足
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey... l'm already offering you $1000, you're still not satisfied?{\r\fnSimHei\fs10\b0}
+
+523
+00:44:11,720 --> 00:44:13,120
+{\fnSimHei\fs10\b0}你唔理我嘛，到时我节断 硒你的水电
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Soon I'll cut off your water and power supply{\r\fnSimHei\fs10\b0}
+
+524
+00:44:13,120 --> 00:44:15,960
+{\fnSimHei\fs10\b0}周围围硒墙，睇你点样生活
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And set up walls around, I'll see how you live on{\r\fnSimHei\fs10\b0}
+
+525
+00:44:15,960 --> 00:44:20,476
+{\fnSimHei\fs10\b0}到时你呃我，我都唔比你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Then I won't pay you a dollar even if you beg me{\r\fnSimHei\fs10\b0}
+
+526
+00:44:23,520 --> 00:44:24,880
+{\fnSimHei\fs10\b0}你有病呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you sick?{\r\fnSimHei\fs10\b0}
+
+527
+00:44:24,880 --> 00:44:25,040
+{\fnSimHei\fs10\b0}你讲咩呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What do you mean?{\r\fnSimHei\fs10\b0}
+
+528
+00:44:25,040 --> 00:44:28,680
+{\fnSimHei\fs10\b0}你六神无主，印堂发黑
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You look bad{\r\fnSimHei\fs10\b0}
+
+529
+00:44:28,680 --> 00:44:33,320
+{\fnSimHei\fs10\b0}如果唔系有病，就一定系 煞星缠身，你小心点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}If you're not sick, then you run into devil, watch out!{\r\fnSimHei\fs10\b0}
+
+530
+00:44:33,320 --> 00:44:36,600
+{\fnSimHei\fs10\b0}喂，老鬼，你咒我， 到时四面围硒墙呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old bag, dare you curse me? When walls are set{\r\fnSimHei\fs10\b0}
+
+531
+00:44:36,600 --> 00:44:40,434
+{\fnSimHei\fs10\b0}你唔慌唔煞星缠身呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll see if you're running into devil?{\r\fnSimHei\fs10\b0}
+
+532
+00:45:04,480 --> 00:45:07,870
+{\fnSimHei\fs10\b0}翁Sir，欢迎.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Officer Yung, welcome...{\r\fnSimHei\fs10\b0}
+
+533
+00:45:19,080 --> 00:45:22,038
+
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Cheers -Cheers
+Cheers! D! D! D{\r}
+
+534
+00:45:24,560 --> 00:45:27,552
+{\fnSimHei\fs10\b0}食吧.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's eat...{\r\fnSimHei\fs10\b0}
+
+535
+00:45:35,240 --> 00:45:39,870
+{\fnSimHei\fs10\b0}Sorry，我有个长途电话要打
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sorry, I must make a long distant call{\r\fnSimHei\fs10\b0}
+
+536
+00:45:40,560 --> 00:45:43,393
+{\fnSimHei\fs10\b0}好好地服侍人，乖乖地
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Serve the officer well, be good{\r\fnSimHei\fs10\b0}
+
+537
+00:45:52,440 --> 00:45:56,069
+{\fnSimHei\fs10\b0}我们饮杯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Cheers{\r\fnSimHei\fs10\b0}
+
+538
+00:46:46,240 --> 00:46:49,152
+{\fnSimHei\fs10\b0}我次次玩女人都唔使钱， 自动有人送上门的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I needn't pay when I fool with women, they come by themselves{\r\fnSimHei\fs10\b0}
+
+539
+00:48:11,560 --> 00:48:16,560
+{\fnSimHei\fs10\b0}喂.今晚咩环境，禽晚 我已经吊了他们成晚瘾
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey... what about tonight? We did hand them around last night{\r\fnSimHei\fs10\b0}
+
+540
+00:48:16,560 --> 00:48:19,480
+{\fnSimHei\fs10\b0}仲使讲，今晚梗系自由发挥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You can do whatever you want tonight of course{\r\fnSimHei\fs10\b0}
+
+541
+00:48:19,480 --> 00:48:20,600
+{\fnSimHei\fs10\b0}早就知你姣婆守唔到寡
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I know you will flirt early{\r\fnSimHei\fs10\b0}
+
+542
+00:48:20,600 --> 00:48:22,272
+{\fnSimHei\fs10\b0}彼此.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You the same...{\r\fnSimHei\fs10\b0}
+
+543
+00:48:23,560 --> 00:48:24,310
+{\fnSimHei\fs10\b0}食得未呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is it ready?{\r\fnSimHei\fs10\b0}
+
+544
+00:48:25,480 --> 00:48:26,071
+{\fnSimHei\fs10\b0}点呀，十二食得未呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How is it? Sup Yi, is it cooked?{\r\fnSimHei\fs10\b0}
+
+545
+00:48:27,880 --> 00:48:29,000
+{\fnSimHei\fs10\b0}墨鱼丸好正的，你睇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The squid balls smell good, look...{\r\fnSimHei\fs10\b0}
+
+546
+00:48:29,000 --> 00:48:31,389
+{\fnSimHei\fs10\b0}好香呀，仲有香肠
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tasty, there're sausages too{\r\fnSimHei\fs10\b0}
+
+547
+00:48:31,680 --> 00:48:32,440
+{\fnSimHei\fs10\b0}烧靓点咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Make it good{\r\fnSimHei\fs10\b0}
+
+548
+00:48:32,440 --> 00:48:34,078
+{\fnSimHei\fs10\b0}净系识得烧肠仔你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You know nothing but sausages{\r\fnSimHei\fs10\b0}
+
+549
+00:48:34,560 --> 00:48:35,754
+{\fnSimHei\fs10\b0}唔准烧呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Stop it...{\r\fnSimHei\fs10\b0}
+
+550
+00:48:36,080 --> 00:48:37,000
+{\fnSimHei\fs10\b0}做咩呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What do you mean?{\r\fnSimHei\fs10\b0}
+
+551
+00:48:37,000 --> 00:48:39,673
+{\fnSimHei\fs10\b0}我几时至可以扌卜的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}When can I make love?{\r\fnSimHei\fs10\b0}
+
+552
+00:48:40,240 --> 00:48:42,549
+{\fnSimHei\fs10\b0}得，弄得我开心，咪比你扌卜啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure, as long as you make me happy{\r\fnSimHei\fs10\b0}
+
+553
+00:48:42,760 --> 00:48:44,160
+{\fnSimHei\fs10\b0}系啰，弄人先至有的扌卜
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes, you must first make her happy{\r\fnSimHei\fs10\b0}
+
+554
+00:48:44,160 --> 00:48:45,120
+{\fnSimHei\fs10\b0}小妖讲古仔比我听呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf, tell us a story{\r\fnSimHei\fs10\b0}
+
+555
+00:48:45,120 --> 00:48:46,640
+{\fnSimHei\fs10\b0}成日讲话你都唔听
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But you won't listen{\r\fnSimHei\fs10\b0}
+
+556
+00:48:46,640 --> 00:48:47,480
+{\fnSimHei\fs10\b0}讲古仔我们听啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tell us a story{\r\fnSimHei\fs10\b0}
+
+557
+00:48:47,480 --> 00:48:48,320
+{\fnSimHei\fs10\b0}大众福利嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is for our good{\r\fnSimHei\fs10\b0}
+
+558
+00:48:48,320 --> 00:48:49,360
+{\fnSimHei\fs10\b0}讲啦.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I'll tell you stories...{\r\fnSimHei\fs10\b0}
+
+559
+00:48:49,360 --> 00:48:50,680
+{\fnSimHei\fs10\b0}好啦，听住呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, listen{\r\fnSimHei\fs10\b0}
+
+560
+00:48:50,680 --> 00:48:53,480
+{\fnSimHei\fs10\b0}从前呢，有个好靓的女人
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Long ago, there was a pretty woman{\r\fnSimHei\fs10\b0}
+
+561
+00:48:53,480 --> 00:48:57,600
+{\fnSimHei\fs10\b0}身材好惹火的咼，魔鬼身材， 天使面孑刀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}With good figures and face{\r\fnSimHei\fs10\b0}
+
+562
+00:48:57,600 --> 00:49:00,640
+{\fnSimHei\fs10\b0}但系男人同俥做完呢，就冇了下便
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But men would lose his dick once making love with her{\r\fnSimHei\fs10\b0}
+
+563
+00:49:00,640 --> 00:49:03,120
+{\fnSimHei\fs10\b0}点解呢，跟住有两兄弟， 个细佬话比阿哥听
+Why? There were two brothers, the younger said：
+
+564
+00:49:03,120 --> 00:49:07,400
+{\fnSimHei\fs10\b0}有个好靓的女人， 同俥做完就冇了下便
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There's a pretty woman, but one will lose his dick after making love with her{\r\fnSimHei\fs10\b0}
+
+565
+00:49:07,400 --> 00:49:10,800
+{\fnSimHei\fs10\b0}个阿哥唔信，好今晚一于试试先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}His brother didn't believe, and tried one night{\r\fnSimHei\fs10\b0}
+
+566
+00:49:10,800 --> 00:49:12,040
+{\fnSimHei\fs10\b0}到了第二朝，个细佬问阿哥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The next day, the younger asked his brother{\r\fnSimHei\fs10\b0}
+
+567
+00:49:12,040 --> 00:49:14,240
+{\fnSimHei\fs10\b0}阿哥.仲系咪度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Brother... is it still there?{\r\fnSimHei\fs10\b0}
+
+568
+00:49:14,240 --> 00:49:17,280
+{\fnSimHei\fs10\b0}俥阿哥唔出声，个细佬觉得奇怪
+{\fnSimHei\fs8\1c&H80FFFF&\b0}His brother remained silent, his brother felt strange{\r\fnSimHei\fs10\b0}
+
+569
+00:49:17,280 --> 00:49:19,160
+{\fnSimHei\fs10\b0}再追问阿哥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And kept asking him{\r\fnSimHei\fs10\b0}
+
+570
+00:49:19,160 --> 00:49:21,680
+{\fnSimHei\fs10\b0}阿哥.仲系咪度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Brother... is it still there?{\r\fnSimHei\fs10\b0}
+
+571
+00:49:21,680 --> 00:49:24,480
+{\fnSimHei\fs10\b0}终于呢，俥知道点解阿哥唔答俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}At last, he learnt why his brother remained silent{\r\fnSimHei\fs10\b0}
+
+572
+00:49:24,480 --> 00:49:28,393
+{\fnSimHei\fs10\b0}原来俥阿哥，冇了舌头呀嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}His brother lost his tongue{\r\fnSimHei\fs10\b0}
+
+573
+00:49:28,680 --> 00:49:30,240
+{\fnSimHei\fs10\b0}你做乜？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing?{\r\fnSimHei\fs10\b0}
+
+574
+00:49:30,240 --> 00:49:33,391
+{\fnSimHei\fs10\b0}熟啦，趁热食啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's cooked, eat it{\r\fnSimHei\fs10\b0}
+
+575
+00:49:34,240 --> 00:49:36,400
+{\fnSimHei\fs10\b0}我讲古仔你食条肠
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You eat sausages while I'm telling a story?{\r\fnSimHei\fs10\b0}
+
+576
+00:49:36,400 --> 00:49:38,709
+{\fnSimHei\fs10\b0}好彩唔系我那条
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's lucky not my dick!{\r\fnSimHei\fs10\b0}
+
+577
+00:49:40,280 --> 00:49:42,320
+{\fnSimHei\fs10\b0}咁贱，打到你冇得用呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Shit, I must make you impotent{\r\fnSimHei\fs10\b0}
+
+578
+00:49:42,320 --> 00:49:42,680
+{\fnSimHei\fs10\b0}救命.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help...{\r\fnSimHei\fs10\b0}
+
+579
+00:49:42,680 --> 00:49:45,353
+{\fnSimHei\fs10\b0}唔好打呀，我今晚仲要用个咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't beat it, I need it tonight{\r\fnSimHei\fs10\b0}
+
+580
+00:49:45,560 --> 00:49:47,710
+{\fnSimHei\fs10\b0}Michelle放我.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Michelle, let him...{\r\fnSimHei\fs10\b0}
+
+581
+00:50:25,880 --> 00:50:27,000
+{\fnSimHei\fs10\b0}从前呢，就有两只跳蚤
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Long ago, there were two fleas{\r\fnSimHei\fs10\b0}
+
+582
+00:50:27,000 --> 00:50:31,560
+{\fnSimHei\fs10\b0}一只跳蚤呢住在女人的上便
+{\fnSimHei\fs8\1c&H80FFFF&\b0}One living on upper part of a woman{\r\fnSimHei\fs10\b0}
+
+583
+00:50:31,560 --> 00:50:32,549
+{\fnSimHei\fs10\b0}一只呢，就住在下便
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The other at the bottom part{\r\fnSimHei\fs10\b0}
+
+584
+00:50:32,840 --> 00:50:36,276
+{\fnSimHei\fs10\b0}咁有一日呢两只出来散步， 在肚脐窿相遇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}One day they both went for a stroll, and met on the navel{\r\fnSimHei\fs10\b0}
+
+585
+00:50:37,480 --> 00:50:40,640
+{\fnSimHei\fs10\b0}咁下便那只呢就问上便那只啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The one down there asked the one on the upper part{\r\fnSimHei\fs10\b0}
+
+586
+00:50:40,640 --> 00:50:41,675
+{\fnSimHei\fs10\b0}喂，你上便点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, how is it up there?{\r\fnSimHei\fs10\b0}
+
+587
+00:50:41,720 --> 00:50:45,760
+{\fnSimHei\fs10\b0}几好呀，不过就冻了少少， 你呢，你下便点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Quite good, but a bit cold, what about down there?{\r\fnSimHei\fs10\b0}
+
+588
+00:50:45,760 --> 00:50:47,280
+{\fnSimHei\fs10\b0}几好呀，不过就爠？少少
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Quite good, but a bit choky{\r\fnSimHei\fs10\b0}
+
+589
+00:50:47,280 --> 00:50:50,360
+{\fnSimHei\fs10\b0}不如咁啦，我们今晚掉转来睡， 好唔好
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why don't we change our position tonight?{\r\fnSimHei\fs10\b0}
+
+590
+00:50:50,360 --> 00:50:51,640
+{\fnSimHei\fs10\b0}好.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sure...{\r\fnSimHei\fs10\b0}
+
+591
+00:50:51,640 --> 00:50:56,480
+{\fnSimHei\fs10\b0}跟住呢，过了一晚之后， 第二朝早在肚脐窿度见面咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And they met again the next morning on the navel{\r\fnSimHei\fs10\b0}
+
+592
+00:50:56,480 --> 00:50:58,800
+{\fnSimHei\fs10\b0}喂，你上便睡成点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How was the high up there?{\r\fnSimHei\fs10\b0}
+
+593
+00:50:58,800 --> 00:51:03,680
+{\fnSimHei\fs10\b0}冇呀，唔知点解， 突然间有东西拍下拍下
+{\fnSimHei\fs8\1c&H80FFFF&\b0}While I was sleeping, something kept tapping{\r\fnSimHei\fs10\b0}
+
+594
+00:51:03,680 --> 00:51:04,760
+{\fnSimHei\fs10\b0}好似见到我咁咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It seemed to see me{\r\fnSimHei\fs10\b0}
+
+595
+00:51:04,760 --> 00:51:08,120
+{\fnSimHei\fs10\b0}俥仲系咁拍，系咁拍， 避迟点呀都比俥拍死呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It still kept tapping, and I kept jumping{\r\fnSimHei\fs10\b0}
+
+596
+00:51:08,120 --> 00:51:09,760
+{\fnSimHei\fs10\b0}喂，你下便睡成点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And what about down there?{\r\fnSimHei\fs10\b0}
+
+597
+00:51:09,760 --> 00:51:13,560
+{\fnSimHei\fs10\b0}我仲大镬呀，突然间有条大蛇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's even worse, while I was sleeping, there came big snake{\r\fnSimHei\fs10\b0}
+
+598
+00:51:13,560 --> 00:51:16,472
+{\fnSimHei\fs10\b0}爬了进来，系咁追.追住我呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The snake climbed in and chased... me!{\r\fnSimHei\fs10\b0}
+
+599
+00:51:18,240 --> 00:51:20,629
+{\fnSimHei\fs10\b0}还吐口水呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}And then it spit at me!{\r\fnSimHei\fs10\b0}
+
+600
+00:51:21,480 --> 00:51:22,117
+{\fnSimHei\fs10\b0}什么是吐口水呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What does spit mean?{\r\fnSimHei\fs10\b0}
+
+601
+00:51:23,400 --> 00:51:23,991
+{\fnSimHei\fs10\b0}什么是吐口水呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Who does spit mean?{\r\fnSimHei\fs10\b0}
+
+602
+00:51:24,320 --> 00:51:28,757
+{\fnSimHei\fs10\b0}吐口水都唔识，等我试比你睇啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't you know? I'll show you{\r\fnSimHei\fs10\b0}
+
+603
+00:51:29,440 --> 00:51:32,200
+{\fnSimHei\fs10\b0}你好衰的，整蛊我，唔睬你呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Damn you! You fool me?{\r\fnSimHei\fs10\b0}
+
+604
+00:51:32,200 --> 00:51:33,553
+{\fnSimHei\fs10\b0}我去吐口水先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll go and spit now{\r\fnSimHei\fs10\b0}
+
+605
+00:51:35,680 --> 00:51:36,476
+{\fnSimHei\fs10\b0}咪走呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't go{\r\fnSimHei\fs10\b0}
+
+606
+00:51:37,520 --> 00:51:38,236
+{\fnSimHei\fs10\b0}唔好跟住呀，唔睬你呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't follow me{\r\fnSimHei\fs10\b0}
+
+607
+00:51:40,160 --> 00:51:41,991
+{\fnSimHei\fs10\b0}我们过那边呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go there{\r\fnSimHei\fs10\b0}
+
+608
+00:52:20,480 --> 00:52:22,360
+{\fnSimHei\fs10\b0}喂，你有冇带避弹衣呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Have you taken condom with you?{\r\fnSimHei\fs10\b0}
+
+609
+00:52:22,360 --> 00:52:23,759
+{\fnSimHei\fs10\b0}我从来都唔用个咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I never use it{\r\fnSimHei\fs10\b0}
+
+610
+00:52:23,880 --> 00:52:25,518
+{\fnSimHei\fs10\b0}早知你系咁的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I know it{\r\fnSimHei\fs10\b0}
+
+611
+00:52:26,760 --> 00:52:28,557
+{\fnSimHei\fs10\b0}唔系呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why?{\r\fnSimHei\fs10\b0}
+
+612
+00:52:34,200 --> 00:52:38,239
+{\fnSimHei\fs10\b0}做咩呀，有冇搞错呀咁都跌得
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why, you let it drop?{\r\fnSimHei\fs10\b0}
+
+613
+00:52:38,440 --> 00:52:39,280
+{\fnSimHei\fs10\b0}仲有冇士啤呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is there another one?{\r\fnSimHei\fs10\b0}
+
+614
+00:52:39,280 --> 00:52:40,440
+{\fnSimHei\fs10\b0}冇呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No!{\r\fnSimHei\fs10\b0}
+
+615
+00:52:40,440 --> 00:52:42,120
+{\fnSimHei\fs10\b0}去洗啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go wash it{\r\fnSimHei\fs10\b0}
+
+616
+00:52:42,120 --> 00:52:43,200
+{\fnSimHei\fs10\b0}用咸水呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}With sea water?{\r\fnSimHei\fs10\b0}
+
+617
+00:52:43,200 --> 00:52:45,191
+{\fnSimHei\fs10\b0}唔系点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Of course{\r\fnSimHei\fs10\b0}
+
+618
+00:52:46,360 --> 00:52:48,635
+{\fnSimHei\fs10\b0}快点啦，等紧你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Quick, I'm waiting{\r\fnSimHei\fs10\b0}
+
+619
+00:52:48,800 --> 00:52:49,835
+{\fnSimHei\fs10\b0}得啦.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK...{\r\fnSimHei\fs10\b0}
+
+620
+00:52:52,400 --> 00:52:54,038
+{\fnSimHei\fs10\b0}除埋条裤至得的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You must take off the trousers too{\r\fnSimHei\fs10\b0}
+
+621
+00:52:55,720 --> 00:52:57,320
+{\fnSimHei\fs10\b0}喂得未呀，咁耐？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is it done? Why so long?{\r\fnSimHei\fs10\b0}
+
+622
+00:52:57,320 --> 00:52:58,389
+{\fnSimHei\fs10\b0}得啦，我急到赖呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I must piss{\r\fnSimHei\fs10\b0}
+
+623
+00:52:59,000 --> 00:53:01,514
+{\fnSimHei\fs10\b0}得啦.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Coming...{\r\fnSimHei\fs10\b0}
+
+624
+00:53:08,600 --> 00:53:10,480
+{\fnSimHei\fs10\b0}喂，你估他们去哪边呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where have they gone?{\r\fnSimHei\fs10\b0}
+
+625
+00:53:10,480 --> 00:53:12,880
+{\fnSimHei\fs10\b0}仲驶问？，梗系去了吐口水啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}To spit, of course{\r\fnSimHei\fs10\b0}
+
+626
+00:53:12,880 --> 00:53:16,190
+{\fnSimHei\fs10\b0}你估我吗？对住你眼光光
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Only I am as nut as to stare at you{\r\fnSimHei\fs10\b0}
+
+627
+00:53:19,400 --> 00:53:22,400
+{\fnSimHei\fs10\b0}小妖头先讲的故仔好核突呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The story Elf told was disgusting{\r\fnSimHei\fs10\b0}
+
+628
+00:53:22,400 --> 00:53:26,678
+{\fnSimHei\fs10\b0}唔系吧，睇你头先眼定定， 听到入硒神咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, you were deeply interested in it{\r\fnSimHei\fs10\b0}
+
+629
+00:53:28,480 --> 00:53:31,760
+{\fnSimHei\fs10\b0}喂，女仔唔食烟，未必唔系处女
+{\fnSimHei\fs8\1c&H80FFFF&\b0}A girl who doesn't smoke might be a virgin{\r\fnSimHei\fs10\b0}
+
+630
+00:53:31,760 --> 00:53:33,800
+{\fnSimHei\fs10\b0}女仔食烟，一定唔系处女
+{\fnSimHei\fs8\1c&H80FFFF&\b0}But a girl who smokes can't be virgin{\r\fnSimHei\fs10\b0}
+
+631
+00:53:33,800 --> 00:53:35,800
+{\fnSimHei\fs10\b0}都冇科学根据的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's not scientific at all{\r\fnSimHei\fs10\b0}
+
+632
+00:53:35,800 --> 00:53:37,552
+{\fnSimHei\fs10\b0}咁你系唔系处女？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you a virgin?{\r\fnSimHei\fs10\b0}
+
+633
+00:53:37,760 --> 00:53:40,149
+{\fnSimHei\fs10\b0}有冇搅错呀，乞人憎到死， 唔睬你呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're lousy, I won't talk to you{\r\fnSimHei\fs10\b0}
+
+634
+00:53:41,640 --> 00:53:44,200
+{\fnSimHei\fs10\b0}睇你走去边
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where can you go?{\r\fnSimHei\fs10\b0}
+
+635
+00:53:45,560 --> 00:53:46,080
+{\fnSimHei\fs10\b0}仲走
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't go{\r\fnSimHei\fs10\b0}
+
+636
+00:53:46,080 --> 00:53:47,559
+{\fnSimHei\fs10\b0}好衰的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're bad{\r\fnSimHei\fs10\b0}
+
+637
+00:53:54,000 --> 00:53:56,600
+{\fnSimHei\fs10\b0}乜你咁衰的，将舌头伸进来？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why are you so rough as to put your tongue in?{\r\fnSimHei\fs10\b0}
+
+638
+00:53:56,600 --> 00:53:58,272
+{\fnSimHei\fs10\b0}咁先至好玩嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is real fun{\r\fnSimHei\fs10\b0}
+
+639
+00:54:35,760 --> 00:54:38,433
+{\fnSimHei\fs10\b0}十二呀，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, what happens to you?{\r\fnSimHei\fs10\b0}
+
+640
+00:54:38,720 --> 00:54:40,711
+{\fnSimHei\fs10\b0}十二.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi...{\r\fnSimHei\fs10\b0}
+
+641
+00:54:49,080 --> 00:54:53,596
+{\fnSimHei\fs10\b0}十二呀.你唔好玩啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi... stop fooling{\r\fnSimHei\fs10\b0}
+
+642
+00:55:00,040 --> 00:55:06,593
+{\fnSimHei\fs10\b0}十二呀你做咩溝呀， 唔好吓我呀，唔好再玩啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, don't scare me, don't play anymore{\r\fnSimHei\fs10\b0}
+
+643
+00:55:16,800 --> 00:55:21,480
+{\fnSimHei\fs10\b0}十二呀请俥走啦，请俥走快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, ask it away, ask it away{\r\fnSimHei\fs10\b0}
+
+644
+00:55:21,480 --> 00:55:25,519
+{\fnSimHei\fs10\b0}十二唔好玩啦，十二
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, don't play on{\r\fnSimHei\fs10\b0}
+
+645
+00:55:28,600 --> 00:55:32,593
+{\fnSimHei\fs10\b0}十二呀.唔好啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, no, don't!{\r\fnSimHei\fs10\b0}
+
+646
+00:55:33,640 --> 00:55:36,950
+{\fnSimHei\fs10\b0}阿东，小妖，救命呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tung, Elf, help{\r\fnSimHei\fs10\b0}
+
+647
+00:55:47,400 --> 00:55:48,800
+{\fnSimHei\fs10\b0}小妖
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf{\r\fnSimHei\fs10\b0}
+
+648
+00:55:48,800 --> 00:55:49,596
+{\fnSimHei\fs10\b0}你做咩呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing?{\r\fnSimHei\fs10\b0}
+
+649
+00:55:49,840 --> 00:55:50,440
+{\fnSimHei\fs10\b0}咩事呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What is it?{\r\fnSimHei\fs10\b0}
+
+650
+00:55:50,440 --> 00:55:52,078
+{\fnSimHei\fs10\b0}快点起身啦，救命呀， 十二癫了呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get up and help Sup Yi, he's gone crazy{\r\fnSimHei\fs10\b0}
+
+651
+00:55:52,840 --> 00:55:53,670
+{\fnSimHei\fs10\b0}点会咁的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How come?{\r\fnSimHei\fs10\b0}
+
+652
+00:55:53,880 --> 00:55:53,960
+{\fnSimHei\fs10\b0}我唔知呀，快去救俥，他快死啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't know, help him! He's dying{\r\fnSimHei\fs10\b0}
+
+653
+00:55:53,960 --> 00:55:56,600
+{\fnSimHei\fs10\b0}我得张席咋，等我拿番些衫先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I only have a mat, I must get my clothes first{\r\fnSimHei\fs10\b0}
+
+654
+00:55:56,600 --> 00:55:58,079
+{\fnSimHei\fs10\b0}快点啦，小妖，十二俥癫？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick, Elf, Sup Yi is mad{\r\fnSimHei\fs10\b0}
+
+655
+00:55:58,280 --> 00:55:59,030
+{\fnSimHei\fs10\b0}快点救俥呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go and help him{\r\fnSimHei\fs10\b0}
+
+656
+00:56:02,520 --> 00:56:03,475
+{\fnSimHei\fs10\b0}你真系冇鬼用的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're useless{\r\fnSimHei\fs10\b0}
+
+657
+00:56:04,600 --> 00:56:06,113
+{\fnSimHei\fs10\b0}而家先至整亲
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You injured at this moment?{\r\fnSimHei\fs10\b0}
+
+658
+00:56:06,600 --> 00:56:07,640
+{\fnSimHei\fs10\b0}激死人啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's lousy{\r\fnSimHei\fs10\b0}
+
+659
+00:56:07,640 --> 00:56:09,560
+{\fnSimHei\fs10\b0}救命呀，十二有事，快点救俥呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help! Something is happening to Elf, help him{\r\fnSimHei\fs10\b0}
+
+660
+00:56:09,560 --> 00:56:12,791
+{\fnSimHei\fs10\b0}喂，十二有事，去睇俥啦，行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Something happens to Elf, go and take a look{\r\fnSimHei\fs10\b0}
+
+661
+00:56:23,120 --> 00:56:25,080
+{\fnSimHei\fs10\b0}十二，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, how are you?{\r\fnSimHei\fs10\b0}
+
+662
+00:56:25,080 --> 00:56:27,600
+{\fnSimHei\fs10\b0}快点帮手
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and help{\r\fnSimHei\fs10\b0}
+
+663
+00:56:27,600 --> 00:56:28,749
+{\fnSimHei\fs10\b0}捉实俥呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hold him tight{\r\fnSimHei\fs10\b0}
+
+664
+00:56:29,440 --> 00:56:30,760
+{\fnSimHei\fs10\b0}十二
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi{\r\fnSimHei\fs10\b0}
+
+665
+00:56:30,760 --> 00:56:32,193
+{\fnSimHei\fs10\b0}十二呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi{\r\fnSimHei\fs10\b0}
+
+666
+00:56:33,600 --> 00:56:35,158
+{\fnSimHei\fs10\b0}十二你做乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What's happened to Sup Yi?{\r\fnSimHei\fs10\b0}
+
+667
+00:56:43,040 --> 00:56:44,720
+{\fnSimHei\fs10\b0}你去边度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where are you?{\r\fnSimHei\fs10\b0}
+
+668
+00:56:44,720 --> 00:56:46,073
+{\fnSimHei\fs10\b0}快点走呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go away{\r\fnSimHei\fs10\b0}
+
+669
+00:56:50,680 --> 00:56:52,480
+{\fnSimHei\fs10\b0}好大力呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Very strong{\r\fnSimHei\fs10\b0}
+
+670
+00:56:52,480 --> 00:56:54,630
+{\fnSimHei\fs10\b0}十二.你唔好咁呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi... don't be like this{\r\fnSimHei\fs10\b0}
+
+671
+00:56:54,880 --> 00:56:55,720
+{\fnSimHei\fs10\b0}冇计
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No way{\r\fnSimHei\fs10\b0}
+
+672
+00:56:55,720 --> 00:56:57,233
+{\fnSimHei\fs10\b0}媪石头扌卜俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Strike him with a stone{\r\fnSimHei\fs10\b0}
+
+673
+00:56:57,640 --> 00:57:01,640
+{\fnSimHei\fs10\b0}唔好呀.你唔好扌卜俥， 你会扌卜死俥的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No... you will kill him this way You must figure it out if not!{\r\fnSimHei\fs10\b0}
+
+674
+00:57:01,640 --> 00:57:02,800
+{\fnSimHei\fs10\b0}点呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What to do?{\r\fnSimHei\fs10\b0}
+
+675
+00:57:02,800 --> 00:57:05,268
+{\fnSimHei\fs10\b0}快点念过第二个办法啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Think of another way now{\r\fnSimHei\fs10\b0}
+
+676
+00:57:05,480 --> 00:57:06,720
+{\fnSimHei\fs10\b0}放低丨日石先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Put down the stone first{\r\fnSimHei\fs10\b0}
+
+677
+00:57:06,720 --> 00:57:07,720
+{\fnSimHei\fs10\b0}你念唔念到呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Have you any idea?{\r\fnSimHei\fs10\b0}
+
+678
+00:57:07,720 --> 00:57:09,312
+{\fnSimHei\fs10\b0}唔好嘈呀，扌匕起俥先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't shout! Tie him up first{\r\fnSimHei\fs10\b0}
+
+679
+00:57:09,800 --> 00:57:11,711
+{\fnSimHei\fs10\b0}快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+680
+00:57:18,560 --> 00:57:19,709
+{\fnSimHei\fs10\b0}放边呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where shall we lay him?{\r\fnSimHei\fs10\b0}
+
+681
+00:57:20,480 --> 00:57:22,755
+{\fnSimHei\fs10\b0}唔好问咁多， 拖埋棵树度扌匕住俥先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Drag him to the tree and tie him{\r\fnSimHei\fs10\b0}
+
+682
+00:57:32,000 --> 00:57:34,719
+{\fnSimHei\fs10\b0}捉住俥呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Catch him{\r\fnSimHei\fs10\b0}
+
+683
+00:57:43,080 --> 00:57:45,560
+{\fnSimHei\fs10\b0}十二，你点呀，十二，你冇事嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, don't be like this{\r\fnSimHei\fs10\b0}
+
+684
+00:57:45,560 --> 00:57:47,755
+{\fnSimHei\fs10\b0}十二，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, how are you?{\r\fnSimHei\fs10\b0}
+
+685
+00:57:49,320 --> 00:57:52,680
+{\fnSimHei\fs10\b0}做咩，做咩咁的，咩事呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why, what's on?{\r\fnSimHei\fs10\b0}
+
+686
+00:57:52,680 --> 00:57:54,560
+{\fnSimHei\fs10\b0}那便呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Over there{\r\fnSimHei\fs10\b0}
+
+687
+00:57:54,560 --> 00:57:57,950
+{\fnSimHei\fs10\b0}Wancy你点呀.冇事呀嘛？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wancy, how are you? Are you OK?{\r\fnSimHei\fs10\b0}
+
+688
+00:57:58,400 --> 00:57:59,120
+{\fnSimHei\fs10\b0}仲讲乜废话，惗计啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't bullshit, let's think of a way{\r\fnSimHei\fs10\b0}
+
+689
+00:57:59,120 --> 00:58:02,192
+{\fnSimHei\fs10\b0}你们嘈小阵得唔得的， 而家点算呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Can you keep quiet? What to do now...{\r\fnSimHei\fs10\b0}
+
+690
+00:58:02,960 --> 00:58:05,560
+{\fnSimHei\fs10\b0}那便有间大屋的，我们扶俥埋去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There's a house over there, let's help him there{\r\fnSimHei\fs10\b0}
+
+691
+00:58:05,560 --> 00:58:06,993
+{\fnSimHei\fs10\b0}好，快
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, be quick{\r\fnSimHei\fs10\b0}
+
+692
+00:58:20,760 --> 00:58:22,159
+{\fnSimHei\fs10\b0}快啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+693
+00:59:39,200 --> 00:59:41,960
+{\fnSimHei\fs10\b0}磨.磨俥两下
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Rub... rub it more{\r\fnSimHei\fs10\b0}
+
+694
+00:59:41,960 --> 00:59:46,476
+{\fnSimHei\fs10\b0}撬.定
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hard...{\r\fnSimHei\fs10\b0}
+
+695
+00:59:47,960 --> 00:59:52,670
+{\fnSimHei\fs10\b0}邓.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tang...{\r\fnSimHei\fs10\b0}
+
+696
+00:59:54,320 --> 00:59:56,720
+{\fnSimHei\fs10\b0}西.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sai...{\r\fnSimHei\fs10\b0}
+
+697
+00:59:56,720 --> 00:59:58,880
+{\fnSimHei\fs10\b0}顶.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ting...{\r\fnSimHei\fs10\b0}
+
+698
+00:59:58,880 --> 01:00:00,313
+{\fnSimHei\fs10\b0}两脚一伸
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Straight legs{\r\fnSimHei\fs10\b0}
+
+699
+01:00:02,960 --> 01:00:06,669
+{\fnSimHei\fs10\b0}我也不能搞定，你能？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's fixed! I can't bear but you can Let's drink!{\r\fnSimHei\fs10\b0}
+
+700
+01:00:07,160 --> 01:00:09,958
+{\fnSimHei\fs10\b0}饮番杯，块地卒之搅掂，Cheer
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The land problem is fixed, cheers{\r\fnSimHei\fs10\b0}
+
+701
+01:00:14,680 --> 01:00:17,440
+{\fnSimHei\fs10\b0}冇问题.我会尽快带买家 上来写字楼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No problem... I'll bring buyers to your office{\r\fnSimHei\fs10\b0}
+
+702
+01:00:17,440 --> 01:00:21,440
+{\fnSimHei\fs10\b0}你知啦，大陆人下来了好 快上番去的嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You know people from China must get back shortly{\r\fnSimHei\fs10\b0}
+
+703
+01:00:21,440 --> 01:00:24,318
+{\fnSimHei\fs10\b0}你在写字楼搅掂份合约， 咁就掂啦嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Prepare the contracts and it's fine{\r\fnSimHei\fs10\b0}
+
+704
+01:00:28,160 --> 01:00:32,517
+{\fnSimHei\fs10\b0}这些见到面先再倾啦，好唔好，拜拜
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's talk when we meet, OK? Bye!{\r\fnSimHei\fs10\b0}
+
+705
+01:00:34,040 --> 01:00:37,480
+{\fnSimHei\fs10\b0}一千五百万
+{\fnSimHei\fs8\1c&H80FFFF&\b0}$15 million{\r\fnSimHei\fs10\b0}
+
+706
+01:00:37,480 --> 01:00:40,153
+{\fnSimHei\fs10\b0}呢次有得救啰
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's great for me{\r\fnSimHei\fs10\b0}
+
+707
+01:01:02,480 --> 01:01:03,959
+{\fnSimHei\fs10\b0}何方妖孽？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What devil are you?{\r\fnSimHei\fs10\b0}
+
+708
+01:01:07,280 --> 01:01:11,560
+{\fnSimHei\fs10\b0}你知唔知我系边个， 我尖沙嘴霞姐，你都敢有尔我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know who I am? I am Sister Ha of TST, dare you make use of me?{\r\fnSimHei\fs10\b0}
+
+709
+01:01:11,560 --> 01:01:15,394
+{\fnSimHei\fs10\b0}信唔信我一分钟之内， 媪二百几条靓，劈死你呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can call 200 men here in 1 minute and kill you{\r\fnSimHei\fs10\b0}
+
+710
+01:02:21,800 --> 01:02:22,835
+{\fnSimHei\fs10\b0}咁快搅掂的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's fixed so soon?{\r\fnSimHei\fs10\b0}
+
+711
+01:02:23,520 --> 01:02:24,880
+{\fnSimHei\fs10\b0}你同俥练下膊头，椊下脚指
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Rub his shoulders and toes{\r\fnSimHei\fs10\b0}
+
+712
+01:02:24,880 --> 01:02:27,348
+{\fnSimHei\fs10\b0}扌卜多两镬嘛，咁唔长进
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why don't you hit harder?{\r\fnSimHei\fs10\b0}
+
+713
+01:02:28,720 --> 01:02:31,760
+{\fnSimHei\fs10\b0}你知唔知我系边个， 我尖沙嘴霞姐
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know I am Sister Ha of TST{\r\fnSimHei\fs10\b0}
+
+714
+01:02:31,760 --> 01:02:32,000
+{\fnSimHei\fs10\b0}点解咁熟的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is familiar{\r\fnSimHei\fs10\b0}
+
+715
+01:02:32,000 --> 01:02:33,600
+{\fnSimHei\fs10\b0}你都敢有尔，信唔信我一分钟之内
+{\fnSimHei\fs8\1c&H80FFFF&\b0}In I minute and kill you{\r\fnSimHei\fs10\b0}
+
+716
+01:02:33,600 --> 01:02:34,680
+{\fnSimHei\fs10\b0}媪二百几条靓劈死你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Dare you make use of me? I can call 200 men{\r\fnSimHei\fs10\b0}
+
+717
+01:02:34,680 --> 01:02:37,990
+{\fnSimHei\fs10\b0}女鬼呀，鬼呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ghost...{\r\fnSimHei\fs10\b0}
+
+718
+01:02:43,320 --> 01:02:45,470
+{\fnSimHei\fs10\b0}翁Sir
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Officer Yung{\r\fnSimHei\fs10\b0}
+
+719
+01:02:47,600 --> 01:02:51,957
+{\fnSimHei\fs10\b0}鬼呀.唔好拉脚呀，救命呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ghost! Don't pull my legs, help!{\r\fnSimHei\fs10\b0}
+
+720
+01:02:53,400 --> 01:02:56,995
+{\fnSimHei\fs10\b0}我断啦.我只脚断啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's broken... my legs are torn off{\r\fnSimHei\fs10\b0}
+
+721
+01:03:00,800 --> 01:03:01,720
+{\fnSimHei\fs10\b0}比番块皮我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Give me back my skin{\r\fnSimHei\fs10\b0}
+
+722
+01:03:01,720 --> 01:03:03,520
+{\fnSimHei\fs10\b0}皮，我冇呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Skin? I don't have{\r\fnSimHei\fs10\b0}
+
+723
+01:03:03,520 --> 01:03:04,880
+{\fnSimHei\fs10\b0}仲话冇
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You said no?{\r\fnSimHei\fs10\b0}
+
+724
+01:03:04,880 --> 01:03:07,758
+{\fnSimHei\fs10\b0}有.咁十皮得唔得？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes... is $10 OK?{\r\fnSimHei\fs10\b0}
+
+725
+01:03:08,440 --> 01:03:11,000
+{\fnSimHei\fs10\b0}唔关我事的，我静系带你来呢度咋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's not my faults, I was only to bring you here{\r\fnSimHei\fs10\b0}
+
+726
+01:03:11,000 --> 01:03:14,240
+{\fnSimHei\fs10\b0}其他的俥同法师搅的咋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The other are all done by the master{\r\fnSimHei\fs10\b0}
+
+727
+01:03:14,240 --> 01:03:16,435
+{\fnSimHei\fs10\b0}你仲讲大话
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You lie!{\r\fnSimHei\fs10\b0}
+
+728
+01:03:17,600 --> 01:03:19,795
+{\fnSimHei\fs10\b0}我冇呀，我出去当天发誓都得
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't, I can swear to Heavens{\r\fnSimHei\fs10\b0}
+
+729
+01:03:20,840 --> 01:03:22,800
+{\fnSimHei\fs10\b0}救命呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help...{\r\fnSimHei\fs10\b0}
+
+730
+01:03:22,800 --> 01:03:27,430
+{\fnSimHei\fs10\b0}鬼呀，有鬼呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ghost!{\r\fnSimHei\fs10\b0}
+
+731
+01:03:27,880 --> 01:03:29,871
+{\fnSimHei\fs10\b0}睇你走得去边
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where can you go?{\r\fnSimHei\fs10\b0}
+
+732
+01:03:30,280 --> 01:03:31,998
+{\fnSimHei\fs10\b0}鬼呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ghost...{\r\fnSimHei\fs10\b0}
+
+733
+01:03:36,520 --> 01:03:39,717
+{\fnSimHei\fs10\b0}痛死我，我只脚冇咯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It hurts! My legs are gone!{\r\fnSimHei\fs10\b0}
+
+734
+01:03:40,160 --> 01:03:40,640
+{\fnSimHei\fs10\b0}小心澿呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful!{\r\fnSimHei\fs10\b0}
+
+735
+01:03:40,640 --> 01:03:42,437
+{\fnSimHei\fs10\b0}快点.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry...{\r\fnSimHei\fs10\b0}
+
+736
+01:03:42,640 --> 01:03:44,551
+{\fnSimHei\fs10\b0}扶俥去棵树那边
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help him to the tree{\r\fnSimHei\fs10\b0}
+
+737
+01:03:46,280 --> 01:03:46,360
+{\fnSimHei\fs10\b0}放低俥先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Put him down first{\r\fnSimHei\fs10\b0}
+
+738
+01:03:46,360 --> 01:03:47,952
+{\fnSimHei\fs10\b0}Wancy点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What about Wancy?{\r\fnSimHei\fs10\b0}
+
+739
+01:03:49,280 --> 01:03:50,395
+{\fnSimHei\fs10\b0}有冇药油呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is there balm?{\r\fnSimHei\fs10\b0}
+
+740
+01:03:50,520 --> 01:03:51,800
+{\fnSimHei\fs10\b0}俥醒啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She's coming round{\r\fnSimHei\fs10\b0}
+
+741
+01:03:51,800 --> 01:03:54,314
+{\fnSimHei\fs10\b0}媪块布扌匕住俥先啦，快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Find something cloth and bandage him, hurry{\r\fnSimHei\fs10\b0}
+
+742
+01:03:55,120 --> 01:03:56,997
+{\fnSimHei\fs10\b0}咁论尽，等我来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Lousy! Let me do it{\r\fnSimHei\fs10\b0}
+
+743
+01:03:58,320 --> 01:03:59,800
+{\fnSimHei\fs10\b0}好痛呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It hurts{\r\fnSimHei\fs10\b0}
+
+744
+01:03:59,800 --> 01:04:00,240
+{\fnSimHei\fs10\b0}Wancy你冇事嘛？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wancy, are you OK?{\r\fnSimHei\fs10\b0}
+
+745
+01:04:00,240 --> 01:04:01,036
+{\fnSimHei\fs10\b0}俥包成个史泰龙咁呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She looks like Stallone now{\r\fnSimHei\fs10\b0}
+
+746
+01:04:01,280 --> 01:04:02,560
+{\fnSimHei\fs10\b0}呢个时候你仲玩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't fool now{\r\fnSimHei\fs10\b0}
+
+747
+01:04:02,560 --> 01:04:03,788
+{\fnSimHei\fs10\b0}对唔住呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sorry{\r\fnSimHei\fs10\b0}
+
+748
+01:04:04,640 --> 01:04:06,631
+{\fnSimHei\fs10\b0}有人来咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Someone is coming{\r\fnSimHei\fs10\b0}
+
+749
+01:04:10,120 --> 01:04:11,473
+{\fnSimHei\fs10\b0}乜人来呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Who is it?{\r\fnSimHei\fs10\b0}
+
+750
+01:04:14,360 --> 01:04:16,316
+{\fnSimHei\fs10\b0}喂，先生。 。 。
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, mister...{\r\fnSimHei\fs10\b0}
+
+751
+01:04:16,520 --> 01:04:18,760
+{\fnSimHei\fs10\b0}我朋友撞亲个头呀， 想借电话打电话报警呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}My friend had her head injured, can we borrow the phone and call for police{\r\fnSimHei\fs10\b0}
+
+752
+01:04:18,760 --> 01:04:21,718
+{\fnSimHei\fs10\b0}先生，边度有电话，乜十问九唔应
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sir, where is there a phone?{\r\fnSimHei\fs10\b0}
+
+753
+01:04:22,080 --> 01:04:22,830
+{\fnSimHei\fs10\b0}你聋定哑呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you deaf?{\r\fnSimHei\fs10\b0}
+
+754
+01:04:23,840 --> 01:04:24,560
+{\fnSimHei\fs10\b0}喂，电话在那里呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hey, where is the phone?{\r\fnSimHei\fs10\b0}
+
+755
+01:04:24,560 --> 01:04:25,879
+{\fnSimHei\fs10\b0}那边呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Over there{\r\fnSimHei\fs10\b0}
+
+756
+01:05:08,120 --> 01:05:14,309
+{\fnSimHei\fs10\b0}细路，你咁钟意多管闲事， 我阵间至同你算账
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Kid, you like to be busy, I'll come back for you{\r\fnSimHei\fs10\b0}
+
+757
+01:05:42,840 --> 01:05:52,397
+{\fnSimHei\fs10\b0}救命呀，有鬼呀，救命呀.鬼呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help, ghost! Help! Ghost!{\r\fnSimHei\fs10\b0}
+
+758
+01:05:55,160 --> 01:05:56,878
+{\fnSimHei\fs10\b0}妈呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Jesus{\r\fnSimHei\fs10\b0}
+
+759
+01:06:05,440 --> 01:06:08,240
+{\fnSimHei\fs10\b0}阿姐，唔关我事的，你唔好杀我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's nothing to do with me, don't kill me{\r\fnSimHei\fs10\b0}
+
+760
+01:06:08,240 --> 01:06:11,120
+{\fnSimHei\fs10\b0}我唔知个马拉法师搅乜鬼， 我仲以为锦衣授魂术呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I don't know what the master did, I only think{\r\fnSimHei\fs10\b0}
+
+761
+01:06:11,120 --> 01:06:14,480
+{\fnSimHei\fs10\b0}系借你的青春，还番比你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}He's borrowing your youth, this is for you{\r\fnSimHei\fs10\b0}
+
+762
+01:06:14,480 --> 01:06:18,120
+{\fnSimHei\fs10\b0}系我不对，系我唔着， 但系如果你杀了我呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm wrong, I'm to blame, but if you kill me{\r\fnSimHei\fs10\b0}
+
+763
+01:06:18,120 --> 01:06:21,560
+{\fnSimHei\fs10\b0}边个烧金银衣纸， 汽车洋楼番狗比你呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No one will burn you things, right?{\r\fnSimHei\fs10\b0}
+
+764
+01:06:21,560 --> 01:06:24,480
+{\fnSimHei\fs10\b0}你放过我啦，我一定烧 硒成副身家比你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Spare me and I'll burn what you need to you{\r\fnSimHei\fs10\b0}
+
+765
+01:06:24,480 --> 01:06:27,233
+{\fnSimHei\fs10\b0}等你做鬼都风风光光， 唔好搅我.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Then you can become a rich ghost, spare me...{\r\fnSimHei\fs10\b0}
+
+766
+01:06:29,480 --> 01:06:31,240
+{\fnSimHei\fs10\b0}喂，起身先至讲啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get up first{\r\fnSimHei\fs10\b0}
+
+767
+01:06:31,240 --> 01:06:32,640
+{\fnSimHei\fs10\b0}你唔应承我，我唔起身
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I won't get up if you don't promise me{\r\fnSimHei\fs10\b0}
+
+768
+01:06:32,640 --> 01:06:33,755
+{\fnSimHei\fs10\b0}起身啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get up{\r\fnSimHei\fs10\b0}
+
+769
+01:06:34,840 --> 01:06:35,955
+{\fnSimHei\fs10\b0}乜原来系你呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's you!{\r\fnSimHei\fs10\b0}
+
+770
+01:06:37,040 --> 01:06:40,760
+{\fnSimHei\fs10\b0}你早点讲比我听呀， 等我个心都跌了出来
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You should have told me! You scared me much{\r\fnSimHei\fs10\b0}
+
+771
+01:06:40,760 --> 01:06:44,600
+{\fnSimHei\fs10\b0}仲要我跪你，拜你， 你想玩我呀，你玩我唔起的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You make me kneel and worship you? You are not to fooling me{\r\fnSimHei\fs10\b0}
+
+772
+01:06:44,600 --> 01:06:45,600
+{\fnSimHei\fs10\b0}到底咩事呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What is it?{\r\fnSimHei\fs10\b0}
+
+773
+01:06:45,600 --> 01:06:49,639
+{\fnSimHei\fs10\b0}冇事，唔关你事，你多管闲事， 呢度冇你的事
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Nothing, none of your business, lousy!{\r\fnSimHei\fs10\b0}
+
+774
+01:06:55,720 --> 01:07:04,276
+{\fnSimHei\fs10\b0}多行不义必自毙， 多行夜路必撞鬼，夜啦睡啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You'll run into trouble is you go on doing this, go to sleep now{\r\fnSimHei\fs10\b0}
+
+775
+01:07:10,040 --> 01:07:11,951
+{\fnSimHei\fs10\b0}唔系啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No...{\r\fnSimHei\fs10\b0}
+
+776
+01:07:13,040 --> 01:07:17,240
+{\fnSimHei\fs10\b0}喂，开门呀.我同你玩的咋
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Open the door... I was onlyjoking{\r\fnSimHei\fs10\b0}
+
+777
+01:07:17,240 --> 01:07:21,360
+{\fnSimHei\fs10\b0}阿伯，过门都是客， 比我进来饮杯茶，食个饱都得阔
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Man, I am more or less your guest, let me in for a cup of tea{\r\fnSimHei\fs10\b0}
+
+778
+01:07:21,360 --> 01:07:23,749
+{\fnSimHei\fs10\b0}开门呀，阿伯，唔系冇你的事
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Open the door, man, it's something to do with youl need you now, open the door...{\r\fnSimHei\fs10\b0}
+
+779
+01:07:25,560 --> 01:07:26,879
+{\fnSimHei\fs10\b0}呢度呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's here{\r\fnSimHei\fs10\b0}
+
+780
+01:07:28,000 --> 01:07:31,240
+{\fnSimHei\fs10\b0}又系你呀，被你吓鬼死我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You again? You scared me to death{\r\fnSimHei\fs10\b0}
+
+781
+01:07:31,240 --> 01:07:33,390
+{\fnSimHei\fs10\b0}你縊我嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You scolded me?{\r\fnSimHei\fs10\b0}
+
+782
+01:07:33,520 --> 01:07:35,320
+{\fnSimHei\fs10\b0}原来你系师傅来的，救救我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're Taoist priest? You must help me{\r\fnSimHei\fs10\b0}
+
+783
+01:07:35,320 --> 01:07:36,120
+{\fnSimHei\fs10\b0}班细路而家在哪边？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where are they kids now?{\r\fnSimHei\fs10\b0}
+
+784
+01:07:36,120 --> 01:07:36,950
+{\fnSimHei\fs10\b0}在那边呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Over there{\r\fnSimHei\fs10\b0}
+
+785
+01:07:37,160 --> 01:07:38,832
+{\fnSimHei\fs10\b0}去看看
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go and see{\r\fnSimHei\fs10\b0}
+
+786
+01:07:39,560 --> 01:07:40,390
+{\fnSimHei\fs10\b0}师父呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master{\r\fnSimHei\fs10\b0}
+
+787
+01:07:40,800 --> 01:07:43,598
+{\fnSimHei\fs10\b0}我搞唔掂的，你去啦， 我同你看屋啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can't, you go and I'll watch your house{\r\fnSimHei\fs10\b0}
+
+788
+01:08:25,200 --> 01:08:28,158
+{\fnSimHei\fs10\b0}鬼啊！
+
+789
+01:08:32,480 --> 01:08:34,720
+{\fnSimHei\fs10\b0}小妖
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Elf{\r\fnSimHei\fs10\b0}
+
+790
+01:08:34,720 --> 01:08:37,234
+{\fnSimHei\fs10\b0}东
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tung!{\r\fnSimHei\fs10\b0}
+
+791
+01:08:41,400 --> 01:08:44,119
+{\fnSimHei\fs10\b0}十二
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi{\r\fnSimHei\fs10\b0}
+
+792
+01:08:50,400 --> 01:08:57,670
+{\fnSimHei\fs10\b0}你们在哪呀，Wancy，Lowell？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where are you? Wancy, Lowell!{\r\fnSimHei\fs10\b0}
+
+793
+01:08:58,680 --> 01:08:59,680
+{\fnSimHei\fs10\b0}点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we do?{\r\fnSimHei\fs10\b0}
+
+794
+01:08:59,680 --> 01:09:00,590
+{\fnSimHei\fs10\b0}呢边呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This way{\r\fnSimHei\fs10\b0}
+
+795
+01:09:02,880 --> 01:09:03,040
+{\fnSimHei\fs10\b0}码头咁夜冇船啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There is no boat at this late hour{\r\fnSimHei\fs10\b0}
+
+796
+01:09:03,040 --> 01:09:05,120
+{\fnSimHei\fs10\b0}咁点算呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we do then?{\r\fnSimHei\fs10\b0}
+
+797
+01:09:05,120 --> 01:09:06,792
+{\fnSimHei\fs10\b0}冇船啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No boat!{\r\fnSimHei\fs10\b0}
+
+798
+01:09:07,040 --> 01:09:09,554
+{\fnSimHei\fs10\b0}你走鬼咁鬼快， Michelle都唔见了啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You ran so quickly that Michelle is left behind{\r\fnSimHei\fs10\b0}
+
+799
+01:09:10,000 --> 01:09:10,830
+{\fnSimHei\fs10\b0}我们番转头媪俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We must go and find her{\r\fnSimHei\fs10\b0}
+
+800
+01:09:30,480 --> 01:09:31,993
+{\fnSimHei\fs10\b0}走吧，去边呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where is she?{\r\fnSimHei\fs10\b0}
+
+801
+01:09:33,720 --> 01:09:34,948
+{\fnSimHei\fs10\b0}好啦，而家媪到件，我们出码头啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, we've found one now, let's go to the pier{\r\fnSimHei\fs10\b0}
+
+802
+01:09:35,200 --> 01:09:37,589
+{\fnSimHei\fs10\b0}你有冇搞错呀，咁我们点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you nut? What about me?{\r\fnSimHei\fs10\b0}
+
+803
+01:09:37,760 --> 01:09:38,670
+{\fnSimHei\fs10\b0}咁点呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What now?{\r\fnSimHei\fs10\b0}
+
+804
+01:09:38,720 --> 01:09:40,600
+{\fnSimHei\fs10\b0}媪埋他们啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We must find them back{\r\fnSimHei\fs10\b0}
+
+805
+01:09:40,600 --> 01:09:41,316
+{\fnSimHei\fs10\b0}媪埋两件好走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We must go when we find them Wancy{\r\fnSimHei\fs10\b0}
+
+806
+01:09:58,120 --> 01:10:01,351
+{\fnSimHei\fs10\b0}十二，你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, how are you?{\r\fnSimHei\fs10\b0}
+
+807
+01:10:02,200 --> 01:10:03,200
+{\fnSimHei\fs10\b0}死了？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Dead?{\r\fnSimHei\fs10\b0}
+
+808
+01:10:03,200 --> 01:10:04,474
+{\fnSimHei\fs10\b0}我们走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go{\r\fnSimHei\fs10\b0}
+
+809
+01:10:04,800 --> 01:10:06,279
+{\fnSimHei\fs10\b0}未得住呀，Wancy呢？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Not yet! Where's Wancy?{\r\fnSimHei\fs10\b0}
+
+810
+01:10:06,560 --> 01:10:07,310
+{\fnSimHei\fs10\b0}你唔系同俥一齐的咩？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Aren't you with her?{\r\fnSimHei\fs10\b0}
+
+811
+01:10:07,560 --> 01:10:08,629
+{\fnSimHei\fs10\b0}唔系呀，快点媪俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No, let's find her{\r\fnSimHei\fs10\b0}
+
+812
+01:10:08,840 --> 01:10:09,556
+{\fnSimHei\fs10\b0}走啦，你唔走我走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll leave if you don't go{\r\fnSimHei\fs10\b0}
+
+813
+01:10:09,760 --> 01:10:10,397
+{\fnSimHei\fs10\b0}媪齐人先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We must find them all{\r\fnSimHei\fs10\b0}
+
+814
+01:10:11,080 --> 01:10:13,960
+{\fnSimHei\fs10\b0}师傅呀，我而家拮拮下， 帮到你都帮唔到我啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, as I'm crippling, I can't be of help{\r\fnSimHei\fs10\b0}
+
+815
+01:10:13,960 --> 01:10:18,795
+{\fnSimHei\fs10\b0}不如.我就唔.使去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What... if... I don't go?{\r\fnSimHei\fs10\b0}
+
+816
+01:11:26,240 --> 01:11:28,151
+{\fnSimHei\fs10\b0}鬼呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Ghost...{\r\fnSimHei\fs10\b0}
+
+817
+01:11:34,960 --> 01:11:39,670
+{\fnSimHei\fs10\b0}救命呀，有鬼呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help, ghost...{\r\fnSimHei\fs10\b0}
+
+818
+01:11:41,400 --> 01:11:46,840
+{\fnSimHei\fs10\b0}大师呀，我真系帮唔到你， 盏越帮越忙
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, I can't help really, I'll make thing worse{\r\fnSimHei\fs10\b0}
+
+819
+01:11:46,840 --> 01:11:49,640
+{\fnSimHei\fs10\b0}唔好呀.
+
+820
+01:11:49,640 --> 01:11:52,880
+{\fnSimHei\fs10\b0}我又肥，又论尽
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I am fat and clumsy{\r\fnSimHei\fs10\b0}
+
+821
+01:11:52,880 --> 01:11:55,480
+{\fnSimHei\fs10\b0}救命呀，有鬼呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help! There's ghost!{\r\fnSimHei\fs10\b0}
+
+822
+01:11:55,480 --> 01:11:56,799
+{\fnSimHei\fs10\b0}好啦，系咁先，我走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I'll leave now{\r\fnSimHei\fs10\b0}
+
+823
+01:11:57,040 --> 01:11:57,711
+{\fnSimHei\fs10\b0}救命呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help!{\r\fnSimHei\fs10\b0}
+
+824
+01:12:13,640 --> 01:12:16,080
+{\fnSimHei\fs10\b0}你媪齐班细路去个亭度等我， 唔好走开呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Find all the kids and wait for me at the pergola{\r\fnSimHei\fs10\b0}
+
+825
+01:12:16,080 --> 01:12:18,116
+{\fnSimHei\fs10\b0}你点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How are you?{\r\fnSimHei\fs10\b0}
+
+826
+01:12:46,560 --> 01:12:50,520
+{\fnSimHei\fs10\b0}死老鬼，你咁钟意多管闲事嘛
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Bag, must you get involved?{\r\fnSimHei\fs10\b0}
+
+827
+01:12:50,520 --> 01:12:52,954
+{\fnSimHei\fs10\b0}好，我就同你玩？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, I'll play with you{\r\fnSimHei\fs10\b0}
+
+828
+01:13:26,080 --> 01:13:32,394
+{\fnSimHei\fs10\b0}死老鬼，我一定唔会放过你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Bag, I won't let you off{\r\fnSimHei\fs10\b0}
+
+829
+01:13:43,560 --> 01:13:47,440
+{\fnSimHei\fs10\b0}老伯.点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man... how are you?{\r\fnSimHei\fs10\b0}
+
+830
+01:13:47,440 --> 01:13:48,634
+{\fnSimHei\fs10\b0}你系咪俾只鬼打伤呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you injured by the ghost?{\r\fnSimHei\fs10\b0}
+
+831
+01:13:49,680 --> 01:13:52,035
+{\fnSimHei\fs10\b0}唔好讲咁多，过那边抖下
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Say no way! Take a rest first{\r\fnSimHei\fs10\b0}
+
+832
+01:13:53,640 --> 01:13:55,040
+{\fnSimHei\fs10\b0}点呀，呢度坐呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and sit here{\r\fnSimHei\fs10\b0}
+
+833
+01:13:55,040 --> 01:13:56,400
+{\fnSimHei\fs10\b0}点呀，你真系冇事嘛？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Are you really OK?{\r\fnSimHei\fs10\b0}
+
+834
+01:13:56,400 --> 01:13:57,879
+{\fnSimHei\fs10\b0}师父，你媪到只女鬼未呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, have you found the ghost yet?{\r\fnSimHei\fs10\b0}
+
+835
+01:13:58,520 --> 01:14:00,511
+{\fnSimHei\fs10\b0}你快点讲比我听， 你点样惹到俥番？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tell me how you brought her out!{\r\fnSimHei\fs10\b0}
+
+836
+01:14:00,840 --> 01:14:03,360
+{\fnSimHei\fs10\b0}有个南洋巫师， 用锦衣授魂术帮个女仔换皮
+{\fnSimHei\fs8\1c&H80FFFF&\b0}A priest changed a girl's skin with Black magic{\r\fnSimHei\fs10\b0}
+
+837
+01:14:03,360 --> 01:14:04,076
+{\fnSimHei\fs10\b0}咪整死了俥咯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}and killed her{\r\fnSimHei\fs10\b0}
+
+838
+01:14:04,840 --> 01:14:07,513
+{\fnSimHei\fs10\b0}邪教巫术，只可以用盐来对付
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Black Magic? We can deal with her with salt{\r\fnSimHei\fs10\b0}
+
+839
+01:14:07,800 --> 01:14:09,000
+{\fnSimHei\fs10\b0}咁我们即刻搭船出去媪，好唔好？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's take a boat and buy, OK?{\r\fnSimHei\fs10\b0}
+
+840
+01:14:09,000 --> 01:14:10,640
+{\fnSimHei\fs10\b0}你，，屎眼，，生上脑的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You're just nut!{\r\fnSimHei\fs10\b0}
+
+841
+01:14:10,640 --> 01:14:12,073
+{\fnSimHei\fs10\b0}咁冇盐点算呀，我们今次咪死梗
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we do as we have no salt?{\r\fnSimHei\fs10\b0}
+
+842
+01:14:13,560 --> 01:14:14,037
+{\fnSimHei\fs10\b0}有咸味的咁就得的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Any salty will do Great, we can find around{\r\fnSimHei\fs10\b0}
+
+843
+01:14:16,840 --> 01:14:17,989
+{\fnSimHei\fs10\b0}快点去啦.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go quick...{\r\fnSimHei\fs10\b0}
+
+844
+01:14:19,200 --> 01:14:20,394
+{\fnSimHei\fs10\b0}小心呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+845
+01:14:21,240 --> 01:14:21,956
+{\fnSimHei\fs10\b0}我陪呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll accompany you here{\r\fnSimHei\fs10\b0}
+
+846
+01:14:25,440 --> 01:14:26,236
+{\fnSimHei\fs10\b0}喂，那边有厨房呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}A kitchen there{\r\fnSimHei\fs10\b0}
+
+847
+01:14:27,200 --> 01:14:30,160
+{\fnSimHei\fs10\b0}周围媪下啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Look around{\r\fnSimHei\fs10\b0}
+
+848
+01:14:30,160 --> 01:14:31,280
+{\fnSimHei\fs10\b0}媪咸的东西，记住呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Search for salty thing{\r\fnSimHei\fs10\b0}
+
+849
+01:14:31,280 --> 01:14:32,110
+{\fnSimHei\fs10\b0}知啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK{\r\fnSimHei\fs10\b0}
+
+850
+01:14:34,400 --> 01:14:36,480
+{\fnSimHei\fs10\b0}我媪到咸菜干，得唔得？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found salty dried vegetable, OK?{\r\fnSimHei\fs10\b0}
+
+851
+01:14:36,480 --> 01:14:38,400
+{\fnSimHei\fs10\b0}我媪到咸酸菜
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found salty sour vegetable{\r\fnSimHei\fs10\b0}
+
+852
+01:14:38,400 --> 01:14:40,360
+{\fnSimHei\fs10\b0}我媪到成樽豉油
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found a bottle of soy sauce{\r\fnSimHei\fs10\b0}
+
+853
+01:14:40,360 --> 01:14:42,032
+{\fnSimHei\fs10\b0}我媪到成瓮盐，发达啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found a pot of salt, great{\r\fnSimHei\fs10\b0}
+
+854
+01:14:43,200 --> 01:14:46,397
+{\fnSimHei\fs10\b0}喂，我媪到美极，仲唔腌死个女鬼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found Maggie, it can kill the ghost{\r\fnSimHei\fs10\b0}
+
+855
+01:14:47,880 --> 01:14:48,232
+{\fnSimHei\fs10\b0}睇下仲有冇？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Is there anymore?{\r\fnSimHei\fs10\b0}
+
+856
+01:14:50,800 --> 01:14:53,560
+{\fnSimHei\fs10\b0}好啦，差唔多啦，我们走
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, it's enough, let's go{\r\fnSimHei\fs10\b0}
+
+857
+01:14:53,560 --> 01:14:54,356
+{\fnSimHei\fs10\b0}走，快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Move, hurry{\r\fnSimHei\fs10\b0}
+
+858
+01:14:54,560 --> 01:14:56,198
+{\fnSimHei\fs10\b0}龙虎豹
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Blue books?{\r\fnSimHei\fs10\b0}
+
+859
+01:14:56,560 --> 01:14:57,680
+{\fnSimHei\fs10\b0}咸书都系咸咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Blue books might help{\r\fnSimHei\fs10\b0}
+
+860
+01:14:57,680 --> 01:14:58,237
+{\fnSimHei\fs10\b0}快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry{\r\fnSimHei\fs10\b0}
+
+861
+01:14:59,560 --> 01:15:00,360
+{\fnSimHei\fs10\b0}阿伯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man{\r\fnSimHei\fs10\b0}
+
+862
+01:15:00,360 --> 01:15:01,156
+{\fnSimHei\fs10\b0}好多呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}So much?{\r\fnSimHei\fs10\b0}
+
+863
+01:15:02,840 --> 01:15:05,070
+{\fnSimHei\fs10\b0}够硒咸啦，跟住系边种好呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's salty enough, which is best?{\r\fnSimHei\fs10\b0}
+
+864
+01:15:08,480 --> 01:15:10,080
+{\fnSimHei\fs10\b0}唔系叫我系嘛？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You mean me?{\r\fnSimHei\fs10\b0}
+
+865
+01:15:10,080 --> 01:15:12,960
+{\fnSimHei\fs10\b0}呢件事由你引起的，应该由你去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You started all this, it should be you{\r\fnSimHei\fs10\b0}
+
+866
+01:15:12,960 --> 01:15:17,397
+{\fnSimHei\fs10\b0}师父呀，我又跛又细胆，唔得咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, I'm crippling and timid{\r\fnSimHei\fs10\b0}
+
+867
+01:15:17,720 --> 01:15:18,680
+{\fnSimHei\fs10\b0}唔去得唔得呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Can I stay behind?{\r\fnSimHei\fs10\b0}
+
+868
+01:15:18,680 --> 01:15:20,955
+{\fnSimHei\fs10\b0}唔去，唔去打到你去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We'll beat you until you will go{\r\fnSimHei\fs10\b0}
+
+869
+01:15:22,960 --> 01:15:26,236
+{\fnSimHei\fs10\b0}唔好打呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't beat me...{\r\fnSimHei\fs10\b0}
+
+870
+01:15:28,360 --> 01:15:31,440
+{\fnSimHei\fs10\b0}你避得一时唔避得一世， 你唔引俥出来
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You can't keep away from her forever, if you don't attract her out{\r\fnSimHei\fs10\b0}
+
+871
+01:15:31,440 --> 01:15:33,670
+{\fnSimHei\fs10\b0}我冇办法捉到俥咼， 你知唔知道？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can't catch her, you know?{\r\fnSimHei\fs10\b0}
+
+872
+01:15:34,400 --> 01:15:36,550
+{\fnSimHei\fs10\b0}我而家真系好惊呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I am very afraid{\r\fnSimHei\fs10\b0}
+
+873
+01:15:36,840 --> 01:15:40,400
+{\fnSimHei\fs10\b0}你唔驶惊，呢道符可以保护到你？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't panic, this spell can protect you{\r\fnSimHei\fs10\b0}
+
+874
+01:15:40,400 --> 01:15:44,996
+{\fnSimHei\fs10\b0}我跛的嘛，我见到俥我都 追唔到俥啦，系唔系呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm crippled, I can't chase after her, right?{\r\fnSimHei\fs10\b0}
+
+875
+01:15:45,240 --> 01:15:46,195
+{\fnSimHei\fs10\b0}咁我而家点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall I do now?{\r\fnSimHei\fs10\b0}
+
+876
+01:15:46,440 --> 01:15:49,760
+{\fnSimHei\fs10\b0}呢条红绳绑住你，你见到女鬼阵呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'm trying you with this red thread, when the ghost appears{\r\fnSimHei\fs10\b0}
+
+877
+01:15:49,760 --> 01:15:51,876
+{\fnSimHei\fs10\b0}你就拉三下，咁我就会出来救你啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You must pull three times and I'll help you{\r\fnSimHei\fs10\b0}
+
+878
+01:15:52,240 --> 01:15:53,639
+{\fnSimHei\fs10\b0}我点见到俥呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How can I see her?{\r\fnSimHei\fs10\b0}
+
+879
+01:15:55,960 --> 01:15:59,800
+{\fnSimHei\fs10\b0}呢个测鬼追踪器， 会带你去媪俥出来
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This detector can bring you to her{\r\fnSimHei\fs10\b0}
+
+880
+01:15:59,800 --> 01:16:00,550
+{\fnSimHei\fs10\b0}测鬼呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Detector?{\r\fnSimHei\fs10\b0}
+
+881
+01:16:00,800 --> 01:16:02,560
+{\fnSimHei\fs10\b0}去啦，快？呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go now{\r\fnSimHei\fs10\b0}
+
+882
+01:16:02,560 --> 01:16:03,520
+{\fnSimHei\fs10\b0}掂唔掂的？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Will it work?{\r\fnSimHei\fs10\b0}
+
+883
+01:16:03,520 --> 01:16:04,120
+{\fnSimHei\fs10\b0}掂的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes, it will{\r\fnSimHei\fs10\b0}
+
+884
+01:16:04,120 --> 01:16:07,271
+{\fnSimHei\fs10\b0}仲唔去，小心点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go now, be careful{\r\fnSimHei\fs10\b0}
+
+885
+01:16:10,480 --> 01:16:12,600
+{\fnSimHei\fs10\b0}大师呀，你睇住我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, you must protect me{\r\fnSimHei\fs10\b0}
+
+886
+01:16:12,600 --> 01:16:13,640
+{\fnSimHei\fs10\b0}得啦，行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, go now{\r\fnSimHei\fs10\b0}
+
+887
+01:16:13,640 --> 01:16:14,675
+{\fnSimHei\fs10\b0}去啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go{\r\fnSimHei\fs10\b0}
+
+888
+01:16:20,640 --> 01:16:22,312
+{\fnSimHei\fs10\b0}我拉三下就来救我啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go and help if I pull three times{\r\fnSimHei\fs10\b0}
+
+889
+01:17:00,560 --> 01:17:01,549
+{\fnSimHei\fs10\b0}救命呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help!{\r\fnSimHei\fs10\b0}
+
+890
+01:17:07,400 --> 01:17:10,119
+{\fnSimHei\fs10\b0}挣点俾你吓到线
+{\fnSimHei\fs8\1c&H80FFFF&\b0}You nearly scared me to death{\r\fnSimHei\fs10\b0}
+
+891
+01:17:49,600 --> 01:17:52,353
+{\fnSimHei\fs10\b0}来呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come on{\r\fnSimHei\fs10\b0}
+
+892
+01:17:52,640 --> 01:17:54,596
+{\fnSimHei\fs10\b0}来呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come on{\r\fnSimHei\fs10\b0}
+
+893
+01:18:13,280 --> 01:18:14,713
+{\fnSimHei\fs10\b0}来呀，有符唔惊你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come on, I don't fear you as I have a spell{\r\fnSimHei\fs10\b0}
+
+894
+01:18:39,560 --> 01:18:41,198
+{\fnSimHei\fs10\b0}只鬼来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Here come the ghost{\r\fnSimHei\fs10\b0}
+
+895
+01:18:42,320 --> 01:18:43,600
+{\fnSimHei\fs10\b0}见到只女鬼边个淋先呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Who splashes the ghost if it comes?{\r\fnSimHei\fs10\b0}
+
+896
+01:18:43,600 --> 01:18:45,830
+{\fnSimHei\fs10\b0}是但啦，执生呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Anyone can do, be smart!{\r\fnSimHei\fs10\b0}
+
+897
+01:18:46,560 --> 01:18:48,391
+{\fnSimHei\fs10\b0}快点快点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry...{\r\fnSimHei\fs10\b0}
+
+898
+01:18:52,800 --> 01:18:55,439
+{\fnSimHei\fs10\b0}条绳剪断了，梗系走佬了啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The thread is cut, it must have gone away{\r\fnSimHei\fs10\b0}
+
+899
+01:18:56,160 --> 01:18:58,230
+{\fnSimHei\fs10\b0}条绳咸味好重，应该是上面咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It smells salty, should be up there{\r\fnSimHei\fs10\b0}
+
+900
+01:18:58,400 --> 01:18:59,549
+{\fnSimHei\fs10\b0}我们上去媪
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go and find up there{\r\fnSimHei\fs10\b0}
+
+901
+01:19:06,720 --> 01:19:07,994
+{\fnSimHei\fs10\b0}两条路咼，咁点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Two paths? Which to take?{\r\fnSimHei\fs10\b0}
+
+902
+01:19:08,760 --> 01:19:10,034
+{\fnSimHei\fs10\b0}三个男仔行呢便啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Three boys get this path{\r\fnSimHei\fs10\b0}
+
+903
+01:19:10,640 --> 01:19:11,640
+{\fnSimHei\fs10\b0}老伯呀，我陪你
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man, I'll stay with you{\r\fnSimHei\fs10\b0}
+
+904
+01:19:11,640 --> 01:19:12,311
+{\fnSimHei\fs10\b0}跟我来
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Follow me{\r\fnSimHei\fs10\b0}
+
+905
+01:19:25,480 --> 01:19:26,720
+{\fnSimHei\fs10\b0}你去边度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where have you been?{\r\fnSimHei\fs10\b0}
+
+906
+01:19:26,720 --> 01:19:30,395
+{\fnSimHei\fs10\b0}睇你个死样呀，惊到面都白硒
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Look how pale you are{\r\fnSimHei\fs10\b0}
+
+907
+01:19:31,760 --> 01:19:34,880
+{\fnSimHei\fs10\b0}你做咩呀，仲玩，线的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you doing? You nut!{\r\fnSimHei\fs10\b0}
+
+908
+01:19:34,880 --> 01:19:36,552
+{\fnSimHei\fs10\b0}去媪阿伯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go and find Old Man{\r\fnSimHei\fs10\b0}
+
+909
+01:19:40,000 --> 01:19:45,640
+{\fnSimHei\fs10\b0}喂，阿伯呀，我们在那里啊
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man, we're here{\r\fnSimHei\fs10\b0}
+
+910
+01:19:45,640 --> 01:19:48,757
+{\fnSimHei\fs10\b0}快上来啦，媪到四眼佬啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get up here, we've found him{\r\fnSimHei\fs10\b0}
+
+911
+01:19:48,800 --> 01:19:50,074
+{\fnSimHei\fs10\b0}他在这里，上来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}He's here, come up{\r\fnSimHei\fs10\b0}
+
+912
+01:19:54,560 --> 01:19:56,000
+{\fnSimHei\fs10\b0}我们媪到俥啦，原来俥作弄我们
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We've found him! He's hiding here{\r\fnSimHei\fs10\b0}
+
+913
+01:19:56,000 --> 01:19:58,673
+{\fnSimHei\fs10\b0}小心呀，俥系鬼，媪东西泼俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Watch out! He's ghost, splash him{\r\fnSimHei\fs10\b0}
+
+914
+01:20:03,600 --> 01:20:06,239
+{\fnSimHei\fs10\b0}俥系鬼上身，他们唔够打的， 我们上去帮俥？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}He's being possessed, they're not up to him, let's go and help them{\r\fnSimHei\fs10\b0}
+
+915
+01:20:06,640 --> 01:20:07,834
+{\fnSimHei\fs10\b0}开唔倒盖呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The lid is stuck{\r\fnSimHei\fs10\b0}
+
+916
+01:20:22,120 --> 01:20:24,475
+{\fnSimHei\fs10\b0}走呀.救命呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go... help!{\r\fnSimHei\fs10\b0}
+
+917
+01:20:30,440 --> 01:20:34,319
+{\fnSimHei\fs10\b0}十二呀，快拉住藤呀，我扯你上？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Sup Yi, hold the rattan, I'll pull you up{\r\fnSimHei\fs10\b0}
+
+918
+01:20:36,560 --> 01:20:37,117
+{\fnSimHei\fs10\b0}阿东呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Tung{\r\fnSimHei\fs10\b0}
+
+919
+01:20:38,240 --> 01:20:41,516
+{\fnSimHei\fs10\b0}快来救我呀！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and help me{\r\fnSimHei\fs10\b0}
+
+920
+01:20:57,960 --> 01:21:00,269
+{\fnSimHei\fs10\b0}咸书，问你惊未！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Blue books can kill you{\r\fnSimHei\fs10\b0}
+
+921
+01:21:08,120 --> 01:21:09,473
+{\fnSimHei\fs10\b0}泼俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Splash{\r\fnSimHei\fs10\b0}
+
+922
+01:21:12,480 --> 01:21:13,993
+{\fnSimHei\fs10\b0}快点泼俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Splash at once{\r\fnSimHei\fs10\b0}
+
+923
+01:21:28,240 --> 01:21:29,878
+{\fnSimHei\fs10\b0}帮拖
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help them{\r\fnSimHei\fs10\b0}
+
+924
+01:21:30,560 --> 01:21:31,788
+{\fnSimHei\fs10\b0}放手呀.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hands off...{\r\fnSimHei\fs10\b0}
+
+925
+01:21:33,480 --> 01:21:35,789
+{\fnSimHei\fs10\b0}衰人，你快点放手呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hands off at once{\r\fnSimHei\fs10\b0}
+
+926
+01:21:39,680 --> 01:21:40,396
+{\fnSimHei\fs10\b0}我们去沙滩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go to the beach{\r\fnSimHei\fs10\b0}
+
+927
+01:21:42,560 --> 01:21:43,040
+{\fnSimHei\fs10\b0}救命呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help!{\r\fnSimHei\fs10\b0}
+
+928
+01:21:43,040 --> 01:21:45,235
+{\fnSimHei\fs10\b0}救咩命呀，到地啦，吓傻了咩
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help? You're on the ground already{\r\fnSimHei\fs10\b0}
+
+929
+01:21:47,360 --> 01:21:49,555
+{\fnSimHei\fs10\b0}快点啦，快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick...{\r\fnSimHei\fs10\b0}
+
+930
+01:21:53,440 --> 01:21:55,032
+{\fnSimHei\fs10\b0}老伯，你点呀，跳啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Old Man, how are you? Jump{\r\fnSimHei\fs10\b0}
+
+931
+01:21:57,160 --> 01:21:59,674
+{\fnSimHei\fs10\b0}咁高，点跳呀，喂，等埋我们呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I can't as it's so high up, wait for us{\r\fnSimHei\fs10\b0}
+
+932
+01:22:00,400 --> 01:22:02,240
+{\fnSimHei\fs10\b0}快点跳啦，跳啦，追到了啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Jump now! It's almost here{\r\fnSimHei\fs10\b0}
+
+933
+01:22:02,240 --> 01:22:04,754
+{\fnSimHei\fs10\b0}捉住俥啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Catch it{\r\fnSimHei\fs10\b0}
+
+934
+01:22:06,560 --> 01:22:08,073
+{\fnSimHei\fs10\b0}跳啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Jump now!{\r\fnSimHei\fs10\b0}
+
+935
+01:22:09,880 --> 01:22:10,517
+{\fnSimHei\fs10\b0}咪走呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't go{\r\fnSimHei\fs10\b0}
+
+936
+01:22:12,400 --> 01:22:13,276
+{\fnSimHei\fs10\b0}快点.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry...{\r\fnSimHei\fs10\b0}
+
+937
+01:22:15,640 --> 01:22:16,520
+{\fnSimHei\fs10\b0}等埋我呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Wait for me{\r\fnSimHei\fs10\b0}
+
+938
+01:22:16,520 --> 01:22:18,078
+{\fnSimHei\fs10\b0}走快点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Run for life{\r\fnSimHei\fs10\b0}
+
+939
+01:22:22,120 --> 01:22:24,680
+{\fnSimHei\fs10\b0}去找咸水
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get sea water{\r\fnSimHei\fs10\b0}
+
+940
+01:22:45,040 --> 01:22:48,440
+{\fnSimHei\fs10\b0}喂，快点啦，我顶唔顺湿啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry, I can't hold on{\r\fnSimHei\fs10\b0}
+
+941
+01:22:48,440 --> 01:22:48,720
+{\fnSimHei\fs10\b0}快点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+942
+01:22:48,720 --> 01:22:49,480
+{\fnSimHei\fs10\b0}漏Q硒添
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's leaking{\r\fnSimHei\fs10\b0}
+
+943
+01:22:49,480 --> 01:22:51,360
+{\fnSimHei\fs10\b0}快点啦，除条裤啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry, take off the trousers{\r\fnSimHei\fs10\b0}
+
+944
+01:22:51,360 --> 01:22:53,430
+{\fnSimHei\fs10\b0}你条红色裤嘛，拿来兜水？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yours is red, use it to take water{\r\fnSimHei\fs10\b0}
+
+945
+01:22:53,680 --> 01:22:53,953
+{\fnSimHei\fs10\b0}喂，他们除裤，我们除乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}They have trousers, what do we have?{\r\fnSimHei\fs10\b0}
+
+946
+01:22:55,200 --> 01:22:56,394
+{\fnSimHei\fs10\b0}除胸围啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's take our bras off{\r\fnSimHei\fs10\b0}
+
+947
+01:22:57,000 --> 01:22:58,880
+{\fnSimHei\fs10\b0}拿.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take it...{\r\fnSimHei\fs10\b0}
+
+948
+01:22:58,880 --> 01:23:00,359
+{\fnSimHei\fs10\b0}拿水？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get water{\r\fnSimHei\fs10\b0}
+
+949
+01:23:02,560 --> 01:23:03,390
+{\fnSimHei\fs10\b0}又漏啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's leaking{\r\fnSimHei\fs10\b0}
+
+950
+01:23:03,600 --> 01:23:04,040
+{\fnSimHei\fs10\b0}走先啦，走先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's run away{\r\fnSimHei\fs10\b0}
+
+951
+01:23:04,040 --> 01:23:06,315
+{\fnSimHei\fs10\b0}漏硒啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's spilt off{\r\fnSimHei\fs10\b0}
+
+952
+01:23:08,160 --> 01:23:09,309
+{\fnSimHei\fs10\b0}小心点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+953
+01:23:11,320 --> 01:23:14,160
+{\fnSimHei\fs10\b0}小心行呀，漏硒啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Watch out, it's spilt out{\r\fnSimHei\fs10\b0}
+
+954
+01:23:14,160 --> 01:23:16,469
+{\fnSimHei\fs10\b0}含多啖水添
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get some in the mouth{\r\fnSimHei\fs10\b0}
+
+955
+01:23:17,080 --> 01:23:19,355
+{\fnSimHei\fs10\b0}咪住咪住，我又含啖先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hold it, I'll get some too{\r\fnSimHei\fs10\b0}
+
+956
+01:23:39,840 --> 01:23:42,354
+{\fnSimHei\fs10\b0}快点呀，快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hurry...{\r\fnSimHei\fs10\b0}
+
+957
+01:23:45,800 --> 01:23:47,360
+{\fnSimHei\fs10\b0}仆卜你个家铲， 快点惗过第二个办法啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Damn you! Think of another way now{\r\fnSimHei\fs10\b0}
+
+958
+01:23:47,360 --> 01:23:49,590
+{\fnSimHei\fs10\b0}快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+959
+01:23:51,440 --> 01:23:55,035
+{\fnSimHei\fs10\b0}快点啦，你学咩人讲点呀， 漏硒啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What are you bullshit? It's all leaked{\r\fnSimHei\fs10\b0}
+
+960
+01:23:58,040 --> 01:23:59,871
+{\fnSimHei\fs10\b0}快点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+961
+01:24:02,560 --> 01:24:02,992
+{\fnSimHei\fs10\b0}乜你咁鬼蠢湿
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why are you so foolish?{\r\fnSimHei\fs10\b0}
+
+962
+01:24:06,280 --> 01:24:07,679
+{\fnSimHei\fs10\b0}快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Faster{\r\fnSimHei\fs10\b0}
+
+963
+01:24:08,440 --> 01:24:10,112
+{\fnSimHei\fs10\b0}来紧
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Coming{\r\fnSimHei\fs10\b0}
+
+964
+01:24:14,200 --> 01:24:17,590
+{\fnSimHei\fs10\b0}快点，泼俥，泼俥呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Splash at it, quick{\r\fnSimHei\fs10\b0}
+
+965
+01:24:19,040 --> 01:24:22,555
+{\fnSimHei\fs10\b0}帮手，帮手拉呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help me, pull it{\r\fnSimHei\fs10\b0}
+
+966
+01:24:27,640 --> 01:24:29,358
+{\fnSimHei\fs10\b0}快点唔好衰呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick, hold on{\r\fnSimHei\fs10\b0}
+
+967
+01:24:30,800 --> 01:24:32,791
+{\fnSimHei\fs10\b0}来啦，得啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Coming, it's done{\r\fnSimHei\fs10\b0}
+
+968
+01:24:35,640 --> 01:24:36,959
+{\fnSimHei\fs10\b0}我媪到个泵呀，潜下去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I've found a pump{\r\fnSimHei\fs10\b0}
+
+969
+01:24:39,560 --> 01:24:40,880
+{\fnSimHei\fs10\b0}快点帮忙
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and help{\r\fnSimHei\fs10\b0}
+
+970
+01:24:40,880 --> 01:24:41,790
+{\fnSimHei\fs10\b0}那个泵俾我
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get me the pump{\r\fnSimHei\fs10\b0}
+
+971
+01:24:42,560 --> 01:24:44,232
+{\fnSimHei\fs10\b0}那条喉呢
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get a hose{\r\fnSimHei\fs10\b0}
+
+972
+01:24:46,040 --> 01:24:46,677
+{\fnSimHei\fs10\b0}我行去前面呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I'll go to the front{\r\fnSimHei\fs10\b0}
+
+973
+01:24:47,480 --> 01:24:48,595
+{\fnSimHei\fs10\b0}我们去
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Let's go{\r\fnSimHei\fs10\b0}
+
+974
+01:24:55,600 --> 01:24:58,360
+{\fnSimHei\fs10\b0}唔够长呀，长点添呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's not long enough, longer{\r\fnSimHei\fs10\b0}
+
+975
+01:24:58,360 --> 01:24:58,720
+{\fnSimHei\fs10\b0}行去前面度啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get to the front{\r\fnSimHei\fs10\b0}
+
+976
+01:24:58,720 --> 01:24:59,596
+{\fnSimHei\fs10\b0}收到
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Got it{\r\fnSimHei\fs10\b0}
+
+977
+01:25:00,320 --> 01:25:02,117
+{\fnSimHei\fs10\b0}点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What now?{\r\fnSimHei\fs10\b0}
+
+978
+01:25:02,960 --> 01:25:04,840
+{\fnSimHei\fs10\b0}再行前澿
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get a bit more to the front{\r\fnSimHei\fs10\b0}
+
+979
+01:25:04,840 --> 01:25:06,796
+{\fnSimHei\fs10\b0}仲未够长呀，快点啦，放长点啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Still not long enough! Hurry, roll more out{\r\fnSimHei\fs10\b0}
+
+980
+01:25:07,320 --> 01:25:08,389
+{\fnSimHei\fs10\b0}得啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK{\r\fnSimHei\fs10\b0}
+
+981
+01:25:09,480 --> 01:25:11,072
+{\fnSimHei\fs10\b0}尽硒的啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's the longest now{\r\fnSimHei\fs10\b0}
+
+982
+01:25:14,640 --> 01:25:16,278
+{\fnSimHei\fs10\b0}尽硒啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}The longest now{\r\fnSimHei\fs10\b0}
+
+983
+01:25:17,560 --> 01:25:19,551
+{\fnSimHei\fs10\b0}拉埋点添呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Pull it a bit near{\r\fnSimHei\fs10\b0}
+
+984
+01:25:26,960 --> 01:25:29,315
+{\fnSimHei\fs10\b0}冇水啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's going to break, get near{\r\fnSimHei\fs10\b0}
+
+985
+01:25:29,560 --> 01:25:31,312
+{\fnSimHei\fs10\b0}唔掂啦，抽唔到水呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}No way, it can't pump water{\r\fnSimHei\fs10\b0}
+
+986
+01:25:33,160 --> 01:25:35,560
+{\fnSimHei\fs10\b0}去带过条长点的水喉来呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Get a longer hose here{\r\fnSimHei\fs10\b0}
+
+987
+01:25:35,560 --> 01:25:36,117
+{\fnSimHei\fs10\b0}快点，拿水喉来啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick, get it here{\r\fnSimHei\fs10\b0}
+
+988
+01:25:38,360 --> 01:25:40,715
+{\fnSimHei\fs10\b0}你顶住先，拉实俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hold on, pull it{\r\fnSimHei\fs10\b0}
+
+989
+01:25:57,840 --> 01:25:59,800
+{\fnSimHei\fs10\b0}长喉来啦，点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Here is the longer hose, what now?{\r\fnSimHei\fs10\b0}
+
+990
+01:25:59,800 --> 01:26:00,755
+{\fnSimHei\fs10\b0}行出点
+{\fnSimHei\fs8\1c&H80FFFF&\b0}A bit out{\r\fnSimHei\fs10\b0}
+
+991
+01:26:10,760 --> 01:26:13,115
+{\fnSimHei\fs10\b0}老豆，我就来顶唔顺啦，整丨日铁呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Father, I can't hold on{\r\fnSimHei\fs10\b0}
+
+992
+01:26:15,320 --> 01:26:18,118
+{\fnSimHei\fs10\b0}快点呀，老豆呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick, dad{\r\fnSimHei\fs10\b0}
+
+993
+01:26:20,720 --> 01:26:21,709
+{\fnSimHei\fs10\b0}快点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be quick{\r\fnSimHei\fs10\b0}
+
+994
+01:26:24,760 --> 01:26:29,276
+{\fnSimHei\fs10\b0}射俥
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Splash at it{\r\fnSimHei\fs10\b0}
+
+995
+01:26:46,360 --> 01:26:50,273
+{\fnSimHei\fs10\b0}点呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}How is it?{\r\fnSimHei\fs10\b0}
+
+996
+01:27:01,360 --> 01:27:07,390
+{\fnSimHei\fs10\b0}射死俥.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Splash at it...{\r\fnSimHei\fs10\b0}
+
+997
+01:27:30,800 --> 01:27:33,360
+{\fnSimHei\fs10\b0}条尸葬在边度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where was the body buried?{\r\fnSimHei\fs10\b0}
+
+998
+01:27:33,560 --> 01:27:34,788
+{\fnSimHei\fs10\b0}你知唔知呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know?{\r\fnSimHei\fs10\b0}
+
+999
+01:27:35,600 --> 01:27:36,840
+{\fnSimHei\fs10\b0}阿伯，我知道在边度呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}I know where it is{\r\fnSimHei\fs10\b0}
+
+1000
+01:27:36,840 --> 01:27:37,640
+{\fnSimHei\fs10\b0}在边呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Where?{\r\fnSimHei\fs10\b0}
+
+1001
+01:27:37,640 --> 01:27:38,675
+{\fnSimHei\fs10\b0}那便呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}There{\r\fnSimHei\fs10\b0}
+
+1002
+01:27:39,680 --> 01:27:40,829
+{\fnSimHei\fs10\b0}你们继续顶住条尸呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Hold on with the body{\r\fnSimHei\fs10\b0}
+
+1003
+01:27:44,360 --> 01:27:46,078
+{\fnSimHei\fs10\b0}系呢度呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's here{\r\fnSimHei\fs10\b0}
+
+1004
+01:27:49,760 --> 01:27:51,716
+{\fnSimHei\fs10\b0}青竹葬？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}'Bamboo Burial'?{\r\fnSimHei\fs10\b0}
+
+1005
+01:28:16,560 --> 01:28:17,120
+{\fnSimHei\fs10\b0}冇事啦，俥醒番啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}It's OK, coming round now{\r\fnSimHei\fs10\b0}
+
+1006
+01:28:17,120 --> 01:28:19,554
+{\fnSimHei\fs10\b0}俥醒啦，扶俥起身先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Help her up now{\r\fnSimHei\fs10\b0}
+
+1007
+01:28:20,040 --> 01:28:22,400
+{\fnSimHei\fs10\b0}俥块面明明系烂的，点解冇事了
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Her face is ruined but it's OK now?{\r\fnSimHei\fs10\b0}
+
+1008
+01:28:22,400 --> 01:28:24,280
+{\fnSimHei\fs10\b0}俥鬼上身先会咁的， 而家破了锦衣授魂术
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She was possessed, now that I've broken the spirit{\r\fnSimHei\fs10\b0}
+
+1009
+01:28:24,280 --> 01:28:26,520
+{\fnSimHei\fs10\b0}俥冇事啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}She'll be fine{\r\fnSimHei\fs10\b0}
+
+1010
+01:28:26,520 --> 01:28:27,680
+{\fnSimHei\fs10\b0}咁而家点做好呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}What shall we do now?{\r\fnSimHei\fs10\b0}
+
+1011
+01:28:27,680 --> 01:28:28,000
+{\fnSimHei\fs10\b0}而家送俥返去我屋企度先
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take her to my house first{\r\fnSimHei\fs10\b0}
+
+1012
+01:28:28,000 --> 01:28:30,389
+{\fnSimHei\fs10\b0}行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Move{\r\fnSimHei\fs10\b0}
+
+1013
+01:28:31,280 --> 01:28:32,030
+{\fnSimHei\fs10\b0}小心点呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+1014
+01:28:35,720 --> 01:28:37,358
+{\fnSimHei\fs10\b0}阿光，你做乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Kwang, what are you doing?{\r\fnSimHei\fs10\b0}
+
+1015
+01:28:39,360 --> 01:28:40,800
+{\fnSimHei\fs10\b0}大师，俥做乜呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Master, what happens to him?{\r\fnSimHei\fs10\b0}
+
+1016
+01:28:40,800 --> 01:28:43,720
+{\fnSimHei\fs10\b0}俥不过系惊慌过度， 我们扶俥番去先啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}He's too scared, let's help him back{\r\fnSimHei\fs10\b0}
+
+1017
+01:28:43,720 --> 01:28:46,360
+{\fnSimHei\fs10\b0}好呀！起身啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK! Get up{\r\fnSimHei\fs10\b0}
+
+1018
+01:28:46,360 --> 01:28:47,793
+{\fnSimHei\fs10\b0}做咩呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Why?{\r\fnSimHei\fs10\b0}
+
+1019
+01:28:48,480 --> 01:28:50,436
+{\fnSimHei\fs10\b0}行啦！
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Move{\r\fnSimHei\fs10\b0}
+
+1020
+01:28:52,360 --> 01:28:55,200
+{\fnSimHei\fs10\b0}细路，下次再来离岛的时候
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Kids, next time when you come to a remote place{\r\fnSimHei\fs10\b0}
+
+1021
+01:28:55,200 --> 01:28:58,040
+{\fnSimHei\fs10\b0}唔好再搅神搅鬼啦， 对你们冇益的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Don't fool around again, as it's dangerous{\r\fnSimHei\fs10\b0}
+
+1022
+01:28:58,040 --> 01:28:59,800
+{\fnSimHei\fs10\b0}番去俾心机读书啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Go and study hard{\r\fnSimHei\fs10\b0}
+
+1023
+01:28:59,800 --> 01:29:04,240
+{\fnSimHei\fs10\b0}如果有时间，咁你们约埋 一齐来探望我啦咼
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Come and see me if you have time{\r\fnSimHei\fs10\b0}
+
+1024
+01:29:04,240 --> 01:29:05,680
+{\fnSimHei\fs10\b0}知唔知我屋企在边度呀？
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Do you know where my house is?{\r\fnSimHei\fs10\b0}
+
+1025
+01:29:05,680 --> 01:29:07,800
+{\fnSimHei\fs10\b0}知道
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Yes{\r\fnSimHei\fs10\b0}
+
+1026
+01:29:07,800 --> 01:29:08,200
+{\fnSimHei\fs10\b0}好啦，再见啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}OK, bye{\r\fnSimHei\fs10\b0}
+
+1027
+01:29:08,200 --> 01:29:08,950
+{\fnSimHei\fs10\b0}我们走啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We'll leave now{\r\fnSimHei\fs10\b0}
+
+1028
+01:29:09,760 --> 01:29:10,431
+{\fnSimHei\fs10\b0}拜拜，老伯
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Bye, Old Man{\r\fnSimHei\fs10\b0}
+
+1029
+01:29:11,840 --> 01:29:13,671
+{\fnSimHei\fs10\b0}好声呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Be careful{\r\fnSimHei\fs10\b0}
+
+1030
+01:29:15,000 --> 01:29:20,200
+{\fnSimHei\fs10\b0}拜拜.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Bye...{\r\fnSimHei\fs10\b0}
+
+1031
+01:29:20,200 --> 01:29:21,560
+{\fnSimHei\fs10\b0}你保重啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Take care of yourself{\r\fnSimHei\fs10\b0}
+
+1032
+01:29:21,560 --> 01:29:23,440
+{\fnSimHei\fs10\b0}我们会来探你的
+{\fnSimHei\fs8\1c&H80FFFF&\b0}We'll come to see you soon{\r\fnSimHei\fs10\b0}
+
+1033
+01:29:23,440 --> 01:29:26,671
+{\fnSimHei\fs10\b0}拜拜.
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Bye...{\r\fnSimHei\fs10\b0}
+
+1034
+01:29:54,440 --> 01:29:57,113
+{\fnSimHei\fs10\b0}站在这里，唔好有尔呀
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Stand there! Don't move!{\r\fnSimHei\fs10\b0}
+
+1035
+01:30:01,240 --> 01:30:02,520
+{\fnSimHei\fs10\b0}快点食
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Eat fast{\r\fnSimHei\fs10\b0}
+
+1036
+01:30:02,520 --> 01:30:07,719
+{\fnSimHei\fs10\b0}这些是泥，唔食得的，唔好食啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}This is soil, you mustn't eat it{\r\fnSimHei\fs10\b0}
+
+1037
+01:30:10,000 --> 01:30:13,515
+{\fnSimHei\fs10\b0}行啦
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Move!{\r\fnSimHei\fs10\b0}
+
+1038
+01:30:13,960 --> 01:30:16,713
+{\fnSimHei\fs10\b0}呢度
+{\fnSimHei\fs8\1c&H80FFFF&\b0}Here{\r\fnSimHei\fs10\b0}
+

@@ -1,0 +1,7304 @@
+﻿1
+00:02:06,792 --> 00:02:07,752
+快去安全舱
+Quick! To the safe room!
+
+2
+00:02:07,802 --> 00:02:10,922
+别跑 再跑我开枪了
+Run and you're dead!
+
+3
+00:02:11,892 --> 00:02:13,472
+- 我们只要人质 - 不要杀死他们
+We want hostages, not dead bodies!
+
+4
+00:02:13,532 --> 00:02:15,112
+快开门 信不信我杀了你们
+Open up or we'll kill you!
+
+5
+00:02:15,912 --> 00:02:18,562
+快点 我顶不住了
+Hurry! I can't hold on much longer!
+
+6
+00:02:19,172 --> 00:02:20,232
+紧急呼叫
+<i>Mayday! mayday!</i>
+
+7
+00:02:20,272 --> 00:02:21,922
+这里是中国商船广东号
+This is Chinese merchant ship, Guangdong.
+
+8
+00:02:21,982 --> 00:02:24,432
+我们受到海盗袭击
+<i>We're under pirates attack! We're under pirates attack!</i>
+
+9
+00:02:34,172 --> 00:02:35,502
+海盗上来了
+They're coming up!
+
+10
+00:02:45,742 --> 00:02:47,182
+这是中国海军
+<i>This is the Chinese Navy.</i>
+
+11
+00:02:47,252 --> 00:02:48,852
+请立刻停船
+<i>Stop the ship immediately!</i>
+
+12
+00:02:49,012 --> 00:02:50,592
+这是中国海军
+<i>This is the Chinese Navy.</i>
+
+13
+00:02:50,672 --> 00:02:52,402
+请立刻停船
+<i>Stop the ship immediately!</i>
+
+14
+00:02:52,442 --> 00:02:53,432
+报告舰长
+<i>Captain.</i>
+
+15
+00:02:53,522 --> 00:02:54,732
+蛟龙一队及二队
+<i>Jiaolong Unit One and Unit Two</i>
+
+16
+00:02:54,782 --> 00:02:56,912
+已经成功潜入控制人质的地点
+<i>are near the hostage area.</i>
+
+17
+00:02:57,042 --> 00:02:58,892
+蛟龙三队已经抵达机房区
+<i>Jiaolong Unit Three is in the engine room</i>
+
+18
+00:02:58,942 --> 00:03:00,722
+在找可以把船弄停的方法
+<i>trying to stop the ship.</i>
+
+19
+00:03:00,812 --> 00:03:02,512
+一号位置报告情况
+<i>Alpha position, report your situation.</i>
+
+20
+00:03:05,282 --> 00:03:05,992
+报告
+<i>Reporting. </i>
+
+21
+00:03:06,042 --> 00:03:08,892
+驾驶室有三名海盗控制着15名人质
+<i>There are 3 pirates and 15 hostages on the bridge.</i>
+
+22
+00:03:20,392 --> 00:03:22,012
+二号位置什么情况？
+<i>Beta position, report your situation.</i>
+
+23
+00:03:38,942 --> 00:03:42,352
+报告 食堂目标已锁定 完毕
+Canteen target locked. Over.
+
+24
+00:03:52,452 --> 00:03:54,622
+报告舰长 所有油阀都被破坏了
+Reporting. They disabled the fuel valves.
+
+25
+00:03:54,682 --> 00:03:56,412
+我们没办法截停船的供油
+<i>We can't turn off the fuel supply.</i>
+
+26
+00:03:56,472 --> 00:03:58,752
+我现在去切断电路 把船停下
+<i>I'll cut the power and stop the ship.</i>
+
+27
+00:03:58,952 --> 00:03:59,992
+报告舰长 政委
+<i>Captain, Commissar.</i>
+
+28
+00:04:00,032 --> 00:04:01,532
+广东号突然再加速
+They picked up the speed!
+
+29
+00:04:01,602 --> 00:04:03,112
+我们还剩多长时间？
+How much time is left?
+
+30
+00:04:03,222 --> 00:04:03,992
+报告
+Sir.
+
+31
+00:04:04,102 --> 00:04:06,422
+广东号现在以23节的速度继续前行
+The ship is traveling at <i>23</i> knots.
+
+32
+00:04:06,682 --> 00:04:07,742
+如果以这个速度
+At this speed,
+
+33
+00:04:07,792 --> 00:04:08,522
+15分钟后
+we'll be in Somalian waters
+
+34
+00:04:08,572 --> 00:04:10,032
+进入索马里海域
+in 15 minutes.
+
+35
+00:04:10,742 --> 00:04:11,712
+舰长
+Captain.
+
+36
+00:04:12,162 --> 00:04:14,372
+我们绝不能进入他国领海
+We must not enter territorial waters.
+
+37
+00:04:15,192 --> 00:04:16,112
+杨锐
+RuiYang,
+
+38
+00:04:16,552 --> 00:04:18,982
+我们还剩十分钟就要撤离
+you have ten minutes.
+
+39
+00:04:19,712 --> 00:04:21,082
+全体注意
+Attention, everyone.
+
+40
+00:04:21,492 --> 00:04:23,352
+为保证所有人质安全
+For the hostages' safety, attack as one.
+
+41
+00:04:23,452 --> 00:04:26,432
+各位置必须同步攻击 等我命令 完毕
+Wait for the orders. Over.
+
+42
+00:04:28,082 --> 00:04:29,162
+左侧收到
+Left flank, roger.
+
+43
+00:04:29,262 --> 00:04:30,382
+狙击点 狙击点
+Sniper's hide.
+
+44
+00:04:30,472 --> 00:04:31,552
+收到 收到
+<i>Roget.</i>
+
+45
+00:04:31,602 --> 00:04:33,052
+你们那边有没有把握？
+<i>Can you get a fix on them?</i>
+
+46
+00:04:33,162 --> 00:04:34,312
+如果没有
+<i>If not,</i>
+
+47
+00:04:34,382 --> 00:04:36,392
+我这边三分钟之后开始强攻
+<i>we'll start the attack in three minutes.</i>
+
+48
+00:04:37,382 --> 00:04:38,912
+队长 队长
+Captain.
+
+49
+00:04:39,262 --> 00:04:42,282
+两分钟之内给你回复 完毕
+We'll report in two minutes. Over.
+
+50
+00:04:42,512 --> 00:04:43,392
+李懂
+Dong Li.
+
+51
+00:04:43,672 --> 00:04:45,392
+我们这边有没有什么机会？
+What's our opening like?
+
+52
+00:04:45,912 --> 00:04:47,892
+船头到船尾方向乱流很多
+The ship is rolling, the direction is unsteady.
+
+53
+00:04:48,002 --> 00:04:50,042
+平均风速45到55之间
+Headwinds at 45-55.
+
+54
+00:04:50,112 --> 00:04:51,682
+要避免气流对子弹的影响
+<i>For a reliable line of fire,</i>
+
+55
+00:04:51,722 --> 00:04:54,512
+我们必须和驾驶舱保持120到150米之间
+<i>we need to be within 120 to 150 meters.</i>
+
+56
+00:04:54,712 --> 00:04:56,182
+现在船速是23节
+<i>At 23 knots,</i>
+
+57
+00:04:56,292 --> 00:04:57,232
+最佳的射击位置
+<i>we'll have an optimal position</i>
+
+58
+00:04:57,282 --> 00:04:58,602
+开枪的时间只有三秒
+for only three seconds,
+
+59
+00:04:58,672 --> 00:05:00,022
+否则船就会撞过来
+or we have a risk of collision.
+
+60
+00:05:00,102 --> 00:05:02,502
+海鸟一号 有没有问题？
+<i>Seabird One, all clear?</i>
+
+61
+00:05:03,392 --> 00:05:04,502
+没问题
+All clear.
+
+62
+00:05:04,712 --> 00:05:05,512
+队长 队长
+Captain.
+
+63
+00:05:05,552 --> 00:05:07,162
+十秒之内开始狙击
+We'll attack in ten seconds.
+
+64
+00:05:07,222 --> 00:05:08,112
+完毕
+Over.
+
+65
+00:05:08,232 --> 00:05:09,242
+全体准备
+Standby.
+
+66
+00:05:13,792 --> 00:05:15,232
+进攻 进攻
+Attack!
+
+67
+00:05:24,562 --> 00:05:25,342
+数据不变
+There is no changes.
+
+68
+00:05:25,392 --> 00:05:26,222
+风向西北
+Northwest wind.
+
+69
+00:05:26,272 --> 00:05:27,462
+风速20.8
+The velocity is 20.8.
+
+70
+00:05:27,522 --> 00:05:28,442
+时间三秒
+The time is three seconds.
+
+71
+00:05:28,512 --> 00:05:29,462
+数据稳定
+<i>Data steady.</i>
+
+72
+00:05:30,132 --> 00:05:30,922
+稳定
+<i>Steady.</i>
+
+73
+00:05:31,762 --> 00:05:32,722
+稳定
+<i>Steady.</i>
+
+74
+00:05:33,312 --> 00:05:34,312
+稳定
+<i>Steady.</i>
+
+75
+00:06:30,522 --> 00:06:32,212
+蹲下 全部蹲下 全部
+Down! Everyone down!
+
+76
+00:06:32,262 --> 00:06:34,122
+报告舰长 人质全部安全
+<i>Captain, the hostages are safe,</i>
+
+77
+00:06:34,282 --> 00:06:36,852
+但是驾驶室已无法控制货船 让船停下
+<i>but we can't stop the ship.</i>
+
+78
+00:06:36,922 --> 00:06:38,512
+报告 如果船再不停下
+Reporting. If the ship still doesn't stop,
+
+79
+00:06:38,572 --> 00:06:40,072
+五分钟后必须弃船
+we'll have to abandon the ship in five minutes.
+
+80
+00:06:40,182 --> 00:06:42,312
+徐宏 报告你那边的情况
+Hong Xu, report your situation.
+
+81
+00:06:46,112 --> 00:06:47,232
+他们守着发电机
+They have the generator.
+
+82
+00:06:47,272 --> 00:06:48,512
+短时间内没办法拿下
+We're running out of time.
+
+83
+00:06:48,552 --> 00:06:50,122
+现在唯一的办法是我强攻
+We need to storm in
+
+84
+00:06:50,152 --> 00:06:52,292
+炸掉液压机 让船停下
+and blow up the hydraulics.
+
+85
+00:06:53,082 --> 00:06:54,462
+如果船停不下
+<i>If the ship doesn't stop,</i>
+
+86
+00:06:54,502 --> 00:06:56,492
+五分钟后所有人必须弃船
+<i>everyone must leave the ship in five minutes.</i>
+
+87
+00:06:57,402 --> 00:06:58,502
+盾牌给我
+Give me the shield!
+
+88
+00:07:01,842 --> 00:07:03,352
+你们两个守在这里
+You two stay here.
+
+89
+00:07:03,922 --> 00:07:04,792
+石头
+Shfiou,
+
+90
+00:07:04,912 --> 00:07:05,812
+跟我走
+come with me!
+
+91
+00:07:18,522 --> 00:07:20,112
+上面 一个
+Up there. One.
+
+92
+00:07:41,362 --> 00:07:44,192
+舰长 现在准备炸掉主轴液压装置
+Ready to blow up the hydraulics!
+
+93
+00:07:59,172 --> 00:07:59,712
+队长
+<i>Captain, </i>
+
+94
+00:07:59,762 --> 00:08:02,262
+发现枪杀船员的海盗上了小艇跑了
+<i>the hostage-taker is escaping on a boat!</i>
+
+95
+00:08:14,272 --> 00:08:15,122
+队长
+Captain!
+
+96
+00:08:15,352 --> 00:08:16,462
+我去追
+I'll chase him.
+
+97
+00:08:16,632 --> 00:08:17,562
+不行 罗星
+No, Xing Luo!
+
+98
+00:08:17,632 --> 00:08:18,872
+前方海域太多海盗
+There are too many of them.
+
+99
+00:08:18,922 --> 00:08:19,982
+太危险了
+It's too dangerous!
+
+100
+00:08:20,372 --> 00:08:22,782
+他们杀了人 不能让他们逃走
+We can't let him go!
+
+101
+00:08:27,962 --> 00:08:28,792
+好吧
+All right.
+
+102
+00:08:28,882 --> 00:08:30,102
+我批准你们的行动
+Permission granted,
+
+103
+00:08:30,162 --> 00:08:31,082
+但是注意一点
+but be careful.
+
+104
+00:08:31,152 --> 00:08:32,702
+不要跨过他国空域
+Don't cross into territorial waters.
+
+105
+00:08:33,322 --> 00:08:35,232
+进入他国空域之前
+I promise I'll get him
+
+106
+00:08:35,482 --> 00:08:37,072
+我一定会抓住他
+before we cross into territorial waters.
+
+107
+00:08:44,562 --> 00:08:45,742
+蛟二全体 蛟二全体
+Jiaolong Unit Two.
+
+108
+00:08:45,802 --> 00:08:47,202
+登船准备抓人
+Board the ship and arrest them!
+
+109
+00:09:01,412 --> 00:09:02,342
+报告舰长 政委
+Captain, Commissar.
+
+110
+00:09:02,402 --> 00:09:04,262
+三艘海盗快艇正在接近
+Three pirate boats are approaching!
+
+111
+00:09:09,952 --> 00:09:10,632
+罗星
+<i>Xing Luo.</i>
+
+112
+00:09:10,682 --> 00:09:11,642
+我们和海盗艇
+<i>We must maintain</i>
+
+113
+00:09:11,682 --> 00:09:13,432
+必须保持300米的安全距离
+<i>a 300-meters safe distance.</i>
+
+114
+00:09:25,752 --> 00:09:27,232
+海鸟一号 海鸟一号
+Seabird One!
+
+115
+00:09:27,312 --> 00:09:28,412
+你们不能再追了
+You can't go any further.
+
+116
+00:09:28,462 --> 00:09:29,432
+立即停下
+Stop now!
+
+117
+00:09:29,722 --> 00:09:31,152
+海鸟一号收到
+<i>Roget.</i>
+
+118
+00:09:31,402 --> 00:09:32,992
+请再给我一次机会
+Give me one more chance!
+
+119
+00:09:33,042 --> 00:09:34,592
+把飞机拉横
+Pull up the plane!
+
+120
+00:09:45,102 --> 00:09:45,832
+李懂
+<i>Dong Li.</i>
+
+121
+00:09:45,882 --> 00:09:47,492
+你来解决那些支援
+<i>You should handle the others!</i>
+
+122
+00:09:54,352 --> 00:09:55,662
+稳住 稳住
+<i>Steady!</i>
+
+123
+00:10:11,042 --> 00:10:11,872
+海一 海二
+<i>Sea One and Two.</i>
+
+124
+00:10:11,912 --> 00:10:12,992
+目标已经停下
+<i>The target has stopped.</i>
+
+125
+00:10:13,042 --> 00:10:15,552
+你们上船抓人 我来掩护你们
+<i>Arrest them, I'll cover you!</i>
+
+126
+00:10:15,612 --> 00:10:17,052
+海一 海二收到
+<i>Sea One and Two copy that!</i>
+
+127
+00:10:25,562 --> 00:10:26,382
+我来
+' got it!
+
+128
+00:10:43,582 --> 00:10:44,642
+罗星
+Xing Luo!
+
+129
+00:10:44,982 --> 00:10:45,792
+队员中枪
+<i>Man down!</i>
+
+130
+00:10:45,842 --> 00:10:47,222
+重复 队员中枪
+<i>Repeating. Man down!</i>
+
+131
+00:10:47,282 --> 00:10:48,532
+谁呀？谁中枪了？
+Who? Who was shot?
+
+132
+00:10:48,882 --> 00:10:49,552
+罗星
+<i>Xing Luo. </i>
+
+133
+00:10:49,612 --> 00:10:50,622
+是罗星
+<i>It's Xing Luo.</i>
+
+134
+00:10:53,602 --> 00:10:54,742
+报告舰长 政委
+<i>Captain, Commissar.</i>
+
+135
+00:10:54,802 --> 00:10:56,772
+海一 海二已经成功捕获海盗
+<i>The pirates are in custody.</i>
+
+136
+00:12:16,922 --> 00:12:18,232
+罗星已经脱离危险了
+Xing Luo is safe.
+
+137
+00:12:18,282 --> 00:12:19,632
+现在情况稳定
+His condition is stable.
+
+138
+00:12:22,042 --> 00:12:22,952
+但是
+But
+
+139
+00:12:23,492 --> 00:12:25,872
+他必须要留在吉布提集中治疗
+he has to stay in Djibouti to get treatment.
+
+140
+00:12:27,522 --> 00:12:28,752
+所以大家放心吧
+Don't worry.
+
+141
+00:12:28,842 --> 00:12:29,912
+都回去休息
+Get some rest.
+
+142
+00:12:47,362 --> 00:12:48,092
+舰长
+Captain.
+
+143
+00:12:50,202 --> 00:12:51,622
+跟队员们都说了？
+Have you told them?
+
+144
+00:12:52,092 --> 00:12:52,892
+说了
+Yes.
+
+145
+00:12:55,062 --> 00:12:55,992
+就是…
+Except that
+
+146
+00:12:57,402 --> 00:12:59,292
+他的脊柱神经被打穿
+it pierced his spinal nerve.
+
+147
+00:12:59,972 --> 00:13:01,002
+我没说
+I didn't tell them that.
+
+148
+00:13:08,682 --> 00:13:09,902
+老弟
+<i>Rm .</i>
+
+149
+00:13:10,682 --> 00:13:11,912
+你听过…
+Have you heard this?
+
+150
+00:13:12,012 --> 00:13:13,882
+"只解沙场为国死
+A soldier should know about sacrifice.
+
+151
+00:13:14,362 --> 00:13:16,492
+何须马革裹尸还"吗？
+And that he may never return.
+
+152
+00:13:18,002 --> 00:13:20,872
+他们都应该非常清楚军人的责任
+They should understand the soldiers' duty.
+
+153
+00:13:24,402 --> 00:13:27,202
+其实你可以坦白的告诉他们真相
+You can tell them the truth.
+
+154
+00:13:29,322 --> 00:13:31,682
+你是队长 不是家长
+You're the captain, not their parent.
+
+155
+00:13:33,332 --> 00:13:36,942
+老是把队员们所有的包袱都往自己身上背
+Don't take all of this personally
+
+156
+00:13:37,942 --> 00:13:39,752
+早晚得把你自己压死
+or the stress will kill you.
+
+157
+00:13:39,942 --> 00:13:40,992
+压死也没办法
+I can't help it.
+
+158
+00:13:41,042 --> 00:13:42,672
+责任确实是我的
+It's my responsibility.
+
+159
+00:13:45,342 --> 00:13:49,112
+一星期后
+
+160
+00:14:04,962 --> 00:14:06,332
+我们的目标就是他
+This is our target. William Parsons.
+
+161
+00:14:06,452 --> 00:14:08,002
+威廉·柏森
+He is the head of development
+
+162
+00:14:08,362 --> 00:14:09,712
+他是伊维亚共和国
+at an energy company in Yewaire.
+
+163
+00:14:09,752 --> 00:14:11,992
+一间能源公司的开发部主管
+His department works on
+
+164
+00:14:12,632 --> 00:14:15,692
+他的部门负责开采铀的业务
+the mining of uranium
+
+165
+00:14:15,762 --> 00:14:18,812
+还有在外地采购黄饼[核原料]的工作
+and obtaining "yellow cake" in foreign countries.
+
+166
+00:14:18,942 --> 00:14:21,032
+怪不得我们一直想不通
+That's why we couldn't figure out
+
+167
+00:14:21,082 --> 00:14:23,002
+黄饼的来源
+where the "yellow cake" came from.
+
+168
+00:14:24,992 --> 00:14:26,622
+2014年10月
+October, 2014.
+
+169
+00:14:26,762 --> 00:14:28,412
+他被调查的时间
+The month he was investigated.
+
+170
+00:14:28,442 --> 00:14:29,792
+不就和那批没记名的黄饼
+That was the same time
+
+171
+00:14:29,842 --> 00:14:31,532
+被偷运的时间一样？
+the unmarked "yellow cake" was smuggled in.
+
+172
+00:14:31,602 --> 00:14:32,652
+就是嘛
+Exactly.
+
+173
+00:14:33,022 --> 00:14:34,182
+线人说
+My guy says
+
+174
+00:14:34,242 --> 00:14:38,262
+威廉手上仍有一批数量不少的黄饼
+that William still has access to an abundant amount of "yellow cake".
+
+175
+00:14:38,632 --> 00:14:40,472
+他刚得到
+And he has
+
+176
+00:14:40,552 --> 00:14:43,292
+制造脏弹[核污染炸弹]的技术
+just acquired the technology to make 30 bombs.
+
+177
+00:14:47,402 --> 00:14:49,352
+现在伊维亚的局势这样紧张
+The situation in Yewaire is tense.
+
+178
+00:14:49,412 --> 00:14:51,302
+如果那批黄饼仍在那里的话
+If that "yellow cake" is still there,
+
+179
+00:14:51,362 --> 00:14:54,042
+他很有可能会尽快交易并把黄饼运走
+he wants to finish the deal and get rid of it.
+
+180
+00:14:54,112 --> 00:14:55,882
+我们一定要跟着这条线
+We must follow this lead.
+
+181
+00:14:56,252 --> 00:14:58,332
+关于威廉还有另外一个新闻
+There is another report on William
+
+182
+00:14:58,422 --> 00:15:01,872
+有一个少女之前遭到性虐待
+about a sexual abuse case of a young girl.
+
+183
+00:15:02,682 --> 00:15:04,922
+所有的证据都直指威廉
+Okay? And all evidence points to him.
+
+184
+00:15:05,112 --> 00:15:06,882
+线人接触过她
+My guy talked to the girl and she said
+
+185
+00:15:07,002 --> 00:15:10,512
+她提到威廉从来不会脱下脖子上的项链
+William never took off his necklace
+
+186
+00:15:10,562 --> 00:15:13,162
+因为他说里面有一个
+because he said it contains a secret
+
+187
+00:15:13,242 --> 00:15:16,352
+可以让世界大乱的秘密
+that would turn the world into chaos.
+
+188
+00:15:21,802 --> 00:15:22,912
+我查到了
+I've got it.
+
+189
+00:15:23,072 --> 00:15:24,122
+我马上就飞一趟
+I'm going straight there.
+
+190
+00:15:24,202 --> 00:15:25,242
+但同时明天一早
+And tomorrow morning,
+
+191
+00:15:25,292 --> 00:15:27,342
+我会让阿布出一整版的报料
+Abu will publish a full-page report.
+
+192
+00:15:27,402 --> 00:15:29,352
+看看能不能延缓一下他们的行动
+Let's do something to sabotage their plan.
+
+193
+00:15:29,652 --> 00:15:31,152
+这件事你别再跟进了
+Don't take this any further.
+
+194
+00:15:32,002 --> 00:15:33,192
+你也知道
+You already know
+
+195
+00:15:33,702 --> 00:15:35,132
+现在恐怖分子对你不利
+the terrorists are onto you.
+
+196
+00:15:35,172 --> 00:15:36,342
+那又怎样？
+So what?
+
+197
+00:15:38,002 --> 00:15:40,082
+现在不是刺你几刀的问题
+It's not about scaring you,
+
+198
+00:15:40,842 --> 00:15:43,072
+也不是你个人怕不怕的问题
+nor it is about you being scared.
+
+199
+00:15:45,932 --> 00:15:47,872
+Albert 你应该比谁都清楚
+Albert, you know better than anyone
+
+200
+00:15:48,122 --> 00:15:50,162
+我为什么离开之前那几家大的报社
+why I left those big newspapers.
+
+201
+00:15:50,202 --> 00:15:52,322
+不就是因为他们总是选择性的报导吗？
+It's because they always do selective reporting
+
+202
+00:15:52,632 --> 00:15:54,472
+到最后总是掩盖事实真相
+and covered up the truth!
+
+203
+00:15:54,572 --> 00:15:56,652
+- 而我记得你找我来 你跟我说过 - 不
+- When you hired me, you said-- - No!
+
+204
+00:15:56,722 --> 00:15:58,902
+- 你需要一个敢于走近真相的人 - 不
+- I have the guts to go expose the truth. - No!
+
+205
+00:15:58,942 --> 00:16:00,132
+- 所以我来了 - 不 不
+- That's why I'm here! - No!
+
+206
+00:16:01,682 --> 00:16:03,182
+我欣赏你的拼劲
+I appreciate your tenacity,
+
+207
+00:16:03,972 --> 00:16:05,792
+但是凡事总有一个限度
+but there are limits.
+
+208
+00:16:06,222 --> 00:16:09,542
+你自己曾经坚持和相信的是不是已经忘了？
+Did you forget what you stand for?
+
+209
+00:16:10,392 --> 00:16:14,682
+"如果你的照片不够好 那表示你还离得不够近"
+
+210
+00:16:50,682 --> 00:16:54,552
+我绝对不容许我再有员工有生命危险
+<i>I definitely won't risk the lives of my staff!</i>
+
+211
+00:16:59,762 --> 00:17:01,912
+总有一些东西比生命更重要
+But there are things that are more important than life.
+
+212
+00:17:10,622 --> 00:17:12,452
+今天凌晨3点43分
+At 0300 hours this morning,
+
+213
+00:17:12,522 --> 00:17:15,752
+我舰接到外交部发来的紧急消息
+the Foreign Ministry sent an urgent message.
+
+214
+00:17:16,042 --> 00:17:16,872
+就在五天前
+Five days ago, there was a coup in Yewaire.
+
+215
+00:17:16,922 --> 00:17:19,042
+伊维亚共和国发生了军事政变
+By order of the Central Military Commission,
+
+216
+00:17:19,142 --> 00:17:20,422
+根据中央军委命令
+the Naval Command appoints us
+
+217
+00:17:20,492 --> 00:17:21,892
+海军指示我舰
+to head to Yewaire immediately
+
+218
+00:17:21,962 --> 00:17:24,582
+即刻前往阿拉伯半岛的伊维亚共和国
+and evacuate all Chinese citizens.
+
+219
+00:17:24,662 --> 00:17:26,742
+撤离我国在那儿的侨民
+It has been five days since the civil war
+
+220
+00:17:30,142 --> 00:17:32,362
+伊维亚共和国发生内战
+broke out in the Republic of lhwea.
+
+221
+00:17:32,412 --> 00:17:33,872
+已经五天
+And the insurgence played by General Sharaf
+
+222
+00:17:33,962 --> 00:17:36,412
+由沙拉夫将军率领的叛军
+have already seized the Republic's major cities.
+
+223
+00:17:36,502 --> 00:17:38,902
+已占领多个主要城市
+Our footage shows that large
+
+224
+00:17:39,122 --> 00:17:40,342
+片段所见
+groups of citizens and expats
+
+225
+00:17:40,402 --> 00:17:44,542
+大批市民和各国侨民纷纷逃离战区
+are fleeing the war zone.
+
+226
+00:17:44,622 --> 00:17:46,942
+另有消息指出
+In addition,
+
+227
+00:17:47,022 --> 00:17:50,702
+内战中有多人失踪或被绑架
+sources claim that many people were missing
+
+228
+00:17:50,772 --> 00:17:52,032
+包括外国侨民
+or abducted during the civil war
+
+229
+00:17:52,082 --> 00:17:55,752
+及伊维亚政府高层官员
+including expats and high-level officials
+
+230
+00:17:55,802 --> 00:17:58,712
+怀疑是国内极端组织
+of the lhwea government.
+
+231
+00:17:58,792 --> 00:18:00,462
+扎卡所为
+And is is expected to be
+
+232
+00:18:01,362 --> 00:18:02,402
+这个扎卡
+an act by the country's extremist group Zaka.
+
+233
+00:18:02,452 --> 00:18:05,192
+为了让伊维亚政府承认他们的组织
+This group, Zaka, has been spreading terrorism
+
+234
+00:18:05,282 --> 00:18:06,952
+多次发动恐怖袭击
+in the bid for recognition.
+
+235
+00:18:07,662 --> 00:18:08,592
+近两年
+For the past two years,
+
+236
+00:18:08,632 --> 00:18:11,322
+更是联合了多个极端主义恐怖组织
+<i>they joined other extremist groups</i>
+
+237
+00:18:11,532 --> 00:18:13,612
+在欧亚地区展开行动
+across Europe and Asia and get into action.
+
+238
+00:18:14,122 --> 00:18:16,062
+这次伊维亚的军事政变
+During this coup,
+
+239
+00:18:16,142 --> 00:18:17,712
+就是扎卡支持了
+Zaka has supported
+
+240
+00:18:17,772 --> 00:18:20,282
+号称"疯子"的沙拉夫将军
+General Sharaf who also known as Madman.
+
+241
+00:18:20,422 --> 00:18:22,642
+根据外交部提供的人员名单
+<i>According to the list given by the Foreign Ministry,</i>
+
+242
+00:18:22,702 --> 00:18:24,782
+目前我们需要从伊维亚撤走的
+<i>we need to evacuate</i>
+
+243
+00:18:24,822 --> 00:18:26,942
+我国登记人员130人
+<i>a total of 130 Chinese citizens</i>
+
+244
+00:18:27,202 --> 00:18:30,082
+还有我国公司的外籍雇用人员30人
+<i>and 30 foreign staff of Chinese companies.</i>
+
+245
+00:18:30,642 --> 00:18:33,462
+临沂号立即前往伊维亚执行任务
+<i>Linyi is to sail for Yewaire.</i>
+
+246
+00:18:33,522 --> 00:18:35,322
+其余舰只返航
+<i>The other ships will return home.</i>
+
+247
+00:19:05,412 --> 00:19:06,872
+- 你干嘛？- 对不起 对不起…
+- What are you doing? - Sorry.
+
+248
+00:19:11,402 --> 00:19:12,382
+集合了
+Let's go.
+
+249
+00:19:13,602 --> 00:19:14,762
+全体注意
+<i>Listen up!</i>
+
+250
+00:19:15,132 --> 00:19:16,532
+这次任务的性质
+<i>For this mission,</i>
+
+251
+00:19:17,002 --> 00:19:19,262
+要求我们只能以小分队作战
+<i>we'll break into small teams.</i>
+
+252
+00:19:19,542 --> 00:19:21,072
+不能携带大量弹药
+<i>We can't carry much ammunition.</i>
+
+253
+00:19:21,392 --> 00:19:23,672
+上级已经协调了当地的政府军
+<i>The local army</i>
+
+254
+00:19:23,722 --> 00:19:25,172
+提供弹药支援
+<i>will supply materials.</i>
+
+255
+00:19:25,442 --> 00:19:27,712
+但是他们的子弹口径和武器
+<i>But their weapons and calibers</i>
+
+256
+00:19:27,762 --> 00:19:29,002
+都跟我们不同
+<i>are different from ours.</i>
+
+257
+00:19:29,322 --> 00:19:31,562
+所以我们这一次也要改用
+<i>So we'll be using defensive weapons</i>
+
+258
+00:19:31,612 --> 00:19:33,162
+欧盟的武器和装备
+<i>from the EU.</i>
+
+259
+00:19:48,552 --> 00:19:49,622
+你动我糖啦？
+Did you touch my candy?
+
+260
+00:20:04,642 --> 00:20:06,422
+原来调过来的是顾顺
+So they've sent us Shun Gu.
+
+261
+00:20:07,042 --> 00:20:08,432
+听说他很拽的
+I heard he's pretty arrogant.
+
+262
+00:20:08,612 --> 00:20:10,312
+果然闻名不如见面
+See for yourself.
+
+263
+00:20:15,682 --> 00:20:16,632
+报告队长
+Captain!
+
+264
+00:20:16,762 --> 00:20:18,482
+狙击手顾顺报到
+Sniper Shun Gu is reporting.
+
+265
+00:20:20,842 --> 00:20:21,672
+欢迎
+Welcome.
+
+266
+00:20:22,082 --> 00:20:22,862
+李懂
+Dong Li!
+
+267
+00:20:22,962 --> 00:20:23,512
+到
+Present!
+
+268
+00:20:23,572 --> 00:20:24,432
+过来
+Come here.
+
+269
+00:20:25,842 --> 00:20:27,942
+他是代替罗星的人 你们认识一下
+Meet Xing Luo's replacement.
+
+270
+00:20:29,562 --> 00:20:30,692
+我是观察员李懂
+I'm the spotter, Dong Li.
+
+271
+00:20:30,752 --> 00:20:31,832
+我是顾顺
+I'm Shun Gu.
+
+272
+00:20:32,762 --> 00:20:33,582
+队长
+Captain.
+
+273
+00:20:33,662 --> 00:20:34,672
+上级有特别任务
+We have a special mission.
+
+274
+00:20:34,732 --> 00:20:35,892
+需要咱们过去对接一下
+They need us now.
+
+275
+00:20:35,952 --> 00:20:36,762
+好 那这样
+Right.
+
+276
+00:20:36,822 --> 00:20:38,362
+你带他认识一下我们队员
+You should introduce him to the rest.
+
+277
+00:20:38,682 --> 00:20:39,492
+是
+Yes, sir!
+
+278
+00:20:45,902 --> 00:20:47,272
+你能跟着罗星
+If you were Xing Luo's spotter,
+
+279
+00:20:47,322 --> 00:20:48,832
+说明你有两下子
+you must know your stuff.
+
+280
+00:20:49,002 --> 00:20:49,982
+找个机会
+I look forward
+
+281
+00:20:50,142 --> 00:20:51,312
+让我见识见识
+to seeing that.
+
+282
+00:20:52,802 --> 00:20:54,682
+那也让我见识一下你的本事
+The feeling is mutual.
+
+283
+00:20:55,942 --> 00:20:57,312
+以后有的是机会
+You'll have your chance.
+
+284
+00:21:05,652 --> 00:21:07,172
+听着 等一会政府军来
+Listen, when the troop comes to
+
+285
+00:21:07,212 --> 00:21:09,432
+撤走威廉博士他们的时候
+take Dr. William and the others,
+
+286
+00:21:09,592 --> 00:21:12,412
+我去拦车 你处理剩下的事
+I'll stop them and you will take care of the rest.
+
+287
+00:21:12,592 --> 00:21:13,852
+明白了吗？
+You got it?
+
+288
+00:21:14,472 --> 00:21:15,512
+你明白了吗？
+You got it?
+
+289
+00:21:15,742 --> 00:21:18,362
+明白 明白 放松点吧
+Yeah, yes. I got it. Relax.
+
+290
+00:21:19,712 --> 00:21:20,862
+威廉博士 不要再催我了
+<i>Stop pushing me, Doctor.</i>
+
+291
+00:21:20,942 --> 00:21:22,072
+你看看新闻
+<i>Look at the news.</i>
+
+292
+00:21:22,192 --> 00:21:23,632
+到处都是军人
+<i>The military is everywhere.</i>
+
+293
+00:21:23,782 --> 00:21:25,242
+现在可是一触即发
+<i>And the chaos, it is everywhere.</i>
+
+294
+00:21:25,392 --> 00:21:27,602
+我不要听借口
+I'm not in the mood to hear any excuses.
+
+295
+00:21:27,812 --> 00:21:28,832
+钱收了
+You took the money,
+
+296
+00:21:28,882 --> 00:21:30,722
+事就得办
+now the job is to have it done.
+
+297
+00:21:31,922 --> 00:21:33,552
+你答应我一星期
+You promised me one week.
+
+298
+00:21:34,172 --> 00:21:36,642
+货必须运走
+So the shipment must be on the plane.
+
+299
+00:21:37,212 --> 00:21:40,072
+否则有麻烦不只是我一个人…
+If it's not, I'm not the only one who's going to be in trouble.
+
+300
+00:21:41,402 --> 00:21:43,132
+你是将军
+You are the General.
+
+301
+00:21:43,192 --> 00:21:45,832
+我相信这难不倒你
+And I'm sure that you can handle this situation.
+
+302
+00:22:07,082 --> 00:22:08,902
+何领事 第三批侨民车队
+<i>Consul He,the third group</i>
+
+303
+00:22:08,922 --> 00:22:10,382
+已经顺利到达港口
+<i>has reached the port.</i>
+
+304
+00:22:15,272 --> 00:22:16,462
+卢医生
+<i>Dr. Lu.</i>
+
+305
+00:22:16,902 --> 00:22:17,842
+何领事
+<i>Consul He.</i>
+
+306
+00:22:17,962 --> 00:22:18,932
+你好 你好
+Hello.
+
+307
+00:22:20,752 --> 00:22:21,542
+夫人呢？
+Where's your wife?
+
+308
+00:22:21,592 --> 00:22:23,832
+她公司稍后也会让她撤离的
+Her company is doing the evacuation.
+
+309
+00:22:23,902 --> 00:22:25,362
+她那边情况到底怎么样？
+How is it going over there?
+
+310
+00:22:25,482 --> 00:22:26,312
+别提了
+You can't even imagine.
+
+311
+00:22:26,392 --> 00:22:27,882
+我这一出门太着急了
+I rushed here in panic,
+
+312
+00:22:27,932 --> 00:22:29,102
+手机不知道落哪儿了
+I don't even know where my phone is.
+
+313
+00:22:29,162 --> 00:22:30,002
+马上打给她
+Call her now.
+
+314
+00:22:30,052 --> 00:22:30,852
+谢谢
+Thank you.
+
+315
+00:22:32,322 --> 00:22:32,912
+喂？
+<i>Hello?</i>
+
+316
+00:22:33,322 --> 00:22:33,882
+小梅吗？
+<i>-Mei?</i>
+
+317
+00:22:33,942 --> 00:22:35,562
+你怎么一直不接电话？
+Why didn't you pick up?
+
+318
+00:22:35,612 --> 00:22:36,642
+急死我了
+I was so worried!
+
+319
+00:22:36,732 --> 00:22:39,142
+不用担心 我们已经到达领事馆了
+<i>Don't worry, we're at the consulate.</i>
+
+320
+00:22:39,202 --> 00:22:39,932
+你那儿怎么样？
+How is it over there?
+
+321
+00:22:39,972 --> 00:22:41,152
+轩轩和你都到了吗？
+<i>Are you there with Xian-xuan?</i>
+
+322
+00:22:41,212 --> 00:22:42,602
+都到了 放心吧
+Yes, don't worry.
+
+323
+00:22:42,802 --> 00:22:44,022
+我问问情况
+<i>- Let me talk to her. - Make sure Xian-xuan is with you.</i>
+
+324
+00:22:44,102 --> 00:22:45,192
+何领事找你
+Consul He wants a word.
+
+325
+00:22:45,242 --> 00:22:46,122
+邓梅啊？
+Mei Deng?
+
+326
+00:22:46,202 --> 00:22:47,182
+我是何清流
+It's Qing-liu He.
+
+327
+00:22:47,262 --> 00:22:48,462
+你那边怎么安排的？
+<i>What's your plan over there?</i>
+
+328
+00:22:48,562 --> 00:22:49,702
+何领事您好
+Hello, Consul He.
+
+329
+00:22:49,902 --> 00:22:52,572
+政府军会来公司接我们去一个临时安置点
+Government troops are coming
+
+330
+00:22:52,612 --> 00:22:53,772
+再统一安排撤离
+to coordinate
+
+331
+00:22:53,842 --> 00:22:54,752
+你注意啊
+our evacuation.
+
+332
+00:22:54,802 --> 00:22:56,162
+要随时保持联系
+<i>Remember to keep in touch.</i>
+
+333
+00:22:56,242 --> 00:22:57,142
+我知道
+I know.
+
+334
+00:22:57,182 --> 00:22:59,132
+政府军一到 我马上通知你们
+I'll call as soon as the troops arrive.
+
+335
+00:22:59,582 --> 00:23:02,032
+这不是你我能控制的
+The situation could change so fast, and that's not under my control or yours.
+
+336
+00:23:02,442 --> 00:23:03,032
+是的
+Yes,
+
+337
+00:23:03,082 --> 00:23:06,312
+我正在动用一切资源来解决这件事
+I'm using all of my resources to settle this issue.
+
+338
+00:23:06,372 --> 00:23:08,192
+您必须相信我
+You have to trust me.
+
+339
+00:23:15,232 --> 00:23:16,152
+报告舰长 政委
+<i>Captain, Commissar.</i>
+
+340
+00:23:16,202 --> 00:23:18,422
+伊维亚批准我们进入奥哈法港口
+<i>We have permission to enter the port!</i>
+
+341
+00:23:19,702 --> 00:23:21,972
+- 全舰进入二级战斗部署 - 是
+- Battle-ready deployment grade two! - Yes, sir!
+
+342
+00:23:36,802 --> 00:23:38,112
+我们的舰来了
+That's our warship!
+
+343
+00:23:38,192 --> 00:23:39,332
+来了 来了
+It's here!
+
+344
+00:24:10,042 --> 00:24:11,022
+舰长
+Captain.
+
+345
+00:24:12,702 --> 00:24:13,972
+伊维亚情况有变
+We have a new situation in Yewaire.
+
+346
+00:24:14,082 --> 00:24:16,042
+他的总统今早遇袭重伤
+There is an assassination attempt on the President.
+
+347
+00:24:16,092 --> 00:24:18,682
+现在由他的秘书长莫哈迪代理国务
+The Chief Secretary Mohadi has taken charge for now.
+
+348
+00:24:18,742 --> 00:24:21,882
+伊维亚政府已向我外交部发出请求
+Their government is asking us
+
+349
+00:24:22,032 --> 00:24:24,792
+希望我们能保护他的家人离开这里
+to take his family to safety.
+
+350
+00:24:24,842 --> 00:24:26,412
+上级已经同意
+Our superior has agreed
+
+351
+00:24:26,552 --> 00:24:28,362
+并指示我舰负责
+and given Linyi this duty.
+
+352
+00:24:29,902 --> 00:24:30,902
+明白了
+Understood.
+
+353
+00:24:31,292 --> 00:24:32,932
+我去调整一下安保
+I'll check the security.
+
+354
+00:24:35,152 --> 00:24:36,062
+领事
+<i>Consul</i>
+
+355
+00:24:36,242 --> 00:24:37,382
+人已经齐了
+We've got everyone.
+
+356
+00:24:37,482 --> 00:24:38,292
+军方的车呢？
+- How about the escort? - They're here.
+
+357
+00:24:38,352 --> 00:24:39,172
+车也到了
+We'll leave straight away.
+
+358
+00:24:39,242 --> 00:24:40,632
+我们马上出发
+- Go tell them! - Okay.
+
+359
+00:24:40,792 --> 00:24:41,902
+- 快去通知 - 好
+Get your bags quickly.
+
+360
+00:24:42,002 --> 00:24:43,192
+大家赶紧收拾行李
+We're leaving now!
+
+361
+00:24:43,242 --> 00:24:45,352
+准备出发了 快
+Quick!
+
+362
+00:24:56,362 --> 00:24:59,062
+中国领事离开了 中国领事离开了
+The Chinese consul has left.
+
+363
+00:25:00,002 --> 00:25:02,772
+走 把他们逼入战区
+Let's go! Let's force them into the war zone!
+
+364
+00:25:25,232 --> 00:25:26,512
+阿布 蹲下
+Hey, get down.
+
+365
+00:25:33,882 --> 00:25:35,992
+该死 是扎卡的人
+Shit, it's Zaka.
+
+366
+00:25:44,722 --> 00:25:46,162
+扎卡的人闯进来了
+Zaka is coming!
+
+367
+00:25:46,232 --> 00:25:47,952
+他们已经杀了警卫
+They've killed the guards!
+
+368
+00:25:48,342 --> 00:25:51,312
+快逃 躲起来
+Run! Hide yourselves!
+
+369
+00:26:05,372 --> 00:26:06,652
+冲过去 冲过去
+Just push through!
+
+370
+00:26:07,552 --> 00:26:09,762
+通知后面的政府军车上前开路
+Inform the army vehicle at the back to overtake
+
+371
+00:26:09,832 --> 00:26:11,852
+让侨民的车到我们前面来
+and let the consul's vehicle follow their back.
+
+372
+00:26:14,282 --> 00:26:17,312
+中国领事车队刚刚转入战区
+The convoy is in the war zone.
+
+373
+00:26:23,932 --> 00:26:25,432
+退 快退
+Reverse! Quick!
+
+374
+00:26:25,472 --> 00:26:26,912
+快 倒车
+Hurry, reverse!
+
+375
+00:26:30,712 --> 00:26:32,192
+后方有武装分子
+There are rebels behind us.
+
+376
+00:26:34,522 --> 00:26:35,862
+马上联系军舰
+Contact the warship now!
+
+377
+00:26:36,882 --> 00:26:38,182
+建立防守线
+Set up a defensive line!
+
+378
+00:26:48,892 --> 00:26:50,492
+不要下车 趴下
+Stay there, get down!
+
+379
+00:26:57,362 --> 00:26:58,462
+不能被困在这儿
+Don't let them trap us!
+
+380
+00:26:58,512 --> 00:26:59,872
+我们躲进去 快
+We need to hide, quick!
+
+381
+00:26:59,962 --> 00:27:01,572
+全部人立即下车
+Everyone, get down from the car now!
+
+382
+00:27:02,572 --> 00:27:03,082
+快
+Hurry!
+
+383
+00:27:03,132 --> 00:27:04,752
+跟上 一个一个来
+Don't panic, one at a time!
+
+384
+00:27:05,502 --> 00:27:06,392
+快
+Hurry!
+
+385
+00:27:10,342 --> 00:27:11,792
+快 快快快
+Quick, quick!
+
+386
+00:27:12,332 --> 00:27:13,392
+你带领事走
+Take the consul!
+
+387
+00:27:14,312 --> 00:27:15,502
+领事 快走
+Consul, hurry!
+
+388
+00:27:19,962 --> 00:27:22,592
+中国侨民及领事躲在工厂里
+The consul and others went into a factory.
+
+389
+00:27:31,342 --> 00:27:32,232
+舰长
+Captain.
+
+390
+00:27:41,442 --> 00:27:42,322
+报告 我是杨锐
+Rui Yang speaking.
+
+391
+00:27:42,382 --> 00:27:45,162
+刚刚接到驻伊领事何清流的求救电话
+<i>Consul Qing-liu He just sent an SOS.</i>
+
+392
+00:27:45,282 --> 00:27:48,312
+他跟最后一批侨民在撤离途中遇到袭击
+<i>His convoy was ambushed.</i>
+
+393
+00:27:48,362 --> 00:27:51,112
+伊维亚政府暂时无法提供人员营救
+<i>Yewaire can't spare any troops,</i>
+
+394
+00:27:51,232 --> 00:27:53,802
+但是他们已经允许我们的部队进城救人
+<i>but we have their permission to go in.</i>
+
+395
+00:27:53,912 --> 00:27:56,352
+并在港口提供交通支持
+<i>They'll clear the roads out of the port.</i>
+
+396
+00:28:46,042 --> 00:28:47,312
+全体注意 全体注意
+Listen up, everyone.
+
+397
+00:28:47,362 --> 00:28:49,592
+目标工厂所处街道目前我们无法进入
+<i>We can't get to the factory by road,</i>
+
+398
+00:28:49,692 --> 00:28:52,442
+我们改由毗邻的居民楼屋顶进入工厂
+<i>so we'll go over the roofs.</i>
+
+399
+00:28:52,502 --> 00:28:53,242
+那么一队
+<i>Unit One, </i>
+
+400
+00:28:53,312 --> 00:28:54,192
+顾顺 李懂
+<i>Shun Gu, Dong Li.</i>
+
+401
+00:28:54,262 --> 00:28:56,132
+你们负责留在厂外建立制高点
+<i>Your duty is to establish an over watch.</i>
+
+402
+00:28:56,192 --> 00:28:57,882
+其余人跟我进工厂内搜救
+<i>The rest are on search and rescue.</i>
+
+403
+00:28:57,942 --> 00:29:00,682
+二队 你们派三个人支援工厂外武警
+<i>Unit Two, send three people to help the military police.</i>
+
+404
+00:29:00,772 --> 00:29:02,112
+其余五人留守车队
+<i>The rest will guard the convoy.</i>
+
+405
+00:29:02,162 --> 00:29:02,952
+完毕
+Over.
+
+406
+00:29:17,572 --> 00:29:19,432
+什么？第五大道也失守了？
+<i>What? We lost the Fifth Road?</i>
+
+407
+00:29:19,522 --> 00:29:21,822
+不行…不能走拉法叶大道
+<i>No, don't go by Lafayette.</i>
+
+408
+00:29:21,882 --> 00:29:25,392
+那里出路太少 去兹玛路拐过去吧
+<i>There are no escape routes. Try Zima Road.</i>
+
+409
+00:29:49,562 --> 00:29:51,512
+别过来
+Don't come.
+
+410
+00:30:06,432 --> 00:30:08,122
+找到威廉博士没有？
+<i>Did you find Dr. William?</i>
+
+411
+00:30:08,402 --> 00:30:09,582
+还没找到
+Not yet.
+
+412
+00:30:09,662 --> 00:30:12,712
+一定要把他找出来 他对我们很重要
+<i>Find him! He's the key.</i>
+
+413
+00:31:10,572 --> 00:31:11,812
+快走 快走
+Move it!
+
+414
+00:31:25,702 --> 00:31:28,202
+距离目标还有一分钟 全体准备
+One minute before our target. Grab your guns!
+
+415
+00:31:42,622 --> 00:31:43,942
+支援武警
+<i>Support the military police.</i>
+
+416
+00:31:49,272 --> 00:31:51,372
+我方人员受到袭击 请求还击
+We are under fire. Permission to return fire!
+
+417
+00:31:51,422 --> 00:31:52,432
+同意
+<i>Granted.</i>
+
+418
+00:31:57,572 --> 00:31:59,322
+零一零一 车队到达
+Base, we've arrived at the target.
+
+419
+00:32:02,162 --> 00:32:03,792
+二队 留守车队
+<i>Unit Two, defend the convoy!</i>
+
+420
+00:32:13,982 --> 00:32:15,342
+烟雾弹掩护
+Smoke bomb!
+
+421
+00:32:25,962 --> 00:32:28,192
+左右两侧 建立防守线 快
+<i>Flanks, set up a defensive line!</i>
+
+422
+00:32:54,022 --> 00:32:55,772
+零一零一 进入天台
+Base, we're on the roof.
+
+423
+00:32:59,862 --> 00:33:00,792
+安全
+All clear.
+
+424
+00:33:02,052 --> 00:33:03,872
+顾顺 李懂 找制高点
+Shun Gu, Dong Li, find an over watch.
+
+425
+00:33:25,482 --> 00:33:26,592
+接近制高点
+Approaching over watch.
+
+426
+00:33:52,112 --> 00:33:54,192
+零一零一 到达工厂天台
+Base, we're on the factory roof.
+
+427
+00:33:57,342 --> 00:33:58,452
+一队进入
+Unit One is in!
+
+428
+00:34:00,372 --> 00:34:02,992
+你停车 你的小孩就死定了
+If you stop, the kids will die!
+
+429
+00:34:03,022 --> 00:34:05,122
+一定要撞过去
+Crash into them!
+
+430
+00:34:05,162 --> 00:34:08,042
+否则我会一枪把他们脑袋轰掉
+Or I'll blow their brains out!
+
+431
+00:34:08,082 --> 00:34:09,222
+你以为我在开玩笑？
+Do you think I'm kidding?
+
+432
+00:34:09,242 --> 00:34:10,732
+是不是以为我在开玩笑？
+See this?
+
+433
+00:34:10,802 --> 00:34:13,722
+看见没有 你停车 我就杀死他们
+If you stop, they will be dead.
+
+434
+00:34:13,782 --> 00:34:16,032
+冲过去 给我炸死他们
+Go on, blow them up!
+
+435
+00:34:16,082 --> 00:34:17,202
+我明白了
+I understand!
+
+436
+00:34:23,032 --> 00:34:24,292
+狙击手就位
+Sniper in position.
+
+437
+00:34:40,412 --> 00:34:42,432
+汽车炸弹 快把它截住
+It's a car bomb! Stop it!
+
+438
+00:34:49,052 --> 00:34:51,162
+全部人躲开 全部人躲开
+Everyone, take cover!
+
+439
+00:34:57,322 --> 00:34:58,912
+外面爆炸声 什么情况？
+What was that explosion?
+
+440
+00:35:00,552 --> 00:35:02,292
+有汽车炸弹袭击关卡
+<i>There is a car bomb at the checkpoint.</i>
+
+441
+00:35:02,452 --> 00:35:03,952
+政府军伤亡惨重
+<i>Heavy casualties for government troops.</i>
+
+442
+00:35:06,832 --> 00:35:08,402
+二队 加强防守
+<i>Unit Two, step it up!</i>
+
+443
+00:35:08,442 --> 00:35:09,942
+保住撤退点
+<i>Hold the evacuation point!</i>
+
+444
+00:35:35,372 --> 00:35:37,172
+怎么了？有药吗？
+What's wrong? Do you need the inhaler?
+
+445
+00:35:52,652 --> 00:35:53,702
+赶快 赶快
+Hurry up!
+
+446
+00:35:53,732 --> 00:35:55,432
+我已经开到最快了
+This is the fastest I can go.
+
+447
+00:36:14,562 --> 00:36:16,792
+分散守住所有出口
+Block all exits!
+
+448
+00:36:17,682 --> 00:36:19,512
+把中国人都找出来
+Find those Chinese people!
+
+449
+00:37:41,752 --> 00:37:43,402
+击毙 上
+Got them. Move!
+
+450
+00:37:46,102 --> 00:37:46,912
+谁？
+Who's there?
+
+451
+00:37:46,962 --> 00:37:47,962
+中国武警
+Chinese military police!
+
+452
+00:37:48,232 --> 00:37:50,042
+- 陆琛 检查他 - 是
+- Chen Lu, check his wounds. - Yes, sir!
+
+453
+00:37:54,942 --> 00:37:56,022
+中国海军
+Chinese Navy.
+
+454
+00:37:56,672 --> 00:37:57,432
+我们带你们回家
+We'll take you home.
+
+455
+00:37:57,472 --> 00:37:59,762
+- 安子 安子 收到吗？- 收到 请讲
+An-zi, can you hear me?
+
+456
+00:37:59,802 --> 00:38:01,162
+我是领事何清流
+- I'm Consul Qing-liu He. - Yes, I'm here.
+
+457
+00:38:01,212 --> 00:38:01,832
+你们在哪里？
+<i>Where are you?</i>
+
+458
+00:38:01,872 --> 00:38:03,472
+我们被困了 在车间里
+<i>We are trapped in the workshop!</i>
+
+459
+00:38:05,202 --> 00:38:06,552
+徐宏 庄羽 张天德
+Hong Xu, Yu Zhuang, Tian-de Zhang.
+
+460
+00:38:06,632 --> 00:38:07,352
+你们带侨民撤离
+Evacuate the citizens.
+
+461
+00:38:07,402 --> 00:38:08,592
+其他人跟我行动
+Everyone else, come with me.
+
+462
+00:38:34,992 --> 00:38:35,792
+手雷
+Grenade!
+
+463
+00:38:41,802 --> 00:38:43,772
+两个右边房间 一个在外面
+There are two in the room and one is outside!
+
+464
+00:38:54,442 --> 00:38:56,072
+佟莉 压着他们打
+Li Tong! Let them taste hell!
+
+465
+00:39:05,082 --> 00:39:06,152
+倒了一个
+One down!
+
+466
+00:39:10,922 --> 00:39:12,752
+小心 火箭炮
+Watch out! Bazooka!
+
+467
+00:39:21,682 --> 00:39:22,672
+撤
+Move!
+
+468
+00:39:26,462 --> 00:39:27,052
+坚持住
+Hold on!
+
+469
+00:39:27,082 --> 00:39:28,362
+庄羽 撤 撤
+Yu Zhuang, move out!
+
+470
+00:39:28,762 --> 00:39:29,552
+走
+Go!
+
+471
+00:39:29,832 --> 00:39:30,562
+石头
+Shitou!
+
+472
+00:39:33,072 --> 00:39:34,202
+来 走
+Come on, go!
+
+473
+00:39:34,272 --> 00:39:36,222
+撤退点 撤退点 侨民现在撤出
+<i>Evacuation point! We're on the way!</i>
+
+474
+00:39:36,252 --> 00:39:37,392
+你们准备接应
+<i>Be ready!</i>
+
+475
+00:39:38,092 --> 00:39:39,432
+全体掩护射击
+<i>Everyone, covering fire!</i>
+
+476
+00:39:43,002 --> 00:39:44,312
+一队快速通过
+Unit One is going through!
+
+477
+00:39:45,352 --> 00:39:47,742
+走 快点 快 蹲低一点
+Quick, stay low!
+
+478
+00:39:55,342 --> 00:39:56,082
+注意
+Watch out,
+
+479
+00:39:56,172 --> 00:39:58,442
+十二点方向怀疑是汽车炸弹
+it is suspected that there is a car bomb at 12 o'clock!
+
+480
+00:40:01,772 --> 00:40:03,572
+快 上车 大家上车 快
+Quick, get in!
+
+481
+00:40:03,782 --> 00:40:06,502
+一队 快走快走 有汽车炸弹
+<i>Unit One! Hurry! There is a car bomb!</i>
+
+482
+00:40:12,922 --> 00:40:14,492
+把车截住
+Stop the car!
+
+483
+00:40:22,152 --> 00:40:24,222
+救命呀 不要杀我
+Don't kill me! Don't shoot!
+
+484
+00:40:24,302 --> 00:40:26,432
+我不是他们的人 他们逼我的
+I'm not with them! They forced me!
+
+485
+00:40:26,462 --> 00:40:28,592
+他不是扎卡的人 把枪放下
+He's not with Zaka! Lower your weapons!
+
+486
+00:40:30,582 --> 00:40:31,422
+怎么了？
+What's wrong?
+
+487
+00:40:32,002 --> 00:40:35,542
+那些恐怖分子在平民身上装炸弹
+Those terrorists. They've been bombing civilians.
+
+488
+00:40:36,922 --> 00:40:37,942
+让我来
+I'll handle it.
+
+489
+00:40:38,072 --> 00:40:39,442
+叫你的人别动
+Tell your men to stay calm.
+
+490
+00:40:39,552 --> 00:40:41,292
+石头 你替我位置
+Shitou! Take my position.
+
+491
+00:40:42,132 --> 00:40:43,262
+狙击点 狙击点
+Sniper's hide.
+
+492
+00:40:43,512 --> 00:40:44,262
+收到
+I read you.
+
+493
+00:40:44,462 --> 00:40:46,272
+掩护我 我去那辆车
+<i>Cover me. I'm going to that car.</i>
+
+494
+00:40:46,332 --> 00:40:47,052
+好
+<i>Roger.</i>
+
+495
+00:40:52,582 --> 00:40:53,592
+冷静
+Relax,
+
+496
+00:40:53,892 --> 00:40:55,022
+躺下
+Get down.
+
+497
+00:40:56,572 --> 00:40:57,842
+不要杀我
+Don't kill me!
+
+498
+00:41:06,452 --> 00:41:07,422
+放松
+Relax,
+
+499
+00:41:07,602 --> 00:41:09,562
+没事的 没事的…
+it's okay. It's okay.
+
+500
+00:41:11,292 --> 00:41:12,952
+没事的…
+It's okay...
+
+501
+00:41:13,612 --> 00:41:16,062
+放松…
+Relax,
+
+502
+00:41:22,522 --> 00:41:23,392
+别动
+Don't move.
+
+503
+00:42:19,062 --> 00:42:20,712
+我的孩子 拜托
+American, please.
+
+504
+00:42:20,782 --> 00:42:22,232
+救救我的孩子…
+Save my kid.
+
+505
+00:42:24,082 --> 00:42:26,202
+我的孩子 拜托…
+My kid, please.
+
+506
+00:42:26,862 --> 00:42:27,952
+走吧
+Let's go.
+
+507
+00:42:28,262 --> 00:42:29,162
+拜托…
+Please.
+
+508
+00:42:29,782 --> 00:42:30,932
+我们准备出来了
+We're coming out!
+
+509
+00:42:35,312 --> 00:42:36,502
+张天德 撤
+Tian-de Zhang, move out!
+
+510
+00:42:38,862 --> 00:42:40,322
+撤 撤 撤
+Quick, move out!
+
+511
+00:42:41,162 --> 00:42:43,062
+狙击点 撤 狙击点 撤
+Sniper's hide! Move out!
+
+512
+00:42:43,292 --> 00:42:44,702
+收到 撤
+Roger! Moving out!
+
+513
+00:43:48,382 --> 00:43:50,512
+阿布 你怎么样？
+Abu, are you okay?
+
+514
+00:43:52,182 --> 00:43:55,852
+我没事 你先去拿他的项链
+I will get his necklace first.
+
+515
+00:45:03,642 --> 00:45:05,522
+刚刚收到外交部的消息
+<i>We just received news from The Foreign Ministry.</i>
+
+516
+00:45:05,662 --> 00:45:06,992
+一个叫夏楠的记者
+A French-Chinese reporter
+
+517
+00:45:07,082 --> 00:45:08,472
+是个法籍华人
+called Nan Xia
+
+518
+00:45:08,712 --> 00:45:11,202
+联络了外交部12308热线
+contacted their 12308 hotline.
+
+519
+00:45:11,352 --> 00:45:14,042
+这位记者表示 她看到了扎卡组织
+<i>She said she saw Zaka</i>
+
+520
+00:45:14,092 --> 00:45:16,452
+绑架了一批能源公司的员工
+kidnapping the staff of an energy company,
+
+521
+00:45:16,862 --> 00:45:19,402
+其中有一个中国公民叫邓梅
+including a Chinese citizen, Mei Deng.
+
+522
+00:45:19,802 --> 00:45:20,862
+可信度高吗？
+Is that reliable info?
+
+523
+00:45:21,562 --> 00:45:23,882
+我们已经与夏楠取得了联系
+We made contact with Nan Xia
+
+524
+00:45:24,002 --> 00:45:25,312
+确认了她的身份
+and confirmed her identity.
+
+525
+00:45:25,812 --> 00:45:27,992
+上级还在与伊维亚政府协调
+The Yewaire government will help.
+
+526
+00:45:28,142 --> 00:45:30,082
+派出他们的直升机和支援部队
+<i>They'll supply ground and air support</i>
+
+527
+00:45:30,132 --> 00:45:31,442
+一起执行营救
+<i>for the joint rescue mission.</i>
+
+528
+00:45:32,022 --> 00:45:33,672
+我们这次行动的决心
+<i>Our mission this time</i>
+
+529
+00:45:33,862 --> 00:45:35,882
+就是要让恐怖组织知道
+<i>is to give a message to all terrorists</i>
+
+530
+00:45:35,962 --> 00:45:37,552
+一个中国人都不能伤害
+<i>that you can never harm a Chinese citizen.</i>
+
+531
+00:45:38,042 --> 00:45:38,952
+二队
+<i>Unit Two,</i>
+
+532
+00:45:39,052 --> 00:45:40,622
+把侨民先送回港口
+<i>take the citizens to the port.</i>
+
+533
+00:45:41,192 --> 00:45:42,102
+一队
+<i>Unit One,</i>
+
+534
+00:45:42,212 --> 00:45:43,402
+政府军会带你们到
+<i>go with their government troops</i>
+
+535
+00:45:43,452 --> 00:45:45,222
+附近的集合点等待消息
+<i>and wait for orders.</i>
+
+536
+00:45:45,602 --> 00:45:47,912
+装备 补给品还有空降服
+<i>We'll send in the materials, supplies,</i>
+
+537
+00:45:48,012 --> 00:45:49,162
+会送到你们那里
+<i>and wing suits.</i>
+
+538
+00:45:49,232 --> 00:45:49,852
+是
+<i>Yes, sir!</i>
+
+539
+00:45:55,302 --> 00:45:57,702
+刚才他求我救他孩子的时候
+When he asked me to save his kids,
+
+540
+00:45:58,202 --> 00:45:59,662
+我心里很难受
+I felt awful.
+
+541
+00:46:00,842 --> 00:46:01,892
+人救了
+We saved their lives,
+
+542
+00:46:03,002 --> 00:46:04,172
+可是家没了
+but not their homes.
+
+543
+00:46:05,522 --> 00:46:06,832
+他们这个国家
+This country of theirs
+
+544
+00:46:07,632 --> 00:46:09,102
+已经乱成这样了
+is in such a mess.
+
+545
+00:46:10,362 --> 00:46:12,452
+我们顶多就是把任务完成
+At most, we complete our mission
+
+546
+00:46:13,332 --> 00:46:14,742
+别的什么也做不了
+and that's it.
+
+547
+00:46:19,482 --> 00:46:21,042
+你为什么总爱吃糖？
+Why do you like candy so much?
+
+548
+00:46:21,962 --> 00:46:24,272
+看你认识我这么多年 不知道吧？
+You still don't know after all this time?
+
+549
+00:46:24,622 --> 00:46:25,992
+我小时候特别调皮
+I was a naughty kid.
+
+550
+00:46:26,092 --> 00:46:27,152
+总被妈妈打
+I always got spanked.
+
+551
+00:46:27,322 --> 00:46:28,442
+打我一次呢
+But each time,
+
+552
+00:46:28,522 --> 00:46:29,812
+就给我一块糖吃
+my mom gave me a candy.
+
+553
+00:46:30,122 --> 00:46:31,302
+所以说到现在
+So even now,
+
+554
+00:46:31,362 --> 00:46:32,212
+一出任务
+when I'm on a mission,
+
+555
+00:46:32,272 --> 00:46:33,092
+只要有糖吃
+if I have candy,
+
+556
+00:46:33,152 --> 00:46:34,442
+什么事儿都没了
+I can handle anything.
+
+557
+00:46:37,872 --> 00:46:39,232
+打我干嘛？
+What was that for?
+
+558
+00:46:39,782 --> 00:46:40,942
+不是说吃糖…
+Didn't you say
+
+559
+00:46:41,022 --> 00:46:42,932
+不是说吃糖不疼吗？
+if you have candy, there is no pain?
+
+560
+00:46:51,102 --> 00:46:53,912
+你知不知道我跟罗星有一场比赛要打？
+Do you know Xing Luo and I were rivals?
+
+561
+00:46:54,182 --> 00:46:55,032
+知道
+Yes.
+
+562
+00:46:56,062 --> 00:46:58,042
+你们要争委内瑞拉特种兵学校
+You guys were fighting for a spot in a sniper training camp
+
+563
+00:46:58,102 --> 00:47:00,432
+狙击手训练营的入学资格
+at a commando school in Venezuela.
+
+564
+00:47:01,212 --> 00:47:02,972
+全蛟龙只有一个名额
+There's only one spot for Jiaolong.
+
+565
+00:47:04,772 --> 00:47:05,842
+可惜
+It's a pity.
+
+566
+00:47:06,212 --> 00:47:07,712
+没机会跟他比一场
+There is no chance to compete now.
+
+567
+00:47:08,622 --> 00:47:10,922
+他是我见过最好的狙击手
+He was the best sniper I ever saw.
+
+568
+00:47:13,292 --> 00:47:14,842
+你以前也这样吗？
+Were you always like this?
+
+569
+00:47:16,202 --> 00:47:17,042
+哪样？
+Like what?
+
+570
+00:47:17,092 --> 00:47:18,272
+紧张
+Tense.
+
+571
+00:47:18,432 --> 00:47:19,922
+抗压能力太差
+Shaky under pressure.
+
+572
+00:47:23,252 --> 00:47:24,432
+战场上
+On the battlefield,
+
+573
+00:47:24,602 --> 00:47:25,872
+子弹躲不掉的
+you can't dodge bullets.
+
+574
+00:47:26,372 --> 00:47:27,232
+这一课
+Take this
+
+575
+00:47:27,292 --> 00:47:28,772
+算哥送给你的
+as a free lesson for you.
+
+576
+00:47:29,382 --> 00:47:31,052
+下次记得交学费
+Next time, I'll ask for fees.
+
+577
+00:47:35,412 --> 00:47:37,492
+舰长 上级消息
+Captain, we received news.
+
+578
+00:47:38,362 --> 00:47:40,622
+伊维亚政府军安排不了直升机
+Yewaire can't spare any choppers.
+
+579
+00:47:41,092 --> 00:47:42,872
+他们只能让我们蛟龙队
+We'll have to escort the convoy
+
+580
+00:47:42,942 --> 00:47:45,032
+跟随护送平民的车队
+of civilian evacuees by road.
+
+581
+00:47:46,332 --> 00:47:47,562
+坐车去
+If we go by road,
+
+582
+00:47:47,662 --> 00:47:49,922
+路上得多花费一倍的时间
+it'll take twice as long.
+
+583
+00:47:50,062 --> 00:47:52,142
+我就是担心他们赶不回来
+I worry they won't get back in time.
+
+584
+00:47:55,222 --> 00:47:56,532
+接蛟龙一队
+Get me Jiaolong Unit One.
+
+585
+00:47:56,672 --> 00:47:57,412
+是
+Yes, sir!
+
+586
+00:47:58,692 --> 00:47:59,822
+夏楠的手机信号
+Nan Xia's phone
+
+587
+00:47:59,872 --> 00:48:02,152
+在伊维亚东北部地区消失了
+was last found in the Northeast.
+
+588
+00:48:02,362 --> 00:48:04,712
+根据伊维亚政府提供的信息
+According to the Yewaire authorities,
+
+589
+00:48:05,002 --> 00:48:07,272
+那里是一个叫巴塞姆的小镇
+there's a town there called Basem.
+
+590
+00:48:07,482 --> 00:48:10,202
+一周前被扎卡组织占领
+Zaka took over it
+
+591
+00:48:10,362 --> 00:48:12,292
+现在你们先去70公里外的
+a <i>week ago.</i>
+
+592
+00:48:12,322 --> 00:48:13,822
+临时政府军集合点
+<i>Go to the Yewaire Army Meeting Point.</i>
+
+593
+00:48:13,882 --> 00:48:15,902
+跟随护送平民的车队上路
+<i>Follow the evacuation convoy.</i>
+
+594
+00:48:16,002 --> 00:48:17,792
+他们的特种部队会配合你们
+Their commandos will work with you
+
+595
+00:48:17,882 --> 00:48:19,202
+一起营救邓梅
+<i>to rescue Mei Deng.</i>
+
+596
+00:48:19,282 --> 00:48:20,022
+是
+Roget
+
+597
+00:48:20,442 --> 00:48:21,492
+确定行动
+The operation is confirmed.
+
+598
+00:48:22,472 --> 00:48:24,392
+但是我们只有三个小时时间
+But we only have three hours.
+
+599
+00:48:25,872 --> 00:48:27,542
+我们这次会深入敌人的后方
+We'll be deep in enemy territory.
+
+600
+00:48:27,582 --> 00:48:28,402
+但是到目前为止
+But we don't have
+
+601
+00:48:28,442 --> 00:48:30,752
+我们还没有拿到一个准确的情报
+any reliable intel until now.
+
+602
+00:48:31,482 --> 00:48:33,132
+我可以肯定地告诉大家
+Only one thing is certain.
+
+603
+00:48:34,942 --> 00:48:36,202
+一场硬仗
+It will be a tough battle.
+
+604
+00:48:39,382 --> 00:48:40,912
+所以我要求你们每一个人
+I want each of you
+
+605
+00:48:42,352 --> 00:48:43,632
+打起精神来
+to give it your all
+
+606
+00:48:45,432 --> 00:48:46,512
+平安回家
+and return safely.
+
+607
+00:48:48,572 --> 00:48:49,672
+听明白了吗？
+Do you understand?
+
+608
+00:48:49,932 --> 00:48:50,762
+明白
+Yes, sir!
+
+609
+00:48:50,822 --> 00:48:51,842
+出发
+Move now!
+
+610
+00:49:10,482 --> 00:49:11,512
+Sayyid
+Sayyid.
+
+611
+00:49:11,952 --> 00:49:13,872
+秘书长夫人到港口了
+The Chief Secretary's wife is at the port.
+
+612
+00:49:13,952 --> 00:49:16,842
+我会用那个中国女人质给他们压力
+The Chinese hostage is our bargaining chip.
+
+613
+00:49:17,882 --> 00:49:20,132
+但他们不会轻易顺从
+But they won't give in easily.
+
+614
+00:49:20,402 --> 00:49:23,722
+你留在这里 留意着她们的一举一动
+<i>Stay there and observe everything.</i>
+
+615
+00:49:24,582 --> 00:49:26,192
+山上出现三辆皮卡车
+There are three trucks on the hill.
+
+616
+00:49:26,242 --> 00:49:27,442
+其中有两辆武装了
+Two are armed.
+
+617
+00:49:27,492 --> 00:49:29,112
+另外一辆被货厢盖住看不到
+I'm not sure about the third.
+
+618
+00:49:29,182 --> 00:49:30,002
+什么时候出现的？
+When did they appear?
+
+619
+00:49:30,052 --> 00:49:31,062
+三分钟前
+Three minutes ago.
+
+620
+00:49:49,162 --> 00:49:50,682
+副炮进入战备状态
+Prepare the auxiliary gun.
+
+621
+00:49:50,862 --> 00:49:51,742
+是
+Yes, sir!
+
+622
+00:50:21,132 --> 00:50:22,042
+谢谢
+Thank you.
+
+623
+00:50:28,552 --> 00:50:31,062
+我明白 但是我必须要去巴塞姆镇
+I understand. But I have to go to Basem.
+
+624
+00:50:31,112 --> 00:50:32,712
+因为我除了要救我的助手以外
+It's not just to save my assistant.
+
+625
+00:50:32,752 --> 00:50:34,222
+我还有一件非常重要的事情
+There's something very important
+
+626
+00:50:34,262 --> 00:50:35,802
+我必须去那里完成
+I have to do there.
+
+627
+00:50:36,282 --> 00:50:37,662
+对不起 夏小姐
+I'm sorry, Ms. Xia.
+
+628
+00:50:37,882 --> 00:50:39,922
+我们不可能带着你去执行任务
+We can't take you with us.
+
+629
+00:50:40,062 --> 00:50:41,832
+而且我们也不知道那边到底什么情况
+We don't know the situation there.
+
+630
+00:50:41,872 --> 00:50:42,572
+对吧？
+Right?
+
+631
+00:50:42,622 --> 00:50:43,102
+杨队长
+Captain Yang,
+
+632
+00:50:43,132 --> 00:50:45,302
+你能让我把情况说明你再做决定吗？
+can you let me explain first?
+
+633
+00:50:45,372 --> 00:50:46,142
+好
+Okay.
+
+634
+00:50:46,442 --> 00:50:47,252
+徐宏 徐宏
+Hong Xu,
+
+635
+00:50:47,322 --> 00:50:49,422
+赶紧催一下他们出发 快一点
+get them moving. Quick.
+
+636
+00:50:50,052 --> 00:50:52,992
+我其实一直在追查黑市核原料黄饼的买卖
+It's about the black-market "yellow cake".
+
+637
+00:50:53,112 --> 00:50:55,002
+被恐怖分子抓走的那个威廉
+Zaka has William Parsons,
+
+638
+00:50:55,062 --> 00:50:56,302
+是其中最大的卖家
+the biggest dealer in the market.
+
+639
+00:50:56,392 --> 00:50:57,362
+最近我们发现
+We found out
+
+640
+00:50:57,422 --> 00:50:59,252
+他跟一些恐怖组织接触密切
+that he's in touch with terrorist groups.
+
+641
+00:50:59,342 --> 00:51:00,162
+其中一个组织
+One of them
+
+642
+00:51:00,192 --> 00:51:02,222
+已经拥有提高黄饼放射量的技术
+now has the technology
+
+643
+00:51:02,302 --> 00:51:05,012
+用来制造能大规模传播污染物质的炸弹
+for large-scale dirty bombs.
+
+644
+00:51:05,082 --> 00:51:06,042
+也就是说
+Which means
+
+645
+00:51:06,112 --> 00:51:07,692
+黄饼一旦落到他们的手里
+once they get the "yellow cake",
+
+646
+00:51:07,742 --> 00:51:09,202
+下一次恐怖袭击会死多少人
+who knows how many
+
+647
+00:51:09,242 --> 00:51:10,532
+我们无法预估
+they will kill?
+
+648
+00:51:10,612 --> 00:51:11,882
+你说的组织是扎卡 对吗？
+Are you talking about Zaka?
+
+649
+00:51:11,932 --> 00:51:13,892
+扎卡只是想要抢走威廉手上的黄饼
+Yes, all they want is the "yellow cake".
+
+650
+00:51:13,952 --> 00:51:15,912
+- 我们不管那是什么组织 - 而我是希望你们能把阿布
+- It's not our business. - I hope you can save Abu,
+
+651
+00:51:15,952 --> 00:51:18,352
+- 把威廉 把所有的人都救出来 - 上级给到我们的任务就是…
+- Our mission-- - William and all of them!
+
+652
+00:51:20,002 --> 00:51:21,642
+夏小姐 我们要执行的任务
+Ms. Xia, our mission
+
+653
+00:51:21,682 --> 00:51:23,242
+就是要去解救一个中国公民
+is to rescue a Chinese hostage.
+
+654
+00:51:23,302 --> 00:51:24,522
+如果尽可能的情况下
+If we can,
+
+655
+00:51:24,572 --> 00:51:25,752
+我们会去救更多的人
+we'll rescue the others.
+
+656
+00:51:25,792 --> 00:51:26,722
+但是对不起
+But I'm sorry,
+
+657
+00:51:26,762 --> 00:51:28,612
+你不可以跟我们参与这次行动
+you can't come with us.
+
+658
+00:51:28,652 --> 00:51:29,462
+如果我不跟你们去
+If I don't go with you,
+
+659
+00:51:29,492 --> 00:51:31,402
+我没有办法拿到我要的东西
+I'll never get what I came for!
+
+660
+00:51:32,592 --> 00:51:33,692
+请你上车
+Please get in the car.
+
+661
+00:51:34,932 --> 00:51:36,252
+对不起 你不能离开
+Sorry, you can't leave.
+
+662
+00:51:36,352 --> 00:51:37,672
+我为什么不能离开？
+Why not?
+
+663
+00:51:37,722 --> 00:51:38,872
+我刚刚跟你讲过很多遍了
+I already told you.
+
+664
+00:51:38,922 --> 00:51:40,232
+上级给我们的指示
+We were ordered
+
+665
+00:51:40,312 --> 00:51:42,522
+是要把你安全护送到政府军沿途的基地
+to take you to an army base.
+
+666
+00:51:42,572 --> 00:51:44,362
+再由政府军统一安排你们执行撤离
+You'll be evacuated from there.
+
+667
+00:51:44,412 --> 00:51:45,322
+首长您好 我是夏楠
+Sir, this is Nan Xia.
+
+668
+00:51:45,352 --> 00:51:46,402
+- 我想向您汇报一个情况 - 夏小姐…
+- We have a situation. - Ms. Xia.
+
+669
+00:51:46,442 --> 00:51:48,022
+因为下一次恐怖袭击不知道会怎么样
+In the next terrorist attack,
+
+670
+00:51:48,062 --> 00:51:48,782
+会死多少人
+countless people will die
+
+671
+00:51:48,842 --> 00:51:51,052
+而且威廉现在有太多的黄饼在他…
+because of William's "yellow cake".
+
+672
+00:52:00,452 --> 00:52:01,272
+怎么了？
+What is it?
+
+673
+00:52:01,772 --> 00:52:03,482
+扎卡给政府军发了一段视频
+Zaka put out a video
+
+674
+00:52:03,532 --> 00:52:05,062
+标明是给中国海军的
+addressed to the Chinese Navy.
+
+675
+00:52:05,152 --> 00:52:06,092
+你看一下
+Look.
+
+676
+00:52:08,542 --> 00:52:10,692
+秘书长莫哈迪罪孽深重
+<i>Chief Secretary Muhadi is a sinner</i>
+
+677
+00:52:10,792 --> 00:52:12,662
+迫害自由的我族人民
+<i>who continues to suppress my people</i>
+
+678
+00:52:12,712 --> 00:52:14,582
+滥用武力
+<i>with his abuse of violence.</i>
+
+679
+00:52:15,042 --> 00:52:17,332
+我们强烈要求你们停止包庇罪人
+<i>We demand that you stop harboring</i>
+
+680
+00:52:17,392 --> 00:52:19,542
+马上交出莫哈迪的家人
+<i>the sinner and turn over Muhadi's family.</i>
+
+681
+00:52:19,672 --> 00:52:22,022
+我们必须为遭受莫哈迪迫害
+<i>We must avenge the brothers and sisters</i>
+
+682
+00:52:22,092 --> 00:52:24,442
+而牺牲的兄弟姐妹报仇
+<i>who sacrificed because of Muhad.</i>
+
+683
+00:52:24,482 --> 00:52:26,012
+否则
+<i>If you refuse to cooperate,</i>
+
+684
+00:52:26,102 --> 00:52:29,962
+中国公民将代替他们接受惩罚
+<i>the Chinese citizens shall take the punishment in their place.</i>
+
+685
+00:52:30,082 --> 00:52:32,002
+我现在就给你们一个示范
+<i>This is just an example.</i>
+
+686
+00:52:35,832 --> 00:52:38,662
+下一个就是这中国女人
+<i>And this Chinese woman will be next.</i>
+
+687
+00:52:44,182 --> 00:52:45,942
+他妈的
+Damn it!
+
+688
+00:52:46,642 --> 00:52:48,232
+太嚣张了
+Savages!
+
+689
+00:52:48,952 --> 00:52:50,702
+我们现在唯一的希望
+Our only hope
+
+690
+00:52:51,382 --> 00:52:54,622
+就是蛟龙能顺利地把人质救出来
+is for Jiaolong to rescue them all.
+
+691
+00:54:03,252 --> 00:54:03,982
+杨队长
+Captain Yang.
+
+692
+00:54:04,052 --> 00:54:04,692
+是
+Yes?
+
+693
+00:54:04,762 --> 00:54:07,082
+收到消息 前方可能有危险
+We just got word about possible danger ahead.
+
+694
+00:54:07,192 --> 00:54:08,742
+我们需要改道了
+We have to look for a different route.
+
+695
+00:54:08,792 --> 00:54:09,692
+什么？
+What?
+
+696
+00:54:13,342 --> 00:54:14,762
+庄羽 联系军舰
+Yu Zhuang, contact the base.
+
+697
+00:54:14,832 --> 00:54:15,302
+是
+Okay!
+
+698
+00:54:15,352 --> 00:54:16,062
+快
+Hurry!
+
+699
+00:54:16,212 --> 00:54:18,182
+零一零一 一队报告
+Base, this is Unit One.
+
+700
+00:54:19,842 --> 00:54:20,932
+是否收到？
+Do you read me?
+
+701
+00:54:23,822 --> 00:54:25,992
+零一零一 我是一队
+Base, this is Unit One.
+
+702
+00:54:26,152 --> 00:54:27,662
+请求通讯 是否收到？
+Request for signal. Over.
+
+703
+00:54:31,542 --> 00:54:32,652
+零一零一…
+Base.
+
+704
+00:54:37,872 --> 00:54:39,742
+迫击炮
+Mortar attack!
+
+705
+00:55:00,422 --> 00:55:01,222
+大家有没有事？
+Is everyone okay?
+
+706
+00:55:01,252 --> 00:55:02,782
+快点回话 快点回话
+Answer me!
+
+707
+00:55:02,852 --> 00:55:04,222
+我没事
+I'm okay!
+
+708
+00:55:04,272 --> 00:55:04,922
+陆琛没事
+Chen Lu's okay!
+
+709
+00:55:04,962 --> 00:55:05,772
+徐宏这边没事
+Hong Xu's okay!
+
+710
+00:55:05,802 --> 00:55:06,862
+顾顺 李懂没事
+Shun Gu, Dong Li, okay!
+
+711
+00:55:06,952 --> 00:55:08,322
+张天德 佟莉没事
+Tian-de Zhang and Li Tong, okay!
+
+712
+00:55:25,312 --> 00:55:26,492
+待在这别动
+Don't move!
+
+713
+00:55:27,592 --> 00:55:28,912
+石头 防守后方
+Shitou, go to the rear!
+
+714
+00:55:28,932 --> 00:55:30,402
+佟莉 侧翼突击
+Li Tong, take the wing!
+
+715
+00:55:44,092 --> 00:55:46,182
+等什么？把枪检起来
+Come on! Get your gun!
+
+716
+00:55:54,202 --> 00:55:56,862
+陆琛 把敌人的阵地给我定位出来
+Chen Lu, get me the enemy's position!
+
+717
+00:56:01,842 --> 00:56:03,802
+徐宏 去把人都带出来
+Hong Xu, bring everyone out!
+
+718
+00:56:04,682 --> 00:56:06,962
+庄羽 看一下还有什么装备能用
+Yu Zhuang, look for any ammunition that is left!
+
+719
+00:56:07,002 --> 00:56:08,042
+收到
+Roger
+
+720
+00:56:26,772 --> 00:56:28,022
+开门
+Open the door!
+
+721
+00:56:37,052 --> 00:56:39,002
+迫击炮在车队两点方向
+Mortars at two o'clock!
+
+722
+00:57:26,532 --> 00:57:28,922
+快躲开 快躲开
+Hide!
+
+723
+00:57:30,832 --> 00:57:31,702
+徐宏
+Hong Xu!
+
+724
+00:57:34,872 --> 00:57:35,802
+没事
+I'm okay.
+
+725
+00:57:37,032 --> 00:57:37,872
+救人
+Save them!
+
+726
+00:57:38,022 --> 00:57:38,902
+快
+Hurry!
+
+727
+00:57:39,772 --> 00:57:41,272
+陆琛 救人
+Chen Lu, let's go!
+
+728
+00:58:03,922 --> 00:58:04,742
+顾顺 李懂
+Shun Gu, Dong Li.
+
+729
+00:58:04,792 --> 00:58:07,202
+快找制高点 听我指示
+Find an over watch, wait for my orders!
+
+730
+00:58:07,552 --> 00:58:08,472
+收到
+Roger
+
+731
+00:58:08,542 --> 00:58:10,742
+张天德 掩护我
+Tian-de Zhang, cover me!
+
+732
+00:58:14,402 --> 00:58:15,372
+走
+Move!
+
+733
+00:58:21,592 --> 00:58:23,532
+佟莉 佟莉 掩护我
+Li Tong, cover me!
+
+734
+00:58:43,472 --> 00:58:45,302
+李懂 上
+Dong Li, move!
+
+735
+00:58:58,482 --> 00:58:59,522
+他的腿已经断了
+His leg's gone,
+
+736
+00:58:59,562 --> 00:59:00,862
+拿刀把剩下的皮割断
+let's cut it off!
+
+737
+00:59:00,922 --> 00:59:01,672
+来
+Come on!
+
+738
+00:59:14,712 --> 00:59:15,632
+抬走
+Take him.
+
+739
+00:59:19,072 --> 00:59:20,112
+冷静点
+Stay calm.
+
+740
+00:59:37,962 --> 00:59:39,522
+队长 队长 我是徐宏
+Captain, it's Hong Xu.
+
+741
+00:59:40,192 --> 00:59:42,262
+巴士其中一个炮弹已经启动了
+There's a live bomb on the bus.
+
+742
+00:59:56,832 --> 00:59:58,342
+顾顺 就位没有？
+<i>Shun Gu, are you in position?</i>
+
+743
+00:59:59,292 --> 01:00:00,462
+还没有
+Not yet.
+
+744
+01:00:07,432 --> 01:00:08,612
+最后一发
+Last round!
+
+745
+01:00:26,462 --> 01:00:28,502
+大家注意 有狙击手
+Watch out! There is a sniper!
+
+746
+01:00:28,632 --> 01:00:29,872
+所有人小心
+Be careful, everyone!
+
+747
+01:00:35,302 --> 01:00:36,862
+李懂 听我说
+<i>Dong Li.</i>
+
+748
+01:00:37,152 --> 01:00:38,792
+我来解决敌方迫击炮阵地
+Listen to me.
+
+749
+01:00:38,932 --> 01:00:39,782
+但是我一开枪
+I'll hit their base.
+
+750
+01:00:39,812 --> 01:00:41,502
+对方狙击手一定会锁定我的位置
+<i>But as soon as I fire,</i>
+
+751
+01:00:41,612 --> 01:00:42,552
+你尽快把他找出来
+<i>they'll have a fix on my position.</i>
+
+752
+01:00:42,602 --> 01:00:43,702
+收到回复
+<i>Find them quickly.</i>
+
+753
+01:00:43,912 --> 01:00:44,792
+收到
+<i>Do you read me?</i>
+
+754
+01:01:01,192 --> 01:01:02,062
+顾顺 快
+Roger
+
+755
+01:01:02,112 --> 01:01:03,142
+烟散了
+<i>Shun Gu, quick!</i>
+
+756
+01:01:18,602 --> 01:01:19,982
+顾顺就位
+<i>The smoke is clearing up!</i>
+
+757
+01:01:58,282 --> 01:01:59,902
+狙击手在你们的两点方向
+Shun Gu in position.
+
+758
+01:01:59,952 --> 01:02:01,822
+车队旁边山头 靠近山顶的位置
+<i>There is a sniper at 2 o'clock,</i>
+
+759
+01:02:01,872 --> 01:02:03,262
+有一块外露的大山石
+<i>on the hill, near the peak,</i>
+
+760
+01:02:03,432 --> 01:02:07,422
+往东22度 距离是602米
+<i>by a boulder.</i>
+
+761
+01:02:40,422 --> 01:02:41,082
+李懂 李懂
+It's 22 degrees east, 602 meters.
+
+762
+01:02:41,152 --> 01:02:42,782
+看到他没有？看到他没有？
+Dong Li. Can you see him?
+
+763
+01:02:45,142 --> 01:02:46,742
+看到 看到了
+I see him.
+
+764
+01:02:47,712 --> 01:02:49,592
+最高处山脊线 往右十米
+On the highest ridge,
+
+765
+01:02:49,742 --> 01:02:51,712
+最高处山脊线 往右十米
+ten meters to the right.
+
+766
+01:02:53,142 --> 01:02:54,702
+李懂 把他牵制住
+Dong Li, pin him down.
+
+767
+01:02:54,752 --> 01:02:55,972
+我来解决迫击炮
+I'll get the mortar.
+
+768
+01:03:37,312 --> 01:03:39,292
+顾顺 我牵制住他了
+<i>Shun Gu, I've pinned him down.</i>
+
+769
+01:05:10,512 --> 01:05:12,682
+所有人撤退 所有人撤退
+Everyone, retreat!
+
+770
+01:05:13,862 --> 01:05:15,942
+别动 别动
+Don't move! Don't move!
+
+771
+01:05:19,122 --> 01:05:20,912
+你按着他 我来拔
+Hold him down, I'll pull it out.
+
+772
+01:05:22,312 --> 01:05:23,022
+好
+Okay.
+
+773
+01:05:26,652 --> 01:05:27,502
+拔
+Pull!
+
+774
+01:05:30,522 --> 01:05:31,742
+按住他
+Hold him down.
+
+775
+01:05:52,462 --> 01:05:53,502
+下去了
+Let's go.
+
+776
+01:06:17,472 --> 01:06:18,412
+快走
+Hurry!
+
+777
+01:06:18,472 --> 01:06:19,982
+所有人快走
+Everyone, go now!
+
+778
+01:06:20,032 --> 01:06:21,862
+车里的炮弹快炸了
+The bomb is going off!
+
+779
+01:06:22,002 --> 01:06:23,182
+快跑
+Run!
+
+780
+01:06:24,152 --> 01:06:25,652
+徐宏 快走
+Hong Xu, run!
+
+781
+01:06:35,992 --> 01:06:36,842
+队长
+<i>Captain.</i>
+
+782
+01:06:37,392 --> 01:06:38,612
+队长 怎么样？
+Captain, are you okay?
+
+783
+01:06:39,282 --> 01:06:40,262
+队长
+Captain!
+
+784
+01:06:44,942 --> 01:06:45,902
+人呢？
+Where are the others?
+
+785
+01:06:59,492 --> 01:07:01,742
+- 有没有事？- 快救人
+- Are you okay? - Hurry and save the others!
+
+786
+01:07:03,382 --> 01:07:04,392
+出来
+Come on!
+
+787
+01:07:10,362 --> 01:07:11,412
+石头
+Shitou!
+
+788
+01:07:11,802 --> 01:07:13,182
+- 徐宏… - 救人
+- Hong Xu... - Save the others!
+
+789
+01:07:13,232 --> 01:07:14,332
+徐宏 徐宏…
+Hong Xu...
+
+790
+01:07:14,952 --> 01:07:16,092
+使劲拉
+Harder!
+
+791
+01:07:16,192 --> 01:07:17,222
+拉
+Pull!
+
+792
+01:07:17,872 --> 01:07:18,542
+快
+Hurry!
+
+793
+01:07:19,322 --> 01:07:20,362
+夏楠
+Nan Xia!
+
+794
+01:07:20,682 --> 01:07:22,222
+- 夏楠 - 在这里
+- Nan Xia! - Over here!
+
+795
+01:07:24,042 --> 01:07:25,022
+使劲
+Pull!
+
+796
+01:07:25,932 --> 01:07:27,022
+使劲
+Harder!
+
+797
+01:07:27,652 --> 01:07:29,932
+有没有事？怎么样？怎么样？
+Are you okay?
+
+798
+01:07:52,762 --> 01:07:54,702
+我们距离目的地还有80公里
+We're 80 kilometers from our target.
+
+799
+01:07:54,982 --> 01:07:57,422
+但是军舰离港的时间只剩下一个半小时
+But the ship sails in 90 minutes.
+
+800
+01:07:57,722 --> 01:07:59,382
+我们只有一辆狐式装甲可以用
+We only have one vehicle left
+
+801
+01:07:59,432 --> 01:08:00,832
+还正在抢修当中
+<i>and that's under repair.</i>
+
+802
+01:08:01,082 --> 01:08:02,492
+我们可能赶不回去了
+We won't make it back in time.
+
+803
+01:08:02,762 --> 01:08:04,972
+他们政府军有没有其他的办法来保障我们？
+Can their troops give us more support?
+
+804
+01:08:06,182 --> 01:08:09,582
+上级已经向伊维亚政府提出了要求
+Our superiors put in a request,
+
+805
+01:08:09,992 --> 01:08:13,102
+但是对方表示现在还不能调动增援
+but they've no troops to spare.
+
+806
+01:08:13,472 --> 01:08:15,932
+只能提供他们的一个支援点
+They can only get us out at a point
+
+807
+01:08:16,262 --> 01:08:18,802
+在离目标以北60公里的地方
+<i>60 kilometers north of the target.</i>
+
+808
+01:08:19,362 --> 01:08:20,772
+你们营救成功后
+<i>After the rescue,</i>
+
+809
+01:08:20,832 --> 01:08:22,232
+可以先撤到那里
+go straight there.
+
+810
+01:08:23,142 --> 01:08:27,582
+但是支援点和目标之间是一段高危地带
+But it's a very dangerous route.
+
+811
+01:08:28,202 --> 01:08:30,582
+撤离的时候必须要小心
+You need to be on high alert.
+
+812
+01:08:30,742 --> 01:08:31,622
+是
+<i>Roger that!</i>
+
+813
+01:08:31,762 --> 01:08:35,062
+另外 扎卡发了一段视频
+<i>Also, Zaka released a video.</i>
+
+814
+01:08:35,702 --> 01:08:38,202
+他们把那个记者助理的头给砍了
+They beheaded the reporter's assistant.
+
+815
+01:09:45,012 --> 01:09:46,742
+我做过这么多演习
+Despite all those drills
+
+816
+01:09:48,052 --> 01:09:49,102
+训练
+and training,
+
+817
+01:09:52,312 --> 01:09:54,302
+没想过遇到这种情况
+l never thought
+
+818
+01:09:55,912 --> 01:09:57,722
+完全控制不了自己
+I'd lose control like that.
+
+819
+01:10:02,832 --> 01:10:03,982
+副队
+Sir.
+
+820
+01:10:05,462 --> 01:10:07,342
+我没资格当蛟龙
+I'm not good enough for Jiaolong.
+
+821
+01:10:11,302 --> 01:10:13,882
+你还记得我们是怎么成为蛟龙的吗？
+Do you remember how we became a team?
+
+822
+01:10:17,572 --> 01:10:19,722
+我们经历过多少困难
+We went through tough times.
+
+823
+01:10:20,112 --> 01:10:22,262
+想过多少次放弃
+We were all tempted to quit,
+
+824
+01:10:23,642 --> 01:10:26,022
+可还是坚持下来了 对吧？
+but we held on, right?
+
+825
+01:10:28,372 --> 01:10:29,742
+能站在这儿
+The fact that we are here now
+
+826
+01:10:29,962 --> 01:10:32,822
+就说明我们每一个人都是合格的
+proves we are all qualified.
+
+827
+01:10:35,382 --> 01:10:37,162
+想想我们的口号
+Think of our motto.
+
+828
+01:10:44,012 --> 01:10:45,742
+"强者无敌"
+"Conquer fear, conquer all."
+
+829
+01:11:19,212 --> 01:11:21,102
+刚刚表现很好
+You did well just now.
+
+830
+01:11:24,392 --> 01:11:26,112
+我不是表现给你看的
+It wasn't for show.
+
+831
+01:11:29,132 --> 01:11:30,252
+我看到了
+Well, I saw it.
+
+832
+01:11:42,602 --> 01:11:43,802
+还疼吗？
+Does it hurt?
+
+833
+01:11:44,932 --> 01:11:46,042
+有一点儿
+A little.
+
+834
+01:12:00,662 --> 01:12:02,142
+别想多了
+Don't think too much.
+
+835
+01:12:19,402 --> 01:12:21,462
+你可以跟我们一起去巴塞姆镇
+You can come to Basem with us.
+
+836
+01:12:22,742 --> 01:12:25,162
+有支援了是吗？什么时候到？
+Are we getting reinforcements? When?
+
+837
+01:12:28,862 --> 01:12:30,222
+我要跟你讲的是
+Listen.
+
+838
+01:12:31,052 --> 01:12:32,342
+既然跟我们一起走
+If you come with us,
+
+839
+01:12:32,432 --> 01:12:33,982
+请你服从我们的命令 好吗？
+you have to follow orders, okay?
+
+840
+01:12:34,042 --> 01:12:34,832
+杨队长 我提醒你
+Captain, let me tell you.
+
+841
+01:12:34,872 --> 01:12:36,012
+如果你的支援不到的话
+Without reinforcements,
+
+842
+01:12:36,072 --> 01:12:36,822
+你不要轻易走
+you have to be really careful.
+
+843
+01:12:36,872 --> 01:12:38,162
+因为这个路程一个多小时
+It's more than an hour away.
+
+844
+01:12:38,192 --> 01:12:39,242
+你们的车能修好吗？
+Can you fix the vehicle?
+
+845
+01:12:39,292 --> 01:12:41,422
+车 我们正在全力的抢修
+We're doing our best.
+
+846
+01:12:41,612 --> 01:12:43,062
+这个东西不用你来操心
+That's none of your concern.
+
+847
+01:12:43,102 --> 01:12:45,062
+我要跟你讲的是命令的问题
+I'm talking about the orders.
+
+848
+01:12:45,622 --> 01:12:46,442
+就是
+It's about
+
+849
+01:12:47,362 --> 01:12:48,572
+刚才的战斗
+the battle just now.
+
+850
+01:12:48,872 --> 01:12:50,382
+我跟你强调了原地别动
+I told you to stay put.
+
+851
+01:12:50,452 --> 01:12:52,302
+是 我理解你是为了救人 对吧？
+Sure, it was to save a life.
+
+852
+01:12:52,342 --> 01:12:54,662
+但是我希望的是在下面的行动当中
+But when there is action next time,
+
+853
+01:12:54,942 --> 01:12:56,012
+因为情况非常危险
+considering the danger,
+
+854
+01:12:56,082 --> 01:12:58,302
+所以无论发生什么样的情况
+no matter what happens,
+
+855
+01:12:58,892 --> 01:13:01,262
+请你能够百分之百的服从我们的命令
+you do exactly as we say.
+
+856
+01:13:01,322 --> 01:13:03,532
+- 好… - 如果你的命令下错呢？
+- Okay? - What if the order is wrong?
+
+857
+01:13:04,632 --> 01:13:06,862
+你怎么能保证你下的命令是对的？
+How do you know it's right?
+
+858
+01:13:07,322 --> 01:13:08,702
+对 我们的身份是不一样
+Yes, we have different roles,
+
+859
+01:13:08,762 --> 01:13:09,582
+但是我们的信念未必…
+but as for our beliefs--
+
+860
+01:13:09,632 --> 01:13:12,142
+如果我的命令下错了 我自己负责
+If I'm wrong, I take responsibility!
+
+861
+01:13:12,362 --> 01:13:14,262
+但如果你不服从命令 你死了
+But if you disobey and you die,
+
+862
+01:13:14,322 --> 01:13:15,302
+请问谁来负责？
+who will be responsible then?
+
+863
+01:13:15,352 --> 01:13:16,582
+如果的话…
+If that's the case,
+
+864
+01:13:17,742 --> 01:13:19,262
+千万别救我
+then don't save me.
+
+865
+01:13:21,032 --> 01:13:23,812
+报告队长 车好了 马上到
+<i>Captain, the vehicle has been fixed.</i> <i>Will be right there.</i>
+
+866
+01:13:28,702 --> 01:13:29,982
+收到 收到
+Roget
+
+867
+01:13:31,602 --> 01:13:32,932
+全体出发
+Everyone, move now.
+
+868
+01:13:39,832 --> 01:13:42,442
+Sayyid 威廉现在情况怎样？
+<i>Sayyid, how is Dr. William?</i>
+
+869
+01:13:42,522 --> 01:13:46,412
+人没事 不过还没醒来
+<i>He is alive.</i> But still unconscious.
+
+870
+01:13:48,142 --> 01:13:52,402
+除了黄饼
+<i>Besides the "yellow cake",</i>
+
+871
+01:13:53,722 --> 01:13:57,822
+一定要问出脏弹技术在哪里
+<i>we need the formula for the dirty bomb.</i>
+
+872
+01:13:58,912 --> 01:14:00,172
+明白吗？
+<i>Understand?</i>
+
+873
+01:14:00,862 --> 01:14:02,462
+明白 先生
+Yes.
+
+874
+01:14:47,942 --> 01:14:48,832
+庄羽 庄羽
+Yu Zhuang.
+
+875
+01:14:48,892 --> 01:14:50,002
+找一处高地
+Find a high place.
+
+876
+01:14:50,102 --> 01:14:51,262
+架上卫星天线
+Set up an antenna.
+
+877
+01:14:51,322 --> 01:14:52,492
+保持和舰上的联系
+Keep contact with base.
+
+878
+01:14:52,542 --> 01:14:53,522
+收到
+<i>Roger that.</i>
+
+879
+01:15:00,642 --> 01:15:01,812
+测试 测试
+Testing, testing.
+
+880
+01:15:41,492 --> 01:15:43,812
+不要害怕
+Don't be scared.
+
+881
+01:15:44,122 --> 01:15:49,552
+他们是中国军人 是来救人的
+The Chinese Navy is here to rescue people.
+
+882
+01:15:49,642 --> 01:15:51,072
+不要害怕
+Don't be scared.
+
+883
+01:15:56,452 --> 01:15:57,732
+这个屋子的主人贝拉说
+The house owner, Bella,
+
+884
+01:15:57,772 --> 01:15:59,852
+一个星期前这里就被恐怖分子占领了
+says they came a week ago,
+
+885
+01:15:59,942 --> 01:16:01,092
+把所有的男人都杀了
+killed all the men,
+
+886
+01:16:01,152 --> 01:16:02,302
+把妇女和孩子都赶走
+chased off the others,
+
+887
+01:16:02,362 --> 01:16:03,752
+只留下她们几个给他们做饭
+and kept them hereto cook.
+
+888
+01:16:03,802 --> 01:16:04,652
+现在镇子上
+In the town now,
+
+889
+01:16:04,682 --> 01:16:06,652
+恐怖分子大概有150个人左右
+there are about 150 terrorists.
+
+890
+01:16:06,712 --> 01:16:08,302
+主要集中在广场附近活动
+They stay around the square.
+
+891
+01:16:08,362 --> 01:16:09,742
+她画了一张图
+She drew a map.
+
+892
+01:16:11,252 --> 01:16:13,502
+这是恐怖分子的指挥中心 在这儿
+This is their headquarters.
+
+893
+01:16:13,882 --> 01:16:15,882
+这个广场北边 就是人质营
+The hostage camp is to the north.
+
+894
+01:16:15,952 --> 01:16:16,982
+十几个人把守
+They have about ten guards
+
+895
+01:16:17,042 --> 01:16:18,792
+里面现在有25个人质
+and 25 hostages in there.
+
+896
+01:16:18,942 --> 01:16:20,102
+除了五个政府军以外
+They are all foreigners
+
+897
+01:16:20,142 --> 01:16:21,382
+其他全部是外籍
+except for five soldiers.
+
+898
+01:16:21,532 --> 01:16:23,302
+三个女性只有一个是亚洲女性
+There are three women, one of them is Asian.
+
+899
+01:16:23,362 --> 01:16:25,152
+按她的描述应该就是邓梅
+Her description matches Mei Deng's.
+
+900
+01:16:25,302 --> 01:16:26,142
+等一下
+Hold on.
+
+901
+01:16:26,322 --> 01:16:28,422
+有多少条路通往这个人质营？
+How can we access the camp?
+
+902
+01:16:31,822 --> 01:16:33,262
+只有广场一条
+Only through the square.
+
+903
+01:16:34,452 --> 01:16:36,232
+先把我们这个情况跟舰上汇报一下
+Send a situation report to the ship.
+
+904
+01:16:36,282 --> 01:16:37,312
+是
+Yes, sir.
+
+905
+01:16:41,392 --> 01:16:43,002
+8对150
+It's eight against 150 people.
+
+906
+01:16:43,552 --> 01:16:45,102
+你们以前有过这样的经验吗？
+Have you ever done anything like this before?
+
+907
+01:16:45,162 --> 01:16:46,142
+我们这八个人的任务
+Our unit's mission
+
+908
+01:16:46,182 --> 01:16:47,922
+不是要解决那150个人
+is not to deal with those 150 people.
+
+909
+01:16:48,502 --> 01:16:51,352
+而是去营救那个必须去营救的中国人质
+It's to rescue the Chinese hostage.
+
+910
+01:16:55,962 --> 01:16:58,512
+就是说其他的人还是没有希望了
+So is there no hope for the others?
+
+911
+01:17:00,062 --> 01:17:01,352
+没时间了
+There's no time.
+
+912
+01:17:05,152 --> 01:17:06,982
+那…有没有可能
+Is it possible
+
+913
+01:17:07,512 --> 01:17:09,292
+如果你们可以的话
+for you
+
+914
+01:17:09,672 --> 01:17:11,132
+再多救一个人？
+to save one more person?
+
+915
+01:17:11,192 --> 01:17:12,872
+有没有这种可能？
+Is there any chance of that?
+
+916
+01:17:18,242 --> 01:17:20,102
+你的助手阿布
+Your assistant, Abu
+
+917
+01:17:21,262 --> 01:17:22,982
+已经被他们处决了
+has been executed.
+
+918
+01:17:31,272 --> 01:17:32,782
+什么时候的事？
+When did that happened?
+
+919
+01:17:33,152 --> 01:17:34,472
+我们来之前
+Before we got here.
+
+920
+01:18:13,032 --> 01:18:14,232
+我的先生和我的孩子
+My husband and child
+
+921
+01:18:14,272 --> 01:18:16,462
+也是死在像今天这样的大巴上
+died on a bus just like today.
+
+922
+01:18:26,042 --> 01:18:27,412
+在零五年…
+<i>In 2005,</i>
+
+923
+01:18:28,732 --> 01:18:31,302
+零五年伦敦炸弹袭击的时候
+<i>when they blew up the bus in London.</i>
+
+924
+01:18:35,062 --> 01:18:37,142
+警察找到我跟我说
+The police told me
+
+925
+01:18:38,322 --> 01:18:40,182
+什么都没有剩下
+that nothing was left of them,
+
+926
+01:18:43,192 --> 01:18:45,832
+只有一个小小的蓝色的手链
+but a little blue bracelet.
+
+927
+01:18:50,402 --> 01:18:51,662
+从那以后
+That's when
+
+928
+01:18:52,392 --> 01:18:54,182
+我就要跟他们干到底
+I vowed to fight against them to the end.
+
+929
+01:18:55,072 --> 01:18:56,782
+我要跟恐怖组织干到底
+To fight against the terrorist groups.
+
+930
+01:18:56,942 --> 01:18:58,502
+我什么都不怕
+I'm not afraid of anything,
+
+931
+01:18:59,002 --> 01:19:00,822
+我连死都不怕
+even death.
+
+932
+01:19:01,902 --> 01:19:04,302
+我就是怕像今天这样没有办法
+I'm only afraid of being powerless to help.
+
+933
+01:19:06,952 --> 01:19:08,982
+其实我谁都保护不了
+I've failed to protect anyone.
+
+934
+01:19:10,192 --> 01:19:12,782
+其实我连阿布都保护不了
+Not even Abu. I've failed to protect him.
+
+935
+01:19:12,872 --> 01:19:14,422
+我谁都…
+I've failed.
+
+936
+01:19:20,802 --> 01:19:21,642
+舰长说
+The captain says,
+
+937
+01:19:21,702 --> 01:19:22,662
+唯一的支援
+the only support
+
+938
+01:19:22,732 --> 01:19:25,352
+是政府军可以安排直升机协助我们撤离
+will be a chopper for evacuation,
+
+939
+01:19:25,462 --> 01:19:27,002
+但是没有具体时间
+but they can't say when.
+
+940
+01:19:29,592 --> 01:19:30,732
+除了邓梅之外
+In addition to Mei Deng,
+
+941
+01:19:31,142 --> 01:19:33,412
+我想把其他的人质全都救下来
+I want to rescue the others too.
+
+942
+01:19:34,732 --> 01:19:36,062
+你有什么方案？
+Do you have a strategy?
+
+943
+01:19:40,272 --> 01:19:41,982
+如果要救那么多人走的话
+With so many people,
+
+944
+01:19:42,362 --> 01:19:43,742
+就不可能原路返回了
+we can't take that road back.
+
+945
+01:19:44,032 --> 01:19:44,902
+不如干脆
+It's better
+
+946
+01:19:45,002 --> 01:19:47,242
+直接带所有人穿过人质营北面的沙漠
+to go north through the desert,
+
+947
+01:19:47,322 --> 01:19:48,262
+去政府军基地
+straight to the army base.
+
+948
+01:19:48,322 --> 01:19:49,022
+但问题是
+The problem is
+
+949
+01:19:49,082 --> 01:19:51,102
+目标太大 敌人一旦追上来的话…
+we'll be exposed if they started to chase us.
+
+950
+01:19:51,402 --> 01:19:52,742
+邓梅还是首要任务
+Mei Deng is the priority.
+
+951
+01:19:52,862 --> 01:19:55,082
+等邓梅安全撤离原路返回之后
+Once she's safely out,
+
+952
+01:19:55,312 --> 01:19:57,302
+我们再集中火力去打人质营
+we regroup and get the hostages.
+
+953
+01:19:58,442 --> 01:19:59,892
+你赶紧通知一下石头
+Quickly tell Shitou
+
+954
+01:19:59,952 --> 01:20:00,912
+还有佟莉
+and Li Tong
+
+955
+01:20:01,262 --> 01:20:02,862
+让他们化装成恐怖分子
+to disguise themselves as terrorists
+
+956
+01:20:02,932 --> 01:20:04,102
+潜入人质营
+and infiltrate the camp.
+
+957
+01:20:04,312 --> 01:20:08,092
+记住 是让佟莉和邓梅互换服装
+Remember. Li Tong and Mei Deng will trade clothes.
+
+958
+01:20:08,312 --> 01:20:10,682
+让石头带着她原路返回
+Shitou will take her back the way we came.
+
+959
+01:20:10,832 --> 01:20:12,702
+你还要去通知一下顾顺和李懂
+Tell Shun Gu and Dong Li.
+
+960
+01:20:12,872 --> 01:20:13,852
+让他们寻找制高点
+Find an over watch
+
+961
+01:20:13,922 --> 01:20:16,162
+控制住整个广场区域范围
+where they can control the square.
+
+962
+01:20:16,782 --> 01:20:18,222
+一会儿我们进到镇里
+Once we enter the town,
+
+963
+01:20:18,872 --> 01:20:20,582
+所有人的信号都会被屏蔽
+all our signals will be jammed.
+
+964
+01:20:20,672 --> 01:20:22,282
+所以我现在要找到庄羽
+So I have to tell Yu Zhuang
+
+965
+01:20:22,392 --> 01:20:23,842
+通知他加设反干扰器
+to set up an anti-jamming device
+
+966
+01:20:23,882 --> 01:20:26,162
+确保我们所有人行动当中的通讯
+to secure our communications.
+
+967
+01:20:27,072 --> 01:20:28,042
+至于夏楠
+As for Nan Xia,
+
+968
+01:20:28,152 --> 01:20:29,832
+就让她跟庄羽留守在这儿吧
+have her stay here with Yu Zhuang.
+
+969
+01:20:29,892 --> 01:20:31,722
+等邓梅撤出之后 他们一起撤离
+They'll go as soon as Mei Deng's out.
+
+970
+01:20:31,842 --> 01:20:33,592
+最后 你 我 还有陆琛
+Finally, you, Chen Lu and I
+
+971
+01:20:33,642 --> 01:20:35,342
+负责在广场范围内附近
+will watch the square.
+
+972
+01:20:35,432 --> 01:20:38,192
+一旦说邓梅安全地通过这个地方
+Once we know Mei Deng is safe and has arrived
+
+973
+01:20:38,242 --> 01:20:39,152
+撤到贝拉家
+at Bella's house,
+
+974
+01:20:39,192 --> 01:20:40,272
+我们要第一时间
+we'll blow up
+
+975
+01:20:40,332 --> 01:20:42,072
+把通往人质营的入口炸掉
+their access to the camp.
+
+976
+01:20:42,232 --> 01:20:44,082
+然后我们三个人进入人质营
+The three of us will go into the camp
+
+977
+01:20:44,122 --> 01:20:46,712
+带着全部的人质从这里撤出
+and rescue the other hostages.
+
+978
+01:20:47,952 --> 01:20:49,652
+可是如果佟莉留在人质营
+But if Li Tong is with them,
+
+979
+01:20:49,972 --> 01:20:51,442
+万一广场一旦打起来了
+and a battle breaks out in the square,
+
+980
+01:20:51,512 --> 01:20:53,062
+咱们火力不够 人手不够
+we won't have enough firepower.
+
+981
+01:20:53,152 --> 01:20:54,482
+你们现在已经人手不够
+You're already outnumbered.
+
+982
+01:20:54,592 --> 01:20:55,622
+除非拿我去换
+I'll switch with Mei Deng.
+
+983
+01:20:55,702 --> 01:20:57,262
+我比较更像一些
+I look more like her too.
+
+984
+01:21:00,192 --> 01:21:01,062
+队长
+Captain,
+
+985
+01:21:01,382 --> 01:21:02,312
+我觉得这个方案可行
+I think that's not a bad idea.
+
+986
+01:21:02,362 --> 01:21:03,742
+我觉得这个方案不可行
+I disagree.
+
+987
+01:21:18,332 --> 01:21:20,732
+我…什么也不知道
+I know nothing.
+
+988
+01:21:33,902 --> 01:21:35,262
+没有话要告诉我？
+Do you have nothing to say?
+
+989
+01:21:35,342 --> 01:21:36,582
+求求你…
+Please.
+
+990
+01:21:37,552 --> 01:21:40,022
+我不知道你想知道什么？
+What do you want to know?
+
+991
+01:21:43,992 --> 01:21:45,742
+你的伤口处理得不太好
+Your wound is not looking so good.
+
+992
+01:21:46,252 --> 01:21:48,522
+- 我真的不知道… - 我要帮你重新处理
+- I really don't know-- - Let me fix it.
+
+993
+01:21:56,592 --> 01:21:59,182
+求求你…我什么也不知道
+Please, I know nothing!
+
+994
+01:21:59,552 --> 01:22:02,592
+你好像藏了点东西？在哪？
+You're hiding something. Where is it?
+
+995
+01:22:02,672 --> 01:22:07,382
+我真的不知道…
+I really don't know...
+
+996
+01:22:08,742 --> 01:22:10,362
+好好回想一下
+Think it over.
+
+997
+01:22:14,232 --> 01:22:16,172
+阿路卡沙漠
+Aluka Desert!
+
+998
+01:22:16,262 --> 01:22:18,092
+阿路卡沙漠
+Aluka Desert!
+
+999
+01:22:42,352 --> 01:22:43,072
+李懂
+<i>Dong Li, </i>
+
+1000
+01:22:43,192 --> 01:22:44,352
+这个范围你来负责
+<i>you cover this area.</i>
+
+1001
+01:22:46,512 --> 01:22:47,342
+顾顺
+<i>Shun Gu, </i>
+
+1002
+01:22:47,592 --> 01:22:48,702
+拱门后是你的
+<i> you take the arches.</i>
+
+1003
+01:22:49,702 --> 01:22:51,222
+没问题 我的
+No problem. Got them.
+
+1004
+01:22:55,342 --> 01:22:57,422
+队长 我们进入人质营
+Captain, we're in.
+
+1005
+01:23:39,722 --> 01:23:40,762
+按我说的做
+Do as I say.
+
+1006
+01:23:40,912 --> 01:23:42,702
+中国海军来救你了
+The Chinese Navy is here to save you.
+
+1007
+01:24:03,492 --> 01:24:05,662
+陆琛 我找到一辆货车
+<i>Chen Lu, I found a truck.</i>
+
+1008
+01:24:05,792 --> 01:24:07,662
+我会停在人质营的通道口
+<i>I'll stop it near the hostage camp.</i>
+
+1009
+01:24:07,842 --> 01:24:08,812
+你守在右侧
+<i>Guard the right flank.</i>
+
+1010
+01:24:08,952 --> 01:24:10,182
+我准备炸弹
+<i>I'll prepare the bomb.</i>
+
+1011
+01:24:39,882 --> 01:24:40,602
+零一零一
+Base,
+
+1012
+01:24:40,682 --> 01:24:41,642
+我是一队
+this is Unit One.
+
+1013
+01:24:42,052 --> 01:24:43,122
+是否收到？
+Can you read me?
+
+1014
+01:24:43,982 --> 01:24:45,652
+庄羽 庄羽 出什么问题了？
+<i>Yu Zhuang, what's wrong?</i>
+
+1015
+01:24:46,172 --> 01:24:48,452
+队长 与军舰联系中断了
+Captain, we lost contact with the ship.
+
+1016
+01:24:48,882 --> 01:24:50,112
+我马上检查
+I'll go check.
+
+1017
+01:24:50,682 --> 01:24:52,402
+收到 注意安全
+<i>Roger. Stay safe.</i>
+
+1018
+01:24:53,042 --> 01:24:53,962
+知道
+Will do.
+
+1019
+01:25:14,522 --> 01:25:15,282
+首领
+<i>Boss.</i>
+
+1020
+01:25:15,342 --> 01:25:17,862
+我们在后山山顶发现了中国军人
+<i>There's a Chinese soldier on the hill.</i>
+
+1021
+01:25:19,452 --> 01:25:21,172
+处决那个中国女人质
+Execute the Chinese hostage.
+
+1022
+01:25:21,602 --> 01:25:23,182
+这帮人要来救人
+If they want to rescue her,
+
+1023
+01:25:23,392 --> 01:25:26,342
+就让他们救个死人
+let them rescue a corpse.
+
+1024
+01:25:27,092 --> 01:25:28,592
+通知山上的兄弟
+<i>And tell our brothers</i>
+
+1025
+01:25:28,652 --> 01:25:30,612
+向中国军舰发动攻击
+<i>to attack the ship.</i>
+
+1026
+01:25:40,512 --> 01:25:42,012
+你们在干什么？
+What are you doing?
+
+1027
+01:25:42,762 --> 01:25:44,332
+你们在干什么？
+What are you doing?
+
+1028
+01:25:46,232 --> 01:25:48,352
+队长 夏楠突然被带走了
+Captain, they just took Nan Xia.
+
+1029
+01:25:50,162 --> 01:25:52,232
+徐宏 怎么是夏楠？
+<i>Hong Xu, why was Nan Xia there?</i>
+
+1030
+01:25:55,862 --> 01:25:56,892
+石头 石头
+Shfiou,
+
+1031
+01:25:57,152 --> 01:25:58,472
+你们的车离开人质营之后
+once you've left the camp,
+
+1032
+01:25:58,522 --> 01:26:00,542
+你迅速下车 随时准备突袭人质营
+<i>jump out and prepare to attack it.</i>
+
+1033
+01:26:00,792 --> 01:26:02,022
+其他一切
+<i>Everyone else,</i>
+
+1034
+01:26:02,122 --> 01:26:04,882
+等邓梅安全通过广场之后再行动
+hold fire until Mei Deng is safe.
+
+1035
+01:26:12,682 --> 01:26:14,342
+你们在干什么？
+What are you doing?
+
+1036
+01:26:17,962 --> 01:26:18,912
+李懂 李懂
+Dong Li,
+
+1037
+01:26:19,002 --> 01:26:20,232
+我现在要进指挥所
+I'm going into the headquarters.
+
+1038
+01:26:20,282 --> 01:26:21,602
+找位置掩护我
+Cover me.
+
+1039
+01:26:37,992 --> 01:26:39,452
+李懂 我现在在二楼左边通道
+<i>I'm on the second floor, left passage.</i>
+
+1040
+01:26:39,502 --> 01:26:40,352
+看到我吗？
+<i>Can you see me?</i>
+
+1041
+01:26:40,412 --> 01:26:41,182
+看到
+I see you.
+
+1042
+01:26:41,512 --> 01:26:42,472
+帮我守着这里
+<i>Secure the area.</i>
+
+1043
+01:26:42,692 --> 01:26:43,692
+收到
+Roget
+
+1044
+01:26:56,702 --> 01:26:57,842
+那个女人太吵了
+She's so loud.
+
+1045
+01:26:57,882 --> 01:26:59,102
+把音乐调大声点
+Turn up the music.
+
+1046
+01:27:13,882 --> 01:27:14,972
+报告舰长 政委
+Captain, Commissar.
+
+1047
+01:27:15,042 --> 01:27:16,702
+山上恐怖分子车上的武器
+Reporting, the weapons on the hill
+
+1048
+01:27:16,832 --> 01:27:17,782
+已对准我们
+are aiming at us!
+
+1049
+01:27:17,882 --> 01:27:19,572
+全舰进入一级战斗部署
+Battle-ready deployment grade one!
+
+1050
+01:27:19,642 --> 01:27:21,932
+- 是 - 一级战斗部署 一级战斗部署
+- Yes, sir! - Grade one!
+
+1051
+01:27:27,542 --> 01:27:28,782
+副炮准备拦截
+Auxiliary gun on intercept!
+
+1052
+01:27:41,132 --> 01:27:42,462
+主炮瞄准山上目标
+Main gun target the hill!
+
+1053
+01:27:42,542 --> 01:27:43,252
+是
+Yes, sir!
+
+1054
+01:27:45,072 --> 01:27:46,172
+主炮锁定目标
+Target is locked!
+
+1055
+01:27:46,272 --> 01:27:47,112
+发射
+Fire!
+
+1056
+01:27:55,522 --> 01:27:58,632
+莫哈迪每分每秒都在残害我族人民
+Mohadi is ruining our people's lives every day.
+
+1057
+01:27:58,692 --> 01:28:01,662
+勇敢的战士不会能再等下去
+And brave soldiers like us can wait no longer.
+
+1058
+01:28:02,052 --> 01:28:04,042
+我们必须对这个中国人予以惩罚
+We must punish this Chinese citizen.
+
+1059
+01:28:04,102 --> 01:28:05,082
+只有鲜血才能让你们得到教训…
+Only blood will teach--
+
+1060
+01:28:05,122 --> 01:28:06,062
+等等
+Wait!
+
+1061
+01:28:12,062 --> 01:28:13,192
+你是谁？
+Who are you?
+
+1062
+01:28:14,842 --> 01:28:16,022
+你是谁？
+Who are you?
+
+1063
+01:28:16,282 --> 01:28:17,722
+原来那个女人在哪儿？
+Where is the other girl?
+
+1064
+01:28:18,192 --> 01:28:19,702
+原来那个女人在哪儿？
+Where is the other girl?
+
+1065
+01:28:20,042 --> 01:28:21,482
+你是怎样混进来的？
+Who brought you here?
+
+1066
+01:28:22,262 --> 01:28:23,672
+有多少同伙？
+How many of you are here?
+
+1067
+01:28:23,872 --> 01:28:25,022
+回答我
+Answer me!
+
+1068
+01:28:25,252 --> 01:28:26,462
+回答我
+Answer me!
+
+1069
+01:28:26,842 --> 01:28:28,132
+究竟有多少同伙？
+How many of you are here?
+
+1070
+01:28:28,202 --> 01:28:30,622
+再不说话 先把你的腿打断
+Start talking or I'll break your legs!
+
+1071
+01:28:31,002 --> 01:28:32,212
+快回答我
+Answer me now!
+
+1072
+01:28:32,302 --> 01:28:34,102
+你是活得不耐烦了吧
+Do you want me to kill you?
+
+1073
+01:28:55,882 --> 01:28:57,102
+对不起
+I'm sorry.
+
+1074
+01:28:58,012 --> 01:29:00,902
+这事换成别人 也得这样
+Don't take it personally.
+
+1075
+01:29:13,822 --> 01:29:16,102
+队长队长 现在离开人质营
+Captain, we're leaving the camp.
+
+1076
+01:30:07,732 --> 01:30:08,602
+走啊
+Come on!
+
+1077
+01:30:08,672 --> 01:30:10,092
+这就是威廉 项链不见了
+This is William. His necklace is gone.
+
+1078
+01:30:10,142 --> 01:30:11,822
+- 什么项链？- 资料全在里面
+- What necklace? - It has the information.
+
+1079
+01:30:11,872 --> 01:30:12,882
+走
+Let's go.
+
+1080
+01:30:20,332 --> 01:30:22,562
+队长 我现在准备进入广场
+<i>Captain, I'm about to enter the square.</i>
+
+1081
+01:30:22,652 --> 01:30:24,122
+但是车胎破了
+<i>But I got a flat tire.</i>
+
+1082
+01:30:27,492 --> 01:30:29,022
+所有人都稳住
+Keep calm, everyone.
+
+1083
+01:30:43,092 --> 01:30:45,412
+李懂 我现在准备出来
+<i>Dong Li, I'm coming out.</i>
+
+1084
+01:30:45,492 --> 01:30:46,942
+通道有没有问题？
+<i>ls the path clear?</i>
+
+1085
+01:30:47,232 --> 01:30:48,402
+没问题
+All clear.
+
+1086
+01:30:49,212 --> 01:30:50,582
+所有人注意
+<i>Everyone, listen to me.</i>
+
+1087
+01:30:50,682 --> 01:30:52,652
+不管我这边有什么情况
+<i>No matter what happens over here,</i>
+
+1088
+01:30:52,812 --> 01:30:54,262
+一切按原计划进行
+<i>stick to the plan.</i>
+
+1089
+01:30:57,402 --> 01:30:59,292
+轮胎漏气了
+Your tire is flat!
+
+1090
+01:30:59,792 --> 01:31:01,282
+待会儿不管发生什么
+Remember.
+
+1091
+01:31:01,402 --> 01:31:03,182
+记住 带着小女孩
+No matter what happens, take the girl
+
+1092
+01:31:03,312 --> 01:31:04,122
+跟紧我
+and follow me.
+
+1093
+01:31:04,842 --> 01:31:07,922
+别害怕 跟紧我 艾伊莎
+Don't be scared, Aisha. Stay with me.
+
+1094
+01:31:09,432 --> 01:31:11,762
+等等 轮胎漏气了
+Wait, the tire is leaking air.
+
+1095
+01:31:11,862 --> 01:31:14,192
+队长 佟莉的车被拦截了
+Captain, they stopped Li Tang's truck.
+
+1096
+01:31:38,142 --> 01:31:40,262
+有入侵者 有入侵者
+Intruders!
+
+1097
+01:32:44,202 --> 01:32:45,852
+我们要撤去旁边的废车场
+We're retreating to the junkyard.
+
+1098
+01:32:45,912 --> 01:32:47,152
+掩护我
+Cover us!
+
+1099
+01:32:51,902 --> 01:32:53,042
+跟紧我
+Follow me.
+
+1100
+01:32:58,612 --> 01:32:59,632
+走
+Go!
+
+1101
+01:33:04,182 --> 01:33:05,132
+进去
+Go in!
+
+1102
+01:33:07,032 --> 01:33:08,092
+躲起来
+Hide!
+
+1103
+01:33:08,242 --> 01:33:09,402
+找掩护
+Find cover!
+
+1104
+01:33:13,262 --> 01:33:14,532
+穿上它
+Put this on!
+
+1105
+01:33:22,992 --> 01:33:24,832
+徐宏 你们那儿情况怎么样？
+Hong Xu, what's your status?
+
+1106
+01:33:24,882 --> 01:33:27,552
+队长 我们在广场被困住了
+<i>Captain, we're trapped in the square.</i>
+
+1107
+01:33:27,642 --> 01:33:28,852
+你那边怎么样？
+<i>What about you?</i>
+
+1108
+01:33:29,002 --> 01:33:29,962
+只要有机会
+When you have the chance,
+
+1109
+01:33:30,042 --> 01:33:32,662
+带着所有人从后方人质营撤出
+take them all out using the back way.
+
+1110
+01:33:32,752 --> 01:33:33,642
+收到
+<i>Roget.</i>
+
+1111
+01:33:34,102 --> 01:33:35,062
+你怎么办？
+<i>What's your plan?</i>
+
+1112
+01:33:35,162 --> 01:33:36,182
+我在想办法
+I'll think of one.
+
+1113
+01:33:36,302 --> 01:33:37,002
+记住
+Remember, make sure Mei Deng is safe!
+
+1114
+01:33:37,072 --> 01:33:38,762
+一定要确保邓梅的安全
+<i>YELLOW CAKE '27 TONS</i>
+
+1115
+01:33:41,262 --> 01:33:44,592
+黄饼27吨 运输机于1625抵达藏匿地点坐标
+
+1116
+01:34:21,482 --> 01:34:24,112
+你们继续攻 我会解决他们的狙击手
+Keep on going. I'll take care of the snipers.
+
+1117
+01:34:25,152 --> 01:34:27,412
+李懂 我被发现了
+Dong Li, they saw me.
+
+1118
+01:34:27,502 --> 01:34:28,842
+他离我位置很近
+He's close by.
+
+1119
+01:34:28,952 --> 01:34:30,472
+一定会死盯我
+He know where I am.
+
+1120
+01:34:30,602 --> 01:34:32,192
+我们要赶紧把他找出来
+Find him quickly.
+
+1121
+01:34:32,462 --> 01:34:33,632
+收到回复
+Do you read me?
+
+1122
+01:34:33,932 --> 01:34:34,762
+是
+Roger
+
+1123
+01:34:39,182 --> 01:34:39,922
+队长
+Captain,
+
+1124
+01:34:39,982 --> 01:34:41,422
+对方狙击手发现我了
+their sniper found me.
+
+1125
+01:34:41,882 --> 01:34:43,222
+我失去那个位置了
+<i>I've lost my position.</i>
+
+1126
+01:34:43,292 --> 01:34:44,292
+小心
+<i>Be careful.</i>
+
+1127
+01:35:31,792 --> 01:35:32,442
+起来
+Get up!
+
+1128
+01:35:32,502 --> 01:35:33,982
+往后面走 低头
+We'll go that way! Heads down!
+
+1129
+01:35:40,932 --> 01:35:42,082
+佟莉 佟莉
+Li Tong!
+
+1130
+01:35:42,292 --> 01:35:43,332
+你有没有事？
+Are you okay?
+
+1131
+01:35:43,402 --> 01:35:44,412
+回答我
+Answer me!
+
+1132
+01:35:44,682 --> 01:35:46,092
+车场入口被火封住了
+<i>Our exit is cut off by fire.</i>
+
+1133
+01:35:46,132 --> 01:35:47,502
+火烧过来了
+<i>It's coming our way!</i>
+
+1134
+01:35:51,542 --> 01:35:52,372
+陆琛
+Chen Lu!
+
+1135
+01:35:52,442 --> 01:35:53,562
+给我手榴弹
+Give me a grenade!
+
+1136
+01:35:55,552 --> 01:35:56,362
+给
+Here!
+
+1137
+01:35:59,282 --> 01:35:59,922
+佟莉
+<i>Li Tong!</i>
+
+1138
+01:35:59,962 --> 01:36:01,462
+来废车场后方
+<i> Get to the back.</i>
+
+1139
+01:36:02,072 --> 01:36:03,482
+待这儿别动
+Stay right here.
+
+1140
+01:36:04,452 --> 01:36:05,902
+徐宏 徐宏
+Hong Xu!
+
+1141
+01:36:10,712 --> 01:36:11,412
+佟莉
+Li Tong,
+
+1142
+01:36:11,482 --> 01:36:12,382
+从旁边炸出去
+blast your way out.
+
+1143
+01:36:12,442 --> 01:36:13,462
+我接应你
+I'll cover you!
+
+1144
+01:36:13,562 --> 01:36:14,292
+去
+Go!
+
+1145
+01:36:24,692 --> 01:36:26,022
+起来 走
+Let's
+
+1146
+01:36:31,002 --> 01:36:32,562
+陆琛 掩护佟莉
+<i>Chen Lu, cover Li Tong.</i>
+
+1147
+01:36:32,622 --> 01:36:34,482
+我们从后方撤入人质营
+<i>We'll retreat to the camp.</i>
+
+1148
+01:36:37,112 --> 01:36:38,612
+佟莉 撤
+Li Tong,go!
+
+1149
+01:36:38,682 --> 01:36:39,882
+跟着我
+Follow me!
+
+1150
+01:36:40,572 --> 01:36:41,742
+回去
+Go back!
+
+1151
+01:36:51,872 --> 01:36:54,102
+陆琛 退退退
+Chen Lu, fall back!
+
+1152
+01:36:55,852 --> 01:36:57,382
+我们要冲出去
+We have to escape.
+
+1153
+01:36:57,682 --> 01:36:59,122
+把这销子拔掉
+Pull this pin.
+
+1154
+01:36:59,182 --> 01:37:01,242
+我让你扔的时候就扔 听明白了吗？
+When I say throw, you throw. Got it?
+
+1155
+01:37:02,722 --> 01:37:04,442
+得跟他们干到底
+We'll fight to the end!
+
+1156
+01:37:08,302 --> 01:37:09,242
+走
+Let's
+
+1157
+01:37:10,442 --> 01:37:12,362
+夏楠 扔进去
+Nan Xia, throw!
+
+1158
+01:37:25,242 --> 01:37:26,022
+走
+Move!
+
+1159
+01:37:33,332 --> 01:37:35,052
+炸死他们 炸死他们
+Blow them up!
+
+1160
+01:37:39,082 --> 01:37:40,122
+听到没有？
+Do you hear me?
+
+1161
+01:37:40,172 --> 01:37:42,122
+马上解决全部人质
+Kill the hostages!
+
+1162
+01:37:42,512 --> 01:37:44,682
+他们要马上杀掉所有人质
+They're going to kill the hostages!
+
+1163
+01:37:44,812 --> 01:37:46,122
+石头 石头 马上行动
+Shitou, go to the camp now!
+
+1164
+01:37:46,182 --> 01:37:48,372
+打倒人质营 不要让他们杀了人质
+Save the hostages! Don't let them kill the hostages!
+
+1165
+01:38:32,812 --> 01:38:33,372
+副队
+<i>Sir, </i>
+
+1166
+01:38:33,432 --> 01:38:34,682
+人质营出口已打通
+<i>the exit is clear.</i>
+
+1167
+01:38:34,742 --> 01:38:35,892
+人质全部安全撤离
+<i>The hostages are all safe.</i>
+
+1168
+01:38:35,942 --> 01:38:37,142
+你们赶快过来
+<i>Hurry over here!</i>
+
+1169
+01:38:47,682 --> 01:38:49,902
+石头 通往人质营的路被炸了
+<i>Shitou, the exit's blocked!</i>
+
+1170
+01:38:49,962 --> 01:38:51,312
+快过来支援
+<i>Help us!</i>
+
+1171
+01:38:57,802 --> 01:38:59,442
+退后点 躲起来
+Stay back, hide!
+
+1172
+01:38:59,722 --> 01:39:01,292
+徐宏 我没子弹了
+<i>Hong Xu, I'm out of ammunition!</i>
+
+1173
+01:39:01,372 --> 01:39:02,532
+石头 支援陆琛
+Shitou! Go and help Chen Lu!
+
+1174
+01:39:02,592 --> 01:39:03,222
+再坚持一会儿
+Hang in there.
+
+1175
+01:39:03,272 --> 01:39:04,062
+我有办法
+I have a plan.
+
+1176
+01:39:04,112 --> 01:39:04,912
+明白
+Roget
+
+1177
+01:39:22,792 --> 01:39:25,322
+废车场右侧有出口通往小广场
+<i>There is a way out to the small plaza at right of the junkyard.</i>
+
+1178
+01:39:25,382 --> 01:39:26,442
+你们从那边出去
+<i>Use that way to get out.</i>
+
+1179
+01:39:26,492 --> 01:39:27,562
+我掩护你们突围
+<i>I'll cover you.</i>
+
+1180
+01:39:27,632 --> 01:39:28,822
+等我指示
+<i>Wait for my signal.</i>
+
+1181
+01:39:38,222 --> 01:39:39,142
+陆琛 佟莉
+Chen Lu, Li Tong.
+
+1182
+01:39:39,232 --> 01:39:40,362
+我抢了一辆坦克
+<i>I've taken over a tank.</i>
+
+1183
+01:39:40,432 --> 01:39:41,922
+我先解决你那儿的敌人
+<i>I'll deal with the enemies around you.</i>
+
+1184
+01:39:41,992 --> 01:39:43,562
+听我指示 注意隐蔽
+<i>Stay hidden and wait for my signal.</i>
+
+1185
+01:39:43,962 --> 01:39:45,142
+佟莉 佟莉
+<i>Li Tong.</i>
+
+1186
+01:39:45,262 --> 01:39:46,492
+记得冲出去之后
+After you have escaped,
+
+1187
+01:39:46,572 --> 01:39:47,522
+赶往集合点
+go to the meeting point.
+
+1188
+01:39:47,562 --> 01:39:48,182
+明白
+Roger.
+
+1189
+01:39:48,212 --> 01:39:50,662
+队长 下一炮救你出去
+<i>Captain, I'll rescue you next!</i>
+
+1190
+01:39:51,582 --> 01:39:52,572
+准备…
+Ready.
+
+1191
+01:39:53,642 --> 01:39:54,562
+准备…
+Ready.
+
+1192
+01:39:56,072 --> 01:39:57,222
+开炮
+Fire!
+
+1193
+01:40:34,002 --> 01:40:34,722
+队长 队长
+Captain,
+
+1194
+01:40:34,772 --> 01:40:35,542
+你在什么位置？
+what's your position?
+
+1195
+01:40:35,582 --> 01:40:36,922
+我在主通道的右边
+<i>I'm at the right of the main passage.</i>
+
+1196
+01:40:37,042 --> 01:40:38,902
+但是被左边的恐怖分子困住了
+<i>But I'm surrounded by the terrorists on the left.</i>
+
+1197
+01:40:38,952 --> 01:40:40,222
+知道了
+Got it.
+
+1198
+01:40:40,442 --> 01:40:41,402
+准备
+<i>Ready!</i>
+
+1199
+01:40:41,582 --> 01:40:42,662
+隐蔽
+<i>Take cover!</i>
+
+1200
+01:40:43,002 --> 01:40:43,902
+开炮
+<i>Fire!</i>
+
+1201
+01:40:57,042 --> 01:40:58,032
+穿上
+Wear this!
+
+1202
+01:41:13,152 --> 01:41:14,042
+走 走
+Move!
+
+1203
+01:41:14,182 --> 01:41:14,902
+队长
+Captain,
+
+1204
+01:41:14,932 --> 01:41:16,282
+我们在小广场找到一辆车
+we found a truck.
+
+1205
+01:41:16,352 --> 01:41:17,212
+现在离开
+We're moving now.
+
+1206
+01:41:17,262 --> 01:41:18,222
+邓梅安全
+Mei Deng is safe.
+
+1207
+01:41:23,872 --> 01:41:24,922
+走啊
+Go!
+
+1208
+01:41:41,832 --> 01:41:43,202
+庄羽 庄羽 收到请回答
+<i>Yu Zhuang, do you read me?</i>
+
+1209
+01:41:43,292 --> 01:41:44,052
+收到
+Yes.
+
+1210
+01:41:44,342 --> 01:41:45,502
+你马上联系军舰
+Contact base.
+
+1211
+01:41:45,642 --> 01:41:46,532
+然后带着尤娜
+<i>Then take Yuna</i>
+
+1212
+01:41:46,592 --> 01:41:47,662
+到山上的集合点待命
+<i>to the meeting point and wait for orders.</i>
+
+1213
+01:41:47,702 --> 01:41:48,332
+听到了吗？
+<i>Do you read me?</i>
+
+1214
+01:41:48,362 --> 01:41:49,092
+收到
+<i>Roger.</i>
+
+1215
+01:41:49,402 --> 01:41:50,282
+零一零一
+Base,
+
+1216
+01:41:50,422 --> 01:41:51,522
+我是一队
+this is Unit One.
+
+1217
+01:41:53,222 --> 01:41:54,862
+零一零一 我是一队
+Base, this is Unit One!
+
+1218
+01:41:55,882 --> 01:41:58,562
+一队一队 收到回复 收到回复
+<i>Unit One, do you read me?</i>
+
+1219
+01:41:58,632 --> 01:42:01,012
+舰长 蛟龙的联络讯号消失了
+Captain, we've lost Jiaolong's signal.
+
+1220
+01:42:03,702 --> 01:42:05,002
+我们在尝试主动发送
+We tried to reach them,
+
+1221
+01:42:05,072 --> 01:42:06,352
+但一直没有回应
+but to no avail.
+
+1222
+01:42:06,842 --> 01:42:08,222
+他们的个人定位呢？
+How about their individual positions?
+
+1223
+01:42:08,292 --> 01:42:10,082
+也找不到他们个人讯号
+We've lost those too.
+
+1224
+01:42:11,872 --> 01:42:13,662
+保持一级戒备 继续联系
+Stay on high alert, keep trying.
+
+1225
+01:42:13,742 --> 01:42:14,612
+是
+Yes, sir!
+
+1226
+01:42:15,562 --> 01:42:16,572
+舰长
+Captain.
+
+1227
+01:42:18,442 --> 01:42:20,142
+现在我舰受到威胁
+The ship is under threat.
+
+1228
+01:42:20,242 --> 01:42:21,662
+为了侨民的安全
+To protect the citizens on board,
+
+1229
+01:42:21,722 --> 01:42:23,612
+我建议我们先退到外港
+we'll move away from the port.
+
+1230
+01:42:23,732 --> 01:42:24,692
+好
+Okay.
+
+1231
+01:42:26,162 --> 01:42:28,862
+我想向上级请示一下
+Let me see if our superiors
+
+1232
+01:42:28,992 --> 01:42:30,912
+同意我们派出无人机
+will approve of sending in a drone.
+
+1233
+01:42:32,212 --> 01:42:33,312
+跟着我
+Follow me!
+
+1234
+01:42:33,542 --> 01:42:34,842
+快 快来
+Come on! Come on!
+
+1235
+01:44:40,212 --> 01:44:41,292
+顾顺 顾顺
+Shun Gu!
+
+1236
+01:45:55,962 --> 01:45:57,902
+队长队长 收到请回话
+Captain, do you read me?
+
+1237
+01:46:03,242 --> 01:46:04,152
+蹲低
+Get down!
+
+1238
+01:46:04,302 --> 01:46:05,262
+趴下
+Get down!
+
+1239
+01:46:28,472 --> 01:46:29,352
+石头
+Shitou!
+
+1240
+01:47:06,682 --> 01:47:07,752
+有没有信号
+Any Signal yet?
+
+1241
+01:47:08,032 --> 01:47:08,762
+没有
+No.
+
+1242
+01:47:08,862 --> 01:47:09,932
+先回集合点
+To the meeting point.
+
+1243
+01:47:10,002 --> 01:47:10,842
+走
+Go.
+
+1244
+01:47:14,682 --> 01:47:16,202
+石头 别动
+Shitou, don't move!
+
+1245
+01:47:16,942 --> 01:47:18,182
+别动
+Don't move!
+
+1246
+01:47:40,172 --> 01:47:41,582
+下车 下车
+Out of the car!
+
+1247
+01:47:46,842 --> 01:47:48,072
+快 快 快
+Hurry!
+
+1248
+01:47:49,212 --> 01:47:50,522
+蹲下 蹲下
+Get down!
+
+1249
+01:48:00,142 --> 01:48:02,042
+躲起来 躲起来
+Take cover!
+
+1250
+01:48:09,852 --> 01:48:11,022
+别动
+Don't move!
+
+1251
+01:48:12,342 --> 01:48:13,742
+别动
+Don't move!
+
+1252
+01:48:26,352 --> 01:48:27,762
+石头 挺住
+Shitou, hold on!
+
+1253
+01:49:22,382 --> 01:49:23,742
+佟莉他们有危险
+Li Tong and the others are in danger.
+
+1254
+01:49:24,322 --> 01:49:25,392
+在下面
+They are down there.
+
+1255
+01:49:29,062 --> 01:49:31,262
+报告 发现微弱的蛟龙信号
+<i>Reporting. We have Jiaolong but the signal's weak.</i>
+
+1256
+01:49:31,712 --> 01:49:34,062
+但附近地区怀疑出现大规模沙尘暴
+<i>But there's a sandstorm nearby.</i>
+
+1257
+01:49:34,152 --> 01:49:35,022
+能联系上吗？
+Did you make contact?
+
+1258
+01:49:35,082 --> 01:49:36,962
+受天气影响 目前还没连线
+Not yet for now due to weather interference.
+
+1259
+01:49:37,012 --> 01:49:38,202
+还有多久到？
+How much longer?
+
+1260
+01:49:38,722 --> 01:49:39,802
+还有七分钟
+We have seven minutes.
+
+1261
+01:50:00,262 --> 01:50:01,812
+你们比我更需要
+You need it more.
+
+1262
+01:50:07,532 --> 01:50:08,852
+别出来
+Stay there!
+
+1263
+01:50:09,032 --> 01:50:10,832
+佟莉 佟莉 你们撑住
+<i>Li Tong, hang on!</i>
+
+1264
+01:50:10,922 --> 01:50:11,882
+我们马上就到
+<i>We're nearly there.</i>
+
+1265
+01:50:11,992 --> 01:50:12,802
+快
+Hurry!
+
+1266
+01:50:12,862 --> 01:50:13,822
+快点
+Hurry!
+
+1267
+01:50:20,722 --> 01:50:22,362
+陆琛 守住入口
+Chen Lu, secure the entrance.
+
+1268
+01:51:11,402 --> 01:51:12,842
+没事 石头…
+It's okay, Shitou.
+
+1269
+01:51:13,472 --> 01:51:14,322
+没事
+It's okay.
+
+1270
+01:51:24,042 --> 01:51:25,802
+好疼啊…
+It hurts...
+
+1271
+01:51:31,882 --> 01:51:33,132
+吃糖…
+Have a candy.
+
+1272
+01:51:33,222 --> 01:51:34,152
+吃糖不疼
+The candy will help.
+
+1273
+01:51:34,202 --> 01:51:35,042
+你不是说过…
+Didn't you say
+
+1274
+01:51:35,102 --> 01:51:36,512
+你说过吃糖不疼
+that candy can kill the pain.
+
+1275
+01:51:36,622 --> 01:51:38,032
+你说过吃糖不疼…
+It takes away the pain.
+
+1276
+01:51:45,132 --> 01:51:46,922
+吃糖…
+Here. Eat this candy.
+
+1277
+01:51:47,022 --> 01:51:47,622
+快
+Come on.
+
+1278
+01:51:47,732 --> 01:51:51,142
+吃糖不疼…
+Candy takes away the pain...
+
+1279
+01:51:51,302 --> 01:51:53,002
+我们回家了
+We're going home.
+
+1280
+01:51:53,232 --> 01:51:54,762
+回家了…
+Going home...
+
+1281
+01:51:56,532 --> 01:51:58,142
+回家了…
+Going home...
+
+1282
+01:52:11,172 --> 01:52:13,062
+石头
+Shitou!
+
+1283
+01:52:14,372 --> 01:52:18,682
+不疼了…我们回家了…
+No more pain. We're going home...
+
+1284
+01:52:57,522 --> 01:53:00,122
+坦克A 走右边攻击他们
+Tank Alpha, attack from the right!
+
+1285
+01:53:01,042 --> 01:53:01,872
+徐宏
+<i>Hong Xu.</i>
+
+1286
+01:53:01,962 --> 01:53:04,122
+往左20度 快 快
+Turn 20 degrees left, hurry!
+
+1287
+01:53:14,672 --> 01:53:15,612
+徐宏
+Hong Xu.
+
+1288
+01:53:16,122 --> 01:53:18,522
+他们的反应装甲太密集了
+The reactive armor protects them.
+
+1289
+01:53:18,832 --> 01:53:20,072
+往左急转
+<i>Turn a sharp left.</i>
+
+1290
+01:53:20,142 --> 01:53:21,832
+我们打他的履带
+<i>Shoot at their treads.</i>
+
+1291
+01:53:30,882 --> 01:53:32,122
+打中啦
+Got them!
+
+1292
+01:53:40,292 --> 01:53:41,982
+队长 冷却系统被打坏了
+Captain, they hit our cooling system.
+
+1293
+01:53:42,052 --> 01:53:43,382
+车开不了多久了
+We won't last much longer.
+
+1294
+01:53:52,492 --> 01:53:53,052
+队长
+Captain,
+
+1295
+01:53:53,122 --> 01:53:54,572
+前面有沙尘暴
+there is a sandstorm ahead!
+
+1296
+01:53:55,152 --> 01:53:56,612
+加速冲进去
+Charge straight at it.
+
+1297
+01:53:56,842 --> 01:53:58,542
+正好让风沙掩护我们
+<i>It will cover us.</i>
+
+1298
+01:54:16,262 --> 01:54:17,302
+徐宏 徐宏
+Hong Xu.
+
+1299
+01:54:17,492 --> 01:54:18,952
+我们的炮塔被打中了
+Our turret took a hit.
+
+1300
+01:54:19,062 --> 01:54:20,442
+不要让他们锁定
+<i>Don't let them lock onto us!</i>
+
+1301
+01:54:32,492 --> 01:54:33,532
+徐宏
+Hong Xu.
+
+1302
+01:54:33,882 --> 01:54:36,412
+我要用你的移动方向代替射击角度
+I'll use your steering for aim.
+
+1303
+01:54:36,562 --> 01:54:37,752
+明白吗？
+Do you understand?
+
+1304
+01:54:38,252 --> 01:54:39,142
+明白
+Roger
+
+1305
+01:54:40,382 --> 01:54:41,322
+夏楠
+Nan Xia.
+
+1306
+01:54:41,872 --> 01:54:43,592
+我们俩需要换一下位置
+We have to switch places.
+
+1307
+01:54:43,682 --> 01:54:45,982
+手柄上有一个按钮是发炮的
+The handset has a trigger.
+
+1308
+01:54:46,322 --> 01:54:48,042
+我让你发炮 你按下去
+When I say fire, press it.
+
+1309
+01:54:48,132 --> 01:54:49,522
+我去接应你
+I'll help you.
+
+1310
+01:55:10,292 --> 01:55:11,162
+徐宏
+Hong Xu.
+
+1311
+01:55:11,722 --> 01:55:13,792
+用我们的反应装甲接他一炮
+Let the reactive armor take a hit.
+
+1312
+01:55:14,142 --> 01:55:15,672
+待会儿你先往左急转
+<i>Follow my orders.</i>
+
+1313
+01:55:15,772 --> 01:55:17,832
+再往右转 你听我指示
+<i>First, take a sharp left and then sharp right!</i>
+
+1314
+01:55:21,862 --> 01:55:23,982
+徐宏 往左转
+Hong Xu, turn left!
+
+1315
+01:55:42,492 --> 01:55:43,842
+右转
+<i>Turn right!</i>
+
+1316
+01:55:45,732 --> 01:55:47,642
+夏楠 准备
+Nan Xia, get ready!
+
+1317
+01:55:53,532 --> 01:55:55,082
+开炮
+Fire!
+
+1318
+01:56:08,742 --> 01:56:09,722
+队长 队长
+<i>Captain!</i>
+
+1319
+01:56:09,872 --> 01:56:11,532
+车开不动了 车开不动了
+We're stuck!
+
+1320
+01:56:21,502 --> 01:56:24,152
+队长 我去解决他们的坦克
+<i>Captain, I'll deal with their tanks!</i>
+
+1321
+01:56:24,662 --> 01:56:26,602
+徐宏 徐宏
+Hong Xu! Hong Xu!
+
+1322
+01:56:41,152 --> 01:56:43,122
+夏楠 我们也出去
+Nan Xia, we're going out.
+
+1323
+01:56:43,712 --> 01:56:44,552
+记着
+Remember.
+
+1324
+01:56:44,622 --> 01:56:46,482
+出去之后把手搭在我肩膀上
+When we go out, keep your hand on my shoulder.
+
+1325
+01:56:46,542 --> 01:56:47,682
+听明白了吗？
+Understand?
+
+1326
+01:57:29,912 --> 01:57:31,152
+待在这儿别动
+Wait here, don't move!
+
+1327
+01:58:06,452 --> 01:58:07,422
+舰长 政委
+Captain, Commissar.
+
+1328
+01:58:07,492 --> 01:58:09,842
+无人机已经侦测到杨锐 徐宏的定位
+The drone has found Rui Yang and Hong Xu.
+
+1329
+01:58:09,962 --> 01:58:11,192
+但仍未取得联系
+But we still don't have contact.
+
+1330
+01:58:12,522 --> 01:58:14,222
+报告 无人机动力失控
+Reporting, the drone is losing power
+
+1331
+01:58:14,282 --> 01:58:15,552
+随时会坠落
+and could drop at any time.
+
+1332
+01:58:38,232 --> 01:58:40,122
+快 他要打我们了
+They're attacking, quick!
+
+1333
+01:58:58,412 --> 01:58:59,832
+快 马上装填
+Load up, hurry!
+
+1334
+01:59:07,612 --> 01:59:08,742
+准备发炮
+<i>Prepare to fire!</i>
+
+1335
+01:59:23,722 --> 01:59:24,632
+怎么样？
+Are you okay?
+
+1336
+01:59:24,732 --> 01:59:26,362
+还行…还行…
+Yes, I am...
+
+1337
+01:59:47,322 --> 01:59:48,712
+枪打得不错
+You're a good shot.
+
+1338
+02:00:27,392 --> 02:00:28,502
+队长
+Captain.
+
+1339
+02:00:29,102 --> 02:00:30,622
+任务完成了
+Our mission is accomplished.
+
+1340
+02:00:50,652 --> 02:00:51,722
+杨队长
+Captain Yang.
+
+1341
+02:00:52,532 --> 02:00:53,722
+感谢你们
+Thank you so much.
+
+1342
+02:01:12,392 --> 02:01:14,332
+- 杨队长 - 谢谢
+- Captain Yang. - Thank you.
+
+1343
+02:01:16,242 --> 02:01:17,342
+受天气影响
+<i>The weather is preventing us</i>
+
+1344
+02:01:17,402 --> 02:01:18,902
+我们暂时联系不到你们的军舰
+<i>from contacting your warship,</i>
+
+1345
+02:01:18,952 --> 02:01:21,902
+黄饼的事情我们现在暂无暇处理
+<i>and we are unable to deal with the "yellow cake" situation at the moment.</i>
+
+1346
+02:01:22,022 --> 02:01:24,312
+最多只能提供一架直升机
+<i>All we can provide is a helicopter.</i>
+
+1347
+02:01:26,532 --> 02:01:28,182
+这个…
+This
+
+1348
+02:01:29,712 --> 02:01:31,262
+非常管用
+works pretty well.
+
+1349
+02:01:33,392 --> 02:01:35,182
+记得还给我
+Remember to give it back.
+
+1350
+02:01:39,632 --> 02:01:41,062
+这次的黄饼危机
+We can't just ignore
+
+1351
+02:01:41,132 --> 02:01:42,742
+我们不可置之不理
+this "yellow cake" crisis.
+
+1352
+02:01:43,142 --> 02:01:44,992
+那些黄饼的藏匿地点
+The hiding place for the "yellow cake"
+
+1353
+02:01:45,112 --> 02:01:46,422
+距离此处80公里
+is 80 kilometers from here.
+
+1354
+02:01:46,512 --> 02:01:47,682
+但是还有40分钟
+But in 40 minutes,
+
+1355
+02:01:47,732 --> 02:01:49,522
+这些恐怖分子就会离开
+the terrorists will leave with the "yellow cake".
+
+1356
+02:01:50,372 --> 02:01:51,802
+所以我们必须抓紧时间
+We have to hurry.
+
+1357
+02:01:51,852 --> 02:01:53,402
+但是有一点我必须强调
+But I need to stress one thing.
+
+1358
+02:01:53,472 --> 02:01:54,862
+这次行动
+This operation
+
+1359
+02:01:55,312 --> 02:01:56,962
+还没有得到上级的批准
+hasn't been authorized yet.
+
+1360
+02:02:00,422 --> 02:02:01,302
+要扛
+If we do this,
+
+1361
+02:02:01,422 --> 02:02:02,402
+一起扛
+we do it together.
+
+1362
+02:02:04,142 --> 02:02:05,062
+队长
+Captain.
+
+1363
+02:02:05,392 --> 02:02:06,782
+我在等你下命令
+I'll wait for your orders.
+
+1364
+02:02:19,982 --> 02:02:21,532
+"强者无敌"
+"Conquer fear, conquer all."
+
+1365
+02:02:52,182 --> 02:02:54,702
+距离目标位置两公里
+<i>Two kilometers from destination!</i>
+
+1366
+02:03:43,232 --> 02:03:44,862
+我们的目标是抢黄饼
+<i>Our target is the "yellow cake".</i>
+
+1367
+02:03:45,062 --> 02:03:46,602
+所以不宜跟对方纠缠
+<i>Avoid engaging.</i>
+
+1368
+02:03:46,842 --> 02:03:47,402
+佟莉
+<i>Li Tong, </i>
+
+1369
+02:03:47,452 --> 02:03:49,152
+你跟我控制飞机抢黄饼
+<i>we'll take the plane and "yellow cake".</i>
+
+1370
+02:03:49,392 --> 02:03:50,112
+顾顺 李懂
+<i>Shun Gu, Dong Li.</i>
+
+1371
+02:03:50,152 --> 02:03:51,502
+找位置掩护我们
+<i>Find an over watch and cover us.</i>
+
+1372
+02:03:51,802 --> 02:03:52,802
+散开
+<i>Split up!</i>
+
+1373
+02:04:15,192 --> 02:04:16,872
+队长 我们到位
+<i>Captain, we're in position.</i>
+
+1374
+02:04:22,432 --> 02:04:23,492
+安全
+Clear.
+
+1375
+02:04:42,882 --> 02:04:44,832
+队长队长 指挥塔已控制
+Captain, we've taken the control tower.
+
+1376
+02:04:45,302 --> 02:04:47,242
+收到 原地待命
+<i>Roger. Wait for orders.</i>
+
+1377
+02:04:53,462 --> 02:04:55,652
+你先走 我等下一辆
+You go first. I'll wait for the next truck.
+
+1378
+02:05:07,632 --> 02:05:08,712
+首领
+Boss.
+
+1379
+02:05:09,192 --> 02:05:12,162
+叛军代表还有五分钟就到了
+The rebels' representative will arrive in five minutes.
+
+1380
+02:05:14,262 --> 02:05:16,862
+狙击点注意…
+<i>Attention, sniper's hide.</i>
+
+1381
+02:05:16,952 --> 02:05:19,352
+佟莉已经潜伏在卡车上出来了
+<i>Li Tong is under the truck.</i>
+
+1382
+02:05:20,112 --> 02:05:21,122
+看到她了
+I see her.
+
+1383
+02:05:25,042 --> 02:05:27,442
+刚才你提醒我那几枪打得不错
+You did a good job just then.
+
+1384
+02:05:28,102 --> 02:05:29,182
+我觉得这次回去
+When we go back,
+
+1385
+02:05:29,262 --> 02:05:31,522
+你可以加入主狙击手的训练
+you can train as a sniper.
+
+1386
+02:05:32,632 --> 02:05:33,852
+如果好的话
+If I were that good,
+
+1387
+02:05:34,692 --> 02:05:36,302
+我应该可以一枪做到的
+I should have hit it at once.
+
+1388
+02:05:37,562 --> 02:05:40,672
+就算再有经验 压力也还是会在的
+Even the experienced feel pressure.
+
+1389
+02:05:41,052 --> 02:05:42,392
+不要害怕它
+Embrace it.
+
+1390
+02:05:42,752 --> 02:05:45,022
+压力会让你更专注
+Pressure keeps you focused.
+
+1391
+02:06:36,362 --> 02:06:38,262
+没想到是你
+I didn't know it'd be you.
+
+1392
+02:06:39,562 --> 02:06:41,822
+好久不见了 首领
+It's been a long time, boss!
+
+1393
+02:06:41,902 --> 02:06:45,212
+你很久没有回家乡了
+You've not been home in a long time.
+
+1394
+02:06:45,842 --> 02:06:50,662
+打这一仗就是为了过更好的日子
+We're fighting... for a better life.
+
+1395
+02:06:51,302 --> 02:06:54,462
+还需要回乡？
+Why go home?
+
+1396
+02:06:55,912 --> 02:07:02,422
+这场仗不是为你们而打的
+We're not fighting this war for you.
+
+1397
+02:07:04,712 --> 02:07:06,742
+首领 资料呢？
+What about the formula, boss?
+
+1398
+02:07:32,202 --> 02:07:34,022
+全体注意 计划有变
+Everyone, listen up. There is a change in our plan.
+
+1399
+02:07:34,082 --> 02:07:35,942
+我现在要去抓他们首领
+<i>I'm going to go for their leader.</i>
+
+1400
+02:07:36,022 --> 02:07:38,002
+李懂 一会儿我出来的时候
+<i>Dong Li, when I come out,</i>
+
+1401
+02:07:38,062 --> 02:07:40,292
+一定会有追兵 你负责掩护我
+<i>they'll be after me. Cover me.</i>
+
+1402
+02:07:40,442 --> 02:07:41,222
+顾顺
+<i>Shun Gu,</i>
+
+1403
+02:07:41,352 --> 02:07:43,522
+你要负责协助佟莉解决飞机上的敌人
+<i>help Li Tong take the plane.</i>
+
+1404
+02:07:43,572 --> 02:07:44,422
+完毕
+<i>Over.</i>
+
+1405
+02:07:47,042 --> 02:07:48,102
+是的 先生
+Yes, sir.
+
+1406
+02:07:48,192 --> 02:07:50,752
+叛军会吃掉我们
+<i>The rebels will eat us alive.</i>
+
+1407
+02:07:50,842 --> 02:07:54,292
+一定要把黄饼与资料带回来
+<i>You must bring back all the "yellow cakes".</i>
+
+1408
+02:07:54,472 --> 02:07:56,212
+干掉他们
+<i>Kill them all.</i>
+
+1409
+02:07:56,622 --> 02:07:57,492
+从现在起
+<i>From now on</i>
+
+1410
+02:07:57,552 --> 02:07:58,942
+这场战争是属于我们的
+<i>this war belongs to us.</i>
+
+1411
+02:07:59,022 --> 02:08:00,182
+明白了
+I understand.
+
+1412
+02:08:05,932 --> 02:08:06,992
+呼叫基地 求救 求救
+Calling base! Mayday!
+
+1413
+02:08:07,022 --> 02:08:08,532
+我们遇袭 支…
+We're under attack! Help...
+
+1414
+02:08:11,862 --> 02:08:13,732
+佟莉 佟莉 马上控制飞机
+Li Tong, take control of the plane!
+
+1415
+02:08:18,392 --> 02:08:21,102
+别动 别动
+Don't move!
+
+1416
+02:08:50,952 --> 02:08:52,512
+大家注意 我出来了
+<i>Everyone, I'm coming out.</i>
+
+1417
+02:08:52,922 --> 02:08:54,332
+李懂 留意
+Dong Li, be careful!
+
+1418
+02:09:03,202 --> 02:09:04,602
+李懂 你打最后一台
+Dong Li, take out the last car!
+
+1419
+02:09:34,012 --> 02:09:35,382
+顾顺 李懂
+Shun Gu, Dong Li!
+
+1420
+02:09:36,312 --> 02:09:37,972
+顾顺 李懂
+<i>Shun Gu, Dong Li!</i>
+
+1421
+02:09:38,442 --> 02:09:40,472
+佟莉 收到回话
+Li Tong, do you read me?
+
+1422
+02:10:25,842 --> 02:10:27,892
+别动 别动
+Don't move!
+
+1423
+02:10:30,902 --> 02:10:31,722
+顾顺
+Shun Gu!
+
+1424
+02:10:31,992 --> 02:10:33,052
+你没事吧？
+Are you okay?
+
+1425
+02:10:45,882 --> 02:10:46,752
+下车
+Get out!
+
+1426
+02:10:47,182 --> 02:10:48,132
+快点
+Hurry!
+
+1427
+02:10:49,792 --> 02:10:50,682
+李懂
+Dong Li,
+
+1428
+02:10:50,932 --> 02:10:51,952
+用我的枪
+use my gun.
+
+1429
+02:10:57,522 --> 02:10:58,992
+放开首领
+<i>Let him go!</i>
+
+1430
+02:10:59,562 --> 02:11:01,552
+你没有时间考虑
+There's no time to think!
+
+1431
+02:11:03,592 --> 02:11:06,892
+快放人 不然我就杀死她
+Let he go, or I'll kill her
+
+1432
+02:11:12,682 --> 02:11:13,802
+李懂
+Dong Li,
+
+1433
+02:11:14,202 --> 02:11:15,382
+战胜压力
+conquer the pressure.
+
+1434
+02:11:16,432 --> 02:11:18,232
+罗星是不会选错人的
+Xing Luo chose you for a reason.
+
+1435
+02:11:19,922 --> 02:11:20,702
+队长
+Captain,
+
+1436
+02:11:20,912 --> 02:11:22,742
+佟莉那边的人我来解决
+I'll take down the guy with Li Tong.
+
+1437
+02:11:24,062 --> 02:11:25,332
+靠你了
+I'm counting on you.
+
+1438
+02:11:28,302 --> 02:11:31,222
+快放开他 不然我就杀了她
+Do it now! I'll kill her!
+
+1439
+02:11:36,302 --> 02:11:37,102
+妈的
+Fuck!
+
+1440
+02:11:37,372 --> 02:11:39,042
+他妈的中国人
+<i>Fucking Chinese!</i>
+
+1441
+02:11:48,842 --> 02:11:51,652
+这次的战争 我们不能没有这批黄饼
+We need the "yellow cake" for this war!
+
+1442
+02:11:51,732 --> 02:11:54,582
+为变得更强大而战
+To become stronger!
+
+1443
+02:12:12,932 --> 02:12:14,392
+"毒刺"防空导弹
+
+1444
+02:12:43,712 --> 02:12:44,442
+队长
+<i>Captain, </i>
+
+1445
+02:12:44,512 --> 02:12:45,812
+叛军追来了
+<i>the rebels are behind us!</i>
+
+1446
+02:13:01,012 --> 02:13:02,012
+冷静
+Calm down!
+
+1447
+02:13:02,282 --> 02:13:03,772
+我是中国军人
+I'm from the Chinese military.
+
+1448
+02:13:04,932 --> 02:13:06,752
+启动引擎 快
+Start the engine! Hurry up!
+
+1449
+02:13:14,422 --> 02:13:15,692
+快 快
+Hurry!
+
+1450
+02:14:00,712 --> 02:14:02,852
+起步 走
+March forward!
+
+1451
+02:14:10,102 --> 02:14:11,782
+向右转
+Turn right!
+
+1452
+02:14:26,192 --> 02:14:27,412
+立定
+Attention!
+
+1453
+02:14:35,792 --> 02:14:38,667
+YU ZHUANG
+
+1454
+02:14:45,001 --> 02:14:47,917
+TIAN-DE ZHANG
+
+1455
+02:15:00,834 --> 02:15:02,126
+敬礼
+Salute!
+
+1456
+02:15:43,942 --> 02:15:46,522
+注意 我是中国海军
+<i>Attention! This is Chinese Navy.</i>
+
+1457
+02:15:46,622 --> 02:15:48,742
+你即将进入中国领海
+<i>You're about to enter Chinese waters.</i>
+
+1458
+02:15:48,852 --> 02:15:52,272
+请立即离开
+<i>Please turn around immediately!</i>
+
+1459
+02:15:52,692 --> 02:15:55,582
+注意 我是中国海军
+<i>Attention! This is Chinese Navy.</i>
+
+1460
+02:15:55,672 --> 02:15:58,182
+你即将进入中国领海
+<i>You're about to enter Chinese waters.</i>
+
+1461
+02:15:58,342 --> 02:16:00,342
+请立即离开
+<i>Please turn around immediately!</i>
+
+1462
+02:16:00,472 --> 02:16:03,902
+重复 请立即离开
+<i>I repeat!</i> <i>Please turn around immediately!</i>
+
