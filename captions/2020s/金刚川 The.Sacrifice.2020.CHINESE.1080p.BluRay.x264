@@ -1,0 +1,1291 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,文泉驿微米黑,45,&H00DEDEDE,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:58.91,0:02:00.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NJune,1950,
+Dialogue: 0,0:02:00.66,0:02:03.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe Korean War broke outon full scale.
+Dialogue: 0,0:02:03.25,0:02:06.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn June 27th, the U.S .7th Fleet
+Dialogue: 0,0:02:06.41,0:02:09.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nsailed into the Taiwanese ports of Keelung and Kaohsiung,
+Dialogue: 0,0:02:09.91,0:02:12.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhere they carried out reconnoiter and patrol operations,
+Dialogue: 0,0:02:12.58,0:02:14.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nas well as military exercise.
+Dialogue: 0,0:02:14.45,0:02:15.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn September 15th,
+Dialogue: 0,0:02:15.95,0:02:18.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe X Corps of the U.S. Army landed in Inchon,
+Dialogue: 0,0:02:18.20,0:02:21.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhere they marched north oined by the "U.N.forces".
+Dialogue: 0,0:02:21.37,0:02:24.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThousands of aircrafts of the U.S. Far East Airforce
+Dialogue: 0,0:02:24.25,0:02:25.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nentered Chinese territorial space,
+Dialogue: 0,0:02:25.91,0:02:28.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwarfare spreading to the Yalu River.
+Dialogue: 0,0:02:28.58,0:02:32.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NChina's territorial sovereignty and national security
+Dialogue: 0,0:02:32.12,0:02:34.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwere under severe threat.
+Dialogue: 0,0:02:34.29,0:02:36.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIn response to the provocative action on the invaders' part,
+Dialogue: 0,0:02:36.45,0:02:39.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAs requested by the DPRK , the Chinese government,
+Dialogue: 0,0:02:39.54,0:02:41.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nafte deliberate consideration,
+Dialogue: 0,0:02:41.79,0:02:43.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndecided to send troops to North Korea.
+Dialogue: 0,0:02:43.83,0:02:45.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn October 25th,
+Dialogue: 0,0:02:45.08,0:02:47.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe PVA engaged the enemy
+Dialogue: 0,0:02:47.12,0:02:49.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfor the first time since they entered North Korea,
+Dialogue: 0,0:02:49.33,0:02:52.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nstarting the quest to aid Korean allies against the Americans.
+Dialogue: 0,0:02:52.87,0:02:55.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBack in the day the PRC had just founded.
+Dialogue: 0,0:02:55.04,0:02:56.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe industrial system was incomplete,
+Dialogue: 0,0:02:56.91,0:02:58.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe air force was insubstantial
+Dialogue: 0,0:02:58.58,0:03:00.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand ammunition was in extreme shortage.
+Dialogue: 0,0:03:00.75,0:03:02.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe fight was a demonstration
+Dialogue: 0,0:03:02.95,0:03:05.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfor corsolidating the new regime
+Dialogue: 0,0:03:05.29,0:03:08.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nas well as establishing China's image on the international stage.
+Dialogue: 0,0:03:08.58,0:03:10.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe stake was extremely high.
+Dialogue: 0,0:03:11.20,0:03:13.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBy 1953,
+Dialogue: 0,0:03:13.16,0:03:15.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nafter two periods of arduous warfare,
+Dialogue: 0,0:03:15.75,0:03:18.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe PVA managed to shift from defensive to offensive,
+Dialogue: 0,0:03:18.54,0:03:19.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMid-July,
+Dialogue: 0,0:03:19.79,0:03:22.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe PVA launched the third-stage action
+Dialogue: 0,0:03:22.79,0:03:26.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nof summer counterstrike, centered around the Battle of Kumsong
+Dialogue: 0,0:03:26.25,0:03:28.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis will be the final combat.
+Dialogue: 0,0:03:28.20,0:03:29.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWinning this battle
+Dialogue: 0,0:03:29.66,0:03:31.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwould make us the ultimate victor
+Dialogue: 0,0:03:31.70,0:03:33.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nin the war against the American invasion of North Korea.
+Dialogue: 0,0:03:35.08,0:03:38.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NA division code-named Yanshan Unit
+Dialogue: 0,0:03:38.75,0:03:41.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwas ordered to reinforce the frontline
+Dialogue: 0,0:03:41.25,0:03:44.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nby covering the main force at right flank in the general offensive.
+Dialogue: 0,0:03:44.91,0:03:48.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShould they fail to reach the assigned location by 06:00 in the morning,
+Dialogue: 0,0:03:48.75,0:03:51.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe entire corps would have to
+Dialogue: 0,0:03:51.12,0:03:53.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndive into a pack of wolves like a hawk with broken wings,
+Dialogue: 0,0:03:53.45,0:03:55.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ngetting themselves in grave peril.
+Dialogue: 0,0:03:55.29,0:03:58.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe situation couldn't be more dire.
+Dialogue: 0,0:03:58.20,0:04:01.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd that was when the rapids of Kumgang River
+Dialogue: 0,0:04:01.41,0:04:03.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nstood ruthlessly
+Dialogue: 0,0:04:03.12,0:04:04.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nin their way.
+Dialogue: 0,0:05:19.70,0:05:21.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,
+Dialogue: 0,0:05:21.20,0:05:22.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndo you hear that?
+Dialogue: 0,0:05:22.62,0:05:25.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCanons are being fired in Kumgsong,listen.
+Dialogue: 0,0:05:29.75,0:05:31.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NXiao Hu,
+Dialogue: 0,0:05:31.08,0:05:32.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou think you've grown smarter now?
+Dialogue: 0,0:05:32.62,0:05:35.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow could you possibly know from tens of kilometers away?
+Dialogue: 0,0:05:35.75,0:05:37.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's just thunder,
+Dialogue: 0,0:05:37.75,0:05:38.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo way!
+Dialogue: 0,0:05:38.95,0:05:40.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe fight must have started.
+Dialogue: 0,0:05:42.75,0:05:45.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat took the engineer battalion so long to fix that bridge anyway?
+Dialogue: 0,0:05:45.54,0:05:47.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Dont they know tens of thousands of men are waiting? - Shut up!
+Dialogue: 0,0:05:47.54,0:05:48.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep your ass on the ground.
+Dialogue: 0,0:05:56.04,0:05:58.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAttention,everyone!
+Dialogue: 0,0:05:58.08,0:06:00.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll units keep close!
+Dialogue: 0,0:06:00.33,0:06:03.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nstick to the route,on the double!
+Dialogue: 0,0:06:03.41,0:06:04.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo man falls behind!
+Dialogue: 0,0:06:04.83,0:06:06.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMove!
+Dialogue: 0,0:06:07.75,0:06:10.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on! Catch up!
+Dialogue: 0,0:06:10.04,0:06:12.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- All of you chop-chop!  - 3rd squad,follow me!
+Dialogue: 0,0:06:13.12,0:06:14.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAt that time,
+Dialogue: 0,0:06:14.87,0:06:16.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI had just joined the army.
+Dialogue: 0,0:06:17.37,0:06:19.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey all called me Xiao Hu
+Dialogue: 0,0:06:20.66,0:06:22.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAmerican planes
+Dialogue: 0,0:06:22.70,0:06:25.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nflew over us every single day.
+Dialogue: 0,0:06:26.25,0:06:29.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI wished we had some planes to protect us,
+Dialogue: 0,0:06:30.29,0:06:33.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut we only had a few
+Dialogue: 0,0:06:34.08,0:06:36.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand they were all at the front.
+Dialogue: 0,0:06:36.91,0:06:38.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's nothing we could do.
+Dialogue: 0,0:06:39.91,0:06:42.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOur squad leader
+Dialogue: 0,0:06:42.08,0:06:44.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWas obsessed with the idea
+Dialogue: 0,0:06:44.20,0:06:46.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nof getting into action
+Dialogue: 0,0:06:46.50,0:06:47.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand winning a medal.
+Dialogue: 0,0:06:48.70,0:06:50.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHe told me that,
+Dialogue: 0,0:06:50.87,0:06:53.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nonly by winning the final combat
+Dialogue: 0,0:06:53.70,0:06:55.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ncould we go home
+Dialogue: 0,0:06:55.33,0:06:57.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand live a peaceful life.
+Dialogue: 0,0:06:57.45,0:06:58.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCross the river in turn!
+Dialogue: 0,0:06:58.75,0:07:00.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut fast!
+Dialogue: 0,0:07:00.45,0:07:03.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe whole division have to cross the Kumgang in an hour!
+Dialogue: 0,0:07:03.58,0:07:04.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCross the river in turn!
+Dialogue: 0,0:07:04.95,0:07:06.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn the double
+Dialogue: 0,0:07:08.33,0:07:09.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDivision. Division.
+Dialogue: 0,0:07:09.62,0:07:12.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance force of Yanshan Unit had made contact with Engineer Company.
+Dialogue: 0,0:07:12.12,0:07:13.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll troops follow in turn.
+Dialogue: 0,0:07:13.58,0:07:15.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRequest instruction whether to cross the river immediately
+Dialogue: 0,0:07:16.20,0:07:19.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance Company,cross the river as planned
+Dialogue: 0,0:07:19.12,0:07:23.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll units of 301 Regiment, cross the river in turn.
+Dialogue: 0,0:07:23.20,0:07:25.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\N302 and 303 Regiments,
+Dialogue: 0,0:07:25.29,0:07:27.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfollow up and take cover.
+Dialogue: 0,0:07:27.62,0:07:29.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDonot expose tracks of he main force.
+Dialogue: 0,0:07:29.45,0:07:30.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAwait further instruction.
+Dialogue: 0,0:07:30.66,0:07:33.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll operations shall be carried out at night if necessary.
+Dialogue: 0,0:07:33.75,0:07:35.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,copy that.
+Dialogue: 0,0:07:35.95,0:07:37.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAt that time,
+Dialogue: 0,0:07:37.54,0:07:39.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthere's only one way
+Dialogue: 0,0:07:40.20,0:07:42.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto the Kumsong front,
+Dialogue: 0,0:07:42.54,0:07:44.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Na tactical military bridge.
+Dialogue: 0,0:07:46.12,0:07:47.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEvery single one of us
+Dialogue: 0,0:07:47.87,0:07:50.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwanted to engage the enemy across the river.
+Dialogue: 0,0:07:52.16,0:07:53.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHowever,
+Dialogue: 0,0:07:53.83,0:07:56.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat deep impetuous river
+Dialogue: 0,0:07:57.41,0:07:59.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nstopped us.
+Dialogue: 0,0:08:35.29,0:08:36.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI see.
+Dialogue: 0,0:08:37.04,0:08:39.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou didnt even get us one single shell.
+Dialogue: 0,0:08:40.66,0:08:42.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bridge is about to be rejoined
+Dialogue: 0,0:08:42.45,0:08:44.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand the main force should be on the other side now.
+Dialogue: 0,0:08:44.12,0:08:45.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNot yet.
+Dialogue: 0,0:08:45.41,0:08:48.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance force of Yanshan Unit has made contact with Engineer Company,
+Dialogue: 0,0:08:48.58,0:08:50.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Njust arriving at the shoal.
+Dialogue: 0,0:08:51.16,0:08:52.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NA recon plane just dropped by,
+Dialogue: 0,0:08:52.66,0:08:55.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat could mean the Harbingers ( bombers ) are coming, then we are done.
+Dialogue: 0,0:08:57.16,0:08:59.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIf only you had brought in some extra ammo
+Dialogue: 0,0:08:59.12,0:09:01.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe could've shot those flies ( recon planes ) down,
+Dialogue: 0,0:09:01.50,0:09:03.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand they will be the ones going blind.
+Dialogue: 0,0:09:03.00,0:09:05.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThen we will dominate the night time.
+Dialogue: 0,0:09:05.83,0:09:07.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat won't happen even with extra ammo.
+Dialogue: 0,0:09:07.87,0:09:10.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe recon planes are too damn fast.
+Dialogue: 0,0:09:10.25,0:09:12.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd we're not using slingshots here, either.
+Dialogue: 0,0:09:15.58,0:09:17.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet cocky all they want,
+Dialogue: 0,0:09:17.54,0:09:20.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbut l can take them all out if they would just dive a little lower.
+Dialogue: 0,0:09:21.41,0:09:23.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can't get the shells over here.
+Dialogue: 0,0:09:23.70,0:09:25.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's nothing the Lieutenant can do.
+Dialogue: 0,0:09:28.00,0:09:29.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOur company
+Dialogue: 0,0:09:29.25,0:09:31.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nalready donated two guns to the other guys.
+Dialogue: 0,0:09:31.87,0:09:33.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnother three are being mended.
+Dialogue: 0,0:09:33.91,0:09:35.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat leaves us with just two.
+Dialogue: 0,0:09:35.75,0:09:37.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can't possibly give any more.
+Dialogue: 0,0:09:38.29,0:09:39.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThen fire them together.
+Dialogue: 0,0:09:39.37,0:09:40.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant's order.
+Dialogue: 0,0:09:40.50,0:09:42.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo firing them together.
+Dialogue: 0,0:09:46.75,0:09:47.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTwo guns.
+Dialogue: 0,0:09:47.91,0:09:49.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNumber one and number two
+Dialogue: 0,0:09:49.58,0:09:51.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe latter being a concealed emplacement.
+Dialogue: 0,0:09:51.83,0:09:54.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCan't risk exposing it unless it's absolutely necessary.
+Dialogue: 0,0:09:54.91,0:09:56.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's the plan.
+Dialogue: 0,0:09:56.75,0:09:57.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NConcealed emplacement.
+Dialogue: 0,0:09:57.91,0:09:59.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou'll be in charge of that.
+Dialogue: 0,0:09:59.91,0:10:01.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd I got Number one.
+Dialogue: 0,0:10:02.62,0:10:03.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAlso,
+Dialogue: 0,0:10:03.75,0:10:05.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfrom now on,
+Dialogue: 0,0:10:05.33,0:10:07.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI call the shots here.
+Dialogue: 0,0:10:07.91,0:10:09.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSergeant Guan,
+Dialogue: 0,0:10:14.20,0:10:15.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant's orders.
+Dialogue: 0,0:10:27.08,0:10:28.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSure.
+Dialogue: 0,0:10:29.33,0:10:30.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm thinking,
+Dialogue: 0,0:10:30.95,0:10:33.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nmaybe I should take the one in front
+Dialogue: 0,0:10:33.41,0:10:36.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand you go to the concealed emplacement?
+Dialogue: 0,0:10:37.62,0:10:38.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSecond Lieutenant Zhang,
+Dialogue: 0,0:10:40.12,0:10:41.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nveryone, hurry up.
+Dialogue: 0,0:10:41.41,0:10:43.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bridge is about to be rejoined.
+Dialogue: 0,0:10:43.41,0:10:44.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry!
+Dialogue: 0,0:10:49.04,0:10:50.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSay ...
+Dialogue: 0,0:11:31.45,0:11:32.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry!
+Dialogue: 0,0:11:32.33,0:11:33.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFollow up!
+Dialogue: 0,0:11:49.75,0:11:51.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover!
+Dialogue: 0,0:11:51.33,0:11:52.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover!
+Dialogue: 0,0:11:52.87,0:11:54.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover!
+Dialogue: 0,0:12:10.16,0:12:12.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbingers!  Get down.
+Dialogue: 0,0:12:24.00,0:12:25.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment, Regiment,
+Dialogue: 0,0:12:25.50,0:12:26.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthis is the 8th Company.
+Dialogue: 0,0:12:26.95,0:12:29.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment, Regiment,this is the 8th Company.
+Dialogue: 0,0:12:29.04,0:12:31.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you copy? Do you copy?
+Dialogue: 0,0:12:32.25,0:12:33.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDid you get through to the regiment?
+Dialogue: 0,0:12:33.33,0:12:34.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm on it.
+Dialogue: 0,0:12:35.20,0:12:36.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat about the Engineer Company?
+Dialogue: 0,0:12:36.25,0:12:37.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm trying.
+Dialogue: 0,0:12:37.37,0:12:38.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is the 8th company.
+Dialogue: 0,0:12:38.62,0:12:39.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company,
+Dialogue: 0,0:12:39.25,0:12:40.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment,Do you copy?
+Dialogue: 0,0:13:06.58,0:13:08.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bridge is gone.
+Dialogue: 0,0:13:10.29,0:13:12.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's a recon plane, take cover!
+Dialogue: 0,0:13:12.00,0:13:13.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.
+Dialogue: 0,0:13:19.58,0:13:23.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer company. Hurry. Fix the bridge.
+Dialogue: 0,0:13:26.62,0:13:28.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive degrees to the right.
+Dialogue: 0,0:13:35.62,0:13:37.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Got him.  - it's the AA guns.
+Dialogue: 0,0:13:37.37,0:13:39.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Fantastic. - It's our AA guns.
+Dialogue: 0,0:13:41.54,0:13:42.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment
+Dialogue: 0,0:13:42.70,0:13:45.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment,this is the 8th Company.
+Dialogue: 0,0:13:46.08,0:13:47.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,Regiment is on.
+Dialogue: 0,0:13:48.50,0:13:49.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHello.
+Dialogue: 0,0:13:51.79,0:13:53.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat? It's damaged?
+Dialogue: 0,0:13:54.12,0:13:55.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow bad is it?
+Dialogue: 0,0:13:55.50,0:13:56.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFour meters?
+Dialogue: 0,0:13:56.83,0:13:57.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHello?
+Dialogue: 0,0:13:57.83,0:13:59.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHello?
+Dialogue: 0,0:13:59.54,0:14:00.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao
+Dialogue: 0,0:14:00.66,0:14:02.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao
+Dialogue: 0,0:14:02.66,0:14:04.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow bad is the damage?
+Dialogue: 0,0:14:04.75,0:14:07.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCan our company cross first?
+Dialogue: 0,0:14:08.08,0:14:09.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou know what?
+Dialogue: 0,0:14:09.29,0:14:11.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NXiao Hu and I will go first.
+Dialogue: 0,0:14:11.12,0:14:12.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFind a way around.
+Dialogue: 0,0:14:13.04,0:14:15.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAre you saying that you're smarter than me?
+Dialogue: 0,0:14:16.25,0:14:18.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou think the bridge's gonna fix it itself?
+Dialogue: 0,0:14:19.41,0:14:20.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat somehow it requires no time?
+Dialogue: 0,0:14:20.83,0:14:22.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NJust wait.
+Dialogue: 0,0:14:23.08,0:14:24.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.
+Dialogue: 0,0:14:25.41,0:14:27.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhen are we going to cross the river now that the bridge is gone?
+Dialogue: 0,0:14:27.75,0:14:30.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's right.  And we ve been waiting for so long.
+Dialogue: 0,0:14:40.70,0:14:42.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NQiao
+Dialogue: 0,0:14:42.58,0:14:44.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nif you're still alive,
+Dialogue: 0,0:14:44.75,0:14:47.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe'd be going to Kumsong together.
+Dialogue: 0,0:14:47.95,0:14:49.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow,
+Dialogue: 0,0:14:49.79,0:14:51.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'll take you there.
+Dialogue: 0,0:14:54.12,0:14:55.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRest assured.
+Dialogue: 0,0:14:56.29,0:14:58.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhen we get to Kumsong,
+Dialogue: 0,0:14:58.54,0:15:01.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'll win one of them medals for you boys.
+Dialogue: 0,0:15:04.45,0:15:05.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,
+Dialogue: 0,0:15:05.79,0:15:06.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nhave some water.
+Dialogue: 0,0:15:06.66,0:15:07.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFuck off.
+Dialogue: 0,0:15:08.37,0:15:10.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou keep staring at that photo.
+Dialogue: 0,0:15:14.87,0:15:16.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment.
+Dialogue: 0,0:15:16.50,0:15:17.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment
+Dialogue: 0,0:15:17.87,0:15:19.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHello.
+Dialogue: 0,0:15:19.37,0:15:21.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NToo much inference.
+Dialogue: 0,0:15:22.00,0:15:23.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's the new operator girl regiment sent,
+Dialogue: 0,0:15:23.91,0:15:24.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI heard she's from Sichuan,too.
+Dialogue: 0,0:15:24.95,0:15:25.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou guys must have a special bond.
+Dialogue: 0,0:15:25.91,0:15:27.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShe doesn't even know my name.
+Dialogue: 0,0:15:27.54,0:15:29.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat special bond?
+Dialogue: 0,0:15:29.75,0:15:31.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut I do know that
+Dialogue: 0,0:15:31.70,0:15:33.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nshe's from Wusheng County, Nanchong.
+Dialogue: 0,0:15:33.54,0:15:35.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NA place called Yankou.
+Dialogue: 0,0:15:36.54,0:15:38.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe just never talked.
+Dialogue: 0,0:15:40.54,0:15:42.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSpecial bond my ass.
+Dialogue: 0,0:15:56.83,0:15:58.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir, examination complete.
+Dialogue: 0,0:15:58.45,0:15:59.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can cross whenever we're ready.
+Dialogue: 0,0:15:59.75,0:16:01.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NInform Division,
+Dialogue: 0,0:16:01.29,0:16:02.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbridge is now fixed.
+Dialogue: 0,0:16:02.95,0:16:04.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPreparing to cross.
+Dialogue: 0,0:16:04.41,0:16:05.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:16:05.50,0:16:07.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Off the bridge.  - Now.
+Dialogue: 0,0:16:07.75,0:16:09.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClean up the bridge.
+Dialogue: 0,0:16:09.75,0:16:11.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:16:15.16,0:16:17.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRejoining complete. We can cross in ten minutes.
+Dialogue: 0,0:16:17.25,0:16:18.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:16:18.58,0:16:20.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry!
+Dialogue: 0,0:16:21.45,0:16:22.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAssemble!
+Dialogue: 0,0:16:23.04,0:16:24.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAssemble!
+Dialogue: 0,0:16:24.29,0:16:26.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NQuick! 2nd Unit assemble!
+Dialogue: 0,0:16:27.91,0:16:29.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe need more hands here.
+Dialogue: 0,0:16:29.79,0:16:32.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet the pile driver moving.
+Dialogue: 0,0:16:38.75,0:16:40.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:16:51.04,0:16:52.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWord of command!
+Dialogue: 0,0:16:52.12,0:16:53.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKumgang River!
+Dialogue: 0,0:16:55.08,0:16:56.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- After we crossed ... - Lieutenant Gao,
+Dialogue: 0,0:16:57.33,0:16:58.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant Gao,
+Dialogue: 0,0:17:01.87,0:17:03.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe colonel asked me to tell you this in person
+Dialogue: 0,0:17:03.75,0:17:04.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfor it's too complicated to explain over radio.
+Dialogue: 0,0:17:04.91,0:17:06.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nhave some water first.
+Dialogue: 0,0:17:06.29,0:17:07.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NColonel's order.
+Dialogue: 0,0:17:08.75,0:17:10.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTo make sure we arrive at Kumsong
+Dialogue: 0,0:17:10.45,0:17:12.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ntomorrow at 06:00,
+Dialogue: 0,0:17:12.00,0:17:13.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nour troops must cross the river
+Dialogue: 0,0:17:13.66,0:17:15.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbefore 05:00 tomorrow morning.
+Dialogue: 0,0:17:15.41,0:17:16.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NUnderstood.
+Dialogue: 0,0:17:16.41,0:17:18.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd there's been a change of plan for your company.
+Dialogue: 0,0:17:18.95,0:17:20.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou'll be the last to cross
+Dialogue: 0,0:17:21.45,0:17:23.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand under the Engineer Company's command.
+Dialogue: 0,0:17:23.54,0:17:25.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey'll tell you what to do and when.
+Dialogue: 0,0:17:28.62,0:17:31.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut,how does it work exactly?
+Dialogue: 0,0:17:31.66,0:17:33.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOnce they run into any trouble
+Dialogue: 0,0:17:33.62,0:17:35.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou guys are up.
+Dialogue: 0,0:17:35.54,0:17:37.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge.
+Dialogue: 0,0:17:41.75,0:17:42.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao
+Dialogue: 0,0:17:43.00,0:17:44.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao
+Dialogue: 0,0:17:44.91,0:17:46.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge?
+Dialogue: 0,0:17:54.00,0:17:55.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI see.
+Dialogue: 0,0:17:55.75,0:17:57.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NConsider it done.
+Dialogue: 0,0:18:00.41,0:18:01.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Xin Qin. - Yes,sir.
+Dialogue: 0,0:18:01.87,0:18:02.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTell the Engineer Company
+Dialogue: 0,0:18:02.87,0:18:05.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto keep us posted on the fixing progress every 30 minutes.
+Dialogue: 0,0:18:05.50,0:18:06.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:18:06.41,0:18:07.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- First Squad. - Present.
+Dialogue: 0,0:18:07.37,0:18:08.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Second Squad. - Present.
+Dialogue: 0,0:18:08.12,0:18:09.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao,Lao Gao.
+Dialogue: 0,0:18:10.45,0:18:11.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPack up your gears,
+Dialogue: 0,0:18:11.75,0:18:12.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nget ready for fixing the bridge.
+Dialogue: 0,0:18:12.70,0:18:13.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:18:13.50,0:18:15.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao,why us again?
+Dialogue: 0,0:18:15.79,0:18:16.91,Default,,0,0,0,,{\fs37\pos(960,1023)}It was us the last time，
+Dialogue: 0,0:18:16.91,0:18:18.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand this time, too.
+Dialogue: 0,0:18:18.04,0:18:20.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSurely we're not doing this every time?
+Dialogue: 0,0:18:20.62,0:18:21.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe're here to fight,
+Dialogue: 0,0:18:21.91,0:18:23.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nnot fixing bridges.
+Dialogue: 0,0:18:24.04,0:18:25.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou don't think that's part of the job?
+Dialogue: 0,0:18:25.95,0:18:27.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow are we gonna fight when the bridge's broken?
+Dialogue: 0,0:18:27.50,0:18:29.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAre you out of your mind?
+Dialogue: 0,0:18:29.62,0:18:31.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou promised me
+Dialogue: 0,0:18:31.87,0:18:34.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat l'll win a medal for the boys.
+Dialogue: 0,0:18:34.12,0:18:35.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone wants a medal.
+Dialogue: 0,0:18:36.08,0:18:37.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nknow exactly what you think.
+Dialogue: 0,0:18:38.04,0:18:39.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt won't stop you from winning anything.
+Dialogue: 0,0:18:39.45,0:18:41.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTalk with your tongue straightened out,would you?
+Dialogue: 0,0:18:43.37,0:18:45.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NExcuse me?
+Dialogue: 0,0:18:45.16,0:18:46.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm just saying.
+Dialogue: 0,0:18:46.70,0:18:48.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEvery time you get mad you start speaking in Jiangxi dialect.
+Dialogue: 0,0:18:48.95,0:18:51.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLike anyone understands that gibberish.
+Dialogue: 0,0:18:51.08,0:18:52.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndidn't make out a word you said.
+Dialogue: 0,0:18:52.12,0:18:53.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYour words don't make any sense to me too.
+Dialogue: 0,0:18:53.12,0:18:54.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSee, now you're not making any sense again.
+Dialogue: 0,0:18:54.16,0:18:56.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI have no idea what you're talking about.
+Dialogue: 0,0:18:58.41,0:18:59.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you understand me?
+Dialogue: 0,0:19:00.25,0:19:01.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm not thirsty.
+Dialogue: 0,0:19:02.25,0:19:03.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAre you fucking kidding me?
+Dialogue: 0,0:19:07.25,0:19:08.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe recon plane is back.
+Dialogue: 0,0:19:08.50,0:19:09.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover,Take cover.
+Dialogue: 0,0:19:34.25,0:19:37.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd and 3rd Company cross in ten minutes.
+Dialogue: 0,0:19:37.83,0:19:39.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet moving!
+Dialogue: 0,0:19:46.62,0:19:48.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRecon plane!
+Dialogue: 0,0:19:48.50,0:19:50.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll units,take cover immediately!
+Dialogue: 0,0:19:50.62,0:19:53.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company,get ready to take fire!
+Dialogue: 0,0:19:53.33,0:19:56.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRear units fall back! Advance units speed up the crossing!
+Dialogue: 0,0:19:59.75,0:20:01.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDamn howitzer!
+Dialogue: 0,0:20:01.00,0:20:02.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone,fan out and take cover!
+Dialogue: 0,0:20:02.41,0:20:03.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHowitzer!
+Dialogue: 0,0:20:03.50,0:20:05.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Fan out! - Take cover!
+Dialogue: 0,0:20:06.87,0:20:08.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover!
+Dialogue: 0,0:20:08.08,0:20:09.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHowitzer!
+Dialogue: 0,0:20:23.83,0:20:25.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMedic!
+Dialogue: 0,0:20:25.16,0:20:26.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMedic!
+Dialogue: 0,0:20:26.66,0:20:27.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMedic!
+Dialogue: 0,0:20:35.54,0:20:36.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone down!
+Dialogue: 0,0:20:37.83,0:20:39.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's not over yet.
+Dialogue: 0,0:20:39.37,0:20:40.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Get down!  - Yes,sir.
+Dialogue: 0,0:20:50.66,0:20:51.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCheck casualties.
+Dialogue: 0,0:20:52.70,0:20:54.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is the 8th company.
+Dialogue: 0,0:20:54.50,0:20:55.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company,do you copy?
+Dialogue: 0,0:20:55.91,0:20:57.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is the 8th company.
+Dialogue: 0,0:20:58.16,0:21:00.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Did you get through to Engineer Company?  - Not yet
+Dialogue: 0,0:21:20.16,0:21:21.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere goes the bridge again.
+Dialogue: 0,0:21:22.70,0:21:24.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,signal's completely gone now.
+Dialogue: 0,0:21:25.29,0:21:26.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe have to go to the Engineer Company.
+Dialogue: 0,0:21:26.25,0:21:27.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe'll keep you guys posted.
+Dialogue: 0,0:21:27.54,0:21:28.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGood
+Dialogue: 0,0:21:28.70,0:21:29.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Be safe out there. - Yes,sir.
+Dialogue: 0,0:21:29.95,0:21:31.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Lao Lu  - Sir.
+Dialogue: 0,0:21:31.16,0:21:32.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBring two men with them.
+Dialogue: 0,0:21:32.33,0:21:33.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:21:33.62,0:21:35.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- You two,follow me.  - Sir,
+Dialogue: 0,0:21:35.25,0:21:36.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe need to find another high ground
+Dialogue: 0,0:21:36.41,0:21:37.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto set the radio.
+Dialogue: 0,0:21:37.79,0:21:39.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe signal's less likely to be scrambled up above.
+Dialogue: 0,0:21:39.45,0:21:42.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can send back intel about the shoal from there.
+Dialogue: 0,0:21:42.16,0:21:43.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Got it.  - Move.
+Dialogue: 0,0:21:43.50,0:21:45.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Stay safe.  - Yes,sir.
+Dialogue: 0,0:21:46.08,0:21:47.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Liu Hao  - Sir.
+Dialogue: 0,0:21:48.95,0:21:50.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you understand what Xin Qin said?
+Dialogue: 0,0:21:50.70,0:21:51.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo higher and find signal.
+Dialogue: 0,0:21:51.83,0:21:52.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:21:52.83,0:21:54.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- I need two operators.  - Sir.
+Dialogue: 0,0:21:54.62,0:21:55.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThird squad,follow me.
+Dialogue: 0,0:21:55.70,0:21:56.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:21:58.25,0:21:59.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake your torches.
+Dialogue: 0,0:21:59.62,0:22:01.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Keep an eye on the Harbingers.  - What's this for?
+Dialogue: 0,0:22:01.45,0:22:02.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou talk too much.
+Dialogue: 0,0:22:02.75,0:22:04.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou'll be on high ground. Send signals in time.
+Dialogue: 0,0:22:04.41,0:22:05.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:22:29.29,0:22:30.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NComrades.
+Dialogue: 0,0:22:30.75,0:22:31.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis bridge
+Dialogue: 0,0:22:31.91,0:22:34.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nis our Lifeline.
+Dialogue: 0,0:22:34.66,0:22:37.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet's show the Americans
+Dialogue: 0,0:22:37.54,0:22:38.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat this bridge
+Dialogue: 0,0:22:38.87,0:22:40.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ncould not be destroyed by them.
+Dialogue: 0,0:22:43.37,0:22:45.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll other bridges have been ruined.
+Dialogue: 0,0:22:45.54,0:22:47.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis wooden bridge is our last hope.
+Dialogue: 0,0:22:47.70,0:22:49.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on!
+Dialogue: 0,0:22:50.41,0:22:52.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMove the ammo forward,quick.
+Dialogue: 0,0:22:52.08,0:22:53.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClock is ticking,follow me.
+Dialogue: 0,0:22:55.37,0:22:57.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou boys,come with me.
+Dialogue: 0,0:23:00.54,0:23:02.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow,move the ammo forward and put them together.
+Dialogue: 0,0:23:02.04,0:23:03.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao San,you contact Regiment,
+Dialogue: 0,0:23:03.83,0:23:05.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'll try and reach Lieutenant Gao.
+Dialogue: 0,0:23:05.20,0:23:06.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:23:07.33,0:23:08.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow,
+Dialogue: 0,0:23:08.25,0:23:09.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ntake your men to the hilltop.
+Dialogue: 0,0:23:09.45,0:23:10.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRoger. Let's go.
+Dialogue: 0,0:23:11.04,0:23:12.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo.
+Dialogue: 0,0:23:21.04,0:23:22.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Heizi,Erhu  - Sir.
+Dialogue: 0,0:23:22.45,0:23:24.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDisperse and go in.Stand watch for the other side.
+Dialogue: 0,0:23:24.20,0:23:25.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:23:25.16,0:23:26.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on!
+Dialogue: 0,0:23:26.50,0:23:27.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo.
+Dialogue: 0,0:23:55.37,0:23:57.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThird Squad,get the timber to the bridge.
+Dialogue: 0,0:23:57.70,0:23:59.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop,is the transfer in position?
+Dialogue: 0,0:23:59.37,0:24:00.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAffirmative.
+Dialogue: 0,0:24:00.33,0:24:01.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat's the situation at the shoal?
+Dialogue: 0,0:24:01.75,0:24:03.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHaven't received any reports from there.
+Dialogue: 0,0:24:15.87,0:24:17.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSomething's wrong.
+Dialogue: 0,0:24:22.20,0:24:25.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSomething's wrong.
+Dialogue: 0,0:24:46.41,0:24:48.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRoger that.
+Dialogue: 0,0:24:48.62,0:24:49.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake position.
+Dialogue: 0,0:24:51.00,0:24:52.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Gunner one in position.  - Gunner three in position.
+Dialogue: 0,0:24:52.62,0:24:54.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Gunner two in position. - Gunner four in position.
+Dialogue: 0,0:25:07.25,0:25:08.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NComrade,who's your commander?
+Dialogue: 0,0:25:08.75,0:25:10.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Second Lieutenant.
+Dialogue: 0,0:25:10.16,0:25:11.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:25:12.00,0:25:13.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:25:14.37,0:25:16.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat's this?State your department?
+Dialogue: 0,0:25:16.20,0:25:17.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe are signalers from the 8th Company.
+Dialogue: 0,0:25:17.83,0:25:19.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat's the situation on the bridge now?
+Dialogue: 0,0:25:19.58,0:25:21.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEstimated time of recovery,03:00.
+Dialogue: 0,0:25:21.50,0:25:23.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe couldn't get any signal so they sent me here.
+Dialogue: 0,0:25:23.45,0:25:25.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou can set up your station behind that tank.
+Dialogue: 0,0:25:25.04,0:25:26.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:25:26.54,0:25:27.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo now,
+Dialogue: 0,0:25:27.45,0:25:28.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nit's safer there.
+Dialogue: 0,0:25:29.20,0:25:30.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,0:25:50.62,0:25:51.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's been hit.
+Dialogue: 0,0:25:52.00,0:25:53.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's been hit.
+Dialogue: 0,0:25:53.25,0:25:54.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBravo.
+Dialogue: 0,0:26:01.04,0:26:02.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat are you doing?
+Dialogue: 0,0:26:02.37,0:26:03.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NStay low.
+Dialogue: 0,0:26:03.66,0:26:05.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't give away our location.
+Dialogue: 0,0:26:06.54,0:26:08.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company!
+Dialogue: 0,0:26:08.00,0:26:09.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,0:26:09.29,0:26:10.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge.
+Dialogue: 0,0:26:10.58,0:26:12.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.Hurry up.
+Dialogue: 0,0:26:16.08,0:26:18.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop,pass the intel on to Division.
+Dialogue: 0,0:26:18.54,0:26:19.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir
+Dialogue: 0,0:26:19.58,0:26:21.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,communication from the shoal.
+Dialogue: 0,0:26:22.33,0:26:24.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NVisible breach of seven meters on the bridge.
+Dialogue: 0,0:26:24.66,0:26:26.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbreach of seven meters
+Dialogue: 0,0:26:26.37,0:26:29.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEstimated time of recovery,03:00.
+Dialogue: 0,0:26:29.12,0:26:30.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NUnder attack by enemy jets now.
+Dialogue: 0,0:26:30.66,0:26:31.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop copy.
+Dialogue: 0,0:26:31.50,0:26:31.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop copy.
+Dialogue: 0,0:26:31.95,0:26:33.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NReporting to Division now.
+Dialogue: 0,0:26:33.12,0:26:34.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment.Regiment.
+Dialogue: 0,0:26:34.00,0:26:35.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NVisible breach of seven meters on the bridge.
+Dialogue: 0,0:26:35.12,0:26:35.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NVisible breach of seven meters on the bridge.
+Dialogue: 0,0:26:35.54,0:26:37.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,is this our Katyushu?
+Dialogue: 0,0:26:37.87,0:26:39.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShut up.
+Dialogue: 0,0:26:44.33,0:26:45.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSo much ammo.
+Dialogue: 0,0:26:49.16,0:26:51.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShoal,this is Division.
+Dialogue: 0,0:26:51.12,0:26:53.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEnemy artillery destroyed by Katyusha.
+Dialogue: 0,0:26:53.91,0:26:55.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge ASAP.
+Dialogue: 0,0:27:44.54,0:27:45.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NXin Qin
+Dialogue: 0,0:27:46.66,0:27:47.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir
+Dialogue: 0,0:27:47.66,0:27:48.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLatest update.
+Dialogue: 0,0:27:48.58,0:27:49.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFixing almost done.
+Dialogue: 0,0:27:50.25,0:27:51.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Report to Division immediately.  - Yes,sir.
+Dialogue: 0,0:27:51.66,0:27:53.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Tell all units to get ready.  - Yes,sir.
+Dialogue: 0,0:27:53.12,0:27:54.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- You come with me.  - Yes,sir.
+Dialogue: 0,0:27:56.41,0:27:57.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NStay safe.
+Dialogue: 0,0:27:58.83,0:28:00.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei
+Dialogue: 0,0:28:01.58,0:28:03.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,clean up the road!
+Dialogue: 0,0:28:03.58,0:28:05.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClear out a passage for the troops crossing!
+Dialogue: 0,0:28:27.45,0:28:29.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is Gao Fulai,get me Liu Hao.
+Dialogue: 0,0:28:31.08,0:28:32.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant Gao is on the line.
+Dialogue: 0,0:28:34.37,0:28:36.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company will cross the bridge in ten minutes.
+Dialogue: 0,0:28:36.75,0:28:38.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou boys on the 3rd Squad has one job only.
+Dialogue: 0,0:28:38.45,0:28:40.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWatch out for enemy jets.
+Dialogue: 0,0:28:42.08,0:28:43.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you copy?
+Dialogue: 0,0:28:43.95,0:28:45.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ncopy.
+Dialogue: 0,0:28:47.12,0:28:48.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop,Hilltop.
+Dialogue: 0,0:28:48.20,0:28:49.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop copy.
+Dialogue: 0,0:28:49.37,0:28:51.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company can cross the bridge in ten minutes.
+Dialogue: 0,0:28:51.41,0:28:52.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI repeat,
+Dialogue: 0,0:28:52.29,0:28:54.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company can cross the bridge in ten minutes.
+Dialogue: 0,0:28:54.41,0:28:55.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHilltop copy.
+Dialogue: 0,0:28:55.41,0:28:56.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NReport to Division now.
+Dialogue: 0,0:28:57.29,0:28:58.75,Default,,0,0,0,,{\fs37\pos(960,1023)}Regiment，Regiment，this is Hilltop.
+Dialogue: 0,0:28:58.75,0:29:00.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company can cross the bridge in ten minutes.
+Dialogue: 0,0:29:00.41,0:29:02.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI repeat,the company can cross the bridge in ten minutes.
+Dialogue: 0,0:29:02.70,0:29:04.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClock is ticking.
+Dialogue: 0,0:29:04.20,0:29:05.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClean up the bridge.
+Dialogue: 0,0:29:05.66,0:29:07.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company will cross the bridge in ten minutes.
+Dialogue: 0,0:29:07.95,0:29:09.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,Hurry.
+Dialogue: 0,0:29:15.29,0:29:18.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDivision assemble,bridge rejoined in five minutes.
+Dialogue: 0,0:29:18.75,0:29:22.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCompanies get on the bridge,cross according to plan.
+Dialogue: 0,0:29:22.54,0:29:24.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd Company,3rd Battalion,lst Regiment,after me.
+Dialogue: 0,0:29:24.20,0:29:26.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,catch up.
+Dialogue: 0,0:29:27.70,0:29:29.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\N3rd Company,after me.
+Dialogue: 0,0:29:38.04,0:29:39.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,0:29:39.62,0:29:41.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOther units follow up.
+Dialogue: 0,0:29:43.91,0:29:45.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn the double,come on.
+Dialogue: 0,0:29:45.83,0:29:47.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,0:29:49.16,0:29:51.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each row.
+Dialogue: 0,0:29:51.54,0:29:53.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMaintain formation.
+Dialogue: 0,0:29:53.66,0:29:57.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't squeeze,cross in turn.
+Dialogue: 0,0:30:19.25,0:30:20.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet me Shoal.
+Dialogue: 0,0:30:21.54,0:30:23.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShoal,come in,do you copy?
+Dialogue: 0,0:30:23.33,0:30:24.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShoal copy.
+Dialogue: 0,0:30:24.16,0:30:25.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKill the lights,incoming enemy jets,get through ASAP.
+Dialogue: 0,0:30:25.91,0:30:27.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKill the lights,get through ASAP.
+Dialogue: 0,0:30:27.70,0:30:30.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKill the lights,get through ASAP.
+Dialogue: 0,0:30:30.12,0:30:31.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NComrade Xin Qin,I ...
+Dialogue: 0,0:30:31.50,0:30:32.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSee you at the front.
+Dialogue: 0,0:30:37.12,0:30:38.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NComrade Liu Hao.
+Dialogue: 0,0:30:41.58,0:30:42.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSee you at the front.
+Dialogue: 0,0:30:44.04,0:30:45.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTorch.
+Dialogue: 0,0:31:02.54,0:31:05.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClock is ticking,hurry up.
+Dialogue: 0,0:31:05.41,0:31:08.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,main force is crossing.
+Dialogue: 0,0:31:21.04,0:31:22.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow many rounds do we have left?
+Dialogue: 0,0:31:22.79,0:31:24.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NForty-one.
+Dialogue: 0,0:31:26.54,0:31:28.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive tracers.
+Dialogue: 0,0:31:28.29,0:31:29.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet's show him
+Dialogue: 0,0:31:29.58,0:31:31.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe're here.
+Dialogue: 0,0:31:31.04,0:31:32.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunners take position.
+Dialogue: 0,0:31:35.58,0:31:38.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKill the lights,get through ASAP.
+Dialogue: 0,0:31:38.37,0:31:40.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWatch you feet.
+Dialogue: 0,0:31:43.25,0:31:44.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAs a matter of fact,
+Dialogue: 0,0:31:45.37,0:31:49.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe had been keeping a close eye on our boys on the other side.
+Dialogue: 0,0:31:51.04,0:31:53.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut that's the thing about battlefields.
+Dialogue: 0,0:31:54.45,0:31:55.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou don't always know
+Dialogue: 0,0:31:55.95,0:31:57.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwho they are
+Dialogue: 0,0:31:58.00,0:31:59.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nor their names.
+Dialogue: 0,0:32:00.29,0:32:03.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou just know they're on your side.
+Dialogue: 0,0:32:04.37,0:32:06.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd that they got us through the bridge.
+Dialogue: 0,0:32:07.91,0:32:09.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NChances are,
+Dialogue: 0,0:32:09.83,0:32:12.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou may never see each other again.
+Dialogue: 0,0:32:12.25,0:32:13.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:32:13.20,0:32:14.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's like suicide.
+Dialogue: 0,0:32:14.70,0:32:16.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo one knew
+Dialogue: 0,0:32:16.41,0:32:18.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhat really happened there.
+Dialogue: 0,0:32:20.08,0:32:22.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut in a sense we did know.
+Dialogue: 0,0:32:23.91,0:32:25.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat else could it be
+Dialogue: 0,0:32:26.58,0:32:28.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbut sacrifice?
+Dialogue: 0,0:32:29.54,0:32:31.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm going over there to help.
+Dialogue: 0,0:32:31.45,0:32:33.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Sir. - You two guard here well.
+Dialogue: 0,0:32:39.37,0:32:40.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey are fighting on the other side.
+Dialogue: 0,0:32:41.16,0:32:43.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll units that aren't on the bridge,take cover now.
+Dialogue: 0,0:32:43.58,0:32:45.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo not expose yourselves.
+Dialogue: 0,0:32:57.87,0:33:00.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRear units stop crossing.
+Dialogue: 0,0:33:00.08,0:33:02.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance units speed up the crossing.
+Dialogue: 0,0:33:06.37,0:33:07.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:09.33,0:33:10.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:12.54,0:33:13.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:14.08,0:33:15.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:15.29,0:33:17.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo man falls behind,catch up.
+Dialogue: 0,0:33:17.37,0:33:18.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:18.20,0:33:19.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet me cross and help them.
+Dialogue: 0,0:33:19.50,0:33:20.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat will you do?
+Dialogue: 0,0:33:20.70,0:33:22.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou can't even help yourself.
+Dialogue: 0,0:33:36.70,0:33:39.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWatch out! Bombs in the water.
+Dialogue: 0,0:33:40.16,0:33:41.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Engineer Company.  - Yes,sir.
+Dialogue: 0,0:33:41.41,0:33:42.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,go help.
+Dialogue: 0,0:33:42.83,0:33:44.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ngo help.
+Dialogue: 0,0:33:45.12,0:33:46.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ngo help.
+Dialogue: 0,0:33:46.20,0:33:47.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:47.54,0:33:48.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:48.75,0:33:49.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:50.29,0:33:51.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:52.16,0:33:53.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:53.75,0:33:55.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:33:55.75,0:33:57.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHang on there.
+Dialogue: 0,0:34:01.41,0:34:02.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:34:03.00,0:34:04.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:34:04.41,0:34:05.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:34:05.45,0:34:06.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMedic.
+Dialogue: 0,0:34:08.70,0:34:11.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NComrade Operator. Hang in there.
+Dialogue: 0,0:34:12.33,0:34:13.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI need a stretcher.
+Dialogue: 0,0:34:14.08,0:34:16.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSome one fix the bridge.
+Dialogue: 0,0:34:16.50,0:34:18.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRecon planes,Recon planes.
+Dialogue: 0,0:34:50.08,0:34:53.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMore hands here.Push the tank down.
+Dialogue: 0,0:34:53.16,0:34:55.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBlock the breach.
+Dialogue: 0,0:34:55.25,0:34:56.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Gao.
+Dialogue: 0,0:35:03.70,0:35:05.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLeave me.
+Dialogue: 0,0:35:06.79,0:35:08.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo fix the bridge.
+Dialogue: 0,0:35:11.54,0:35:13.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo fix the bridge.
+Dialogue: 0,0:35:25.50,0:35:27.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep pushing.
+Dialogue: 0,0:35:27.58,0:35:29.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGood swimmers of the 7th Company.
+Dialogue: 0,0:35:29.79,0:35:31.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:35:32.58,0:35:33.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone.
+Dialogue: 0,0:35:33.87,0:35:35.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShoulder arms.
+Dialogue: 0,0:35:35.20,0:35:37.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe're crossing the river first.
+Dialogue: 0,0:35:37.00,0:35:38.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Yes,sir. - No.
+Dialogue: 0,0:35:38.70,0:35:41.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's undercurrent four meters under.
+Dialogue: 0,0:35:41.16,0:35:43.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSwimming across is not an option.
+Dialogue: 0,0:35:43.20,0:35:45.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe attack begins at six or does it not?
+Dialogue: 0,0:35:45.75,0:35:48.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou want to be held responsible for delaying it?
+Dialogue: 0,0:35:48.16,0:35:49.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes.
+Dialogue: 0,0:35:49.33,0:35:51.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm responsible for whatever goes on here.
+Dialogue: 0,0:35:51.54,0:35:54.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd I'm going to join them now.
+Dialogue: 0,0:35:54.25,0:35:56.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe only way to the other side.
+Dialogue: 0,0:35:56.20,0:35:57.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nis through that bridge.
+Dialogue: 0,0:36:00.41,0:36:02.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbinger is here.
+Dialogue: 0,0:36:02.41,0:36:04.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFan out and take cover.
+Dialogue: 0,0:36:04.54,0:36:06.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbinger is here.
+Dialogue: 0,0:36:06.62,0:36:08.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover now.
+Dialogue: 0,0:36:33.33,0:36:35.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover now.
+Dialogue: 0,0:36:51.87,0:36:53.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet down.
+Dialogue: 0,0:36:55.54,0:36:57.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou can't stop me.
+Dialogue: 0,0:36:57.87,0:36:59.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou just can't.
+Dialogue: 0,0:37:38.50,0:37:40.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOld Smith: You know,
+Dialogue: 0,0:37:40.91,0:37:44.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nlots of people are terrified to take a flight.
+Dialogue: 0,0:37:46.37,0:37:49.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere are fears in their mind,
+Dialogue: 0,0:37:49.45,0:37:51.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\Njust like what l feel now.
+Dialogue: 0,0:37:52.29,0:37:54.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut can you imagine,
+Dialogue: 0,0:37:54.70,0:37:55.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOnce,
+Dialogue: 0,0:37:55.87,0:37:59.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwas a U.S.air force pilot.
+Dialogue: 0,0:38:04.58,0:38:07.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe first angel sounded his trumpet,
+Dialogue: 0,0:38:08.91,0:38:12.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand there came hail and fire mixed with blood,
+Dialogue: 0,0:38:13.54,0:38:16.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand it was hurled down upon the earth.
+Dialogue: 0,0:38:17.66,0:38:20.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NA third of the earth was burned up.
+Dialogue: 0,0:38:21.29,0:38:25.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd ... hmm ... a third of the trees were burned up.
+Dialogue: 0,0:38:26.70,0:38:29.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd all the green grass was burned up.
+Dialogue: 0,0:38:32.37,0:38:35.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe second angel sounded his trumpet,
+Dialogue: 0,0:38:36.62,0:38:43.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand something like a huge mountain,all ablaze,was thrown into the sea ...
+Dialogue: 0,0:38:44.16,0:38:45.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,
+Dialogue: 0,0:38:45.20,0:38:46.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat is some poetry.
+Dialogue: 0,0:38:46.95,0:38:50.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut please confirm the B26s have hit the target first.
+Dialogue: 0,0:38:50.54,0:38:54.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is no poetry but The Book of Resolution,sweetheart.
+Dialogue: 0,0:38:55.04,0:38:59.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd yeah,this is the view I see.
+Dialogue: 0,0:38:59.66,0:39:02.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's called The Book of Revelations,cowboy.
+Dialogue: 0,0:39:03.83,0:39:07.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhatever,it is what I see.
+Dialogue: 0,0:39:10.70,0:39:12.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is Mole,
+Dialogue: 0,0:39:12.04,0:39:15.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe B26s were accurate and the target has been hit.
+Dialogue: 0,0:39:15.41,0:39:18.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe delayed-action bombs are in position.
+Dialogue: 0,0:39:19.54,0:39:21.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCopy,cowboys.
+Dialogue: 0,0:39:21.04,0:39:23.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow please proceed damage assessment.
+Dialogue: 0,0:39:24.04,0:39:25.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAlright.
+Dialogue: 0,0:39:27.87,0:39:29.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLower altitude.
+Dialogue: 0,0:39:29.79,0:39:31.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NInitiating damage assessment.
+Dialogue: 0,0:39:34.79,0:39:37.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOld Smith: The sky belonged to us.
+Dialogue: 0,0:39:37.83,0:39:40.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTheir weapons were a joke.
+Dialogue: 0,0:39:41.00,0:39:44.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI heard the Chinese use two sticks to eat.
+Dialogue: 0,0:39:45.16,0:39:48.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey don't even know how to build a bicycle.
+Dialogue: 0,0:39:49.37,0:39:51.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut it was the oddest thing.
+Dialogue: 0,0:39:52.37,0:39:56.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat bridge just ... just keep getting fixed.
+Dialogue: 0,0:39:57.41,0:40:01.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd my mission seemed to never end.
+Dialogue: 0,0:40:01.37,0:40:03.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSee you in never.
+Dialogue: 0,0:40:12.79,0:40:14.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:40:14.45,0:40:16.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy won t they just blow up?
+Dialogue: 0,0:40:28.62,0:40:31.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC(Air Traffic Control)! ATC! We are under attack.
+Dialogue: 0,0:40:40.20,0:40:43.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,Warthog,what's your status?
+Dialogue: 0,0:40:43.00,0:40:46.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's an AA gun one hundred and fifty yards west to the target.
+Dialogue: 0,0:40:46.75,0:40:47.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCan you return fire?
+Dialogue: 0,0:40:47.95,0:40:50.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNegative.No anmo.Damn it!
+Dialogue: 0,0:40:50.91,0:40:52.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFucking Chinks!
+Dialogue: 0,0:40:53.08,0:40:54.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo chute.
+Dialogue: 0,0:40:54.54,0:40:56.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe kid is dead.
+Dialogue: 0,0:40:56.16,0:40:57.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you hear me?
+Dialogue: 0,0:40:57.50,0:40:59.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe kid is KIA (killed in action).
+Dialogue: 0,0:41:16.45,0:41:19.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHey Hill,I heard from my pal in the Army that
+Dialogue: 0,0:41:19.75,0:41:22.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthey lost forty thousand men last month?
+Dialogue: 0,0:41:23.16,0:41:25.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe are lucky up here you know?
+Dialogue: 0,0:41:25.50,0:41:28.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRight?Right,Hill?
+Dialogue: 0,0:41:30.62,0:41:34.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHey Hill,listen,I heard my consin in the Navy said
+Dialogue: 0,0:41:34.50,0:41:38.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat they've got this big fat negotiation coming up,
+Dialogue: 0,0:41:38.00,0:41:40.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand this war is gonna be over soon.
+Dialogue: 0,0:41:40.83,0:41:42.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou know what l mean,right?
+Dialogue: 0,0:41:42.62,0:41:44.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NJust cut the crap.
+Dialogue: 0,0:41:44.58,0:41:46.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat do you want?
+Dialogue: 0,0:41:46.79,0:41:47.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:41:47.87,0:41:49.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat are we doing here?
+Dialogue: 0,0:41:51.79,0:41:54.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe should just drop the bomb and go home.
+Dialogue: 0,0:41:54.83,0:41:58.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou know what l mean? I don't wanna die here.
+Dialogue: 0,0:41:58.16,0:42:01.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou know?Just tell me how many flaks have they got down there,ok?
+Dialogue: 0,0:42:01.95,0:42:05.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI mean ... You saw them clearly last time,right?
+Dialogue: 0,0:42:05.25,0:42:06.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- right?   - Shut up.
+Dialogue: 0,0:42:07.54,0:42:11.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe major battleground is right there,in front of us.
+Dialogue: 0,0:42:11.70,0:42:13.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWithout the bridge,
+Dialogue: 0,0:42:14.00,0:42:15.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nit's their hell.
+Dialogue: 0,0:42:15.87,0:42:17.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWith it standing,
+Dialogue: 0,0:42:18.04,0:42:19.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nit's ours.
+Dialogue: 0,0:42:35.62,0:42:37.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat the ...
+Dialogue: 0,0:42:37.54,0:42:39.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIs that the bridge?
+Dialogue: 0,0:42:40.66,0:42:43.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDidn't you just bomb this bridge 3 hours ago?
+Dialogue: 0,0:42:44.45,0:42:45.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NJesus.
+Dialogue: 0,0:42:45.62,0:42:48.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat bridge could take our sappers three days easy.
+Dialogue: 0,0:42:49.79,0:42:51.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI've had enough.
+Dialogue: 0,0:42:52.58,0:42:55.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy can't we blow this bridge up?
+Dialogue: 0,0:42:55.45,0:42:56.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou know what?
+Dialogue: 0,0:42:56.37,0:42:58.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey just won't die.
+Dialogue: 0,0:42:58.41,0:43:01.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou need fire to burn them out.
+Dialogue: 0,0:43:03.33,0:43:05.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC,This is Warthog.
+Dialogue: 0,0:43:05.66,0:43:09.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget bridge Alpha 4006 is resumed.
+Dialogue: 0,0:43:09.41,0:43:11.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCalling for M155 attack!
+Dialogue: 0,0:43:12.25,0:43:15.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRepeat,Calling for M155 attack!
+Dialogue: 0,0:43:17.00,0:43:18.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe recon plane is coming.
+Dialogue: 0,0:43:18.33,0:43:19.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover,now.
+Dialogue: 0,0:43:29.20,0:43:31.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFelhunter,this is Smith.
+Dialogue: 0,0:43:31.16,0:43:34.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget bridge Alpha 4006,coords
+Dialogue: 0,0:43:34.08,0:43:37.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGolf 5-3-0-8,target confirmed.
+Dialogue: 0,0:43:38.87,0:43:41.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFire support,M155 loading.
+Dialogue: 0,0:43:41.41,0:43:44.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo.3 barrel loaded.Contactfuze.
+Dialogue: 0,0:43:44.58,0:43:46.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoaded.Fire!
+Dialogue: 0,0:43:46.79,0:43:48.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEjection.
+Dialogue: 0,0:43:52.54,0:43:55.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.Howitzer.
+Dialogue: 0,0:43:59.04,0:44:01.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRegiment,we're taking heavy fire.
+Dialogue: 0,0:44:01.08,0:44:03.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSoldiers down,soldiers down.
+Dialogue: 0,0:44:03.25,0:44:05.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you copy?
+Dialogue: 0,0:44:09.08,0:44:10.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's a miss ...
+Dialogue: 0,0:44:10.79,0:44:12.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Maybe you can ...  - listen to me.
+Dialogue: 0,0:44:12.16,0:44:16.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget bridge is missed by fifty yards to the left.Two hundred yards over.
+Dialogue: 0,0:44:16.79,0:44:19.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NReduce the radius.Rapid fire!
+Dialogue: 0,0:44:19.50,0:44:20.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCopy.
+Dialogue: 0,0:44:20.91,0:44:24.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\N1 mil to the right,2 low! Fire!
+Dialogue: 0,0:44:33.87,0:44:36.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe third angel sounded his trumpet,
+Dialogue: 0,0:44:37.04,0:44:39.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand a great star,blazing like a torch,
+Dialogue: 0,0:44:47.91,0:44:53.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nfell from the sky on a third of the rivers and on the springs of water ...
+Dialogue: 0,0:44:56.33,0:44:57.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGood kill!
+Dialogue: 0,0:44:57.70,0:44:59.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget bridge is down!
+Dialogue: 0,0:44:59.20,0:45:02.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI repeat,this fucking bridge is down!
+Dialogue: 0,0:45:02.50,0:45:04.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFelhunter,copy that.
+Dialogue: 0,0:45:04.33,0:45:07.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC,we are RTB now.
+Dialogue: 0,0:45:07.00,0:45:08.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NETA10 minutes.
+Dialogue: 0,0:45:08.87,0:45:09.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCopy.
+Dialogue: 0,0:45:24.50,0:45:26.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,the track is ready.
+Dialogue: 0,0:45:26.58,0:45:28.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd you're clear for landing.
+Dialogue: 0,0:45:28.16,0:45:29.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,out.
+Dialogue: 0,0:45:33.50,0:45:36.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHey Hill,Jesus.Where are you going!
+Dialogue: 0,0:45:41.70,0:45:44.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill,Hill,our mission's complete!
+Dialogue: 0,0:45:44.50,0:45:46.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith,keep your altitude.
+Dialogue: 0,0:45:46.58,0:45:48.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI gotta do some personal.
+Dialogue: 0,0:45:48.41,0:45:50.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is my leisure time.
+Dialogue: 0,0:45:53.00,0:45:55.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill,we gotta go back!
+Dialogue: 0,0:46:19.50,0:46:21.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIs that,is that gun shot?
+Dialogue: 0,0:46:21.87,0:46:23.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat are you doing?
+Dialogue: 0,0:46:48.04,0:46:50.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill! pull up! pull up!
+Dialogue: 0,0:46:55.79,0:46:57.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:47:09.62,0:47:13.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMother of Lord! Hill! Your blood is spilling all over.
+Dialogue: 0,0:47:13.54,0:47:16.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAre you dying?You are dying!
+Dialogue: 0,0:47:16.70,0:47:19.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- ATC, ATC!Warthog is down, - Shut the fuck up.
+Dialogue: 0,0:47:19.04,0:47:21.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- I repeat,Warthog is down!  - I'm still here.
+Dialogue: 0,0:47:23.37,0:47:25.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,what's your status?
+Dialogue: 0,0:47:26.16,0:47:27.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPlease respond.
+Dialogue: 0,0:47:27.95,0:47:30.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog,respond immediately.
+Dialogue: 0,0:47:47.41,0:47:53.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCoords Golf 5-3-0-9,calling for immediate attack!
+Dialogue: 0,0:47:53.75,0:47:55.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI repeat,there's a hidden flak.
+Dialogue: 0,0:47:55.66,0:47:57.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's a hidden flak.
+Dialogue: 0,0:47:57.58,0:47:59.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCopy.Coords confirm.
+Dialogue: 0,0:47:59.50,0:48:01.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NETA 3 minutes.
+Dialogue: 0,0:48:04.70,0:48:09.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIncoming,enemy Katyusha.Break!Break!Break!
+Dialogue: 0,0:48:12.29,0:48:13.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,0:48:13.16,0:48:14.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's our Katyusha.
+Dialogue: 0,0:48:14.66,0:48:15.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShut up.
+Dialogue: 0,0:48:22.00,0:48:23.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHold on.
+Dialogue: 0,0:48:23.66,0:48:25.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat's that sound?
+Dialogue: 0,0:48:27.20,0:48:29.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTaking heavy!Taking heavy!This is Felhunter ...
+Dialogue: 0,0:48:35.25,0:48:37.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's our artillery position!
+Dialogue: 0,0:48:37.50,0:48:39.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's hundreds of troops!
+Dialogue: 0,0:48:42.04,0:48:43.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGod damn it!
+Dialogue: 0,0:48:43.50,0:48:46.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow did they do it?This is unbelievable!
+Dialogue: 0,0:48:46.12,0:48:47.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI don't wanna die here.
+Dialogue: 0,0:48:47.62,0:48:49.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet's get the hell outta here,man.
+Dialogue: 0,0:49:08.95,0:49:11.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill,you took off without permission.
+Dialogue: 0,0:49:11.66,0:49:13.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPlease return immediately.
+Dialogue: 0,0:49:13.75,0:49:17.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOtherwise you will face prosecution by military court.
+Dialogue: 0,0:49:18.08,0:49:19.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGive me that.
+Dialogue: 0,0:49:19.87,0:49:21.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill Andrew!
+Dialogue: 0,0:49:22.08,0:49:26.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGive my god damn plane back you son of a bitch.
+Dialogue: 0,0:49:26.20,0:49:29.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWho do you think you are,you crazy little shit!
+Dialogue: 0,0:49:29.87,0:49:33.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo you hear me! RTB immediately ...
+Dialogue: 0,0:49:59.00,0:50:02.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDivision assemble,bridge'tl be rejoined in five minutes.
+Dialogue: 0,0:50:02.41,0:50:06.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCompanies get on the bridge,cross according to plan.
+Dialogue: 0,0:50:06.20,0:50:07.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd Company,3rd Battalion,lst Regiment,after me.
+Dialogue: 0,0:50:07.91,0:50:09.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,follow me..
+Dialogue: 0,0:50:11.41,0:50:13.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\N3rd Company,after me.
+Dialogue: 0,0:50:40.12,0:50:41.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCrossing now.
+Dialogue: 0,0:50:41.50,0:50:42.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn the double.
+Dialogue: 0,0:50:42.95,0:50:45.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each row,Crossing now.
+Dialogue: 0,0:50:45.45,0:50:47.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each row.
+Dialogue: 0,0:51:13.66,0:51:15.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:51:16.25,0:51:17.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:51:27.33,0:51:29.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere you are.
+Dialogue: 0,0:51:32.91,0:51:34.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou wanna fight,yeah?
+Dialogue: 0,0:51:35.79,0:51:38.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's just you and me now.
+Dialogue: 0,0:51:41.37,0:51:42.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTwelve o'clock.
+Dialogue: 0,0:51:45.62,0:51:48.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou wanna hold this bridge?
+Dialogue: 0,0:51:54.29,0:51:56.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou wanna hold this bridge?
+Dialogue: 0,0:51:56.25,0:51:58.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou gotta pay for it!
+Dialogue: 0,0:52:07.83,0:52:09.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou Little bastard!
+Dialogue: 0,0:52:18.33,0:52:21.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,0:54:55.50,0:54:58.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNice trap.Well done,buddy.
+Dialogue: 0,0:55:14.37,0:55:16.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDelayed-action bombs' been activated.
+Dialogue: 0,0:55:16.70,0:55:18.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd the second AA gun is down.
+Dialogue: 0,0:55:20.70,0:55:23.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut the bridge will be fixed again.
+Dialogue: 0,0:55:23.75,0:55:26.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBring out the big guys (B29 bomber).
+Dialogue: 0,0:55:27.04,0:55:29.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's my cowboy!
+Dialogue: 0,0:55:29.33,0:55:32.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith is escording Thunderbird to your position.
+Dialogue: 0,0:55:32.54,0:55:34.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGood hunting gentleman.
+Dialogue: 0,0:56:04.08,0:56:05.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's a big guy.
+Dialogue: 0,0:56:06.83,0:56:10.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThunderbird,enemy anti-air defense has been neutralized.
+Dialogue: 0,0:56:10.58,0:56:12.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou're clear for low-altitude attack.
+Dialogue: 0,0:56:12.95,0:56:14.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThunderbird copy.
+Dialogue: 0,0:56:14.54,0:56:16.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLowering altitude to 9,000 feet.
+Dialogue: 0,0:56:17.25,0:56:18.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NReady to attack.
+Dialogue: 0,0:56:19.16,0:56:20.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShow time.
+Dialogue: 0,0:56:42.91,0:56:44.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou are still here.
+Dialogue: 0,0:56:53.29,0:56:55.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou are out this time.
+Dialogue: 0,0:57:04.95,0:57:07.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC,ATC.
+Dialogue: 0,0:57:07.29,0:57:09.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWarthog has been hit.
+Dialogue: 0,0:57:09.04,0:57:11.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI repeat,warthog has been hit.
+Dialogue: 0,0:57:11.79,0:57:15.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill is KIA.Hill is KIA.
+Dialogue: 0,0:57:16.41,0:57:17.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRoger that.
+Dialogue: 0,0:57:18.58,0:57:22.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith,raise your altitude,keep circling the position,
+Dialogue: 0,0:57:22.37,0:57:24.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand await further instruction.
+Dialogue: 0,0:57:57.25,0:57:58.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone,hurry up.
+Dialogue: 0,0:57:58.54,0:58:00.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bridge is about to be rejoined.
+Dialogue: 0,0:58:00.45,0:58:01.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nhurry
+Dialogue: 0,0:58:04.95,0:58:06.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep it moving.
+Dialogue: 0,0:58:06.37,0:58:08.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant Yan,the bridge is pretty much fixed.
+Dialogue: 0,0:58:08.54,0:58:10.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone pull out with your tools.
+Dialogue: 0,0:58:10.79,0:58:11.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:58:11.45,0:58:13.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEveryone,away from theriver,now.
+Dialogue: 0,0:58:13.12,0:58:14.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Yes,sir. - Move now.
+Dialogue: 0,0:58:14.45,0:58:15.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFaster.
+Dialogue: 0,0:58:15.33,0:58:16.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd platoon,keep moving.
+Dialogue: 0,0:58:16.29,0:58:17.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFaster.
+Dialogue: 0,0:58:17.37,0:58:18.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Yang.
+Dialogue: 0,0:58:18.70,0:58:20.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each unit.
+Dialogue: 0,0:58:20.54,0:58:21.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:58:21.91,0:58:23.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each unit.
+Dialogue: 0,0:58:23.95,0:58:25.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPrepare to cross.
+Dialogue: 0,0:58:25.83,0:58:28.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each unit.
+Dialogue: 0,0:58:28.20,0:58:29.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPrepare to cross.
+Dialogue: 0,0:58:29.83,0:58:32.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Kumgang Bridge was just rejoined.
+Dialogue: 0,0:58:32.45,0:58:35.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NInform the Division,we' re abbut to cross now.
+Dialogue: 0,0:58:35.37,0:58:36.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,0:58:42.45,0:58:43.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAssemble.
+Dialogue: 0,0:58:51.87,0:58:52.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NStop.
+Dialogue: 0,0:58:52.79,0:58:54.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters apart.prepare to cross.
+Dialogue: 0,0:58:55.33,0:58:58.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters apart.prepare to cross.
+Dialogue: 0,0:59:18.37,0:59:20.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbingers are here.
+Dialogue: 0,0:59:20.37,0:59:21.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAl units,take cover.
+Dialogue: 0,0:59:21.95,0:59:23.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFall back.Take cover,
+Dialogue: 0,0:59:24.16,0:59:26.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow.Take cover.
+Dialogue: 0,0:59:26.00,0:59:27.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry
+Dialogue: 0,0:59:27.04,0:59:28.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.
+Dialogue: 0,0:59:32.66,0:59:34.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NStay down.
+Dialogue: 0,0:59:53.25,0:59:54.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer company.
+Dialogue: 0,0:59:54.62,0:59:55.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,0:59:55.91,0:59:57.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge.
+Dialogue: 0,1:00:25.45,1:00:26.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget location.
+Dialogue: 0,1:00:26.50,1:00:27.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree o'clock,
+Dialogue: 0,1:00:27.62,1:00:29.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHeight 4,200, distance 5,100.
+Dialogue: 0,1:00:29.08,1:00:30.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHeight 4,200.
+Dialogue: 0,1:00:31.00,1:00:32.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget locked on.
+Dialogue: 0,1:00:32.16,1:00:33.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOut of range,
+Dialogue: 0,1:00:34.25,1:00:36.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Target location.  - Adjust.
+Dialogue: 0,1:00:37.29,1:00:38.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNine o'clock,
+Dialogue: 0,1:00:39.58,1:00:41.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHeight 3,800, distance 4,300.
+Dialogue: 0,1:00:43.33,1:00:44.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget locked on.
+Dialogue: 0,1:00:45.16,1:00:46.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOut of range.
+Dialogue: 0,1:00:49.45,1:00:52.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHeight 2,800, distance 110,00.
+Dialogue: 0,1:00:52.37,1:00:53.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOut of range.
+Dialogue: 0,1:01:03.54,1:01:05.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Target locked on. - Can't hit them out of range.
+Dialogue: 0,1:01:07.04,1:01:08.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget locked on.
+Dialogue: 0,1:01:08.66,1:01:10.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNot enough height,I don't have a shot.
+Dialogue: 0,1:01:13.70,1:01:16.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive degrees to the right.
+Dialogue: 0,1:01:19.62,1:01:22.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Guan,I only got 28 rounds left.
+Dialogue: 0,1:01:25.79,1:01:26.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTarget locked on.
+Dialogue: 0,1:01:26.66,1:01:28.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI only got 28 rounds left.
+Dialogue: 0,1:01:31.91,1:01:32.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's too fast.
+Dialogue: 0,1:01:32.91,1:01:34.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI got him.
+Dialogue: 0,1:01:35.58,1:01:36.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's been hit.
+Dialogue: 0,1:01:36.91,1:01:38.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBravo.
+Dialogue: 0,1:01:40.25,1:01:41.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Next target.  - Yes,sir.
+Dialogue: 0,1:01:41.87,1:01:43.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow this one is out of my reach. I'm not gonna mess around.
+Dialogue: 0,1:01:43.87,1:01:46.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Guan,we don't have many rounds left.
+Dialogue: 0,1:01:46.04,1:01:47.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad,five degrees to the right.
+Dialogue: 0,1:01:47.70,1:01:48.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Heizi,track it. - Yes,sir.
+Dialogue: 0,1:01:48.79,1:01:49.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet go.
+Dialogue: 0,1:01:51.58,1:01:52.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad it.
+Dialogue: 0,1:01:52.45,1:01:54.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLieutenant Guan,it's him ...
+Dialogue: 0,1:01:55.91,1:01:57.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWho do you listen to,me or him?
+Dialogue: 0,1:01:57.12,1:01:59.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou're pot the company commander anymore.
+Dialogue: 0,1:02:02.16,1:02:03.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's no hitting that one.
+Dialogue: 0,1:02:06.75,1:02:08.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm just a private now,
+Dialogue: 0,1:02:08.75,1:02:10.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbut l'm still your fucking master.
+Dialogue: 0,1:02:31.87,1:02:32.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRetract.
+Dialogue: 0,1:02:32.66,1:02:35.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bombers are too high
+Dialogue: 0,1:02:36.04,1:02:39.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand the recon planes are too fast.
+Dialogue: 0,1:02:39.04,1:02:40.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive,
+Dialogue: 0,1:02:40.45,1:02:41.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTen ...
+Dialogue: 0,1:02:41.75,1:02:42.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnymore?
+Dialogue: 0,1:02:42.66,1:02:43.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere're some in here.
+Dialogue: 0,1:02:43.58,1:02:45.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEighteen rounds.
+Dialogue: 0,1:02:49.00,1:02:50.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's all we got.
+Dialogue: 0,1:02:50.45,1:02:52.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd ten thousand men are supposed to cross the river before five in the orning.
+Dialogue: 0,1:02:52.29,1:02:53.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow many times do you reckon they'll come back?
+Dialogue: 0,1:02:53.45,1:02:56.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's not your excuse for using the canon like a sniper rifle.
+Dialogue: 0,1:02:58.66,1:03:00.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei
+Dialogue: 0,1:03:01.83,1:03:03.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei,oh,Zhang Fei.
+Dialogue: 0,1:03:03.54,1:03:05.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy you're named after a legendary warrior.
+Dialogue: 0,1:03:05.25,1:03:07.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nknown to everyone in China.
+Dialogue: 0,1:03:07.41,1:03:09.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI had no idea.What were your parents thinking?
+Dialogue: 0,1:03:09.62,1:03:11.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy did they give such a name?
+Dialogue: 0,1:03:11.37,1:03:12.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NJust look at you.
+Dialogue: 0,1:03:12.50,1:03:14.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIf this is your spot,
+Dialogue: 0,1:03:14.04,1:03:15.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndon't mention the plane,
+Dialogue: 0,1:03:15.08,1:03:16.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou can even hit a fly.
+Dialogue: 0,1:03:18.20,1:03:20.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't hog the spot if you're not gonna use it.
+Dialogue: 0,1:03:21.50,1:03:23.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo to the emplacemient in the back.
+Dialogue: 0,1:03:28.41,1:03:30.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe company commander assigned me here.
+Dialogue: 0,1:03:30.50,1:03:31.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd he assigned you that one.
+Dialogue: 0,1:03:32.12,1:03:34.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIf I were still the company commander ...
+Dialogue: 0,1:03:38.16,1:03:39.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet out of my face.
+Dialogue: 0,1:03:39.95,1:03:41.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand go to the back.
+Dialogue: 0,1:03:41.95,1:03:43.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's a hundred rounds back there,
+Dialogue: 0,1:03:44.04,1:03:45.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou should feel lucky.
+Dialogue: 0,1:03:48.62,1:03:50.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon' t come over here unless l tell you to.
+Dialogue: 0,1:04:00.62,1:04:03.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's not gonna be exposed during the day.
+Dialogue: 0,1:04:03.12,1:04:04.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou were demoted from company commander to squad leader
+Dialogue: 0,1:04:04.62,1:04:06.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbecause of smoking.
+Dialogue: 0,1:04:06.37,1:04:07.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYet you're still doing it.
+Dialogue: 0,1:04:09.95,1:04:11.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFuck off.
+Dialogue: 0,1:04:20.04,1:04:24.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBehold,the man shivers before the Kumgang Bridge,
+Dialogue: 0,1:04:24.70,1:04:28.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nscratching his head.
+Dialogue: 0,1:04:28.00,1:04:30.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhen he can hit no plane.
+Dialogue: 0,1:04:32.95,1:04:37.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Noh,the man pees in his pants before the Kumgang River,
+Dialogue: 0,1:04:37.83,1:04:43.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhat a shame to someone named Zhang Fei.
+Dialogue: 0,1:05:43.75,1:05:45.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:06:11.54,1:06:12.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAt ease!
+Dialogue: 0,1:06:13.45,1:06:14.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCount off.
+Dialogue: 0,1:06:14.29,1:06:17.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\N1-2-3-4-5-6-7.
+Dialogue: 0,1:06:17.20,1:06:18.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOne missing.
+Dialogue: 0,1:06:22.83,1:06:24.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat,am I not a person?
+Dialogue: 0,1:06:25.91,1:06:27.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSure you are.
+Dialogue: 0,1:06:30.91,1:06:31.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\N10
+Dialogue: 0,1:06:31.75,1:06:33.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\N20
+Dialogue: 0,1:06:33.83,1:06:35.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\N30
+Dialogue: 0,1:06:35.04,1:06:36.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\N40
+Dialogue: 0,1:06:36.87,1:06:37.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:06:37.66,1:06:39.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe only got 46 rounds left.
+Dialogue: 0,1:06:42.08,1:06:43.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGoddamn Lao Guan.
+Dialogue: 0,1:06:47.25,1:06:48.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:07:22.00,1:07:23.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:07:34.91,1:07:36.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep it moving.
+Dialogue: 0,1:07:36.45,1:07:37.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,1:07:38.16,1:07:39.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,examination complete.
+Dialogue: 0,1:07:39.58,1:07:40.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can cross whenever we're ready.
+Dialogue: 0,1:07:40.91,1:07:43.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NInform Division,the bridge is fixed.
+Dialogue: 0,1:07:43.79,1:07:45.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPrepare for crossing.
+Dialogue: 0,1:07:46.54,1:07:47.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry up!
+Dialogue: 0,1:07:47.95,1:07:49.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAssemble.
+Dialogue: 0,1:07:49.45,1:07:50.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAssemble.
+Dialogue: 0,1:07:50.58,1:07:52.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on,2nd Platoon assemble.
+Dialogue: 0,1:07:52.50,1:07:54.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd and 3rd Company assemble.
+Dialogue: 0,1:07:54.16,1:07:55.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NVacant the bridge,
+Dialogue: 0,1:07:55.70,1:07:57.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe're moving the vehicles.
+Dialogue: 0,1:07:57.45,1:07:59.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe crane will have to wait.
+Dialogue: 0,1:07:59.33,1:08:00.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSomething's wrong with the wheels.
+Dialogue: 0,1:08:00.83,1:08:01.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey're working on it.
+Dialogue: 0,1:08:01.91,1:08:03.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGive us a minute.
+Dialogue: 0,1:08:06.54,1:08:08.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NClean up the bridge,now.
+Dialogue: 0,1:08:12.00,1:08:13.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nmaybe
+Dialogue: 0,1:08:13.08,1:08:14.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou should return to your emplacement.
+Dialogue: 0,1:08:14.50,1:08:16.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand leave things be here.
+Dialogue: 0,1:08:16.83,1:08:19.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's getting dark and were about to cross.
+Dialogue: 0,1:08:19.50,1:08:21.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NReturn to your emplacement.
+Dialogue: 0,1:08:21.50,1:08:22.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo.
+Dialogue: 0,1:08:22.95,1:08:25.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe should stick to the plan.
+Dialogue: 0,1:08:25.87,1:08:27.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe plan was
+Dialogue: 0,1:08:28.41,1:08:30.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou guard that gun back there well.
+Dialogue: 0,1:08:32.87,1:08:34.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe only have two.
+Dialogue: 0,1:08:34.66,1:08:36.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd it's not like we can fire them together.
+Dialogue: 0,1:08:36.70,1:08:39.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe don't want to show the enemy all we got.
+Dialogue: 0,1:08:40.37,1:08:42.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhether our men can make it across before five.
+Dialogue: 0,1:08:42.70,1:08:44.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand get to Kumsong by six,
+Dialogue: 0,1:08:44.95,1:08:46.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nso we'd have a shot at winning the battle ...
+Dialogue: 0,1:08:47.45,1:08:48.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSecond Lieutenant Zhang,
+Dialogue: 0,1:08:49.54,1:08:50.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nit's all up to you now.
+Dialogue: 0,1:09:04.29,1:09:05.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat's your problem?
+Dialogue: 0,1:09:12.66,1:09:14.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShould we switch the emplacement to another spot?
+Dialogue: 0,1:09:14.70,1:09:15.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis location is compromised.
+Dialogue: 0,1:09:15.70,1:09:17.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNope.
+Dialogue: 0,1:09:17.08,1:09:19.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe got pretty good view and range from here.
+Dialogue: 0,1:09:19.00,1:09:20.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe higher the further.
+Dialogue: 0,1:09:20.16,1:09:21.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLike peeing into the wind.
+Dialogue: 0,1:09:21.08,1:09:22.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGood view could mean danger.
+Dialogue: 0,1:09:22.41,1:09:23.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou're already a sitting duck.
+Dialogue: 0,1:09:27.33,1:09:28.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy don'tyou
+Dialogue: 0,1:09:28.95,1:09:30.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ngive me ten rounds of your shells.
+Dialogue: 0,1:09:31.20,1:09:32.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOur of compassion,maybe?
+Dialogue: 0,1:09:35.75,1:09:37.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSure
+Dialogue: 0,1:09:50.20,1:09:51.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFuck off.
+Dialogue: 0,1:10:09.70,1:10:11.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI need more hands.
+Dialogue: 0,1:10:11.37,1:10:13.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet the crane out of here.
+Dialogue: 0,1:10:14.58,1:10:17.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOne,two,three.
+Dialogue: 0,1:10:17.25,1:10:24.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOne,two,three.
+Dialogue: 0,1:11:12.87,1:11:15.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\N2nd and 3rd Company cross in ten minutes.
+Dialogue: 0,1:11:16.37,1:11:18.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSpeed up the crossing.
+Dialogue: 0,1:11:23.62,1:11:25.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOn the double.
+Dialogue: 0,1:11:25.04,1:11:26.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThree meters between each unit.
+Dialogue: 0,1:11:26.66,1:11:27.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't squeeze.
+Dialogue: 0,1:11:27.75,1:11:29.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCross in turn.
+Dialogue: 0,1:11:34.16,1:11:36.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's a recon plane.
+Dialogue: 0,1:11:36.16,1:11:38.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll units,take cover.
+Dialogue: 0,1:11:38.25,1:11:40.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company,get ready to take fire.
+Dialogue: 0,1:11:40.91,1:11:42.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRear units fall back.
+Dialogue: 0,1:11:42.29,1:11:44.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance units speed up the crossing.
+Dialogue: 0,1:11:44.08,1:11:46.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company,take cover.
+Dialogue: 0,1:11:46.16,1:11:47.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet down.
+Dialogue: 0,1:11:48.20,1:11:50.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunners take position.
+Dialogue: 0,1:11:53.62,1:11:55.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad it,two o'clock.
+Dialogue: 0,1:11:55.79,1:11:57.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoaded.
+Dialogue: 0,1:11:57.00,1:11:58.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,this is a concealed emplacement.
+Dialogue: 0,1:11:58.91,1:12:00.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe can't expose it.
+Dialogue: 0,1:12:00.25,1:12:01.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSergeant told us to conceal it.
+Dialogue: 0,1:12:02.00,1:12:03.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFor how much longer?
+Dialogue: 0,1:12:24.58,1:12:25.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEvacuate now.
+Dialogue: 0,1:12:25.58,1:12:26.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.
+Dialogue: 0,1:12:35.83,1:12:36.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei.
+Dialogue: 0,1:12:36.87,1:12:38.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe main force was hit.
+Dialogue: 0,1:12:40.33,1:12:41.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMissed.
+Dialogue: 0,1:12:41.79,1:12:44.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThey were aiming at the bridge.
+Dialogue: 0,1:13:21.87,1:13:23.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEngineer Company.
+Dialogue: 0,1:13:23.37,1:13:24.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the bridge.
+Dialogue: 0,1:13:25.33,1:13:26.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow.
+Dialogue: 0,1:13:26.58,1:13:28.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSomeone go down and check the deck.
+Dialogue: 0,1:13:29.91,1:13:31.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NPut out the fire first.
+Dialogue: 0,1:13:34.83,1:13:37.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFix the deck.now.
+Dialogue: 0,1:14:35.83,1:14:37.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry up.
+Dialogue: 0,1:14:37.33,1:14:39.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOur men are waiting to cross.
+Dialogue: 0,1:14:39.04,1:14:40.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:14:40.20,1:14:41.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis way.
+Dialogue: 0,1:14:52.25,1:14:53.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmart-pants,
+Dialogue: 0,1:14:53.70,1:14:54.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwhere's Zhang Fei?
+Dialogue: 0,1:14:54.75,1:14:55.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHe's chilling up there.
+Dialogue: 0,1:14:55.75,1:14:57.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTell him to ask Guan
+Dialogue: 0,1:14:57.12,1:14:59.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nabout the tabacco he promised me.
+Dialogue: 0,1:14:59.04,1:15:00.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTabacco?
+Dialogue: 0,1:15:00.12,1:15:01.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow's the bridge-fixing going?
+Dialogue: 0,1:15:01.62,1:15:02.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhen can our boys cross it?
+Dialogue: 0,1:15:02.95,1:15:04.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLeave that to us.
+Dialogue: 0,1:15:04.62,1:15:07.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou go shoot down one of them planes.
+Dialogue: 0,1:15:10.12,1:15:11.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,1:15:17.08,1:15:20.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow soon can they rejoin the bridge?
+Dialogue: 0,1:15:22.37,1:15:23.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,
+Dialogue: 0,1:15:23.33,1:15:25.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndidn't you say Guan and his squad were exposed?
+Dialogue: 0,1:15:25.75,1:15:27.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhy aren't they taking any fire?
+Dialogue: 0,1:15:27.00,1:15:28.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NStop talking crazy.
+Dialogue: 0,1:15:37.66,1:15:39.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSomething's wrong.
+Dialogue: 0,1:15:44.08,1:15:47.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDefinitely not right.
+Dialogue: 0,1:16:08.25,1:16:10.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRoger that.
+Dialogue: 0,1:16:10.54,1:16:11.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake position.
+Dialogue: 0,1:16:12.83,1:16:14.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Gunner one in position.  - Gunner three in position.
+Dialogue: 0,1:16:14.33,1:16:16.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Gunner two in position. - Gunner four in position.
+Dialogue: 0,1:16:26.29,1:16:27.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunners take position.
+Dialogue: 0,1:16:27.95,1:16:29.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Gunner three in position. - Gunner four in position.
+Dialogue: 0,1:16:29.29,1:16:30.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunner five in position.
+Dialogue: 0,1:16:30.37,1:16:31.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSix o'clock.
+Dialogue: 0,1:16:31.58,1:16:33.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSix o'clock.
+Dialogue: 0,1:16:39.70,1:16:41.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSix o'clock.
+Dialogue: 0,1:16:46.45,1:16:48.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTwelve o'clock.
+Dialogue: 0,1:17:01.62,1:17:02.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad.
+Dialogue: 0,1:17:02.66,1:17:04.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSon of a bitch is coming right at us.
+Dialogue: 0,1:17:04.75,1:17:05.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoaded.
+Dialogue: 0,1:17:10.87,1:17:12.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive degrees to the left.
+Dialogue: 0,1:17:12.08,1:17:13.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nsir,we are out of rounds.
+Dialogue: 0,1:17:17.12,1:17:18.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet your guns.
+Dialogue: 0,1:17:18.29,1:17:19.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLocking on target.
+Dialogue: 0,1:17:31.66,1:17:33.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,I got him.
+Dialogue: 0,1:17:33.08,1:17:34.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSaliva,take my place.
+Dialogue: 0,1:17:34.04,1:17:35.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:18:03.95,1:18:05.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's our Katyusha.
+Dialogue: 0,1:18:05.91,1:18:08.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKatyusha.
+Dialogue: 0,1:20:35.12,1:20:36.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:20:36.41,1:20:39.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe 1st Squad has all settled down.
+Dialogue: 0,1:20:39.45,1:20:41.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe are waiting for you to bury Sergeant Guan.
+Dialogue: 0,1:20:49.25,1:20:50.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:20:53.25,1:20:54.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:21:12.16,1:21:13.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThird Squad,
+Dialogue: 0,1:21:13.50,1:21:15.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ncheck the cannon position.
+Dialogue: 0,1:21:21.54,1:21:23.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCheck the cannon position,
+Dialogue: 0,1:21:23.04,1:21:24.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nsee if they need any help.
+Dialogue: 0,1:21:24.45,1:21:26.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Move now. - Yes,sir.
+Dialogue: 0,1:21:26.66,1:21:28.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNo need.
+Dialogue: 0,1:21:31.12,1:21:33.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe don't need any help.
+Dialogue: 0,1:21:33.20,1:21:35.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome down you guys.
+Dialogue: 0,1:21:35.29,1:21:37.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe bridge need to be reinforced,get down.
+Dialogue: 0,1:21:38.45,1:21:39.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei.
+Dialogue: 0,1:21:43.66,1:21:45.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI was looking for you.
+Dialogue: 0,1:22:10.70,1:22:11.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLao Guan,
+Dialogue: 0,1:22:13.62,1:22:14.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nhe's gone.
+Dialogue: 0,1:22:30.70,1:22:32.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou guys buried him?
+Dialogue: 0,1:23:06.70,1:23:08.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYou're the last ones.
+Dialogue: 0,1:23:16.16,1:23:18.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep fixing the bridge.
+Dialogue: 0,1:23:39.25,1:23:41.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,the bridge will be fixed in ten.
+Dialogue: 0,1:23:41.66,1:23:43.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Inform Division. - Yes,sir.
+Dialogue: 0,1:23:44.20,1:23:45.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWatch your steps.
+Dialogue: 0,1:23:45.54,1:23:47.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Nails everywhere. - Yes,sir.
+Dialogue: 0,1:23:47.04,1:23:48.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't get your feet pierced.
+Dialogue: 0,1:26:23.08,1:26:23.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHe's back.
+Dialogue: 0,1:26:23.95,1:26:25.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's him again.
+Dialogue: 0,1:26:25.20,1:26:26.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow do you even know?
+Dialogue: 0,1:26:26.16,1:26:27.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI just know.
+Dialogue: 0,1:26:27.50,1:26:28.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:26:33.25,1:26:34.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:26:34.00,1:26:34.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThis is bad
+Dialogue: 0,1:26:34.83,1:26:36.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir,main force is crossing now.
+Dialogue: 0,1:26:57.45,1:26:58.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHow many rounds do we have left?
+Dialogue: 0,1:26:58.95,1:27:00.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NForty-one.
+Dialogue: 0,1:27:01.41,1:27:03.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFive tracers.
+Dialogue: 0,1:27:03.33,1:27:04.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet's show him
+Dialogue: 0,1:27:04.83,1:27:06.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat we're here.
+Dialogue: 0,1:27:06.70,1:27:07.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunners.
+Dialogue: 0,1:27:07.62,1:27:08.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake position.
+Dialogue: 0,1:27:08.66,1:27:09.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunner four in position.
+Dialogue: 0,1:27:09.58,1:27:10.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGunner five in position.
+Dialogue: 0,1:27:12.16,1:27:13.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTracers.
+Dialogue: 0,1:27:17.20,1:27:18.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoaded.
+Dialogue: 0,1:27:18.70,1:27:19.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdjust.
+Dialogue: 0,1:27:45.04,1:27:46.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad.
+Dialogue: 0,1:27:48.08,1:27:49.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAmmo loaded
+Dialogue: 0,1:28:17.04,1:28:19.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRear Units keep up.
+Dialogue: 0,1:28:19.29,1:28:20.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSpeed up the crossing.
+Dialogue: 0,1:28:29.95,1:28:31.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLight it up.
+Dialogue: 0,1:28:40.58,1:28:42.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLight it.
+Dialogue: 0,1:28:42.12,1:28:43.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:28:50.79,1:28:52.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLighted.
+Dialogue: 0,1:29:00.75,1:29:02.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLighted.
+Dialogue: 0,1:29:07.79,1:29:09.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\N- Lighted. - Take position.
+Dialogue: 0,1:29:09.50,1:29:10.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:29:13.33,1:29:15.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:29:15.16,1:29:16.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's like suicide.
+Dialogue: 0,1:29:29.62,1:29:31.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTwo o'clock.
+Dialogue: 0,1:29:38.45,1:29:39.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTwelve o'clock.
+Dialogue: 0,1:29:51.54,1:29:52.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGet down.
+Dialogue: 0,1:30:05.79,1:30:07.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NKeep at the motherfucker.
+Dialogue: 0,1:30:07.66,1:30:10.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NShoot him down.
+Dialogue: 0,1:30:21.70,1:30:22.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad.
+Dialogue: 0,1:30:22.58,1:30:23.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:30:24.37,1:30:26.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDon't you run.
+Dialogue: 0,1:30:26.08,1:30:27.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLet's finish what we started.
+Dialogue: 0,1:30:27.91,1:30:29.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoaded.
+Dialogue: 0,1:30:48.58,1:30:49.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NLoad.
+Dialogue: 0,1:30:49.62,1:30:50.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:30:54.04,1:30:55.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSix o'clock.
+Dialogue: 0,1:30:55.45,1:30:56.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:31:03.37,1:31:04.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSir.
+Dialogue: 0,1:31:04.33,1:31:05.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI got no angle.
+Dialogue: 0,1:31:05.66,1:31:07.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWait till he's at three o'clock.
+Dialogue: 0,1:31:07.29,1:31:08.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:31:19.54,1:31:22.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI am coming for you.
+Dialogue: 0,1:31:23.50,1:31:25.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,1:31:53.54,1:31:55.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,1:32:27.54,1:32:29.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCome on.
+Dialogue: 0,1:32:53.66,1:32:55.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRear units take cover.
+Dialogue: 0,1:32:55.54,1:32:57.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAdvance units speed up the crossing.
+Dialogue: 0,1:32:58.16,1:32:59.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NNow,Now.
+Dialogue: 0,1:32:59.91,1:33:01.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTake cover.
+Dialogue: 0,1:33:01.33,1:33:03.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NDo not expose.
+Dialogue: 0,1:34:32.45,1:34:34.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCareful!Bombs in the water.
+Dialogue: 0,1:34:35.37,1:34:37.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBombs in the water!Be Careful!
+Dialogue: 0,1:34:37.29,1:34:38.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry,go help.
+Dialogue: 0,1:34:38.95,1:34:40.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHurry.
+Dialogue: 0,1:40:03.87,1:40:07.58,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbinger is here.Take cover now.
+Dialogue: 0,1:40:07.87,1:40:10.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe Harbinger is here.
+Dialogue: 0,1:40:11.00,1:40:15.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAt the foot of Changbanpo.
+Dialogue: 0,1:40:16.16,1:40:19.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI came to the rescue of Zhao Yun.
+Dialogue: 0,1:40:21.54,1:40:24.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd scared off
+Dialogue: 0,1:40:24.37,1:40:26.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCao's army
+Dialogue: 0,1:40:27.12,1:40:30.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nof a million men
+Dialogue: 0,1:40:33.70,1:40:35.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt is I,
+Dialogue: 0,1:40:36.16,1:40:38.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\NZhang Fei
+Dialogue: 0,1:40:40.00,1:40:41.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NCourtesy name
+Dialogue: 0,1:40:41.70,1:40:43.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYide
+Dialogue: 0,1:40:45.08,1:40:47.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI shall go down in history
+Dialogue: 0,1:40:48.87,1:40:52.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAs one reckless man
+Dialogue: 0,1:41:17.79,1:41:20.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC.Warthog has been hit.
+Dialogue: 0,1:41:20.83,1:41:22.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill is KIA.
+Dialogue: 0,1:41:22.95,1:41:26.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith,raise your altitude,keep circling the position,
+Dialogue: 0,1:41:26.66,1:41:28.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand await further instruction.
+Dialogue: 0,1:41:50.00,1:41:54.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGuan,we got him.
+Dialogue: 0,1:42:58.00,1:42:59.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOld Smith:Till this day.
+Dialogue: 0,1:43:00.41,1:43:03.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI still smell the burning air.
+Dialogue: 0,1:43:04.70,1:43:06.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHill was lucky,
+Dialogue: 0,1:43:06.75,1:43:08.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHe went straight to hell.
+Dialogue: 0,1:43:09.50,1:43:10.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut for me,
+Dialogue: 0,1:43:11.08,1:43:13.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI'm still living in it.
+Dialogue: 0,1:43:14.04,1:43:17.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd there's no home for me to go back to.
+Dialogue: 0,1:43:21.54,1:43:24.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe target has been completely destroyed.
+Dialogue: 0,1:43:24.50,1:43:26.75,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRequesting RTB now.
+Dialogue: 0,1:44:29.33,1:44:31.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NMy eyes ...
+Dialogue: 0,1:44:31.12,1:44:33.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ngot burnt bad.
+Dialogue: 0,1:44:33.41,1:44:35.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd I could see nothing.
+Dialogue: 0,1:44:37.45,1:44:39.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NTo this day,
+Dialogue: 0,1:44:39.58,1:44:41.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI can still remember
+Dialogue: 0,1:44:41.83,1:44:45.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe smell of something burning.
+Dialogue: 0,1:44:45.95,1:44:50.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAll around me people were dying.
+Dialogue: 0,1:45:00.12,1:45:02.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHowever,at that time,
+Dialogue: 0,1:45:02.41,1:45:04.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nbelieve it or not,
+Dialogue: 0,1:45:05.41,1:45:07.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nnone of the boys
+Dialogue: 0,1:45:07.58,1:45:10.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwas afraid.
+Dialogue: 0,1:45:19.79,1:45:21.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBack in the day,
+Dialogue: 0,1:45:21.87,1:45:24.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe were just a bunch of teenagers.
+Dialogue: 0,1:45:26.83,1:45:29.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe only thing on our minds
+Dialogue: 0,1:45:29.70,1:45:32.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwas crossing that bridge
+Dialogue: 0,1:45:32.70,1:45:34.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand fending off
+Dialogue: 0,1:45:34.41,1:45:36.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe Americans.
+Dialogue: 0,1:45:37.41,1:45:39.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWe all knew that
+Dialogue: 0,1:45:39.87,1:45:41.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nif we won this battle,
+Dialogue: 0,1:45:42.58,1:45:44.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwe would bring
+Dialogue: 0,1:45:44.54,1:45:46.50,Default,,0,0,0,,{\fs37\pos(960,1023)}\Npeace
+Dialogue: 0,1:45:46.95,1:45:48.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto our people.
+Dialogue: 0,1:47:24.45,1:47:25.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith,
+Dialogue: 0,1:47:25.66,1:47:30.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ntheres still sign of activities on bridge Alpha 4-0-0-6.
+Dialogue: 0,1:47:30.79,1:47:33.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe last bombing was just half an hour ago.
+Dialogue: 0,1:47:33.29,1:47:35.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's impossible to fix that bridge.
+Dialogue: 0,1:47:35.41,1:47:37.70,Default,,0,0,0,,{\fs37\pos(960,1023)}\NImpossible is their weapon.
+Dialogue: 0,1:47:37.70,1:47:39.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NGo for a scout.
+Dialogue: 0,1:47:39.25,1:47:40.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThat's an order.
+Dialogue: 0,1:47:41.00,1:47:42.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\NYes,sir.
+Dialogue: 0,1:47:51.08,1:47:53.41,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC,I'm in position.
+Dialogue: 0,1:47:55.91,1:47:57.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NWhat the ...
+Dialogue: 0,1:47:57.87,1:47:59.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere's the bridge.
+Dialogue: 0,1:48:00.75,1:48:03.79,Default,,0,0,0,,{\fs37\pos(960,1023)}\NATC,requesting for bomber support.
+Dialogue: 0,1:48:07.29,1:48:10.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\NRoger that,support is on the way.
+Dialogue: 0,1:49:30.79,1:49:32.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NOne day,
+Dialogue: 0,1:49:32.83,1:49:35.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI ran into this American veteran
+Dialogue: 0,1:49:37.29,1:49:39.12,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd he still remembers
+Dialogue: 0,1:49:39.41,1:49:42.00,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthat bridge made of human flesh.
+Dialogue: 0,1:49:43.20,1:49:44.66,Default,,0,0,0,,{\fs37\pos(960,1023)}\NHei said,
+Dialogue: 0,1:49:45.29,1:49:47.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\NI know you folks don't believe in God.
+Dialogue: 0,1:49:48.50,1:49:49.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBut what you did
+Dialogue: 0,1:49:49.91,1:49:52.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwas nothing short of a miracle.
+Dialogue: 0,1:49:53.58,1:49:56.91,Default,,0,0,0,,{\fs37\pos(960,1023)}\NIt's just humanly impossible.
+Dialogue: 0,1:49:57.54,1:49:59.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd somehow
+Dialogue: 0,1:49:59.50,1:50:00.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nyou guys pulled it off.
+Dialogue: 0,1:50:29.58,1:50:31.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThe army has crossed the bridge.
+Dialogue: 0,1:50:32.25,1:50:34.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere is no point in attacking now.
+Dialogue: 0,1:50:35.12,1:50:37.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NThere is nothing we can do to stop them.
+Dialogue: 0,1:51:04.87,1:51:07.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NBomber squad is ready to attack.
+Dialogue: 0,1:51:07.16,1:51:09.20,Default,,0,0,0,,{\fs37\pos(960,1023)}\NSmith,keep your altitude.
+Dialogue: 0,1:53:56.25,1:53:58.37,Default,,0,0,0,,{\fs37\pos(960,1023)}\NFor a new republic
+Dialogue: 0,1:53:58.54,1:54:00.54,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto earn its place
+Dialogue: 0,1:54:00.75,1:54:02.33,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nin the world,
+Dialogue: 0,1:54:03.16,1:54:05.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand for our people
+Dialogue: 0,1:54:05.79,1:54:07.83,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nto have a better Life,
+Dialogue: 0,1:54:09.87,1:54:12.95,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nsoldiers had fought and died,
+Dialogue: 0,1:54:13.16,1:54:16.08,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nand they brought honor to the nation.
+Dialogue: 0,1:54:25.83,1:54:28.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAs is sung in our national anthem,
+Dialogue: 0,1:54:28.87,1:54:31.04,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nwith our flesh,
+Dialogue: 0,1:54:31.29,1:54:34.25,Default,,0,0,0,,{\fs37\pos(960,1023)}\Na new Great Wall was built.
+Dialogue: 0,1:54:37.33,1:54:39.16,Default,,0,0,0,,{\fs37\pos(960,1023)}\NEach and everyone of us
+Dialogue: 0,1:54:39.16,1:54:41.29,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nknew clearly then,
+Dialogue: 0,1:54:42.91,1:54:45.45,Default,,0,0,0,,{\fs37\pos(960,1023)}\Nthe happiness of future generations
+Dialogue: 0,1:54:46.04,1:54:48.62,Default,,0,0,0,,{\fs37\pos(960,1023)}\Ndepended on us.
+Dialogue: 0,1:54:50.04,1:54:51.87,Default,,0,0,0,,{\fs37\pos(960,1023)}\NAnd that's what kept us going.
+Dialogue: 0,1:55:20.70,1:55:24.29,Default,,0,0,0,,{\fs30\pos(485,880)}\NI'm the head of the air force of China
+Dialogue: 0,1:55:24.29,1:55:28.45,Default,,0,0,0,,{\fs30\pos(485,880)}\NWe were ordered to transport the remains of volunteer martyrs home
+Dialogue: 0,1:55:28.45,1:55:30.83,Default,,0,0,0,,{\fs30\pos(485,880)}\NWelcome the volunteers back home
+Dialogue: 0,1:55:28.62,1:55:32.15,Default,,0,0,0,,{\fad(800,0)\fs25\bord0\c&H5D5D5E&\pos(290,720)}\NLiaoning Shenyang Taoxian International Airport
+Dialogue: 0,1:55:28.62,1:55:32.15,Default,,0,0,0,,{\fad(800,0)\fs25\bord0\c&HF4F6F7&\pos(288,718)}\NLiaoning Shenyang Taoxian International Airport
+Dialogue: 0,1:55:30.83,1:55:33.16,Default,,0,0,0,,{\fs30\pos(485,880)}\NWe have two J-11B aircraft
+Dialogue: 0,1:55:33.16,1:55:35.58,Default,,0,0,0,,{\fs30\pos(485,880)}\NOrdered to escort you all the way
+Dialogue: 0,1:55:56.04,1:55:57.66,Default,,0,0,0,,{\fs30\pos(485,880)}\NSalute
+Dialogue: 0,1:56:18.58,1:56:22.62,Default,,0,0,0,,{\fs30\pos(485,880)}\NOriginally,these comrades in arms could come back alive as a whole
+Dialogue: 0,1:56:23.25,1:56:25.45,Default,,0,0,0,,{\fs30\pos(485,880)}\NI feel sad
+Dialogue: 0,1:56:26.50,1:56:28.16,Default,,0,0,0,,{\fs30\pos(485,880)}\Nwhen I think of them.
+Dialogue: 0,1:56:29.54,1:56:31.66,Default,,0,0,0,,{\fs30\pos(485,880)}\NFrom being a soldier，No one ...
+Dialogue: 0,1:56:31.66,1:56:34.79,Default,,0,0,0,,{\fs30\pos(485,880)}\Nno one said he was afraid of death，
+Dialogue: 0,1:56:34.79,1:56:37.00,Default,,0,0,0,,{\fs30\pos(485,880)}\NReady to sacrifice at any time.
+Dialogue: 0,1:56:54.00,1:56:55.45,Default,,0,0,0,,{\fs30\pos(485,880)}\Nattention.
+Dialogue: 0,1:57:01.62,1:57:04.62,Default,,0,0,0,,{\fs30\pos(485,880)}\NMountains and rivers are safe, and heroes return home.
+Dialogue: 0,1:57:05.04,1:57:07.29,Default,,0,0,0,,{\fs30\pos(485,880)}\NThe most lovely person of the Chinese people！
+Dialogue: 0,1:57:07.29,1:57:11.00,Default,,0,0,0,,{\fs30\pos(485,880)}\NThe motherland takes you home today
+Dialogue: 0,1:57:13.00,1:59:08.00,Default,,0,0,0,,
+

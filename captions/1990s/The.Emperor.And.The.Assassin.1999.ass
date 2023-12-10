@@ -1,0 +1,1380 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DFKai-SB,18,&H00ffffff,&H00ffd000,&H8000000,&H80000000,0,0,0,0,100.00,100.00,0.00,0.00,1,1.00,2.00,2,10,10,12,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:33.00,0:00:43.00,Default,NTP,0,0,0,,本片改编自日本漫画小说「始皇帝暗杀」
+Dialogue: 0,0:00:44.90,0:00:48.90,Default,NTP,0,0,0,,陈 凯 歌   电 影 作 品
+Dialogue: 0,0:00:50.00,0:01:01.00,Default,NTP,0,0,0,,公元前三世纪   中国的土地上有七个国家\N包括秦、韩、燕、赵等   其中秦最强大
+Dialogue: 0,0:01:02.00,0:01:11.00,Default,NTP,0,0,0,,嬴政是秦国的国君   他想统一天下\N成为中国的第一位皇帝
+Dialogue: 0,0:01:12.00,0:01:17.00,Default,NTP,0,0,0,,荆轲是那时的一位有名的刺客
+Dialogue: 0,0:01:18.00,0:01:26.30,Default,NTP,0,0,0,,赵姬是嬴政心爱的女人\N却把荆轲带到了嬴政的面前
+Dialogue: 0,0:01:27.30,0:01:31.00,Default,NTP,0,0,0,,他们的故事就这样开始了
+Dialogue: 0,0:01:49.30,0:01:50.80,Default,NTP,0,0,0,,杀谁?
+Dialogue: 0,0:01:51.80,0:01:53.80,Default,NTP,0,0,0,,一个铸剑的
+Dialogue: 0,0:01:54.30,0:01:56.30,Default,NTP,0,0,0,,是个匠人
+Dialogue: 0,0:01:59.50,0:02:01.50,Default,NTP,0,0,0,,杀他一个?
+Dialogue: 0,0:02:03.00,0:02:05.50,Default,NTP,0,0,0,,杀他一家
+Dialogue: 0,0:02:10.10,0:02:11.20,Default,NTP,0,0,0,,为什么?
+Dialogue: 0,0:02:11.30,0:02:14.50,Default,NTP,0,0,0,,他昧(偷藏)了我的剑
+Dialogue: 0,0:02:15.50,0:02:17.50,Default,NTP,0,0,0,,一把宝剑
+Dialogue: 0,0:02:19.50,0:02:21.50,Default,NTP,0,0,0,,你出多少?
+Dialogue: 0,0:02:23.05,0:02:25.06,Default,NTP,0,0,0,,五千
+Dialogue: 0,0:02:30.50,0:02:32.50,Default,NTP,0,0,0,,我要十千
+Dialogue: 0,0:04:31.50,0:04:33.00,Default,NTP,0,0,0,,不杀我?
+Dialogue: 0,0:04:34.30,0:04:35.80,Default,NTP,0,0,0,,可以
+Dialogue: 0,0:04:37.10,0:04:40.80,Default,NTP,0,0,0,,只是你不该看见我的脸
+Dialogue: 0,0:04:41.10,0:04:44.80,Default,NTP,0,0,0,,你藏的地方   不好
+Dialogue: 0,0:04:58.80,0:05:00.30,Default,NTP,0,0,0,,娘
+Dialogue: 0,0:05:09.72,0:05:11.18,Default,NTP,0,0,0,,哥哥
+Dialogue: 0,0:05:34.00,0:05:36.50,Default,NTP,0,0,0,,你把我的亲人都杀了?
+Dialogue: 0,0:05:38.00,0:05:40.80,Default,NTP,0,0,0,,你把我也杀了
+Dialogue: 0,0:05:44.20,0:05:47.20,Default,NTP,0,0,0,,你看不见我的脸
+Dialogue: 0,0:05:48.20,0:05:50.20,Default,NTP,0,0,0,,我不杀你
+Dialogue: 0,0:06:09.30,0:06:10.80,Default,NTP,0,0,0,,杀了我
+Dialogue: 0,0:06:13.48,0:06:15.36,Default,NTP,0,0,0,,你不杀我
+Dialogue: 0,0:06:15.48,0:06:18.36,Default,NTP,0,0,0,,我将一辈子跪下乞食
+Dialogue: 0,0:06:18.48,0:06:20.72,Default,NTP,0,0,0,,日子不尊严
+Dialogue: 0,0:06:24.20,0:06:27.80,Default,NTP,0,0,0,,你说得   对
+Dialogue: 0,0:06:30.48,0:06:32.72,Default,NTP,0,0,0,,可我不杀你
+Dialogue: 0,0:06:43.30,0:06:45.30,Default,NTP,0,0,0,,你是谁?
+Dialogue: 0,0:06:49.48,0:06:56.12,Default,NTP,0,0,0,,杀人的人   也有名字呀
+Dialogue: 0,0:06:59.30,0:07:02.40,Default,NTP,0,0,0,,我没有力气了
+Dialogue: 0,0:07:04.30,0:07:06.60,Default,NTP,0,0,0,,你帮我拔出来
+Dialogue: 0,0:07:35.00,0:07:39.00,Default,NTP,0,0,0,,我没想到   你是左手
+Dialogue: 0,0:07:40.90,0:07:43.90,Default,NTP,0,0,0,,唉   我是荆轲
+Dialogue: 0,0:07:44.00,0:07:45.50,Default,NTP,0,0,0,,唉唉
+Dialogue: 0,0:07:46.30,0:07:47.30,Default,NTP,0,0,0,,唉
+Dialogue: 0,0:08:23.30,0:08:28.30,Default,NTP,0,0,0,,日本片名: 始 皇 帝 暗 杀\N中国片名: 荆 轲 刺 秦 王
+Dialogue: 0,0:08:35.46,0:08:38.41,Default,NTP,0,0,0,,上来一个   上来一个好的
+Dialogue: 0,0:08:39.00,0:08:40.50,Default,NTP,0,0,0,,上来一个好的
+Dialogue: 0,0:08:43.50,0:08:45.00,Default,NTP,0,0,0,,上来一个
+Dialogue: 0,0:08:45.50,0:08:47.00,Default,NTP,0,0,0,,上来一个好的
+Dialogue: 0,0:08:54.30,0:08:55.80,Default,NTP,0,0,0,,新手?
+Dialogue: 0,0:08:56.30,0:08:57.64,Default,NTP,0,0,0,,新手
+Dialogue: 0,0:08:57.72,0:08:59.48,Default,NTP,0,0,0,,会使刀?
+Dialogue: 0,0:09:00.50,0:09:01.40,Default,NTP,0,0,0,,行
+Dialogue: 0,0:09:01.50,0:09:03.00,Default,NTP,0,0,0,,记好喽
+Dialogue: 0,0:09:04.00,0:09:06.50,Default,NTP,0,0,0,,一上阵就是一个字
+Dialogue: 0,0:09:06.80,0:09:07.80,Default,NTP,0,0,0,,什么字?
+Dialogue: 0,0:09:07.80,0:09:09.30,Default,NTP,0,0,0,,杀
+Dialogue: 0,0:09:09.30,0:09:10.80,Default,NTP,0,0,0,,杀
+Dialogue: 0,0:10:38.50,0:10:40.50,Default,NTP,0,0,0,,杀
+Dialogue: 0,0:10:54.50,0:10:55.50,Default,NTP,0,0,0,,杀
+Dialogue: 0,0:12:43.10,0:12:47.60,Default,NTP,0,0,0,,你行   可以当伍长了
+Dialogue: 0,0:12:47.65,0:12:49.80,Default,NTP,0,0,0,,为秦国立功
+Dialogue: 0,0:12:50.80,0:12:52.80,Default,NTP,0,0,0,,叫什么名儿?
+Dialogue: 0,0:12:54.10,0:12:55.60,Default,NTP,0,0,0,,我叫嬴政
+Dialogue: 0,0:12:56.40,0:12:58.50,Default,NTP,0,0,0,,- 大王      - 不动
+Dialogue: 0,0:12:59.00,0:13:04.50,Default,NTP,0,0,0,,你   是秦国的   好兵士
+Dialogue: 0,0:13:24.60,0:13:28.80,Default,NTP,0,0,0,,迎   赵夫人
+Dialogue: 0,0:13:32.70,0:13:33.70,Default,NTP,0,0,0,,夫人早
+Dialogue: 0,0:13:33.80,0:13:34.80,Default,NTP,0,0,0,,你早
+Dialogue: 0,0:13:35.90,0:13:37.70,Default,NTP,0,0,0,,- 夫人早      - 嗯
+Dialogue: 0,0:13:55.60,0:13:59.60,Default,NTP,0,0,0,,相国   吕不韦
+Dialogue: 0,0:14:03.60,0:14:05.60,Default,NTP,0,0,0,,臣   吕不韦
+Dialogue: 0,0:14:06.30,0:14:08.80,Default,NTP,0,0,0,,叩见母后
+Dialogue: 0,0:14:11.10,0:14:14.04,Default,NTP,0,0,0,,嬴政应该成婚了
+Dialogue: 0,0:14:14.07,0:14:18.07,Default,NTP,0,0,0,,长信侯认了一位韩国的公主做亲
+Dialogue: 0,0:14:19.07,0:14:21.80,Default,NTP,0,0,0,,那姑娘我看过
+Dialogue: 0,0:14:21.90,0:14:23.40,Default,NTP,0,0,0,,很好
+Dialogue: 0,0:14:24.00,0:14:27.00,Default,NTP,0,0,0,,公主叫我叔叔
+Dialogue: 0,0:14:27.10,0:14:30.10,Default,NTP,0,0,0,,我   叫她侄女儿
+Dialogue: 0,0:14:48.00,0:14:50.10,Default,NTP,0,0,0,,嬴政大婚
+Dialogue: 0,0:14:51.00,0:14:55.50,Default,NTP,0,0,0,,说起来   还真有点儿对不起赵女
+Dialogue: 0,0:14:56.30,0:15:01.00,Default,NTP,0,0,0,,在赵国的时候   先王就不用说了
+Dialogue: 0,0:15:02.00,0:15:04.60,Default,NTP,0,0,0,,我也是个不会做的
+Dialogue: 0,0:15:05.15,0:15:09.15,Default,NTP,0,0,0,,就有人把赵女荐了来
+Dialogue: 0,0:15:11.10,0:15:12.60,Default,NTP,0,0,0,,才这么高
+Dialogue: 0,0:15:12.80,0:15:14.30,Default,NTP,0,0,0,,相国请
+Dialogue: 0,0:15:15.16,0:15:17.14,Default,NTP,0,0,0,,活儿做得好
+Dialogue: 0,0:15:17.16,0:15:19.14,Default,NTP,0,0,0,,人也好
+Dialogue: 0,0:15:20.13,0:15:23.11,Default,NTP,0,0,0,,就是性子太放纵
+Dialogue: 0,0:15:23.13,0:15:25.11,Default,NTP,0,0,0,,胆子又大
+Dialogue: 0,0:15:25.14,0:15:28.12,Default,NTP,0,0,0,,一天疯跑疯笑的
+Dialogue: 0,0:15:28.14,0:15:30.80,Default,NTP,0,0,0,,难怪嬴政爱她
+Dialogue: 0,0:15:30.90,0:15:34.30,Default,NTP,0,0,0,,母后以为她如今改啦?
+Dialogue: 0,0:15:34.50,0:15:36.50,Default,NTP,0,0,0,,没有
+Dialogue: 0,0:15:37.90,0:15:40.00,Default,NTP,0,0,0,,说句不该说的
+Dialogue: 0,0:15:40.20,0:15:42.10,Default,NTP,0,0,0,,她是个邪性
+Dialogue: 0,0:15:42.15,0:15:45.80,Default,NTP,0,0,0,,后来我们要回秦
+Dialogue: 0,0:15:47.00,0:15:50.50,Default,NTP,0,0,0,,她本是不来的
+Dialogue: 0,0:15:51.00,0:15:53.13,Default,NTP,0,0,0,,嬴政就哭了
+Dialogue: 0,0:15:54.20,0:15:56.24,Default,NTP,0,0,0,,她反倒笑了
+Dialogue: 0,0:15:56.90,0:16:01.21,Default,NTP,0,0,0,,说   走就走   哭什么?
+Dialogue: 0,0:16:02.21,0:16:04.18,Default,NTP,0,0,0,,进了宫了
+Dialogue: 0,0:16:05.60,0:16:08.10,Default,NTP,0,0,0,,按说不一样了
+Dialogue: 0,0:16:08.20,0:16:14.50,Default,NTP,0,0,0,,我说   跟我住   也过过主子的日子
+Dialogue: 0,0:16:16.22,0:16:18.22,Default,NTP,0,0,0,,可她偏不肯
+Dialogue: 0,0:16:18.80,0:16:21.30,Default,NTP,0,0,0,,仍旧要做厨娘
+Dialogue: 0,0:16:22.50,0:16:25.50,Default,NTP,0,0,0,,照料嬴政的饮食
+Dialogue: 0,0:16:26.20,0:16:28.20,Default,NTP,0,0,0,,我要灭韩了
+Dialogue: 0,0:16:33.20,0:16:36.30,Default,NTP,0,0,0,,什么时候灭我们赵国呀?
+Dialogue: 0,0:16:39.21,0:16:43.19,Default,NTP,0,0,0,,赵女长成大姑娘了
+Dialogue: 0,0:16:43.21,0:16:47.19,Default,NTP,0,0,0,,倒和嬴政疏远了
+Dialogue: 0,0:16:47.22,0:16:52.80,Default,NTP,0,0,0,,这么些年   她连一次也不肯进嬴政的寝宫
+Dialogue: 0,0:16:53.30,0:16:57.17,Default,NTP,0,0,0,,你想   俩人一块儿长大
+Dialogue: 0,0:16:57.20,0:17:00.17,Default,NTP,0,0,0,,在一起抱着睡也是有的
+Dialogue: 0,0:17:00.20,0:17:02.27,Default,NTP,0,0,0,,我都见过
+Dialogue: 0,0:17:03.27,0:17:08.80,Default,NTP,0,0,0,,现在   倒连手   也不让嬴政摸了
+Dialogue: 0,0:17:10.30,0:17:11.80,Default,NTP,0,0,0,,别动
+Dialogue: 0,0:17:43.20,0:17:44.50,Default,NTP,0,0,0,,燕丹
+Dialogue: 0,0:17:50.20,0:17:52.50,Default,NTP,0,0,0,,太子大人怎么会在咸阳?
+Dialogue: 0,0:17:52.60,0:17:54.60,Default,NTP,0,0,0,,什么时候来的?
+Dialogue: 0,0:17:55.40,0:18:00.20,Default,NTP,0,0,0,,小时候   和嬴政一起在   赵国做人质
+Dialogue: 0,0:18:00.29,0:18:02.36,Default,NTP,0,0,0,,现在在咸阳
+Dialogue: 0,0:18:03.48,0:18:05.54,Default,NTP,0,0,0,,我做嬴政的人质
+Dialogue: 0,0:18:07.50,0:18:10.00,Default,NTP,0,0,0,,我还以为你可以帮我
+Dialogue: 0,0:18:11.34,0:18:14.31,Default,NTP,0,0,0,,大家从小一块儿长大的朋友
+Dialogue: 0,0:18:14.34,0:18:18.34,Default,NTP,0,0,0,,帮我说说   让我回燕国
+Dialogue: 0,0:18:19.34,0:18:22.80,Default,NTP,0,0,0,,谁想   你还是他的厨娘
+Dialogue: 0,0:18:23.35,0:18:26.30,Default,NTP,0,0,0,,你从小对他的心思   白费了
+Dialogue: 0,0:18:27.35,0:18:30.00,Default,NTP,0,0,0,,我也要回赵国了
+Dialogue: 0,0:18:30.30,0:18:32.00,Default,NTP,0,0,0,,我是赵人
+Dialogue: 0,0:18:32.30,0:18:36.30,Default,NTP,0,0,0,,秦国灭赵   我应该在赵国
+Dialogue: 0,0:18:46.30,0:18:48.30,Default,NTP,0,0,0,,没碰着你吧?
+Dialogue: 0,0:18:49.30,0:18:50.80,Default,NTP,0,0,0,,你没变
+Dialogue: 0,0:18:51.30,0:18:53.80,Default,NTP,0,0,0,,嬴政不会让你走的
+Dialogue: 0,0:18:56.30,0:18:58.80,Default,NTP,0,0,0,,也不会让我走
+Dialogue: 0,0:19:00.30,0:19:02.30,Default,NTP,0,0,0,,你我都是他的人质
+Dialogue: 0,0:19:02.70,0:19:06.43,Default,NTP,0,0,0,,他要天下人做他的人质
+Dialogue: 0,0:19:08.43,0:19:10.00,Default,NTP,0,0,0,,我饿了
+Dialogue: 0,0:19:13.40,0:19:15.20,Default,NTP,0,0,0,,你换个碗
+Dialogue: 0,0:19:15.40,0:19:19.38,Default,NTP,0,0,0,,那个碗嬴政用过
+Dialogue: 0,0:19:19.40,0:19:21.00,Default,NTP,0,0,0,,我杀了他
+Dialogue: 0,0:19:35.42,0:19:39.00,Default,NTP,0,0,0,,罪臣代韩王   起告于陛下相国之前
+Dialogue: 0,0:19:39.10,0:19:44.60,Default,NTP,0,0,0,,若陛下相国   解新郑之围困   存韩国之血昹
+Dialogue: 0,0:19:44.70,0:19:49.70,Default,NTP,0,0,0,,韩王愿以   陛下为义父   秦国为宗主
+Dialogue: 0,0:19:49.90,0:19:54.95,Default,NTP,0,0,0,,献   城百座   地十双   马千匹
+Dialogue: 0,0:19:55.05,0:19:58.80,Default,NTP,0,0,0,,金   十万斤   帛   百万素
+Dialogue: 0,0:19:59.40,0:20:03.90,Default,NTP,0,0,0,,呜呼一息   永远臣服
+Dialogue: 0,0:20:06.10,0:20:07.72,Default,NTP,0,0,0,,那好吧
+Dialogue: 0,0:20:08.42,0:20:11.50,Default,NTP,0,0,0,,你传我的话给韩王
+Dialogue: 0,0:20:12.10,0:20:18.40,Default,NTP,0,0,0,,灭韩   并不难   可没有六国不成天下
+Dialogue: 0,0:20:18.78,0:20:21.50,Default,NTP,0,0,0,,四海之内皆兄弟
+Dialogue: 0,0:20:21.60,0:20:24.60,Default,NTP,0,0,0,,但秦   是兄长
+Dialogue: 0,0:20:25.40,0:20:29.41,Default,NTP,0,0,0,,秦国以仁义进社天下
+Dialogue: 0,0:20:30.40,0:20:33.40,Default,NTP,0,0,0,,可如果弟兄们不安分
+Dialogue: 0,0:20:33.90,0:20:37.50,Default,NTP,0,0,0,,就不能怪秦国不客气
+Dialogue: 0,0:20:37.60,0:20:40.39,Default,NTP,0,0,0,,- 韩使      - 在
+Dialogue: 0,0:20:40.42,0:20:42.40,Default,NTP,0,0,0,,你可以回去了
+Dialogue: 0,0:20:43.00,0:20:44.40,Default,NTP,0,0,0,,是
+Dialogue: 0,0:20:44.42,0:20:49.43,Default,NTP,0,0,0,,韩国君臣   永不忘相国救命的大德
+Dialogue: 0,0:20:49.50,0:20:52.50,Default,NTP,0,0,0,,嗯   知道了
+Dialogue: 0,0:20:53.00,0:20:56.38,Default,NTP,0,0,0,,仲父   我要喝酒   取酒来
+Dialogue: 0,0:20:56.40,0:20:57.80,Default,NTP,0,0,0,,我要喝酒
+Dialogue: 0,0:21:19.49,0:21:23.46,Default,NTP,0,0,0,,寡人是敬酒不吃是吃罚酒
+Dialogue: 0,0:21:25.00,0:21:28.80,Default,NTP,0,0,0,,只为那边   二十五万将士
+Dialogue: 0,0:21:28.90,0:21:33.90,Default,NTP,0,0,0,,等着攻城的王命   眼睛望出血
+Dialogue: 0,0:21:36.47,0:21:40.48,Default,NTP,0,0,0,,有人在咸阳殿上
+Dialogue: 0,0:21:41.20,0:21:44.20,Default,NTP,0,0,0,,说是不灭韩了
+Dialogue: 0,0:21:46.48,0:21:48.64,Default,NTP,0,0,0,,仁义?
+Dialogue: 0,0:21:51.00,0:21:58.20,Default,NTP,0,0,0,,秦国行仁义   秦国人就只能在陇东放马
+Dialogue: 0,0:21:58.30,0:22:00.80,Default,NTP,0,0,0,,像五百年前一样
+Dialogue: 0,0:22:03.50,0:22:08.30,Default,NTP,0,0,0,,寡人   幼时就是放马的
+Dialogue: 0,0:22:09.54,0:22:12.30,Default,NTP,0,0,0,,寡人是人质
+Dialogue: 0,0:22:12.54,0:22:16.45,Default,NTP,0,0,0,,秦国在赵国的人质
+Dialogue: 0,0:22:16.55,0:22:20.55,Default,NTP,0,0,0,,赵国没有对我行仁义
+Dialogue: 0,0:22:22.55,0:22:26.64,Default,NTP,0,0,0,,赵国   倒是有一个小厨娘
+Dialogue: 0,0:22:28.56,0:22:32.53,Default,NTP,0,0,0,,每日催我走一个独木桥
+Dialogue: 0,0:22:33.53,0:22:37.80,Default,NTP,0,0,0,,下面   是十丈的深渊
+Dialogue: 0,0:22:38.54,0:22:44.50,Default,NTP,0,0,0,,不走   就不给我一份饮食
+Dialogue: 0,0:22:46.50,0:22:50.50,Default,NTP,0,0,0,,北国冷得很呐
+Dialogue: 0,0:22:50.55,0:22:54.55,Default,NTP,0,0,0,,下脚不敢抬头
+Dialogue: 0,0:22:55.55,0:22:59.53,Default,NTP,0,0,0,,只听到她在那边叫
+Dialogue: 0,0:22:59.56,0:23:03.60,Default,NTP,0,0,0,,你过来   过来
+Dialogue: 0,0:23:03.63,0:23:06.57,Default,NTP,0,0,0,,你怕什么?   怕什么?
+Dialogue: 0,0:23:06.60,0:23:10.60,Default,NTP,0,0,0,,日后   你要做秦国的王
+Dialogue: 0,0:23:12.60,0:23:16.61,Default,NTP,0,0,0,,就这么   我过去了
+Dialogue: 0,0:23:18.61,0:23:21.80,Default,NTP,0,0,0,,她是我的恩人
+Dialogue: 0,0:23:22.61,0:23:26.59,Default,NTP,0,0,0,,我现在是秦国的王
+Dialogue: 0,0:23:26.62,0:23:30.62,Default,NTP,0,0,0,,日后是天下的王
+Dialogue: 0,0:23:35.63,0:23:37.61,Default,NTP,0,0,0,,大王
+Dialogue: 0,0:23:38.60,0:23:42.70,Default,NTP,0,0,0,,老臣这一杯   也是罚酒吧
+Dialogue: 0,0:23:42.80,0:23:45.58,Default,NTP,0,0,0,,这一杯还是该罚寡人
+Dialogue: 0,0:23:45.60,0:23:47.61,Default,NTP,0,0,0,,不然
+Dialogue: 0,0:23:50.64,0:23:53.36,Default,NTP,0,0,0,,不然您的相国就做不到今天
+Dialogue: 0,0:23:54.48,0:23:58.48,Default,NTP,0,0,0,,先王在   老臣是相国
+Dialogue: 0,0:23:58.80,0:24:01.30,Default,NTP,0,0,0,,先王不在了
+Dialogue: 0,0:24:04.80,0:24:07.80,Default,NTP,0,0,0,,老臣还是相国
+Dialogue: 0,0:24:19.64,0:24:22.36,Default,NTP,0,0,0,,相国   相国
+Dialogue: 0,0:24:22.64,0:24:25.36,Default,NTP,0,0,0,,相国   相国
+Dialogue: 0,0:24:33.00,0:24:36.50,Default,NTP,0,0,0,,那就只好罢吕先生的相啦
+Dialogue: 0,0:24:36.60,0:24:39.10,Default,NTP,0,0,0,,陛下   陛下   陛下
+Dialogue: 0,0:24:42.60,0:24:44.10,Default,NTP,0,0,0,,嫪毐
+Dialogue: 0,0:24:44.20,0:24:45.70,Default,NTP,0,0,0,,小臣在
+Dialogue: 0,0:24:46.66,0:24:49.64,Default,NTP,0,0,0,,听说你要做我叔叔啦
+Dialogue: 0,0:24:49.67,0:24:53.18,Default,NTP,0,0,0,,都是母后和相国的主张
+Dialogue: 0,0:24:54.60,0:24:59.80,Default,NTP,0,0,0,,你平日忙   今日陪我走走马
+Dialogue: 0,0:25:00.50,0:25:03.90,Default,NTP,0,0,0,,小臣畏高   骑不得马
+Dialogue: 0,0:25:04.00,0:25:08.75,Default,NTP,0,0,0,,畏高?   上马都畏高
+Dialogue: 0,0:25:12.76,0:25:16.76,Default,NTP,0,0,0,,陛下   陛下   痒
+Dialogue: 0,0:25:21.00,0:25:22.00,Default,NTP,0,0,0,,问他
+Dialogue: 0,0:25:23.90,0:25:28.60,Default,NTP,0,0,0,,大王问嫪毐   高不高?
+Dialogue: 0,0:25:28.70,0:25:32.80,Default,NTP,0,0,0,,危危乎   高哉
+Dialogue: 0,0:25:32.85,0:25:33.85,Default,NTP,0,0,0,,走
+Dialogue: 0,0:25:38.20,0:25:40.20,Default,NTP,0,0,0,,- 过      - 过
+Dialogue: 0,0:25:48.76,0:25:50.74,Default,NTP,0,0,0,,王命脱衣
+Dialogue: 0,0:26:03.20,0:26:05.70,Default,NTP,0,0,0,,王问   二三得几?
+Dialogue: 0,0:26:05.80,0:26:10.80,Default,NTP,0,0,0,,二三   二三得六
+Dialogue: 0,0:26:12.20,0:26:15.70,Default,NTP,0,0,0,,王问   三三得几?
+Dialogue: 0,0:26:16.48,0:26:20.10,Default,NTP,0,0,0,,大王说几   就是几
+Dialogue: 0,0:26:42.83,0:26:45.48,Default,NTP,0,0,0,,陛下   夫人来了
+Dialogue: 0,0:26:45.90,0:26:47.00,Default,NTP,0,0,0,,啊?
+Dialogue: 0,0:27:08.60,0:27:09.90,Default,NTP,0,0,0,,陛下
+Dialogue: 0,0:27:11.36,0:27:14.36,Default,NTP,0,0,0,,我是来向你辞行的
+Dialogue: 0,0:27:17.80,0:27:19.10,Default,NTP,0,0,0,,去哪儿?
+Dialogue: 0,0:27:21.90,0:27:23.60,Default,NTP,0,0,0,,回赵国
+Dialogue: 0,0:27:36.00,0:27:38.00,Default,NTP,0,0,0,,为什么要走?
+Dialogue: 0,0:27:39.97,0:27:42.95,Default,NTP,0,0,0,,你是每天都到大厨房来看我
+Dialogue: 0,0:27:42.97,0:27:46.98,Default,NTP,0,0,0,,你以为这样就是对我好了
+Dialogue: 0,0:27:47.88,0:27:50.96,Default,NTP,0,0,0,,你知道我在想什么?
+Dialogue: 0,0:27:50.98,0:27:54.60,Default,NTP,0,0,0,,我要过什么样的日子
+Dialogue: 0,0:27:54.99,0:27:56.99,Default,NTP,0,0,0,,你不知道
+Dialogue: 0,0:27:57.99,0:28:01.80,Default,NTP,0,0,0,,在宫里   我见人就要笑
+Dialogue: 0,0:28:01.90,0:28:03.80,Default,NTP,0,0,0,,不笑要皱眉
+Dialogue: 0,0:28:03.90,0:28:06.90,Default,NTP,0,0,0,,走路要低头   说话要小声
+Dialogue: 0,0:28:07.00,0:28:11.00,Default,NTP,0,0,0,,我是个摆设   是个木偶
+Dialogue: 0,0:28:11.60,0:28:15.40,Default,NTP,0,0,0,,我想放声大哭   想大声讲话
+Dialogue: 0,0:28:15.50,0:28:17.50,Default,NTP,0,0,0,,我不想对每个人都好
+Dialogue: 0,0:28:17.60,0:28:21.80,Default,NTP,0,0,0,,我不愿意过这样的日子
+Dialogue: 0,0:28:25.80,0:28:28.00,Default,NTP,0,0,0,,可我已经过了很久了
+Dialogue: 0,0:28:33.02,0:28:35.03,Default,NTP,0,0,0,,我要走了
+Dialogue: 0,0:28:39.10,0:28:42.10,Default,NTP,0,0,0,,过去你是赵政
+Dialogue: 0,0:28:42.93,0:28:44.94,Default,NTP,0,0,0,,现在你是王
+Dialogue: 0,0:28:48.04,0:28:51.92,Default,NTP,0,0,0,,人做了王   就没意思了
+Dialogue: 0,0:28:51.94,0:28:57.95,Default,NTP,0,0,0,,我原想   等天下打定了
+Dialogue: 0,0:28:59.05,0:29:01.80,Default,NTP,0,0,0,,我要娶你做皇后
+Dialogue: 0,0:29:02.05,0:29:05.03,Default,NTP,0,0,0,,做天下的女主
+Dialogue: 0,0:29:05.06,0:29:09.14,Default,NTP,0,0,0,,我以为   你会高兴的
+Dialogue: 0,0:29:09.50,0:29:11.50,Default,NTP,0,0,0,,你会喜欢的
+Dialogue: 0,0:29:33.00,0:29:34.10,Default,NTP,0,0,0,,赵政
+Dialogue: 0,0:29:36.90,0:29:39.60,Default,NTP,0,0,0,,你跟我回赵国
+Dialogue: 0,0:29:40.10,0:29:42.50,Default,NTP,0,0,0,,我们再去过小时候的日子吧
+Dialogue: 0,0:29:53.10,0:29:58.10,Default,NTP,0,0,0,,我知道   你是不会跟我去的
+Dialogue: 0,0:30:01.11,0:30:04.09,Default,NTP,0,0,0,,放开我   我要见陛下
+Dialogue: 0,0:30:04.11,0:30:06.12,Default,NTP,0,0,0,,陛下
+Dialogue: 0,0:30:07.12,0:30:09.00,Default,NTP,0,0,0,,你们敢拦我?   陛下
+Dialogue: 0,0:30:09.50,0:30:11.50,Default,NTP,0,0,0,,- 嬴政      - 放肆
+Dialogue: 0,0:30:12.50,0:30:14.00,Default,NTP,0,0,0,,让他过来
+Dialogue: 0,0:30:19.00,0:30:21.00,Default,NTP,0,0,0,,你们说吧
+Dialogue: 0,0:30:22.00,0:30:25.00,Default,NTP,0,0,0,,赵女   你不要走
+Dialogue: 0,0:30:26.00,0:30:28.90,Default,NTP,0,0,0,,燕丹请陛下停止攻韩
+Dialogue: 0,0:30:29.00,0:30:31.60,Default,NTP,0,0,0,,燕丹请陛下与六国相安无事
+Dialogue: 0,0:30:31.80,0:30:33.01,Default,NTP,0,0,0,,不然的话
+Dialogue: 0,0:30:34.01,0:30:36.99,Default,NTP,0,0,0,,不然   怎么样?
+Dialogue: 0,0:30:37.01,0:30:42.02,Default,NTP,0,0,0,,五步之内   燕丹的血就会与陛下的血流在一起
+Dialogue: 0,0:30:44.02,0:30:46.00,Default,NTP,0,0,0,,你杀了我
+Dialogue: 0,0:30:46.02,0:30:50.03,Default,NTP,0,0,0,,这件事   也会有人做的
+Dialogue: 0,0:30:50.99,0:30:56.00,Default,NTP,0,0,0,,不是我   也许就是你
+Dialogue: 0,0:30:58.00,0:31:00.98,Default,NTP,0,0,0,,只要六国还在
+Dialogue: 0,0:31:01.00,0:31:03.15,Default,NTP,0,0,0,,战争   还不会停止
+Dialogue: 0,0:31:03.17,0:31:06.15,Default,NTP,0,0,0,,天下   就永不得安宁
+Dialogue: 0,0:31:06.18,0:31:10.06,Default,NTP,0,0,0,,百姓   就永不得安宁
+Dialogue: 0,0:31:10.08,0:31:14.09,Default,NTP,0,0,0,,六国   是一定要灭的
+Dialogue: 0,0:31:17.19,0:31:19.19,Default,NTP,0,0,0,,不能改了
+Dialogue: 0,0:31:21.19,0:31:23.78,Default,NTP,0,0,0,,谁也不能改了
+Dialogue: 0,0:31:31.07,0:31:33.05,Default,NTP,0,0,0,,你怎么不说
+Dialogue: 0,0:31:33.07,0:31:36.70,Default,NTP,0,0,0,,只要秦国还在   天下就不安宁
+Dialogue: 0,0:31:36.80,0:31:38.30,Default,NTP,0,0,0,,你别上来
+Dialogue: 0,0:31:43.00,0:31:44.50,Default,NTP,0,0,0,,你别走
+Dialogue: 0,0:31:52.09,0:31:56.80,Default,NTP,0,0,0,,我知道   你想回燕国
+Dialogue: 0,0:31:59.06,0:32:02.00,Default,NTP,0,0,0,,我可以放你走
+Dialogue: 0,0:32:02.20,0:32:09.24,Default,NTP,0,0,0,,但是   你的父王还会把你再送回来
+Dialogue: 0,0:32:10.20,0:32:14.20,Default,NTP,0,0,0,,直到燕国的   灭亡
+Dialogue: 0,0:32:16.20,0:32:19.70,Default,NTP,0,0,0,,不要伤父王的心吧
+Dialogue: 0,0:32:22.15,0:32:28.00,Default,NTP,0,0,0,,那我在陛下面前拔剑   陛下为何不杀我?
+Dialogue: 0,0:32:33.13,0:32:37.14,Default,NTP,0,0,0,,你是   我的兄弟
+Dialogue: 0,0:32:38.14,0:32:43.14,Default,NTP,0,0,0,,你从小就看不起我   你看不起我
+Dialogue: 0,0:32:46.90,0:32:48.00,Default,NTP,0,0,0,,燕丹
+Dialogue: 0,0:32:49.30,0:32:50.40,Default,NTP,0,0,0,,燕丹
+Dialogue: 0,0:32:54.30,0:32:56.00,Default,NTP,0,0,0,,你是个孬种
+Dialogue: 0,0:33:13.90,0:33:17.40,Default,NTP,0,0,0,,陛下   这就是四海归一图
+Dialogue: 0,0:33:23.30,0:33:26.90,Default,NTP,0,0,0,,图是你们两个画的?
+Dialogue: 0,0:33:27.00,0:33:28.90,Default,NTP,0,0,0,,是他们两个人画的
+Dialogue: 0,0:33:29.00,0:33:30.80,Default,NTP,0,0,0,,画得好
+Dialogue: 0,0:33:31.00,0:33:34.40,Default,NTP,0,0,0,,你们是   秦国人?
+Dialogue: 0,0:33:34.50,0:33:37.90,Default,NTP,0,0,0,,陛下   他们是   韩国人
+Dialogue: 0,0:33:39.20,0:33:41.20,Default,NTP,0,0,0,,这就是了
+Dialogue: 0,0:33:44.20,0:33:48.21,Default,NTP,0,0,0,,韩国   要灭亡了
+Dialogue: 0,0:33:49.21,0:33:53.21,Default,NTP,0,0,0,,你们是为自己的国家哭泣
+Dialogue: 0,0:33:54.20,0:33:59.80,Default,NTP,0,0,0,,你们   是韩国的   好百姓
+Dialogue: 0,0:34:01.90,0:34:06.33,Default,NTP,0,0,0,,韩国   是要灭亡了
+Dialogue: 0,0:34:06.36,0:34:13.10,Default,NTP,0,0,0,,但是   你们会有一个更大的   大得多的国家
+Dialogue: 0,0:34:14.36,0:34:20.80,Default,NTP,0,0,0,,秦国和六国   眼睛看得到的   和看不到的地方
+Dialogue: 0,0:34:21.00,0:34:24.10,Default,NTP,0,0,0,,都成了一个国家
+Dialogue: 0,0:34:24.37,0:34:28.20,Default,NTP,0,0,0,,天下的人   都是这个国家的百姓
+Dialogue: 0,0:34:28.38,0:34:32.38,Default,NTP,0,0,0,,这个国家   只有一个王
+Dialogue: 0,0:34:33.30,0:34:37.10,Default,NTP,0,0,0,,一个好的君王
+Dialogue: 0,0:34:37.29,0:34:43.00,Default,NTP,0,0,0,,这个君王   在六国灭亡的时候
+Dialogue: 0,0:34:44.00,0:34:49.00,Default,NTP,0,0,0,,要救护那里的百姓   人民
+Dialogue: 0,0:34:52.27,0:34:57.80,Default,NTP,0,0,0,,他要让天下人   都说同一样的语言
+Dialogue: 0,0:34:58.28,0:35:02.20,Default,NTP,0,0,0,,用同一样的文字书写
+Dialogue: 0,0:35:02.40,0:35:05.80,Default,NTP,0,0,0,,到处都建立郡县
+Dialogue: 0,0:35:06.00,0:35:09.00,Default,NTP,0,0,0,,让清廉的官吏来管理
+Dialogue: 0,0:35:09.30,0:35:13.50,Default,NTP,0,0,0,,让遍地   都长满了禾黍
+Dialogue: 0,0:35:14.30,0:35:17.80,Default,NTP,0,0,0,,百姓可以安居乐业
+Dialogue: 0,0:35:18.10,0:35:23.30,Default,NTP,0,0,0,,把驰道修到边疆   把长城筑到远方
+Dialogue: 0,0:35:24.30,0:35:29.80,Default,NTP,0,0,0,,匈奴和四夷进犯时   挡住他们的马蹄
+Dialogue: 0,0:35:32.30,0:35:36.80,Default,NTP,0,0,0,,再把石碑   立在泰山上
+Dialogue: 0,0:35:37.45,0:35:42.45,Default,NTP,0,0,0,,把石碣   竖在大海边
+Dialogue: 0,0:35:44.50,0:35:47.60,Default,NTP,0,0,0,,纪念天下的统一
+Dialogue: 0,0:35:51.33,0:35:56.33,Default,NTP,0,0,0,,那时候   你们就可以称我
+Dialogue: 0,0:35:57.30,0:36:00.80,Default,NTP,0,0,0,,秦   始皇帝
+Dialogue: 0,0:36:11.48,0:36:15.48,Default,NTP,0,0,0,,大王恳请夫人留下
+Dialogue: 0,0:36:30.50,0:36:32.00,Default,NTP,0,0,0,,陛下
+Dialogue: 0,0:36:34.00,0:36:37.50,Default,NTP,0,0,0,,恭喜陛下   内史腾开始攻新郑了
+Dialogue: 0,0:37:11.48,0:37:14.64,Default,NTP,0,0,0,,大王   击掷啊
+Dialogue: 0,0:37:20.80,0:37:23.80,Default,NTP,0,0,0,,再击掷啊
+Dialogue: 0,0:38:03.50,0:38:07.50,Default,NTP,0,0,0,,咦   呀
+Dialogue: 0,0:38:12.54,0:38:16.54,Default,NTP,0,0,0,,啊   犒赏三军
+Dialogue: 0,0:38:19.54,0:38:23.55,Default,NTP,0,0,0,,燕人的鼓   才真是好
+Dialogue: 0,0:38:24.55,0:38:26.55,Default,NTP,0,0,0,,又悲又喜
+Dialogue: 0,0:38:28.72,0:38:33.72,Default,NTP,0,0,0,,燕灭了   北方的土地才能连成一片
+Dialogue: 0,0:38:34.50,0:38:37.30,Default,NTP,0,0,0,,北方的地连成一片
+Dialogue: 0,0:38:37.80,0:38:42.50,Default,NTP,0,0,0,,秦国能南攻齐楚   统一天下
+Dialogue: 0,0:38:43.00,0:38:47.54,Default,NTP,0,0,0,,灭燕   我没有借口
+Dialogue: 0,0:38:48.30,0:38:51.50,Default,NTP,0,0,0,,万一   五国一起来攻
+Dialogue: 0,0:38:51.60,0:38:54.00,Default,NTP,0,0,0,,寡不敌众啊
+Dialogue: 0,0:38:58.50,0:39:02.00,Default,NTP,0,0,0,,- 只要你放燕丹回去      - 啊?
+Dialogue: 0,0:39:02.60,0:39:04.90,Default,NTP,0,0,0,,- 回?      - 嗯
+Dialogue: 0,0:39:06.62,0:39:08.63,Default,NTP,0,0,0,,回哪儿?
+Dialogue: 0,0:39:09.63,0:39:11.61,Default,NTP,0,0,0,,回燕国
+Dialogue: 0,0:39:12.60,0:39:16.90,Default,NTP,0,0,0,,只要你放他回去   他一定会派人来杀你
+Dialogue: 0,0:39:17.60,0:39:22.60,Default,NTP,0,0,0,,刺客一到   天下人就都知道了
+Dialogue: 0,0:39:23.60,0:39:25.80,Default,NTP,0,0,0,,借口就有了
+Dialogue: 0,0:39:26.64,0:39:30.00,Default,NTP,0,0,0,,也许燕国不战   就降了
+Dialogue: 0,0:39:32.62,0:39:35.59,Default,NTP,0,0,0,,怎么才能让燕丹一定派刺客呢?
+Dialogue: 0,0:39:35.62,0:39:37.60,Default,NTP,0,0,0,,找一个他信得过的人就是了
+Dialogue: 0,0:39:37.62,0:39:39.62,Default,NTP,0,0,0,,谁?
+Dialogue: 0,0:39:40.62,0:39:42.63,Default,NTP,0,0,0,,谁?
+Dialogue: 0,0:39:43.50,0:39:47.50,Default,NTP,0,0,0,,夫人   这么晚出宫   要禀报大王吗?
+Dialogue: 0,0:39:47.90,0:39:49.40,Default,NTP,0,0,0,,不用
+Dialogue: 0,0:39:58.50,0:40:00.60,Default,NTP,0,0,0,,我的脸好看吗?
+Dialogue: 0,0:40:00.70,0:40:03.30,Default,NTP,0,0,0,,夫人的脸美极了
+Dialogue: 0,0:40:05.60,0:40:09.00,Default,NTP,0,0,0,,刺了字   还好看吗?
+Dialogue: 0,0:40:09.70,0:40:11.90,Default,NTP,0,0,0,,夫人开玩笑
+Dialogue: 0,0:40:52.50,0:40:55.00,Default,NTP,0,0,0,,成阳狱司   叩见夫人
+Dialogue: 0,0:40:55.60,0:40:57.00,Default,NTP,0,0,0,,请起
+Dialogue: 0,0:40:59.00,0:41:00.50,Default,NTP,0,0,0,,狱司
+Dialogue: 0,0:41:00.60,0:41:02.30,Default,NTP,0,0,0,,小人在
+Dialogue: 0,0:41:02.50,0:41:06.50,Default,NTP,0,0,0,,这些受黥刑的   都是些什么人呐?
+Dialogue: 0,0:41:06.60,0:41:09.60,Default,NTP,0,0,0,,有罪犯   有战俘
+Dialogue: 0,0:41:10.30,0:41:11.80,Default,NTP,0,0,0,,黥刑难吗?
+Dialogue: 0,0:41:11.90,0:41:13.40,Default,NTP,0,0,0,,不难
+Dialogue: 0,0:41:13.60,0:41:16.40,Default,NTP,0,0,0,,夫人是不是在犯人当中有熟人?
+Dialogue: 0,0:41:16.50,0:41:19.50,Default,NTP,0,0,0,,吩咐小人去办就是了
+Dialogue: 0,0:41:27.66,0:41:31.30,Default,NTP,0,0,0,,你在我脸上   也黥个字
+Dialogue: 0,0:41:32.67,0:41:34.72,Default,NTP,0,0,0,,夫人说什么?
+Dialogue: 0,0:41:35.60,0:41:40.60,Default,NTP,0,0,0,,我要你   在我脸上   也黥个字
+Dialogue: 0,0:41:42.50,0:41:46.50,Default,NTP,0,0,0,,吓死小人了   小人不敢   小人不敢
+Dialogue: 0,0:41:46.60,0:41:48.80,Default,NTP,0,0,0,,小人不敢   小人不敢
+Dialogue: 0,0:41:49.00,0:41:51.70,Default,NTP,0,0,0,,你不是想抗命吧?
+Dialogue: 0,0:42:07.96,0:42:09.72,Default,NTP,0,0,0,,唉
+Dialogue: 0,0:42:16.00,0:42:20.00,Default,NTP,0,0,0,,我的衣服   好看吗?
+Dialogue: 0,0:42:20.10,0:42:22.10,Default,NTP,0,0,0,,好看
+Dialogue: 0,0:42:24.64,0:42:26.36,Default,NTP,0,0,0,,别给我弄脏了
+Dialogue: 0,0:42:26.50,0:42:28.50,Default,NTP,0,0,0,,不会
+Dialogue: 0,0:42:32.70,0:42:35.60,Default,NTP,0,0,0,,你的手   很重吧?
+Dialogue: 0,0:42:35.70,0:42:37.70,Default,NTP,0,0,0,,不重
+Dialogue: 0,0:42:38.74,0:42:40.60,Default,NTP,0,0,0,,疼吗?
+Dialogue: 0,0:42:40.70,0:42:42.40,Default,NTP,0,0,0,,不疼
+Dialogue: 0,0:42:42.60,0:42:44.50,Default,NTP,0,0,0,,疼了也不能叫
+Dialogue: 0,0:42:44.60,0:42:46.90,Default,NTP,0,0,0,,一叫元气就散了
+Dialogue: 0,0:42:50.75,0:42:52.75,Default,NTP,0,0,0,,我不叫
+Dialogue: 0,0:42:53.90,0:42:55.70,Default,NTP,0,0,0,,不叫
+Dialogue: 0,0:43:12.30,0:43:13.80,Default,NTP,0,0,0,,赵女
+Dialogue: 0,0:43:20.80,0:43:22.80,Default,NTP,0,0,0,,让我看一眼
+Dialogue: 0,0:43:23.80,0:43:25.30,Default,NTP,0,0,0,,看一眼
+Dialogue: 0,0:43:38.90,0:43:41.60,Default,NTP,0,0,0,,狱史   我把他杀了
+Dialogue: 0,0:43:41.80,0:43:43.30,Default,NTP,0,0,0,,- 来人      - 到
+Dialogue: 0,0:43:43.30,0:43:46.30,Default,NTP,0,0,0,,别难为他们   是我的主意
+Dialogue: 0,0:43:48.70,0:43:49.78,Default,NTP,0,0,0,,什么?
+Dialogue: 0,0:43:49.81,0:43:53.81,Default,NTP,0,0,0,,脸上不黥字   燕丹不会相信我的
+Dialogue: 0,0:43:57.30,0:44:01.30,Default,NTP,0,0,0,,要跟燕丹   回燕国的是你?
+Dialogue: 0,0:44:02.89,0:44:06.60,Default,NTP,0,0,0,,我去了   一定能让燕丹派刺客来
+Dialogue: 0,0:44:06.70,0:44:10.20,Default,NTP,0,0,0,,刺客一到   仗就不用打了
+Dialogue: 0,0:44:11.00,0:44:17.00,Default,NTP,0,0,0,,你以为   你脸上黥个字   就救了天下百姓啦?
+Dialogue: 0,0:44:18.80,0:44:24.78,Default,NTP,0,0,0,,列国纷争   不是你死   就是我亡
+Dialogue: 0,0:44:24.86,0:44:26.34,Default,NTP,0,0,0,,我知道
+Dialogue: 0,0:44:30.00,0:44:31.80,Default,NTP,0,0,0,,我知道
+Dialogue: 0,0:44:34.72,0:44:37.48,Default,NTP,0,0,0,,可你跟他们不一样
+Dialogue: 0,0:44:37.80,0:44:40.70,Default,NTP,0,0,0,,你说过要救护六国的百姓
+Dialogue: 0,0:44:40.80,0:44:44.30,Default,NTP,0,0,0,,让天下人   过安生的日子
+Dialogue: 0,0:44:44.80,0:44:47.70,Default,NTP,0,0,0,,做他们喜欢做的事
+Dialogue: 0,0:44:47.90,0:44:53.40,Default,NTP,0,0,0,,你说过   我相信你说的话
+Dialogue: 0,0:44:58.88,0:45:01.78,Default,NTP,0,0,0,,只要你看到我脸上的字
+Dialogue: 0,0:45:01.88,0:45:03.80,Default,NTP,0,0,0,,就不会忘记了
+Dialogue: 0,0:45:09.86,0:45:11.96,Default,NTP,0,0,0,,脸上黥了字
+Dialogue: 0,0:45:15.96,0:45:18.14,Default,NTP,0,0,0,,不好看了吧?
+Dialogue: 0,0:45:24.93,0:45:26.94,Default,NTP,0,0,0,,好看
+Dialogue: 0,0:45:39.96,0:45:44.36,Default,NTP,0,0,0,,这些年   我慢慢地觉得
+Dialogue: 0,0:45:44.95,0:45:46.96,Default,NTP,0,0,0,,我们不行了
+Dialogue: 0,0:45:48.96,0:45:53.54,Default,NTP,0,0,0,,你是秦国的王   我不知道能为你做什么
+Dialogue: 0,0:45:54.90,0:45:57.60,Default,NTP,0,0,0,,所以我想回赵国
+Dialogue: 0,0:45:59.94,0:46:03.40,Default,NTP,0,0,0,,我现在知道了
+Dialogue: 0,0:46:04.00,0:46:06.90,Default,NTP,0,0,0,,你不是一个平平常常的王
+Dialogue: 0,0:46:07.00,0:46:10.80,Default,NTP,0,0,0,,你和他们不一样
+Dialogue: 0,0:46:11.00,0:46:13.20,Default,NTP,0,0,0,,我又有事情为你做了
+Dialogue: 0,0:46:41.50,0:46:43.50,Default,NTP,0,0,0,,你怎么不过来呀?
+Dialogue: 0,0:46:51.00,0:46:53.80,Default,NTP,0,0,0,,我知道你在想什么
+Dialogue: 0,0:46:54.00,0:46:57.99,Default,NTP,0,0,0,,你怪我这么多年都不要你
+Dialogue: 0,0:47:01.00,0:47:03.90,Default,NTP,0,0,0,,其实连母后都不知道
+Dialogue: 0,0:47:04.00,0:47:08.80,Default,NTP,0,0,0,,我们十几岁的时候   就把什么事情都做了
+Dialogue: 0,0:47:10.96,0:47:14.14,Default,NTP,0,0,0,,你知道你在江山阁   说那句话的时候
+Dialogue: 0,0:47:14.24,0:47:16.00,Default,NTP,0,0,0,,我在想什么吗?
+Dialogue: 0,0:47:18.20,0:47:20.00,Default,NTP,0,0,0,,我想要你
+Dialogue: 0,0:47:21.00,0:47:22.80,Default,NTP,0,0,0,,可我
+Dialogue: 0,0:47:24.80,0:47:27.30,Default,NTP,0,0,0,,是每天都想要你
+Dialogue: 0,0:47:28.00,0:47:32.00,Default,NTP,0,0,0,,我知道你今天晚上让我来
+Dialogue: 0,0:47:33.00,0:47:35.00,Default,NTP,0,0,0,,是为了我
+Dialogue: 0,0:47:37.90,0:47:40.00,Default,NTP,0,0,0,,可真来了
+Dialogue: 0,0:47:41.00,0:47:44.00,Default,NTP,0,0,0,,我也不知道该怎么办
+Dialogue: 0,0:47:46.08,0:47:47.90,Default,NTP,0,0,0,,你站起来
+Dialogue: 0,0:47:51.50,0:47:54.00,Default,NTP,0,0,0,,我是你的女人
+Dialogue: 0,0:47:55.08,0:47:57.09,Default,NTP,0,0,0,,把鞋脱了
+Dialogue: 0,0:48:04.13,0:48:10.48,Default,NTP,0,0,0,,我就要在这   四海归一殿   接见燕国来的使臣
+Dialogue: 0,0:48:11.13,0:48:15.00,Default,NTP,0,0,0,,我要你给我找一个真正的刺客
+Dialogue: 0,0:48:15.14,0:48:19.30,Default,NTP,0,0,0,,我会让所有带刀的侍卫   都不上殿
+Dialogue: 0,0:48:19.80,0:48:23.60,Default,NTP,0,0,0,,文武百官   也没有兵器
+Dialogue: 0,0:48:24.10,0:48:27.80,Default,NTP,0,0,0,,反而让刺客带剑来见我
+Dialogue: 0,0:48:28.00,0:48:30.15,Default,NTP,0,0,0,,真想不到
+Dialogue: 0,0:48:31.00,0:48:36.16,Default,NTP,0,0,0,,我去燕国   是去找一个人来杀你
+Dialogue: 0,0:48:37.16,0:48:39.30,Default,NTP,0,0,0,,他杀不死我
+Dialogue: 0,0:48:40.13,0:48:43.30,Default,NTP,0,0,0,,谁也杀不死我
+Dialogue: 0,0:48:44.00,0:48:48.20,Default,NTP,0,0,0,,我要让他知道   他杀我是错的
+Dialogue: 0,0:48:49.10,0:48:52.40,Default,NTP,0,0,0,,收好   防身用的
+Dialogue: 0,0:48:54.14,0:48:56.15,Default,NTP,0,0,0,,我走了
+Dialogue: 0,0:48:58.15,0:49:00.15,Default,NTP,0,0,0,,我的命符
+Dialogue: 0,0:49:02.15,0:49:04.22,Default,NTP,0,0,0,,你也拿着
+Dialogue: 0,0:49:09.23,0:49:10.78,Default,NTP,0,0,0,,等等
+Dialogue: 0,0:49:28.50,0:49:30.21,Default,NTP,0,0,0,,你走吧
+Dialogue: 0,0:49:44.00,0:49:47.00,Default,NTP,0,0,0,,赵女   不要回头
+Dialogue: 0,0:49:49.20,0:49:55.30,Default,NTP,0,0,0,,赵女   这天池里的桥   让你想起什么?
+Dialogue: 0,0:50:01.21,0:50:04.19,Default,NTP,0,0,0,,还记不记得小时候
+Dialogue: 0,0:50:04.21,0:50:08.00,Default,NTP,0,0,0,,你让我走的独木桥?
+Dialogue: 0,0:50:08.30,0:50:14.30,Default,NTP,0,0,0,,我在这四海归一殿里   建造   这座浮桥
+Dialogue: 0,0:50:15.30,0:50:21.30,Default,NTP,0,0,0,,就是为了   永远不忘记我们小时候的事情
+Dialogue: 0,0:50:24.60,0:50:26.90,Default,NTP,0,0,0,,我是燕国太子
+Dialogue: 0,0:50:29.21,0:50:31.18,Default,NTP,0,0,0,,我是燕国太子
+Dialogue: 0,0:50:31.20,0:50:35.00,Default,NTP,0,0,0,,嬴政   要杀就在这儿杀死我
+Dialogue: 0,0:50:35.10,0:50:37.30,Default,NTP,0,0,0,,天杀的嬴政
+Dialogue: 0,0:51:18.80,0:51:23.30,Default,NTP,0,0,0,,牧羊   这(草)原是燕国的   是不是?
+Dialogue: 0,0:51:24.26,0:51:26.26,Default,NTP,0,0,0,,燕国
+Dialogue: 0,0:51:39.28,0:51:41.28,Default,NTP,0,0,0,,天杀的嬴政
+Dialogue: 0,0:51:42.28,0:51:44.30,Default,NTP,0,0,0,,我一定要杀了你
+Dialogue: 0,0:51:44.80,0:51:46.80,Default,NTP,0,0,0,,天杀的嬴政
+Dialogue: 0,0:51:47.30,0:51:49.80,Default,NTP,0,0,0,,我一定要杀了你
+Dialogue: 0,0:53:09.40,0:53:10.40,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,0:53:34.40,0:53:37.40,Default,NTP,0,0,0,,你回去跟太子说   我初到燕国
+Dialogue: 0,0:53:37.50,0:53:39.80,Default,NTP,0,0,0,,想一个人出来走走
+Dialogue: 0,0:54:02.00,0:54:03.30,Default,NTP,0,0,0,,再来
+Dialogue: 0,0:54:09.00,0:54:10.50,Default,NTP,0,0,0,,再来
+Dialogue: 0,0:54:16.47,0:54:20.47,Default,NTP,0,0,0,,好啊   我逮着你了   小贼
+Dialogue: 0,0:54:43.46,0:54:48.90,Default,NTP,0,0,0,,水   喝水   喝水
+Dialogue: 0,0:54:52.48,0:54:57.48,Default,NTP,0,0,0,,水   水   我要喝水
+Dialogue: 0,0:55:00.48,0:55:04.55,Default,NTP,0,0,0,,喝水   喝   喝水
+Dialogue: 0,0:55:09.55,0:55:13.53,Default,NTP,0,0,0,,喝水   喝水
+Dialogue: 0,0:55:13.56,0:55:15.56,Default,NTP,0,0,0,,给他口水喝
+Dialogue: 0,0:55:19.60,0:55:21.51,Default,NTP,0,0,0,,给他口水喝
+Dialogue: 0,0:55:21.80,0:55:23.80,Default,NTP,0,0,0,,你说什么呢?
+Dialogue: 0,0:55:24.30,0:55:27.30,Default,NTP,0,0,0,,你要把这一截的糕钱给我
+Dialogue: 0,0:55:27.50,0:55:29.00,Default,NTP,0,0,0,,我就给他水喝
+Dialogue: 0,0:55:32.54,0:55:35.52,Default,NTP,0,0,0,,什么长毛的东西
+Dialogue: 0,0:55:35.54,0:55:36.90,Default,NTP,0,0,0,,出去
+Dialogue: 0,0:55:37.00,0:55:39.00,Default,NTP,0,0,0,,给他一口水喝
+Dialogue: 0,0:55:57.72,0:55:59.54,Default,NTP,0,0,0,,喝水
+Dialogue: 0,0:56:24.59,0:56:26.60,Default,NTP,0,0,0,,你还不走?
+Dialogue: 0,0:56:29.80,0:56:33.90,Default,NTP,0,0,0,,你给我跪了   就给他水喝
+Dialogue: 0,0:56:53.90,0:56:57.30,Default,NTP,0,0,0,,你钻过去   我就放了他
+Dialogue: 0,0:57:31.20,0:57:33.00,Default,NTP,0,0,0,,把他放了
+Dialogue: 0,0:57:50.72,0:57:55.48,Default,NTP,0,0,0,,你杀了我   你杀了我就放了他
+Dialogue: 0,0:57:59.72,0:58:01.48,Default,NTP,0,0,0,,我不杀你
+Dialogue: 0,0:58:02.72,0:58:04.48,Default,NTP,0,0,0,,你得杀了我
+Dialogue: 0,0:58:04.68,0:58:06.24,Default,NTP,0,0,0,,杀   杀
+Dialogue: 0,0:58:06.34,0:58:07.90,Default,NTP,0,0,0,,我不杀你
+Dialogue: 0,0:58:08.00,0:58:10.80,Default,NTP,0,0,0,,不行   你非得杀了我   你杀了我
+Dialogue: 0,0:58:10.90,0:58:12.60,Default,NTP,0,0,0,,来   来   来呀
+Dialogue: 0,0:58:22.74,0:58:26.80,Default,NTP,0,0,0,,- 唉呦   妈呀      - 快   快   快跑
+Dialogue: 0,0:59:03.30,0:59:06.00,Default,NTP,0,0,0,,唉   你叫什么名字啊?
+Dialogue: 0,0:59:07.82,0:59:09.83,Default,NTP,0,0,0,,人呢?
+Dialogue: 0,0:59:32.90,0:59:35.10,Default,NTP,0,0,0,,人是你杀的?
+Dialogue: 0,0:59:35.20,0:59:36.70,Default,NTP,0,0,0,,不是
+Dialogue: 0,0:59:38.90,0:59:42.60,Default,NTP,0,0,0,,不是你杀的   你怎么会在这儿?
+Dialogue: 0,0:59:46.80,0:59:48.30,Default,NTP,0,0,0,,我鼻子痒
+Dialogue: 0,0:59:48.40,0:59:49.90,Default,NTP,0,0,0,,鼻子痒?
+Dialogue: 0,0:59:50.00,0:59:53.50,Default,NTP,0,0,0,,好   我替你挠挠
+Dialogue: 0,0:59:54.50,0:59:57.50,Default,NTP,0,0,0,,来   把夹给他去了
+Dialogue: 0,1:00:09.00,1:00:10.90,Default,NTP,0,0,0,,哪儿痒?
+Dialogue: 0,1:00:12.92,1:00:14.92,Default,NTP,0,0,0,,这儿
+Dialogue: 0,1:00:23.30,1:00:25.80,Default,NTP,0,0,0,,还   痒不痒?
+Dialogue: 0,1:00:27.90,1:00:29.40,Default,NTP,0,0,0,,来
+Dialogue: 0,1:01:05.97,1:01:07.48,Default,NTP,0,0,0,,怕不怕?
+Dialogue: 0,1:01:07.98,1:01:09.48,Default,NTP,0,0,0,,怕就叫
+Dialogue: 0,1:01:17.96,1:01:21.36,Default,NTP,0,0,0,,叫啊   叫啊
+Dialogue: 0,1:01:22.10,1:01:23.60,Default,NTP,0,0,0,,叫啊
+Dialogue: 0,1:01:25.10,1:01:26.90,Default,NTP,0,0,0,,叫啊
+Dialogue: 0,1:01:29.87,1:01:31.87,Default,NTP,0,0,0,,好
+Dialogue: 0,1:01:33.87,1:01:37.87,Default,NTP,0,0,0,,那就死到临头   咱们多玩玩儿
+Dialogue: 0,1:01:49.90,1:01:51.40,Default,NTP,0,0,0,,等等
+Dialogue: 0,1:01:55.89,1:01:57.84,Default,NTP,0,0,0,,叩   叩见夫人
+Dialogue: 0,1:01:57.86,1:01:59.60,Default,NTP,0,0,0,,有劳你了
+Dialogue: 0,1:02:03.30,1:02:06.80,Default,NTP,0,0,0,,那人   不是他杀的
+Dialogue: 0,1:02:06.94,1:02:09.94,Default,NTP,0,0,0,,快   放放放   放人   放人   放人   放啊
+Dialogue: 0,1:02:13.04,1:02:15.04,Default,NTP,0,0,0,,快   快点   快点
+Dialogue: 0,1:02:16.36,1:02:19.96,Default,NTP,0,0,0,,还不谢过夫人   快跪下
+Dialogue: 0,1:02:21.05,1:02:22.54,Default,NTP,0,0,0,,跪下呀
+Dialogue: 0,1:02:26.05,1:02:29.03,Default,NTP,0,0,0,,人呢?   人在哪儿?   闪开
+Dialogue: 0,1:02:29.60,1:02:30.90,Default,NTP,0,0,0,,谁是荆轲?
+Dialogue: 0,1:02:30.93,1:02:32.93,Default,NTP,0,0,0,,啊   夫人
+Dialogue: 0,1:02:37.94,1:02:39.86,Default,NTP,0,0,0,,真是大隐于市啊
+Dialogue: 0,1:02:40.10,1:02:45.40,Default,NTP,0,0,0,,有谁想到刺客荆轲会躲在燕巿上编草鞋?
+Dialogue: 0,1:02:45.94,1:02:49.94,Default,NTP,0,0,0,,我和夫人有件事想请你帮忙
+Dialogue: 0,1:02:51.10,1:02:53.60,Default,NTP,0,0,0,,还是夫人说吧
+Dialogue: 0,1:02:56.30,1:02:59.96,Default,NTP,0,0,0,,你说呀   你可是救过他的命
+Dialogue: 0,1:03:05.00,1:03:07.00,Default,NTP,0,0,0,,让你去杀一个人
+Dialogue: 0,1:03:10.00,1:03:13.00,Default,NTP,0,0,0,,你知道让你杀谁吗?
+Dialogue: 0,1:03:14.00,1:03:16.00,Default,NTP,0,0,0,,让你杀秦王政
+Dialogue: 0,1:03:17.00,1:03:19.80,Default,NTP,0,0,0,,不杀   燕国就完
+Dialogue: 0,1:03:19.90,1:03:22.00,Default,NTP,0,0,0,,六国也完了
+Dialogue: 0,1:03:26.01,1:03:28.00,Default,NTP,0,0,0,,我不杀人
+Dialogue: 0,1:03:28.30,1:03:30.00,Default,NTP,0,0,0,,你是个刺客
+Dialogue: 0,1:03:30.30,1:03:33.80,Default,NTP,0,0,0,,你杀过很多人
+Dialogue: 0,1:03:36.00,1:03:38.10,Default,NTP,0,0,0,,我不杀人
+Dialogue: 0,1:03:43.00,1:03:47.00,Default,NTP,0,0,0,,那你就回到牢里   去死吧
+Dialogue: 0,1:03:59.30,1:04:03.20,Default,NTP,0,0,0,,一个妇人   好端端的被秦王在脸上黥了字
+Dialogue: 0,1:04:03.30,1:04:06.30,Default,NTP,0,0,0,,来到燕国又救了你的命
+Dialogue: 0,1:04:07.16,1:04:11.00,Default,NTP,0,0,0,,你都不想报答你的恩人吗?
+Dialogue: 0,1:04:24.17,1:04:26.17,Default,NTP,0,0,0,,我不杀人
+Dialogue: 0,1:04:27.18,1:04:31.18,Default,NTP,0,0,0,,来   把他带回牢里去
+Dialogue: 0,1:04:36.78,1:04:38.83,Default,NTP,0,0,0,,这才是我要的人
+Dialogue: 0,1:04:39.20,1:04:42.48,Default,NTP,0,0,0,,三个月之内   不管你怎么说
+Dialogue: 0,1:04:42.64,1:04:44.60,Default,NTP,0,0,0,,一定要让他去咸阳
+Dialogue: 0,1:04:44.70,1:04:46.70,Default,NTP,0,0,0,,去杀嬴政
+Dialogue: 0,1:04:47.06,1:04:48.90,Default,NTP,0,0,0,,我做不到
+Dialogue: 0,1:04:49.06,1:04:51.60,Default,NTP,0,0,0,,他连死都不怕
+Dialogue: 0,1:04:52.07,1:04:55.00,Default,NTP,0,0,0,,你应该另找别人
+Dialogue: 0,1:04:57.50,1:05:02.00,Default,NTP,0,0,0,,这三个月   是他的   也是你的
+Dialogue: 0,1:05:02.40,1:05:06.15,Default,NTP,0,0,0,,你别忘了   你是我的人质
+Dialogue: 0,1:05:29.24,1:05:31.24,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,1:05:33.00,1:05:37.50,Default,NTP,0,0,0,,别人说你是个杀人的刺客   我很惊讶
+Dialogue: 0,1:05:39.00,1:05:43.50,Default,NTP,0,0,0,,因为我亲眼看见   你怎么救了一个孩子
+Dialogue: 0,1:05:44.80,1:05:47.30,Default,NTP,0,0,0,,我不知道你过去的事
+Dialogue: 0,1:05:48.30,1:05:52.27,Default,NTP,0,0,0,,可现在   你走吧
+Dialogue: 0,1:05:54.27,1:05:56.27,Default,NTP,0,0,0,,回家去吧
+Dialogue: 0,1:06:41.80,1:06:45.30,Default,NTP,0,0,0,,要疼就喊出来   英雄不在这上
+Dialogue: 0,1:06:54.20,1:06:56.10,Default,NTP,0,0,0,,你也忍一忍
+Dialogue: 0,1:07:01.34,1:07:03.34,Default,NTP,0,0,0,,喊出来   喊出来
+Dialogue: 0,1:07:32.40,1:07:34.00,Default,NTP,0,0,0,,挺住
+Dialogue: 0,1:08:02.20,1:08:04.00,Default,NTP,0,0,0,,来   吃粥
+Dialogue: 0,1:08:05.30,1:08:07.30,Default,NTP,0,0,0,,你怎么不吃?
+Dialogue: 0,1:08:08.20,1:08:10.30,Default,NTP,0,0,0,,你不吃   又不死
+Dialogue: 0,1:08:10.50,1:08:12.30,Default,NTP,0,0,0,,你想干嘛?
+Dialogue: 0,1:08:12.50,1:08:15.50,Default,NTP,0,0,0,,人家是应该伺候你的?
+Dialogue: 0,1:08:23.30,1:08:25.30,Default,NTP,0,0,0,,都说是你救了他
+Dialogue: 0,1:08:26.55,1:08:28.46,Default,NTP,0,0,0,,我哪救了他
+Dialogue: 0,1:08:28.56,1:08:32.96,Default,NTP,0,0,0,,我要是真救了他   他就不会这样了
+Dialogue: 0,1:08:36.50,1:08:38.40,Default,NTP,0,0,0,,你们早就认识?
+Dialogue: 0,1:08:39.50,1:08:44.00,Default,NTP,0,0,0,,我见到他的时候   他躺在地上
+Dialogue: 0,1:08:45.50,1:08:48.00,Default,NTP,0,0,0,,我说你喝口水
+Dialogue: 0,1:08:50.50,1:08:54.00,Default,NTP,0,0,0,,你要死   另找个地方
+Dialogue: 0,1:08:54.50,1:08:57.50,Default,NTP,0,0,0,,别把我人弄脏了
+Dialogue: 0,1:08:58.20,1:09:02.40,Default,NTP,0,0,0,,你想活?   你靠什么活?
+Dialogue: 0,1:09:04.50,1:09:06.30,Default,NTP,0,0,0,,你打草鞋
+Dialogue: 0,1:09:06.50,1:09:09.00,Default,NTP,0,0,0,,这里的山上都是草
+Dialogue: 0,1:09:10.50,1:09:13.60,Default,NTP,0,0,0,,我不过就是教会了他怎么打草鞋
+Dialogue: 0,1:09:15.60,1:09:19.61,Default,NTP,0,0,0,,他过去   是个杀人的人
+Dialogue: 0,1:09:21.60,1:09:25.80,Default,NTP,0,0,0,,人杀多了   总有一天会过不去
+Dialogue: 0,1:09:27.61,1:09:29.62,Default,NTP,0,0,0,,我不问他
+Dialogue: 0,1:09:30.60,1:09:32.40,Default,NTP,0,0,0,,朋友嘛
+Dialogue: 0,1:09:46.50,1:09:50.00,Default,NTP,0,0,0,,晚上   你别在这儿了
+Dialogue: 0,1:09:51.00,1:09:55.50,Default,NTP,0,0,0,,他闹   你支不住   有我
+Dialogue: 0,1:09:55.60,1:09:57.70,Default,NTP,0,0,0,,这是个野人
+Dialogue: 0,1:10:00.60,1:10:03.60,Default,NTP,0,0,0,,对他你也别太斯文了
+Dialogue: 0,1:10:04.10,1:10:05.60,Default,NTP,0,0,0,,知道了
+Dialogue: 0,1:10:06.10,1:10:09.10,Default,NTP,0,0,0,,他的伤   过两天会好的
+Dialogue: 0,1:10:10.30,1:10:13.30,Default,NTP,0,0,0,,他的心   难啦
+Dialogue: 0,1:10:26.54,1:10:28.54,Default,NTP,0,0,0,,来   吃粥
+Dialogue: 0,1:10:31.55,1:10:34.00,Default,NTP,0,0,0,,你怎么不吃啊?
+Dialogue: 0,1:10:35.55,1:10:39.55,Default,NTP,0,0,0,,你又不吃   你又不死
+Dialogue: 0,1:10:40.55,1:10:42.48,Default,NTP,0,0,0,,你想干嘛?
+Dialogue: 0,1:10:42.72,1:10:45.86,Default,NTP,0,0,0,,我是应该伺候你的吗?
+Dialogue: 0,1:10:50.80,1:10:52.30,Default,NTP,0,0,0,,唉   唉
+Dialogue: 0,1:10:54.50,1:10:56.00,Default,NTP,0,0,0,,怎么啦?
+Dialogue: 0,1:10:57.54,1:10:59.54,Default,NTP,0,0,0,,你想干嘛?
+Dialogue: 0,1:11:02.48,1:11:04.64,Default,NTP,0,0,0,,粥里有肉吗?
+Dialogue: 0,1:11:11.60,1:11:14.30,Default,NTP,0,0,0,,你找什么?   我帮你找
+Dialogue: 0,1:11:27.50,1:11:29.50,Default,NTP,0,0,0,,你的伤刚好
+Dialogue: 0,1:11:30.00,1:11:31.50,Default,NTP,0,0,0,,早点睡吧
+Dialogue: 0,1:11:31.60,1:11:33.40,Default,NTP,0,0,0,,我不要你管我
+Dialogue: 0,1:11:33.60,1:11:36.10,Default,NTP,0,0,0,,我不要吃   不要睡
+Dialogue: 0,1:11:36.61,1:11:40.10,Default,NTP,0,0,0,,我不要看见人   也不要看见你
+Dialogue: 0,1:11:43.62,1:11:45.50,Default,NTP,0,0,0,,你是谁呀?
+Dialogue: 0,1:11:47.62,1:11:51.50,Default,NTP,0,0,0,,为什么每天缠着我?
+Dialogue: 0,1:11:52.63,1:11:55.50,Default,NTP,0,0,0,,你到底要我干嘛?
+Dialogue: 0,1:11:55.63,1:11:59.60,Default,NTP,0,0,0,,你以为你救了我   我就会为你去杀人?
+Dialogue: 0,1:12:00.60,1:12:02.60,Default,NTP,0,0,0,,不会
+Dialogue: 0,1:12:07.77,1:12:10.30,Default,NTP,0,0,0,,拿着   杀了我
+Dialogue: 0,1:12:10.80,1:12:13.80,Default,NTP,0,0,0,,我早就想杀了我自己
+Dialogue: 0,1:12:22.50,1:12:26.50,Default,NTP,0,0,0,,你丢了什么?   我帮你找
+Dialogue: 0,1:12:30.30,1:12:32.30,Default,NTP,0,0,0,,怎么回事儿?
+Dialogue: 0,1:12:33.10,1:12:35.70,Default,NTP,0,0,0,,他有东西找不着了
+Dialogue: 0,1:12:52.50,1:12:54.50,Default,NTP,0,0,0,,是不是这个?
+Dialogue: 0,1:13:36.00,1:13:40.10,Default,NTP,0,0,0,,唉   使剑呐?   又不是杀人
+Dialogue: 0,1:13:45.74,1:13:47.72,Default,NTP,0,0,0,,你不知道我
+Dialogue: 0,1:13:47.83,1:13:49.64,Default,NTP,0,0,0,,我知道
+Dialogue: 0,1:13:49.74,1:13:51.64,Default,NTP,0,0,0,,你不知道
+Dialogue: 0,1:13:51.75,1:13:55.64,Default,NTP,0,0,0,,高渐离也不知道
+Dialogue: 0,1:13:55.75,1:13:59.75,Default,NTP,0,0,0,,我也不知道你
+Dialogue: 0,1:14:03.76,1:14:05.70,Default,NTP,0,0,0,,我是赵国人
+Dialogue: 0,1:14:05.83,1:14:09.72,Default,NTP,0,0,0,,生在赵   长在赵
+Dialogue: 0,1:14:10.60,1:14:14.80,Default,NTP,0,0,0,,后来   跟别人去了秦国
+Dialogue: 0,1:14:16.80,1:14:18.96,Default,NTP,0,0,0,,又到了燕国
+Dialogue: 0,1:14:20.81,1:14:22.81,Default,NTP,0,0,0,,你脸上有字
+Dialogue: 0,1:14:24.81,1:14:27.60,Default,NTP,0,0,0,,你犯了什么罪?
+Dialogue: 0,1:14:27.96,1:14:30.72,Default,NTP,0,0,0,,我想回到赵国去
+Dialogue: 0,1:14:30.82,1:14:34.82,Default,NTP,0,0,0,,回到赵国   这么要紧吗?
+Dialogue: 0,1:14:36.82,1:14:39.30,Default,NTP,0,0,0,,因为我是赵国人
+Dialogue: 0,1:14:44.80,1:14:47.68,Default,NTP,0,0,0,,你还知道你是赵国人
+Dialogue: 0,1:14:47.78,1:14:49.78,Default,NTP,0,0,0,,我不知道
+Dialogue: 0,1:14:51.60,1:14:56.80,Default,NTP,0,0,0,,我不知道我的父母   不知道怎么长大的
+Dialogue: 0,1:14:58.80,1:15:00.80,Default,NTP,0,0,0,,我记不得了
+Dialogue: 0,1:15:01.80,1:15:06.60,Default,NTP,0,0,0,,我杀了一个女子   她家是铸剑的
+Dialogue: 0,1:15:07.89,1:15:13.20,Default,NTP,0,0,0,,她生得好   生得很干净
+Dialogue: 0,1:15:14.80,1:15:16.90,Default,NTP,0,0,0,,她眼睛不好
+Dialogue: 0,1:15:17.90,1:15:21.90,Default,NTP,0,0,0,,眼睛盲了   看不见
+Dialogue: 0,1:15:22.80,1:15:25.30,Default,NTP,0,0,0,,我不杀看不见的人
+Dialogue: 0,1:15:27.50,1:15:29.50,Default,NTP,0,0,0,,她要我杀她
+Dialogue: 0,1:15:30.70,1:15:34.88,Default,NTP,0,0,0,,因为   我把她们一家都杀了
+Dialogue: 0,1:15:36.88,1:15:40.79,Default,NTP,0,0,0,,她就得   一辈子跪下乞食
+Dialogue: 0,1:15:41.89,1:15:43.99,Default,NTP,0,0,0,,她性子很烈
+Dialogue: 0,1:15:44.89,1:15:48.90,Default,NTP,0,0,0,,她想死   很对
+Dialogue: 0,1:15:50.86,1:15:55.37,Default,NTP,0,0,0,,她不愿意一辈子   跪下乞食
+Dialogue: 0,1:15:57.87,1:15:59.85,Default,NTP,0,0,0,,很对
+Dialogue: 0,1:15:59.87,1:16:01.88,Default,NTP,0,0,0,,我不杀她
+Dialogue: 0,1:16:04.94,1:16:08.95,Default,NTP,0,0,0,,她就用匕首   自杀
+Dialogue: 0,1:16:22.96,1:16:24.94,Default,NTP,0,0,0,,这个送给你
+Dialogue: 0,1:16:49.30,1:16:50.80,Default,NTP,0,0,0,,太子   进药
+Dialogue: 0,1:16:57.90,1:17:01.60,Default,NTP,0,0,0,,赵女   你可以不管我
+Dialogue: 0,1:17:03.20,1:17:05.20,Default,NTP,0,0,0,,不管燕国
+Dialogue: 0,1:17:06.01,1:17:10.01,Default,NTP,0,0,0,,可你总该救救赵国吧
+Dialogue: 0,1:17:11.60,1:17:14.70,Default,NTP,0,0,0,,荆轲怎么样了?   我不能再等了
+Dialogue: 0,1:17:14.80,1:17:16.90,Default,NTP,0,0,0,,你让他即刻去咸阳
+Dialogue: 0,1:17:17.00,1:17:20.00,Default,NTP,0,0,0,,他已经不是过去的那个刺客荆轲
+Dialogue: 0,1:17:20.20,1:17:21.60,Default,NTP,0,0,0,,他不会去的
+Dialogue: 0,1:17:21.65,1:17:23.65,Default,NTP,0,0,0,,我看得出来
+Dialogue: 0,1:17:24.50,1:17:29.36,Default,NTP,0,0,0,,他听你的   你让他去   他会去的
+Dialogue: 0,1:17:33.00,1:17:35.15,Default,NTP,0,0,0,,可我不愿意那么做
+Dialogue: 0,1:17:47.00,1:17:51.10,Default,NTP,0,0,0,,长信侯派人来说   嬴政天天都在念着你
+Dialogue: 0,1:17:52.02,1:17:56.50,Default,NTP,0,0,0,,荆轲不去   我只有把你下到牢里
+Dialogue: 0,1:17:57.02,1:18:01.03,Default,NTP,0,0,0,,等着嬴政来赎你   保全燕国
+Dialogue: 0,1:18:06.30,1:18:08.00,Default,NTP,0,0,0,,可以
+Dialogue: 0,1:18:08.10,1:18:10.60,Default,NTP,0,0,0,,那就把我下到牢里吧
+Dialogue: 0,1:18:15.10,1:18:16.90,Default,NTP,0,0,0,,那一言为定
+Dialogue: 0,1:18:25.50,1:18:27.00,Default,NTP,0,0,0,,我来
+Dialogue: 0,1:18:39.00,1:18:41.30,Default,NTP,0,0,0,,你把这房推了吧
+Dialogue: 0,1:18:41.60,1:18:43.80,Default,NTP,0,0,0,,再盖个新的
+Dialogue: 0,1:18:43.90,1:18:46.00,Default,NTP,0,0,0,,院儿里种几个果树
+Dialogue: 0,1:18:47.00,1:18:50.50,Default,NTP,0,0,0,,那   你还来看我吗?
+Dialogue: 0,1:18:51.00,1:18:54.80,Default,NTP,0,0,0,,我要是能来看你呢   我就来
+Dialogue: 0,1:18:58.00,1:19:04.00,Default,NTP,0,0,0,,不能来   你也别怨我
+Dialogue: 0,1:19:06.50,1:19:08.00,Default,NTP,0,0,0,,好好过吧
+Dialogue: 0,1:19:54.50,1:19:56.80,Default,NTP,0,0,0,,刺客荆轲来了
+Dialogue: 0,1:20:07.50,1:20:09.50,Default,NTP,0,0,0,,你把她放了
+Dialogue: 0,1:20:14.70,1:20:18.50,Default,NTP,0,0,0,,你留下   我就放了她
+Dialogue: 0,1:20:42.50,1:20:45.50,Default,NTP,0,0,0,,新房子盖好了
+Dialogue: 0,1:21:12.00,1:21:13.50,Default,NTP,0,0,0,,哎呀
+Dialogue: 0,1:21:15.30,1:21:19.60,Default,NTP,0,0,0,,这钺   是君王用的
+Dialogue: 0,1:21:22.00,1:21:25.80,Default,NTP,0,0,0,,太子丹送我这么一件礼物
+Dialogue: 0,1:21:26.30,1:21:29.80,Default,NTP,0,0,0,,是想让我掉脑袋呀
+Dialogue: 0,1:21:31.60,1:21:36.80,Default,NTP,0,0,0,,不过   太子的好意   不能不领
+Dialogue: 0,1:21:39.50,1:21:41.00,Default,NTP,0,0,0,,谢了
+Dialogue: 0,1:21:44.80,1:21:47.00,Default,NTP,0,0,0,,又错了   你又错了
+Dialogue: 0,1:21:47.22,1:21:48.80,Default,NTP,0,0,0,,再来
+Dialogue: 0,1:21:51.80,1:21:53.30,Default,NTP,0,0,0,,- 爹爹      - 唉
+Dialogue: 0,1:21:53.40,1:21:55.90,Default,NTP,0,0,0,,- 爹爹      - 唉   儿啊
+Dialogue: 0,1:22:04.50,1:22:07.30,Default,NTP,0,0,0,,可怜我这两个儿啊
+Dialogue: 0,1:22:09.20,1:22:13.30,Default,NTP,0,0,0,,莫非要在宫里   藏一辈子不成
+Dialogue: 0,1:22:22.30,1:22:24.50,Default,NTP,0,0,0,,政儿的胃口是好的
+Dialogue: 0,1:22:26.18,1:22:28.29,Default,NTP,0,0,0,,从小就馋肉
+Dialogue: 0,1:22:29.30,1:22:31.50,Default,NTP,0,0,0,,从小就盼着过年节
+Dialogue: 0,1:22:31.60,1:22:33.60,Default,NTP,0,0,0,,母亲给肉吃
+Dialogue: 0,1:22:33.70,1:22:39.80,Default,NTP,0,0,0,,母后这一说   倒像是埋怨陛下多吃了似的
+Dialogue: 0,1:22:40.27,1:22:44.00,Default,NTP,0,0,0,,陛下乃天下之主
+Dialogue: 0,1:22:44.20,1:22:47.70,Default,NTP,0,0,0,,哪里就缺了陛下这一口肉呢?
+Dialogue: 0,1:23:08.60,1:23:10.60,Default,NTP,0,0,0,,爹爹
+Dialogue: 0,1:23:27.35,1:23:32.50,Default,NTP,0,0,0,,陛下赎罪   这是臣的侄儿
+Dialogue: 0,1:23:33.36,1:23:38.80,Default,NTP,0,0,0,,因为母后喜欢   赏了衣服   在宫中小住
+Dialogue: 0,1:23:40.33,1:23:44.54,Default,NTP,0,0,0,,孩子小   喜欢胡乱跑
+Dialogue: 0,1:23:50.30,1:23:51.80,Default,NTP,0,0,0,,噢
+Dialogue: 0,1:24:04.90,1:24:08.20,Default,NTP,0,0,0,,这么说   是我兄弟了
+Dialogue: 0,1:24:10.00,1:24:11.50,Default,NTP,0,0,0,,啊
+Dialogue: 0,1:24:17.60,1:24:21.40,Default,NTP,0,0,0,,寡人要是娶了你的侄女儿
+Dialogue: 0,1:24:21.40,1:24:24.90,Default,NTP,0,0,0,,寡人   不也是你的侄儿吗?
+Dialogue: 0,1:24:32.42,1:24:35.20,Default,NTP,0,0,0,,这件事羞死小臣了
+Dialogue: 0,1:24:35.30,1:24:38.43,Default,NTP,0,0,0,,不能提了   不能提了
+Dialogue: 0,1:24:42.70,1:24:43.90,Default,NTP,0,0,0,,来
+Dialogue: 0,1:24:44.30,1:24:46.10,Default,NTP,0,0,0,,快过来
+Dialogue: 0,1:24:46.30,1:24:48.30,Default,NTP,0,0,0,,大王唤你
+Dialogue: 0,1:24:48.40,1:24:52.41,Default,NTP,0,0,0,,小孩子乱跑   有什么要紧呀
+Dialogue: 0,1:24:53.30,1:24:56.10,Default,NTP,0,0,0,,母亲欢喜就好
+Dialogue: 0,1:25:02.00,1:25:03.80,Default,NTP,0,0,0,,张嘴
+Dialogue: 0,1:25:13.30,1:25:15.10,Default,NTP,0,0,0,,去吧
+Dialogue: 0,1:25:20.40,1:25:23.60,Default,NTP,0,0,0,,饭也足了   肉也足了
+Dialogue: 0,1:25:23.80,1:25:26.30,Default,NTP,0,0,0,,要回去办事了
+Dialogue: 0,1:25:30.50,1:25:32.50,Default,NTP,0,0,0,,母亲保重
+Dialogue: 0,1:25:34.48,1:25:36.48,Default,NTP,0,0,0,,陛下慢行
+Dialogue: 0,1:25:48.80,1:25:50.30,Default,NTP,0,0,0,,候爷
+Dialogue: 0,1:25:51.20,1:25:53.20,Default,NTP,0,0,0,,请太后玉玺
+Dialogue: 0,1:25:53.40,1:25:57.30,Default,NTP,0,0,0,,那要太后亲自面谕小臣
+Dialogue: 0,1:26:05.54,1:26:09.55,Default,NTP,0,0,0,,陛下   陛下
+Dialogue: 0,1:26:19.56,1:26:21.56,Default,NTP,0,0,0,,陛下
+Dialogue: 0,1:27:00.50,1:27:02.20,Default,NTP,0,0,0,,参见候爷
+Dialogue: 0,1:28:37.48,1:28:39.48,Default,NTP,0,0,0,,母后有令
+Dialogue: 0,1:28:40.36,1:28:43.48,Default,NTP,0,0,0,,废秦王政   另立新王
+Dialogue: 0,1:28:44.00,1:28:48.50,Default,NTP,0,0,0,,擒奸王者   封万户侯
+Dialogue: 0,1:29:21.20,1:29:22.70,Default,NTP,0,0,0,,退
+Dialogue: 0,1:29:59.50,1:30:01.50,Default,NTP,0,0,0,,向西退
+Dialogue: 0,1:30:54.60,1:30:58.60,Default,NTP,0,0,0,,嫪毐   你降不降?
+Dialogue: 0,1:30:58.70,1:31:00.70,Default,NTP,0,0,0,,降不降?
+Dialogue: 0,1:31:05.70,1:31:07.20,Default,NTP,0,0,0,,不降
+Dialogue: 0,1:31:07.30,1:31:08.80,Default,NTP,0,0,0,,不降
+Dialogue: 0,1:31:08.90,1:31:09.90,Default,NTP,0,0,0,,杀
+Dialogue: 0,1:31:10.00,1:31:11.00,Default,NTP,0,0,0,,杀
+Dialogue: 0,1:31:23.00,1:31:24.80,Default,NTP,0,0,0,,我降
+Dialogue: 0,1:31:28.70,1:31:30.50,Default,NTP,0,0,0,,我降
+Dialogue: 0,1:31:32.00,1:31:35.45,Default,NTP,0,0,0,,不杀我的门客   我就降
+Dialogue: 0,1:31:48.50,1:31:52.30,Default,NTP,0,0,0,,嫪毐无端连累大家受害
+Dialogue: 0,1:31:52.80,1:31:55.60,Default,NTP,0,0,0,,还望大家好好听命
+Dialogue: 0,1:31:55.70,1:31:57.81,Default,NTP,0,0,0,,不要违抗
+Dialogue: 0,1:31:58.80,1:32:02.80,Default,NTP,0,0,0,,大王   会宽恕你们的
+Dialogue: 0,1:32:18.30,1:32:19.80,Default,NTP,0,0,0,,放下兵器
+Dialogue: 0,1:32:28.40,1:32:30.38,Default,NTP,0,0,0,,站起来
+Dialogue: 0,1:33:28.00,1:33:32.00,Default,NTP,0,0,0,,嬴政   你这个凶手
+Dialogue: 0,1:33:32.50,1:33:35.00,Default,NTP,0,0,0,,你是个凶手
+Dialogue: 0,1:33:52.00,1:33:54.20,Default,NTP,0,0,0,,- 娘      - 娘
+Dialogue: 0,1:33:56.78,1:34:00.36,Default,NTP,0,0,0,,政儿   你听我说
+Dialogue: 0,1:34:01.00,1:34:03.00,Default,NTP,0,0,0,,- 娘      - 娘
+Dialogue: 0,1:34:03.50,1:34:05.00,Default,NTP,0,0,0,,政儿
+Dialogue: 0,1:34:07.80,1:34:08.80,Default,NTP,0,0,0,,政儿
+Dialogue: 0,1:34:09.00,1:34:10.50,Default,NTP,0,0,0,,政儿
+Dialogue: 0,1:34:12.50,1:34:16.30,Default,NTP,0,0,0,,我答应你   答应你
+Dialogue: 0,1:34:17.10,1:34:20.80,Default,NTP,0,0,0,,他们可都是你的兄弟
+Dialogue: 0,1:34:21.20,1:34:22.80,Default,NTP,0,0,0,,- 娘      - 娘
+Dialogue: 0,1:34:28.80,1:34:30.30,Default,NTP,0,0,0,,你
+Dialogue: 0,1:34:30.40,1:34:35.30,Default,NTP,0,0,0,,你这个灭绝人性   丧尽天良的
+Dialogue: 0,1:34:36.50,1:34:41.50,Default,NTP,0,0,0,,你好好的掼(摔)死了我的儿
+Dialogue: 0,1:34:45.50,1:34:50.50,Default,NTP,0,0,0,,你这头   狼
+Dialogue: 0,1:35:17.57,1:35:21.00,Default,NTP,0,0,0,,我对不起你
+Dialogue: 0,1:35:22.50,1:35:25.50,Default,NTP,0,0,0,,孩子们
+Dialogue: 0,1:35:26.50,1:35:29.30,Default,NTP,0,0,0,,都死了
+Dialogue: 0,1:35:33.80,1:35:36.00,Default,NTP,0,0,0,,也好
+Dialogue: 0,1:35:38.50,1:35:40.50,Default,NTP,0,0,0,,都干净了
+Dialogue: 0,1:35:41.60,1:35:45.40,Default,NTP,0,0,0,,我对不起你呀
+Dialogue: 0,1:35:49.00,1:35:51.50,Default,NTP,0,0,0,,是我对不起你
+Dialogue: 0,1:35:54.50,1:35:57.80,Default,NTP,0,0,0,,我对不起我那两个儿子
+Dialogue: 0,1:35:59.80,1:36:03.00,Default,NTP,0,0,0,,现在事情败了
+Dialogue: 0,1:36:04.50,1:36:08.10,Default,NTP,0,0,0,,人都会以为我是贪恋富贵
+Dialogue: 0,1:36:08.60,1:36:10.90,Default,NTP,0,0,0,,才惹杀身之祸
+Dialogue: 0,1:36:12.70,1:36:17.20,Default,NTP,0,0,0,,岂不知不过是你想做我的女人
+Dialogue: 0,1:36:17.60,1:36:21.40,Default,NTP,0,0,0,,我想做你的男人
+Dialogue: 0,1:36:21.60,1:36:25.40,Default,NTP,0,0,0,,夫妻一样过日子
+Dialogue: 0,1:36:25.60,1:36:30.90,Default,NTP,0,0,0,,那在民间   有何不可?
+Dialogue: 0,1:36:33.80,1:36:39.00,Default,NTP,0,0,0,,偏你是母后   就难了
+Dialogue: 0,1:36:45.65,1:36:47.66,Default,NTP,0,0,0,,来世吧
+Dialogue: 0,1:36:55.48,1:36:56.80,Default,NTP,0,0,0,,不哭
+Dialogue: 0,1:36:59.60,1:37:05.20,Default,NTP,0,0,0,,一哭   倒像是咱们错了
+Dialogue: 0,1:37:13.28,1:37:14.72,Default,NTP,0,0,0,,保重
+Dialogue: 0,1:37:32.80,1:37:35.80,Default,NTP,0,0,0,,嫪毐   你知罪吗?
+Dialogue: 0,1:37:36.00,1:37:38.00,Default,NTP,0,0,0,,嫪毐无罪
+Dialogue: 0,1:37:40.90,1:37:45.40,Default,NTP,0,0,0,,你秽乱后宫   私生逆子
+Dialogue: 0,1:37:46.20,1:37:50.72,Default,NTP,0,0,0,,交通外国   蓄意谋反
+Dialogue: 0,1:37:51.80,1:37:54.70,Default,NTP,0,0,0,,你罪该万死了
+Dialogue: 0,1:37:54.90,1:37:56.90,Default,NTP,0,0,0,,谋反?
+Dialogue: 0,1:37:58.20,1:38:00.40,Default,NTP,0,0,0,,我谋反?
+Dialogue: 0,1:38:01.00,1:38:04.50,Default,NTP,0,0,0,,你才是真正谋反
+Dialogue: 0,1:38:08.20,1:38:12.50,Default,NTP,0,0,0,,当年秦公子异人   在赵国做人质
+Dialogue: 0,1:38:13.00,1:38:14.60,Default,NTP,0,0,0,,落难邯郸
+Dialogue: 0,1:38:14.70,1:38:19.68,Default,NTP,0,0,0,,商人吕不韦   把自己的侍妾送给异人
+Dialogue: 0,1:38:19.78,1:38:24.99,Default,NTP,0,0,0,,那侍妾去时   已有身孕   生下一个孩子
+Dialogue: 0,1:38:25.30,1:38:28.30,Default,NTP,0,0,0,,从小在赵国放马
+Dialogue: 0,1:38:29.50,1:38:33.50,Default,NTP,0,0,0,,而后   异人做了秦王
+Dialogue: 0,1:38:34.00,1:38:36.00,Default,NTP,0,0,0,,异人死后
+Dialogue: 0,1:38:36.50,1:38:39.30,Default,NTP,0,0,0,,那个放马的孩子
+Dialogue: 0,1:38:39.80,1:38:42.30,Default,NTP,0,0,0,,就做了秦王
+Dialogue: 0,1:38:45.80,1:38:49.80,Default,NTP,0,0,0,,大王还用问我谁是大王的生父吗?
+Dialogue: 0,1:38:49.90,1:38:53.80,Default,NTP,0,0,0,,可怜大王做了多少年秦王
+Dialogue: 0,1:38:53.90,1:38:58.60,Default,NTP,0,0,0,,竟不知道谁是自己的亲生父母
+Dialogue: 0,1:39:00.80,1:39:02.80,Default,NTP,0,0,0,,可怜呐
+Dialogue: 0,1:39:03.20,1:39:06.00,Default,NTP,0,0,0,,一个号令秦国上下公顷百姓
+Dialogue: 0,1:39:06.10,1:39:11.30,Default,NTP,0,0,0,,统领秦军扫灭六国的   竟不是秦人后裔
+Dialogue: 0,1:39:11.80,1:39:14.30,Default,NTP,0,0,0,,这还不是谋反?
+Dialogue: 0,1:39:17.50,1:39:19.30,Default,NTP,0,0,0,,你胡说
+Dialogue: 0,1:39:21.00,1:39:23.50,Default,NTP,0,0,0,,你胡说
+Dialogue: 0,1:39:26.60,1:39:28.20,Default,NTP,0,0,0,,疯了
+Dialogue: 0,1:39:28.30,1:39:32.60,Default,NTP,0,0,0,,嬴政   你这个杂种
+Dialogue: 0,1:39:32.80,1:39:35.80,Default,NTP,0,0,0,,你问问你老子去吧
+Dialogue: 0,1:39:46.78,1:39:48.78,Default,NTP,0,0,0,,你们去吧
+Dialogue: 0,1:39:56.10,1:39:58.10,Default,NTP,0,0,0,,少宗伯
+Dialogue: 0,1:39:59.10,1:40:00.90,Default,NTP,0,0,0,,小臣在
+Dialogue: 0,1:40:01.70,1:40:05.70,Default,NTP,0,0,0,,寡人   是谁的儿子?
+Dialogue: 0,1:40:06.20,1:40:09.80,Default,NTP,0,0,0,,大王是秦庄襄王的儿子
+Dialogue: 0,1:40:10.30,1:40:13.00,Default,NTP,0,0,0,,大王没有第二个父亲
+Dialogue: 0,1:40:16.50,1:40:18.50,Default,NTP,0,0,0,,知道了
+Dialogue: 0,1:40:19.00,1:40:21.00,Default,NTP,0,0,0,,谢谢
+Dialogue: 0,1:40:25.30,1:40:27.30,Default,NTP,0,0,0,,樊於期
+Dialogue: 0,1:40:28.50,1:40:30.00,Default,NTP,0,0,0,,臣在
+Dialogue: 0,1:40:30.50,1:40:34.50,Default,NTP,0,0,0,,传命   车裂嫪毐
+Dialogue: 0,1:40:34.60,1:40:38.20,Default,NTP,0,0,0,,放逐太后至鄞地
+Dialogue: 0,1:40:38.30,1:40:41.30,Default,NTP,0,0,0,,永远夺去封号
+Dialogue: 0,1:40:41.50,1:40:44.50,Default,NTP,0,0,0,,不准回咸阳
+Dialogue: 0,1:40:45.00,1:40:48.00,Default,NTP,0,0,0,,把宫门关了
+Dialogue: 0,1:40:48.50,1:40:54.00,Default,NTP,0,0,0,,今天在的人   一个也不准留
+Dialogue: 0,1:41:17.80,1:41:20.70,Default,NTP,0,0,0,,吕不韦   你知罪吗?
+Dialogue: 0,1:41:20.80,1:41:24.80,Default,NTP,0,0,0,,吕不韦   当然知罪
+Dialogue: 0,1:41:25.50,1:41:29.50,Default,NTP,0,0,0,,如果秦王赢政是我的儿子
+Dialogue: 0,1:41:29.67,1:41:33.68,Default,NTP,0,0,0,,他就不能再做秦王
+Dialogue: 0,1:41:34.20,1:41:38.20,Default,NTP,0,0,0,,所以老夫有罪
+Dialogue: 0,1:41:38.65,1:41:41.50,Default,NTP,0,0,0,,是这样的吧?
+Dialogue: 0,1:41:41.65,1:41:43.40,Default,NTP,0,0,0,,秦王政不是你的儿子
+Dialogue: 0,1:41:43.50,1:41:47.50,Default,NTP,0,0,0,,秦王政是秦庄襄王的儿子
+Dialogue: 0,1:41:51.50,1:41:52.50,Default,NTP,0,0,0,,哼
+Dialogue: 0,1:41:55.00,1:41:57.00,Default,NTP,0,0,0,,说得不错
+Dialogue: 0,1:41:58.00,1:42:01.97,Default,NTP,0,0,0,,可如果秦王赢政不是我的儿子
+Dialogue: 0,1:42:02.86,1:42:05.83,Default,NTP,0,0,0,,又为什么要杀我?
+Dialogue: 0,1:42:05.86,1:42:08.36,Default,NTP,0,0,0,,而且是在秦国的祖庙里
+Dialogue: 0,1:42:08.80,1:42:09.80,Default,NTP,0,0,0,,相国
+Dialogue: 0,1:42:09.90,1:42:11.40,Default,NTP,0,0,0,,好
+Dialogue: 0,1:42:18.00,1:42:20.00,Default,NTP,0,0,0,,不用多说了
+Dialogue: 0,1:42:23.50,1:42:25.50,Default,NTP,0,0,0,,就杀了我吧
+Dialogue: 0,1:42:25.60,1:42:26.90,Default,NTP,0,0,0,,陛下
+Dialogue: 0,1:42:27.00,1:42:31.80,Default,NTP,0,0,0,,相国功比天高   断不可杀
+Dialogue: 0,1:42:32.00,1:42:35.50,Default,NTP,0,0,0,,臣为相国请免
+Dialogue: 0,1:42:37.00,1:42:38.40,Default,NTP,0,0,0,,陛下
+Dialogue: 0,1:42:38.50,1:42:40.00,Default,NTP,0,0,0,,相国
+Dialogue: 0,1:42:41.10,1:42:42.20,Default,NTP,0,0,0,,滚出去
+Dialogue: 0,1:42:42.30,1:42:43.50,Default,NTP,0,0,0,,滚出去
+Dialogue: 0,1:42:49.40,1:42:51.10,Default,NTP,0,0,0,,相国
+Dialogue: 0,1:42:52.20,1:42:57.50,Default,NTP,0,0,0,,只要你告诉天下人   我不是你儿子
+Dialogue: 0,1:42:58.50,1:43:01.80,Default,NTP,0,0,0,,你杀了我就是告诉天下人
+Dialogue: 0,1:43:01.90,1:43:04.90,Default,NTP,0,0,0,,你不是我的儿子
+Dialogue: 0,1:43:05.90,1:43:10.40,Default,NTP,0,0,0,,你也只有杀了我才能让天下人相信
+Dialogue: 0,1:43:14.50,1:43:17.50,Default,NTP,0,0,0,,你不是我的儿子
+Dialogue: 0,1:43:21.80,1:43:28.30,Default,NTP,0,0,0,,因为儿子   是不会杀自己的父亲的
+Dialogue: 0,1:43:28.80,1:43:29.80,Default,NTP,0,0,0,,不
+Dialogue: 0,1:43:30.70,1:43:32.20,Default,NTP,0,0,0,,不
+Dialogue: 0,1:43:33.50,1:43:35.50,Default,NTP,0,0,0,,我不杀你
+Dialogue: 0,1:43:36.80,1:43:40.80,Default,NTP,0,0,0,,我只要你告诉天下人
+Dialogue: 0,1:43:41.50,1:43:44.00,Default,NTP,0,0,0,,我不是你儿子
+Dialogue: 0,1:43:44.40,1:43:46.40,Default,NTP,0,0,0,,等天下大定
+Dialogue: 0,1:43:46.50,1:43:49.00,Default,NTP,0,0,0,,天下不定
+Dialogue: 0,1:43:50.80,1:43:53.80,Default,NTP,0,0,0,,你就没有父亲了吗?
+Dialogue: 0,1:44:00.80,1:44:04.30,Default,NTP,0,0,0,,你为什么不早告诉我?
+Dialogue: 0,1:44:14.00,1:44:18.00,Default,NTP,0,0,0,,因为我想让你做王
+Dialogue: 0,1:44:22.50,1:44:26.00,Default,NTP,0,0,0,,做天下的王
+Dialogue: 0,1:44:34.00,1:44:36.50,Default,NTP,0,0,0,,我不会杀你
+Dialogue: 0,1:44:38.50,1:44:41.00,Default,NTP,0,0,0,,我要让你养老
+Dialogue: 0,1:44:41.50,1:44:44.00,Default,NTP,0,0,0,,让你帮我统一天下
+Dialogue: 0,1:44:44.20,1:44:46.70,Default,NTP,0,0,0,,让你写完您的书
+Dialogue: 0,1:44:46.80,1:44:48.40,Default,NTP,0,0,0,,《吕氏春秋》
+Dialogue: 0,1:44:48.50,1:44:51.50,Default,NTP,0,0,0,,《吕氏春秋》
+Dialogue: 0,1:44:52.00,1:44:56.00,Default,NTP,0,0,0,,我要让秦国的后人   天下的后人
+Dialogue: 0,1:44:56.50,1:44:59.00,Default,NTP,0,0,0,,都知道你的名字
+Dialogue: 0,1:44:59.50,1:45:02.50,Default,NTP,0,0,0,,记住你的名字
+Dialogue: 0,1:45:04.00,1:45:08.00,Default,NTP,0,0,0,,记住你的名字
+Dialogue: 0,1:45:09.00,1:45:12.00,Default,NTP,0,0,0,,记住你的名字
+Dialogue: 0,1:45:12.10,1:45:13.90,Default,NTP,0,0,0,,秦王赢政
+Dialogue: 0,1:45:14.00,1:45:19.00,Default,NTP,0,0,0,,你忘记了秦国世代先君   一统天下的大愿了吗?
+Dialogue: 0,1:45:19.10,1:45:20.60,Default,NTP,0,0,0,,没忘
+Dialogue: 0,1:45:25.50,1:45:27.50,Default,NTP,0,0,0,,我忘了吗?
+Dialogue: 0,1:45:28.80,1:45:33.30,Default,NTP,0,0,0,,我生下来就是人质   谁帮过我?
+Dialogue: 0,1:45:33.50,1:45:36.40,Default,NTP,0,0,0,,赵人把口水吐在先王的脸上
+Dialogue: 0,1:45:36.50,1:45:39.00,Default,NTP,0,0,0,,马鞭抽在我的身上
+Dialogue: 0,1:45:39.10,1:45:41.10,Default,NTP,0,0,0,,那时秦人在哪儿?
+Dialogue: 0,1:45:41.20,1:45:44.10,Default,NTP,0,0,0,,历代先君在哪儿?
+Dialogue: 0,1:45:45.20,1:45:48.70,Default,NTP,0,0,0,,没有饮食   没有衣服
+Dialogue: 0,1:45:48.80,1:45:51.30,Default,NTP,0,0,0,,秦人给了我什么?
+Dialogue: 0,1:45:53.20,1:45:55.20,Default,NTP,0,0,0,,这个人
+Dialogue: 0,1:45:58.00,1:46:02.50,Default,NTP,0,0,0,,照顾了我   照顾了先王
+Dialogue: 0,1:46:03.00,1:46:07.00,Default,NTP,0,0,0,,把我们一家带到秦国
+Dialogue: 0,1:46:08.00,1:46:11.50,Default,NTP,0,0,0,,我坐在他膝上
+Dialogue: 0,1:46:12.50,1:46:16.00,Default,NTP,0,0,0,,他教了我第一个字
+Dialogue: 0,1:46:16.50,1:46:21.20,Default,NTP,0,0,0,,第一个字是   王
+Dialogue: 0,1:46:22.30,1:46:25.30,Default,NTP,0,0,0,,他教了我怎么做王
+Dialogue: 0,1:46:27.30,1:46:29.00,Default,NTP,0,0,0,,不能杀他
+Dialogue: 0,1:46:29.50,1:46:32.00,Default,NTP,0,0,0,,谁也不能杀他
+Dialogue: 0,1:46:32.10,1:46:36.00,Default,NTP,0,0,0,,陛下   那就请杀了小臣
+Dialogue: 0,1:46:36.20,1:46:40.70,Default,NTP,0,0,0,,可同样的话   小臣死了   还是会有人问的
+Dialogue: 0,1:46:44.10,1:46:46.60,Default,NTP,0,0,0,,我杀不了他
+Dialogue: 0,1:46:51.20,1:46:53.70,Default,NTP,0,0,0,,我杀不了他
+Dialogue: 0,1:46:54.20,1:46:56.70,Default,NTP,0,0,0,,我朕都杀不了他
+Dialogue: 0,1:46:57.50,1:46:59.50,Default,NTP,0,0,0,,秦王赢政
+Dialogue: 0,1:47:00.30,1:47:04.20,Default,NTP,0,0,0,,你真的忘记了一统天下的大愿了吗?
+Dialogue: 0,1:47:45.10,1:47:46.40,Default,NTP,0,0,0,,陛下
+Dialogue: 0,1:48:22.80,1:48:24.80,Default,NTP,0,0,0,,父亲
+Dialogue: 0,1:48:40.00,1:48:43.30,Default,NTP,0,0,0,,昭告天下
+Dialogue: 0,1:48:45.00,1:48:52.00,Default,NTP,0,0,0,,吕不韦   是个叛逆
+Dialogue: 0,1:48:53.00,1:48:56.50,Default,NTP,0,0,0,,夺去封号食邑
+Dialogue: 0,1:48:58.50,1:49:01.50,Default,NTP,0,0,0,,诛灭九族
+Dialogue: 0,1:49:38.80,1:49:41.80,Default,NTP,0,0,0,,吾王万岁
+Dialogue: 0,1:49:41.90,1:49:43.70,Default,NTP,0,0,0,,万岁
+Dialogue: 0,1:49:43.80,1:49:45.70,Default,NTP,0,0,0,,万岁
+Dialogue: 0,1:49:45.80,1:49:47.70,Default,NTP,0,0,0,,万岁
+Dialogue: 0,1:49:47.90,1:49:50.90,Default,NTP,0,0,0,,万万岁
+Dialogue: 0,1:49:54.80,1:49:56.30,Default,NTP,0,0,0,,王翦
+Dialogue: 0,1:49:56.80,1:49:58.30,Default,NTP,0,0,0,,臣在
+Dialogue: 0,1:49:59.72,1:50:02.28,Default,NTP,0,0,0,,我要报仇了
+Dialogue: 0,1:50:02.36,1:50:03.96,Default,NTP,0,0,0,,是
+Dialogue: 0,1:50:04.60,1:50:06.80,Default,NTP,0,0,0,,灭赵
+Dialogue: 0,1:51:15.80,1:51:16.80,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,1:51:16.90,1:51:19.80,Default,NTP,0,0,0,,秦军强行压境   国将不国
+Dialogue: 0,1:51:19.90,1:51:21.70,Default,NTP,0,0,0,,你一天武也不习
+Dialogue: 0,1:51:21.80,1:51:24.70,Default,NTP,0,0,0,,成天做些妇女小人之事
+Dialogue: 0,1:51:24.80,1:51:26.90,Default,NTP,0,0,0,,你到底是什么意思?   你还去不去咸阳?
+Dialogue: 0,1:51:27.00,1:51:28.50,Default,NTP,0,0,0,,樊将军请
+Dialogue: 0,1:51:28.60,1:51:30.60,Default,NTP,0,0,0,,我引你见见荆轲
+Dialogue: 0,1:51:30.70,1:51:33.00,Default,NTP,0,0,0,,- 是      - 你竟敢辜负太子
+Dialogue: 0,1:51:33.10,1:51:36.00,Default,NTP,0,0,0,,凭你这样   太子大仇   何时得报?
+Dialogue: 0,1:51:37.00,1:51:38.50,Default,NTP,0,0,0,,说
+Dialogue: 0,1:51:38.78,1:51:40.78,Default,NTP,0,0,0,,- 说话      - 说
+Dialogue: 0,1:51:45.00,1:51:46.80,Default,NTP,0,0,0,,无礼
+Dialogue: 0,1:51:50.80,1:51:53.00,Default,NTP,0,0,0,,此人便是荆轲
+Dialogue: 0,1:51:53.80,1:51:56.30,Default,NTP,0,0,0,,来到我这里   手不起剑
+Dialogue: 0,1:51:56.50,1:51:58.50,Default,NTP,0,0,0,,所以闹僵了
+Dialogue: 0,1:51:58.60,1:52:01.80,Default,NTP,0,0,0,,我一直想杀了你
+Dialogue: 0,1:52:02.70,1:52:05.50,Default,NTP,0,0,0,,可你手里没有剑
+Dialogue: 0,1:52:05.70,1:52:08.20,Default,NTP,0,0,0,,我不杀没有剑的人
+Dialogue: 0,1:52:08.50,1:52:10.50,Default,NTP,0,0,0,,拿着
+Dialogue: 0,1:52:13.00,1:52:15.00,Default,NTP,0,0,0,,放肆
+Dialogue: 0,1:52:15.50,1:52:19.00,Default,NTP,0,0,0,,荆轲   过来见见樊将军
+Dialogue: 0,1:52:20.00,1:52:23.50,Default,NTP,0,0,0,,派刺客杀秦王这件事
+Dialogue: 0,1:52:27.50,1:52:30.50,Default,NTP,0,0,0,,不能指望武器帮忙
+Dialogue: 0,1:52:32.00,1:52:33.00,Default,NTP,0,0,0,,樊将军
+Dialogue: 0,1:52:33.10,1:52:38.40,Default,NTP,0,0,0,,我   离秦   不叛秦
+Dialogue: 0,1:52:38.60,1:52:40.60,Default,NTP,0,0,0,,望太子见谅
+Dialogue: 0,1:52:40.80,1:52:43.30,Default,NTP,0,0,0,,你是个叛贼
+Dialogue: 0,1:52:43.50,1:52:45.20,Default,NTP,0,0,0,,- 国贼      - 你是叛贼
+Dialogue: 0,1:52:45.30,1:52:46.70,Default,NTP,0,0,0,,什么离秦不叛秦
+Dialogue: 0,1:52:46.80,1:52:48.30,Default,NTP,0,0,0,,诸君
+Dialogue: 0,1:52:48.85,1:52:52.86,Default,NTP,0,0,0,,樊将军是燕国的客人
+Dialogue: 0,1:53:05.80,1:53:07.90,Default,NTP,0,0,0,,赵国使臣到了
+Dialogue: 0,1:53:08.50,1:53:12.50,Default,NTP,0,0,0,,秦军离邯郸只有一百里
+Dialogue: 0,1:53:13.00,1:53:15.01,Default,NTP,0,0,0,,失陪
+Dialogue: 0,1:53:16.10,1:53:17.60,Default,NTP,0,0,0,,赵使呢?
+Dialogue: 0,1:53:17.70,1:53:19.20,Default,NTP,0,0,0,,赵使?
+Dialogue: 0,1:53:19.30,1:53:20.80,Default,NTP,0,0,0,,在
+Dialogue: 0,1:53:25.00,1:53:29.50,Default,NTP,0,0,0,,太子   夫人   救救赵国吧   救救赵国吧
+Dialogue: 0,1:53:29.60,1:53:32.60,Default,NTP,0,0,0,,说   邯郸情形怎样?
+Dialogue: 0,1:53:32.70,1:53:38.80,Default,NTP,0,0,0,,赵王将城中儿童   无分男女
+Dialogue: 0,1:53:38.90,1:53:42.40,Default,NTP,0,0,0,,一律囚在祖庙
+Dialogue: 0,1:53:42.90,1:53:48.90,Default,NTP,0,0,0,,待秦军攻城之日  带上城头
+Dialogue: 0,1:53:49.90,1:53:57.60,Default,NTP,0,0,0,,全体殉国   自己断绝赵国的后代
+Dialogue: 0,1:54:00.00,1:54:05.00,Default,NTP,0,0,0,,夫人   数十年后
+Dialogue: 0,1:54:05.80,1:54:08.80,Default,NTP,0,0,0,,无赵人了
+Dialogue: 0,1:54:10.80,1:54:15.80,Default,NTP,0,0,0,,数十年后无赵人了
+Dialogue: 0,1:54:16.30,1:54:18.80,Default,NTP,0,0,0,,贼杀抄的赢政
+Dialogue: 0,1:54:20.30,1:54:23.00,Default,NTP,0,0,0,,我一早就说他歹毒
+Dialogue: 0,1:54:23.60,1:54:26.06,Default,NTP,0,0,0,,母后离开咸阳的时候
+Dialogue: 0,1:54:27.00,1:54:29.00,Default,NTP,0,0,0,,问到我了吗?
+Dialogue: 0,1:54:30.09,1:54:32.09,Default,NTP,0,0,0,,夜里送走的
+Dialogue: 0,1:54:34.99,1:54:36.99,Default,NTP,0,0,0,,谁也没见到
+Dialogue: 0,1:54:42.50,1:54:44.40,Default,NTP,0,0,0,,没想到会出这样的事
+Dialogue: 0,1:54:44.50,1:54:46.50,Default,NTP,0,0,0,,夫人要是在
+Dialogue: 0,1:54:50.00,1:54:52.00,Default,NTP,0,0,0,,就好了
+Dialogue: 0,1:54:57.30,1:54:59.00,Default,NTP,0,0,0,,樊於期
+Dialogue: 0,1:54:59.90,1:55:01.60,Default,NTP,0,0,0,,在
+Dialogue: 0,1:55:02.80,1:55:06.30,Default,NTP,0,0,0,,太子已经答应去救赵国
+Dialogue: 0,1:55:09.80,1:55:11.80,Default,NTP,0,0,0,,我这就去邯郸
+Dialogue: 0,1:55:11.90,1:55:13.90,Default,NTP,0,0,0,,去见赵王
+Dialogue: 0,1:55:14.00,1:55:17.00,Default,NTP,0,0,0,,请求他保全赵国的后代
+Dialogue: 0,1:55:19.50,1:55:21.70,Default,NTP,0,0,0,,我也要去见大王
+Dialogue: 0,1:55:22.00,1:55:26.41,Default,NTP,0,0,0,,大王和夫人在的时候
+Dialogue: 0,1:55:28.51,1:55:30.52,Default,NTP,0,0,0,,不一样了
+Dialogue: 0,1:55:32.30,1:55:34.40,Default,NTP,0,0,0,,他一定会听我的
+Dialogue: 0,1:55:46.00,1:55:48.00,Default,NTP,0,0,0,,恭送夫人
+Dialogue: 0,1:55:57.30,1:55:58.60,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,1:56:00.40,1:56:03.40,Default,NTP,0,0,0,,我就要去赵国了
+Dialogue: 0,1:56:06.50,1:56:09.30,Default,NTP,0,0,0,,我知道你要去赵国了
+Dialogue: 0,1:56:09.50,1:56:13.00,Default,NTP,0,0,0,,你就没有什么话要跟我说吗?
+Dialogue: 0,1:56:13.30,1:56:15.30,Default,NTP,0,0,0,,你不送送我?
+Dialogue: 0,1:56:15.45,1:56:17.56,Default,NTP,0,0,0,,我不去送你
+Dialogue: 0,1:56:19.30,1:56:22.30,Default,NTP,0,0,0,,因为我不愿对你说假话
+Dialogue: 0,1:56:22.57,1:56:24.55,Default,NTP,0,0,0,,你
+Dialogue: 0,1:56:27.57,1:56:29.58,Default,NTP,0,0,0,,救不了赵国
+Dialogue: 0,1:56:31.40,1:56:33.60,Default,NTP,0,0,0,,可我知道
+Dialogue: 0,1:56:34.40,1:56:36.60,Default,NTP,0,0,0,,你不能不去
+Dialogue: 0,1:56:37.50,1:56:41.00,Default,NTP,0,0,0,,因为你是赵人
+Dialogue: 0,1:56:42.00,1:56:47.80,Default,NTP,0,0,0,,赵   是你的   祖国
+Dialogue: 0,1:56:51.50,1:56:55.00,Default,NTP,0,0,0,,你就   尽力去做吧
+Dialogue: 0,1:58:07.00,1:58:08.50,Default,NTP,0,0,0,,夫人
+Dialogue: 0,1:58:08.80,1:58:10.30,Default,NTP,0,0,0,,夫人
+Dialogue: 0,1:58:17.00,1:58:20.90,Default,NTP,0,0,0,,禀夫人   邯郸城外数十里都被秦军占住
+Dialogue: 0,1:58:21.00,1:58:23.00,Default,NTP,0,0,0,,道路四周断绝
+Dialogue: 0,1:58:23.10,1:58:26.10,Default,NTP,0,0,0,,城   一定是进不去了
+Dialogue: 0,1:58:28.50,1:58:30.50,Default,NTP,0,0,0,,太子
+Dialogue: 0,1:58:31.00,1:58:33.00,Default,NTP,0,0,0,,太子到哪儿了?
+Dialogue: 0,1:58:45.00,1:58:47.00,Default,NTP,0,0,0,,邯郸完了
+Dialogue: 0,1:58:53.00,1:58:53.50,Default,NTP,0,0,0,,传令
+Dialogue: 0,1:58:53.60,1:58:55.40,Default,NTP,0,0,0,,退五十里扎营
+Dialogue: 0,1:58:55.50,1:58:59.80,Default,NTP,0,0,0,,太子   天快黑了   趁其不备   我们可以突然一击
+Dialogue: 0,1:59:27.50,1:59:29.00,Default,NTP,0,0,0,,赵女
+Dialogue: 0,1:59:30.00,1:59:34.00,Default,NTP,0,0,0,,我把赵国   打下来了
+Dialogue: 0,1:59:34.60,1:59:37.15,Default,NTP,0,0,0,,邯郸已经成了孤城一座
+Dialogue: 0,1:59:37.25,1:59:40.80,Default,NTP,0,0,0,,明天   我就要攻城了
+Dialogue: 0,1:59:41.00,1:59:43.00,Default,NTP,0,0,0,,燕国的刺客?
+Dialogue: 0,1:59:46.98,1:59:48.98,Default,NTP,0,0,0,,我真傻
+Dialogue: 0,1:59:50.90,1:59:53.20,Default,NTP,0,0,0,,我以为有了你
+Dialogue: 0,1:59:53.90,1:59:56.90,Default,NTP,0,0,0,,百姓就可以不用再流血
+Dialogue: 0,1:59:57.00,1:59:58.80,Default,NTP,0,0,0,,可我一路上看见
+Dialogue: 0,1:59:58.90,2:00:02.90,Default,NTP,0,0,0,,是你的军队   把人吊在房梁上绞死
+Dialogue: 0,2:00:03.00,2:00:05.80,Default,NTP,0,0,0,,绑在柱子上射死
+Dialogue: 0,2:00:06.00,2:00:09.98,Default,NTP,0,0,0,,把村庄夷为平地   城池烧成废墟
+Dialogue: 0,2:00:10.10,2:00:12.80,Default,NTP,0,0,0,,这些都是你干的
+Dialogue: 0,2:00:13.00,2:00:16.50,Default,NTP,0,0,0,,你跟那些王有什么不同?
+Dialogue: 0,2:00:18.98,2:00:20.98,Default,NTP,0,0,0,,我真傻
+Dialogue: 0,2:00:26.00,2:00:30.50,Default,NTP,0,0,0,,可这是   赵国
+Dialogue: 0,2:00:32.50,2:00:35.80,Default,NTP,0,0,0,,赵国   不同
+Dialogue: 0,2:00:36.00,2:00:38.00,Default,NTP,0,0,0,,你答应过我
+Dialogue: 0,2:00:39.00,2:00:40.80,Default,NTP,0,0,0,,要救助天下的百姓
+Dialogue: 0,2:00:42.00,2:00:45.00,Default,NTP,0,0,0,,看看我的脸
+Dialogue: 0,2:00:46.01,2:00:49.98,Default,NTP,0,0,0,,你现在记起来了吧?
+Dialogue: 0,2:00:55.50,2:00:58.00,Default,NTP,0,0,0,,赵国不同
+Dialogue: 0,2:01:01.00,2:01:05.50,Default,NTP,0,0,0,,赵人   欺侮我的父亲   差辱我的母亲
+Dialogue: 0,2:01:06.00,2:01:11.40,Default,NTP,0,0,0,,他们让秦国的王孙   给他们做马夫
+Dialogue: 0,2:01:11.50,2:01:14.50,Default,NTP,0,0,0,,可你的母亲   是赵人
+Dialogue: 0,2:01:16.30,2:01:21.30,Default,NTP,0,0,0,,赵国   有人在你受难的时候帮助过你
+Dialogue: 0,2:01:26.30,2:01:31.00,Default,NTP,0,0,0,,你过去的名字   叫赵政
+Dialogue: 0,2:01:36.80,2:01:38.20,Default,NTP,0,0,0,,陛下
+Dialogue: 0,2:01:39.20,2:01:42.70,Default,NTP,0,0,0,,只要你心里还有怨恨
+Dialogue: 0,2:01:42.80,2:01:46.00,Default,NTP,0,0,0,,你就不能成为天下的王
+Dialogue: 0,2:01:47.00,2:01:51.80,Default,NTP,0,0,0,,天下的王   要爱天下的人
+Dialogue: 0,2:01:52.00,2:01:58.20,Default,NTP,0,0,0,,天下的人   不管从哪个国家来   都是你的臣民
+Dialogue: 0,2:01:59.80,2:02:04.80,Default,NTP,0,0,0,,赵王已经下令   要杀死赵国的孩子
+Dialogue: 0,2:02:05.50,2:02:08.20,Default,NTP,0,0,0,,如果你去解救他们
+Dialogue: 0,2:02:08.30,2:02:11.60,Default,NTP,0,0,0,,不再滥杀无辜
+Dialogue: 0,2:02:11.70,2:02:15.20,Default,NTP,0,0,0,,你就还会得到赵国人的爱
+Dialogue: 0,2:02:15.40,2:02:17.70,Default,NTP,0,0,0,,天下人的爱
+Dialogue: 0,2:02:23.60,2:02:25.70,Default,NTP,0,0,0,,你答应我吗?
+Dialogue: 0,2:02:31.00,2:02:33.00,Default,NTP,0,0,0,,我答应你
+Dialogue: 0,2:02:34.00,2:02:36.00,Default,NTP,0,0,0,,我答应你
+Dialogue: 0,2:02:40.00,2:02:44.00,Default,NTP,0,0,0,,赵女   我不让你走了
+Dialogue: 0,2:02:44.80,2:02:47.30,Default,NTP,0,0,0,,我再也不让你走了
+Dialogue: 0,2:02:53.20,2:02:55.20,Default,NTP,0,0,0,,我是赵人
+Dialogue: 0,2:02:56.50,2:03:01.50,Default,NTP,0,0,0,,我不能看着秦国的军队   打进赵国的都城
+Dialogue: 0,2:03:36.30,2:03:39.50,Default,NTP,0,0,0,,夫人   这是大军埋锅造饭的地方
+Dialogue: 0,2:03:40.30,2:03:43.00,Default,NTP,0,0,0,,他们来的时候走的不是这条路
+Dialogue: 0,2:03:43.50,2:03:46.00,Default,NTP,0,0,0,,太子一定是退兵了
+Dialogue: 0,2:03:50.00,2:03:53.00,Default,NTP,0,0,0,,回去   回邯郸
+Dialogue: 0,2:04:35.50,2:04:37.50,Default,NTP,0,0,0,,孩子们
+Dialogue: 0,2:04:39.30,2:04:41.30,Default,NTP,0,0,0,,到时候了
+Dialogue: 0,2:04:42.80,2:04:44.80,Default,NTP,0,0,0,,该跳了
+Dialogue: 0,2:05:05.39,2:05:09.46,Default,NTP,0,0,0,,孩子们   快跳   跳啊
+Dialogue: 0,2:05:12.00,2:05:13.50,Default,NTP,0,0,0,,快跳
+Dialogue: 0,2:05:56.50,2:05:58.50,Default,NTP,0,0,0,,快跑
+Dialogue: 0,2:05:59.40,2:06:01.30,Default,NTP,0,0,0,,快跑
+Dialogue: 0,2:06:02.00,2:06:05.00,Default,NTP,0,0,0,,跳   快跳   快
+Dialogue: 0,2:06:19.80,2:06:20.80,Default,NTP,0,0,0,,孩子
+Dialogue: 0,2:06:20.90,2:06:22.40,Default,NTP,0,0,0,,快走啊
+Dialogue: 0,2:06:22.50,2:06:24.50,Default,NTP,0,0,0,,快走
+Dialogue: 0,2:07:07.80,2:07:11.80,Default,NTP,0,0,0,,赵国永远不降
+Dialogue: 0,2:08:38.00,2:08:39.70,Default,NTP,0,0,0,,王翦
+Dialogue: 0,2:08:39.80,2:08:41.50,Default,NTP,0,0,0,,臣在
+Dialogue: 0,2:08:42.00,2:08:45.00,Default,NTP,0,0,0,,这些就是赵国的孩子?
+Dialogue: 0,2:08:45.10,2:08:46.60,Default,NTP,0,0,0,,是
+Dialogue: 0,2:08:50.00,2:08:52.00,Default,NTP,0,0,0,,放他们去吧
+Dialogue: 0,2:08:52.10,2:08:53.30,Default,NTP,0,0,0,,遵命
+Dialogue: 0,2:08:59.50,2:09:01.30,Default,NTP,0,0,0,,拿着
+Dialogue: 0,2:09:29.20,2:09:30.80,Default,NTP,0,0,0,,王翦
+Dialogue: 0,2:09:30.90,2:09:32.60,Default,NTP,0,0,0,,臣在
+Dialogue: 0,2:09:35.80,2:09:38.90,Default,NTP,0,0,0,,当年我随先王回秦的时候
+Dialogue: 0,2:09:39.00,2:09:42.70,Default,NTP,0,0,0,,赵王曾派兵车追赶
+Dialogue: 0,2:09:43.00,2:09:46.50,Default,NTP,0,0,0,,他是怕我会报仇
+Dialogue: 0,2:09:52.80,2:09:55.80,Default,NTP,0,0,0,,现在   我也害怕
+Dialogue: 0,2:09:58.80,2:10:01.30,Default,NTP,0,0,0,,臣   明白了
+Dialogue: 0,2:11:16.70,2:11:19.70,Default,NTP,0,0,0,,起来   起来
+Dialogue: 0,2:11:21.00,2:11:24.50,Default,NTP,0,0,0,,夫人   这儿有
+Dialogue: 0,2:11:25.70,2:11:27.70,Default,NTP,0,0,0,,这儿还有
+Dialogue: 0,2:11:27.80,2:11:29.30,Default,NTP,0,0,0,,不
+Dialogue: 0,2:11:35.40,2:11:39.40,Default,NTP,0,0,0,,夫人   是秦军的绳索
+Dialogue: 0,2:11:39.60,2:11:43.60,Default,NTP,0,0,0,,是他们   给孩子活埋了
+Dialogue: 0,2:11:46.60,2:11:48.40,Default,NTP,0,0,0,,夫人
+Dialogue: 0,2:11:48.50,2:11:50.50,Default,NTP,0,0,0,,夫人
+Dialogue: 0,2:11:58.50,2:12:01.30,Default,NTP,0,0,0,,天杀的嬴政
+Dialogue: 0,2:12:04.80,2:12:07.00,Default,NTP,0,0,0,,天杀的嬴政
+Dialogue: 0,2:12:45.60,2:12:47.80,Default,NTP,0,0,0,,你病了
+Dialogue: 0,2:12:52.00,2:12:55.00,Default,NTP,0,0,0,,你已经睡了五天了
+Dialogue: 0,2:13:02.50,2:13:04.50,Default,NTP,0,0,0,,这么久了
+Dialogue: 0,2:13:05.00,2:13:10.00,Default,NTP,0,0,0,,你死了   又活过来了
+Dialogue: 0,2:13:12.00,2:13:15.00,Default,NTP,0,0,0,,我不想活过来
+Dialogue: 0,2:13:19.30,2:13:21.80,Default,NTP,0,0,0,,我想回赵国
+Dialogue: 0,2:13:26.00,2:13:30.00,Default,NTP,0,0,0,,想跟那些孩子在一起
+Dialogue: 0,2:13:32.70,2:13:34.50,Default,NTP,0,0,0,,我知道
+Dialogue: 0,2:13:36.70,2:13:38.50,Default,NTP,0,0,0,,我有错
+Dialogue: 0,2:13:43.30,2:13:47.30,Default,NTP,0,0,0,,我是一个罪人
+Dialogue: 0,2:14:20.60,2:14:25.20,Default,NTP,0,0,0,,你从秦国来   知道秦王
+Dialogue: 0,2:14:25.90,2:14:27.90,Default,NTP,0,0,0,,他是个什么人?
+Dialogue: 0,2:14:28.00,2:14:31.00,Default,NTP,0,0,0,,他是天下的王
+Dialogue: 0,2:14:32.50,2:14:35.30,Default,NTP,0,0,0,,可他杀了很多人
+Dialogue: 0,2:14:35.50,2:14:39.60,Default,NTP,0,0,0,,你就是为这件事情   离开他?
+Dialogue: 0,2:14:43.50,2:14:45.00,Default,NTP,0,0,0,,是
+Dialogue: 0,2:14:45.10,2:14:50.10,Default,NTP,0,0,0,,燕国的国士杀秦王   可不可以?
+Dialogue: 0,2:14:52.40,2:14:53.90,Default,NTP,0,0,0,,为什么?
+Dialogue: 0,2:14:54.00,2:14:56.50,Default,NTP,0,0,0,,喜怒形于色
+Dialogue: 0,2:15:12.60,2:15:15.90,Default,NTP,0,0,0,,荆轲   你也要去刺秦吗?
+Dialogue: 0,2:15:16.00,2:15:18.00,Default,NTP,0,0,0,,你的剑呢?
+Dialogue: 0,2:15:18.20,2:15:22.00,Default,NTP,0,0,0,,宣燕使荆轲上殿
+Dialogue: 0,2:15:37.80,2:15:39.50,Default,NTP,0,0,0,,好听?
+Dialogue: 0,2:15:43.60,2:15:47.60,Default,NTP,0,0,0,,让我去咸阳的事儿   当真?
+Dialogue: 0,2:15:48.80,2:15:52.80,Default,NTP,0,0,0,,你到底是要去啊
+Dialogue: 0,2:15:53.80,2:15:57.81,Default,NTP,0,0,0,,你要什么?   说吧
+Dialogue: 0,2:16:02.30,2:16:03.70,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,2:16:03.80,2:16:05.80,Default,NTP,0,0,0,,你太无礼了
+Dialogue: 0,2:16:10.30,2:16:11.80,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,2:16:11.90,2:16:15.90,Default,NTP,0,0,0,,你只有杀了他们   才能去得了咸阳
+Dialogue: 0,2:16:20.00,2:16:24.00,Default,NTP,0,0,0,,杀不掉荆轲的
+Dialogue: 0,2:16:25.00,2:16:27.00,Default,NTP,0,0,0,,就自己死
+Dialogue: 0,2:16:27.20,2:16:28.90,Default,NTP,0,0,0,,你不能去
+Dialogue: 0,2:16:29.20,2:16:31.70,Default,NTP,0,0,0,,赢政他什么都知道
+Dialogue: 0,2:16:32.20,2:16:36.10,Default,NTP,0,0,0,,我来燕国   找刺客去咸阳
+Dialogue: 0,2:16:36.20,2:16:39.40,Default,NTP,0,0,0,,都是我和赢政一起安排好的计谋
+Dialogue: 0,2:16:41.50,2:16:43.70,Default,NTP,0,0,0,,为什么这么做?
+Dialogue: 0,2:16:49.00,2:16:51.50,Default,NTP,0,0,0,,我是他的女人
+Dialogue: 0,2:16:52.50,2:16:57.50,Default,NTP,0,0,0,,我以为这么做   可以避免流血和战乱
+Dialogue: 0,2:16:59.50,2:17:01.70,Default,NTP,0,0,0,,我想错了
+Dialogue: 0,2:17:07.80,2:17:10.30,Default,NTP,0,0,0,,他真的什么都知道
+Dialogue: 0,2:17:11.10,2:17:13.30,Default,NTP,0,0,0,,他会有防备
+Dialogue: 0,2:17:13.40,2:17:17.20,Default,NTP,0,0,0,,杀不死他你会死   杀死他你也会死
+Dialogue: 0,2:17:17.30,2:17:18.80,Default,NTP,0,0,0,,你知道吗?
+Dialogue: 0,2:17:23.10,2:17:25.00,Default,NTP,0,0,0,,我知道
+Dialogue: 0,2:17:25.90,2:17:29.60,Default,NTP,0,0,0,,可我不想让他再杀燕国的孩子
+Dialogue: 0,2:17:29.90,2:17:32.00,Default,NTP,0,0,0,,天下的孩子
+Dialogue: 0,2:17:43.50,2:17:48.50,Default,NTP,0,0,0,,我以为   我就这么下去了
+Dialogue: 0,2:17:52.80,2:17:57.20,Default,NTP,0,0,0,,遇见你了   我活过来了
+Dialogue: 0,2:18:01.00,2:18:03.00,Default,NTP,0,0,0,,我是一个刺客
+Dialogue: 0,2:18:03.30,2:18:06.00,Default,NTP,0,0,0,,一辈子都在杀人
+Dialogue: 0,2:18:07.80,2:18:13.50,Default,NTP,0,0,0,,杀秦王   和杀别的人   没什么不同
+Dialogue: 0,2:18:15.00,2:18:17.00,Default,NTP,0,0,0,,可我这次去咸阳
+Dialogue: 0,2:18:19.00,2:18:22.00,Default,NTP,0,0,0,,不是去杀人的
+Dialogue: 0,2:18:34.30,2:18:36.00,Default,NTP,0,0,0,,我知道
+Dialogue: 0,2:18:38.10,2:18:41.10,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:19:07.50,2:19:10.00,Default,NTP,0,0,0,,他不杀你   你杀了他
+Dialogue: 0,2:19:10.10,2:19:12.00,Default,NTP,0,0,0,,杀过去
+Dialogue: 0,2:19:12.10,2:19:14.00,Default,NTP,0,0,0,,回家去吧
+Dialogue: 0,2:19:14.10,2:19:16.10,Default,NTP,0,0,0,,燕国的孩子
+Dialogue: 0,2:19:21.50,2:19:23.30,Default,NTP,0,0,0,,回家去吧
+Dialogue: 0,2:19:23.40,2:19:25.30,Default,NTP,0,0,0,,捡起你的剑
+Dialogue: 0,2:19:25.40,2:19:26.40,Default,NTP,0,0,0,,杀过去
+Dialogue: 0,2:19:26.50,2:19:28.00,Default,NTP,0,0,0,,杀过去
+Dialogue: 0,2:19:28.50,2:19:30.00,Default,NTP,0,0,0,,杀呀
+Dialogue: 0,2:19:32.15,2:19:34.15,Default,NTP,0,0,0,,杀
+Dialogue: 0,2:19:55.00,2:19:57.00,Default,NTP,0,0,0,,你还没有杀了他
+Dialogue: 0,2:19:57.50,2:19:59.30,Default,NTP,0,0,0,,杀他
+Dialogue: 0,2:20:02.50,2:20:04.30,Default,NTP,0,0,0,,再去杀他
+Dialogue: 0,2:20:23.00,2:20:26.00,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:21:23.50,2:21:29.00,Default,NTP,0,0,0,,要跟后面的人   好好交手
+Dialogue: 0,2:21:30.00,2:21:32.97,Default,NTP,0,0,0,,你不跟他们好好交手
+Dialogue: 0,2:21:33.10,2:21:37.00,Default,NTP,0,0,0,,就是不敬重他们
+Dialogue: 0,2:21:37.50,2:21:39.80,Default,NTP,0,0,0,,我本来
+Dialogue: 0,2:21:40.00,2:21:45.00,Default,NTP,0,0,0,,也要去咸阳   杀秦王的
+Dialogue: 0,2:21:47.30,2:21:52.80,Default,NTP,0,0,0,,现在   去不成了
+Dialogue: 0,2:21:57.20,2:21:59.20,Default,NTP,0,0,0,,拜托你了
+Dialogue: 0,2:22:02.00,2:22:04.50,Default,NTP,0,0,0,,我希望人们说
+Dialogue: 0,2:22:05.50,2:22:09.00,Default,NTP,0,0,0,,我是死在刺客荆轲剑下的
+Dialogue: 0,2:22:12.30,2:22:16.80,Default,NTP,0,0,0,,求你   成全我吧
+Dialogue: 0,2:22:27.60,2:22:30.30,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:23:01.50,2:23:04.00,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:23:09.00,2:23:11.00,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:23:15.70,2:23:17.80,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:23:27.30,2:23:29.80,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:23:40.30,2:23:42.80,Default,NTP,0,0,0,,杀秦王政
+Dialogue: 0,2:24:08.10,2:24:10.10,Default,NTP,0,0,0,,我失败了
+Dialogue: 0,2:24:11.30,2:24:13.30,Default,NTP,0,0,0,,可我很高兴
+Dialogue: 0,2:24:14.10,2:24:16.10,Default,NTP,0,0,0,,我把你当作秦王
+Dialogue: 0,2:24:16.20,2:24:20.50,Default,NTP,0,0,0,,我和你对剑了   我和秦王对剑了
+Dialogue: 0,2:24:21.30,2:24:22.90,Default,NTP,0,0,0,,我不怕他了
+Dialogue: 0,2:24:23.00,2:24:24.60,Default,NTP,0,0,0,,我不怕他了
+Dialogue: 0,2:24:24.70,2:24:27.10,Default,NTP,0,0,0,,我可以自己去杀秦王
+Dialogue: 0,2:24:27.20,2:24:29.10,Default,NTP,0,0,0,,你赢了
+Dialogue: 0,2:24:29.20,2:24:31.30,Default,NTP,0,0,0,,你可以自己去
+Dialogue: 0,2:24:31.50,2:24:33.80,Default,NTP,0,0,0,,可你输了
+Dialogue: 0,2:24:34.50,2:24:37.00,Default,NTP,0,0,0,,你不够格
+Dialogue: 0,2:24:38.30,2:24:40.30,Default,NTP,0,0,0,,你也不够格
+Dialogue: 0,2:24:40.40,2:24:43.20,Default,NTP,0,0,0,,你认出我的眼睛不杀我
+Dialogue: 0,2:24:43.40,2:24:46.40,Default,NTP,0,0,0,,你太仁慈了
+Dialogue: 0,2:24:50.40,2:24:53.90,Default,NTP,0,0,0,,拿起你的剑来
+Dialogue: 0,2:24:56.00,2:24:58.40,Default,NTP,0,0,0,,而且用左手
+Dialogue: 0,2:24:59.70,2:25:05.50,Default,NTP,0,0,0,,你是一个左手比右手更好的刺客
+Dialogue: 0,2:25:05.80,2:25:11.00,Default,NTP,0,0,0,,我用左手杀过很多好人
+Dialogue: 0,2:25:12.30,2:25:16.40,Default,NTP,0,0,0,,我永远   不用左手杀人了
+Dialogue: 0,2:25:29.80,2:25:34.60,Default,NTP,0,0,0,,荆轲   去杀秦王   行不行?
+Dialogue: 0,2:25:34.90,2:25:36.90,Default,NTP,0,0,0,,不行
+Dialogue: 0,2:25:38.80,2:25:41.80,Default,NTP,0,0,0,,你缺一样东西
+Dialogue: 0,2:25:42.00,2:25:46.80,Default,NTP,0,0,0,,没有这样东西   你见不到大王
+Dialogue: 0,2:25:56.00,2:26:01.00,Default,NTP,0,0,0,,我就是来跟你   借这样东西
+Dialogue: 0,2:26:01.30,2:26:03.30,Default,NTP,0,0,0,,不借
+Dialogue: 0,2:26:05.60,2:26:08.00,Default,NTP,0,0,0,,送给你了
+Dialogue: 0,2:26:09.80,2:26:11.80,Default,NTP,0,0,0,,因为你是
+Dialogue: 0,2:26:16.00,2:26:19.00,Default,NTP,0,0,0,,有去无回
+Dialogue: 0,2:26:21.80,2:26:25.80,Default,NTP,0,0,0,,我是有去无回?
+Dialogue: 0,2:26:27.50,2:26:30.50,Default,NTP,0,0,0,,有去无回啊
+Dialogue: 0,2:26:30.70,2:26:32.80,Default,NTP,0,0,0,,有去无回
+Dialogue: 0,2:26:46.80,2:26:50.90,Default,NTP,0,0,0,,你知道   大王为什么要杀我?
+Dialogue: 0,2:26:52.30,2:26:57.00,Default,NTP,0,0,0,,因为知道他底细的   我是最后一个
+Dialogue: 0,2:26:59.00,2:27:03.50,Default,NTP,0,0,0,,这个底细   我不能告诉你
+Dialogue: 0,2:27:04.70,2:27:09.20,Default,NTP,0,0,0,,你要是见了大王   我要你告诉他
+Dialogue: 0,2:27:10.70,2:27:16.30,Default,NTP,0,0,0,,大郑宫内的秘密   我对谁也没说
+Dialogue: 0,2:27:18.90,2:27:23.20,Default,NTP,0,0,0,,我死了   那个秘密也死了
+Dialogue: 0,2:27:35.90,2:27:37.80,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,2:27:38.80,2:27:45.60,Default,NTP,0,0,0,,你知道   我的门   是朝着哪个方向吗?
+Dialogue: 0,2:27:47.80,2:27:49.80,Default,NTP,0,0,0,,秦国
+Dialogue: 0,2:27:52.80,2:27:54.80,Default,NTP,0,0,0,,对喽
+Dialogue: 0,2:29:09.50,2:29:13.20,Default,NTP,0,0,0,,陛下   燕国的使臣到了
+Dialogue: 0,2:29:13.30,2:29:17.00,Default,NTP,0,0,0,,明天朝会   陛下见不见?
+Dialogue: 0,2:30:24.20,2:30:26.80,Default,NTP,0,0,0,,燕使停止
+Dialogue: 0,2:30:28.00,2:30:30.40,Default,NTP,0,0,0,,验正使剑
+Dialogue: 0,2:30:30.50,2:30:31.40,Default,NTP,0,0,0,,是
+Dialogue: 0,2:30:31.50,2:30:35.50,Default,NTP,0,0,0,,副使不得带剑上殿
+Dialogue: 0,2:30:39.80,2:30:41.30,Default,NTP,0,0,0,,请
+Dialogue: 0,2:30:42.10,2:30:44.80,Default,NTP,0,0,0,,吾王万岁
+Dialogue: 0,2:30:45.30,2:30:47.30,Default,NTP,0,0,0,,万岁
+Dialogue: 0,2:30:47.80,2:30:49.30,Default,NTP,0,0,0,,万岁
+Dialogue: 0,2:30:49.80,2:30:51.30,Default,NTP,0,0,0,,万岁
+Dialogue: 0,2:30:51.80,2:30:54.50,Default,NTP,0,0,0,,万万岁
+Dialogue: 0,2:30:58.96,2:31:03.24,Default,NTP,0,0,0,,大王特准你带剑上殿
+Dialogue: 0,2:31:03.36,2:31:05.48,Default,NTP,0,0,0,,原剑奉还
+Dialogue: 0,2:31:06.10,2:31:07.90,Default,NTP,0,0,0,,请
+Dialogue: 0,2:31:14.30,2:31:21.50,Default,NTP,0,0,0,,燕使   荆轲   秦舞阳   在
+Dialogue: 0,2:31:31.50,2:31:33.00,Default,NTP,0,0,0,,过不去
+Dialogue: 0,2:31:33.10,2:31:35.10,Default,NTP,0,0,0,,升
+Dialogue: 0,2:31:44.30,2:31:50.50,Default,NTP,0,0,0,,燕国使臣   前来朝拜献图
+Dialogue: 0,2:31:50.70,2:31:53.50,Default,NTP,0,0,0,,吾王万岁
+Dialogue: 0,2:31:54.20,2:31:56.70,Default,NTP,0,0,0,,吾王万岁
+Dialogue: 0,2:31:56.80,2:31:58.30,Default,NTP,0,0,0,,万岁
+Dialogue: 0,2:31:58.40,2:32:00.60,Default,NTP,0,0,0,,万万岁
+Dialogue: 0,2:32:00.90,2:32:03.40,Default,NTP,0,0,0,,副使怎么啦?
+Dialogue: 0,2:32:16.20,2:32:20.00,Default,NTP,0,0,0,,我早就讲过   讲说是小地方来的人
+Dialogue: 0,2:32:20.10,2:32:23.10,Default,NTP,0,0,0,,没有见过大世面   怕是吓着
+Dialogue: 0,2:32:23.20,2:32:26.50,Default,NTP,0,0,0,,看看嘛   果然就吓着了
+Dialogue: 0,2:32:30.90,2:32:33.90,Default,NTP,0,0,0,,哎呀呀   不要怕   不要怕
+Dialogue: 0,2:32:34.00,2:32:36.00,Default,NTP,0,0,0,,见过大王   就可以回家了啦
+Dialogue: 0,2:32:36.10,2:32:37.00,Default,NTP,0,0,0,,来来来
+Dialogue: 0,2:32:37.10,2:32:42.00,Default,NTP,0,0,0,,大王有命   着正使一人陛见
+Dialogue: 0,2:32:47.80,2:32:49.30,Default,NTP,0,0,0,,你看
+Dialogue: 0,2:32:49.50,2:32:51.00,Default,NTP,0,0,0,,你看啊
+Dialogue: 0,2:32:52.00,2:32:53.50,Default,NTP,0,0,0,,荆轲
+Dialogue: 0,2:33:15.90,2:33:17.90,Default,NTP,0,0,0,,叩见大王
+Dialogue: 0,2:33:18.70,2:33:20.80,Default,NTP,0,0,0,,你叫什么名字啊?
+Dialogue: 0,2:33:20.90,2:33:22.90,Default,NTP,0,0,0,,小人荆轲
+Dialogue: 0,2:33:23.60,2:33:28.50,Default,NTP,0,0,0,,荆轲   抬起头来
+Dialogue: 0,2:33:28.60,2:33:30.10,Default,NTP,0,0,0,,不敢
+Dialogue: 0,2:33:30.60,2:33:32.60,Default,NTP,0,0,0,,抬起头来
+Dialogue: 0,2:33:37.30,2:33:39.20,Default,NTP,0,0,0,,哭什么?
+Dialogue: 0,2:33:39.30,2:33:42.20,Default,NTP,0,0,0,,副使就是被吓坏了
+Dialogue: 0,2:33:42.30,2:33:44.80,Default,NTP,0,0,0,,小人也吓坏了
+Dialogue: 0,2:33:45.50,2:33:47.50,Default,NTP,0,0,0,,小人要回家
+Dialogue: 0,2:33:47.60,2:33:50.00,Default,NTP,0,0,0,,樊於期
+Dialogue: 0,2:33:51.10,2:33:53.30,Default,NTP,0,0,0,,樊於期的头颅
+Dialogue: 0,2:33:53.40,2:33:54.60,Default,NTP,0,0,0,,你带来啦?
+Dialogue: 0,2:33:54.70,2:33:56.30,Default,NTP,0,0,0,,在
+Dialogue: 0,2:34:07.00,2:34:08.50,Default,NTP,0,0,0,,你
+Dialogue: 0,2:34:09.30,2:34:11.10,Default,NTP,0,0,0,,你上来
+Dialogue: 0,2:34:11.20,2:34:12.50,Default,NTP,0,0,0,,上
+Dialogue: 0,2:34:46.30,2:34:48.60,Default,NTP,0,0,0,,大王恕罪
+Dialogue: 0,2:34:51.90,2:34:54.90,Default,NTP,0,0,0,,我说是不要带剑来   不要带剑来
+Dialogue: 0,2:34:55.00,2:34:57.50,Default,NTP,0,0,0,,他们非要害小人带
+Dialogue: 0,2:34:57.60,2:34:58.80,Default,NTP,0,0,0,,他们
+Dialogue: 0,2:34:58.90,2:35:02.90,Default,NTP,0,0,0,,他们是喊小人来   杀大王的
+Dialogue: 0,2:35:03.00,2:35:04.00,Default,NTP,0,0,0,,陛下
+Dialogue: 0,2:35:16.10,2:35:18.90,Default,NTP,0,0,0,,你们都听见啦?
+Dialogue: 0,2:35:19.10,2:35:24.60,Default,NTP,0,0,0,,燕王   要杀寡人
+Dialogue: 0,2:35:24.70,2:35:26.70,Default,NTP,0,0,0,,灭燕国
+Dialogue: 0,2:35:26.80,2:35:28.80,Default,NTP,0,0,0,,灭燕国
+Dialogue: 0,2:35:42.20,2:35:47.70,Default,NTP,0,0,0,,这么说   地图也是假的?
+Dialogue: 0,2:35:50.50,2:35:54.00,Default,NTP,0,0,0,,图也是假的?
+Dialogue: 0,2:36:09.90,2:36:11.90,Default,NTP,0,0,0,,图是真的
+Dialogue: 0,2:36:14.50,2:36:16.40,Default,NTP,0,0,0,,大王请看
+Dialogue: 0,2:36:16.50,2:36:19.90,Default,NTP,0,0,0,,这   就是燕国那督亢之图
+Dialogue: 0,2:36:20.00,2:36:24.20,Default,NTP,0,0,0,,此地四水环抱   物阜民丰
+Dialogue: 0,2:36:24.40,2:36:26.90,Default,NTP,0,0,0,,请劳驾退一步
+Dialogue: 0,2:36:27.50,2:36:31.70,Default,NTP,0,0,0,,可以比作秦国那关中沃野
+Dialogue: 0,2:36:45.40,2:36:47.40,Default,NTP,0,0,0,,大王   拔剑
+Dialogue: 0,2:36:47.60,2:36:49.60,Default,NTP,0,0,0,,大王   拔剑
+Dialogue: 0,2:37:13.00,2:37:15.00,Default,NTP,0,0,0,,大王
+Dialogue: 0,2:37:15.40,2:37:17.40,Default,NTP,0,0,0,,大王   拔剑
+Dialogue: 0,2:38:56.30,2:39:00.30,Default,NTP,0,0,0,,寡人   不让你们上来
+Dialogue: 0,2:39:00.40,2:39:04.40,Default,NTP,0,0,0,,你们竟然没有一个人出来拦住刺客
+Dialogue: 0,2:39:04.50,2:39:06.50,Default,NTP,0,0,0,,出去
+Dialogue: 0,2:39:07.50,2:39:10.00,Default,NTP,0,0,0,,天杀的贼球
+Dialogue: 0,2:39:11.50,2:39:13.50,Default,NTP,0,0,0,,出去
+Dialogue: 0,2:39:40.65,2:39:42.80,Default,NTP,0,0,0,,你笑什么?
+Dialogue: 0,2:39:44.60,2:39:46.80,Default,NTP,0,0,0,,你笑什么?
+Dialogue: 0,2:39:48.50,2:39:51.30,Default,NTP,0,0,0,,你为什么要杀我?
+Dialogue: 0,2:39:51.50,2:39:54.50,Default,NTP,0,0,0,,你知道我要做什么?
+Dialogue: 0,2:39:54.60,2:39:57.40,Default,NTP,0,0,0,,我要建立一个更大的国家
+Dialogue: 0,2:39:57.60,2:40:01.60,Default,NTP,0,0,0,,秦国和六国眼睛看得到的地方和看不到的地方
+Dialogue: 0,2:40:01.70,2:40:03.40,Default,NTP,0,0,0,,都成了一个国家
+Dialogue: 0,2:40:03.50,2:40:05.50,Default,NTP,0,0,0,,樊於期
+Dialogue: 0,2:40:07.00,2:40:13.50,Default,NTP,0,0,0,,托我   给你   带句话
+Dialogue: 0,2:40:14.30,2:40:16.30,Default,NTP,0,0,0,,大郑宫
+Dialogue: 0,2:40:19.50,2:40:22.50,Default,NTP,0,0,0,,大郑宫的事情
+Dialogue: 0,2:40:23.00,2:40:28.00,Default,NTP,0,0,0,,他   对谁   都没说
+Dialogue: 0,2:40:29.80,2:40:32.20,Default,NTP,0,0,0,,他比你
+Dialogue: 0,2:40:34.60,2:40:37.80,Default,NTP,0,0,0,,比你守信用
+Dialogue: 0,2:40:48.50,2:40:50.60,Default,NTP,0,0,0,,你不能死
+Dialogue: 0,2:40:51.50,2:40:54.00,Default,NTP,0,0,0,,我不准你死
+Dialogue: 0,2:40:54.20,2:40:58.70,Default,NTP,0,0,0,,你还没有告诉我   你笑什么呢
+Dialogue: 0,2:41:11.70,2:41:14.70,Default,NTP,0,0,0,,你还没有告诉我
+Dialogue: 0,2:41:14.90,2:41:18.80,Default,NTP,0,0,0,,你笑什么呢?
+Dialogue: 0,2:42:02.00,2:42:03.50,Default,NTP,0,0,0,,你
+Dialogue: 0,2:42:05.00,2:42:07.30,Default,NTP,0,0,0,,回来啦?
+Dialogue: 0,2:42:09.30,2:42:11.30,Default,NTP,0,0,0,,我回来
+Dialogue: 0,2:42:11.50,2:42:14.50,Default,NTP,0,0,0,,就是想把荆轲带走
+Dialogue: 0,2:42:15.60,2:42:17.80,Default,NTP,0,0,0,,带回燕国
+Dialogue: 0,2:42:19.48,2:42:22.72,Default,NTP,0,0,0,,如果你不愿意
+Dialogue: 0,2:42:23.80,2:42:26.30,Default,NTP,0,0,0,,你也可以杀了我
+Dialogue: 0,2:42:29.90,2:42:32.20,Default,NTP,0,0,0,,我不杀你
+Dialogue: 0,2:42:34.80,2:42:40.00,Default,NTP,0,0,0,,我永远   也不会杀你
+Dialogue: 0,2:42:42.60,2:42:44.60,Default,NTP,0,0,0,,那好
+Dialogue: 0,2:42:46.60,2:42:50.60,Default,NTP,0,0,0,,我已经怀了荆轲的孩子
+Dialogue: 0,2:42:50.70,2:42:54.60,Default,NTP,0,0,0,,我要好好地活下去
+Dialogue: 0,2:42:54.90,2:42:59.90,Default,NTP,0,0,0,,把孩子生下来   抚养成人
+Dialogue: 0,2:43:03.40,2:43:05.90,Default,NTP,0,0,0,,你把他带走
+Dialogue: 0,2:43:08.80,2:43:12.30,Default,NTP,0,0,0,,好好埋葬了吧
+Dialogue: 0,2:43:17.00,2:43:19.00,Default,NTP,0,0,0,,赵女
+Dialogue: 0,2:43:46.60,2:43:48.60,Default,NTP,0,0,0,,君王赢政
+Dialogue: 0,2:43:49.30,2:43:53.80,Default,NTP,0,0,0,,你忘记了一统天下的大愿了吗?
+Dialogue: 0,2:43:58.50,2:44:05.00,Default,NTP,0,0,0,,赢政   须臾不敢忘
+Dialogue: 0,2:44:36.50,2:44:47.50,Default,NTP,0,0,0,,风萧萧兮   易水寒
+Dialogue: 0,2:44:49.50,2:45:07.50,Default,NTP,0,0,0,,壮士一去   不会还
+Dialogue: 0,2:45:32.00,2:45:35.50,Default,NTP,0,0,0,,公元前221年   秦王赢政用武力统一了天下
+Dialogue: 0,2:45:35.50,2:45:38.50,Default,NTP,0,0,0,,他果然修筑了长城   建立了郡县
+Dialogue: 0,2:45:38.50,2:45:41.50,Default,NTP,0,0,0,,在历史上   他被称为秦始皇帝
+Dialogue: 0,2:46:10.00,2:46:20.00,Default,NTP,0,0,0,,片尾曲: Private Paradise\N演唱者: 林 榆 涵
+Dialogue: 0,2:46:21.00,2:46:26.00,Default,NTP,0,0,0,,别   希望还能再见
+Dialogue: 0,2:46:26.00,2:46:33.00,Default,NTP,0,0,0,,我会相信明天   还能再见
+Dialogue: 0,2:46:33.00,2:46:38.00,Default,NTP,0,0,0,,多   不知道这么多
+Dialogue: 0,2:46:38.00,2:46:46.00,Default,NTP,0,0,0,,满满藏在心中   伤心的泪
+Dialogue: 0,2:46:46.00,2:46:54.00,Default,NTP,0,0,0,,看   慢慢沉默   红色的夜
+Dialogue: 0,2:46:54.00,2:47:01.00,Default,NTP,0,0,0,,像慢慢散开白色的天
+Dialogue: 0,2:47:01.00,2:47:07.00,Default,NTP,0,0,0,,浮浮沉沉   短短时间
+Dialogue: 0,2:47:07.00,2:47:10.00,Default,NTP,0,0,0,,该怎么去追
+Dialogue: 0,2:47:10.00,2:47:15.00,Default,NTP,0,0,0,,躲   偷偷爱上的错
+Dialogue: 0,2:47:15.00,2:47:22.50,Default,NTP,0,0,0,,小心含着眼泪   还是掉落
+Dialogue: 0,2:47:22.50,2:47:27.50,Default,NTP,0,0,0,,挥   挥手不再担忧
+Dialogue: 0,2:47:27.50,2:47:34.50,Default,NTP,0,0,0,,心头淡淡的笑   忘掉烦恼
+Dialogue: 0,2:47:34.50,2:47:43.50,Default,NTP,0,0,0,,飘   轻轻飘过远远的梦
+Dialogue: 0,2:47:43.50,2:47:50.00,Default,NTP,0,0,0,,一声一声有人在说
+Dialogue: 0,2:47:50.00,2:47:56.00,Default,NTP,0,0,0,,深深回荡在我耳中
+Dialogue: 0,2:47:56.00,2:47:59.00,Default,NTP,0,0,0,,到底是什么
+Dialogue: 0,2:47:59.00,2:48:04.00,Default,NTP,0,0,0,,等   专心心在等
+Dialogue: 0,2:48:04.00,2:48:10.70,Default,NTP,0,0,0,,盼成每个梦   全部都实现
+Dialogue: 0,2:48:10.70,2:48:19.30,Default,NTP,0,0,0,,走过   一个一个痛   再不要伤悲
+Dialogue: 0,2:48:19.30,2:48:23.30,Default,NTP,0,0,0,,让它如云烟

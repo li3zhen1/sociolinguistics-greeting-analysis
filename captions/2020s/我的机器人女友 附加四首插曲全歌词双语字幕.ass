@@ -1,0 +1,1487 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,65,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,8,1
+Style: Lyrics,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.54,0:00:07.01,Default,,0,0,0,,{\fnMicrosoft YaHei\1c&HFFFFFF&}双语歌词整理补充：{\1c&H00FFFF&}Haleyrink1897\N{\r\fnMicrosoft YaHei\1c&HFFFFFF&}特效：{\1c&H00FFFF&}cyzs{\r\fnMicrosoft YaHei\1c&HFFFFFF&}\NFor：{\1c&HFF80FF&}橘子汁儿{\r\fnMicrosoft YaHei\1c&HFFFFFF&}
+Dialogue: 0,0:00:08.00,0:00:14.00,Default,,0,0,1,,{\fs80}--==本影片由 CMCT 团队 荣誉出品==--\N更多精彩影视 请访问 http://cmct.cc
+Dialogue: 0,0:00:16.00,0:00:23.00,Default,,0,0,8,,{\fs80}影片压制&调校:timmy8889  字幕来源:射手网  招募Q号:76846146
+Dialogue: 0,0:00:58.70,0:01:04.70,Default,NTP,0,0,0,,{\fs80}(2008年11月22日)
+Dialogue: 0,0:01:24.75,0:01:31.58,Default,NTP,0,0,0,,{\fs80}在与她相遇之前 我的生日 从未有人为我祝福
+Dialogue: 0,0:01:32.06,0:01:33.72,Default,NTP,0,0,0,,{\fs80}整天无精打采
+Dialogue: 0,0:01:43.93,0:01:45.20,Default,NTP,0,0,0,,{\fs80}请帮我包装一下
+Dialogue: 0,0:01:45.34,0:01:47.86,Default,NTP,0,0,0,,{\fs80}好的 是送人吗？
+Dialogue: 0,0:01:52.08,0:01:52.91,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:01:53.01,0:01:55.10,Default,NTP,0,0,0,,{\fs80}请稍等一下
+Dialogue: 0,0:01:57.78,0:02:00.98,Default,NTP,0,0,0,,{\fs80}但是只有去年 对于我来说有些不同寻常
+Dialogue: 0,0:02:01.62,0:02:03.75,Default,NTP,0,0,0,,{\fs80}虽然只相处了很短暂的时间
+Dialogue: 0,0:02:03.92,0:02:07.38,Default,NTP,0,0,0,,{\fs80}但是我终于有了女朋友 为我庆祝生日
+Dialogue: 0,0:02:09.29,0:02:12.66,Default,NTP,0,0,0,,{\fs80}就是去年的今天 就在这家百货商店…
+Dialogue: 0,0:02:15.29,0:02:19.36,Default,NTP,0,0,0,,{\fs80}(一年前)
+Dialogue: 0,0:02:40.86,0:02:43.69,Default,NTP,0,0,0,,{\fs80}这是新出品的
+Dialogue: 0,0:02:43.83,0:02:45.19,Default,NTP,0,0,0,,{\fs80}非常值得推荐
+Dialogue: 0,0:02:45.30,0:02:48.73,Default,NTP,0,0,0,,{\fs80}有黑色和咖啡色兩种
+Dialogue: 0,0:02:48.87,0:02:50.03,Default,NTP,0,0,0,,{\fs80}您觉得如何？
+Dialogue: 0,0:04:33.00,0:04:34.63,Default,NTP,0,0,0,,{\fs80}生日快乐
+Dialogue: 0,0:04:42.91,0:04:46.85,Default,NTP,0,0,0,,{\fs80}我给自己买了生日礼物
+Dialogue: 0,0:04:49.12,0:04:54.42,Default,NTP,0,0,0,,{\fs80}奶奶说过: "生日那天吃面会长寿"
+Dialogue: 0,0:04:55.69,0:04:58.79,Default,NTP,0,0,0,,{\fs80}今年我也在生日这天
+Dialogue: 0,0:04:59.06,0:05:01.46,Default,NTP,0,0,0,,{\fs80}在这家餐厅吃意大利面
+Dialogue: 0,0:05:11.91,0:05:13.97,Default,NTP,0,0,0,,{\fs80}这家店的意大利面好吃吗？
+Dialogue: 0,0:05:18.92,0:05:20.94,Default,NTP,0,0,0,,{\fs80}我要吃别的
+Dialogue: 0,0:05:21.42,0:05:23.61,Default,NTP,0,0,0,,{\fs80}服务员 给我一份菜单
+Dialogue: 0,0:05:23.72,0:05:24.55,Default,NTP,0,0,0,,{\fs80}好的
+Dialogue: 0,0:05:26.16,0:05:27.25,Default,NTP,0,0,0,,{\fs80}请
+Dialogue: 0,0:05:31.43,0:05:34.36,Default,NTP,0,0,0,,{\fs80}这个 这个…
+Dialogue: 0,0:05:34.70,0:05:37.17,Default,NTP,0,0,0,,{\fs80}这个 还有这个…
+Dialogue: 0,0:05:37.77,0:05:40.67,Default,NTP,0,0,0,,{\fs80}然后还有 这个跟这个
+Dialogue: 0,0:05:41.27,0:05:43.64,Default,NTP,0,0,0,,{\fs80}这个跟这个跟这个… 这个也要…
+Dialogue: 0,0:05:44.34,0:05:49.14,Default,NTP,0,0,0,,{\fs80}哇 还有2005年产的法国波尔多红葡萄酒 太棒了
+Dialogue: 0,0:05:49.48,0:05:50.67,Default,NTP,0,0,0,,{\fs80}我要点一瓶
+Dialogue: 0,0:05:50.78,0:05:53.75,Default,NTP,0,0,0,,{\fs80}是 请稍等
+Dialogue: 0,0:05:53.85,0:06:01.62,Default,NTP,0,0,0,,{\fs80}祝你生日快乐 祝你生日快乐
+Dialogue: 0,0:06:01.89,0:06:07.59,Default,NTP,0,0,0,,{\fs80}生日快乐 亲爱的一树 耶!
+Dialogue: 0,0:06:09.47,0:06:12.96,Default,NTP,0,0,0,,{\fs80}祝你生日快乐
+Dialogue: 0,0:06:13.37,0:06:15.27,Default,NTP,0,0,0,,{\fs80}谢谢您们
+Dialogue: 0,0:06:18.04,0:06:19.91,Default,NTP,0,0,0,,{\fs80}大家一起来
+Dialogue: 0,0:06:30.25,0:06:32.08,Default,NTP,0,0,0,,{\fs80}今天也是我生日
+Dialogue: 0,0:06:32.32,0:06:33.19,Default,NTP,0,0,0,,{\fs80}真的吗？
+Dialogue: 0,0:06:34.49,0:06:36.76,Default,NTP,0,0,0,,{\fs80}其实我也是
+Dialogue: 0,0:06:37.03,0:06:38.22,Default,NTP,0,0,0,,{\fs80}真的
+Dialogue: 0,0:06:38.73,0:06:39.59,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:06:41.57,0:06:42.93,Default,NTP,0,0,0,,{\fs80}恭喜
+Dialogue: 0,0:07:03.65,0:07:04.64,Default,NTP,0,0,0,,{\fs80}嗯？
+Dialogue: 0,0:07:06.36,0:07:08.09,Default,NTP,0,0,0,,{\fs80}你也吃呀
+Dialogue: 0,0:07:24.41,0:07:26.40,Default,NTP,0,0,0,,{\fs80}呼  吃饱啦
+Dialogue: 0,0:07:29.88,0:07:30.94,Default,NTP,0,0,0,,{\fs80}走吧
+Dialogue: 0,0:07:39.76,0:07:41.75,Default,NTP,0,0,0,,{\fs80}我来买单 你先出去等我
+Dialogue: 0,0:07:42.13,0:07:44.22,Default,NTP,0,0,0,,{\fs80}这不太好吧 还是AA制吧
+Dialogue: 0,0:07:44.29,0:07:46.09,Default,NTP,0,0,0,,{\fs80}我说了 我来买单
+Dialogue: 0,0:07:46.26,0:07:49.72,Default,NTP,0,0,0,,{\fs80}因为今天是你的生日 交给我吧
+Dialogue: 0,0:07:59.48,0:08:01.14,Default,NTP,0,0,0,,{\fs80}- 快闪 - 嗯？
+Dialogue: 0,0:08:05.02,0:08:07.61,Default,NTP,0,0,0,,{\fs80}喂 你们两个家伙 别跑
+Dialogue: 0,0:08:08.82,0:08:09.91,Default,NTP,0,0,0,,{\fs80}别跑
+Dialogue: 0,0:08:10.55,0:08:11.78,Default,NTP,0,0,0,,{\fs80}等一下 你们…
+Dialogue: 0,0:08:12.36,0:08:13.32,Default,NTP,0,0,0,,{\fs80}喂
+Dialogue: 0,0:09:00.60,0:09:01.59,Default,NTP,0,0,0,,{\fs80}啊 对不起
+Dialogue: 0,0:09:02.71,0:09:03.76,Default,NTP,0,0,0,,{\fs80}你没事吧？
+Dialogue: 0,0:09:11.82,0:09:13.01,Default,NTP,0,0,0,,{\fs80}啊  对不起 没事吧？
+Dialogue: 0,0:09:13.08,0:09:15.02,Default,NTP,0,0,0,,{\fs80}- 噢 巡察先生 - 是 是的…
+Dialogue: 0,0:09:15.12,0:09:17.85,Default,NTP,0,0,0,,{\fs80}- 有两人吃饭不给钱 快抓住他们 - 吃饭不给钱？
+Dialogue: 0,0:09:37.11,0:09:40.70,Default,NTP,0,0,0,,{\fs80}借过 借过…
+Dialogue: 0,0:09:41.51,0:09:44.17,Default,NTP,0,0,0,,{\fs80}啊 不对 是这边这边…
+Dialogue: 0,0:10:04.63,0:10:08.09,Default,NTP,0,0,0,,{\fs80}对不起 对不起
+Dialogue: 0,0:10:39.77,0:10:43.00,Default,NTP,0,0,0,,{\fs80}- 对不起  对不起  - 借过  借过
+Dialogue: 0,0:10:43.47,0:10:46.93,Default,NTP,0,0,0,,{\fs80}- 你们两个站住 - 都说了叫你们站住
+Dialogue: 0,0:10:47.14,0:10:49.27,Default,NTP,0,0,0,,{\fs80}- 叫你们站住 - 你们给我适可而止
+Dialogue: 0,0:10:58.79,0:10:59.95,Default,NTP,0,0,0,,{\fs80}成功啦
+Dialogue: 0,0:11:15.61,0:11:20.10,Default,NTP,0,0,0,,{\fs80}我只是跟在她的后面走着…
+Dialogue: 0,0:11:20.78,0:11:27.95,Default,NTP,0,0,0,,{\fs80}但不知为何 谁知她居然带我来到了我的住处
+Dialogue: 0,0:11:31.99,0:11:33.08,Default,NTP,0,0,0,,{\fs80}哦
+Dialogue: 0,0:11:41.76,0:11:43.79,Default,NTP,0,0,0,,{\fs80}来 快点藏起来
+Dialogue: 0,0:12:01.28,0:12:03.81,Default,NTP,0,0,0,,{\fs80}你还呆在那里干嘛 已经没事了
+Dialogue: 0,0:12:23.07,0:12:26.04,Default,NTP,0,0,0,,{\fs80}就在这裡 那小子…
+Dialogue: 0,0:12:27.51,0:12:29.54,Default,NTP,0,0,0,,{\fs80}他抓住我的肩
+Dialogue: 0,0:12:31.85,0:12:33.15,Default,NTP,0,0,0,,{\fs80}吻了我
+Dialogue: 0,0:12:40.29,0:12:41.69,Default,NTP,0,0,0,,{\fs80}那个坏蛋
+Dialogue: 0,0:12:43.16,0:12:45.59,Default,NTP,0,0,0,,{\fs80}说我变的让人讨厌
+Dialogue: 0,0:12:46.26,0:12:49.43,Default,NTP,0,0,0,,{\fs80}说我乱吃东西 说我是个闯祸精
+Dialogue: 0,0:12:49.50,0:12:51.99,Default,NTP,0,0,0,,{\fs80}还说我是个醋坛子
+Dialogue: 0,0:12:52.24,0:12:54.17,Default,NTP,0,0,0,,{\fs80}最初还能忍受
+Dialogue: 0,0:12:54.27,0:12:57.47,Default,NTP,0,0,0,,{\fs80}但最近实在太过份了
+Dialogue: 0,0:13:08.92,0:13:10.94,Default,NTP,0,0,0,,{\fs80}说我太粗野了
+Dialogue: 0,0:13:14.79,0:13:18.23,Default,NTP,0,0,0,,{\fs80}就连我走路的样子都不想看
+Dialogue: 0,0:13:28.47,0:13:30.46,Default,NTP,0,0,0,,{\fs80}我走路的样子很难看吗？
+Dialogue: 0,0:13:32.38,0:13:35.14,Default,NTP,0,0,0,,{\fs80}对吧 很好看吧
+Dialogue: 0,0:13:35.61,0:13:37.14,Default,NTP,0,0,0,,{\fs80}像模特吧？
+Dialogue: 0,0:13:38.21,0:13:39.20,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:13:42.59,0:13:44.82,Default,NTP,0,0,0,,{\fs80}呜 啊 痛啊…
+Dialogue: 0,0:13:45.19,0:13:47.38,Default,NTP,0,0,0,,{\fs80}我这一拳很厉害吧？
+Dialogue: 0,0:13:48.39,0:13:50.26,Default,NTP,0,0,0,,{\fs80}嗯  是的…
+Dialogue: 0,0:13:51.46,0:13:52.55,Default,NTP,0,0,0,,{\fs80}是啊
+Dialogue: 0,0:13:54.00,0:13:56.43,Default,NTP,0,0,0,,{\fs80}我的力气很大又粗暴…
+Dialogue: 0,0:14:04.07,0:14:05.40,Default,NTP,0,0,0,,{\fs80}喔喔…
+Dialogue: 0,0:14:06.81,0:14:08.14,Default,NTP,0,0,0,,{\fs80}快住手
+Dialogue: 0,0:14:08.65,0:14:09.84,Default,NTP,0,0,0,,{\fs80}冷静一点
+Dialogue: 0,0:14:10.15,0:14:11.27,Default,NTP,0,0,0,,{\fs80}为什么？
+Dialogue: 0,0:14:11.78,0:14:16.08,Default,NTP,0,0,0,,{\fs80}有可能那里已经有别人搬进去住了
+Dialogue: 0,0:14:16.59,0:14:17.58,Default,NTP,0,0,0,,{\fs80}不是吗？
+Dialogue: 0,0:14:18.19,0:14:21.59,Default,NTP,0,0,0,,{\fs80}总之我就讨厌住在这间房子里的人
+Dialogue: 0,0:14:22.89,0:14:25.83,Default,NTP,0,0,0,,{\fs80}你也做做看 很爽的
+Dialogue: 0,0:14:26.60,0:14:30.23,Default,NTP,0,0,0,,{\fs80}不… 你也是 不要扔了
+Dialogue: 0,0:14:33.60,0:14:35.50,Default,NTP,0,0,0,,{\fs80}- 嗯 - 哈…
+Dialogue: 0,0:14:51.55,0:14:53.04,Default,NTP,0,0,0,,{\fs80}闭上眼睛
+Dialogue: 0,0:14:53.69,0:14:54.66,Default,NTP,0,0,0,,{\fs80}啊？
+Dialogue: 0,0:14:55.69,0:14:57.02,Default,NTP,0,0,0,,{\fs80}叫你闭上眼
+Dialogue: 0,0:15:01.66,0:15:04.06,Default,NTP,0,0,0,,{\fs80}好的 已经闭上了
+Dialogue: 0,0:15:12.28,0:15:15.73,Default,NTP,0,0,0,,{\fs80}就在这里分手吧 好吗？
+Dialogue: 0,0:15:22.55,0:15:27.99,Default,NTP,0,0,0,,{\fs80}因为我不想你看到我的背影
+Dialogue: 0,0:15:28.62,0:15:31.22,Default,NTP,0,0,0,,{\fs80}在我离开之前 你都不许睁开眼睛
+Dialogue: 0,0:15:32.06,0:15:32.96,Default,NTP,0,0,0,,{\fs80}好吗？
+Dialogue: 0,0:15:35.80,0:15:37.96,Default,NTP,0,0,0,,{\fs80}数到一千后 在睁开眼睛
+Dialogue: 0,0:15:38.43,0:15:40.53,Default,NTP,0,0,0,,{\fs80}一定要数到一千才行
+Dialogue: 0,0:15:43.24,0:15:44.47,Default,NTP,0,0,0,,{\fs80}还有…
+Dialogue: 0,0:15:46.68,0:15:47.67,Default,NTP,0,0,0,,{\fs80}这个给你
+Dialogue: 0,0:15:49.58,0:15:53.04,Default,NTP,0,0,0,,{\fs80}本来是送给自己的生日礼物
+Dialogue: 0,0:15:55.02,0:15:56.48,Default,NTP,0,0,0,,{\fs80}送给你
+Dialogue: 0,0:15:58.59,0:16:01.79,Default,NTP,0,0,0,,{\fs80}那…我也把我的送给你
+Dialogue: 0,0:16:04.83,0:16:05.82,Default,NTP,0,0,0,,{\fs80}谢谢
+Dialogue: 0,0:16:18.24,0:16:19.64,Default,NTP,0,0,0,,{\fs80}其实我…
+Dialogue: 0,0:16:20.68,0:16:22.70,Default,NTP,0,0,0,,{\fs80}来自遥远的未来…
+Dialogue: 0,0:16:24.18,0:16:26.88,Default,NTP,0,0,0,,{\fs80}距离现在一百年后的未来
+Dialogue: 0,0:16:28.72,0:16:30.65,Default,NTP,0,0,0,,{\fs80}坐着时间机器来的
+Dialogue: 0,0:16:32.76,0:16:33.85,Default,NTP,0,0,0,,{\fs80}吓到了吧？
+Dialogue: 0,0:16:35.66,0:16:36.56,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:16:38.43,0:16:39.55,Default,NTP,0,0,0,,{\fs80}再见了
+Dialogue: 0,0:16:51.27,0:16:55.40,Default,NTP,0,0,0,,{\fs80}你… 你刚才把眼睛睁开了
+Dialogue: 0,0:16:56.91,0:16:57.90,Default,NTP,0,0,0,,{\fs80}没有
+Dialogue: 0,0:16:58.65,0:17:00.01,Default,NTP,0,0,0,,{\fs80}我一直闭着呢
+Dialogue: 0,0:17:00.42,0:17:01.61,Default,NTP,0,0,0,,{\fs80}骗人
+Dialogue: 0,0:17:02.32,0:17:04.12,Default,NTP,0,0,0,,{\fs80}我可看得清清楚楚
+Dialogue: 0,0:17:04.82,0:17:08.72,Default,NTP,0,0,0,,{\fs80}我眼睛非常好 2.0以上
+Dialogue: 0,0:17:09.56,0:17:11.79,Default,NTP,0,0,0,,{\fs80}你刚才睁开眼睛了
+Dialogue: 0,0:17:12.30,0:17:14.09,Default,NTP,0,0,0,,{\fs80}在睁开眼睛看我
+Dialogue: 0,0:17:14.26,0:17:16.96,Default,NTP,0,0,0,,{\fs80}不  我一直閉著眼睛的
+Dialogue: 0,0:17:17.40,0:17:20.43,Default,NTP,0,0,0,,{\fs80}不信的話 你过来看看就知道了
+Dialogue: 0,0:17:22.71,0:17:24.73,Default,NTP,0,0,0,,{\fs80}真的闭着眼睛的？
+Dialogue: 0,0:17:26.38,0:17:29.11,Default,NTP,0,0,0,,{\fs80}你是个笨蛋!
+Dialogue: 0,0:17:29.91,0:17:31.14,Default,NTP,0,0,0,,{\fs80}笨蛋
+Dialogue: 0,0:17:31.68,0:17:34.67,Default,NTP,0,0,0,,{\fs80}答对了 我就是个笨蛋
+Dialogue: 0,0:17:35.65,0:17:36.62,Default,NTP,0,0,0,,{\fs80}笨蛋
+Dialogue: 0,0:17:37.85,0:17:39.58,Default,NTP,0,0,0,,{\fs80}现在可以睁开眼睛了
+Dialogue: 0,0:17:41.76,0:17:43.05,Default,NTP,0,0,0,,{\fs80}沒关系 已经可以了
+Dialogue: 0,0:17:45.46,0:17:49.36,Default,NTP,0,0,0,,{\fs80}能看到我的笑容吗？
+Dialogue: 0,0:17:53.34,0:17:55.36,Default,NTP,0,0,0,,{\fs80}这种感觉似曾相识…
+Dialogue: 0,0:17:57.51,0:17:59.34,Default,NTP,0,0,0,,{\fs80}让我不禁流出了眼泪
+Dialogue: 0,0:17:59.41,0:18:02.07,Default,NTP,0,0,0,,{\fs80}没有任何理由 眼泪顺着脸颊落下
+Dialogue: 0,0:18:02.25,0:18:07.98,Default,NTP,0,0,0,,{\fs80}不 觉得她在哭 所以我也哭了
+Dialogue: 0,0:18:09.89,0:18:13.05,Default,NTP,0,0,0,,{\fs80}啊 看得见
+Dialogue: 0,0:18:13.82,0:18:16.16,Default,NTP,0,0,0,,{\fs80}我视力也超好的
+Dialogue: 0,0:18:16.43,0:18:18.09,Default,NTP,0,0,0,,{\fs80}2.0以上
+Dialogue: 0,0:18:19.16,0:18:21.03,Default,NTP,0,0,0,,{\fs80}能清楚地看到你的笑容
+Dialogue: 0,0:18:23.70,0:18:25.46,Default,NTP,0,0,0,,{\fs80}路上小心
+Dialogue: 0,0:18:34.58,0:18:37.24,Default,NTP,0,0,0,,{\fs80}路上… 小心…
+Dialogue: 0,0:18:40.25,0:18:41.55,Default,NTP,0,0,0,,{\fs80}路上…
+Dialogue: 0,0:18:43.52,0:18:44.75,Default,NTP,0,0,0,,{\fs80}小心…
+Dialogue: 0,0:18:49.96,0:18:54.09,Default,NTP,0,0,0,,{\fs80}自那之后 我就再也没有见过她
+Dialogue: 0,0:18:57.27,0:18:58.53,Default,NTP,0,0,0,,{\fs80}然后过了一年…
+Dialogue: 0,0:18:59.44,0:19:03.03,Default,NTP,0,0,0,,{\fs80}重复着平凡的日子
+Dialogue: 0,0:19:03.44,0:19:05.60,Default,NTP,0,0,0,,{\fs80}而我一直都在等待今天
+Dialogue: 0,0:19:07.04,0:19:09.67,Default,NTP,0,0,0,,{\fs80}不知为什么 我有预感
+Dialogue: 0,0:19:10.21,0:19:13.20,Default,NTP,0,0,0,,{\fs80}也许还能见到她
+Dialogue: 0,0:19:18.72,0:19:20.02,Default,NTP,0,0,0,,{\fs80}也许…
+Dialogue: 0,0:19:25.44,0:19:34.77,Default,NTP,0,0,0,,{\fs80}我的女友是机器人
+Dialogue: 0,0:21:15.44,0:21:16.77,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,0:21:16.91,0:21:20.03,Default,NTP,0,0,0,,{\fs80}7萬… 6、7、8千日元
+Dialogue: 0,0:21:20.14,0:21:22.08,Default,NTP,0,0,0,,{\fs80}还有数码相机 数码相机
+Dialogue: 0,0:21:22.18,0:21:24.61,Default,NTP,0,0,0,,{\fs80}那老太婆还真有钱
+Dialogue: 0,0:21:25.41,0:21:27.25,Default,NTP,0,0,0,,{\fs80}今天赚了不少
+Dialogue: 0,0:21:29.12,0:21:30.81,Default,NTP,0,0,0,,{\fs80}啊 好可爱的美眉…
+Dialogue: 0,0:21:35.19,0:21:37.89,Default,NTP,0,0,0,,{\fs80}哇 小姐好厉害啊 这身打扮真够时髦的
+Dialogue: 0,0:21:37.99,0:21:39.12,Default,NTP,0,0,0,,{\fs80}不得了
+Dialogue: 0,0:21:39.23,0:21:41.66,Default,NTP,0,0,0,,{\fs80}穿得好少哦 要不我的衣服借你穿
+Dialogue: 0,0:21:41.73,0:21:42.53,Default,NTP,0,0,0,,{\fs80}嘿
+Dialogue: 0,0:21:49.97,0:21:51.67,Default,NTP,0,0,0,,{\fs80}头发好细…
+Dialogue: 0,0:21:51.74,0:21:54.17,Default,NTP,0,0,0,,{\fs80}哟 敢瞪我
+Dialogue: 0,0:21:58.91,0:22:01.41,Default,NTP,0,0,0,,{\fs80}好… 痛… 啊…
+Dialogue: 0,0:22:03.05,0:22:05.35,Default,NTP,0,0,0,,{\fs80}哇… 哇
+Dialogue: 0,0:22:06.29,0:22:07.81,Default,NTP,0,0,0,,{\fs80}哇  啊  痛啊…
+Dialogue: 0,0:22:21.84,0:22:24.14,Default,NTP,0,0,0,,{\fs80}哇 哇
+Dialogue: 0,0:22:31.51,0:22:33.51,Default,NTP,0,0,0,,{\fs80}哇…啊  痛
+Dialogue: 0,0:22:34.45,0:22:35.88,Default,NTP,0,0,0,,{\fs80}危险 闪
+Dialogue: 0,0:22:37.72,0:22:40.02,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,0:22:40.56,0:22:42.18,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,0:22:42.79,0:22:45.78,Default,NTP,0,0,0,,{\fs80}呜… 啊啊…
+Dialogue: 0,0:22:57.07,0:22:58.33,Default,NTP,0,0,0,,{\fs80}告诉我今天的日期？
+Dialogue: 0,0:22:58.67,0:23:01.11,Default,NTP,0,0,0,,{\fs80}啊  啊… 啊啊
+Dialogue: 0,0:23:01.48,0:23:04.00,Default,NTP,0,0,0,,{\fs80}11月22日…？
+Dialogue: 0,0:23:04.41,0:23:05.40,Default,NTP,0,0,0,,{\fs80}那一年的？
+Dialogue: 0,0:23:05.92,0:23:06.75,Default,NTP,0,0,0,,{\fs80}啊啊…？
+Dialogue: 0,0:23:06.88,0:23:08.28,Default,NTP,0,0,0,,{\fs80}公元多少年？
+Dialogue: 0,0:23:08.68,0:23:12.88,Default,NTP,0,0,0,,{\fs80}啊 2008年？
+Dialogue: 0,0:23:35.31,0:23:40.25,Default,NTP,0,0,0,,{\fs80}(欢迎光临本店)
+Dialogue: 0,0:23:41.78,0:23:44.88,Default,NTP,0,0,0,,{\fs80}(再过不久就要关门了…)
+Dialogue: 0,0:23:45.89,0:23:50.12,Default,NTP,0,0,0,,{\fs80}(敬请再度光临本店)
+Dialogue: 0,0:23:50.79,0:23:52.32,Default,NTP,0,0,0,,{\fs80}(谢谢您们)
+Dialogue: 0,0:23:55.43,0:23:58.16,Default,NTP,0,0,0,,{\fs80}这位小姐 小姐
+Dialogue: 0,0:23:59.24,0:24:00.17,Default,NTP,0,0,0,,{\fs80}小姐
+Dialogue: 0,0:24:01.47,0:24:03.44,Default,NTP,0,0,0,,{\fs80}你穿的鞋还没有付账呢
+Dialogue: 0,0:25:03.33,0:25:05.10,Default,NTP,0,0,0,,{\fs80}不在… 那么… 这边看一下
+Dialogue: 0,0:25:33.53,0:25:34.86,Default,NTP,0,0,0,,{\fs80}欢迎光临
+Dialogue: 0,0:25:40.14,0:25:41.07,Default,NTP,0,0,0,,{\fs80}我要这个
+Dialogue: 0,0:25:48.14,0:25:51.94,Default,NTP,0,0,0,,{\fs80}小姐 您还没有付钱？
+Dialogue: 0,0:25:52.35,0:25:53.75,Default,NTP,0,0,0,,{\fs80}喂  小姐  小姐
+Dialogue: 0,0:25:53.95,0:25:54.94,Default,NTP,0,0,0,,{\fs80}啊啊…
+Dialogue: 0,0:25:57.85,0:25:59.98,Default,NTP,0,0,0,,{\fs80}喂  救救我
+Dialogue: 0,0:26:05.86,0:26:08.76,Default,NTP,0,0,0,,{\fs80}对不起 对不起…
+Dialogue: 0,0:26:25.71,0:26:27.05,Default,NTP,0,0,0,,{\fs80}- 对不起 - 欢迎光临
+Dialogue: 0,0:26:27.15,0:26:29.58,Default,NTP,0,0,0,,{\fs80}- 威士忌 够劲吗？  - 是
+Dialogue: 0,0:26:32.32,0:26:34.12,Default,NTP,0,0,0,,{\fs80}啊…
+Dialogue: 0,0:26:34.46,0:26:36.32,Default,NTP,0,0,0,,{\fs80}对不起 麻烦再来一杯
+Dialogue: 0,0:26:37.39,0:26:39.05,Default,NTP,0,0,0,,{\fs80}好的
+Dialogue: 0,0:26:59.38,0:27:00.85,Default,NTP,0,0,0,,{\fs80}生日快乐
+Dialogue: 0,0:27:02.68,0:27:05.21,Default,NTP,0,0,0,,{\fs80}你也生日快乐
+Dialogue: 0,0:27:10.79,0:27:19.03,Default,NTP,0,0,0,,{\fs80}祝你生日快乐 祝你生日快乐
+Dialogue: 0,0:27:19.74,0:27:24.54,Default,NTP,0,0,0,,{\fs80}祝次郎生日快乐
+Dialogue: 0,0:27:25.14,0:27:30.04,Default,NTP,0,0,0,,{\fs80}祝你生日快乐
+Dialogue: 0,0:27:36.22,0:27:38.45,Default,NTP,0,0,0,,{\fs80}啊 哈哈… 嘿嘿…
+Dialogue: 0,0:28:02.34,0:28:03.71,Default,NTP,0,0,0,,{\fs80}恭喜
+Dialogue: 0,0:28:17.33,0:28:18.82,Default,NTP,0,0,0,,{\fs80}这是我送上的生日祝贺
+Dialogue: 0,0:28:21.20,0:28:21.69,Default,NTP,0,0,0,,{\fs80}呀…
+Dialogue: 0,0:28:53.26,0:28:55.23,Default,NTP,0,0,0,,{\fs80}哇… 哈哈…
+Dialogue: 0,0:29:02.87,0:29:04.60,Default,NTP,0,0,0,,{\fs80}喔… 哇… 啊…
+Dialogue: 0,0:29:07.74,0:29:08.64,Default,NTP,0,0,0,,{\fs80}啊…？
+Dialogue: 0,0:29:09.71,0:29:10.70,Default,NTP,0,0,0,,{\fs80}对不起
+Dialogue: 0,0:29:19.99,0:29:21.62,Default,NTP,0,0,0,,{\fs80}对不起
+Dialogue: 0,0:29:27.80,0:29:28.73,Default,NTP,0,0,0,,{\fs80}走吧
+Dialogue: 0,0:29:39.07,0:29:41.60,Default,NTP,0,0,0,,{\fs80}哇… 哇…
+Dialogue: 0,0:29:41.88,0:29:45.11,Default,NTP,0,0,0,,{\fs80}哇… 哇…
+Dialogue: 0,0:29:51.85,0:29:52.75,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,0:29:53.79,0:29:57.25,Default,NTP,0,0,0,,{\fs80}啊… 哈哈哈…
+Dialogue: 0,0:30:00.60,0:30:03.29,Default,NTP,0,0,0,,{\fs80}啊  快停下 快停下 快停下
+Dialogue: 0,0:30:24.79,0:30:28.12,Default,NTP,0,0,0,,{\fs80}啊 没钥匙 怎么办呢？
+Dialogue: 0,0:30:35.90,0:30:37.56,Default,NTP,0,0,0,,{\fs80}开了
+Dialogue: 0,0:30:38.77,0:30:39.56,Default,NTP,0,0,0,,{\fs80}呜…
+Dialogue: 0,0:30:42.57,0:30:46.10,Default,NTP,0,0,0,,{\fs80}家里很乱 我马上整理
+Dialogue: 0,0:30:52.01,0:30:55.97,Default,NTP,0,0,0,,{\fs80}其实也没什么 独居的男人都这样
+Dialogue: 0,0:30:56.08,0:30:57.52,Default,NTP,0,0,0,,{\fs80}(你是笨蛋 )
+Dialogue: 0,0:31:07.70,0:31:11.46,Default,NTP,0,0,0,,{\fs80}进过我房间的女人 只有房东太太和你
+Dialogue: 0,0:31:14.04,0:31:16.47,Default,NTP,0,0,0,,{\fs80}但是没有臭臭的气味吧
+Dialogue: 0,0:31:17.17,0:31:21.27,Default,NTP,0,0,0,,{\fs80}不让自己住的房子难闻 我有小窍门
+Dialogue: 0,0:31:36.19,0:31:38.02,Default,NTP,0,0,0,,{\fs80}你好吗？ 次郎
+Dialogue: 0,0:31:42.56,0:31:45.86,Default,NTP,0,0,0,,{\fs80}我是65年后的你
+Dialogue: 0,0:31:49.67,0:31:53.07,Default,NTP,0,0,0,,{\fs80}见到我这样子 你不要害怕
+Dialogue: 0,0:31:54.21,0:31:58.67,Default,NTP,0,0,0,,{\fs80}又和最喜欢的她见面 你也很高兴吧
+Dialogue: 0,0:32:01.35,0:32:02.28,Default,NTP,0,0,0,,{\fs80}但是
+Dialogue: 0,0:32:03.02,0:32:05.45,Default,NTP,0,0,0,,{\fs80}我要告诉你真相
+Dialogue: 0,0:32:06.96,0:32:11.42,Default,NTP,0,0,0,,{\fs80}其实今天 她本不该出现在你眼前
+Dialogue: 0,0:32:13.10,0:32:24.90,Default,NTP,0,0,0,,{\fs80}在餐厅 我被那拿着枪的男子打中
+Dialogue: 0,0:32:25.34,0:32:27.93,Default,NTP,0,0,0,,{\fs80}不幸中枪 变成了现在这个样子
+Dialogue: 0,0:32:29.58,0:32:31.55,Default,NTP,0,0,0,,{\fs80}但有趣的是…
+Dialogue: 0,0:32:31.65,0:32:36.45,Default,NTP,0,0,0,,{\fs80}事故发生前一周 我所买的彩票中了大奖
+Dialogue: 0,0:32:39.25,0:32:45.25,Default,NTP,0,0,0,,{\fs80}所以我花上全部财产和毕生精力
+Dialogue: 0,0:32:45.76,0:32:48.09,Default,NTP,0,0,0,,{\fs80}才制作出了她
+Dialogue: 0,0:32:48.90,0:32:53.27,Default,NTP,0,0,0,,{\fs80}为了让她将你 也就是65年前的我
+Dialogue: 0,0:32:53.84,0:32:56.50,Default,NTP,0,0,0,,{\fs80}从那场事故中救出来…
+Dialogue: 0,0:32:58.94,0:33:02.24,Default,NTP,0,0,0,,{\fs80}她应该已经救了你
+Dialogue: 0,0:33:03.85,0:33:11.27,Default,NTP,0,0,0,,{\fs80}然而 被扭转的时间却试图强行复原
+Dialogue: 0,0:33:11.95,0:33:17.15,Default,NTP,0,0,0,,{\fs80}也许有一天 你将会遇到一场意想不到的灾难
+Dialogue: 0,0:33:18.39,0:33:23.76,Default,NTP,0,0,0,,{\fs80}而她將会一直保护你
+Dialogue: 0,0:33:32.24,0:33:36.64,Default,NTP,0,0,0,,{\fs80}她现在像一个沒有灵魂的洋娃娃
+Dialogue: 0,0:33:37.91,0:33:41.47,Default,NTP,0,0,0,,{\fs80}但会在生活中跟你學習
+Dialogue: 0,0:33:42.25,0:33:47.15,Default,NTP,0,0,0,,{\fs80}逐渐拥有和人类一样的判断力
+Dialogue: 0,0:33:47.22,0:33:49.38,Default,NTP,0,0,0,,{\fs80}這样的学习程式…
+Dialogue: 0,0:33:53.22,0:33:56.38,Default,NTP,0,0,0,,{\fs80}会使的她 将真正人的灵魂慢慢地融入
+Dialogue: 0,0:33:57.40,0:34:01.20,Default,NTP,0,0,0,,{\fs80}你一定做得到吧
+Dialogue: 0,0:34:02.77,0:34:04.71,Default,NTP,0,0,0,,{\fs80}她就拜托你了
+Dialogue: 0,0:34:05.57,0:34:11.41,Default,NTP,0,0,0,,{\fs80}最后 祝福你会有个不后悔的新人生
+Dialogue: 0,0:34:28.36,0:34:29.39,Default,NTP,0,0,0,,{\fs80}你…
+Dialogue: 0,0:34:30.40,0:34:33.77,Default,NTP,0,0,0,,{\fs80}你是未来的我制造出来送我的
+Dialogue: 0,0:34:34.94,0:34:36.70,Default,NTP,0,0,0,,{\fs80}那么… 你是机器人？
+Dialogue: 0,0:34:36.77,0:34:38.90,Default,NTP,0,0,0,,{\fs80}请不要用机器人这字句
+Dialogue: 0,0:34:40.68,0:34:43.04,Default,NTP,0,0,0,,{\fs80}我是Cyberdyne Model 型号103
+Dialogue: 0,0:34:44.58,0:34:47.32,Default,NTP,0,0,0,,{\fs80}骨骼全部采用木星卫星的硫矿山上的
+Dialogue: 0,0:34:47.32,0:34:48.78,Default,NTP,0,0,0,,{\fs80}酪蛋白复合合金制成
+Dialogue: 0,0:34:48.85,0:34:51.51,Default,NTP,0,0,0,,{\fs80}是拥有人工智能的有机体
+Dialogue: 0,0:34:51.59,0:34:53.76,Default,NTP,0,0,0,,{\fs80}头脑是利用了再现人类神经元的
+Dialogue: 0,0:34:53.76,0:34:55.78,Default,NTP,0,0,0,,{\fs80}超微技术制成的分子电路复合体
+Dialogue: 0,0:34:59.93,0:35:03.33,Default,NTP,0,0,0,,{\fs80}皮肤和人类一样 都是活体细胞
+Dialogue: 0,0:35:05.53,0:35:08.33,Default,NTP,0,0,0,,{\fs80}那么 比方说…
+Dialogue: 0,0:35:09.47,0:35:11.74,Default,NTP,0,0,0,,{\fs80}"这里"也跟人类一样的吗？
+Dialogue: 0,0:35:12.27,0:35:13.14,Default,NTP,0,0,0,,{\fs80}是的
+Dialogue: 0,0:35:15.34,0:35:19.11,Default,NTP,0,0,0,,{\fs80}那么… 也能做那种事喽
+Dialogue: 0,0:35:19.85,0:35:20.71,Default,NTP,0,0,0,,{\fs80}哪种事？
+Dialogue: 0,0:35:20.98,0:35:23.18,Default,NTP,0,0,0,,{\fs80}嗯… 就是那种事…
+Dialogue: 0,0:35:24.09,0:35:25.14,Default,NTP,0,0,0,,{\fs80}那种事是什么啊？
+Dialogue: 0,0:35:28.06,0:35:29.05,Default,NTP,0,0,0,,{\fs80}"就是做爱的事"
+Dialogue: 0,0:35:31.33,0:35:32.42,Default,NTP,0,0,0,,{\fs80}过来
+Dialogue: 0,0:35:34.66,0:35:35.89,Default,NTP,0,0,0,,{\fs80}来这边
+Dialogue: 0,0:35:37.27,0:35:38.10,Default,NTP,0,0,0,,{\fs80}好的
+Dialogue: 0,0:35:43.67,0:35:44.60,Default,NTP,0,0,0,,{\fs80}抬起头来
+Dialogue: 0,0:35:50.21,0:35:51.84,Default,NTP,0,0,0,,{\fs80}把脸洗干净
+Dialogue: 0,0:35:59.79,0:36:03.19,Default,NTP,0,0,0,,{\fs80}啊 对了 刚说的灾难是指…
+Dialogue: 0,0:36:05.63,0:36:08.22,Default,NTP,0,0,0,,{\fs80}我不能说出未来发生的事
+Dialogue: 0,0:36:11.87,0:36:12.80,Default,NTP,0,0,0,,{\fs80}…知道了
+Dialogue: 0,0:36:26.61,0:36:29.95,Default,NTP,0,0,0,,{\fs80}啊 忘记说了 这小家伙是我的宠物
+Dialogue: 0,0:36:30.02,0:36:32.89,Default,NTP,0,0,0,,{\fs80}还有名字呢 牠叫拉乌尔
+Dialogue: 0,0:36:54.84,0:36:57.07,Default,NTP,0,0,0,,{\fs80}哇  很好吃的样子
+Dialogue: 0,0:37:01.38,0:37:03.41,Default,NTP,0,0,0,,{\fs80}哈… 哈哈…
+Dialogue: 0,0:37:06.32,0:37:07.41,Default,NTP,0,0,0,,{\fs80}喲  喲
+Dialogue: 0,0:37:08.12,0:37:09.39,Default,NTP,0,0,0,,{\fs80}我开动喽
+Dialogue: 0,0:37:11.33,0:37:15.63,Default,NTP,0,0,0,,{\fs80}真不错 这什么锅？
+Dialogue: 0,0:37:16.06,0:37:17.69,Default,NTP,0,0,0,,{\fs80}好吃的"拉乌尔锅"
+Dialogue: 0,0:37:26.81,0:37:28.30,Default,NTP,0,0,0,,{\fs80}拉乌尔
+Dialogue: 0,0:37:33.18,0:37:35.88,Default,NTP,0,0,0,,{\fs80}然后… 开始了我们的同居生活
+Dialogue: 0,0:37:50.50,0:37:53.43,Default,NTP,0,0,0,,{\fs80}喂 喂 你在干嘛
+Dialogue: 0,0:37:56.77,0:38:00.73,Default,NTP,0,0,0,,{\fs80}这里是大家学习的地方 记住一定要保持安静
+Dialogue: 0,0:38:01.44,0:38:02.47,Default,NTP,0,0,0,,{\fs80}知道了吧
+Dialogue: 0,0:38:05.21,0:38:06.84,Default,NTP,0,0,0,,{\fs80}次郎 快迟到了
+Dialogue: 0,0:38:06.95,0:38:10.04,Default,NTP,0,0,0,,{\fs80}赶不上点名的话 就拿不到学分了 快点
+Dialogue: 0,0:38:12.12,0:38:14.32,Default,NTP,0,0,0,,{\fs80}现在即使跑步也赶不上了
+Dialogue: 0,0:38:18.29,0:38:19.12,Default,NTP,0,0,0,,{\fs80}嗯？
+Dialogue: 0,0:38:19.23,0:38:20.09,Default,NTP,0,0,0,,{\fs80}哦  哦？
+Dialogue: 0,0:38:20.80,0:38:23.36,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,0:38:33.17,0:38:35.87,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,0:38:36.28,0:38:37.97,Default,NTP,0,0,0,,{\fs80}岩下京子
+Dialogue: 0,0:38:40.55,0:38:42.31,Default,NTP,0,0,0,,{\fs80}- 远藤太一 - 到
+Dialogue: 0,0:38:45.69,0:38:47.05,Default,NTP,0,0,0,,{\fs80}北村次郎
+Dialogue: 0,0:38:50.56,0:38:51.62,Default,NTP,0,0,0,,{\fs80}北村次郎？
+Dialogue: 0,0:38:52.49,0:38:53.48,Default,NTP,0,0,0,,{\fs80}- 到
+Dialogue: 0,0:38:55.03,0:38:56.93,Default,NTP,0,0,0,,{\fs80}- 栗原浩平 - 到
+Dialogue: 0,0:38:58.70,0:39:00.93,Default,NTP,0,0,0,,{\fs80}- 佐籐健太 - 到
+Dialogue: 0,0:39:02.87,0:39:03.86,Default,NTP,0,0,0,,{\fs80}是的
+Dialogue: 0,0:39:03.94,0:39:05.91,Default,NTP,0,0,0,,{\fs80}- 柴崎雄一 - 到
+Dialogue: 0,0:39:06.81,0:39:08.74,Default,NTP,0,0,0,,{\fs80}- 末松薰 - 到
+Dialogue: 0,0:39:11.05,0:39:13.28,Default,NTP,0,0,0,,{\fs80}- 武田聰 - 到
+Dialogue: 0,0:39:13.82,0:39:17.65,Default,NTP,0,0,0,,{\fs80}你… 你… 什么時候来的？
+Dialogue: 0,0:39:19.02,0:39:20.21,Default,NTP,0,0,0,,{\fs80}我也不清楚
+Dialogue: 0,0:39:23.46,0:39:24.69,Default,NTP,0,0,0,,{\fs80}接下来
+Dialogue: 0,0:39:26.16,0:39:27.89,Default,NTP,0,0,0,,{\fs80}发镖
+Dialogue: 0,0:39:28.63,0:39:30.00,Default,NTP,0,0,0,,{\fs80}佐籐
+Dialogue: 0,0:39:30.63,0:39:34.63,Default,NTP,0,0,0,,{\fs80}啊  嗲  哈
+Dialogue: 0,0:39:35.54,0:39:37.40,Default,NTP,0,0,0,,{\fs80}安靜
+Dialogue: 0,0:39:38.17,0:39:39.80,Default,NTP,0,0,0,,{\fs80}把书翻到73页
+Dialogue: 0,0:39:42.11,0:39:45.27,Default,NTP,0,0,0,,{\fs80}下面看图 我来解释
+Dialogue: 0,0:39:45.65,0:39:48.31,Default,NTP,0,0,0,,{\fs80}- 首先注意Ａ點… - 这是谁？
+Dialogue: 0,0:39:48.65,0:39:52.68,Default,NTP,0,0,0,,{\fs80}- 如图所示 电流这样通过的话… - 我的朋友
+Dialogue: 0,0:40:05.57,0:40:07.93,Default,NTP,0,0,0,,{\fs80}不吃那个吗？
+Dialogue: 0,0:40:08.94,0:40:09.84,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:40:10.61,0:40:12.13,Default,NTP,0,0,0,,{\fs80}那么… 我吃了
+Dialogue: 0,0:40:16.01,0:40:18.24,Default,NTP,0,0,0,,{\fs80}一起吃吧 哈哈哈…
+Dialogue: 0,0:40:19.85,0:40:21.58,Default,NTP,0,0,0,,{\fs80}叫什么名字呢？
+Dialogue: 0,0:40:22.48,0:40:25.58,Default,NTP,0,0,0,,{\fs80}我叫健太… 佐籐健太
+Dialogue: 0,0:40:27.86,0:40:29.45,Default,NTP,0,0,0,,{\fs80}告诉你名字又能怎么样？
+Dialogue: 0,0:40:29.56,0:40:34.02,Default,NTP,0,0,0,,{\fs80}哇噢 一来就耍小性子 不错不错
+Dialogue: 0,0:40:34.13,0:40:36.62,Default,NTP,0,0,0,,{\fs80}首先  先从朋友做起怎样？
+Dialogue: 0,0:40:42.10,0:40:44.57,Default,NTP,0,0,0,,{\fs80}这女孩子好像很会吃…
+Dialogue: 0,0:40:45.74,0:40:48.71,Default,NTP,0,0,0,,{\fs80}嗯 连我的宠物都吃了
+Dialogue: 0,0:40:50.95,0:40:52.61,Default,NTP,0,0,0,,{\fs80}你还真奇怪啊
+Dialogue: 0,0:40:53.55,0:40:55.48,Default,NTP,0,0,0,,{\fs80}还有更奇怪的食物 你知道么
+Dialogue: 0,0:40:55.85,0:41:00.34,Default,NTP,0,0,0,,{\fs80}土耳其南部 住着一个叫科罗马的少数民族
+Dialogue: 0,0:41:00.46,0:41:03.75,Default,NTP,0,0,0,,{\fs80}据说那里的人专吃水豚的粪便
+Dialogue: 0,0:41:05.39,0:41:08.79,Default,NTP,0,0,0,,{\fs80}而且吃法都特别怪 先捉住水豚
+Dialogue: 0,0:41:08.96,0:41:12.19,Default,NTP,0,0,0,,{\fs80}然后呢 把屁股用线缝上 啾啾啾… 吱…
+Dialogue: 0,0:41:12.30,0:41:13.82,Default,NTP,0,0,0,,{\fs80}让它沒法大便
+Dialogue: 0,0:41:13.90,0:41:16.63,Default,NTP,0,0,0,,{\fs80}然后喂这些水豚吃它们喜欢的食物
+Dialogue: 0,0:41:16.90,0:41:21.64,Default,NTP,0,0,0,,{\fs80}这样过了一个星期 水豚的肚子里全是粪便
+Dialogue: 0,0:41:21.88,0:41:25.21,Default,NTP,0,0,0,,{\fs80}然后拆掉缝在肛门的线
+Dialogue: 0,0:41:25.31,0:41:28.11,Default,NTP,0,0,0,,{\fs80}像这样捏它们的肚子 揪揪揪地挤
+Dialogue: 0,0:41:28.22,0:41:30.91,Default,NTP,0,0,0,,{\fs80}就这样吃着大便 啊哈哈
+Dialogue: 0,0:41:36.06,0:41:37.05,Default,NTP,0,0,0,,{\fs80}你喜欢吃大便吗？
+Dialogue: 0,0:41:41.13,0:41:42.26,Default,NTP,0,0,0,,{\fs80}谢谢
+Dialogue: 0,0:41:42.33,0:41:46.73,Default,NTP,0,0,0,,{\fs80}喂 你也喝吧 我们是朋友嘛 啊哈
+Dialogue: 0,0:41:46.80,0:41:47.93,Default,NTP,0,0,0,,{\fs80}不行 不行
+Dialogue: 0,0:41:48.00,0:41:51.34,Default,NTP,0,0,0,,{\fs80}她喝了酒不知会变成什么样
+Dialogue: 0,0:41:51.41,0:41:55.43,Default,NTP,0,0,0,,{\fs80}没关系 现在还有不会喝酒的女孩子么
+Dialogue: 0,0:41:55.58,0:41:58.91,Default,NTP,0,0,0,,{\fs80}你不知道吧 女人能撑起整片天呢
+Dialogue: 0,0:41:59.01,0:42:00.38,Default,NTP,0,0,0,,{\fs80}- 喂 等等  - 喂
+Dialogue: 0,0:42:00.48,0:42:01.68,Default,NTP,0,0,0,,{\fs80}等等…
+Dialogue: 0,0:42:21.84,0:42:23.00,Default,NTP,0,0,0,,{\fs80}哈
+Dialogue: 0,0:42:25.44,0:42:26.53,Default,NTP,0,0,0,,{\fs80}痛
+Dialogue: 0,0:42:29.84,0:42:33.18,Default,NTP,0,0,0,,{\fs80}啊 有点不对劲 你喝醉了
+Dialogue: 0,0:42:33.28,0:42:34.98,Default,NTP,0,0,0,,{\fs80}喂 那个…
+Dialogue: 0,0:42:35.08,0:42:38.95,Default,NTP,0,0,0,,{\fs80}这样… 本来该这样 你却那样
+Dialogue: 0,0:42:39.05,0:42:43.49,Default,NTP,0,0,0,,{\fs80}会要人命的知道吗 喂 回家吧 我们回家吧
+Dialogue: 0,0:42:43.59,0:42:47.22,Default,NTP,0,0,0,,{\fs80}小心站好 我送她回去了 再見
+Dialogue: 0,0:42:47.70,0:42:48.96,Default,NTP,0,0,0,,{\fs80}喂  次郎
+Dialogue: 0,0:42:49.50,0:42:50.49,Default,NTP,0,0,0,,{\fs80}再見
+Dialogue: 0,0:42:53.00,0:42:55.97,Default,NTP,0,0,0,,{\fs80}哦哟 怎么啦…
+Dialogue: 0,0:43:05.21,0:43:09.17,Default,NTP,0,0,0,,{\fs80}从0到1/2t的积分
+Dialogue: 0,0:43:09.65,0:43:11.21,Default,NTP,0,0,0,,{\fs80}减去…
+Dialogue: 0,0:43:14.22,0:43:19.49,Default,NTP,0,0,0,,{\fs80}SinN OmegaT从2分之T到T
+Dialogue: 0,0:43:19.56,0:43:20.89,Default,NTP,0,0,0,,{\fs80}的积分…
+Dialogue: 0,0:43:23.93,0:43:26.26,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,0:43:37.78,0:43:40.58,Default,NTP,0,0,0,,{\fs80}老师 请小心点
+Dialogue: 0,0:43:43.35,0:43:44.94,Default,NTP,0,0,0,,{\fs80}下课
+Dialogue: 0,0:43:45.92,0:43:47.65,Default,NTP,0,0,0,,{\fs80}收您2千日元
+Dialogue: 0,0:43:48.46,0:43:49.75,Default,NTP,0,0,0,,{\fs80}嗯…
+Dialogue: 0,0:43:50.83,0:43:52.85,Default,NTP,0,0,0,,{\fs80}找您610日元
+Dialogue: 0,0:43:53.26,0:43:57.76,Default,NTP,0,0,0,,{\fs80}桃子 妈妈去趟洗手间 你一个人乖噢
+Dialogue: 0,0:44:01.87,0:44:04.10,Default,NTP,0,0,0,,{\fs80}啊 欢迎光临 是在这里吃吗？
+Dialogue: 0,0:44:04.17,0:44:06.80,Default,NTP,0,0,0,,{\fs80}嗯 我要这个
+Dialogue: 0,0:44:07.21,0:44:10.23,Default,NTP,0,0,0,,{\fs80}一个新鲜的汉堡
+Dialogue: 0,0:44:10.81,0:44:12.80,Default,NTP,0,0,0,,{\fs80}好的 对不起 请您再说一遍行吗？
+Dialogue: 0,0:44:12.91,0:44:17.08,Default,NTP,0,0,0,,{\fs80}嗯 一个新鲜的汉堡
+Dialogue: 0,0:44:17.69,0:44:20.31,Default,NTP,0,0,0,,{\fs80}还有…
+Dialogue: 0,0:44:20.42,0:44:22.91,Default,NTP,0,0,0,,{\fs80}一杯热咖啡
+Dialogue: 0,0:44:29.76,0:44:31.39,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,0:44:38.31,0:44:40.21,Default,NTP,0,0,0,,{\fs80}妈妈 我飞起来了
+Dialogue: 0,0:44:40.31,0:44:42.21,Default,NTP,0,0,0,,{\fs80}飞到天上了 妈妈
+Dialogue: 0,0:44:42.31,0:44:45.01,Default,NTP,0,0,0,,{\fs80}我飞到天上了 妈妈
+Dialogue: 0,0:44:45.11,0:44:48.98,Default,NTP,0,0,0,,{\fs80}我飞到天上了 妈妈
+Dialogue: 0,0:45:23.25,0:45:25.72,Default,NTP,0,0,0,,{\fs80}你女朋友真是个美人啊
+Dialogue: 0,0:45:26.59,0:45:27.78,Default,NTP,0,0,0,,{\fs80}嘿嘿嘿…
+Dialogue: 0,0:46:13.53,0:46:15.37,Default,NTP,0,0,0,,{\fs80}你在找什么？
+Dialogue: 0,0:46:15.84,0:46:16.83,Default,NTP,0,0,0,,{\fs80}啊  没什么…
+Dialogue: 0,0:46:17.91,0:46:20.57,Default,NTP,0,0,0,,{\fs80}你穿的不会是我的内裤吧…
+Dialogue: 0,0:46:21.41,0:46:22.50,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,0:46:25.88,0:46:27.31,Default,NTP,0,0,0,,{\fs80}二人份
+Dialogue: 0,0:46:32.09,0:46:33.18,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,0:46:34.29,0:46:36.05,Default,NTP,0,0,0,,{\fs80}啊啊…
+Dialogue: 0,0:46:38.93,0:46:41.39,Default,NTP,0,0,0,,{\fs80}我的… 500元
+Dialogue: 0,0:46:51.67,0:46:53.04,Default,NTP,0,0,0,,{\fs80}啊 太好了
+Dialogue: 0,0:46:55.28,0:46:58.01,Default,NTP,0,0,0,,{\fs80}根据以上几个成立的方程式
+Dialogue: 0,0:46:58.11,0:47:00.14,Default,NTP,0,0,0,,{\fs80}根据第一条法则…
+Dialogue: 0,0:47:09.49,0:47:10.92,Default,NTP,0,0,0,,{\fs80}A电路中…
+Dialogue: 0,0:47:11.09,0:47:12.08,Default,NTP,0,0,0,,{\fs80}次郎
+Dialogue: 0,0:47:18.33,0:47:20.06,Default,NTP,0,0,0,,{\fs80}A 在A回路中…
+Dialogue: 0,0:48:04.08,0:48:05.51,Default,NTP,0,0,0,,{\fs80}I…(我)
+Dialogue: 0,0:48:06.58,0:48:07.98,Default,NTP,0,0,0,,{\fs80}LOVE…(爱)
+Dialogue: 0,0:48:08.85,0:48:09.82,Default,NTP,0,0,0,,{\fs80}YOU…(你)
+Dialogue: 0,0:48:20.63,0:48:22.43,Default,NTP,0,0,0,,{\fs80}你在干什么
+Dialogue: 0,0:48:23.10,0:48:27.19,Default,NTP,0,0,0,,{\fs80}这不是饮料啊 你还好吧？
+Dialogue: 0,0:48:27.30,0:48:28.17,Default,NTP,0,0,0,,{\fs80}喔
+Dialogue: 0,0:48:30.54,0:48:32.73,Default,NTP,0,0,0,,{\fs80}哇… 啊哈哈
+Dialogue: 0,0:48:33.44,0:48:34.50,Default,NTP,0,0,0,,{\fs80}喔
+Dialogue: 0,0:48:38.01,0:48:39.04,Default,NTP,0,0,0,,{\fs80}喲
+Dialogue: 0,0:48:41.15,0:48:42.48,Default,NTP,0,0,0,,{\fs80}吼
+Dialogue: 0,0:48:45.05,0:48:46.28,Default,NTP,0,0,0,,{\fs80}喲
+Dialogue: 0,0:48:46.39,0:48:47.45,Default,NTP,0,0,0,,{\fs80}痛…
+Dialogue: 0,0:49:40.41,0:49:43.60,Default,NTP,0,0,0,,{\fs80}嗯？  你的脸？
+Dialogue: 0,0:49:45.25,0:49:46.54,Default,NTP,0,0,0,,{\fs80}去把脸洗干净
+Dialogue: 0,0:49:54.26,0:49:57.12,Default,NTP,0,0,0,,{\fs80}昨晚少年足球队集体宿舍发生了一起火灾
+Dialogue: 0,0:49:57.22,0:49:59.59,Default,NTP,0,0,0,,{\fs80}3名小学生被轻度烧伤
+Dialogue: 0,0:49:59.79,0:50:02.76,Default,NTP,0,0,0,,{\fs80}警方说当时并没有发现火种
+Dialogue: 0,0:50:02.86,0:50:05.46,Default,NTP,0,0,0,,{\fs80}可能有人纵火 搜查还在继续进行
+Dialogue: 0,0:50:05.53,0:50:07.83,Default,NTP,0,0,0,,{\fs80}但是昨晚还发生了一件奇事
+Dialogue: 0,0:50:07.90,0:50:10.60,Default,NTP,0,0,0,,{\fs80}火灾发生后 有人破门而入
+Dialogue: 0,0:50:10.70,0:50:12.57,Default,NTP,0,0,0,,{\fs80}救出了这些孩子
+Dialogue: 0,0:50:13.11,0:50:15.67,Default,NTP,0,0,0,,{\fs80}因为当时很暗 没看清脸
+Dialogue: 0,0:50:16.01,0:50:18.71,Default,NTP,0,0,0,,{\fs80}在睡梦中 就被烟呛醒了…
+Dialogue: 0,0:50:18.78,0:50:21.54,Default,NTP,0,0,0,,{\fs80}但是… 有个姐姐把我们都救了出去
+Dialogue: 0,0:50:21.62,0:50:22.84,Default,NTP,0,0,0,,{\fs80}烧起来了
+Dialogue: 0,0:50:22.92,0:50:25.72,Default,NTP,0,0,0,,{\fs80}但是救出孩子的神秘女性…
+Dialogue: 0,0:50:25.82,0:50:28.15,Default,NTP,0,0,0,,{\fs80}从现场突然消失了
+Dialogue: 0,0:50:28.36,0:50:30.79,Default,NTP,0,0,0,,{\fs80}孩子们说 是天使降临了
+Dialogue: 0,0:50:31.53,0:50:33.58,Default,NTP,0,0,0,,{\fs80}是天使救了我们
+Dialogue: 0,0:50:33.99,0:50:36.90,Default,NTP,0,0,0,,{\fs80}那一定是天使 天使救了我们…
+Dialogue: 0,0:50:37.00,0:50:39.66,Default,NTP,0,0,0,,{\fs80}什么 天使怎么了？
+Dialogue: 0,0:50:44.41,0:50:45.50,Default,NTP,0,0,0,,{\fs80}好烫
+Dialogue: 0,0:50:45.84,0:50:48.64,Default,NTP,0,0,0,,{\fs80}啊 不要把窗帘拉开呀
+Dialogue: 0,0:50:49.94,0:50:53.14,Default,NTP,0,0,0,,{\fs80}那家伙一直瞪着我 我很生气
+Dialogue: 0,0:51:00.79,0:51:02.45,Default,NTP,0,0,0,,{\fs80}- 我说 - 嗯？
+Dialogue: 0,0:51:03.16,0:51:05.42,Default,NTP,0,0,0,,{\fs80}回你的家乡看看吧
+Dialogue: 0,0:51:05.89,0:51:07.02,Default,NTP,0,0,0,,{\fs80}家乡？
+Dialogue: 0,0:51:09.30,0:51:11.86,Default,NTP,0,0,0,,{\fs80}我的家乡早就沒了
+Dialogue: 0,0:51:12.60,0:51:16.93,Default,NTP,0,0,0,,{\fs80}一场大地震使得无数人失去了家园 搬出了村子
+Dialogue: 0,0:51:17.61,0:51:20.97,Default,NTP,0,0,0,,{\fs80}早就重建起了新的城市
+Dialogue: 0,0:51:21.04,0:51:23.81,Default,NTP,0,0,0,,{\fs80}现在居住在那里的 都是我所不认识的外乡人
+Dialogue: 0,0:51:25.15,0:51:27.11,Default,NTP,0,0,0,,{\fs80}现在已经算不上什么家乡了
+Dialogue: 0,0:51:27.41,0:51:29.04,Default,NTP,0,0,0,,{\fs80}但是你想回去 对吧？
+Dialogue: 0,0:51:29.42,0:51:31.91,Default,NTP,0,0,0,,{\fs80}你一直在为自己没有回到家乡而感到遗憾
+Dialogue: 0,0:51:34.89,0:51:37.26,Default,NTP,0,0,0,,{\fs80}你上了年纪后一直到死
+Dialogue: 0,0:51:37.36,0:51:39.85,Default,NTP,0,0,0,,{\fs80}都会后悔着沒去家乡看看
+Dialogue: 0,0:51:41.20,0:51:44.82,Default,NTP,0,0,0,,{\fs80}我… 因为年纪大而死去？
+Dialogue: 0,0:51:50.77,0:51:52.26,Default,NTP,0,0,0,,{\fs80}我也会死？
+Dialogue: 0,0:51:54.14,0:51:55.17,Default,NTP,0,0,0,,{\fs80}是这样吧
+Dialogue: 0,0:51:56.64,0:52:00.34,Default,NTP,0,0,0,,{\fs80}我也和其他人一样会死的
+Dialogue: 0,0:52:01.98,0:52:03.42,Default,NTP,0,0,0,,{\fs80}呜
+Dialogue: 0,0:52:07.82,0:52:11.45,Default,NTP,0,0,0,,{\fs80}喂 不要动不动就跟个女人似的哭哭啼啼
+Dialogue: 0,0:52:11.89,0:52:13.48,Default,NTP,0,0,0,,{\fs80}又不是叫你现在就死
+Dialogue: 0,0:52:13.56,0:52:14.72,Default,NTP,0,0,0,,{\fs80}不是这样的啦
+Dialogue: 0,0:52:16.10,0:52:19.36,Default,NTP,0,0,0,,{\fs80}虽然很怀念家乡 但也想念奶奶
+Dialogue: 0,0:52:19.97,0:52:23.60,Default,NTP,0,0,0,,{\fs80}再想到年老 去世的自己
+Dialogue: 0,0:52:23.67,0:52:25.16,Default,NTP,0,0,0,,{\fs80}- 好可怜 - 别说了
+Dialogue: 0,0:52:35.48,0:52:36.41,Default,NTP,0,0,0,,{\fs80}走吧
+Dialogue: 0,0:52:41.72,0:52:42.62,Default,NTP,0,0,0,,{\fs80}去哪？
+Dialogue: 0,0:52:53.40,0:52:54.70,Default,NTP,0,0,0,,{\fs80}谢谢
+Dialogue: 0,0:52:57.94,0:52:59.53,Default,NTP,0,0,0,,{\fs80}嗯  好吃
+Dialogue: 0,0:53:12.22,0:53:14.15,Default,NTP,0,0,0,,{\fs80}太干了… 吞不下去
+Dialogue: 0,0:53:16.56,0:53:19.22,Default,NTP,0,0,0,,{\fs80}我现在就带你回到你的家乡
+Dialogue: 0,0:53:19.93,0:53:22.33,Default,NTP,0,0,0,,{\fs80}但是… 有一件事你一定要记住
+Dialogue: 0,0:53:23.06,0:53:27.90,Default,NTP,0,0,0,,{\fs80}无论见到谁 都不能同他交谈 明白了吗
+Dialogue: 0,0:53:28.70,0:53:31.47,Default,NTP,0,0,0,,{\fs80}嗯  知道了
+Dialogue: 0,0:54:54.82,0:54:57.88,Default,NTP,0,0,0,,{\fs80}和我小时候见过的一模一样
+Dialogue: 0,0:55:03.93,0:55:06.42,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,0:55:07.40,0:55:08.60,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,0:55:08.70,0:55:09.73,Default,NTP,0,0,0,,{\fs80}亮介？
+Dialogue: 0,0:55:10.07,0:55:12.06,Default,NTP,0,0,0,,{\fs80}喔  是亮介
+Dialogue: 0,0:55:12.74,0:55:14.87,Default,NTP,0,0,0,,{\fs80}那小子跟以前一模一样
+Dialogue: 0,0:55:15.91,0:55:16.81,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,0:55:57.08,0:56:02.52,Default,NTP,0,0,0,,{\fs80}等等 等等 等等…
+Dialogue: 0,0:56:20.27,0:56:22.44,Default,NTP,0,0,0,,{\fs80}喔  次郎
+Dialogue: 0,0:56:41.36,0:56:42.39,Default,NTP,0,0,0,,{\fs80}看看这个
+Dialogue: 0,0:56:42.46,0:56:45.26,Default,NTP,0,0,0,,{\fs80}这是下雨的时候 次郎送给我的小石头哟
+Dialogue: 0,0:56:45.57,0:56:50.53,Default,NTP,0,0,0,,{\fs80}我爸爸说 这是鲍鱼的化石
+Dialogue: 0,0:56:50.60,0:56:56.07,Default,NTP,0,0,0,,{\fs80}它的岁数比一亿年还长呢
+Dialogue: 0,0:57:23.97,0:57:25.00,Default,NTP,0,0,0,,{\fs80}是我
+Dialogue: 0,0:57:27.54,0:57:29.27,Default,NTP,0,0,0,,{\fs80}小时候的我
+Dialogue: 0,0:58:04.88,0:58:07.07,Default,NTP,0,0,0,,{\fs80}未来的你这样说着
+Dialogue: 0,0:58:08.12,0:58:10.11,Default,NTP,0,0,0,,{\fs80}「假如遇到了以前的自己…」
+Dialogue: 0,0:58:10.18,0:58:13.95,Default,NTP,0,0,0,,{\fs80}「请帶我回到家乡去」
+Dialogue: 0,0:58:17.36,0:58:19.69,Default,NTP,0,0,0,,{\fs80}我的家大慨在那边
+Dialogue: 0,0:58:20.79,0:58:22.99,Default,NTP,0,0,0,,{\fs80}因为门前种着柿子树
+Dialogue: 0,0:58:23.23,0:58:25.72,Default,NTP,0,0,0,,{\fs80}所以被叫做"柿子树的家"
+Dialogue: 0,0:58:26.57,0:58:29.26,Default,NTP,0,0,0,,{\fs80}每当我从学校回家的时候…
+Dialogue: 0,0:58:29.84,0:58:34.36,Default,NTP,0,0,0,,{\fs80}奶奶总会站在村口等着我
+Dialogue: 0,0:58:35.01,0:58:39.60,Default,NTP,0,0,0,,{\fs80}但我不喜欢别人看见我和奶奶一起回家
+Dialogue: 0,0:58:40.10,0:58:44.86,Default,NTP,0,0,0,,{\fs80}总是远远的 跑到奶奶看不见的地方去玩
+Dialogue: 0,0:58:48.60,0:58:50.07,Default,NTP,0,0,0,,{\fs80}是次郎吗？
+Dialogue: 0,0:58:51.51,0:58:52.60,Default,NTP,0,0,0,,{\fs80}奶奶？
+Dialogue: 0,0:58:53.91,0:58:55.64,Default,NTP,0,0,0,,{\fs80}是次郎吗？
+Dialogue: 0,0:58:56.14,0:58:57.91,Default,NTP,0,0,0,,{\fs80}奶奶
+Dialogue: 0,0:59:06.05,0:59:07.95,Default,NTP,0,0,0,,{\fs80}真是的 你这孩子…
+Dialogue: 0,0:59:08.02,0:59:10.42,Default,NTP,0,0,0,,{\fs80}肚子饿了吧 趕快回家吧
+Dialogue: 0,0:59:10.49,0:59:13.26,Default,NTP,0,0,0,,{\fs80}奶奶给你弄好多好吃的
+Dialogue: 0,0:59:13.33,0:59:14.30,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:59:14.36,0:59:16.89,Default,NTP,0,0,0,,{\fs80}今天有没有惹老师生气吧？
+Dialogue: 0,0:59:17.00,0:59:18.47,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,0:59:18.57,0:59:21.90,Default,NTP,0,0,0,,{\fs80}今天忘记写作业的人被老师体罚了 但是我被夸奖了
+Dialogue: 0,0:59:22.00,0:59:26.57,Default,NTP,0,0,0,,{\fs80}啊哈哈 次郎真了不起
+Dialogue: 0,0:59:50.73,0:59:52.83,Default,NTP,0,0,0,,{\fs80}拉乌尔 乖乖的吃哦
+Dialogue: 0,1:01:35.20,1:01:36.90,Default,NTP,0,0,0,,{\fs80}「给未来的我」
+Dialogue: 0,1:01:39.11,1:01:46.74,Default,NTP,0,0,0,,{\fs80}「我长大了一定要成为伟大的科学家 」
+Dialogue: 0,1:01:47.52,1:01:48.50,Default,NTP,0,0,0,,{\fs80}「哈哈…」
+Dialogue: 0,1:01:57.53,1:02:02.29,Default,NTP,0,0,0,,{\fs80}你回去了 请代我跟未来的我道一声
+Dialogue: 0,1:02:05.90,1:02:07.30,Default,NTP,0,0,0,,{\fs80}「谢谢」
+Dialogue: 0,1:02:14.31,1:02:15.64,Default,NTP,0,0,0,,{\fs80}怎么了？
+Dialogue: 0,1:02:20.35,1:02:21.68,Default,NTP,0,0,0,,{\fs80}沒什么
+Dialogue: 0,1:02:23.55,1:02:25.71,Default,NTP,0,0,0,,{\fs80}我一定会告诉他的
+Dialogue: 0,1:02:31.79,1:02:36.06,Default,NTP,0,0,0,,{\fs80}现在想起来 小时候奶奶常常背着我走呢
+Dialogue: 0,1:02:36.93,1:02:42.06,Default,NTP,0,0,0,,{\fs80}那个时候 奶奶的背又宽厚又温暖…
+Dialogue: 0,1:02:42.57,1:02:44.77,Default,NTP,0,0,0,,{\fs80}我的背就不温暖吗？
+Dialogue: 0,1:02:45.11,1:02:48.23,Default,NTP,0,0,0,,{\fs80}你的背很凉啊 因为没有体温
+Dialogue: 0,1:02:48.31,1:02:49.28,Default,NTP,0,0,0,,{\fs80}是吗？
+Dialogue: 0,1:02:49.38,1:02:52.31,Default,NTP,0,0,0,,{\fs80}啊  好痛
+Dialogue: 0,1:02:53.18,1:02:55.38,Default,NTP,0,0,0,,{\fs80}你的背也很温暖
+Dialogue: 0,1:02:55.88,1:02:59.58,Default,NTP,0,0,0,,{\fs80}不仅背很温暖 你的心更暖
+Dialogue: 0,1:02:59.79,1:03:00.78,Default,NTP,0,0,0,,{\fs80}是吗？
+Dialogue: 0,1:03:01.99,1:03:05.08,Default,NTP,0,0,0,,{\fs80}过来 我再背你一次
+Dialogue: 0,1:03:06.53,1:03:07.55,Default,NTP,0,0,0,,{\fs80}谢谢
+Dialogue: 0,1:03:11.00,1:03:12.59,Default,NTP,0,0,0,,{\fs80}痛啊 等一下
+Dialogue: 0,1:03:13.23,1:03:15.17,Default,NTP,0,0,0,,{\fs80}啊 好的 哇
+Dialogue: 0,1:03:15.30,1:03:17.46,Default,NTP,0,0,0,,{\fs80}抓到了 你等下啦 等等
+Dialogue: 0,1:03:20.44,1:03:23.71,Default,NTP,0,0,0,,{\fs80}我之后才知道的
+Dialogue: 0,1:03:24.35,1:03:25.81,Default,NTP,0,0,0,,{\fs80}我的奶奶…
+Dialogue: 0,1:03:27.82,1:03:32.22,Default,NTP,0,0,0,,{\fs80}其实就是我的妈妈
+Dialogue: 0,1:03:33.15,1:03:36.32,Default,NTP,0,0,0,,{\fs80}上了年纪才生下我 所以她一直瞒着我
+Dialogue: 0,1:03:55.18,1:03:58.17,Default,NTP,0,0,0,,{\fs80}是因为她的背很凉吗？
+Dialogue: 0,1:03:58.85,1:04:02.51,Default,NTP,0,0,0,,{\fs80}还是因为我回到了过去？
+Dialogue: 0,1:04:03.39,1:04:06.79,Default,NTP,0,0,0,,{\fs80}回来之后我就病倒了
+Dialogue: 0,1:04:08.92,1:04:10.69,Default,NTP,0,0,0,,{\fs80}她慢慢地…
+Dialogue: 0,1:04:10.89,1:04:14.49,Default,NTP,0,0,0,,{\fs80}似乎能感受到我的內心想法？
+Dialogue: 0,1:04:15.70,1:04:20.00,Default,NTP,0,0,0,,{\fs80}或者认为我两的心 正在互通着的…
+Dialogue: 0,1:04:20.27,1:04:22.50,Default,NTP,0,0,0,,{\fs80}这是我的错觉吗？
+Dialogue: 0,1:04:23.57,1:04:29.31,Default,NTP,0,0,0,,{\fs80}改变的时间 到底需要我怎么去填补？
+Dialogue: 0,1:04:34.82,1:04:38.62,Default,NTP,0,0,0,,{\fs80}北村先生 到打针的時间了 醒醒
+Dialogue: 0,1:04:52.53,1:04:54.93,Default,NTP,0,0,0,,{\fs80}好的 拜託了
+Dialogue: 0,1:04:57.57,1:04:59.13,Default,NTP,0,0,0,,{\fs80}现在临时插播新闻
+Dialogue: 0,1:04:59.24,1:05:00.04,Default,NTP,0,0,0,,{\fs80}啊  好疼  痛…
+Dialogue: 0,1:05:00.14,1:05:05.01,Default,NTP,0,0,0,,{\fs80}立贵族学校兰山女子高中被不明人士入侵
+Dialogue: 0,1:05:05.08,1:05:07.51,Default,NTP,0,0,0,,{\fs80}以老师和学生为人质…
+Dialogue: 0,1:05:07.62,1:05:09.08,Default,NTP,0,0,0,,{\fs80}请按着这里
+Dialogue: 0,1:05:09.68,1:05:12.78,Default,NTP,0,0,0,,{\fs80}这是丰国记者从现场发回的报道
+Dialogue: 0,1:05:12.89,1:05:16.48,Default,NTP,0,0,0,,{\fs80}- 丰国记者 - 是 这里是兰山女子高中
+Dialogue: 0,1:05:16.62,1:05:19.96,Default,NTP,0,0,0,,{\fs80}目前现场一片混乱
+Dialogue: 0,1:05:20.03,1:05:22.52,Default,NTP,0,0,0,,{\fs80}今天早上8点35分…
+Dialogue: 0,1:05:22.63,1:05:26.53,Default,NTP,0,0,0,,{\fs80}犯人侵入并占据了
+Dialogue: 0,1:05:26.73,1:05:31.33,Default,NTP,0,0,0,,{\fs80}东侧校舍2年G班的教室
+Dialogue: 0,1:05:31.41,1:05:33.70,Default,NTP,0,0,0,,{\fs80}犯人的身份目前尚未查明
+Dialogue: 0,1:05:33.78,1:05:37.30,Default,NTP,0,0,0,,{\fs80}据情报显示 犯人没有提出任何要求
+Dialogue: 0,1:05:37.48,1:05:38.84,Default,NTP,0,0,0,,{\fs80}一直很平静的女子高中…
+Dialogue: 0,1:05:38.91,1:05:41.68,Default,NTP,0,0,0,,{\fs80}到底为何会发生这样的事情呢？
+Dialogue: 0,1:05:41.78,1:05:44.58,Default,NTP,0,0,0,,{\fs80}围观的市民也是百感交集…
+Dialogue: 0,1:05:44.69,1:05:46.28,Default,NTP,0,0,0,,{\fs80}根据几位目击者提供的证词…
+Dialogue: 0,1:05:46.55,1:05:51.12,Default,NTP,0,0,0,,{\fs80}犯人似乎是持刀侵入…
+Dialogue: 0,1:05:51.19,1:05:53.46,Default,NTP,0,0,0,,{\fs80}也有目击者称犯人走路东倒西歪
+Dialogue: 0,1:05:53.56,1:05:56.83,Default,NTP,0,0,0,,{\fs80}不时发出怪声
+Dialogue: 0,1:05:56.90,1:05:58.76,Default,NTP,0,0,0,,{\fs80}是否是因为处于烂醉状态下…
+Dialogue: 0,1:05:58.87,1:06:02.86,Default,NTP,0,0,0,,{\fs80}也不能排除其服用兴奋剂的可能性…
+Dialogue: 0,1:06:03.40,1:06:08.34,Default,NTP,0,0,0,,{\fs80}啊 对不起 已经查明犯人的身份了
+Dialogue: 0,1:06:08.44,1:06:13.75,Default,NTP,0,0,0,,{\fs80}犯人家住千叶县风间市
+Dialogue: 0,1:06:13.85,1:06:14.97,Default,NTP,0,0,0,,{\fs80}阿部武 37岁 男性 无业
+Dialogue: 0,1:06:18.45,1:06:22.65,Default,NTP,0,0,0,,{\fs80}现在犯人情绪相当激动 用椅子打碎了窗户
+Dialogue: 0,1:06:22.92,1:06:26.09,Default,NTP,0,0,0,,{\fs80}正如大家所見 情况相当不妙
+Dialogue: 0,1:06:26.19,1:06:29.19,Default,NTP,0,0,0,,{\fs80}警方打算采取怎样的对策呢
+Dialogue: 0,1:06:29.40,1:06:31.56,Default,NTP,0,0,0,,{\fs80}只能祈祷不要伤及无辜
+Dialogue: 0,1:06:31.67,1:06:33.79,Default,NTP,0,0,0,,{\fs80}只能祈祷不要有牺牲者
+Dialogue: 0,1:06:34.14,1:06:35.23,Default,NTP,0,0,0,,{\fs80}啊 犯人出来了
+Dialogue: 0,1:06:35.34,1:06:40.00,Default,NTP,0,0,0,,{\fs80}犯人拿着刀 挟持着女教师走了出来
+Dialogue: 0,1:06:40.07,1:06:42.67,Default,NTP,0,0,0,,{\fs80}好像在叫着什么 阿部武好像在叫着什么
+Dialogue: 0,1:06:42.81,1:06:45.04,Default,NTP,0,0,0,,{\fs80}我先杀了这个女教师
+Dialogue: 0,1:06:45.68,1:06:47.20,Default,NTP,0,0,0,,{\fs80}我是阿部武
+Dialogue: 0,1:06:47.32,1:06:50.75,Default,NTP,0,0,0,,{\fs80}我不要一个人死 听懂了没
+Dialogue: 0,1:06:50.85,1:06:52.84,Default,NTP,0,0,0,,{\fs80}我绝对不要一个人去死
+Dialogue: 0,1:06:54.22,1:06:56.88,Default,NTP,0,0,0,,{\fs80}刚才好像是警方开枪了
+Dialogue: 0,1:06:56.96,1:06:58.45,Default,NTP,0,0,0,,{\fs80}再开枪 再开枪试试
+Dialogue: 0,1:06:59.46,1:07:01.36,Default,NTP,0,0,0,,{\fs80}再开枪我把所有人都杀了
+Dialogue: 0,1:07:03.00,1:07:04.76,Default,NTP,0,0,0,,{\fs80}好像是狙击失败了
+Dialogue: 0,1:07:05.13,1:07:07.47,Default,NTP,0,0,0,,{\fs80}反而激怒了犯人
+Dialogue: 0,1:07:07.57,1:07:09.94,Default,NTP,0,0,0,,{\fs80}他挟持着女教师又进去了
+Dialogue: 0,1:07:10.04,1:07:11.56,Default,NTP,0,0,0,,{\fs80}情况相当危急
+Dialogue: 0,1:07:11.91,1:07:16.00,Default,NTP,0,0,0,,{\fs80}警察的狙击失败 教室里传来了阵阵惨叫声
+Dialogue: 0,1:07:16.11,1:07:21.01,Default,NTP,0,0,0,,{\fs80}学生们试图用自己的力量制服犯人
+Dialogue: 0,1:07:21.15,1:07:25.11,Default,NTP,0,0,0,,{\fs80}还是不行 犯人始终没有放下刀
+Dialogue: 0,1:07:26.72,1:07:27.81,Default,NTP,0,0,0,,{\fs80}情况更加严重了
+Dialogue: 0,1:07:29.36,1:07:30.48,Default,NTP,0,0,0,,{\fs80}不知道是谁…
+Dialogue: 0,1:07:30.59,1:07:34.03,Default,NTP,0,0,0,,{\fs80}跨过了警方的封锁线上了3楼
+Dialogue: 0,1:07:34.13,1:07:37.19,Default,NTP,0,0,0,,{\fs80}好像正在教室里和犯人展开搏斗
+Dialogue: 0,1:07:37.30,1:07:39.86,Default,NTP,0,0,0,,{\fs80}这个时代还存在英雄吗？
+Dialogue: 0,1:07:40.17,1:07:42.86,Default,NTP,0,0,0,,{\fs80}抑或是来自未来世界的超人？
+Dialogue: 0,1:07:47.01,1:07:50.38,Default,NTP,0,0,0,,{\fs80}现在警方正在逮捕犯人
+Dialogue: 0,1:07:50.48,1:07:53.94,Default,NTP,0,0,0,,{\fs80}有人好像受伤了
+Dialogue: 0,1:07:54.05,1:07:57.25,Default,NTP,0,0,0,,{\fs80}然而将犯人制服的英雄却消失了踪影
+Dialogue: 0,1:07:57.39,1:07:59.51,Default,NTP,0,0,0,,{\fs80}眼前这一切都是真的吗？
+Dialogue: 0,1:07:59.62,1:08:03.06,Default,NTP,0,0,0,,{\fs80}这世上真有那样行动敏捷的人吗…
+Dialogue: 0,1:08:10.06,1:08:11.33,Default,NTP,0,0,0,,{\fs80}干得漂亮
+Dialogue: 0,1:08:12.30,1:08:13.96,Default,NTP,0,0,0,,{\fs80}干得真漂亮
+Dialogue: 0,1:08:15.67,1:08:16.86,Default,NTP,0,0,0,,{\fs80}真不愧是
+Dialogue: 0,1:08:18.41,1:08:20.37,Default,NTP,0,0,0,,{\fs80}我的女朋友
+Dialogue: 0,1:10:05.18,1:10:08.34,Default,NTP,0,0,0,,{\fs80}这些全都是未来的你拜托我做的事
+Dialogue: 0,1:10:10.15,1:10:13.55,Default,NTP,0,0,0,,{\fs80}未来的你心中留有很多遗憾
+Dialogue: 0,1:10:14.92,1:10:17.82,Default,NTP,0,0,0,,{\fs80}比如 就在离你工作地点不远的公路上
+Dialogue: 0,1:10:18.19,1:10:20.09,Default,NTP,0,0,0,,{\fs80}发生卡车碾死小孩的事件
+Dialogue: 0,1:10:25.93,1:10:28.16,Default,NTP,0,0,0,,{\fs80}比如 西兰公国少足俱乐部的火灾
+Dialogue: 0,1:10:28.17,1:10:29.70,Default,NTP,0,0,0,,{\fs80}那些孩子不幸身亡的事件
+Dialogue: 0,1:10:30.04,1:10:31.90,Default,NTP,0,0,0,,{\fs80}你难以抑制心中的悲痛
+Dialogue: 0,1:10:33.84,1:10:36.04,Default,NTP,0,0,0,,{\fs80}未来的你 也像你现在一样
+Dialogue: 0,1:10:36.14,1:10:37.95,Default,NTP,0,0,0,,{\fs80}只能在病房里 眼睁睁地
+Dialogue: 0,1:10:37.95,1:10:39.91,Default,NTP,0,0,0,,{\fs80}看着兰山女子高中的案件发生
+Dialogue: 0,1:10:41.75,1:10:44.65,Default,NTP,0,0,0,,{\fs80}警察狙击犯人失敗
+Dialogue: 0,1:10:45.32,1:10:47.81,Default,NTP,0,0,0,,{\fs80}8个女高中生因此丧命
+Dialogue: 0,1:10:48.46,1:10:52.89,Default,NTP,0,0,0,,{\fs80}在完全不明所以的情况下 一个接一个的死去
+Dialogue: 0,1:10:53.36,1:10:55.80,Default,NTP,0,0,0,,{\fs80}被卷入事件的人们心里
+Dialogue: 0,1:10:56.26,1:10:59.53,Default,NTP,0,0,0,,{\fs80}都刻上了永远无法愈合的伤口
+Dialogue: 0,1:11:01.14,1:11:02.93,Default,NTP,0,0,0,,{\fs80}未来的你也说
+Dialogue: 0,1:11:03.04,1:11:06.17,Default,NTP,0,0,0,,{\fs80}"决不能纵容这些事情发生"
+Dialogue: 0,1:11:07.88,1:11:12.11,Default,NTP,0,0,0,,{\fs80}看来未来的我 是个非常温柔的人呢
+Dialogue: 0,1:11:14.32,1:11:15.48,Default,NTP,0,0,0,,{\fs80}对吗？
+Dialogue: 0,1:11:16.42,1:11:17.41,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:11:19.15,1:11:20.88,Default,NTP,0,0,0,,{\fs80}现在的你也是
+Dialogue: 0,1:11:23.46,1:11:28.19,Default,NTP,0,0,0,,{\fs80}未来的我 也一定很爱她吧
+Dialogue: 0,1:11:29.66,1:11:34.50,Default,NTP,0,0,0,,{\fs80}毫无疑问 我已经开始爱上她了
+Dialogue: 0,1:11:50.89,1:11:53.88,Default,NTP,0,0,0,,{\fs80}没有任何感觉？
+Dialogue: 0,1:11:54.76,1:11:55.72,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:11:56.39,1:11:58.59,Default,NTP,0,0,0,,{\fs80}心跳也沒加速？
+Dialogue: 0,1:11:59.69,1:12:00.59,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:12:02.23,1:12:04.13,Default,NTP,0,0,0,,{\fs80}知道我在干什么吗？
+Dialogue: 0,1:12:05.03,1:12:05.96,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:12:07.20,1:12:08.10,Default,NTP,0,0,0,,{\fs80}这样啊
+Dialogue: 0,1:12:08.60,1:12:09.97,Default,NTP,0,0,0,,{\fs80}你怎么样？
+Dialogue: 0,1:12:11.64,1:12:13.50,Default,NTP,0,0,0,,{\fs80}有点触电的感觉
+Dialogue: 0,1:12:14.21,1:12:16.80,Default,NTP,0,0,0,,{\fs80}就像把干电池放进嘴边一样
+Dialogue: 0,1:12:18.51,1:12:20.57,Default,NTP,0,0,0,,{\fs80}我会让你更加触电的
+Dialogue: 0,1:12:20.92,1:12:21.85,Default,NTP,0,0,0,,{\fs80}不用了
+Dialogue: 0,1:12:22.72,1:12:23.88,Default,NTP,0,0,0,,{\fs80}不需要
+Dialogue: 0,1:12:25.09,1:12:26.71,Default,NTP,0,0,0,,{\fs80}你在生什么气？
+Dialogue: 0,1:12:27.12,1:12:28.11,Default,NTP,0,0,0,,{\fs80}沒什么
+Dialogue: 0,1:12:57.08,1:12:58.21,Default,NTP,0,0,0,,{\fs80}对不起
+Dialogue: 0,1:13:00.15,1:13:04.85,Default,NTP,0,0,0,,{\fs80}我对你寄予太多的期望了
+Dialogue: 0,1:13:06.56,1:13:10.86,Default,NTP,0,0,0,,{\fs80}但是 我这样的心情 该如何是好呢？
+Dialogue: 0,1:13:16.34,1:13:19.67,Default,NTP,0,0,0,,{\fs80}我不想只有我一个人受这种煎熬
+Dialogue: 0,1:13:20.94,1:13:25.40,Default,NTP,0,0,0,,{\fs80}每天都必须要面对着你
+Dialogue: 0,1:13:27.65,1:13:29.14,Default,NTP,0,0,0,,{\fs80}我该怎么办？
+Dialogue: 0,1:13:46.47,1:13:48.70,Default,NTP,0,0,0,,{\fs80}既然说不出"我爱你"
+Dialogue: 0,1:13:52.51,1:13:57.21,Default,NTP,0,0,0,,{\fs80}至少也希望听到你说一句
+Dialogue: 0,1:13:59.48,1:14:01.14,Default,NTP,0,0,0,,{\fs80}"我能感觉到你的心"
+Dialogue: 0,1:14:35.95,1:14:39.91,Default,NTP,0,0,0,,{\fs80}我故意和其他女人跳舞
+Dialogue: 0,1:14:41.29,1:14:43.55,Default,NTP,0,0,0,,{\fs80}就是为了让她吃醋
+Dialogue: 0,1:14:44.73,1:14:49.46,Default,NTP,0,0,0,,{\fs80}却适得其反 吃醋的却是我自己
+Dialogue: 0,1:14:56.17,1:14:59.70,Default,NTP,0,0,0,,{\fs80}嘿 跟我一起疯狂吧
+Dialogue: 0,1:15:05.58,1:15:06.48,Default,NTP,0,0,0,,{\fs80}是的
+Dialogue: 0,1:15:21.16,1:15:24.29,Default,NTP,0,0,0,,{\fs80}就像这样 机器舞你会吗？
+Dialogue: 0,1:15:33.67,1:15:35.61,Default,NTP,0,0,0,,{\fs80}就这样… 嗯  就这样…
+Dialogue: 0,1:16:45.25,1:16:46.27,Default,NTP,0,0,0,,{\fs80}走吧
+Dialogue: 0,1:17:08.34,1:17:09.63,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,1:17:19.65,1:17:21.31,Default,NTP,0,0,0,,{\fs80}沒车吗？
+Dialogue: 0,1:17:21.62,1:17:25.05,Default,NTP,0,0,0,,{\fs80}啊 想去喝酒就没开出来
+Dialogue: 0,1:17:25.12,1:17:26.45,Default,NTP,0,0,0,,{\fs80}- 这样啊 - 嗯
+Dialogue: 0,1:17:26.55,1:17:28.82,Default,NTP,0,0,0,,{\fs80}那今天就先放过你
+Dialogue: 0,1:17:33.33,1:17:35.69,Default,NTP,0,0,0,,{\fs80}她一直跟着我们呢
+Dialogue: 0,1:17:35.93,1:17:39.33,Default,NTP,0,0,0,,{\fs80}啊 是我的保镖啦
+Dialogue: 0,1:17:39.63,1:17:42.00,Default,NTP,0,0,0,,{\fs80}保镖？  真的吗？
+Dialogue: 0,1:17:42.54,1:17:46.77,Default,NTP,0,0,0,,{\fs80}你真厉害 还有保镖啊
+Dialogue: 0,1:17:46.87,1:17:48.54,Default,NTP,0,0,0,,{\fs80}也没什么
+Dialogue: 0,1:18:03.66,1:18:04.39,Default,NTP,0,0,0,,{\fs80}痛啊
+Dialogue: 0,1:18:04.83,1:18:07.45,Default,NTP,0,0,0,,{\fs80}你干什么 我不是那种女人
+Dialogue: 0,1:18:07.66,1:18:09.46,Default,NTP,0,0,0,,{\fs80}下流
+Dialogue: 0,1:18:14.47,1:18:18.13,Default,NTP,0,0,0,,{\fs80}你干什么 干什么呢 她什么都没做啊
+Dialogue: 0,1:18:18.21,1:18:19.67,Default,NTP,0,0,0,,{\fs80}她不是打你了吗？
+Dialogue: 0,1:18:22.04,1:18:23.41,Default,NTP,0,0,0,,{\fs80}你在吃醋？
+Dialogue: 0,1:18:24.71,1:18:25.77,Default,NTP,0,0,0,,{\fs80}吃醋？
+Dialogue: 0,1:18:26.18,1:18:27.31,Default,NTP,0,0,0,,{\fs80}吃醋
+Dialogue: 0,1:18:28.28,1:18:30.81,Default,NTP,0,0,0,,{\fs80}不爽 吃醋
+Dialogue: 0,1:18:31.45,1:18:34.05,Default,NTP,0,0,0,,{\fs80}啊… 反胃 好想吐
+Dialogue: 0,1:18:40.16,1:18:43.76,Default,NTP,0,0,0,,{\fs80}嘔  嘔
+Dialogue: 0,1:18:46.30,1:18:50.17,Default,NTP,0,0,0,,{\fs80}喂 帮我拍拍背呀
+Dialogue: 0,1:18:58.75,1:19:00.15,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,1:19:04.79,1:19:07.12,Default,NTP,0,0,0,,{\fs80}不是说了拍拍背呀？
+Dialogue: 0,1:19:08.39,1:19:10.48,Default,NTP,0,0,0,,{\fs80}这是在什么
+Dialogue: 0,1:19:11.29,1:19:12.28,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,1:19:14.80,1:19:18.25,Default,NTP,0,0,0,,{\fs80}不要再跟来了 也请滚出我家吧
+Dialogue: 0,1:19:18.63,1:19:20.43,Default,NTP,0,0,0,,{\fs80}我越来越讨厌你了
+Dialogue: 0,1:19:27.78,1:19:29.37,Default,NTP,0,0,0,,{\fs80}不要再过来
+Dialogue: 0,1:19:31.18,1:19:33.61,Default,NTP,0,0,0,,{\fs80}又能吃又粗鲁
+Dialogue: 0,1:19:33.75,1:19:36.11,Default,NTP,0,0,0,,{\fs80}拳头也比谁都硬
+Dialogue: 0,1:19:39.92,1:19:43.65,Default,NTP,0,0,0,,{\fs80}连看你走路的样子都不想再看见
+Dialogue: 0,1:19:44.66,1:19:45.82,Default,NTP,0,0,0,,{\fs80}你说真的吗？
+Dialogue: 0,1:19:46.79,1:19:48.02,Default,NTP,0,0,0,,{\fs80}真的
+Dialogue: 0,1:19:49.70,1:19:51.89,Default,NTP,0,0,0,,{\fs80}不想让你看见我的背影
+Dialogue: 0,1:19:52.33,1:19:53.63,Default,NTP,0,0,0,,{\fs80}闭上眼睛
+Dialogue: 0,1:19:55.37,1:19:57.20,Default,NTP,0,0,0,,{\fs80}在我离开以前 你不许睁开眼…
+Dialogue: 0,1:19:59.24,1:20:03.51,Default,NTP,0,0,0,,{\fs80}还有 以后不要再出现在我面前了
+Dialogue: 0,1:20:04.21,1:20:05.47,Default,NTP,0,0,0,,{\fs80}听清楚了吗？
+Dialogue: 0,1:20:31.37,1:20:32.77,Default,NTP,0,0,0,,{\fs80}啊…
+Dialogue: 0,1:20:35.24,1:20:36.68,Default,NTP,0,0,0,,{\fs80}酒醒后…
+Dialogue: 0,1:20:36.78,1:20:39.64,Default,NTP,0,0,0,,{\fs80}回想起我对她说的话
+Dialogue: 0,1:20:40.65,1:20:44.48,Default,NTP,0,0,0,,{\fs80}那是去年相遇时 她对我说的话
+Dialogue: 0,1:20:45.45,1:20:47.78,Default,NTP,0,0,0,,{\fs80}我自己也无法理解
+Dialogue: 0,1:20:48.42,1:20:51.45,Default,NTP,0,0,0,,{\fs80}为什么会说出那样的话…
+Dialogue: 0,1:20:52.86,1:20:55.89,Default,NTP,0,0,0,,{\fs80}2分之1…
+Dialogue: 0,1:20:56.00,1:20:57.05,Default,NTP,0,0,0,,{\fs80}喂
+Dialogue: 0,1:20:59.20,1:21:04.73,Default,NTP,0,0,0,,{\fs80}我的梦中情人去哪儿了？
+Dialogue: 0,1:21:06.81,1:21:08.37,Default,NTP,0,0,0,,{\fs80}走了…
+Dialogue: 0,1:21:09.64,1:21:12.74,Default,NTP,0,0,0,,{\fs80}不… 是我要她走的
+Dialogue: 0,1:21:13.51,1:21:14.41,Default,NTP,0,0,0,,{\fs80}去哪？
+Dialogue: 0,1:21:16.98,1:21:18.61,Default,NTP,0,0,0,,{\fs80}遥远的未来…
+Dialogue: 0,1:21:20.22,1:21:22.88,Default,NTP,0,0,0,,{\fs80}也让我到那边去吧
+Dialogue: 0,1:21:23.99,1:21:26.05,Default,NTP,0,0,0,,{\fs80}以你自己的力量去吧
+Dialogue: 0,1:21:26.16,1:21:28.09,Default,NTP,0,0,0,,{\fs80}- 哇 - 痛
+Dialogue: 0,1:21:29.73,1:21:33.17,Default,NTP,0,0,0,,{\fs80}好啊 次郎次郎次郎次郎
+Dialogue: 0,1:21:33.27,1:21:34.60,Default,NTP,0,0,0,,{\fs80}哈哈哈…
+Dialogue: 0,1:21:34.70,1:21:37.03,Default,NTP,0,0,0,,{\fs80}- 欢迎光临 - 我要可可和抹茶口味的
+Dialogue: 0,1:21:37.10,1:21:41.47,Default,NTP,0,0,0,,{\fs80}她不在的这段日子里 生活又回到了平常的每天
+Dialogue: 0,1:21:42.34,1:21:47.01,Default,NTP,0,0,0,,{\fs80}但是现在的每一天 已不同于往日
+Dialogue: 0,1:21:48.18,1:21:52.85,Default,NTP,0,0,0,,{\fs80}她的存在真真切切地改变了我
+Dialogue: 0,1:22:15.14,1:22:16.47,Default,NTP,0,0,0,,{\fs80}啊  对不起
+Dialogue: 0,1:22:25.05,1:22:26.18,Default,NTP,0,0,0,,{\fs80}拉乌尔？
+Dialogue: 0,1:22:27.65,1:22:28.92,Default,NTP,0,0,0,,{\fs80}拉乌尔？
+Dialogue: 0,1:22:41.54,1:22:44.63,Default,NTP,0,0,0,,{\fs80}过去去将拉乌尔带来
+Dialogue: 0,1:22:45.71,1:22:48.00,Default,NTP,0,0,0,,{\fs80}她回来过吗？
+Dialogue: 0,1:23:07.19,1:23:11.82,Default,NTP,0,0,0,,{\fs80}是谁啊 混蛋 给我滚出来 出来
+Dialogue: 0,1:23:11.90,1:23:14.23,Default,NTP,0,0,0,,{\fs80}我知道是你干的
+Dialogue: 0,1:23:14.33,1:23:17.00,Default,NTP,0,0,0,,{\fs80}喂 我数到3 要是再不滚出来
+Dialogue: 0,1:23:17.10,1:23:18.73,Default,NTP,0,0,0,,{\fs80}小心我宰了你…
+Dialogue: 0,1:23:22.68,1:23:23.70,Default,NTP,0,0,0,,{\fs80}拉乌尔
+Dialogue: 0,1:23:26.38,1:23:27.35,Default,NTP,0,0,0,,{\fs80}拉乌尔？
+Dialogue: 0,1:23:34.66,1:23:35.71,Default,NTP,0,0,0,,{\fs80}拉乌尔？
+Dialogue: 0,1:23:37.32,1:23:38.26,Default,NTP,0,0,0,,{\fs80}拉乌尔
+Dialogue: 0,1:24:54.20,1:24:55.67,Default,NTP,0,0,0,,{\fs80}啊啊… 那？
+Dialogue: 0,1:25:08.52,1:25:09.95,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:25:14.02,1:25:16.18,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:25:31.37,1:25:33.57,Default,NTP,0,0,0,,{\fs80}哇  哇  哇
+Dialogue: 0,1:25:40.51,1:25:45.18,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:26:48.32,1:26:49.98,Default,NTP,0,0,0,,{\fs80}你去哪儿了？
+Dialogue: 0,1:27:00.86,1:27:02.66,Default,NTP,0,0,0,,{\fs80}我好想你
+Dialogue: 0,1:27:10.27,1:27:12.17,Default,NTP,0,0,0,,{\fs80}赶快去安全的地方避难
+Dialogue: 0,1:27:13.24,1:27:14.23,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:27:48.21,1:27:50.77,Default,NTP,0,0,0,,{\fs80}好痛
+Dialogue: 0,1:28:55.34,1:28:59.57,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:29:07.49,1:29:08.32,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:30:01.24,1:30:02.33,Default,NTP,0,0,0,,{\fs80}真不愧是…
+Dialogue: 0,1:30:03.61,1:30:05.51,Default,NTP,0,0,0,,{\fs80}我的女朋友
+Dialogue: 0,1:30:21.49,1:30:23.46,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:30:33.47,1:30:34.80,Default,NTP,0,0,0,,{\fs80}不行…
+Dialogue: 0,1:30:45.62,1:30:47.31,Default,NTP,0,0,0,,{\fs80}哇…
+Dialogue: 0,1:30:49.06,1:30:50.11,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,1:30:53.99,1:30:56.43,Default,NTP,0,0,0,,{\fs80}哇… 啊啊…
+Dialogue: 0,1:30:57.53,1:30:59.09,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,1:30:59.83,1:31:03.53,Default,NTP,0,0,0,,{\fs80}啊　嗚嗚…
+Dialogue: 0,1:31:31.33,1:31:35.83,Default,NTP,0,0,0,,{\fs80}嗚…　啊
+Dialogue: 0,1:32:18.18,1:32:22.77,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,1:32:29.59,1:32:31.49,Default,NTP,0,0,0,,{\fs80}哇  哇
+Dialogue: 0,1:32:34.26,1:32:35.32,Default,NTP,0,0,0,,{\fs80}啊啊
+Dialogue: 0,1:32:36.56,1:32:38.66,Default,NTP,0,0,0,,{\fs80}嗚嗚…
+Dialogue: 0,1:32:46.61,1:32:51.31,Default,NTP,0,0,0,,{\fs80}嗚嗚…
+Dialogue: 0,1:32:54.01,1:32:57.97,Default,NTP,0,0,0,,{\fs80}嗚嗚…
+Dialogue: 0,1:33:09.20,1:33:11.79,Default,NTP,0,0,0,,{\fs80}啊 嗚…
+Dialogue: 0,1:33:53.01,1:33:55.30,Default,NTP,0,0,0,,{\fs80}嗚…
+Dialogue: 0,1:33:56.14,1:34:00.58,Default,NTP,0,0,0,,{\fs80}嗚… 啊 啊…
+Dialogue: 0,1:34:15.70,1:34:18.49,Default,NTP,0,0,0,,{\fs80}哇
+Dialogue: 0,1:34:28.07,1:34:30.13,Default,NTP,0,0,0,,{\fs80}嗚 啊啊
+Dialogue: 0,1:34:33.45,1:34:36.24,Default,NTP,0,0,0,,{\fs80}啊啊 嗚
+Dialogue: 0,1:34:53.87,1:34:55.70,Default,NTP,0,0,0,,{\fs80}啊
+Dialogue: 0,1:35:14.52,1:35:15.92,Default,NTP,0,0,0,,{\fs80}快走
+Dialogue: 0,1:35:19.23,1:35:21.75,Default,NTP,0,0,0,,{\fs80}不行 一起走啊
+Dialogue: 0,1:35:25.20,1:35:26.60,Default,NTP,0,0,0,,{\fs80}快走
+Dialogue: 0,1:35:30.70,1:35:32.03,Default,NTP,0,0,0,,{\fs80}不
+Dialogue: 0,1:35:34.17,1:35:35.54,Default,NTP,0,0,0,,{\fs80}你在说什么啊
+Dialogue: 0,1:35:36.91,1:35:38.21,Default,NTP,0,0,0,,{\fs80}一起走
+Dialogue: 0,1:35:39.11,1:35:41.08,Default,NTP,0,0,0,,{\fs80}我不会一个人走的
+Dialogue: 0,1:35:49.32,1:35:50.22,Default,NTP,0,0,0,,{\fs80}我…
+Dialogue: 0,1:35:53.46,1:35:56.49,Default,NTP,0,0,0,,{\fs80}能感觉到你的心
+Dialogue: 0,1:35:59.00,1:36:00.90,Default,NTP,0,0,0,,{\fs80}能感觉得到
+Dialogue: 0,1:36:10.71,1:36:12.04,Default,NTP,0,0,0,,{\fs80}快走
+Dialogue: 0,1:36:13.05,1:36:14.38,Default,NTP,0,0,0,,{\fs80}不要回头
+Dialogue: 0,1:36:17.02,1:36:18.71,Default,NTP,0,0,0,,{\fs80}不要看我
+Dialogue: 0,1:36:21.25,1:36:26.06,Default,NTP,0,0,0,,{\fs80}我不想让你看见我现在这样子
+Dialogue: 0,1:36:32.13,1:36:33.29,Default,NTP,0,0,0,,{\fs80}快走
+Dialogue: 0,1:36:39.37,1:36:41.77,Default,NTP,0,0,0,,{\fs80}噢 哇 啊
+Dialogue: 0,1:36:43.81,1:36:46.78,Default,NTP,0,0,0,,{\fs80}不要啊  …
+Dialogue: 0,1:39:46.19,1:39:47.99,Default,NTP,0,0,0,,{\fs80}我也是…
+Dialogue: 0,1:39:49.76,1:39:52.13,Default,NTP,0,0,0,,{\fs80}我也能感觉到你的心
+Dialogue: 0,1:39:55.30,1:39:57.53,Default,NTP,0,0,0,,{\fs80}能感觉得到
+Dialogue: 0,1:40:14.53,1:40:18.63,Default,NTP,0,0,0,,{\fs80}(61年后)
+Dialogue: 0,1:40:58.83,1:41:05.63,Default,NTP,0,0,0,,{\fs80}我花了61年的时间 终于让她复原了
+Dialogue: 0,1:41:06.91,1:41:11.43,Default,NTP,0,0,0,,{\fs80}很幸运的是 她还保留着原来的记忆
+Dialogue: 0,1:41:12.04,1:41:14.31,Default,NTP,0,0,0,,{\fs80}一点也没有变老
+Dialogue: 0,1:41:15.85,1:41:20.08,Default,NTP,0,0,0,,{\fs80}我能感觉到你的心
+Dialogue: 0,1:41:22.76,1:41:24.85,Default,NTP,0,0,0,,{\fs80}能感觉得到…
+Dialogue: 0,1:41:26.26,1:41:34.29,Default,NTP,0,0,0,,{\fs80}祝你生日快乐 次郎 祝你生日快乐
+Dialogue: 0,1:41:34.87,1:41:38.56,Default,NTP,0,0,0,,{\fs80}祝你生日快乐
+Dialogue: 0,1:41:47.85,1:41:49.31,Default,NTP,0,0,0,,{\fs80}恭喜
+Dialogue: 0,1:41:52.89,1:41:54.79,Default,NTP,0,0,0,,{\fs80}祝你生日快乐
+Dialogue: 0,1:42:46.69,1:42:50.09,Default,NTP,0,0,0,,{\fs80}(西元2133年)
+Dialogue: 0,1:42:57.95,1:43:00.42,Default,NTP,0,0,0,,{\fs80}过来看看
+Dialogue: 0,1:43:00.49,1:43:02.85,Default,NTP,0,0,0,,{\fs80}有个和你一模一样的机器人
+Dialogue: 0,1:43:03.09,1:43:04.08,Default,NTP,0,0,0,,{\fs80}在哪？
+Dialogue: 0,1:43:04.96,1:43:06.22,Default,NTP,0,0,0,,{\fs80}那边
+Dialogue: 0,1:43:06.39,1:43:07.72,Default,NTP,0,0,0,,{\fs80}不会吧
+Dialogue: 0,1:43:22.34,1:43:25.90,Default,NTP,0,0,0,,{\fs80}怎么会有这么神奇的事啊？
+Dialogue: 0,1:43:27.01,1:43:29.00,Default,NTP,0,0,0,,{\fs80}谁知道呢
+Dialogue: 0,1:43:29.68,1:43:31.48,Default,NTP,0,0,0,,{\fs80}什么时候做出来的呢？
+Dialogue: 0,1:43:33.59,1:43:35.68,Default,NTP,0,0,0,,{\fs80}2070年
+Dialogue: 0,1:43:37.62,1:43:40.06,Default,NTP,0,0,0,,{\fs80}到西元1972年止…
+Dialogue: 0,1:43:40.16,1:43:42.68,Default,NTP,0,0,0,,{\fs80}在美国跟香港活跃的机器人
+Dialogue: 0,1:43:43.10,1:43:48.03,Default,NTP,0,0,0,,{\fs80}叫李小龙的机器人
+Dialogue: 0,1:43:48.13,1:43:50.97,Default,NTP,0,0,0,,{\fs80}60亿成交
+Dialogue: 0,1:43:51.04,1:43:52.90,Default,NTP,0,0,0,,{\fs80}恭喜
+Dialogue: 0,1:43:52.97,1:43:55.17,Default,NTP,0,0,0,,{\fs80}那么进入下一件商品
+Dialogue: 0,1:43:57.38,1:43:59.34,Default,NTP,0,0,0,,{\fs80}这一款…
+Dialogue: 0,1:43:59.45,1:44:03.40,Default,NTP,0,0,0,,{\fs80}是于公元2070年创造出的女机器人
+Dialogue: 0,1:44:04.58,1:44:06.85,Default,NTP,0,0,0,,{\fs80}我想不少朋友也有所耳闻
+Dialogue: 0,1:44:06.95,1:44:10.15,Default,NTP,0,0,0,,{\fs80}这款机器人的制造者 在自己的回忆录里写道
+Dialogue: 0,1:44:10.42,1:44:15.69,Default,NTP,0,0,0,,{\fs80}她曾回溯到2008年 进行过一次时间旅行
+Dialogue: 0,1:44:15.76,1:44:20.56,Default,NTP,0,0,0,,{\fs80}她拯救过一个男人 和无数人的生命
+Dialogue: 0,1:44:21.40,1:44:24.43,Default,NTP,0,0,0,,{\fs80}甚至还经历过东京大地震
+Dialogue: 0,1:44:25.04,1:44:29.24,Default,NTP,0,0,0,,{\fs80}虽然生命结束了 但这机器人的脑中
+Dialogue: 0,1:44:30.01,1:44:33.24,Default,NTP,0,0,0,,{\fs80}植入了载有当时记忆的晶片
+Dialogue: 0,1:44:33.98,1:44:35.97,Default,NTP,0,0,0,,{\fs80}好 58亿
+Dialogue: 0,1:44:36.62,1:44:38.41,Default,NTP,0,0,0,,{\fs80}59亿
+Dialogue: 0,1:44:38.85,1:44:42.12,Default,NTP,0,0,0,,{\fs80}还有更高的吗 好 60亿
+Dialogue: 0,1:44:42.22,1:44:44.31,Default,NTP,0,0,0,,{\fs80}好 62亿 没有人高过这个价格了吧
+Dialogue: 0,1:44:44.92,1:44:46.41,Default,NTP,0,0,0,,{\fs80}成交
+Dialogue: 0,1:44:46.63,1:44:50.76,Default,NTP,0,0,0,,{\fs80}Y782号 62亿 恭喜您
+Dialogue: 0,1:44:50.86,1:44:52.09,Default,NTP,0,0,0,,{\fs80}恭喜
+Dialogue: 0,1:44:52.33,1:44:54.56,Default,NTP,0,0,0,,{\fs80}我们还将附赠给买家
+Dialogue: 0,1:44:54.73,1:44:58.90,Default,NTP,0,0,0,,{\fs80}这款机器人曾经的主人 所持有的吉祥物
+Dialogue: 0,1:44:59.00,1:45:00.70,Default,NTP,0,0,0,,{\fs80}再次祝贺您
+Dialogue: 0,1:45:00.97,1:45:03.07,Default,NTP,0,0,0,,{\fs80}那么进入下一环节
+Dialogue: 0,1:45:05.44,1:45:09.31,Default,NTP,0,0,0,,{\fs80}这款机器人名为猫王的机器人
+Dialogue: 0,1:45:09.75,1:45:14.08,Default,NTP,0,0,0,,{\fs80}拥有当时无与伦比的尖端关节 和出色的声音系统
+Dialogue: 0,1:45:14.32,1:45:15.98,Default,NTP,0,0,0,,{\fs80}生日快樂
+Dialogue: 0,1:45:16.06,1:45:18.05,Default,NTP,0,0,0,,{\fs80}好乱的房间…
+Dialogue: 0,1:45:18.36,1:45:20.72,Default,NTP,0,0,0,,{\fs80}那么 这里也跟人类一样吗？
+Dialogue: 0,1:45:20.79,1:45:22.39,Default,NTP,0,0,0,,{\fs80}不吃那个吗？
+Dialogue: 0,1:45:22.70,1:45:24.36,Default,NTP,0,0,0,,{\fs80}那么… 我吃了
+Dialogue: 0,1:45:25.40,1:45:26.66,Default,NTP,0,0,0,,{\fs80}谢谢
+Dialogue: 0,1:45:27.03,1:45:28.73,Default,NTP,0,0,0,,{\fs80}我的背不温暖吗？
+Dialogue: 0,1:45:28.80,1:45:32.83,Default,NTP,0,0,0,,{\fs80}未來的我也是很慈祥的呢
+Dialogue: 0,1:45:33.14,1:45:34.63,Default,NTP,0,0,0,,{\fs80}你… 吃醋了吗？
+Dialogue: 0,1:45:34.84,1:45:36.14,Default,NTP,0,0,0,,{\fs80}不行
+Dialogue: 0,1:45:36.58,1:45:38.44,Default,NTP,0,0,0,,{\fs80}你是我的女朋友
+Dialogue: 0,1:45:38.98,1:45:41.81,Default,NTP,0,0,0,,{\fs80}感受到你的心
+Dialogue: 0,1:45:42.18,1:45:43.98,Default,NTP,0,0,0,,{\fs80}能感受到
+Dialogue: 0,1:45:44.08,1:45:48.65,Default,NTP,0,0,0,,{\fs80}我将她活生生的记忆变成了自己的我的记忆
+Dialogue: 0,1:45:56.10,1:45:59.72,Default,NTP,0,0,0,,{\fs80}然后我为了和已经
+Dialogue: 0,1:45:59.83,1:46:02.32,Default,NTP,0,0,0,,{\fs80}去世60多年的他相遇
+Dialogue: 0,1:46:02.43,1:46:04.46,Default,NTP,0,0,0,,{\fs80}获得了短期的时间旅行许可证
+Dialogue: 0,1:46:06.01,1:46:08.41,Default,NTP,0,0,0,,{\fs80}原本不该去见他
+Dialogue: 0,1:46:09.34,1:46:13.37,Default,NTP,0,0,0,,{\fs80}但… 但我怎么也抑制不住冲动
+Dialogue: 0,1:46:15.45,1:46:17.35,Default,NTP,0,0,0,,{\fs80}想要去看看
+Dialogue: 0,1:46:18.78,1:46:22.28,Default,NTP,0,0,0,,{\fs80}见见这晶片上不曾记录下的他
+Dialogue: 0,1:46:22.72,1:46:25.05,Default,NTP,0,0,0,,{\fs80}在他与她未相遇之前…
+Dialogue: 0,1:46:45.68,1:46:47.24,Default,NTP,0,0,0,,{\fs80}于是我见到了他
+Dialogue: 0,1:46:48.38,1:46:49.94,Default,NTP,0,0,0,,{\fs80}见到了活着的他
+Dialogue: 0,1:46:51.78,1:46:55.15,Default,NTP,0,0,0,,{\fs80}我从见到他的第一眼起 就开始爱上了他
+Dialogue: 0,1:46:55.42,1:46:57.45,Default,NTP,0,0,0,,{\fs80}我在心中哭泣着
+Dialogue: 0,1:46:58.59,1:47:01.53,Default,NTP,0,0,0,,{\fs80}但是我不能让他看见我的眼泪
+Dialogue: 0,1:47:16.58,1:47:18.74,Default,NTP,0,0,0,,{\fs80}呼呼  呼呼
+Dialogue: 0,1:47:32.22,1:47:34.52,Default,NTP,0,0,0,,{\fs80}这间餐厅的意大利面好吃吗？
+Dialogue: 0,1:47:38.00,1:47:41.19,Default,NTP,0,0,0,,{\fs80}哇 还有2005年产的法国波尔多红葡萄酒
+Dialogue: 0,1:47:42.70,1:47:46.23,Default,NTP,0,0,0,,{\fs80}眼前的他在60年前已经去世
+Dialogue: 0,1:47:46.77,1:47:49.10,Default,NTP,0,0,0,,{\fs80}我真的无法相信
+Dialogue: 0,1:47:52.31,1:47:54.37,Default,NTP,0,0,0,,{\fs80}还有这座城市的人们
+Dialogue: 0,1:47:56.52,1:47:58.81,Default,NTP,0,0,0,,{\fs80}大地震爆发前的东京
+Dialogue: 0,1:48:00.82,1:48:03.05,Default,NTP,0,0,0,,{\fs80}都让我很难忘
+Dialogue: 0,1:48:07.79,1:48:10.09,Default,NTP,0,0,0,,{\fs80}我想在短暂而有限的时间里
+Dialogue: 0,1:48:10.20,1:48:13.53,Default,NTP,0,0,0,,{\fs80}尽我所能去和他制造更多的回忆
+Dialogue: 0,1:48:17.74,1:48:18.79,Default,NTP,0,0,0,,{\fs80}吼
+Dialogue: 0,1:48:26.18,1:48:30.31,Default,NTP,0,0,0,,{\fs80}我想看看他住的地方
+Dialogue: 0,1:48:32.08,1:48:35.32,Default,NTP,0,0,0,,{\fs80}他和她在过去发生的所有事
+Dialogue: 0,1:48:35.42,1:48:37.79,Default,NTP,0,0,0,,{\fs80}都像我自己的亲身经历一般
+Dialogue: 0,1:48:39.36,1:48:44.02,Default,NTP,0,0,0,,{\fs80}她的记忆 就像我儿时的回忆
+Dialogue: 0,1:48:44.13,1:48:46.06,Default,NTP,0,0,0,,{\fs80}仿佛触手可及
+Dialogue: 0,1:48:48.80,1:48:50.74,Default,NTP,0,0,0,,{\fs80}就在这里
+Dialogue: 0,1:48:52.40,1:48:54.43,Default,NTP,0,0,0,,{\fs80}他扶住我的肩
+Dialogue: 0,1:48:56.18,1:48:57.87,Default,NTP,0,0,0,,{\fs80}吻了我
+Dialogue: 0,1:48:59.68,1:49:00.84,Default,NTP,0,0,0,,{\fs80}那个坏蛋
+Dialogue: 0,1:49:00.98,1:49:03.31,Default,NTP,0,0,0,,{\fs80}说已经讨厌我了
+Dialogue: 0,1:49:04.12,1:49:07.31,Default,NTP,0,0,0,,{\fs80}说我乱吃东西 说我是个闯祸精
+Dialogue: 0,1:49:07.39,1:49:09.88,Default,NTP,0,0,0,,{\fs80}还说我是个醋坛子
+Dialogue: 0,1:49:10.09,1:49:12.11,Default,NTP,0,0,0,,{\fs80}说我一开始摆摆架子还能忍让
+Dialogue: 0,1:49:12.22,1:49:14.59,Default,NTP,0,0,0,,{\fs80}但最近实在太过份
+Dialogue: 0,1:49:17.60,1:49:18.79,Default,NTP,0,0,0,,{\fs80}嗚
+Dialogue: 0,1:49:20.23,1:49:24.93,Default,NTP,0,0,0,,{\fs80}短暂的相会画上了句号 分别的时刻到了
+Dialogue: 0,1:49:25.97,1:49:29.07,Default,NTP,0,0,0,,{\fs80}我不想让他看见我的眼泪
+Dialogue: 0,1:49:30.81,1:49:35.25,Default,NTP,0,0,0,,{\fs80}因为他并不知道 我为何流泪
+Dialogue: 0,1:49:35.41,1:49:36.85,Default,NTP,0,0,0,,{\fs80}闭上眼睛
+Dialogue: 0,1:49:38.35,1:49:39.28,Default,NTP,0,0,0,,{\fs80}啊？
+Dialogue: 0,1:49:39.92,1:49:41.75,Default,NTP,0,0,0,,{\fs80}叫你闭上
+Dialogue: 0,1:49:45.49,1:49:48.15,Default,NTP,0,0,0,,{\fs80}好的 已经闭上了
+Dialogue: 0,1:49:52.83,1:49:55.93,Default,NTP,0,0,0,,{\fs80}就在这里分手吧？
+Dialogue: 0,1:49:57.00,1:49:57.99,Default,NTP,0,0,0,,{\fs80}好吗？
+Dialogue: 0,1:50:01.91,1:50:06.90,Default,NTP,0,0,0,,{\fs80}因为我不想你看到我的背影
+Dialogue: 0,1:50:07.85,1:50:10.47,Default,NTP,0,0,0,,{\fs80}在我离开之前 你都不许睁开眼睛
+Dialogue: 0,1:50:11.48,1:50:12.61,Default,NTP,0,0,0,,{\fs80}好吗？
+Dialogue: 0,1:50:14.55,1:50:16.68,Default,NTP,0,0,0,,{\fs80}数到一千后 在睁开眼睛
+Dialogue: 0,1:50:17.52,1:50:19.55,Default,NTP,0,0,0,,{\fs80}一定要数到一千才行
+Dialogue: 0,1:50:22.49,1:50:24.36,Default,NTP,0,0,0,,{\fs80}还有…
+Dialogue: 0,1:50:25.10,1:50:28.53,Default,NTP,0,0,0,,{\fs80}这个给你
+Dialogue: 0,1:50:29.80,1:50:33.17,Default,NTP,0,0,0,,{\fs80}本来是送给自己的生日礼物
+Dialogue: 0,1:50:34.77,1:50:36.10,Default,NTP,0,0,0,,{\fs80}送给你
+Dialogue: 0,1:50:50.29,1:50:51.76,Default,NTP,0,0,0,,{\fs80}其实我…
+Dialogue: 0,1:50:52.56,1:50:54.58,Default,NTP,0,0,0,,{\fs80}来自遥远的未来…
+Dialogue: 0,1:50:56.06,1:50:58.76,Default,NTP,0,0,0,,{\fs80}距离现在一百年后的未来
+Dialogue: 0,1:51:00.67,1:51:02.26,Default,NTP,0,0,0,,{\fs80}坐着时间机器来的
+Dialogue: 0,1:51:04.67,1:51:05.73,Default,NTP,0,0,0,,{\fs80}吓到了吧？
+Dialogue: 0,1:51:07.11,1:51:08.09,Default,NTP,0,0,0,,{\fs80}嗯
+Dialogue: 0,1:51:12.68,1:51:18.51,Default,NTP,0,0,0,,{\fs80}现在我正慢慢的走向…
+Dialogue: 0,1:51:19.12,1:51:24.52,Default,NTP,0,0,0,,{\fs80}那个已经没有他 那个他已长眠的世界
+Dialogue: 0,1:51:30.33,1:51:34.43,Default,NTP,0,0,0,,{\fs80}你… 你刚才把眼睛睁开了
+Dialogue: 0,1:51:35.33,1:51:37.83,Default,NTP,0,0,0,,{\fs80}我一直闭着呢
+Dialogue: 0,1:51:39.00,1:51:42.80,Default,NTP,0,0,0,,{\fs80}骗人
+Dialogue: 0,1:51:43.68,1:51:48.24,Default,NTP,0,0,0,,{\fs80}我眼睛非常好 2.0以上
+Dialogue: 0,1:51:49.62,1:51:51.58,Default,NTP,0,0,0,,{\fs80}你刚才睁开眼睛了
+Dialogue: 0,1:51:52.12,1:51:53.98,Default,NTP,0,0,0,,{\fs80}在看着我吧
+Dialogue: 0,1:51:54.52,1:51:57.39,Default,NTP,0,0,0,,{\fs80}不  我真的是闭着眼睛的
+Dialogue: 0,1:51:57.59,1:52:00.92,Default,NTP,0,0,0,,{\fs80}不信的話 过来看看就知道了
+Dialogue: 0,1:52:03.36,1:52:06.06,Default,NTP,0,0,0,,{\fs80}真的闭着眼睛？
+Dialogue: 0,1:52:06.90,1:52:10.49,Default,NTP,0,0,0,,{\fs80}你是个笨蛋？
+Dialogue: 0,1:52:10.70,1:52:11.96,Default,NTP,0,0,0,,{\fs80}笨蛋
+Dialogue: 0,1:52:12.54,1:52:16.30,Default,NTP,0,0,0,,{\fs80}答对了 我就是个笨蛋
+Dialogue: 0,1:52:17.64,1:52:18.87,Default,NTP,0,0,0,,{\fs80}笨蛋
+Dialogue: 0,1:52:20.71,1:52:22.65,Default,NTP,0,0,0,,{\fs80}现在可以睁开眼睛了
+Dialogue: 0,1:52:25.12,1:52:28.14,Default,NTP,0,0,0,,{\fs80}沒关系 已经可以了
+Dialogue: 0,1:52:35.59,1:52:38.09,Default,NTP,0,0,0,,{\fs80}我现在心情好多了
+Dialogue: 0,1:52:40.20,1:52:41.39,Default,NTP,0,0,0,,{\fs80}已经没事了
+Dialogue: 0,1:52:43.27,1:52:47.60,Default,NTP,0,0,0,,{\fs80}能看到我的笑容吗？
+Dialogue: 0,1:52:57.45,1:53:00.18,Default,NTP,0,0,0,,{\fs80}啊 看得见
+Dialogue: 0,1:53:01.49,1:53:03.82,Default,NTP,0,0,0,,{\fs80}我视力也超好的
+Dialogue: 0,1:53:04.16,1:53:05.82,Default,NTP,0,0,0,,{\fs80}2.0以上
+Dialogue: 0,1:53:06.93,1:53:09.02,Default,NTP,0,0,0,,{\fs80}能清楚地看到你的笑容
+Dialogue: 0,1:53:11.36,1:53:13.19,Default,NTP,0,0,0,,{\fs80}路上小心
+Dialogue: 0,1:54:22.43,1:54:27.13,Default,NTP,0,0,0,,{\fs80}我也能感觉到你的心
+Dialogue: 0,1:54:30.31,1:54:32.67,Default,NTP,0,0,0,,{\fs80}能感觉得到
+Dialogue: 0,1:55:00.27,1:55:04.64,Default,NTP,0,0,0,,{\fs80}我又回到了他还活着的时空
+Dialogue: 0,1:55:05.44,1:55:07.54,Default,NTP,0,0,0,,{\fs80}我要在这里生活
+Dialogue: 0,1:55:08.28,1:55:09.54,Default,NTP,0,0,0,,{\fs80}和他一起
+Dialogue: 0,1:55:10.98,1:55:13.04,Default,NTP,0,0,0,,{\fs80}我感受到
+Dialogue: 0,1:55:13.59,1:55:16.55,Default,NTP,0,0,0,,{\fs80}我能感受到他的心
+Dialogue: 0,1:55:54.53,1:56:01.16,Default,NTP,0,0,0,,{\fs80}最初的约定
+Dialogue: 0,1:56:01.50,1:56:08.00,Default,NTP,0,0,0,,{\fs80}无法忘怀你的笑脸
+Dialogue: 0,1:56:08.27,1:56:14.54,Default,NTP,0,0,0,,{\fs80}在选择的旅路中
+Dialogue: 0,1:56:14.88,1:56:20.94,Default,NTP,0,0,0,,{\fs80}因为一定能想出来
+Dialogue: 0,1:56:21.35,1:56:28.02,Default,NTP,0,0,0,,{\fs80}甩开的手腕 寻求伸长的手
+Dialogue: 0,1:56:28.53,1:56:34.73,Default,NTP,0,0,0,,{\fs80}因为全部是同样的想法
+Dialogue: 0,1:56:34.90,1:56:42.00,Default,NTP,0,0,0,,{\fs80}即使迷惑着也要有梦 现在可能就知晓
+Dialogue: 0,1:56:42.17,1:56:52.95,Default,NTP,0,0,0,,{\fs80}超越苦闷到那青空
+Dialogue: 0,1:56:54.29,1:56:58.85,Default,NTP,0,0,0,,{\fs80}风在吹着
+Dialogue: 0,1:56:58.96,1:57:06.80,Default,NTP,0,0,0,,{\fs80}张开翅膀飞上天空去
+Dialogue: 0,1:57:06.90,1:57:12.39,Default,NTP,0,0,0,,{\fs80}假如有想守护的东西
+Dialogue: 0,1:57:12.50,1:57:17.41,Default,NTP,0,0,0,,{\fs80}因为人会变强
+Dialogue: 0,1:57:17.54,1:57:20.84,Default,NTP,0,0,0,,{\fs80}这样的爱
+Dialogue: 0,1:57:20.95,1:57:27.75,Default,NTP,0,0,0,,{\fs80}去那无止境的天空
+Dialogue: 0,1:57:37.76,1:57:44.43,Default,NTP,0,0,0,,{\fs80}最后的约束
+Dialogue: 0,1:57:44.54,1:57:50.91,Default,NTP,0,0,0,,{\fs80}不要后悔选择的路
+Dialogue: 0,1:57:51.41,1:57:57.61,Default,NTP,0,0,0,,{\fs80}在刺眼的光中
+Dialogue: 0,1:57:57.95,1:58:04.01,Default,NTP,0,0,0,,{\fs80}因为一定还能再见面
+Dialogue: 0,1:58:04.36,1:58:11.52,Default,NTP,0,0,0,,{\fs80}仰望这天空 到你在的地方
+Dialogue: 0,1:58:11.70,1:58:17.66,Default,NTP,0,0,0,,{\fs80}在某个地方 一定能摸索到
+Dialogue: 0,1:58:17.97,1:58:24.81,Default,NTP,0,0,0,,{\fs80}即使迷惑也要有爱 因为在现在会知道
+Dialogue: 0,1:58:25.01,1:58:35.44,Default,NTP,0,0,0,,{\fs80}将苦闷变成爱
+Dialogue: 0,1:58:35.72,1:58:40.28,Default,NTP,0,0,0,,{\fs80}风在吹着
+Dialogue: 0,1:58:40.39,1:58:48.27,Default,NTP,0,0,0,,{\fs80}张开翅膀 飞上天空去
+Dialogue: 0,1:58:48.37,1:58:53.67,Default,NTP,0,0,0,,{\fs80}假如有想实现的东西
+Dialogue: 0,1:58:53.84,1:58:58.78,Default,NTP,0,0,0,,{\fs80}因为人会摸索到
+Dialogue: 0,1:58:58.98,1:59:02.21,Default,NTP,0,0,0,,{\fs80}这样的爱
+Dialogue: 0,1:59:02.31,1:59:06.25,Default,NTP,0,0,0,,{\fs80}去那无止境的天空
+Dialogue: 0,1:59:06.52,1:59:12.62,Default,NTP,0,0,0,,{\fs80}生锈的门 将它推开
+Dialogue: 0,1:59:13.22,1:59:19.63,Default,NTP,0,0,0,,{\fs80}出发这事 踌躇的旅途
+Dialogue: 0,1:59:20.10,1:59:25.83,Default,NTP,0,0,0,,{\fs80}人们忘记了
+Dialogue: 0,1:59:26.04,1:59:33.57,Default,NTP,0,0,0,,{\fs80}无法替代的爱和梦
+Dialogue: 0,1:59:34.78,1:59:39.38,Default,NTP,0,0,0,,{\fs80}风在吹着
+Dialogue: 0,1:59:39.48,1:59:47.19,Default,NTP,0,0,0,,{\fs80}张开翅膀飞上天空去
+Dialogue: 0,1:59:47.53,1:59:52.72,Default,NTP,0,0,0,,{\fs80}假如有想守护的东西
+Dialogue: 0,1:59:52.83,1:59:57.77,Default,NTP,0,0,0,,{\fs80}因为人会变强
+Dialogue: 0,1:59:58.17,2:00:01.30,Default,NTP,0,0,0,,{\fs80}这样的爱
+Dialogue: 0,2:00:01.41,2:00:07.87,Default,NTP,0,0,0,,{\fs80}去那无止境的天空
+Dialogue: 0,2:00:08.18,2:00:11.48,Default,NTP,0,0,0,,{\fs80}We Can Reach It And Go (我们定能成功)
+Dialogue: 0,2:00:11.58,2:00:13.57,Default,NTP,0,0,0,,{\fs80}If We Dream It (只要我们敢想)
+Dialogue: 0,2:00:13.65,2:00:18.32,Default,NTP,0,0,0,,{\fs80}We Can Fly To The Destination (定能飞到彼岸)
+Dialogue: 0,0:45:18.49,0:45:19.19,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.55,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}キズナ（羁绊） - Hi-Fi CAMP
+Dialogue: 0,0:45:03.59,0:45:18.49,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}キズナ（羁绊） - Hi-Fi CAMP
+Dialogue: 0,0:45:02.89,0:45:03.59,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.55,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}キズナ（羁绊） - Hi-Fi CAMP
+Dialogue: 0,0:45:26.15,0:45:26.85,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.96,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}東の空が明るくなった頃
+Dialogue: 0,0:45:24.90,0:45:26.15,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}東の空が明るくなった頃
+Dialogue: 0,0:45:24.20,0:45:24.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.96,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}東の空が明るくなった頃
+Dialogue: 0,0:45:28.25,0:45:28.95,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}又想起你的话语\N君の言葉をまた思い出す
+Dialogue: 0,0:45:26.90,0:45:28.25,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}又想起你的话语\N君の言葉をまた思い出す
+Dialogue: 0,0:45:26.20,0:45:26.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}又想起你的话语\N君の言葉をまた思い出す
+Dialogue: 0,0:45:30.30,0:45:31.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.54,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我快要流泪的时候\N僕が涙を流しそうな時は
+Dialogue: 0,0:45:29.00,0:45:30.30,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我快要流泪的时候\N僕が涙を流しそうな時は
+Dialogue: 0,0:45:28.30,0:45:29.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.54,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我快要流泪的时候\N僕が涙を流しそうな時は
+Dialogue: 0,0:45:32.00,0:45:32.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你却先哭了起来\N僕より先に君が泣き出す
+Dialogue: 0,0:45:31.05,0:45:32.00,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你却先哭了起来\N僕より先に君が泣き出す
+Dialogue: 0,0:45:30.35,0:45:31.05,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你却先哭了起来\N僕より先に君が泣き出す
+Dialogue: 0,0:45:34.50,0:45:35.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.34,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}那表情抹去了眼泪\Nその表情が 涙かき消し
+Dialogue: 0,0:45:32.75,0:45:34.50,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}那表情抹去了眼泪\Nその表情が 涙かき消し
+Dialogue: 0,0:45:32.05,0:45:32.75,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.34,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}那表情抹去了眼泪\Nその表情が 涙かき消し
+Dialogue: 0,0:45:36.35,0:45:37.05,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.07,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无论未来发生什么\Nこの先 何があっても
+Dialogue: 0,0:45:35.25,0:45:36.35,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无论未来发生什么\Nこの先 何があっても
+Dialogue: 0,0:45:34.55,0:45:35.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.07,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无论未来发生什么\Nこの先 何があっても
+Dialogue: 0,0:45:38.26,0:45:38.96,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我都会笑着走下去\N笑って乗り越えてゆく
+Dialogue: 0,0:45:37.10,0:45:38.26,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我都会笑着走下去\N笑って乗り越えてゆく
+Dialogue: 0,0:45:36.40,0:45:37.10,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我都会笑着走下去\N笑って乗り越えてゆく
+Dialogue: 0,0:45:40.18,0:45:40.88,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你就是我的信念\N君がその糧となる
+Dialogue: 0,0:45:39.01,0:45:40.18,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你就是我的信念\N君がその糧となる
+Dialogue: 0,0:45:38.31,0:45:39.01,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你就是我的信念\N君がその糧となる
+Dialogue: 0,0:45:44.65,0:45:45.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.5,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}偶尔我们会遭遇冰冷的大雨\N時折 激しく 冷たい雨が
+Dialogue: 0,0:45:40.93,0:45:44.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}偶尔我们会遭遇冰冷的大雨\N時折 激しく 冷たい雨が
+Dialogue: 0,0:45:40.23,0:45:40.93,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.5,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}偶尔我们会遭遇冰冷的大雨\N時折 激しく 冷たい雨が
+Dialogue: 0,0:45:47.50,0:45:48.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.96,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}僕らを打ち付けてくけど
+Dialogue: 0,0:45:45.40,0:45:47.50,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}僕らを打ち付けてくけど
+Dialogue: 0,0:45:44.70,0:45:45.40,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.96,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}僕らを打ち付けてくけど
+Dialogue: 0,0:45:51.03,0:45:51.73,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}不用担心 仰头望去\Nきっと大丈夫 見上げれば
+Dialogue: 0,0:45:48.25,0:45:51.03,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}不用担心 仰头望去\Nきっと大丈夫 見上げれば
+Dialogue: 0,0:45:47.55,0:45:48.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}不用担心 仰头望去\Nきっと大丈夫 見上げれば
+Dialogue: 0,0:45:54.73,0:45:55.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}天空会照耀着我们\N空が 僕らを照らしていく
+Dialogue: 0,0:45:51.78,0:45:54.73,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}天空会照耀着我们\N空が 僕らを照らしていく
+Dialogue: 0,0:45:51.08,0:45:51.78,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}天空会照耀着我们\N空が 僕らを照らしていく
+Dialogue: 0,0:45:56.15,0:45:56.85,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,961.77,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}所以\Nだから
+Dialogue: 0,0:45:55.48,0:45:56.15,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}所以\Nだから
+Dialogue: 0,0:45:54.78,0:45:55.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(961.77,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}所以\Nだから
+Dialogue: 0,0:45:59.37,0:46:00.07,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.23,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:45:56.90,0:45:59.37,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:45:56.20,0:45:56.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.23,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:46:03.47,0:46:04.17,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:46:00.12,0:46:03.47,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:45:59.42,0:46:00.12,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:46:09.61,0:46:10.31,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.42,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:46:04.22,0:46:09.61,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:46:03.52,0:46:04.22,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.42,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:46:19.12,0:46:19.82,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}绝对是我们无法替代的羁绊\Nかけがえのないキズナ
+Dialogue: 0,0:46:10.36,0:46:19.12,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}绝对是我们无法替代的羁绊\Nかけがえのないキズナ
+Dialogue: 0,0:46:09.66,0:46:10.36,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}绝对是我们无法替代的羁绊\Nかけがえのないキズナ
+Dialogue: 0,0:46:20.72,0:46:21.42,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}那广阔的蓝天\N僕ら 広がる青い空
+Dialogue: 0,0:46:19.87,0:46:20.72,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}那广阔的蓝天\N僕ら 広がる青い空
+Dialogue: 0,0:46:19.17,0:46:19.87,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}那广阔的蓝天\N僕ら 広がる青い空
+Dialogue: 0,0:46:22.87,0:46:23.57,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.77,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}只要我们抬头看去 就一定会心心相映\N見上げれば必ず繋がんだ
+Dialogue: 0,0:46:21.47,0:46:22.87,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}只要我们抬头看去 就一定会心心相映\N見上げれば必ず繋がんだ
+Dialogue: 0,0:46:20.77,0:46:21.47,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.77,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}只要我们抬头看去 就一定会心心相映\N見上げれば必ず繋がんだ
+Dialogue: 0,0:46:25.17,0:46:25.87,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.62,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}所以快要流下眼泪的时候\Nだから涙流れて来そうなら
+Dialogue: 0,0:46:23.62,0:46:25.17,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}所以快要流下眼泪的时候\Nだから涙流れて来そうなら
+Dialogue: 0,0:46:22.92,0:46:23.62,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.62,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}所以快要流下眼泪的时候\Nだから涙流れて来そうなら
+Dialogue: 0,0:46:26.72,0:46:27.42,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}想起这首歌吧\N思い出してこの歌
+Dialogue: 0,0:46:25.92,0:46:26.72,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}想起这首歌吧\N思い出してこの歌
+Dialogue: 0,0:46:25.22,0:46:25.92,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}想起这首歌吧\N思い出してこの歌
+Dialogue: 0,0:46:28.95,0:46:29.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}举步维艰的时候\Nもうどうにか なりそうな時
+Dialogue: 0,0:46:27.47,0:46:28.95,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}举步维艰的时候\Nもうどうにか なりそうな時
+Dialogue: 0,0:46:26.77,0:46:27.47,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}举步维艰的时候\Nもうどうにか なりそうな時
+Dialogue: 0,0:46:29.12,0:46:29.82,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,960.81,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}呐ねぇ
+Dialogue: 0,0:46:29.70,0:46:29.12,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}呐ねぇ
+Dialogue: 0,0:46:29.00,0:46:29.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(960.81,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}呐ねぇ
+Dialogue: 0,0:46:31.95,0:46:32.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你一定会陪在我身边吧\N君は必ず隣に居てくれたろ
+Dialogue: 0,0:46:29.87,0:46:31.95,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你一定会陪在我身边吧\N君は必ず隣に居てくれたろ
+Dialogue: 0,0:46:29.17,0:46:29.87,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你一定会陪在我身边吧\N君は必ず隣に居てくれたろ
+Dialogue: 0,0:46:34.45,0:46:35.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无论天涯海角永不改变\N幾ら離れたって変わらない
+Dialogue: 0,0:46:32.70,0:46:34.45,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无论天涯海角永不改变\N幾ら離れたって変わらない
+Dialogue: 0,0:46:32.00,0:46:32.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无论天涯海角永不改变\N幾ら離れたって変わらない
+Dialogue: 0,0:46:35.17,0:46:35.87,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}美好的回忆就在这里\N思い出がここにある
+Dialogue: 0,0:46:35.20,0:46:35.17,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}美好的回忆就在这里\N思い出がここにある
+Dialogue: 0,0:46:34.50,0:46:35.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}美好的回忆就在这里\N思い出がここにある
+Dialogue: 0,0:46:39.45,0:46:40.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.42,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}告别的那一天我们各自踏上旅途\Nサヨナラあの日の旅立ちが
+Dialogue: 0,0:46:35.92,0:46:39.45,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}告别的那一天我们各自踏上旅途\Nサヨナラあの日の旅立ちが
+Dialogue: 0,0:46:35.22,0:46:35.92,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.42,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}告别的那一天我们各自踏上旅途\Nサヨナラあの日の旅立ちが
+Dialogue: 0,0:46:42.63,0:46:43.33,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.88,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}那份沉重到现在我还记忆犹新\N今でも胸締め付けるけど
+Dialogue: 0,0:46:40.20,0:46:42.63,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}那份沉重到现在我还记忆犹新\N今でも胸締め付けるけど
+Dialogue: 0,0:46:39.50,0:46:40.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.88,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}那份沉重到现在我还记忆犹新\N今でも胸締め付けるけど
+Dialogue: 0,0:46:44.28,0:46:44.98,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}一切都会好起来的\Nきっと大丈夫
+Dialogue: 0,0:46:43.38,0:46:44.28,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}一切都会好起来的\Nきっと大丈夫
+Dialogue: 0,0:46:42.68,0:46:43.38,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}一切都会好起来的\Nきっと大丈夫
+Dialogue: 0,0:46:46.73,0:46:47.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}现在和未来都会好起来的\Nこれからも今も
+Dialogue: 0,0:46:45.03,0:46:46.73,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}现在和未来都会好起来的\Nこれからも今も
+Dialogue: 0,0:46:44.33,0:46:45.03,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}现在和未来都会好起来的\Nこれからも今も
+Dialogue: 0,0:46:51.55,0:46:52.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.15,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}因为要向着明天前进\N明日に向かって行く だから
+Dialogue: 0,0:46:47.48,0:46:51.55,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}因为要向着明天前进\N明日に向かって行く だから
+Dialogue: 0,0:46:46.78,0:46:47.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.15,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}因为要向着明天前进\N明日に向かって行く だから
+Dialogue: 0,0:46:53.63,0:46:54.33,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.15,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}彼此交谈着还很幼稚的梦想\N語り合う まだ青い夢
+Dialogue: 0,0:46:52.30,0:46:53.63,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}彼此交谈着还很幼稚的梦想\N語り合う まだ青い夢
+Dialogue: 0,0:46:51.60,0:46:52.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.15,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}彼此交谈着还很幼稚的梦想\N語り合う まだ青い夢
+Dialogue: 0,0:46:58.33,0:46:59.03,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.88,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}曾几何时 在我们的手中\N僕らいつかこの手の中
+Dialogue: 0,0:46:54.38,0:46:58.33,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}曾几何时 在我们的手中\N僕らいつかこの手の中
+Dialogue: 0,0:46:53.68,0:46:54.38,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.88,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}曾几何时 在我们的手中\N僕らいつかこの手の中
+Dialogue: 0,0:47:04.60,0:47:05.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}几滴不甘的眼泪滴落\N幾つもの 悔し涙流して
+Dialogue: 0,0:46:59.08,0:47:04.60,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}几滴不甘的眼泪滴落\N幾つもの 悔し涙流して
+Dialogue: 0,0:46:58.38,0:46:59.08,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}几滴不甘的眼泪滴落\N幾つもの 悔し涙流して
+Dialogue: 0,0:47:07.25,0:47:07.95,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.65,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}开怀大笑吧\N思い切り笑おう
+Dialogue: 0,0:47:05.35,0:47:07.25,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}开怀大笑吧\N思い切り笑おう
+Dialogue: 0,0:47:04.65,0:47:05.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.65,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}开怀大笑吧\N思い切り笑おう
+Dialogue: 0,0:47:10.55,0:47:11.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.49,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}那么 现在就奔跑起来了\Nさぁ 今 走り出した
+Dialogue: 0,0:47:08.00,0:47:10.55,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}那么 现在就奔跑起来了\Nさぁ 今 走り出した
+Dialogue: 0,0:47:07.30,0:47:08.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.49,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}那么 现在就奔跑起来了\Nさぁ 今 走り出した
+Dialogue: 0,0:47:14.51,0:47:15.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.42,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}毫不在意下个不停的雨\N降りしきる雨も 気にもせず
+Dialogue: 0,0:47:11.30,0:47:14.51,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}毫不在意下个不停的雨\N降りしきる雨も 気にもせず
+Dialogue: 0,0:47:10.60,0:47:11.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.42,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}毫不在意下个不停的雨\N降りしきる雨も 気にもせず
+Dialogue: 0,0:47:18.72,0:47:19.42,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.3,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}喂 直到那呼唤着我的声音\Nさぁ ほら 僕を呼ぶ声が
+Dialogue: 0,0:47:15.26,0:47:18.72,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}喂 直到那呼唤着我的声音\Nさぁ ほら 僕を呼ぶ声が
+Dialogue: 0,0:47:14.56,0:47:15.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.3,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}喂 直到那呼唤着我的声音\Nさぁ ほら 僕を呼ぶ声が
+Dialogue: 0,0:47:40.18,0:47:40.88,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}久久不能停息的地方\N鳴り止まない場所へ
+Dialogue: 0,0:47:19.47,0:47:40.18,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}久久不能停息的地方\N鳴り止まない場所へ
+Dialogue: 0,0:47:18.77,0:47:19.47,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}久久不能停息的地方\N鳴り止まない場所へ
+Dialogue: 0,0:47:43.73,0:47:44.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.07,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:47:40.93,0:47:43.73,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:47:40.23,0:47:40.93,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.07,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:47:47.69,0:47:48.39,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.23,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:47:44.48,0:47:47.69,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:47:43.78,0:47:44.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.23,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:47:51.44,0:47:52.14,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:47:48.44,0:47:51.44,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:47:47.74,0:47:48.44,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:47:56.11,0:47:56.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.15,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:47:52.19,0:47:56.11,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:47:51.49,0:47:52.19,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.15,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:47:59.32,0:48:00.02,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.23,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:47:56.86,0:47:59.32,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:47:56.16,0:47:56.86,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.23,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:48:03.48,0:48:04.18,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:48:00.07,0:48:03.48,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:47:59.37,0:48:00.07,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:48:31.73,0:48:32.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.07,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:48:28.93,0:48:31.73,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:48:28.23,0:48:28.93,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.07,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}烦恼哭泣的日子里\N思い悩み 泣いた日も
+Dialogue: 0,0:48:35.69,0:48:36.39,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.23,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:48:32.48,0:48:35.69,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:48:31.78,0:48:32.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.23,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在我们两人总是一起仰望的天空下\Nいつも二人 見上げた空
+Dialogue: 0,0:48:39.44,0:48:40.14,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:48:36.44,0:48:39.44,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:48:35.74,0:48:36.44,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}一起唱着歌的喜悦欢愉\N歌を歌う この喜びが
+Dialogue: 0,0:48:44.11,0:48:44.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.15,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:48:40.19,0:48:44.11,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:48:39.49,0:48:40.19,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.15,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}将你我紧紧联系在了一起\N君と僕を 繋いでくれた
+Dialogue: 0,0:48:47.32,0:48:48.02,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.23,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:48:44.86,0:48:47.32,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:48:44.16,0:48:44.86,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.23,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在波澜不惊匆匆流逝的日子里\N変わらない 駆け抜けた日々
+Dialogue: 0,0:48:51.48,0:48:52.18,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:48:48.07,0:48:51.48,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:48:47.37,0:48:48.07,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我想起了那个时候的情景\Nそんな時を思い出して
+Dialogue: 0,0:48:57.46,0:48:58.16,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.42,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:48:52.23,0:48:57.46,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:48:51.53,0:48:52.23,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.42,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}喜悦和悔恨的眼泪\N喜びも 悔し涙も きっと
+Dialogue: 0,0:48:59.61,0:49:00.31,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}永远都是我们之间的珍贵见证\Nいつまでもずっと
+Dialogue: 0,0:48:58.21,0:48:59.61,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}永远都是我们之间的珍贵见证\Nいつまでもずっと
+Dialogue: 0,0:48:57.51,0:48:58.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}永远都是我们之间的珍贵见证\Nいつまでもずっと
+Dialogue: 0,0:49:03.30,0:49:04.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}和你在一起的那些难忘的日子\N忘れない 君と居た日々
+Dialogue: 0,0:49:00.36,0:49:03.30,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}和你在一起的那些难忘的日子\N忘れない 君と居た日々
+Dialogue: 0,0:48:59.66,0:49:00.36,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}和你在一起的那些难忘的日子\N忘れない 君と居た日々
+Dialogue: 0,0:49:07.27,0:49:07.97,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.5,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无论何时 我们都开心的度过\Nどんな時も 笑い合えた
+Dialogue: 0,0:49:04.05,0:49:07.27,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无论何时 我们都开心的度过\Nどんな時も 笑い合えた
+Dialogue: 0,0:49:03.35,0:49:04.05,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.5,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无论何时 我们都开心的度过\Nどんな時も 笑い合えた
+Dialogue: 0,0:49:10.92,0:49:11.62,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.5,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无论今天 明天还是未来\N今日も明日も これから先も
+Dialogue: 0,0:49:08.02,0:49:10.92,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无论今天 明天还是未来\N今日も明日も これから先も
+Dialogue: 0,0:49:07.32,0:49:08.02,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.5,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无论今天 明天还是未来\N今日も明日も これから先も
+Dialogue: 0,0:49:13.17,0:49:13.87,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.3,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}天荒地老\Nずっと
+Dialogue: 0,0:49:11.67,0:49:13.17,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}天荒地老\Nずっと
+Dialogue: 0,0:49:10.97,0:49:11.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.3,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}天荒地老\Nずっと
+Dialogue: 0,0:49:23.22,0:49:23.92,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.54,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我们的羁绊无可替代\Nかけがえのないキズナ
+Dialogue: 0,0:49:13.92,0:49:23.22,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我们的羁绊无可替代\Nかけがえのないキズナ
+Dialogue: 0,0:49:13.22,0:49:13.92,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.54,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我们的羁绊无可替代\Nかけがえのないキズナ
+Dialogue: 0,0:55:54.73,0:55:55.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.47,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}山奥少年の恋物語 - 中川和泉
+Dialogue: 0,0:55:40.23,0:55:54.73,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}山奥少年の恋物語 - 中川和泉
+Dialogue: 0,0:55:39.53,0:55:40.23,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.47,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}山奥少年の恋物語 - 中川和泉
+Dialogue: 0,0:56:13.05,0:56:13.75,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.04,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你的发丝随林间风声摇曳\N木々の音に合わせて 君の髪が揺れてた
+Dialogue: 0,0:55:58.50,0:56:13.05,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你的发丝随林间风声摇曳\N木々の音に合わせて 君の髪が揺れてた
+Dialogue: 0,0:55:57.80,0:55:58.50,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.04,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你的发丝随林间风声摇曳\N木々の音に合わせて 君の髪が揺れてた
+Dialogue: 0,0:56:28.80,0:56:29.50,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,969.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}缘何被夕阳映红的侧脸满是泪水？\N夕焼けに染まる横颜に なぜか涙あふれた
+Dialogue: 0,0:56:13.80,0:56:28.80,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}缘何被夕阳映红的侧脸满是泪水？\N夕焼けに染まる横颜に なぜか涙あふれた
+Dialogue: 0,0:56:13.10,0:56:13.80,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(969.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}缘何被夕阳映红的侧脸满是泪水？\N夕焼けに染まる横颜に なぜか涙あふれた
+Dialogue: 0,0:56:44.59,0:56:45.29,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.04,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}静静的河水中仿佛流淌着悲伤\N悲しみさえ流そ やさしい川の中で
+Dialogue: 0,0:56:29.55,0:56:44.59,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}静静的河水中仿佛流淌着悲伤\N悲しみさえ流そ やさしい川の中で
+Dialogue: 0,0:56:28.85,0:56:29.55,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.04,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}静静的河水中仿佛流淌着悲伤\N悲しみさえ流そ やさしい川の中で
+Dialogue: 0,0:57:00.60,0:57:01.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.84,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}是否依然记得与君的花束？\N君にあげたあの花饰り まだ覚えているかな
+Dialogue: 0,0:56:45.34,0:57:00.60,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}是否依然记得与君的花束？\N君にあげたあの花饰り まだ覚えているかな
+Dialogue: 0,0:56:44.64,0:56:45.34,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.84,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}是否依然记得与君的花束？\N君にあげたあの花饰り まだ覚えているかな
+Dialogue: 0,0:57:08.20,0:57:08.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}至爱的夕阳光辉包围好\Nきな夕暮れを包もうと辉く
+Dialogue: 0,0:57:01.35,0:57:08.20,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}至爱的夕阳光辉包围好\Nきな夕暮れを包もうと辉く
+Dialogue: 0,0:57:00.65,0:57:01.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}至爱的夕阳光辉包围好\Nきな夕暮れを包もうと辉く
+Dialogue: 0,0:57:15.95,0:57:16.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}抚去些许悲伤\N少しでも君の悲しみ切れますように
+Dialogue: 0,0:57:08.95,0:57:15.95,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}抚去些许悲伤\N少しでも君の悲しみ切れますように
+Dialogue: 0,0:57:08.25,0:57:08.95,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}抚去些许悲伤\N少しでも君の悲しみ切れますように
+Dialogue: 0,0:57:23.91,0:57:24.61,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.42,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}过往岁月中人谁都曾历过\Nきっとだれもが过ぎるときの中に
+Dialogue: 0,0:57:16.70,0:57:23.91,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}过往岁月中人谁都曾历过\Nきっとだれもが过ぎるときの中に
+Dialogue: 0,0:57:16.00,0:57:16.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.42,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}过往岁月中人谁都曾历过\Nきっとだれもが过ぎるときの中に
+Dialogue: 0,0:57:49.92,0:57:50.62,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.92,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}恋情背弃换回泪水 你是否还会想起我.\N置き去りにした思い涙に代えてる
+Dialogue: 0,0:57:24.66,0:57:49.92,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}恋情背弃换回泪水 你是否还会想起我.\N置き去りにした思い涙に代えてる
+Dialogue: 0,0:57:23.96,0:57:24.66,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.92,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}恋情背弃换回泪水 你是否还会想起我.\N置き去りにした思い涙に代えてる
+Dialogue: 0,0:58:05.67,0:58:06.37,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.8,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:57:50.67,0:58:05.67,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:57:49.97,0:57:50.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.8,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:58:13.50,0:58:14.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.96,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:58:06.42,0:58:13.50,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:58:05.72,0:58:06.42,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.96,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:58:21.78,0:58:22.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:58:14.25,0:58:21.78,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:58:13.55,0:58:14.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:58:37.56,0:58:38.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,0:58:22.53,0:58:37.56,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,0:58:21.83,0:58:22.53,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,0:59:13.67,0:59:14.37,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.8,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:58:58.67,0:59:13.67,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:58:57.97,0:58:58.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.8,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}何处能听闻 听闻那温暖的行歌\Nどこからか 闻こえる 优しい歌 闻こえる
+Dialogue: 0,0:59:21.50,0:59:22.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.96,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:59:14.42,0:59:21.50,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:59:13.72,0:59:14.42,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.96,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}闭上双眼 侧耳倾听\N目を闭じて 耳をすましたら
+Dialogue: 0,0:59:29.78,0:59:30.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.61,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:59:22.25,0:59:29.78,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:59:21.55,0:59:22.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.61,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}就能听见那温暖的行歌\Nやさしい歌 闻こえる
+Dialogue: 0,0:59:45.56,0:59:46.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,0:59:30.53,0:59:45.56,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,0:59:29.83,0:59:30.53,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}风声轻轻抚过你的泪水\N风の音は优しく 君の涙を包む
+Dialogue: 0,1:00:01.44,1:00:02.14,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,969.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}是否依然记得许久以前的约定？\N远いあの日にした约束 まだ覚えているかな
+Dialogue: 0,0:59:46.31,1:00:01.44,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}是否依然记得许久以前的约定？\N远いあの日にした约束 まだ覚えているかな
+Dialogue: 0,0:59:45.61,0:59:46.31,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(969.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}是否依然记得许久以前的约定？\N远いあの日にした约束 まだ覚えているかな
+Dialogue: 0,1:00:08.74,1:00:09.44,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.88,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}黑夜为白天披上被毯\N夜が今日の日に毛布をかけらした
+Dialogue: 0,1:00:02.19,1:00:08.74,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}黑夜为白天披上被毯\N夜が今日の日に毛布をかけらした
+Dialogue: 0,1:00:01.49,1:00:02.19,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.88,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}黑夜为白天披上被毯\N夜が今日の日に毛布をかけらした
+Dialogue: 0,1:00:16.74,1:00:17.44,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.77,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}以期明日换以比今日更耀眼的笑容\N明日は今日よりも笑颜を辉くように
+Dialogue: 0,1:00:09.49,1:00:16.74,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}以期明日换以比今日更耀眼的笑容\N明日は今日よりも笑颜を辉くように
+Dialogue: 0,1:00:08.79,1:00:09.49,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.77,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}以期明日换以比今日更耀眼的笑容\N明日は今日よりも笑颜を辉くように
+Dialogue: 0,1:00:24.93,1:00:25.63,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}谁都曾拥有悲伤情思\N悲しい思いを谁も胸の奥で
+Dialogue: 0,1:00:17.49,1:00:24.93,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}谁都曾拥有悲伤情思\N悲しい思いを谁も胸の奥で
+Dialogue: 0,1:00:16.79,1:00:17.49,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}谁都曾拥有悲伤情思\N悲しい思いを谁も胸の奥で
+Dialogue: 0,1:00:32.56,1:00:33.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}但两人终将到达美好明天\Nやさしい二人して明日に届けている
+Dialogue: 0,1:00:25.68,1:00:32.56,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}但两人终将到达美好明天\Nやさしい二人して明日に届けている
+Dialogue: 0,1:00:24.98,1:00:25.68,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}但两人终将到达美好明天\Nやさしい二人して明日に届けている
+Dialogue: 0,1:00:43.95,1:00:44.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}终有一日 过往岁月中背弃的恋情\Nきっと いつかは过ぎるときの中に
+Dialogue: 0,1:00:33.31,1:00:43.95,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}终有一日 过往岁月中背弃的恋情\Nきっと いつかは过ぎるときの中に
+Dialogue: 0,1:00:32.61,1:00:33.31,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}终有一日 过往岁月中背弃的恋情\Nきっと いつかは过ぎるときの中に
+Dialogue: 0,1:00:54.00,1:00:54.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.35,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}能再现笑颜\N置き去りにした思い笑颜に変わるから
+Dialogue: 0,1:00:44.70,1:00:54.00,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}能再现笑颜\N置き去りにした思い笑颜に変わるから
+Dialogue: 0,1:00:44.00,1:00:44.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.35,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}能再现笑颜\N置き去りにした思い笑颜に変わるから
+Dialogue: 0,1:08:32.33,1:08:33.03,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,961.68,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}Send - 清竜人
+Dialogue: 0,1:08:28.03,1:08:32.33,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}Send - 清竜人
+Dialogue: 0,1:08:27.33,1:08:28.03,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(961.68,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}Send - 清竜人
+Dialogue: 0,1:08:41.10,1:08:41.80,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无法触碰的星星,黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:08:34.74,1:08:41.10,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无法触碰的星星,黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:08:34.04,1:08:34.74,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无法触碰的星星,黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:08:47.46,1:08:48.16,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.36,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}就算初心凋零\NI keep running hard
+Dialogue: 0,1:08:41.85,1:08:47.46,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}就算初心凋零\NI keep running hard
+Dialogue: 0,1:08:41.15,1:08:41.85,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.36,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}就算初心凋零\NI keep running hard
+Dialogue: 0,1:08:54.13,1:08:54.83,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,970.07,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}用尽全力,也想照亮黑夜,只希望你不要忘记\Nit'll burn it'll fight. you can remind inside
+Dialogue: 0,1:08:48.21,1:08:54.13,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}用尽全力,也想照亮黑夜,只希望你不要忘记\Nit'll burn it'll fight. you can remind inside
+Dialogue: 0,1:08:47.51,1:08:48.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(970.07,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}用尽全力,也想照亮黑夜,只希望你不要忘记\Nit'll burn it'll fight. you can remind inside
+Dialogue: 0,1:09:00.45,1:09:01.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.01,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}世界为你谱写这首歌\Nthe world will send this song to you
+Dialogue: 0,1:08:54.88,1:09:00.45,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}世界为你谱写这首歌\Nthe world will send this song to you
+Dialogue: 0,1:08:54.18,1:08:54.88,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.01,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}世界为你谱写这首歌\Nthe world will send this song to you
+Dialogue: 0,1:09:10.65,1:09:11.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.12,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你若是云彩\Nif you'll be the cloud
+Dialogue: 0,1:09:04.27,1:09:10.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你若是云彩\Nif you'll be the cloud
+Dialogue: 0,1:09:03.57,1:09:04.27,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.12,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你若是云彩\Nif you'll be the cloud
+Dialogue: 0,1:09:17.80,1:09:18.50,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.67,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我愿作土壤\Ni will be the lake
+Dialogue: 0,1:09:11.40,1:09:17.80,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我愿作土壤\Ni will be the lake
+Dialogue: 0,1:09:10.70,1:09:11.40,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.67,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我愿作土壤\Ni will be the lake
+Dialogue: 0,1:09:29.35,1:09:30.05,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.82,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}当你心灰意冷,我陪你坠入尘埃\Ntired of the world when you sorrow down
+Dialogue: 0,1:09:18.55,1:09:29.35,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}当你心灰意冷,我陪你坠入尘埃\Ntired of the world when you sorrow down
+Dialogue: 0,1:09:17.85,1:09:18.55,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.82,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}当你心灰意冷,我陪你坠入尘埃\Ntired of the world when you sorrow down
+Dialogue: 0,1:09:37.59,1:09:38.29,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,970.07,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我相信结局会变得美好，因为我从没有放弃\Ni finally believe it'll lit as i keep running
+Dialogue: 0,1:09:30.78,1:09:37.59,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我相信结局会变得美好，因为我从没有放弃\Ni finally believe it'll lit as i keep running
+Dialogue: 0,1:09:30.08,1:09:30.78,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(970.07,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我相信结局会变得美好，因为我从没有放弃\Ni finally believe it'll lit as i keep running
+Dialogue: 0,1:09:44.65,1:09:45.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,969.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}最后你注视着我，闭上双眼我也带着微笑\Nin the dark you saw me and smile
+Dialogue: 0,1:09:38.34,1:09:44.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}最后你注视着我，闭上双眼我也带着微笑\Nin the dark you saw me and smile
+Dialogue: 0,1:09:37.64,1:09:38.34,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(969.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}最后你注视着我，闭上双眼我也带着微笑\Nin the dark you saw me and smile
+Dialogue: 0,1:09:54.65,1:09:55.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}曾和你在一起,我无怨无悔\Naftertime i knew it was fate with you
+Dialogue: 0,1:09:45.40,1:09:54.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}曾和你在一起,我无怨无悔\Naftertime i knew it was fate with you
+Dialogue: 0,1:09:44.70,1:09:45.40,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}曾和你在一起,我无怨无悔\Naftertime i knew it was fate with you
+Dialogue: 0,1:10:07.11,1:10:07.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无法触碰的星星，黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:10:00.76,1:10:07.11,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无法触碰的星星，黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:10:00.06,1:10:00.76,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无法触碰的星星，黯淡无光\Ndistance star doesn't lit
+Dialogue: 0,1:10:13.24,1:10:13.94,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.9,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我愿献出我的初心\NI keep running hard
+Dialogue: 0,1:10:07.86,1:10:13.24,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我愿献出我的初心\NI keep running hard
+Dialogue: 0,1:10:07.16,1:10:07.86,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.9,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我愿献出我的初心\NI keep running hard
+Dialogue: 0,1:10:19.99,1:10:20.69,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,969.43,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}用尽全力,发出光亮,只希望你不要忘记我\Nit'll burn.it'll fight.you come on inside
+Dialogue: 0,1:10:13.99,1:10:19.99,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}用尽全力,发出光亮,只希望你不要忘记我\Nit'll burn.it'll fight.you come on inside
+Dialogue: 0,1:10:13.29,1:10:13.99,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(969.43,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}用尽全力,发出光亮,只希望你不要忘记我\Nit'll burn.it'll fight.you come on inside
+Dialogue: 0,1:10:27.08,1:10:27.78,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.54,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}世界唱着写给你的歌\Nthe world will send its all to you
+Dialogue: 0,1:10:20.74,1:10:27.08,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}世界唱着写给你的歌\Nthe world will send its all to you
+Dialogue: 0,1:10:20.04,1:10:20.74,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.54,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}世界唱着写给你的歌\Nthe world will send its all to you
+Dialogue: 0,1:10:34.20,1:10:34.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无论如何都会歌唱，为你\Nthe world will send its all to you
+Dialogue: 0,1:10:27.83,1:10:34.20,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无论如何都会歌唱，为你\Nthe world will send its all to you
+Dialogue: 0,1:10:27.13,1:10:27.83,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无论如何都会歌唱，为你\Nthe world will send its all to you
+Dialogue: 0,1:10:40.96,1:10:41.66,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.08,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}全世界写成这首歌，为你\Nthe world will send its all to you
+Dialogue: 0,1:10:34.95,1:10:40.96,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}全世界写成这首歌，为你\Nthe world will send its all to you
+Dialogue: 0,1:10:34.25,1:10:34.95,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.08,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}全世界写成这首歌，为你\Nthe world will send its all to you
+Dialogue: 0,1:55:28.25,1:55:28.95,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.72,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}約束の翼  作词 : MISIA
+Dialogue: 0,1:55:28.00,1:55:28.25,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}約束の翼  作词 : MISIA
+Dialogue: 0,1:55:27.30,1:55:28.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.72,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}約束の翼  作词 : MISIA
+Dialogue: 0,1:55:45.38,1:55:46.08,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.34,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}作曲 : JUN SASAKI
+Dialogue: 0,1:55:29.00,1:55:45.38,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}作曲 : JUN SASAKI
+Dialogue: 0,1:55:28.30,1:55:29.00,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.34,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}作曲 : JUN SASAKI
+Dialogue: 0,1:56:01.92,1:56:02.62,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}最初的约定\N最初の約束
+Dialogue: 0,1:55:56.13,1:56:01.92,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}最初的约定\N最初の約束
+Dialogue: 0,1:55:55.43,1:55:56.13,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}最初的约定\N最初の約束
+Dialogue: 0,1:56:05.44,1:56:06.14,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.84,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}你那笑颜\N君の笑顔を
+Dialogue: 0,1:56:02.67,1:56:05.44,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}你那笑颜\N君の笑顔を
+Dialogue: 0,1:56:01.97,1:56:02.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.84,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}你那笑颜\N君の笑顔を
+Dialogue: 0,1:56:08.82,1:56:09.52,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}始终无法忘记\N忘れない
+Dialogue: 0,1:56:06.19,1:56:08.82,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}始终无法忘记\N忘れない
+Dialogue: 0,1:56:05.49,1:56:06.19,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}始终无法忘记\N忘れない
+Dialogue: 0,1:56:15.47,1:56:16.17,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在选择的旅途中\N選んだ旅路の中で
+Dialogue: 0,1:56:09.57,1:56:15.47,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在选择的旅途中\N選んだ旅路の中で
+Dialogue: 0,1:56:08.87,1:56:09.57,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在选择的旅途中\N選んだ旅路の中で
+Dialogue: 0,1:56:21.89,1:56:22.59,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}因为一定能想出来\Nきっと思い出すから
+Dialogue: 0,1:56:16.22,1:56:21.89,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}因为一定能想出来\Nきっと思い出すから
+Dialogue: 0,1:56:15.52,1:56:16.22,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}因为一定能想出来\Nきっと思い出すから
+Dialogue: 0,1:56:25.21,1:56:25.91,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.92,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}甩开的手腕\N振りほどいた腕も
+Dialogue: 0,1:56:22.78,1:56:25.21,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}甩开的手腕\N振りほどいた腕も
+Dialogue: 0,1:56:22.08,1:56:22.78,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.92,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}甩开的手腕\N振りほどいた腕も
+Dialogue: 0,1:56:29.11,1:56:29.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}寻求伸长的手\N求め伸ばした手も
+Dialogue: 0,1:56:25.96,1:56:29.11,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}寻求伸长的手\N求め伸ばした手も
+Dialogue: 0,1:56:25.26,1:56:25.96,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}寻求伸长的手\N求め伸ばした手も
+Dialogue: 0,1:56:35.52,1:56:36.22,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.81,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}因为全部是同样的想法\N全ては同じ想いからで
+Dialogue: 0,1:56:29.86,1:56:35.52,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}因为全部是同样的想法\N全ては同じ想いからで
+Dialogue: 0,1:56:29.16,1:56:29.86,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.81,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}因为全部是同样的想法\N全ては同じ想いからで
+Dialogue: 0,1:56:38.84,1:56:39.54,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.73,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}即使迷惑着也要有梦\N迷いながらも夢
+Dialogue: 0,1:56:36.27,1:56:38.84,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}即使迷惑着也要有梦\N迷いながらも夢
+Dialogue: 0,1:56:35.57,1:56:36.27,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.73,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}即使迷惑着也要有梦\N迷いながらも夢
+Dialogue: 0,1:56:43.55,1:56:44.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}现在可能就知晓\N今なら分かるかも
+Dialogue: 0,1:56:39.59,1:56:43.55,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}现在可能就知晓\N今なら分かるかも
+Dialogue: 0,1:56:38.89,1:56:39.59,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}现在可能就知晓\N今なら分かるかも
+Dialogue: 0,1:56:48.48,1:56:49.18,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}超越苦闷\N切なさを超えて
+Dialogue: 0,1:56:44.30,1:56:48.48,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}超越苦闷\N切なさを超えて
+Dialogue: 0,1:56:43.60,1:56:44.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}超越苦闷\N切なさを超えて
+Dialogue: 0,1:56:53.68,1:56:54.38,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}到那蓝色的天空\Nあの空へ
+Dialogue: 0,1:56:49.23,1:56:53.68,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}到那蓝色的天空\Nあの空へ
+Dialogue: 0,1:56:48.53,1:56:49.23,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}到那蓝色的天空\Nあの空へ
+Dialogue: 0,1:56:59.75,1:57:00.45,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:56:55.35,1:56:59.75,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}风在吹着\N風が吹いていく
+Dialogue: 0,1:56:54.65,1:56:55.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:57:04.55,1:57:05.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:57:00.50,1:57:04.55,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:56:59.80,1:57:00.50,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:57:07.60,1:57:08.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}飞向远方的天空\N飛び立っていく
+Dialogue: 0,1:57:05.30,1:57:07.60,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}飞向远方的天空\N飛び立っていく
+Dialogue: 0,1:57:04.60,1:57:05.30,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}飞向远方的天空\N飛び立っていく
+Dialogue: 0,1:57:13.02,1:57:13.72,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.81,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:57:08.35,1:57:13.02,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:57:07.65,1:57:08.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.81,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:57:17.91,1:57:18.61,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}人会变得坚强\N人は強くなれるから
+Dialogue: 0,1:57:13.77,1:57:17.91,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}人会变得坚强\N人は強くなれるから
+Dialogue: 0,1:57:13.07,1:57:13.77,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}人会变得坚强\N人は強くなれるから
+Dialogue: 0,1:57:38.01,1:57:38.71,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.5,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,1:57:18.66,1:57:38.01,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,1:57:17.96,1:57:18.66,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.5,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,1:57:44.88,1:57:45.58,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}最后与你约定\N最後の約束
+Dialogue: 0,1:57:38.90,1:57:44.88,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}最后与你约定\N最後の約束
+Dialogue: 0,1:57:38.20,1:57:38.90,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}最后与你约定\N最後の約束
+Dialogue: 0,1:57:51.90,1:57:52.60,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.27,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}不要后悔选择的路\N選んだ道を悔やまない
+Dialogue: 0,1:57:45.63,1:57:51.90,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}不要后悔选择的路\N選んだ道を悔やまない
+Dialogue: 0,1:57:44.93,1:57:45.63,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.27,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}不要后悔选择的路\N選んだ道を悔やまない
+Dialogue: 0,1:57:58.85,1:57:59.55,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在刺眼的阳光中\N眩しい光の中で
+Dialogue: 0,1:57:52.65,1:57:58.85,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在刺眼的阳光中\N眩しい光の中で
+Dialogue: 0,1:57:51.95,1:57:52.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在刺眼的阳光中\N眩しい光の中で
+Dialogue: 0,1:58:04.86,1:58:05.56,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.54,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我们一定会再度重逢\Nきっとまた会えるから
+Dialogue: 0,1:57:59.60,1:58:04.86,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我们一定会再度重逢\Nきっとまた会えるから
+Dialogue: 0,1:57:58.90,1:57:59.60,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.54,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我们一定会再度重逢\Nきっとまた会えるから
+Dialogue: 0,1:58:08.65,1:58:09.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.92,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}抬头仰望天空\N仰ぎ見るこの空
+Dialogue: 0,1:58:05.76,1:58:08.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}抬头仰望天空\N仰ぎ見るこの空
+Dialogue: 0,1:58:05.06,1:58:05.76,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.92,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}抬头仰望天空\N仰ぎ見るこの空
+Dialogue: 0,1:58:12.06,1:58:12.76,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}到你在的地方\N君がいる場所へと
+Dialogue: 0,1:58:09.40,1:58:12.06,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}到你在的地方\N君がいる場所へと
+Dialogue: 0,1:58:08.70,1:58:09.40,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}到你在的地方\N君がいる場所へと
+Dialogue: 0,1:58:18.37,1:58:19.07,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,966.69,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}在某个地方 一定能摸索到\Nどこかで辿り着けるだろう
+Dialogue: 0,1:58:12.81,1:58:18.37,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}在某个地方 一定能摸索到\Nどこかで辿り着けるだろう
+Dialogue: 0,1:58:12.11,1:58:12.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(966.69,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}在某个地方 一定能摸索到\Nどこかで辿り着けるだろう
+Dialogue: 0,1:58:21.78,1:58:22.48,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}即使迷惑也要有爱\N迷いながらも愛
+Dialogue: 0,1:58:19.12,1:58:21.78,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}即使迷惑也要有爱\N迷いながらも愛
+Dialogue: 0,1:58:18.42,1:58:19.12,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}即使迷惑也要有爱\N迷いながらも愛
+Dialogue: 0,1:58:25.40,1:58:26.10,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}现在终于明白\N今なら分かるから
+Dialogue: 0,1:58:22.53,1:58:25.40,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}现在终于明白\N今なら分かるから
+Dialogue: 0,1:58:21.83,1:58:22.53,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}现在终于明白\N今なら分かるから
+Dialogue: 0,1:58:36.54,1:58:37.24,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}将苦闷变成爱\N切なさを愛しさに変えて
+Dialogue: 0,1:58:26.15,1:58:36.54,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}将苦闷变成爱\N切なさを愛しさに変えて
+Dialogue: 0,1:58:25.45,1:58:26.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}将苦闷变成爱\N切なさを愛しさに変えて
+Dialogue: 0,1:58:40.97,1:58:41.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:58:37.76,1:58:40.97,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}风在吹着\N風が吹いていく
+Dialogue: 0,1:58:37.06,1:58:37.76,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:58:45.97,1:58:46.67,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:58:41.72,1:58:45.97,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:58:41.02,1:58:41.72,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:58:48.90,1:58:49.60,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.65,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}向天空飞去\N飛び立っていく
+Dialogue: 0,1:58:46.72,1:58:48.90,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}向天空飞去\N飛び立っていく
+Dialogue: 0,1:58:46.02,1:58:46.72,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.65,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}向天空飞去\N飛び立っていく
+Dialogue: 0,1:58:54.42,1:58:55.12,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.81,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}假如有想实现的东西\N叶えたいものがあるなら
+Dialogue: 0,1:58:49.65,1:58:54.42,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}假如有想实现的东西\N叶えたいものがあるなら
+Dialogue: 0,1:58:48.95,1:58:49.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.81,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}假如有想实现的东西\N叶えたいものがあるなら
+Dialogue: 0,1:58:59.47,1:59:00.17,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.19,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}人会摸索到\N人は辿り着けるから
+Dialogue: 0,1:58:55.17,1:58:59.47,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}人会摸索到\N人は辿り着けるから
+Dialogue: 0,1:58:54.47,1:58:55.17,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.19,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}人会摸索到\N人は辿り着けるから
+Dialogue: 0,1:59:07.35,1:59:08.05,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.96,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行く
+Dialogue: 0,1:59:00.22,1:59:07.35,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行く
+Dialogue: 0,1:58:59.52,1:59:00.22,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.96,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行く
+Dialogue: 0,1:59:09.65,1:59:10.35,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.84,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}生锈的门\N錆付くドア
+Dialogue: 0,1:59:08.25,1:59:09.65,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}生锈的门\N錆付くドア
+Dialogue: 0,1:59:07.55,1:59:08.25,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.84,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}生锈的门\N錆付くドア
+Dialogue: 0,1:59:13.51,1:59:14.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}将它推开\N押し開けてる
+Dialogue: 0,1:59:10.40,1:59:13.51,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}将它推开\N押し開けてる
+Dialogue: 0,1:59:09.70,1:59:10.40,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}将它推开\N押し開けてる
+Dialogue: 0,1:59:16.40,1:59:17.10,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,962.84,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}出发这事\N旅立つこと
+Dialogue: 0,1:59:14.26,1:59:16.40,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}出发这事\N旅立つこと
+Dialogue: 0,1:59:13.56,1:59:14.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(962.84,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}出发这事\N旅立つこと
+Dialogue: 0,1:59:20.51,1:59:21.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}踌躇的旅途\Nためらうたび
+Dialogue: 0,1:59:17.15,1:59:20.51,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}踌躇的旅途\Nためらうたび
+Dialogue: 0,1:59:16.45,1:59:17.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}踌躇的旅途\Nためらうたび
+Dialogue: 0,1:59:26.63,1:59:27.33,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.92,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}人们忘记了\N人は忘れていくよ
+Dialogue: 0,1:59:21.26,1:59:26.63,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}人们忘记了\N人は忘れていくよ
+Dialogue: 0,1:59:20.56,1:59:21.26,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.92,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}人们忘记了\N人は忘れていくよ
+Dialogue: 0,1:59:35.15,1:59:35.85,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.54,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}无法替代的爱和梦\Nかけがえのない愛と夢を
+Dialogue: 0,1:59:27.38,1:59:35.15,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}无法替代的爱和梦\Nかけがえのない愛と夢を
+Dialogue: 0,1:59:26.68,1:59:27.38,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.54,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}无法替代的爱和梦\Nかけがえのない愛と夢を
+Dialogue: 0,1:59:39.95,1:59:40.65,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.38,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:59:36.52,1:59:39.95,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}风在吹着\N風が吹いていく
+Dialogue: 0,1:59:35.82,1:59:36.52,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.38,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}风在吹着\N風が吹いていく
+Dialogue: 0,1:59:45.40,1:59:46.10,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.11,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:59:40.70,1:59:45.40,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:59:40.00,1:59:40.70,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.11,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}张开翅膀\Nこの翼広げて
+Dialogue: 0,1:59:48.11,1:59:48.81,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,963.65,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}向天空飞去\N飛び立って行く
+Dialogue: 0,1:59:46.15,1:59:48.11,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}向天空飞去\N飛び立って行く
+Dialogue: 0,1:59:45.45,1:59:46.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(963.65,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}向天空飞去\N飛び立って行く
+Dialogue: 0,1:59:53.36,1:59:54.06,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,965.81,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:59:48.86,1:59:53.36,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:59:48.16,1:59:48.86,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(965.81,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}假如有想守护的东西\N守りたいものがあるなら
+Dialogue: 0,1:59:58.68,1:59:59.38,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.46,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}人会变得坚强\N人は強くなれるから
+Dialogue: 0,1:59:54.11,1:59:58.68,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}人会变得坚强\N人は強くなれるから
+Dialogue: 0,1:59:53.41,1:59:54.11,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.46,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}人会变得坚强\N人は強くなれるから
+Dialogue: 0,2:00:08.45,2:00:09.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,968.5,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,1:59:59.43,2:00:08.45,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,1:59:58.73,1:59:59.43,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(968.5,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}这样的爱，到那无止境的天空\Nこの愛という果てしない空を行くのさ
+Dialogue: 0,2:00:11.84,2:00:12.54,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.03,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}我们一定会到达彼岸并持续前进\NWe can reach it and go.
+Dialogue: 0,2:00:09.24,2:00:11.84,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}我们一定会到达彼岸并持续前进\NWe can reach it and go.
+Dialogue: 0,2:00:08.54,2:00:09.24,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.03,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}我们一定会到达彼岸并持续前进\NWe can reach it and go.
+Dialogue: 0,2:00:13.45,2:00:14.15,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,964.8,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}只要我们共同仰望梦想\NIf we dream it,
+Dialogue: 0,2:00:12.59,2:00:13.45,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}只要我们共同仰望梦想\NIf we dream it,
+Dialogue: 0,2:00:11.89,2:00:12.59,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(964.8,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}只要我们共同仰望梦想\NIf we dream it,
+Dialogue: 0,2:00:20.51,2:00:21.21,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx100\fscy100\bord1\blur2\3c&HFF6400&\an5\move(960,65,967.05,63.7)\alpha&H000000&\t(0,700,\fscx110\fscy110\bord0,\blur10\alpha&HFFFFFF&)}一定会找到我们最终的归属\Nwe can fly to the destination.
+Dialogue: 0,2:00:14.20,2:00:20.51,Lyrics,,0,0,0,fx,{\an5\pos(960,65)\c&HFFFFFF&\3c&HFF6400&\bord1\blur2}一定会找到我们最终的归属\Nwe can fly to the destination.
+Dialogue: 0,2:00:13.50,2:00:14.20,Lyrics,,0,0,0,fx,{\an5\c&HFFFFFF&\fscx110\fscy110\bord0\blur10\3c&HFF6400&\an5\move(967.05,63.7,960,65)\alpha&HFFFFFF&\t(0,700,\fscx100\fscy100\bord1,\blur2\alpha&H000000&)}一定会找到我们最终的归属\Nwe can fly to the destination.
+

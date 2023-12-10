@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:LING}",
+            "name": "Debug Ramc",
+            "program": "${workspaceFolder:LING}/.build/debug/Ramc",
+            "preLaunchTask": "swift: Build Debug Ramc"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:LING}",
+            "name": "Release Ramc",
+            "program": "${workspaceFolder:LING}/.build/release/Ramc",
+            "preLaunchTask": "swift: Build Release Ramc"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+module PythonKit {
+    header "/Users/lizhen/Desktop/GT23Fall/LING/.build/arm64-apple-macosx/debug/PythonKit.build/PythonKit-Swift.h"
+    requires objc
+}

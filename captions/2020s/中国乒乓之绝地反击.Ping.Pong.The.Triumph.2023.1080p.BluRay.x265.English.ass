@@ -1,0 +1,2434 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 804
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,53,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,1.77,1.47,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:50.73,0:00:55.23,Default,,0,0,0,,In the late 1980s,\Nthe Chinese men's table tennis team
+Dialogue: 0,0:00:55.65,0:01:00.15,Default,,0,0,0,,was defeated in Seoul.\NAfter suffering an 0-5 losing streak,
+Dialogue: 0,0:01:00.53,0:01:05.03,Default,,0,0,0,,sports media around the world\Ndeclared it the end of an era.
+Dialogue: 0,0:01:16.59,0:01:21.09,Default,,0,0,0,,Rome, Italy
+Dialogue: 0,0:01:35.57,0:01:36.95,Default,,0,0,0,,(TV) It's Maldini again.
+Dialogue: 0,0:01:36.95,0:01:38.07,Default,,0,0,0,,(TV) Maldini to Evani.
+Dialogue: 0,0:01:38.95,0:01:40.74,Default,,0,0,0,,(TV) Evani makes a cross.
+Dialogue: 0,0:01:40.74,0:01:43.45,Default,,0,0,0,,(TV) Van Basten! It's 2 to 1.
+Dialogue: 0,0:01:44.29,0:01:45.70,Default,,0,0,0,,(TV) Van Basten scores!
+Dialogue: 0,0:02:10.56,0:02:11.94,Default,,0,0,0,,(English) Hey, hello sir.
+Dialogue: 0,0:02:11.94,0:02:13.23,Default,,0,0,0,,(English) You have a look.
+Dialogue: 0,0:02:13.23,0:02:14.44,Default,,0,0,0,,(English) It's wonderful. It's amazing.
+Dialogue: 0,0:02:14.44,0:02:15.73,Default,,0,0,0,,(English) Have a look.
+Dialogue: 0,0:02:15.73,0:02:17.82,Default,,0,0,0,,(English) Please, have a look.
+Dialogue: 0,0:02:17.82,0:02:18.82,Default,,0,0,0,,(English) It's really good.
+Dialogue: 0,0:02:42.93,0:02:44.43,Default,,0,0,0,,God bless you, sir.
+Dialogue: 0,0:02:44.43,0:02:47.10,Default,,0,0,0,,Good sir, anything will do.
+Dialogue: 0,0:02:57.61,0:02:58.61,Default,,0,0,0,,Call the police!
+Dialogue: 0,0:03:00.20,0:03:01.32,Default,,0,0,0,,Police!
+Dialogue: 0,0:03:04.20,0:03:05.33,Default,,0,0,0,,Call the police!
+Dialogue: 0,0:03:40.07,0:03:41.86,Default,,0,0,0,,Dude, what's going on?
+Dialogue: 0,0:03:42.32,0:03:43.82,Default,,0,0,0,,I called the police.
+Dialogue: 0,0:03:43.82,0:03:47.70,Default,,0,0,0,,A kid was begging for change\Non Goldfish Street.
+Dialogue: 0,0:03:47.70,0:03:51.54,Default,,0,0,0,,Then I got robbed.\NThe robber ran towards Cavern Alley.
+Dialogue: 0,0:03:52.91,0:03:53.92,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:03:53.92,0:03:55.04,Default,,0,0,0,,Put your hands behind your back!
+Dialogue: 0,0:03:55.04,0:03:56.42,Default,,0,0,0,,I called the cops!
+Dialogue: 0,0:03:57.54,0:03:58.71,Default,,0,0,0,,I got robbed!
+Dialogue: 0,0:03:58.71,0:04:02.34,Default,,0,0,0,,Don't move! Stop resisting!
+Dialogue: 0,0:04:05.43,0:04:06.93,Default,,0,0,0,,Marco!
+Dialogue: 0,0:04:07.43,0:04:11.43,Default,,0,0,0,,Ask Luca if it's this Asian guy.
+Dialogue: 0,0:04:11.43,0:04:12.93,Default,,0,0,0,,Asians again.
+Dialogue: 0,0:04:18.23,0:04:21.19,Default,,0,0,0,,Chinese? Where do you work for a living?
+Dialogue: 0,0:04:21.57,0:04:25.36,Default,,0,0,0,,I was invited by your minister of sports.
+Dialogue: 0,0:04:25.36,0:04:26.53,Default,,0,0,0,,I am a coa--
+Dialogue: 0,0:04:26.53,0:04:27.45,Default,,0,0,0,,Hey!
+Dialogue: 0,0:04:27.74,0:04:30.54,Default,,0,0,0,,Bad idea to enter the country\Nwithout papers.
+Dialogue: 0,0:04:30.54,0:04:32.79,Default,,0,0,0,,Get your hands off me, you bastard!
+Dialogue: 0,0:04:32.79,0:04:36.42,Default,,0,0,0,,It's an expensive watch.
+Dialogue: 0,0:04:36.42,0:04:39.42,Default,,0,0,0,,Did you find it easy to make money in Roma?
+Dialogue: 0,0:04:43.30,0:04:45.05,Default,,0,0,0,,I would like to believe you.
+Dialogue: 0,0:04:45.55,0:04:47.55,Default,,0,0,0,,But where is your ID, Mr. VIP?
+Dialogue: 0,0:04:51.60,0:04:52.43,Default,,0,0,0,,Damn it.
+Dialogue: 0,0:04:52.43,0:04:54.43,Default,,0,0,0,,Dai is the greatest coach there ever was.
+Dialogue: 0,0:04:54.94,0:04:57.94,Default,,0,0,0,,The godfather of table tennis in Italy!
+Dialogue: 0,0:04:59.82,0:05:02.07,Default,,0,0,0,,It only took him three years
+Dialogue: 0,0:05:02.07,0:05:04.57,Default,,0,0,0,,to turn us from being the worst
+Dialogue: 0,0:05:04.57,0:05:06.32,Default,,0,0,0,,into the 7th in the world!
+Dialogue: 0,0:05:06.82,0:05:08.11,Default,,0,0,0,,Let him go!
+Dialogue: 0,0:05:08.11,0:05:09.45,Default,,0,0,0,,Get his possessions back!
+Dialogue: 0,0:05:09.45,0:05:10.24,Default,,0,0,0,,Now!
+Dialogue: 0,0:05:10.24,0:05:12.29,Default,,0,0,0,,It's 11 pm now!
+Dialogue: 0,0:05:12.29,0:05:13.45,Default,,0,0,0,,God...
+Dialogue: 0,0:05:13.45,0:05:16.41,Default,,0,0,0,,Isn't he just\Na Chinese table tennis player?
+Dialogue: 0,0:05:16.41,0:05:18.29,Default,,0,0,0,,Sweden issued a set of stamps\Nfeaturing him.
+Dialogue: 0,0:05:18.29,0:05:21.67,Default,,0,0,0,,And now in Rome,\Nyou treat him like an illegal immigrant.
+Dialogue: 0,0:05:21.67,0:05:23.09,Default,,0,0,0,,Do you want
+Dialogue: 0,0:05:23.59,0:05:25.67,Default,,0,0,0,,a phone call from the mayor himself?
+Dialogue: 0,0:05:36.10,0:05:37.48,Default,,0,0,0,,No need to sulk.
+Dialogue: 0,0:05:37.94,0:05:39.60,Default,,0,0,0,,We have good news.
+Dialogue: 0,0:05:39.60,0:05:43.69,Default,,0,0,0,,The committee has decided to sign\Na 5-year extension contract
+Dialogue: 0,0:05:44.32,0:05:46.99,Default,,0,0,0,,with an annual salary\Nof $50,000 US dollars.
+Dialogue: 0,0:05:48.11,0:05:51.12,Default,,0,0,0,,That's 50 years' worth of pay in China!
+Dialogue: 0,0:05:51.70,0:05:54.66,Default,,0,0,0,,I wanted to give this to you.
+Dialogue: 0,0:05:55.04,0:05:56.33,Default,,0,0,0,,Resignation letter?
+Dialogue: 0,0:05:58.16,0:06:02.66,Default,,0,0,0,,I can go to the press and demand\Na formal apology from the stupid police.
+Dialogue: 0,0:06:04.67,0:06:05.55,Default,,0,0,0,,Dai.
+Dialogue: 0,0:06:06.34,0:06:08.05,Default,,0,0,0,,Please, anything you want.
+Dialogue: 0,0:06:09.18,0:06:10.47,Default,,0,0,0,,I've made up my mind long ago.
+Dialogue: 0,0:06:10.47,0:06:14.18,Default,,0,0,0,,It's just that tonight
+Dialogue: 0,0:06:16.18,0:06:18.18,Default,,0,0,0,,I'm particularly homesick.
+Dialogue: 0,0:06:21.86,0:06:22.56,Default,,0,0,0,,Wang Ying.
+Dialogue: 0,0:06:23.19,0:06:24.57,Default,,0,0,0,,You're due next month.
+Dialogue: 0,0:06:25.36,0:06:26.69,Default,,0,0,0,,You should stay put.
+Dialogue: 0,0:06:28.99,0:06:29.99,Default,,0,0,0,,How about I go by myself?
+Dialogue: 0,0:06:32.37,0:06:33.37,Default,,0,0,0,,Or invite your mom to come here?
+Dialogue: 0,0:06:34.08,0:06:35.08,Default,,0,0,0,,How about it?
+Dialogue: 0,0:06:35.08,0:06:36.20,Default,,0,0,0,,We can ask Mi for help with the visa.
+Dialogue: 0,0:06:36.20,0:06:37.20,Default,,0,0,0,,He knows people
+Dialogue: 0,0:06:37.20,0:06:38.20,Default,,0,0,0,,who can help expedite\Nthe application process.
+Dialogue: 0,0:06:42.71,0:06:44.71,Default,,0,0,0,,The conference in Beijing\Nshould be done by now.
+Dialogue: 0,0:07:00.69,0:07:01.85,Default,,0,0,0,,Hello, Mr Qi.
+Dialogue: 0,0:07:02.35,0:07:03.56,Default,,0,0,0,,Still up?
+Dialogue: 0,0:07:03.56,0:07:04.44,Default,,0,0,0,,Ah, yes.
+Dialogue: 0,0:07:04.86,0:07:06.57,Default,,0,0,0,,There are finally words from above.
+Dialogue: 0,0:07:06.57,0:07:07.86,Default,,0,0,0,,You're welcomed to come back.
+Dialogue: 0,0:07:07.86,0:07:10.07,Default,,0,0,0,,But only for an assistant coach position.
+Dialogue: 0,0:07:10.07,0:07:11.86,Default,,0,0,0,,Coach Li is appointed as the head coach.
+Dialogue: 0,0:07:11.86,0:07:15.45,Default,,0,0,0,,Still we carry forward the tradition\Nof team work from our old national team...
+Dialogue: 0,0:07:15.45,0:07:18.04,Default,,0,0,0,,Why did you decide to leave Italy, Dai?
+Dialogue: 0,0:07:18.04,0:07:19.79,Default,,0,0,0,,You're the best neighbors I've ever had.
+Dialogue: 0,0:07:19.79,0:07:20.29,Default,,0,0,0,,Vicca.
+Dialogue: 0,0:07:21.08,0:07:23.21,Default,,0,0,0,,I believe, in two years,
+Dialogue: 0,0:07:23.21,0:07:26.09,Default,,0,0,0,,we will come back again.
+Dialogue: 0,0:07:29.09,0:07:29.80,Default,,0,0,0,,...How about it?
+Dialogue: 0,0:07:29.80,0:07:31.42,Default,,0,0,0,,Still coming back?
+Dialogue: 0,0:07:49.44,0:07:51.94,Default,,0,0,0,,Dai, the rules of the game\Nwere not made by the Chinese.
+Dialogue: 0,0:07:51.95,0:07:54.82,Default,,0,0,0,,You are doomed to fail\Nif you coach in China.
+Dialogue: 0,0:08:07.46,0:08:11.96,Default,,0,0,0,,(English) The 9th agenda item of\Nthe 38th ITTF general meeting,
+Dialogue: 0,0:08:14.09,0:08:18.59,Default,,0,0,0,,(English) regulations covering colors on\Nboth sides of the racket must be different.
+Dialogue: 0,0:08:20.43,0:08:21.68,Default,,0,0,0,,Foul!
+Dialogue: 0,0:08:22.68,0:08:25.31,Default,,0,0,0,,The ITTF has newly adopted
+Dialogue: 0,0:08:25.31,0:08:28.19,Default,,0,0,0,,extremely strict service rules.
+Dialogue: 0,0:08:28.19,0:08:29.32,Default,,0,0,0,,Foul!
+Dialogue: 0,0:08:29.32,0:08:30.11,Default,,0,0,0,,Why!
+Dialogue: 0,0:08:31.48,0:08:33.19,Default,,0,0,0,,Under these new rules,
+Dialogue: 0,0:08:33.19,0:08:35.70,Default,,0,0,0,,the wrongful serve used by\Nthe Chinese players will be harshly penalized.
+Dialogue: 0,0:08:37.20,0:08:38.32,Default,,0,0,0,,Foul!
+Dialogue: 0,0:08:41.16,0:08:42.54,Default,,0,0,0,,Must be refereeing mistakes.
+Dialogue: 0,0:08:42.54,0:08:43.66,Default,,0,0,0,,It's got to be their problem.
+Dialogue: 0,0:08:43.66,0:08:45.16,Default,,0,0,0,,I'll contest it.
+Dialogue: 0,0:08:47.46,0:08:51.46,Default,,0,0,0,,Another shipment of glue\Nto China has been cancelled.
+Dialogue: 0,0:08:52.34,0:08:56.84,Default,,0,0,0,,It is the international standard\Nto use qualified solvent adhesive,
+Dialogue: 0,0:08:57.47,0:09:01.47,Default,,0,0,0,,but only China is facing\Nglue import sanctions from the West.
+Dialogue: 0,0:09:04.31,0:09:07.35,Default,,0,0,0,,Top player Dai Min jia has retired\Ndue to restrictions on his playing style.
+Dialogue: 0,0:09:07.98,0:09:10.48,Default,,0,0,0,,He ranked top globally by the age of 24,
+Dialogue: 0,0:09:10.48,0:09:13.19,Default,,0,0,0,,but is now destined to miss\Nthe gold medal in men's singles.
+Dialogue: 0,0:09:14.07,0:09:14.99,Default,,0,0,0,,(English) Waldner,
+Dialogue: 0,0:09:14.99,0:09:19.20,Default,,0,0,0,,(English) the greatest player in the history\Nof table tennis, has come to this world event.
+Dialogue: 0,0:09:19.20,0:09:21.08,Default,,0,0,0,,He leads the Swedish team
+Dialogue: 0,0:09:21.08,0:09:22.66,Default,,0,0,0,,that consists of European Champion Persson
+Dialogue: 0,0:09:22.66,0:09:24.16,Default,,0,0,0,,and World Youth Champion Karlsson.
+Dialogue: 0,0:09:24.16,0:09:26.54,Default,,0,0,0,,It is regarded as\Nthe strongest team in history.
+Dialogue: 0,0:09:26.54,0:09:27.83,Default,,0,0,0,,Table tennis is evolving.
+Dialogue: 0,0:09:27.83,0:09:30.42,Default,,0,0,0,,In both height and strength,\NChinese with traditional techniques
+Dialogue: 0,0:09:30.42,0:09:33.42,Default,,0,0,0,,have little advantage against Europeans.
+Dialogue: 0,0:09:33.84,0:09:37.42,Default,,0,0,0,,(English) In 1980, when I first came to China\Nat age of 14.
+Dialogue: 0,0:09:37.84,0:09:40.72,Default,,0,0,0,,(English) I was beaten to the ground\Nby the gatekeeper of a training hall.
+Dialogue: 0,0:09:41.35,0:09:42.93,Default,,0,0,0,,(English) At that time, I thought,
+Dialogue: 0,0:09:42.93,0:09:44.93,Default,,0,0,0,,(English) I will defeat\Nall Chinese opponents.
+Dialogue: 0,0:09:44.93,0:09:45.73,Default,,0,0,0,,Coach Xu!
+Dialogue: 0,0:09:45.73,0:09:47.44,Default,,0,0,0,,Is Chinese ping pong dead?
+Dialogue: 0,0:09:47.44,0:09:48.35,Default,,0,0,0,,After your retirement,
+Dialogue: 0,0:09:48.35,0:09:50.56,Default,,0,0,0,,will coach Li, who you recommended,\Nbe able to handle this?
+Dialogue: 0,0:09:50.56,0:09:53.69,Default,,0,0,0,,Do Chinese players\Nstill have a chance at beating Waldner?
+Dialogue: 0,0:09:53.69,0:09:56.57,Default,,0,0,0,,Will the Chinese team\Nonce again reach the top of the rankings?
+Dialogue: 0,0:09:56.86,0:09:59.74,Default,,0,0,0,,Do you still believe?
+Dialogue: 0,0:10:05.70,0:10:07.29,Default,,0,0,0,,Well then, I am done!
+Dialogue: 0,0:10:07.29,0:10:07.58,Default,,0,0,0,,(Beijing, China, 1991)
+Dialogue: 0,0:10:07.58,0:10:09.21,Default,,0,0,0,,What kind of attitude is this?\N(Beijing, China, 1991)
+Dialogue: 0,0:10:09.21,0:10:10.08,Default,,0,0,0,,Want to quit?\N(Beijing, China, 1991)
+Dialogue: 0,0:10:10.25,0:10:11.21,Default,,0,0,0,,Coach Li!\N(Beijing, China, 1991)
+Dialogue: 0,0:10:11.21,0:10:11.88,Default,,0,0,0,,Let him go.
+Dialogue: 0,0:10:12.92,0:10:14.80,Default,,0,0,0,,Losing 0 to 5 in Dortmund
+Dialogue: 0,0:10:14.80,0:10:16.30,Default,,0,0,0,,was at least losing to the Swedes.
+Dialogue: 0,0:10:16.30,0:10:17.30,Default,,0,0,0,,Losing to Waldner.
+Dialogue: 0,0:10:17.30,0:10:18.72,Default,,0,0,0,,This time in Chiba,
+Dialogue: 0,0:10:18.72,0:10:20.22,Default,,0,0,0,,you dare to lose to the Czechs.
+Dialogue: 0,0:10:20.22,0:10:22.05,Default,,0,0,0,,Have you no shame?
+Dialogue: 0,0:10:29.31,0:10:31.31,Default,,0,0,0,,Coach Li.
+Dialogue: 0,0:10:59.92,0:11:00.93,Default,,0,0,0,,Hello, Ms. Wang.
+Dialogue: 0,0:11:01.80,0:11:02.68,Default,,0,0,0,,Am I in your way?
+Dialogue: 0,0:11:12.10,0:11:14.11,Default,,0,0,0,,Preparing to revive\Nyour Shaoxing opera career?
+Dialogue: 0,0:11:37.30,0:11:38.17,Default,,0,0,0,,Tomorrow,
+Dialogue: 0,0:11:38.17,0:11:40.17,Default,,0,0,0,,if I manage to get elected national coach,
+Dialogue: 0,0:11:41.17,0:11:42.80,Default,,0,0,0,,we won't need to endure\Nthe conditions here anymore.
+Dialogue: 0,0:11:43.80,0:11:45.84,Default,,0,0,0,,The sports bureau will give us\Na two-bedroom apartment
+Dialogue: 0,0:11:45.85,0:11:46.97,Default,,0,0,0,,with private toilet.
+Dialogue: 0,0:11:47.68,0:11:49.06,Default,,0,0,0,,The bottle on the sewing machine.
+Dialogue: 0,0:11:51.18,0:11:52.19,Default,,0,0,0,,Italian made.
+Dialogue: 0,0:11:56.98,0:11:58.48,Default,,0,0,0,,Vieri's wife sent it.
+Dialogue: 0,0:11:58.48,0:11:59.48,Default,,0,0,0,,Really?
+Dialogue: 0,0:11:59.48,0:12:00.99,Default,,0,0,0,,He said in Chiba,
+Dialogue: 0,0:12:02.07,0:12:03.57,Default,,0,0,0,,when the Chinese team lost,
+Dialogue: 0,0:12:04.07,0:12:05.49,Default,,0,0,0,,it was the happiest they've been
+Dialogue: 0,0:12:05.49,0:12:07.20,Default,,0,0,0,,in the two years since you left.
+Dialogue: 0,0:12:08.70,0:12:11.33,Default,,0,0,0,,The entire Italian ping pong community\Nis waiting for you to return.
+Dialogue: 0,0:12:25.34,0:12:26.93,Default,,0,0,0,,The match in Chiba,
+Dialogue: 0,0:12:27.68,0:12:29.72,Default,,0,0,0,,we lost because of Bai Minhe.
+Dialogue: 0,0:12:30.85,0:12:32.18,Default,,0,0,0,,I'm his coach.
+Dialogue: 0,0:12:34.94,0:12:36.44,Default,,0,0,0,,And now coach Li has resigned.
+Dialogue: 0,0:12:37.86,0:12:39.44,Default,,0,0,0,,I'm the second in line to be blamed.
+Dialogue: 0,0:12:41.86,0:12:43.44,Default,,0,0,0,,The election tomorrow, I think,
+Dialogue: 0,0:12:44.45,0:12:46.24,Default,,0,0,0,,will most probably be only for show.
+Dialogue: 0,0:12:48.24,0:12:50.08,Default,,0,0,0,,The leadership has already decided.
+Dialogue: 0,0:13:11.22,0:13:13.22,Default,,0,0,0,,But let me try one more time.
+Dialogue: 0,0:13:14.93,0:13:15.94,Default,,0,0,0,,If I lose,
+Dialogue: 0,0:13:18.10,0:13:19.61,Default,,0,0,0,,I'll go back to Rome with you.
+Dialogue: 0,0:13:34.29,0:13:36.16,Default,,0,0,0,,On numerous occasions,
+Dialogue: 0,0:13:36.16,0:13:37.79,Default,,0,0,0,,I have dreamt of being back on top.
+Dialogue: 0,0:13:37.79,0:13:40.96,Default,,0,0,0,,I think, in the current conditions,\Nfor our national team,
+Dialogue: 0,0:13:40.96,0:13:42.59,Default,,0,0,0,,our young players,\Nwe face the same challenges.
+Dialogue: 0,0:13:42.80,0:13:44.09,Default,,0,0,0,,Adversity is an opportunity.
+Dialogue: 0,0:13:44.09,0:13:44.92,Default,,0,0,0,,Adversity brings out capabilities.
+Dialogue: 0,0:13:45.42,0:13:46.59,Default,,0,0,0,,The only way forward is through discipline.
+Dialogue: 0,0:13:46.97,0:13:48.68,Default,,0,0,0,,To build strength\Nthrough intense trainings.
+Dialogue: 0,0:13:48.68,0:13:51.60,Default,,0,0,0,,Make full use of our fine tradition\Nof collective wisdom.
+Dialogue: 0,0:13:51.60,0:13:52.60,Default,,0,0,0,,To stand out from the crowd.
+Dialogue: 0,0:13:53.18,0:13:54.10,Default,,0,0,0,,I believe,
+Dialogue: 0,0:13:54.10,0:13:56.60,Default,,0,0,0,,as long as we train\Nby the DDPI mantra to the letter,
+Dialogue: 0,0:13:57.10,0:13:58.48,Default,,0,0,0,,within ten years...
+Dialogue: 0,0:13:59.98,0:14:01.11,Default,,0,0,0,,within ten years!
+Dialogue: 0,0:14:01.11,0:14:03.32,Default,,0,0,0,,I will lead the team\Nout of these hard times,
+Dialogue: 0,0:14:03.32,0:14:04.61,Default,,0,0,0,,and bring Chinese ping pong
+Dialogue: 0,0:14:04.61,0:14:05.48,Default,,0,0,0,,back to the top of the world.
+Dialogue: 0,0:14:05.49,0:14:06.32,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:22.17,0:14:23.17,Default,,0,0,0,,Two years.
+Dialogue: 0,0:14:23.17,0:14:24.17,Default,,0,0,0,,I don't need ten.
+Dialogue: 0,0:14:24.17,0:14:25.67,Default,,0,0,0,,And it's not a transition period.
+Dialogue: 0,0:14:25.67,0:14:26.96,Default,,0,0,0,,Faith dictates everything.
+Dialogue: 0,0:14:27.55,0:14:29.97,Default,,0,0,0,,I have faith that we will retake\Nthe Swaythling Cup in two years.
+Dialogue: 0,0:14:30.68,0:14:31.47,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:42.81,0:14:43.69,Default,,0,0,0,,Load of hot air!
+Dialogue: 0,0:14:44.48,0:14:45.57,Default,,0,0,0,,He didn't even manage
+Dialogue: 0,0:14:45.98,0:14:47.82,Default,,0,0,0,,to get a men's singles championship\Nhis whole career.
+Dialogue: 0,0:14:48.69,0:14:50.36,Default,,0,0,0,,Only cares about appearances.
+Dialogue: 0,0:14:50.36,0:14:50.99,Default,,0,0,0,,Look at Bai Minhe.
+Dialogue: 0,0:14:51.70,0:14:53.57,Default,,0,0,0,,What did he achieve under him?
+Dialogue: 0,0:14:53.57,0:14:55.20,Default,,0,0,0,,I think it fits.
+Dialogue: 0,0:14:55.20,0:14:57.54,Default,,0,0,0,,A group of little brats led by a big brat.
+Dialogue: 0,0:14:57.54,0:14:59.33,Default,,0,0,0,,They'll be invincible.
+Dialogue: 0,0:15:15.43,0:15:16.43,Default,,0,0,0,,Mr. Mi.
+Dialogue: 0,0:15:16.43,0:15:17.43,Default,,0,0,0,,That Dai, what a blowhard.
+Dialogue: 0,0:15:17.43,0:15:18.93,Default,,0,0,0,,So full of it.
+Dialogue: 0,0:15:18.93,0:15:20.06,Default,,0,0,0,,Two years.
+Dialogue: 0,0:15:20.06,0:15:21.69,Default,,0,0,0,,What a joke!
+Dialogue: 0,0:15:22.56,0:15:24.23,Default,,0,0,0,,Ni was no better,
+Dialogue: 0,0:15:24.23,0:15:24.94,Default,,0,0,0,,What?
+Dialogue: 0,0:15:24.94,0:15:26.69,Default,,0,0,0,,If by training alone is enough\Nto win against the Europeans,
+Dialogue: 0,0:15:27.57,0:15:29.24,Default,,0,0,0,,what difference will it make,\Ntwo years or ten years?
+Dialogue: 0,0:15:29.24,0:15:30.69,Default,,0,0,0,,Surely there'd still be a difference.
+Dialogue: 0,0:15:31.20,0:15:32.24,Default,,0,0,0,,Two years.
+Dialogue: 0,0:15:32.24,0:15:33.36,Default,,0,0,0,,Such nonsense!
+Dialogue: 0,0:15:33.36,0:15:34.45,Default,,0,0,0,,The media will have a field day.
+Dialogue: 0,0:15:34.45,0:15:35.58,Default,,0,0,0,,You're worried about the media?
+Dialogue: 0,0:15:35.95,0:15:37.24,Default,,0,0,0,,Think about the leadership.
+Dialogue: 0,0:15:37.24,0:15:38.58,Default,,0,0,0,,Think about the public.
+Dialogue: 0,0:15:38.58,0:15:39.70,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,0:15:41.29,0:15:42.21,Default,,0,0,0,,Ping pong,
+Dialogue: 0,0:15:42.92,0:15:44.21,Default,,0,0,0,,Table tennis,
+Dialogue: 0,0:15:44.92,0:15:46.42,Default,,0,0,0,,was invented by the British.
+Dialogue: 0,0:15:46.92,0:15:48.80,Default,,0,0,0,,Where is the British team now?
+Dialogue: 0,0:15:49.71,0:15:51.72,Default,,0,0,0,,Change is the only truth in this world.
+Dialogue: 0,0:15:52.59,0:15:53.93,Default,,0,0,0,,If you adapt to the change,
+Dialogue: 0,0:15:53.93,0:15:55.05,Default,,0,0,0,,you can help yourself up
+Dialogue: 0,0:15:55.05,0:15:56.22,Default,,0,0,0,,and survive it.
+Dialogue: 0,0:15:56.72,0:15:57.72,Default,,0,0,0,,If you don't,
+Dialogue: 0,0:15:57.72,0:15:58.93,Default,,0,0,0,,then you'll fail.
+Dialogue: 0,0:16:00.56,0:16:03.73,Default,,0,0,0,,When we can't\Nclearly see the goal on the horizon,
+Dialogue: 0,0:16:03.73,0:16:06.94,Default,,0,0,0,,the only thing we can be sure of
+Dialogue: 0,0:16:07.44,0:16:09.32,Default,,0,0,0,,is to avoid inaction.
+Dialogue: 0,0:16:09.32,0:16:11.82,Default,,0,0,0,,No matter how hard,
+Dialogue: 0,0:16:11.82,0:16:12.82,Default,,0,0,0,,moving forward is a must.
+Dialogue: 0,0:16:14.95,0:16:16.45,Default,,0,0,0,,If the decision I'm making today
+Dialogue: 0,0:16:17.12,0:16:18.24,Default,,0,0,0,,will be proven wrong,
+Dialogue: 0,0:16:20.08,0:16:21.08,Default,,0,0,0,,I'll take full responsibility.
+Dialogue: 0,0:16:35.30,0:16:36.30,Default,,0,0,0,,I declare
+Dialogue: 0,0:16:36.30,0:16:38.30,Default,,0,0,0,,the new coaching team.
+Dialogue: 0,0:16:39.47,0:16:40.31,Default,,0,0,0,,Team manager,
+Dialogue: 0,0:16:40.81,0:16:41.81,Default,,0,0,0,,Chang Biao.
+Dialogue: 0,0:16:42.35,0:16:43.27,Default,,0,0,0,,Coaches,
+Dialogue: 0,0:16:43.27,0:16:44.48,Default,,0,0,0,,Du Yuancheng,
+Dialogue: 0,0:16:45.19,0:16:46.10,Default,,0,0,0,,Yin Chao,
+Dialogue: 0,0:16:46.81,0:16:47.69,Default,,0,0,0,,Hu Jingting,
+Dialogue: 0,0:16:48.44,0:16:49.48,Default,,0,0,0,,Ni Xiaodong.
+Dialogue: 0,0:16:50.19,0:16:51.19,Default,,0,0,0,,Head coach,
+Dialogue: 0,0:16:52.19,0:16:53.19,Default,,0,0,0,,Dai Min jia.
+Dialogue: 0,0:17:02.04,0:17:03.54,Default,,0,0,0,,I request to be transferred\Nto the women's team.
+Dialogue: 0,0:17:05.04,0:17:06.46,Default,,0,0,0,,I request to work with the women's team.
+Dialogue: 0,0:17:06.96,0:17:08.29,Default,,0,0,0,,I can't stand it here.
+Dialogue: 0,0:17:13.17,0:17:14.67,Default,,0,0,0,,Calm down, Xiaodong.
+Dialogue: 0,0:17:14.67,0:17:15.55,Default,,0,0,0,,Whatever it is,
+Dialogue: 0,0:17:15.55,0:17:17.05,Default,,0,0,0,,let's discuss it later.
+Dialogue: 0,0:17:17.05,0:17:18.30,Default,,0,0,0,,Discuss it?
+Dialogue: 0,0:17:18.97,0:17:19.68,Default,,0,0,0,,Go to the women's team.
+Dialogue: 0,0:17:19.68,0:17:20.68,Default,,0,0,0,,Take the championship.
+Dialogue: 0,0:17:21.06,0:17:22.56,Default,,0,0,0,,That'd be something to brag about.
+Dialogue: 0,0:17:24.81,0:17:26.31,Default,,0,0,0,,Why would anyone waste their time here?
+Dialogue: 0,0:17:27.06,0:17:28.19,Default,,0,0,0,,Go ahead, leave.
+Dialogue: 0,0:17:30.48,0:17:31.48,Default,,0,0,0,,Xiaodong!
+Dialogue: 0,0:17:34.99,0:17:36.07,Default,,0,0,0,,Who else?
+Dialogue: 0,0:17:39.20,0:17:40.82,Default,,0,0,0,,Shut it if you want to stay.
+Dialogue: 0,0:17:40.83,0:17:41.99,Default,,0,0,0,,I only ask one thing.
+Dialogue: 0,0:17:42.58,0:17:43.70,Default,,0,0,0,,Train to death!
+Dialogue: 0,0:17:45.41,0:17:46.66,Default,,0,0,0,,One kilo, here you go.
+Dialogue: 0,0:17:47.21,0:17:47.92,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:17:47.92,0:17:49.83,Default,,0,0,0,,Mr. Qi!
+Dialogue: 0,0:17:50.71,0:17:51.42,Default,,0,0,0,,Mr. Qi!
+Dialogue: 0,0:17:51.42,0:17:52.71,Default,,0,0,0,,You've got to help me
+Dialogue: 0,0:17:53.34,0:17:55.21,Default,,0,0,0,,to convince Xiaodong to come back.
+Dialogue: 0,0:17:55.21,0:17:56.05,Default,,0,0,0,,He'll listen to you.
+Dialogue: 0,0:17:56.55,0:17:57.84,Default,,0,0,0,,He'll listen to me?
+Dialogue: 0,0:17:57.84,0:17:59.18,Default,,0,0,0,,Why didn't you listen to me?
+Dialogue: 0,0:17:59.93,0:18:00.93,Default,,0,0,0,,We have agreed.
+Dialogue: 0,0:18:01.43,0:18:02.72,Default,,0,0,0,,I'll bring the news.
+Dialogue: 0,0:18:02.72,0:18:03.93,Default,,0,0,0,,You'll make sure it gets accepted.
+Dialogue: 0,0:18:04.85,0:18:05.56,Default,,0,0,0,,Now look at you.
+Dialogue: 0,0:18:05.56,0:18:06.43,Default,,0,0,0,,Forgot all about it.
+Dialogue: 0,0:18:06.43,0:18:08.56,Default,,0,0,0,,How proud were you this afternoon!
+Dialogue: 0,0:18:08.56,0:18:10.19,Default,,0,0,0,,Ruling with an iron fist!
+Dialogue: 0,0:18:10.86,0:18:12.36,Default,,0,0,0,,I can't help you.
+Dialogue: 0,0:18:13.36,0:18:14.36,Default,,0,0,0,,You be the good cop.
+Dialogue: 0,0:18:14.36,0:18:15.36,Default,,0,0,0,,I'll be the bad cop.
+Dialogue: 0,0:18:15.36,0:18:16.69,Default,,0,0,0,,You'll still end up being the good guy.
+Dialogue: 0,0:18:17.36,0:18:18.95,Default,,0,0,0,,Whether it's on paper or in practice,
+Dialogue: 0,0:18:18.95,0:18:20.20,Default,,0,0,0,,you're lacking in both aspects
+Dialogue: 0,0:18:20.20,0:18:21.36,Default,,0,0,0,,compared to Xiaodong.
+Dialogue: 0,0:18:21.37,0:18:22.37,Default,,0,0,0,,You're right.
+Dialogue: 0,0:18:22.37,0:18:23.58,Default,,0,0,0,,Now you pissed him off
+Dialogue: 0,0:18:23.58,0:18:26.04,Default,,0,0,0,,and want me to help you get him back.
+Dialogue: 0,0:18:26.04,0:18:28.21,Default,,0,0,0,,What do I have to offer?
+Dialogue: 0,0:18:35.05,0:18:36.30,Default,,0,0,0,,What about the apartment?
+Dialogue: 0,0:18:37.92,0:18:39.80,Default,,0,0,0,,I know that his family is too big\Nfor his current living quarters.
+Dialogue: 0,0:18:40.43,0:18:42.72,Default,,0,0,0,,I'll offer my head coach apartment to him.
+Dialogue: 0,0:18:47.22,0:18:48.73,Default,,0,0,0,,Wang Ying...
+Dialogue: 0,0:18:48.73,0:18:49.81,Default,,0,0,0,,Will she agree to that?
+Dialogue: 0,0:18:50.73,0:18:51.44,Default,,0,0,0,,Well...
+Dialogue: 0,0:18:52.06,0:18:54.07,Default,,0,0,0,,Depends on who wears\Nthe pants in the family.
+Dialogue: 0,0:19:18.67,0:19:22.30,Default,,0,0,0,,The selection campaign\Nof the men's table tennis team
+Dialogue: 0,0:19:22.30,0:19:26.47,Default,,0,0,0,,has won support from teams of all provinces, the PLA team,\N(National Sports Commission, Training Center)
+Dialogue: 0,0:19:26.47,0:19:29.93,Default,,0,0,0,,locomotive team, post and telecommunications team and\Nothers. (National Sports Commission, Training Center)
+Dialogue: 0,0:19:29.93,0:19:34.31,Default,,0,0,0,,Athletes and coaches showed\Nrapid response and all-out backing...
+Dialogue: 0,0:19:41.61,0:19:42.99,Default,,0,0,0,,My, my.
+Dialogue: 0,0:19:43.32,0:19:44.82,Default,,0,0,0,,So this is the national team?
+Dialogue: 0,0:19:44.82,0:19:45.62,Default,,0,0,0,,Yep.
+Dialogue: 0,0:19:46.20,0:19:47.12,Default,,0,0,0,,Hou!
+Dialogue: 0,0:19:47.12,0:19:47.83,Default,,0,0,0,,Dong!
+Dialogue: 0,0:19:47.83,0:19:48.54,Default,,0,0,0,,Here!
+Dialogue: 0,0:19:50.79,0:19:52.33,Default,,0,0,0,,What's up with the men's team?
+Dialogue: 0,0:20:12.35,0:20:13.69,Default,,0,0,0,,They're just so-so.
+Dialogue: 0,0:20:14.19,0:20:15.48,Default,,0,0,0,,Not even close.
+Dialogue: 0,0:20:17.48,0:20:18.57,Default,,0,0,0,,Bai Minhe!
+Dialogue: 0,0:20:18.57,0:20:19.57,Default,,0,0,0,,Chen Wen!
+Dialogue: 0,0:20:22.49,0:20:23.49,Default,,0,0,0,,I'm going to go say hi.
+Dialogue: 0,0:20:23.49,0:20:24.70,Default,,0,0,0,,Don't!
+Dialogue: 0,0:20:24.70,0:20:26.07,Default,,0,0,0,,They don't even know who the heck you are.
+Dialogue: 0,0:20:26.07,0:20:27.20,Default,,0,0,0,,We're all going to be teammates soon.
+Dialogue: 0,0:20:27.20,0:20:27.99,Default,,0,0,0,,Not yet!
+Dialogue: 0,0:20:27.99,0:20:29.58,Default,,0,0,0,,I heard your coach\Ntransferred to the women's team.
+Dialogue: 0,0:20:29.58,0:20:31.33,Default,,0,0,0,,Why didn't you follow him there?
+Dialogue: 0,0:20:32.33,0:20:33.54,Default,,0,0,0,,Your coach will climb the ranks.
+Dialogue: 0,0:20:33.54,0:20:35.33,Default,,0,0,0,,You'll get some scraps too.
+Dialogue: 0,0:20:46.43,0:20:47.55,Default,,0,0,0,,Chen Wen.
+Dialogue: 0,0:20:47.55,0:20:49.35,Default,,0,0,0,,You're going to need to try harder.
+Dialogue: 0,0:20:53.18,0:20:55.23,Default,,0,0,0,,(Coach's Notes)
+Dialogue: 0,0:20:58.06,0:20:59.73,Default,,0,0,0,,Bai Minhe's shoulder injury
+Dialogue: 0,0:21:00.44,0:21:02.07,Default,,0,0,0,,is really frustrating.
+Dialogue: 0,0:21:07.95,0:21:08.74,Default,,0,0,0,,Hurry up.
+Dialogue: 0,0:21:08.74,0:21:10.08,Default,,0,0,0,,People say these two youth tea\Nkids are very good.
+Dialogue: 0,0:21:10.08,0:21:11.79,Default,,0,0,0,,One of them is super good looking.
+Dialogue: 0,0:21:11.79,0:21:12.70,Default,,0,0,0,,No kidding!
+Dialogue: 0,0:21:12.70,0:21:14.04,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:21:14.04,0:21:15.21,Default,,0,0,0,,A real handsome boy!
+Dialogue: 0,0:21:19.79,0:21:20.92,Default,,0,0,0,,Last slot on the national team
+Dialogue: 0,0:21:20.92,0:21:22.92,Default,,0,0,0,,goes to the winner!
+Dialogue: 0,0:21:36.94,0:21:38.73,Default,,0,0,0,,Penhold, looping, plus fast attack.
+Dialogue: 0,0:21:38.73,0:21:40.11,Default,,0,0,0,,Backhand block, forehand push.
+Dialogue: 0,0:21:40.11,0:21:41.73,Default,,0,0,0,,Dong, in our national youth team,
+Dialogue: 0,0:21:41.73,0:21:43.23,Default,,0,0,0,,has some advanced techniques.
+Dialogue: 0,0:21:43.23,0:21:44.07,Default,,0,0,0,,It's just that
+Dialogue: 0,0:21:44.07,0:21:45.94,Default,,0,0,0,,none of his skills are perfect yet.
+Dialogue: 0,0:21:55.29,0:21:56.91,Default,,0,0,0,,Hou is sharp as a tack.
+Dialogue: 0,0:21:56.91,0:21:58.79,Default,,0,0,0,,Nobody can predict his serves.
+Dialogue: 0,0:21:58.79,0:22:01.79,Default,,0,0,0,,But he didn't build up solid\Nforehand attacks back on his regional team.
+Dialogue: 0,0:22:01.79,0:22:04.42,Default,,0,0,0,,He can't keep up after three hits.
+Dialogue: 0,0:22:04.42,0:22:05.80,Default,,0,0,0,,Directly attack when he serves.
+Dialogue: 0,0:22:05.80,0:22:06.92,Default,,0,0,0,,Go for the forehand long stroke.
+Dialogue: 0,0:22:06.92,0:22:08.47,Default,,0,0,0,,This time he's going for low throw,
+Dialogue: 0,0:22:08.47,0:22:09.09,Default,,0,0,0,,no spin.
+Dialogue: 0,0:22:18.60,0:22:20.10,Default,,0,0,0,,So handsome!
+Dialogue: 0,0:22:39.67,0:22:41.46,Default,,0,0,0,,Are you wiping sweat or showering?
+Dialogue: 0,0:22:48.47,0:22:49.47,Default,,0,0,0,,Go hard on his forehand.
+Dialogue: 0,0:23:03.06,0:23:04.19,Default,,0,0,0,,Where's Huang Zhao from Bayi?
+Dialogue: 0,0:23:04.19,0:23:05.98,Default,,0,0,0,,Huang Zhao only got\Nthe championship in doubles.
+Dialogue: 0,0:23:05.98,0:23:06.86,Default,,0,0,0,,He's passed the retiring age
+Dialogue: 0,0:23:06.86,0:23:08.07,Default,,0,0,0,,and is planning to go abroad.
+Dialogue: 0,0:23:15.49,0:23:16.91,Default,,0,0,0,,Aren't you going to see who wins?
+Dialogue: 0,0:23:16.91,0:23:18.16,Default,,0,0,0,,Keep them both!
+Dialogue: 0,0:23:20.08,0:23:22.83,Default,,0,0,0,,(English) A champion's will to fight
+Dialogue: 0,0:23:23.58,0:23:26.67,Default,,0,0,0,,(English) A champion's will to fight
+Dialogue: 0,0:23:26.67,0:23:27.84,Default,,0,0,0,,(English) Very good.
+Dialogue: 0,0:23:28.71,0:23:29.84,Default,,0,0,0,,(English) Class is over.
+Dialogue: 0,0:23:29.84,0:23:30.84,Default,,0,0,0,,Class is over.
+Dialogue: 0,0:23:34.72,0:23:35.60,Default,,0,0,0,,Is this right?
+Dialogue: 0,0:23:35.60,0:23:37.01,Default,,0,0,0,,You got it wrong.
+Dialogue: 0,0:23:41.94,0:23:43.69,Default,,0,0,0,,(English) i-g-h-t
+Dialogue: 0,0:23:49.36,0:23:50.36,Default,,0,0,0,,Like this?
+Dialogue: 0,0:23:51.20,0:23:52.86,Default,,0,0,0,,Where's the candy you promised?
+Dialogue: 0,0:23:54.57,0:23:55.37,Default,,0,0,0,,Here.
+Dialogue: 0,0:23:56.95,0:23:58.29,Default,,0,0,0,,Preparing to go abroad?
+Dialogue: 0,0:23:59.41,0:24:00.54,Default,,0,0,0,,Decided to quit?
+Dialogue: 0,0:24:05.04,0:24:06.79,Default,,0,0,0,,Inverted rubber on both sides.
+Dialogue: 0,0:24:07.42,0:24:09.42,Default,,0,0,0,,Looping with both sides.
+Dialogue: 0,0:24:10.59,0:24:11.72,Default,,0,0,0,,Persson's style.
+Dialogue: 0,0:24:12.30,0:24:13.30,Default,,0,0,0,,Fashionable.
+Dialogue: 0,0:24:15.80,0:24:16.93,Default,,0,0,0,,Want to try me?
+Dialogue: 0,0:24:51.46,0:24:53.84,Default,,0,0,0,,Come on, Huang!
+Dialogue: 0,0:24:56.93,0:24:59.14,Default,,0,0,0,,People say you only got\Nyour mixed doubles gold
+Dialogue: 0,0:24:59.85,0:25:01.60,Default,,0,0,0,,because it took a girl\Nto make up for your sloppy performance.
+Dialogue: 0,0:25:03.98,0:25:06.19,Default,,0,0,0,,How many singles styles
+Dialogue: 0,0:25:08.61,0:25:09.65,Default,,0,0,0,,have you tried by now?
+Dialogue: 0,0:25:14.15,0:25:15.11,Default,,0,0,0,,The 7th!
+Dialogue: 0,0:25:16.20,0:25:17.49,Default,,0,0,0,,And the last one!
+Dialogue: 0,0:25:18.87,0:25:21.12,Default,,0,0,0,,We won, we won!
+Dialogue: 0,0:25:23.70,0:25:25.00,Default,,0,0,0,,Not bad, chubs.
+Dialogue: 0,0:25:25.50,0:25:26.62,Default,,0,0,0,,Not bad at all.
+Dialogue: 0,0:25:26.62,0:25:28.04,Default,,0,0,0,,You did put some thought into it.
+Dialogue: 0,0:25:28.04,0:25:28.83,Default,,0,0,0,,Dai!
+Dialogue: 0,0:25:29.71,0:25:30.63,Default,,0,0,0,,Dai, Dai!
+Dialogue: 0,0:25:30.63,0:25:32.17,Default,,0,0,0,,I got the tickets!
+Dialogue: 0,0:25:32.17,0:25:33.71,Default,,0,0,0,,We set off to Shanghai by 6:50!
+Dialogue: 0,0:25:33.71,0:25:34.51,Default,,0,0,0,,Hard seat tickets!
+Dialogue: 0,0:25:38.51,0:25:39.84,Default,,0,0,0,,Check in with national team tomorrow.
+Dialogue: 0,0:25:40.47,0:25:41.81,Default,,0,0,0,,What do I even do there?
+Dialogue: 0,0:25:41.81,0:25:43.97,Default,,0,0,0,,No coach would want me playing singles.
+Dialogue: 0,0:25:45.68,0:25:46.64,Default,,0,0,0,,You saying I'm not a coach?
+Dialogue: 0,0:25:49.65,0:25:51.36,Default,,0,0,0,,You gonna play or what, Huang?
+Dialogue: 0,0:25:51.36,0:25:53.36,Default,,0,0,0,,Are you gonna play?
+Dialogue: 0,0:25:53.36,0:25:54.86,Default,,0,0,0,,We're waiting!
+Dialogue: 0,0:25:56.15,0:25:58.53,Default,,0,0,0,,Who are you, Huang?
+Dialogue: 0,0:25:58.53,0:25:59.99,Default,,0,0,0,,You played like a superman!
+Dialogue: 0,0:26:01.20,0:26:03.66,Default,,0,0,0,,So this is your top recommendation?
+Dialogue: 0,0:26:03.66,0:26:04.54,Default,,0,0,0,,Left eye 0.1,
+Dialogue: 0,0:26:04.54,0:26:05.54,Default,,0,0,0,,right eye 0.09.
+Dialogue: 0,0:26:06.00,0:26:07.21,Default,,0,0,0,,We came such a long way
+Dialogue: 0,0:26:08.00,0:26:09.71,Default,,0,0,0,,for a freak like this?
+Dialogue: 0,0:26:10.71,0:26:12.50,Default,,0,0,0,,We've been waiting here since forever.
+Dialogue: 0,0:26:12.50,0:26:14.34,Default,,0,0,0,,He doesn't know me,
+Dialogue: 0,0:26:14.34,0:26:16.84,Default,,0,0,0,,but you are his coach after all.
+Dialogue: 0,0:26:16.84,0:26:18.42,Default,,0,0,0,,Well, he's a bit eccentric.
+Dialogue: 0,0:26:18.43,0:26:19.55,Default,,0,0,0,,Came from a poor family.
+Dialogue: 0,0:26:19.55,0:26:21.22,Default,,0,0,0,,His father passed away two years ago.
+Dialogue: 0,0:26:21.22,0:26:22.55,Default,,0,0,0,,The mom and two sisters are back at home.
+Dialogue: 0,0:26:22.55,0:26:24.35,Default,,0,0,0,,Nobody knows\Nwhat he's thinking all day long.
+Dialogue: 0,0:26:24.35,0:26:25.52,Default,,0,0,0,,Dai.
+Dialogue: 0,0:26:25.52,0:26:26.73,Default,,0,0,0,,If a chopper is what you're looking for,
+Dialogue: 0,0:26:26.73,0:26:29.02,Default,,0,0,0,,he's the best I've ever trained.
+Dialogue: 0,0:26:30.10,0:26:31.02,Default,,0,0,0,,Gong Feng!
+Dialogue: 0,0:26:31.02,0:26:32.61,Default,,0,0,0,,Don't you know who he is?
+Dialogue: 0,0:26:32.61,0:26:33.73,Default,,0,0,0,,I do.
+Dialogue: 0,0:26:33.73,0:26:34.94,Default,,0,0,0,,But so what?
+Dialogue: 0,0:26:35.61,0:26:36.53,Default,,0,0,0,,Sorry, Coach Du.
+Dialogue: 0,0:26:36.53,0:26:37.86,Default,,0,0,0,,Please get out of my way.
+Dialogue: 0,0:26:40.61,0:26:42.03,Default,,0,0,0,,Why didn't you report to Beijing?
+Dialogue: 0,0:26:43.03,0:26:44.08,Default,,0,0,0,,All my life
+Dialogue: 0,0:26:44.08,0:26:45.41,Default,,0,0,0,,has been devoted to playing chop.
+Dialogue: 0,0:26:45.41,0:26:46.08,Default,,0,0,0,,Other than that,
+Dialogue: 0,0:26:46.58,0:26:47.87,Default,,0,0,0,,I know nothing.
+Dialogue: 0,0:26:48.71,0:26:50.21,Default,,0,0,0,,I haven't even got a place
+Dialogue: 0,0:26:50.21,0:26:51.46,Default,,0,0,0,,in the national league.
+Dialogue: 0,0:26:51.88,0:26:52.88,Default,,0,0,0,,Why would the national team
+Dialogue: 0,0:26:52.88,0:26:54.29,Default,,0,0,0,,want anything to do with me?
+Dialogue: 0,0:26:56.09,0:26:57.38,Default,,0,0,0,,What if I put you on my main lineup?
+Dialogue: 0,0:26:58.76,0:27:00.59,Default,,0,0,0,,The Swedes don't like chop players.
+Dialogue: 0,0:27:00.59,0:27:01.72,Default,,0,0,0,,What they hate, I like.
+Dialogue: 0,0:27:01.72,0:27:03.09,Default,,0,0,0,,Put that over there.
+Dialogue: 0,0:27:04.22,0:27:06.10,Default,,0,0,0,,Don't worry about your mom.
+Dialogue: 0,0:27:06.10,0:27:07.22,Default,,0,0,0,,I'll talk to her.
+Dialogue: 0,0:27:07.22,0:27:08.23,Default,,0,0,0,,Since you were a Kid,
+Dialogue: 0,0:27:08.23,0:27:10.73,Default,,0,0,0,,your mom trusted coach Du the most.
+Dialogue: 0,0:27:10.73,0:27:11.94,Default,,0,0,0,,I don't need to tell you.
+Dialogue: 0,0:27:18.24,0:27:19.11,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:27:19.11,0:27:20.78,Default,,0,0,0,,Asking my boss for time off.
+Dialogue: 0,0:27:20.78,0:27:22.11,Default,,0,0,0,,If this doesn't pan out,
+Dialogue: 0,0:27:22.11,0:27:23.41,Default,,0,0,0,,I'll have a plan B.
+Dialogue: 0,0:27:30.12,0:27:31.08,Default,,0,0,0,,Everyone's here.
+Dialogue: 0,0:27:31.08,0:27:31.83,Default,,0,0,0,,It's time.
+Dialogue: 0,0:27:32.33,0:27:33.33,Default,,0,0,0,,One more minute.
+Dialogue: 0,0:27:41.43,0:27:42.76,Default,,0,0,0,,I'm here to observe
+Dialogue: 0,0:27:42.76,0:27:45.30,Default,,0,0,0,,the outcome of Head Coach Dai's\Ngreat selection campaign.
+Dialogue: 0,0:27:51.48,0:27:53.14,Default,,0,0,0,,What a mess.
+Dialogue: 0,0:27:53.77,0:27:54.48,Default,,0,0,0,,Too old,
+Dialogue: 0,0:27:54.48,0:27:55.19,Default,,0,0,0,,too young.
+Dialogue: 0,0:27:55.81,0:27:56.61,Default,,0,0,0,,The injured,
+Dialogue: 0,0:27:56.61,0:27:57.86,Default,,0,0,0,,the blind.
+Dialogue: 0,0:27:58.61,0:28:00.82,Default,,0,0,0,,So this is your band of misfits?
+Dialogue: 0,0:28:11.04,0:28:12.46,Default,,0,0,0,,Lv Sen, 24.
+Dialogue: 0,0:28:12.46,0:28:13.46,Default,,0,0,0,,Penhold inverted,
+Dialogue: 0,0:28:13.46,0:28:13.96,Default,,0,0,0,,squared racket.
+Dialogue: 0,0:28:14.46,0:28:15.33,Default,,0,0,0,,Dong Shuai, 16.
+Dialogue: 0,0:28:15.33,0:28:16.04,Default,,0,0,0,,Right hand shake hand grip,
+Dialogue: 0,0:28:16.04,0:28:16.84,Default,,0,0,0,,double inverted.
+Dialogue: 0,0:28:16.84,0:28:18.17,Default,,0,0,0,,Looping combined with fast attack.
+Dialogue: 0,0:28:18.96,0:28:19.84,Default,,0,0,0,,Hou Zhuoxiang.
+Dialogue: 0,0:28:19.84,0:28:20.71,Default,,0,0,0,,Right hand pen hold,
+Dialogue: 0,0:28:20.71,0:28:21.84,Default,,0,0,0,,varied techniques.
+Dialogue: 0,0:28:21.84,0:28:24.30,Default,,0,0,0,,Of the new generation\Nof smart fast-attackers in China,
+Dialogue: 0,0:28:24.30,0:28:25.30,Default,,0,0,0,,I'm the spearhead.
+Dialogue: 0,0:28:26.47,0:28:27.35,Default,,0,0,0,,Gong Feng,
+Dialogue: 0,0:28:27.35,0:28:28.35,Default,,0,0,0,,20
+Dialogue: 0,0:28:28.35,0:28:29.47,Default,,0,0,0,,Chop player.
+Dialogue: 0,0:28:29.47,0:28:30.64,Default,,0,0,0,,Shanghai team.
+Dialogue: 0,0:28:30.64,0:28:31.64,Default,,0,0,0,,Chen Wen, 21.
+Dialogue: 0,0:28:31.64,0:28:33.56,Default,,0,0,0,,Right hand shake hand,\Nfast attack with loops.
+Dialogue: 0,0:28:33.56,0:28:34.31,Default,,0,0,0,,National team.
+Dialogue: 0,0:28:35.15,0:28:35.69,Default,,0,0,0,,Huang Zhao.
+Dialogue: 0,0:28:35.69,0:28:36.69,Default,,0,0,0,,Left hand shake hand grip.
+Dialogue: 0,0:28:36.69,0:28:37.86,Default,,0,0,0,,Played both singles and doubles.
+Dialogue: 0,0:28:37.86,0:28:39.02,Default,,0,0,0,,Skipping the age now?
+Dialogue: 0,0:28:39.36,0:28:40.19,Default,,0,0,0,,29
+Dialogue: 0,0:28:41.19,0:28:42.36,Default,,0,0,0,,Bai Minhe.
+Dialogue: 0,0:28:42.36,0:28:43.65,Default,,0,0,0,,National team, 23
+Dialogue: 0,0:28:44.15,0:28:45.36,Default,,0,0,0,,Technique...
+Dialogue: 0,0:28:45.36,0:28:46.87,Default,,0,0,0,,Goes without saying.
+Dialogue: 0,0:28:48.87,0:28:50.91,Default,,0,0,0,,These misfits are all for you.
+Dialogue: 0,0:28:51.91,0:28:54.04,Default,,0,0,0,,No need to introduce the coaching team.
+Dialogue: 0,0:28:55.58,0:28:57.04,Default,,0,0,0,,Everyone knows
+Dialogue: 0,0:28:57.04,0:28:58.00,Default,,0,0,0,,how |
+Dialogue: 0,0:28:58.59,0:28:59.71,Default,,0,0,0,,boasted hard
+Dialogue: 0,0:29:01.09,0:29:03.34,Default,,0,0,0,,about taking home\Nthe Swaythling Cup again in two years.
+Dialogue: 0,0:29:05.01,0:29:06.22,Default,,0,0,0,,Do you believe me?
+Dialogue: 0,0:29:08.05,0:29:09.39,Default,,0,0,0,,Nobody does.
+Dialogue: 0,0:29:10.06,0:29:12.10,Default,,0,0,0,,I haven't even got\Na men's singles championship to my name.
+Dialogue: 0,0:29:15.06,0:29:16.73,Default,,0,0,0,,And nobody believes in any of you either.
+Dialogue: 0,0:29:17.94,0:29:19.11,Default,,0,0,0,,Just now,
+Dialogue: 0,0:29:19.90,0:29:21.02,Default,,0,0,0,,someone called you
+Dialogue: 0,0:29:21.02,0:29:22.61,Default,,0,0,0,,a band of misfits.
+Dialogue: 0,0:29:27.20,0:29:28.53,Default,,0,0,0,,But I believe,
+Dialogue: 0,0:29:29.95,0:29:31.53,Default,,0,0,0,,as long as you train hard,
+Dialogue: 0,0:29:32.79,0:29:34.29,Default,,0,0,0,,I guarantee each of you
+Dialogue: 0,0:29:35.37,0:29:37.21,Default,,0,0,0,,will have a chance\Nto play for your country.
+Dialogue: 0,0:29:40.46,0:29:41.71,Default,,0,0,0,,For fairness' sake,
+Dialogue: 0,0:29:41.71,0:29:43.96,Default,,0,0,0,,I will not coach players personally.
+Dialogue: 0,0:29:43.96,0:29:46.09,Default,,0,0,0,,Coach Yin will take Bai Minhe.
+Dialogue: 0,0:29:50.93,0:29:52.47,Default,,0,0,0,,Through the toughest times,
+Dialogue: 0,0:29:52.47,0:29:54.10,Default,,0,0,0,,I've always believed
+Dialogue: 0,0:29:54.10,0:29:55.60,Default,,0,0,0,,that Chinese ping pong
+Dialogue: 0,0:29:55.60,0:29:57.48,Default,,0,0,0,,will regain glory.
+Dialogue: 0,0:29:59.23,0:30:01.90,Default,,0,0,0,,Because we have\Nthe most adequate reserve of talents,
+Dialogue: 0,0:30:02.90,0:30:05.23,Default,,0,0,0,,the best coaches in the world.
+Dialogue: 0,0:30:05.24,0:30:06.90,Default,,0,0,0,,The one and only
+Dialogue: 0,0:30:06.90,0:30:08.24,Default,,0,0,0,,Coach Ni Xiaodong.
+Dialogue: 0,0:30:08.24,0:30:09.41,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:30:12.78,0:30:15.66,Default,,0,0,0,,The foundation of everything\Nis physical fitness.
+Dialogue: 0,0:30:17.96,0:30:18.96,Default,,0,0,0,,Take a look
+Dialogue: 0,0:30:19.46,0:30:20.96,Default,,0,0,0,,at your fitness test scores.
+Dialogue: 0,0:30:21.75,0:30:24.34,Default,,0,0,0,,The epitome of unremarkable.
+Dialogue: 0,0:30:24.34,0:30:25.34,Default,,0,0,0,,From today on,
+Dialogue: 0,0:30:25.34,0:30:27.17,Default,,0,0,0,,Coach Ni will be your boss.
+Dialogue: 0,0:30:27.17,0:30:28.30,Default,,0,0,0,,If any of you can't keep up.
+Dialogue: 0,0:30:28.30,0:30:29.47,Default,,0,0,0,,I'll blame it on him!
+Dialogue: 0,0:30:35.47,0:30:36.81,Default,,0,0,0,,Today is the first day.
+Dialogue: 0,0:30:36.81,0:30:38.10,Default,,0,0,0,,Before we play ball,
+Dialogue: 0,0:30:38.10,0:30:39.19,Default,,0,0,0,,let's start with some cardio.
+Dialogue: 0,0:30:40.19,0:30:41.48,Default,,0,0,0,,Shall we?
+Dialogue: 0,0:30:42.48,0:30:43.19,Default,,0,0,0,,Very well.
+Dialogue: 0,0:30:47.15,0:30:48.11,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:30:48.61,0:30:49.49,Default,,0,0,0,,At ease!
+Dialogue: 0,0:30:51.20,0:30:52.49,Default,,0,0,0,,Attention!
+Dialogue: 0,0:30:54.20,0:30:55.12,Default,,0,0,0,,Shuttle runs.
+Dialogue: 0,0:30:55.12,0:30:56.12,Default,,0,0,0,,Give me 100 rounds!
+Dialogue: 0,0:30:56.12,0:30:57.04,Default,,0,0,0,,Get in position!
+Dialogue: 0,0:30:58.62,0:31:00.17,Default,,0,0,0,,What're you waiting for, in position!
+Dialogue: 0,0:31:04.84,0:31:05.67,Default,,0,0,0,,Go!
+Dialogue: 0,0:31:13.35,0:31:14.30,Default,,0,0,0,,Where did he go?
+Dialogue: 0,0:31:14.30,0:31:16.01,Default,,0,0,0,,How am I supposed to know?
+Dialogue: 0,0:31:17.64,0:31:18.85,Default,,0,0,0,,So I'm coaching after all.
+Dialogue: 0,0:31:19.64,0:31:20.85,Default,,0,0,0,,What's the use of him?
+Dialogue: 0,0:31:21.52,0:31:22.65,Default,,0,0,0,,Ready!
+Dialogue: 0,0:31:23.36,0:31:24.52,Default,,0,0,0,,Add 50 rounds!
+Dialogue: 0,0:31:25.65,0:31:26.73,Default,,0,0,0,,Quiet, all!
+Dialogue: 0,0:31:27.19,0:31:28.36,Default,,0,0,0,,Stay focused.
+Dialogue: 0,0:31:29.74,0:31:30.74,Default,,0,0,0,,Good.
+Dialogue: 0,0:31:31.74,0:31:32.74,Default,,0,0,0,,Good!
+Dialogue: 0,0:31:33.37,0:31:35.03,Default,,0,0,0,,The movement is top notch.
+Dialogue: 0,0:31:35.03,0:31:36.37,Default,,0,0,0,,We have been practising hard to
+Dialogue: 0,0:31:36.37,0:31:38.58,Default,,0,0,0,,consolidate skills and make breakthrough.
+Dialogue: 0,0:31:39.37,0:31:40.21,Default,,0,0,0,,Very well done.
+Dialogue: 0,0:31:40.21,0:31:41.08,Default,,0,0,0,,Mr. Mi.
+Dialogue: 0,0:31:41.71,0:31:43.00,Default,,0,0,0,,Still the same issue.
+Dialogue: 0,0:31:43.00,0:31:44.21,Default,,0,0,0,,Foreign gadget, I don't want to know.
+Dialogue: 0,0:31:44.54,0:31:46.00,Default,,0,0,0,,Video analysis system.
+Dialogue: 0,0:31:46.00,0:31:47.00,Default,,0,0,0,,All foreign teams use it.
+Dialogue: 0,0:31:47.42,0:31:48.09,Default,,0,0,0,,With video recorders--
+Dialogue: 0,0:31:48.09,0:31:49.55,Default,,0,0,0,,Cut to the point.
+Dialogue: 0,0:31:49.55,0:31:50.72,Default,,0,0,0,,20 thousand dollars.
+Dialogue: 0,0:31:54.51,0:31:55.51,Default,,0,0,0,,Whenever it's about money,
+Dialogue: 0,0:31:55.51,0:31:56.93,Default,,0,0,0,,your eyes pop out of your head.
+Dialogue: 0,0:31:57.35,0:31:58.89,Default,,0,0,0,,How poor are we?
+Dialogue: 0,0:31:58.89,0:32:00.02,Default,,0,0,0,,National team
+Dialogue: 0,0:32:00.02,0:32:01.60,Default,,0,0,0,,can barely play three matches a year.
+Dialogue: 0,0:32:02.23,0:32:03.02,Default,,0,0,0,,You chose me.
+Dialogue: 0,0:32:03.02,0:32:04.10,Default,,0,0,0,,Are you going to hang me out to dry?
+Dialogue: 0,0:32:04.40,0:32:05.94,Default,,0,0,0,,Hang you out to dry!?
+Dialogue: 0,0:32:08.61,0:32:10.07,Default,,0,0,0,,Go on!
+Dialogue: 0,0:32:12.61,0:32:14.24,Default,,0,0,0,,I've had to babysit\Nthis whole project from the beginning.
+Dialogue: 0,0:32:14.95,0:32:15.74,Default,,0,0,0,,For your glue,
+Dialogue: 0,0:32:15.74,0:32:17.53,Default,,0,0,0,,Mr. Qi and I scoured the whole country.
+Dialogue: 0,0:32:18.12,0:32:20.37,Default,,0,0,0,,The factory owner had promised.
+Dialogue: 0,0:32:20.37,0:32:21.95,Default,,0,0,0,,Said that to counter western sanctions,
+Dialogue: 0,0:32:21.96,0:32:24.71,Default,,0,0,0,,he'll make it work, sparing no cost.
+Dialogue: 0,0:32:25.08,0:32:26.58,Default,,0,0,0,,Aren't you touched, hearing this?
+Dialogue: 0,0:32:26.59,0:32:27.54,Default,,0,0,0,,I am!
+Dialogue: 0,0:32:28.09,0:32:29.21,Default,,0,0,0,,But even with the right glue,
+Dialogue: 0,0:32:29.71,0:32:32.22,Default,,0,0,0,,you'll still lose face\Nif we don't have the right equipment.
+Dialogue: 0,0:32:32.76,0:32:33.47,Default,,0,0,0,,20 thousand dollars.
+Dialogue: 0,0:32:33.47,0:32:34.47,Default,,0,0,0,,Enough!
+Dialogue: 0,0:32:38.60,0:32:39.89,Default,,0,0,0,,What are you looking at?\NFocus on your own training.
+Dialogue: 0,0:32:39.89,0:32:41.22,Default,,0,0,0,,How dare you!
+Dialogue: 0,0:32:41.22,0:32:42.10,Default,,0,0,0,,20 thousand dollars,
+Dialogue: 0,0:32:42.10,0:32:43.23,Default,,0,0,0,,that's foreign exchange.
+Dialogue: 0,0:32:43.23,0:32:44.60,Default,,0,0,0,,Not national food coupons.
+Dialogue: 0,0:32:44.60,0:32:46.10,Default,,0,0,0,,How about you sell me for money?
+Dialogue: 0,0:32:46.10,0:32:46.77,Default,,0,0,0,,Mr. Mi.
+Dialogue: 0,0:32:47.31,0:32:48.73,Default,,0,0,0,,Meeting at 11 about platform diving.
+Dialogue: 0,0:32:50.40,0:32:51.40,Default,,0,0,0,,If you won't help me,
+Dialogue: 0,0:32:51.74,0:32:53.11,Default,,0,0,0,,I'll go platform dive with you.
+Dialogue: 0,0:32:56.11,0:32:57.41,Default,,0,0,0,,Aren't you usually so full of ideas?
+Dialogue: 0,0:32:57.41,0:32:58.99,Default,,0,0,0,,Can't you come up with something yourself?
+Dialogue: 0,0:33:00.24,0:33:01.58,Default,,0,0,0,,Me, come up with something?
+Dialogue: 0,0:33:02.16,0:33:03.58,Default,,0,0,0,,Challenge accepted.
+Dialogue: 0,0:33:16.84,0:33:17.64,Default,,0,0,0,,Mom.
+Dialogue: 0,0:33:17.97,0:33:19.76,Default,,0,0,0,,I'm not going to Australia for now.
+Dialogue: 0,0:33:19.76,0:33:21.18,Default,,0,0,0,,At least my brother's with you.
+Dialogue: 0,0:33:21.81,0:33:22.60,Default,,0,0,0,,Dad.
+Dialogue: 0,0:33:22.60,0:33:24.48,Default,,0,0,0,,You just had open heart surgery, don't...
+Dialogue: 0,0:33:25.19,0:33:26.19,Default,,0,0,0,,Xiao Shuai, Xiao Shuai!
+Dialogue: 0,0:33:26.19,0:33:27.10,Default,,0,0,0,,I know, dad.
+Dialogue: 0,0:33:27.10,0:33:28.19,Default,,0,0,0,,Two packages.
+Dialogue: 0,0:33:28.19,0:33:30.19,Default,,0,0,0,,- Thanks.\N- Gifts from fan girls?
+Dialogue: 0,0:33:31.15,0:33:32.15,Default,,0,0,0,,Didn't you clean your shoes yesterday?
+Dialogue: 0,0:33:32.15,0:33:33.19,Default,,0,0,0,,Yeah, yeah, yeah.
+Dialogue: 0,0:33:33.78,0:33:34.78,Default,,0,0,0,,Huaming?
+Dialogue: 0,0:33:34.78,0:33:35.49,Default,,0,0,0,,Zhigang?
+Dialogue: 0,0:33:35.49,0:33:36.61,Default,,0,0,0,,- We are going training.\N- Didn't see nothing!
+Dialogue: 0,0:33:36.61,0:33:37.49,Default,,0,0,0,,Didn't see nothing.
+Dialogue: 0,0:33:37.49,0:33:39.37,Default,,0,0,0,,Nothing, nothing.
+Dialogue: 0,0:33:40.99,0:33:41.99,Default,,0,0,0,,Gong Feng.
+Dialogue: 0,0:33:42.83,0:33:43.83,Default,,0,0,0,,Where's Bai?
+Dialogue: 0,0:33:44.70,0:33:45.54,Default,,0,0,0,,You seen Bai?
+Dialogue: 0,0:33:45.83,0:33:46.46,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:33:46.46,0:33:47.67,Default,,0,0,0,,Back at headquarters.
+Dialogue: 0,0:33:50.17,0:33:51.17,Default,,0,0,0,,I'll take this, thank you.
+Dialogue: 0,0:33:51.71,0:33:52.17,Default,,0,0,0,,No way!
+Dialogue: 0,0:33:52.17,0:33:53.34,Default,,0,0,0,,My grandma sent me that.
+Dialogue: 0,0:33:53.34,0:33:54.71,Default,,0,0,0,,Didn't you eat my roast chicken?
+Dialogue: 0,0:33:54.71,0:33:56.17,Default,,0,0,0,,Did you or did you not\Neat my roast chicken?
+Dialogue: 0,0:33:56.17,0:33:57.63,Default,,0,0,0,,Just bring back the jar when you're done!
+Dialogue: 0,0:33:57.63,0:33:58.34,Default,,0,0,0,,Uh huh.
+Dialogue: 0,0:34:05.48,0:34:06.56,Default,,0,0,0,,Inspection!
+Dialogue: 0,0:34:09.52,0:34:10.48,Default,,0,0,0,,Inspection!
+Dialogue: 0,0:34:12.15,0:34:13.73,Default,,0,0,0,,Knew it was you.
+Dialogue: 0,0:34:14.03,0:34:14.98,Default,,0,0,0,,Close the door!
+Dialogue: 0,0:34:15.57,0:34:17.07,Default,,0,0,0,,Do it quick! Close the door!
+Dialogue: 0,0:34:19.20,0:34:19.99,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:34:20.57,0:34:21.58,Default,,0,0,0,,All good?
+Dialogue: 0,0:34:21.58,0:34:22.37,Default,,0,0,0,,All good.
+Dialogue: 0,0:34:41.51,0:34:43.22,Default,,0,0,0,,Careful.
+Dialogue: 0,0:34:50.44,0:34:52.23,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:34:55.44,0:34:56.36,Default,,0,0,0,,Where are we going?
+Dialogue: 0,0:34:56.74,0:34:57.44,Default,,0,0,0,,Disco, disco!
+Dialogue: 0,0:34:57.44,0:34:59.07,Default,,0,0,0,,The one in Longtanhu?
+Dialogue: 0,0:35:06.79,0:35:07.95,Default,,0,0,0,,Chill.
+Dialogue: 0,0:35:14.96,0:35:16.21,Default,,0,0,0,,Coach Dai!
+Dialogue: 0,0:35:31.06,0:35:32.23,Default,,0,0,0,,Dai...Coach Dai.
+Dialogue: 0,0:36:23.15,0:36:24.32,Default,,0,0,0,,Are you okay, Dai?
+Dialogue: 0,0:36:37.84,0:36:39.96,Default,,0,0,0,,Can't even hide it somewhere original.
+Dialogue: 0,0:36:39.96,0:36:41.46,Default,,0,0,0,,I came up with this.
+Dialogue: 0,0:36:41.46,0:36:42.51,Default,,0,0,0,,Alright now.
+Dialogue: 0,0:36:43.68,0:36:44.84,Default,,0,0,0,,Who has the guts to own up?
+Dialogue: 0,0:36:58.98,0:36:59.98,Default,,0,0,0,,It's mine.
+Dialogue: 0,0:37:20.71,0:37:21.92,Default,,0,0,0,,You sit too much.
+Dialogue: 0,0:37:22.67,0:37:24.55,Default,,0,0,0,,Don't you want your back to heal?
+Dialogue: 0,0:37:24.55,0:37:25.42,Default,,0,0,0,,Let's go home.
+Dialogue: 0,0:37:27.34,0:37:28.72,Default,,0,0,0,,They're so ungrateful.
+Dialogue: 0,0:37:29.18,0:37:30.35,Default,,0,0,0,,What a bunch of brats.
+Dialogue: 0,0:37:30.85,0:37:32.18,Default,,0,0,0,,You spend more time with them
+Dialogue: 0,0:37:32.18,0:37:33.56,Default,,0,0,0,,than with your own son.
+Dialogue: 0,0:37:33.93,0:37:35.73,Default,,0,0,0,,You don't know what you're talking about.
+Dialogue: 0,0:37:36.02,0:37:36.85,Default,,0,0,0,,Okay?
+Dialogue: 0,0:37:38.06,0:37:39.23,Default,,0,0,0,,Your son
+Dialogue: 0,0:37:39.23,0:37:40.86,Default,,0,0,0,,can't even talk at this age.
+Dialogue: 0,0:37:55.79,0:37:56.41,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:37:56.41,0:37:58.42,Default,,0,0,0,,The lens is all fogged up.
+Dialogue: 0,0:37:58.42,0:37:59.75,Default,,0,0,0,,This damn weather.
+Dialogue: 0,0:37:59.75,0:38:01.21,Default,,0,0,0,,Still snowing in March.
+Dialogue: 0,0:38:01.80,0:38:02.46,Default,,0,0,0,,Well, so.
+Dialogue: 0,0:38:02.80,0:38:04.05,Default,,0,0,0,,What's up with you?
+Dialogue: 0,0:38:04.71,0:38:05.92,Default,,0,0,0,,Can't smile?
+Dialogue: 0,0:38:08.09,0:38:09.22,Default,,0,0,0,,Coach Chen,
+Dialogue: 0,0:38:09.59,0:38:12.10,Default,,0,0,0,,don't we have anyone famous\Nin the figure skating team?
+Dialogue: 0,0:38:13.06,0:38:15.98,Default,,0,0,0,,This one was chosen by Coach Yao\Nfrom over a hundred candidates.
+Dialogue: 0,0:38:15.98,0:38:16.89,Default,,0,0,0,,To be paired up with Hong Bo.
+Dialogue: 0,0:38:17.23,0:38:18.48,Default,,0,0,0,,She has potential.
+Dialogue: 0,0:38:18.94,0:38:20.73,Default,,0,0,0,,Xiao Xue, tell Mr. Journalist
+Dialogue: 0,0:38:20.73,0:38:22.06,Default,,0,0,0,,what's on your mind.
+Dialogue: 0,0:38:22.07,0:38:23.78,Default,,0,0,0,,I want to be
+Dialogue: 0,0:38:23.78,0:38:25.94,Default,,0,0,0,,the first figure skating champion in China.
+Dialogue: 0,0:38:25.94,0:38:26.82,Default,,0,0,0,,Look at this kid.
+Dialogue: 0,0:38:26.82,0:38:27.90,Default,,0,0,0,,Such pride.
+Dialogue: 0,0:38:29.24,0:38:30.91,Default,,0,0,0,,Okay then, you stand close to her.
+Dialogue: 0,0:38:31.91,0:38:33.45,Default,,0,0,0,,Show us that coach-athlete bond.
+Dialogue: 0,0:38:36.16,0:38:37.29,Default,,0,0,0,,Smile.
+Dialogue: 0,0:38:42.46,0:38:44.09,Default,,0,0,0,,Without me,
+Dialogue: 0,0:38:44.09,0:38:45.67,Default,,0,0,0,,how are you going to beat the Europeans?
+Dialogue: 0,0:38:47.63,0:38:49.30,Default,,0,0,0,,Coach,
+Dialogue: 0,0:38:49.30,0:38:51.09,Default,,0,0,0,,I can't believe you're doing this to me.
+Dialogue: 0,0:38:52.18,0:38:53.68,Default,,0,0,0,,I can't either.
+Dialogue: 0,0:39:00.98,0:39:02.81,Default,,0,0,0,,Back to the Tianjin team?
+Dialogue: 0,0:39:02.81,0:39:03.44,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:39:16.95,0:39:17.66,Default,,0,0,0,,Coach Dai,
+Dialogue: 0,0:39:17.66,0:39:18.79,Default,,0,0,0,,don't you remember me?
+Dialogue: 0,0:39:19.46,0:39:21.71,Default,,0,0,0,,I'm an old friend of ping pong.
+Dialogue: 0,0:39:21.71,0:39:24.34,Default,,0,0,0,,Chief commentator at the Sports Times.
+Dialogue: 0,0:39:24.34,0:39:25.46,Default,,0,0,0,,Xia Youde.
+Dialogue: 0,0:39:36.72,0:39:37.56,Default,,0,0,0,,You!
+Dialogue: 0,0:39:43.56,0:39:45.52,Default,,0,0,0,,Is that Dai Min jia?
+Dialogue: 0,0:39:45.52,0:39:46.86,Default,,0,0,0,,Let me see.
+Dialogue: 0,0:39:46.86,0:39:48.07,Default,,0,0,0,,It is!
+Dialogue: 0,0:39:48.07,0:39:50.19,Default,,0,0,0,,TV says he is involved in some scandal.
+Dialogue: 0,0:39:50.19,0:39:51.86,Default,,0,0,0,,Lower your voice.
+Dialogue: 0,0:39:51.86,0:39:54.20,Default,,0,0,0,,I spot him a lot in the\NSports Commission Community across the street.
+Dialogue: 0,0:40:00.41,0:40:02.21,Default,,0,0,0,,Attack right after serve
+Dialogue: 0,0:40:02.87,0:40:04.42,Default,,0,0,0,,and leave yourself no way to back out.
+Dialogue: 0,0:40:05.17,0:40:06.54,Default,,0,0,0,,Only you would do something like that.
+Dialogue: 0,0:40:08.34,0:40:09.71,Default,,0,0,0,,Anyway...
+Dialogue: 0,0:40:09.71,0:40:10.55,Default,,0,0,0,,Today,
+Dialogue: 0,0:40:10.55,0:40:11.42,Default,,0,0,0,,I submitted to the bureau
+Dialogue: 0,0:40:12.34,0:40:14.43,Default,,0,0,0,,an eight-thousand-word self-criticism.
+Dialogue: 0,0:40:14.43,0:40:16.05,Default,,0,0,0,,Let's put this behind us.
+Dialogue: 0,0:40:17.85,0:40:20.35,Default,,0,0,0,,Those who put in the work\Nwill always get criticized.
+Dialogue: 0,0:40:20.85,0:40:22.35,Default,,0,0,0,,That's just how it is.
+Dialogue: 0,0:40:24.56,0:40:26.61,Default,,0,0,0,,How long has ping pong\Nbeen kept out of the headlines?
+Dialogue: 0,0:40:29.57,0:40:30.53,Default,,0,0,0,,Good.
+Dialogue: 0,0:40:34.57,0:40:36.07,Default,,0,0,0,,As long as we're in the spotlight,
+Dialogue: 0,0:40:38.53,0:40:40.54,Default,,0,0,0,,more resources will become available.
+Dialogue: 0,0:40:42.46,0:40:44.42,Default,,0,0,0,,Anyway, I'm one to talk.
+Dialogue: 0,0:40:45.58,0:40:46.88,Default,,0,0,0,,How long have you been
+Dialogue: 0,0:40:46.88,0:40:48.54,Default,,0,0,0,,applying for a new training hall?
+Dialogue: 0,0:40:49.09,0:40:50.76,Default,,0,0,0,,Didn't it get approved last week?
+Dialogue: 0,0:40:52.09,0:40:53.88,Default,,0,0,0,,If I don't achieve anything\Nin these two years,
+Dialogue: 0,0:40:53.88,0:40:54.88,Default,,0,0,0,,feel free to single me out.
+Dialogue: 0,0:40:54.88,0:40:55.55,Default,,0,0,0,,Blame everything on me
+Dialogue: 0,0:40:55.97,0:40:57.43,Default,,0,0,0,,and switch me out for anyone.
+Dialogue: 0,0:41:00.97,0:41:03.10,Default,,0,0,0,,As long as\Nthe ping pong community is revived,
+Dialogue: 0,0:41:04.23,0:41:05.98,Default,,0,0,0,,no one is too precious to sacrifice.
+Dialogue: 0,0:41:38.30,0:41:40.30,Default,,0,0,0,,Slack off during training
+Dialogue: 0,0:41:40.30,0:41:42.43,Default,,0,0,0,,and they'll eat you alive in the match.
+Dialogue: 0,0:42:02.20,0:42:03.45,Default,,0,0,0,,Keep breathing!
+Dialogue: 0,0:42:08.46,0:42:09.54,Default,,0,0,0,,50 shuttle runs next?
+Dialogue: 0,0:42:09.54,0:42:10.29,Default,,0,0,0,,Okay.
+Dialogue: 0,0:42:34.82,0:42:36.19,Default,,0,0,0,,Bai isn't giving himself any breaks.
+Dialogue: 0,0:42:36.19,0:42:38.49,Default,,0,0,0,,I bet he'll go back\Nto the national team soon.
+Dialogue: 0,0:42:45.54,0:42:46.54,Default,,0,0,0,,One!
+Dialogue: 0,0:42:48.41,0:42:49.33,Default,,0,0,0,,Two!
+Dialogue: 0,0:42:51.42,0:42:52.33,Default,,0,0,0,,One!
+Dialogue: 0,0:42:53.92,0:42:54.42,Default,,0,0,0,,Two!
+Dialogue: 0,0:43:17.24,0:43:18.44,Default,,0,0,0,,Keep it up!
+Dialogue: 0,0:43:21.57,0:43:23.87,Default,,0,0,0,,Check out how the women's team is training.
+Dialogue: 0,0:43:25.58,0:43:26.54,Default,,0,0,0,,Keep going.
+Dialogue: 0,0:43:30.41,0:43:31.29,Default,,0,0,0,,Faster!
+Dialogue: 0,0:43:34.92,0:43:36.05,Default,,0,0,0,,Stop stop!
+Dialogue: 0,0:43:37.55,0:43:38.92,Default,,0,0,0,,What's up with all the silence?
+Dialogue: 0,0:43:39.92,0:43:41.59,Default,,0,0,0,,Who's going to make some noise?
+Dialogue: 0,0:43:53.31,0:43:55.44,Default,,0,0,0,,Can't keep it up, Zhigang?
+Dialogue: 0,0:43:55.44,0:43:57.11,Default,,0,0,0,,Want the girls' team to spoon-feed you?
+Dialogue: 0,0:43:57.11,0:43:57.73,Default,,0,0,0,,Huaming.
+Dialogue: 0,0:43:57.73,0:43:58.57,Default,,0,0,0,,Feed me, feed me!
+Dialogue: 0,0:43:58.57,0:44:00.32,Default,,0,0,0,,Ming, Ming! Feed me!
+Dialogue: 0,0:44:02.45,0:44:03.32,Default,,0,0,0,,We have training later.
+Dialogue: 0,0:44:13.79,0:44:14.67,Default,,0,0,0,,Can't lift your legs?
+Dialogue: 0,0:44:14.67,0:44:15.42,Default,,0,0,0,,Should I give you a ride?
+Dialogue: 0,0:44:36.98,0:44:38.98,Default,,0,0,0,,Tiny racket vs. huge wok!
+Dialogue: 0,0:44:40.61,0:44:41.82,Default,,0,0,0,,What a cartwheel flip!
+Dialogue: 0,0:44:41.82,0:44:43.28,Default,,0,0,0,,Worthy of the national team!
+Dialogue: 0,0:44:44.20,0:44:46.87,Default,,0,0,0,,On behalf of our players,
+Dialogue: 0,0:44:46.87,0:44:48.45,Default,,0,0,0,,a toast to the sponsors.
+Dialogue: 0,0:44:49.49,0:44:50.79,Default,,0,0,0,,May your pockets be full.
+Dialogue: 0,0:44:50.79,0:44:52.04,Default,,0,0,0,,I'll empty my cup.
+Dialogue: 0,0:44:52.04,0:44:52.54,Default,,0,0,0,,Come.
+Dialogue: 0,0:44:52.54,0:44:53.54,Default,,0,0,0,,Great.
+Dialogue: 0,0:44:54.79,0:44:55.54,Default,,0,0,0,,Cheers!
+Dialogue: 0,0:44:59.55,0:45:00.96,Default,,0,0,0,,Cartwheel?
+Dialogue: 0,0:45:01.55,0:45:02.67,Default,,0,0,0,,Are you trained monkeys?
+Dialogue: 0,0:45:03.80,0:45:04.67,Default,,0,0,0,,Who was it?
+Dialogue: 0,0:45:05.47,0:45:06.97,Default,,0,0,0,,Do it again in front of me!
+Dialogue: 0,0:45:10.56,0:45:11.47,Default,,0,0,0,,Dai!
+Dialogue: 0,0:45:15.06,0:45:16.69,Default,,0,0,0,,The equipment is here, Mi.
+Dialogue: 0,0:45:16.69,0:45:17.85,Default,,0,0,0,,Come, here.
+Dialogue: 0,0:45:19.32,0:45:20.19,Default,,0,0,0,,20 thousand dollar just for this?
+Dialogue: 0,0:45:20.19,0:45:21.32,Default,,0,0,0,,You have no idea about it.
+Dialogue: 0,0:45:21.32,0:45:22.86,Default,,0,0,0,,The most advanced training analytics system.
+Dialogue: 0,0:45:22.86,0:45:23.82,Default,,0,0,0,,This is widely used abroad!
+Dialogue: 0,0:45:23.82,0:45:24.86,Default,,0,0,0,,Is it working?
+Dialogue: 0,0:45:24.86,0:45:25.82,Default,,0,0,0,,It's up!
+Dialogue: 0,0:45:26.49,0:45:27.99,Default,,0,0,0,,He's stepped too far back\Nfrom the table, see?
+Dialogue: 0,0:45:27.99,0:45:29.57,Default,,0,0,0,,Roll back, roll it back.
+Dialogue: 0,0:45:29.58,0:45:31.08,Default,,0,0,0,,If he can't help it,
+Dialogue: 0,0:45:31.08,0:45:32.41,Default,,0,0,0,,put a barrier behind him next time.
+Dialogue: 0,0:45:32.41,0:45:34.04,Default,,0,0,0,,Coach.
+Dialogue: 0,0:45:38.54,0:45:39.83,Default,,0,0,0,,You called for me, coach?
+Dialogue: 0,0:45:39.84,0:45:40.92,Default,,0,0,0,,Wen.
+Dialogue: 0,0:45:40.92,0:45:42.05,Default,,0,0,0,,You're good at looping.
+Dialogue: 0,0:45:42.05,0:45:43.84,Default,,0,0,0,,From tomorrow on,\Nyou'll play loops against Gong Feng.
+Dialogue: 0,0:45:44.05,0:45:45.05,Default,,0,0,0,,Adjust your style
+Dialogue: 0,0:45:45.05,0:45:46.05,Default,,0,0,0,,exactly into Karlsson's style.
+Dialogue: 0,0:45:54.06,0:45:55.56,Default,,0,0,0,,Gong Feng, all you do is chop!
+Dialogue: 0,0:45:55.56,0:45:56.69,Default,,0,0,0,,Once you manage to chop and attack,\Nyou'll be top dog.
+Dialogue: 0,0:45:56.69,0:45:57.85,Default,,0,0,0,,Once you manage to chop and attack,\Nyou'll be top dog.
+Dialogue: 0,0:45:57.85,0:45:58.69,Default,,0,0,0,,Attack!
+Dialogue: 0,0:46:00.06,0:46:01.36,Default,,0,0,0,,Loops have strong topspin.
+Dialogue: 0,0:46:01.36,0:46:02.94,Default,,0,0,0,,So, use the forehand past attack.
+Dialogue: 0,0:46:02.94,0:46:04.07,Default,,0,0,0,,Fight fire with fire!
+Dialogue: 0,0:46:04.07,0:46:04.86,Default,,0,0,0,,Don't step back!
+Dialogue: 0,0:46:04.86,0:46:05.94,Default,,0,0,0,,Stay glued to that table!
+Dialogue: 0,0:46:06.45,0:46:06.95,Default,,0,0,0,,Dong Shuai,
+Dialogue: 0,0:46:06.95,0:46:08.20,Default,,0,0,0,,your pacing is exquisite!
+Dialogue: 0,0:46:08.20,0:46:09.95,Default,,0,0,0,,You can take on any European player.
+Dialogue: 0,0:46:09.95,0:46:11.70,Default,,0,0,0,,Swing speed, Dong Shuai!
+Dialogue: 0,0:46:12.20,0:46:14.58,Default,,0,0,0,,The biggest weakness\Nof pen hold grip is backhand,
+Dialogue: 0,0:46:14.58,0:46:16.71,Default,,0,0,0,,So you should be aggressive\Nwith your pen hold backhand hit.
+Dialogue: 0,0:46:18.29,0:46:19.08,Default,,0,0,0,,Sal
+Dialogue: 0,0:46:19.42,0:46:20.04,Default,,0,0,0,,Sal
+Dialogue: 0,0:46:20.92,0:46:21.92,Default,,0,0,0,,Sal
+Dialogue: 0,0:46:28.22,0:46:30.59,Default,,0,0,0,,This is the first test\Nfor the coaching crew.
+Dialogue: 0,0:46:31.72,0:46:32.60,Default,,0,0,0,,The most important match
+Dialogue: 0,0:46:32.60,0:46:33.72,Default,,0,0,0,,before the world table tennis\Nchampionships.
+Dialogue: 0,0:46:34.22,0:46:34.81,Default,,0,0,0,,One option
+Dialogue: 0,0:46:34.81,0:46:36.43,Default,,0,0,0,,is the French Open.
+Dialogue: 0,0:46:37.31,0:46:39.31,Default,,0,0,0,,The Swedish team will be competing.
+Dialogue: 0,0:46:39.94,0:46:42.44,Default,,0,0,0,,Waldner, Persson, Karlsson, all in.
+Dialogue: 0,0:46:43.82,0:46:44.73,Default,,0,0,0,,The other
+Dialogue: 0,0:46:44.73,0:46:46.57,Default,,0,0,0,,is the Korea Open.
+Dialogue: 0,0:46:47.24,0:46:48.32,Default,,0,0,0,,We'll go to Korea.
+Dialogue: 0,0:46:52.07,0:46:53.83,Default,,0,0,0,,Afraid of the Swedes?
+Dialogue: 0,0:46:55.58,0:46:56.45,Default,,0,0,0,,I just want to win.
+Dialogue: 0,0:47:06.63,0:47:08.92,Default,,0,0,0,,(Holiday Notice)
+Dialogue: 0,0:47:10.18,0:47:11.30,Default,,0,0,0,,What?
+Dialogue: 0,0:47:15.18,0:47:16.10,Default,,0,0,0,,Mrs. Dai.
+Dialogue: 0,0:47:19.31,0:47:20.81,Default,,0,0,0,,At 3:40 this afternoon,
+Dialogue: 0,0:47:20.81,0:47:22.10,Default,,0,0,0,,they will set off for Korea.
+Dialogue: 0,0:47:23.48,0:47:24.82,Default,,0,0,0,,I searched through the apartment
+Dialogue: 0,0:47:25.48,0:47:27.19,Default,,0,0,0,,and found this treasure\Nin your coach's belongings.
+Dialogue: 0,0:47:29.11,0:47:30.82,Default,,0,0,0,,You should be able to use it.
+Dialogue: 0,0:47:43.04,0:47:43.79,Default,,0,0,0,,Sir.
+Dialogue: 0,0:47:43.79,0:47:45.17,Default,,0,0,0,,Driver sir.
+Dialogue: 0,0:47:45.17,0:47:46.84,Default,,0,0,0,,Will you open the door please?
+Dialogue: 0,0:47:50.55,0:47:53.55,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:47:55.97,0:47:56.81,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:48:15.07,0:48:16.70,Default,,0,0,0,,Hurry, hurry up!
+Dialogue: 0,0:48:25.54,0:48:26.71,Default,,0,0,0,,Bai Minhe!
+Dialogue: 0,0:48:29.05,0:48:31.21,Default,,0,0,0,,I've seen you on TV!
+Dialogue: 0,0:48:31.92,0:48:33.72,Default,,0,0,0,,Going back to the Bureau?
+Dialogue: 0,0:48:39.85,0:48:40.68,Default,,0,0,0,,Take it.
+Dialogue: 0,0:48:41.93,0:48:42.94,Default,,0,0,0,,Take it.
+Dialogue: 0,0:48:48.44,0:48:49.57,Default,,0,0,0,,How should I return it?
+Dialogue: 0,0:48:50.57,0:48:51.94,Default,,0,0,0,,Across the street from the training center,\NRitan hotel.
+Dialogue: 0,0:48:51.94,0:48:52.69,Default,,0,0,0,,Li Fan.
+Dialogue: 0,0:48:54.45,0:48:55.24,Default,,0,0,0,,Okay.
+Dialogue: 0,0:48:57.07,0:48:58.08,Default,,0,0,0,,Break a leg!
+Dialogue: 0,0:48:58.58,0:49:00.04,Default,,0,0,0,,Knock 'em dead!
+Dialogue: 0,0:49:08.59,0:49:09.71,Default,,0,0,0,,Occupied.
+Dialogue: 0,0:49:11.05,0:49:12.30,Default,,0,0,0,,What, what?
+Dialogue: 0,0:49:14.22,0:49:15.43,Default,,0,0,0,,Oh, coach.
+Dialogue: 0,0:49:16.80,0:49:17.80,Default,,0,0,0,,Time to go, sir.
+Dialogue: 0,0:49:27.06,0:49:27.94,Default,,0,0,0,,Bai!
+Dialogue: 0,0:49:28.31,0:49:29.73,Default,,0,0,0,,My self-criticism.
+Dialogue: 0,0:49:30.73,0:49:31.94,Default,,0,0,0,,I was wrong.
+Dialogue: 0,0:49:32.94,0:49:35.11,Default,,0,0,0,,My heart, is burning.
+Dialogue: 0,0:49:35.82,0:49:37.95,Default,,0,0,0,,My blood, is boiling.
+Dialogue: 0,0:49:37.95,0:49:38.57,Default,,0,0,0,,Can't hear you!
+Dialogue: 0,0:49:38.57,0:49:39.74,Default,,0,0,0,,Louder!
+Dialogue: 0,0:49:39.74,0:49:42.16,Default,,0,0,0,,My head, is tumbling.
+Dialogue: 0,0:49:42.95,0:49:44.79,Default,,0,0,0,,I'm ashamed
+Dialogue: 0,0:49:44.79,0:49:46.08,Default,,0,0,0,,by my own doing.
+Dialogue: 0,0:49:46.08,0:49:48.29,Default,,0,0,0,,Great!
+Dialogue: 0,0:49:48.29,0:49:49.96,Default,,0,0,0,,I know it's already too late,
+Dialogue: 0,0:49:49.96,0:49:51.67,Default,,0,0,0,,but I still hope the team
+Dialogue: 0,0:49:52.67,0:49:53.67,Default,,0,0,0,,will give me
+Dialogue: 0,0:49:53.67,0:49:55.67,Default,,0,0,0,,just one more chance.
+Dialogue: 0,0:49:56.30,0:49:57.30,Default,,0,0,0,,I——
+Dialogue: 0,0:49:57.97,0:49:59.30,Default,,0,0,0,,I will--
+Dialogue: 0,0:50:05.31,0:50:06.69,Default,,0,0,0,,No cheat sheets!
+Dialogue: 0,0:50:09.31,0:50:10.19,Default,,0,0,0,,I will never
+Dialogue: 0,0:50:10.94,0:50:13.98,Default,,0,0,0,,make such a stupid mistake again!
+Dialogue: 0,0:50:14.61,0:50:15.99,Default,,0,0,0,,Sincerely,
+Dialogue: 0,0:50:15.99,0:50:17.32,Default,,0,0,0,,Bai Minhe.
+Dialogue: 0,0:50:17.32,0:50:19.32,Default,,0,0,0,,Yes!
+Dialogue: 0,0:50:20.62,0:50:22.33,Default,,0,0,0,,What the heck was that?
+Dialogue: 0,0:50:22.99,0:50:25.04,Default,,0,0,0,,Why did that sound familiar?
+Dialogue: 0,0:50:32.55,0:50:34.17,Default,,0,0,0,,Not letting Gong Feng along
+Dialogue: 0,0:50:34.55,0:50:36.17,Default,,0,0,0,,is weighing on him, I guess?
+Dialogue: 0,0:50:37.05,0:50:38.84,Default,,0,0,0,,He only has eyes for Gothenburg.
+Dialogue: 0,0:50:38.84,0:50:40.55,Default,,0,0,0,,Nothing else.
+Dialogue: 0,0:50:42.97,0:50:47.47,Default,,0,0,0,,GO KO-RE-A!
+Dialogue: 0,0:50:47.69,0:50:51.65,Default,,0,0,0,,(South Korean Invitational, 12 months away\Nfrom Gothenburg Championship Match)
+Dialogue: 0,0:50:52.06,0:50:55.07,Default,,0,0,0,,GO KO-RE-A!
+Dialogue: 0,0:50:58.86,0:51:00.86,Default,,0,0,0,,This team's first overseas appearance.
+Dialogue: 0,0:51:00.86,0:51:03.99,Default,,0,0,0,,The first up is surprisingly, Huang Zhao.
+Dialogue: 0,0:51:04.58,0:51:09.08,Default,,0,0,0,,A player who's never had any\Nremarkable performance in single matches.
+Dialogue: 0,0:51:10.42,0:51:12.92,Default,,0,0,0,,He's facing the renowned "Scud",
+Dialogue: 0,0:51:12.92,0:51:16.71,Default,,0,0,0,,the Korean God of War, Yoo Namkyu!
+Dialogue: 0,0:51:17.42,0:51:18.34,Default,,0,0,0,,Don't step back!
+Dialogue: 0,0:51:18.84,0:51:20.05,Default,,0,0,0,,Zhao, don't step back!
+Dialogue: 0,0:51:26.06,0:51:27.22,Default,,0,0,0,,Nice shot!
+Dialogue: 0,0:51:27.22,0:51:30.85,Default,,0,0,0,,When the God of War started to perform\Nhis full-court sprinting stunt,
+Dialogue: 0,0:51:30.85,0:51:33.86,Default,,0,0,0,,his glory was like the shining sun.
+Dialogue: 0,0:51:33.86,0:51:38.36,Default,,0,0,0,,The first men's singles gold medal winner\Nin the '88 Olympic Games in Seoul.
+Dialogue: 0,0:51:39.86,0:51:43.07,Default,,0,0,0,,The great Yoo Namkyu from Busan.
+Dialogue: 0,0:51:44.24,0:51:48.08,Default,,0,0,0,,The Chinese team entered\Nthe semi-finals thanks to good luck.
+Dialogue: 0,0:51:48.08,0:51:49.70,Default,,0,0,0,,But sorry! This is Busan.
+Dialogue: 0,0:51:50.58,0:51:54.92,Default,,0,0,0,,The Koreans are the real masters of Asia.
+Dialogue: 0,0:51:55.71,0:51:56.42,Default,,0,0,0,,Right!
+Dialogue: 0,0:51:56.42,0:51:58.92,Default,,0,0,0,,GO KO-RE-A!
+Dialogue: 0,0:51:59.42,0:52:03.92,Default,,0,0,0,,Next up is the 20 year old young genius,\NLee Chulsung.
+Dialogue: 0,0:52:16.94,0:52:18.07,Default,,0,0,0,,Nice!
+Dialogue: 0,0:52:27.83,0:52:28.95,Default,,0,0,0,,Give me his profile.
+Dialogue: 0,0:52:30.79,0:52:31.96,Default,,0,0,0,,Dong Shuai?
+Dialogue: 0,0:52:32.67,0:52:34.29,Default,,0,0,0,,Have you heard of this name?
+Dialogue: 0,0:52:48.10,0:52:49.18,Default,,0,0,0,,Loop drive?
+Dialogue: 0,0:52:51.18,0:52:53.48,Default,,0,0,0,,He's hitting the white line\Nwith every single stroke!
+Dialogue: 0,0:52:56.19,0:52:57.98,Default,,0,0,0,,European technique!
+Dialogue: 0,0:52:57.98,0:52:59.61,Default,,0,0,0,,Only 16!
+Dialogue: 0,0:53:06.82,0:53:08.49,Default,,0,0,0,,Why was the return of serve so weak?
+Dialogue: 0,0:53:08.49,0:53:09.62,Default,,0,0,0,,Dong Shuai!
+Dialogue: 0,0:53:09.62,0:53:10.95,Default,,0,0,0,,Sign my racket!
+Dialogue: 0,0:53:10.95,0:53:11.95,Default,,0,0,0,,Please, no.
+Dialogue: 0,0:53:11.95,0:53:13.46,Default,,0,0,0,,Please leave the court!
+Dialogue: 0,0:53:13.46,0:53:14.96,Default,,0,0,0,,Please sign my racket!
+Dialogue: 0,0:53:15.96,0:53:17.96,Default,,0,0,0,,Please sign it!
+Dialogue: 0,0:53:20.46,0:53:23.55,Default,,0,0,0,,Korea! Victory!
+Dialogue: 0,0:53:23.55,0:53:26.97,Default,,0,0,0,,The world's greatest pen hold player,\NKim Taeksoo.
+Dialogue: 0,0:53:26.97,0:53:31.47,Default,,0,0,0,,The only worthwhile opponent against\Nthe European shake hand loop technique.
+Dialogue: 0,0:53:43.07,0:53:46.86,Default,,0,0,0,,Gap at the backhand! Good hit!
+Dialogue: 0,0:53:47.99,0:53:49.99,Default,,0,0,0,,Although Bai Minhe is a worthy opponent,
+Dialogue: 0,0:53:49.99,0:53:54.33,Default,,0,0,0,,his right shoulder injury\Ncompromises his stamina.
+Dialogue: 0,0:54:07.43,0:54:09.34,Default,,0,0,0,,(English) Please go back to the court.
+Dialogue: 0,0:54:10.05,0:54:11.43,Default,,0,0,0,,(English) Sorry.
+Dialogue: 0,0:54:12.43,0:54:13.43,Default,,0,0,0,,(English) Sorry.
+Dialogue: 0,0:54:13.93,0:54:15.22,Default,,0,0,0,,(English) He did it, too.
+Dialogue: 0,0:54:17.06,0:54:17.94,Default,,0,0,0,,(English) Please.
+Dialogue: 0,0:54:17.94,0:54:19.56,Default,,0,0,0,,(English) Please get back to the seat.
+Dialogue: 0,0:54:19.94,0:54:21.44,Default,,0,0,0,,(English) Please get back to the seat.
+Dialogue: 0,0:54:32.20,0:54:33.54,Default,,0,0,0,,What a rare scene.
+Dialogue: 0,0:54:33.54,0:54:37.79,Default,,0,0,0,,The Chinese coaching team is infamous\Nfor collective wisdom and psychological tactics.
+Dialogue: 0,0:54:37.79,0:54:39.92,Default,,0,0,0,,But to win a match takes actual skills.
+Dialogue: 0,0:55:08.95,0:55:11.74,Default,,0,0,0,,That Chinese luck!\NIt's like they're winning the lottery.
+Dialogue: 0,0:55:11.95,0:55:13.45,Default,,0,0,0,,Beautiful!
+Dialogue: 0,0:55:13.45,0:55:16.45,Default,,0,0,0,,In the finals, they will face Saive,\Nthe King of Europe,
+Dialogue: 0,0:55:16.45,0:55:18.08,Default,,0,0,0,,and his Belgian team.
+Dialogue: 0,0:55:18.08,0:55:19.66,Default,,0,0,0,,See you after the commercials.
+Dialogue: 0,0:55:20.96,0:55:22.17,Default,,0,0,0,,(English) The game's about to begin.
+Dialogue: 0,0:55:22.17,0:55:24.67,Default,,0,0,0,,(English) We must turn in\Nyour list of players now!
+Dialogue: 0,0:55:25.59,0:55:27.46,Default,,0,0,0,,Saive has got to be number one,\Nplaying the second and fourth rounds.
+Dialogue: 0,0:55:27.46,0:55:28.59,Default,,0,0,0,,Then Huang Zhao goes second.
+Dialogue: 0,0:55:28.59,0:55:29.97,Default,,0,0,0,,Huang Zhao second?\NThat would be serving it to Saive on a silver platter.
+Dialogue: 0,0:55:29.97,0:55:31.59,Default,,0,0,0,,Bai will have to play first.
+Dialogue: 0,0:55:31.59,0:55:33.60,Default,,0,0,0,,To beat Podpinka in the first round,\Nthen face off with Saive in the fourth.
+Dialogue: 0,0:55:33.60,0:55:34.60,Default,,0,0,0,,But if he doesn't manage,
+Dialogue: 0,0:55:34.60,0:55:36.60,Default,,0,0,0,,Huang Zhao will have to challenge\NPodpinka in the fifth round.
+Dialogue: 0,0:55:36.60,0:55:38.31,Default,,0,0,0,,At least we have a chance there.
+Dialogue: 0,0:55:38.31,0:55:40.48,Default,,0,0,0,,As long as we win 3 of the 5 sets.
+Dialogue: 0,0:55:43.69,0:55:45.48,Default,,0,0,0,,Can you beat Podpinka?
+Dialogue: 0,0:55:45.48,0:55:46.32,Default,,0,0,0,,I'll annihilate him.
+Dialogue: 0,0:55:47.11,0:55:48.32,Default,,0,0,0,,See, Huang Zhao?
+Dialogue: 0,0:55:48.32,0:55:49.19,Default,,0,0,0,,He's the one under pressure.
+Dialogue: 0,0:55:49.82,0:55:50.61,Default,,0,0,0,,You're number one.
+Dialogue: 0,0:55:53.32,0:55:55.12,Default,,0,0,0,,(English) The match is about to start!
+Dialogue: 0,0:55:55.12,0:55:57.16,Default,,0,0,0,,(English) Everybody is waiting for you!
+Dialogue: 0,0:55:57.16,0:55:58.54,Default,,0,0,0,,What about round three?
+Dialogue: 0,0:55:58.54,0:56:00.33,Default,,0,0,0,,In case we go one-one\Nin the first two rounds,
+Dialogue: 0,0:56:00.33,0:56:01.54,Default,,0,0,0,,we'll have to win the third round.
+Dialogue: 0,0:56:03.54,0:56:06.55,Default,,0,0,0,,(English) If you guys don't turn in your list now,\Nyou'll abstain from the game!
+Dialogue: 0,0:56:06.55,0:56:07.34,Default,,0,0,0,,(English) Come on!
+Dialogue: 0,0:56:08.55,0:56:11.05,Default,,0,0,0,,(English) China, player one,
+Dialogue: 0,0:56:11.05,0:56:12.68,Default,,0,0,0,,(English) Huang Zhao.
+Dialogue: 0,0:56:13.34,0:56:14.68,Default,,0,0,0,,(English) Player two,
+Dialogue: 0,0:56:14.68,0:56:17.31,Default,,0,0,0,,(English) Bai Minhe.
+Dialogue: 0,0:56:17.31,0:56:19.47,Default,,0,0,0,,(English) Player three,
+Dialogue: 0,0:56:19.47,0:56:21.31,Default,,0,0,0,,(English) Hou Zhuoxiang.
+Dialogue: 0,0:56:21.31,0:56:22.69,Default,,0,0,0,,Hand me his profile now!
+Dialogue: 0,0:56:23.56,0:56:26.06,Default,,0,0,0,,Another 16-year-old!
+Dialogue: 0,0:56:26.06,0:56:27.19,Default,,0,0,0,,My God!
+Dialogue: 0,0:56:27.19,0:56:29.36,Default,,0,0,0,,Another fresh-faced young player.
+Dialogue: 0,0:56:34.36,0:56:37.08,Default,,0,0,0,,Huang Zhao facing\NEuropean top player Podpinka,
+Dialogue: 0,0:56:37.08,0:56:39.83,Default,,0,0,0,,trained under his\NChinese coach Wang Dayong,
+Dialogue: 0,0:56:39.83,0:56:43.71,Default,,0,0,0,,Podpinka's technique\Nis both refined and aggressive.
+Dialogue: 0,0:56:47.92,0:56:49.92,Default,,0,0,0,,There's that European offensive style!
+Dialogue: 0,0:56:49.92,0:56:54.34,Default,,0,0,0,,Huang Zhao is about to\Nlose his will to defend.
+Dialogue: 0,0:56:54.68,0:56:57.43,Default,,0,0,0,,The Chinese team's risky tactics\Nhave come back to bite them.
+Dialogue: 0,0:56:59.43,0:57:01.72,Default,,0,0,0,,Third round,
+Dialogue: 0,0:57:01.73,0:57:05.23,Default,,0,0,0,,Podpinka is in\Nabsolute control of the game.
+Dialogue: 0,0:57:06.23,0:57:08.56,Default,,0,0,0,,Huang Zhao is barely holding up.
+Dialogue: 0,0:57:11.57,0:57:14.20,Default,,0,0,0,,Surprisingly,\Nthe Chinese coaches don't look worried.
+Dialogue: 0,0:57:18.08,0:57:18.95,Default,,0,0,0,,Podpinka's service.
+Dialogue: 0,0:57:18.95,0:57:19.95,Default,,0,0,0,,Forehand push.
+Dialogue: 0,0:57:19.95,0:57:21.41,Default,,0,0,0,,Returns with backhand.
+Dialogue: 0,0:57:21.41,0:57:22.41,Default,,0,0,0,,Straight stroke.
+Dialogue: 0,0:57:22.41,0:57:23.91,Default,,0,0,0,,Huang Zhao, forehand stroke.
+Dialogue: 0,0:57:23.91,0:57:25.29,Default,,0,0,0,,Strikes again. Again! Again!
+Dialogue: 0,0:57:25.29,0:57:26.21,Default,,0,0,0,,Strikes again. Again! Again!
+Dialogue: 0,0:57:26.92,0:57:29.79,Default,,0,0,0,,And Podpinka's lost it.
+Dialogue: 0,0:57:29.80,0:57:33.09,Default,,0,0,0,,Huang Zhao is winnng back,\Nand got the set point.
+Dialogue: 0,0:57:33.09,0:57:34.59,Default,,0,0,0,,Can he overcome himself this time?
+Dialogue: 0,0:57:40.31,0:57:41.60,Default,,0,0,0,,Sal
+Dialogue: 0,0:57:48.94,0:57:52.32,Default,,0,0,0,,Second round, Bai Minhe vs. Saive.
+Dialogue: 0,0:58:01.95,0:58:03.79,Default,,0,0,0,,Saive is a real beast.
+Dialogue: 0,0:58:03.79,0:58:06.29,Default,,0,0,0,,The Chinese can never\Ndefend themselves against European power.
+Dialogue: 0,0:58:06.67,0:58:08.58,Default,,0,0,0,,Saive is invincible!
+Dialogue: 0,0:58:09.67,0:58:10.29,Default,,0,0,0,,It wasn't me!
+Dialogue: 0,0:58:10.29,0:58:10.92,Default,,0,0,0,,It's the racket!
+Dialogue: 0,0:58:10.92,0:58:11.96,Default,,0,0,0,,The racket's soft!
+Dialogue: 0,0:58:13.30,0:58:14.09,Default,,0,0,0,,(Glue)
+Dialogue: 0,0:58:14.09,0:58:17.47,Default,,0,0,0,,The pressure now comes to\NHou for the third set.
+Dialogue: 0,0:58:17.47,0:58:19.68,Default,,0,0,0,,Can he, a 16-year-old, handle it?
+Dialogue: 0,0:58:23.31,0:58:24.81,Default,,0,0,0,,Did you see that movement?
+Dialogue: 0,0:58:24.81,0:58:26.68,Default,,0,0,0,,Foul!
+Dialogue: 0,0:58:26.69,0:58:28.10,Default,,0,0,0,,(English) Violation!
+Dialogue: 0,0:58:28.60,0:58:29.98,Default,,0,0,0,,(English) What do you think?
+Dialogue: 0,0:58:29.98,0:58:31.11,Default,,0,0,0,,(English) Good stroke.
+Dialogue: 0,0:58:31.11,0:58:32.32,Default,,0,0,0,,(English) Score counts.
+Dialogue: 0,0:58:32.61,0:58:33.61,Default,,0,0,0,,(English) Okay.
+Dialogue: 0,0:58:34.48,0:58:35.61,Default,,0,0,0,,(English) Let's see the playback.\N(French Open, Residence Hotel)
+Dialogue: 0,0:58:35.94,0:58:40.44,Default,,0,0,0,,(English) Hou repeatedly imitated shake hand grip\Nwith his pen hold grip to do backhand strikes.
+Dialogue: 0,0:58:41.12,0:58:43.95,Default,,0,0,0,,(English) This is clearly the Chinese coaching team's\Nnew invention!
+Dialogue: 0,0:58:43.95,0:58:45.66,Default,,0,0,0,,What technique was that?
+Dialogue: 0,0:58:47.46,0:58:50.96,Default,,0,0,0,,Everything goes exactly\Nlike the Chinese team predicted.
+Dialogue: 0,0:58:50.96,0:58:55.46,Default,,0,0,0,,The fifth set, Bai Minhe faces Podpinka,\Nto whom he's never lost.
+Dialogue: 0,0:59:08.06,0:59:09.69,Default,,0,0,0,,Although they got a taste\Nof a long-lost victory,
+Dialogue: 0,0:59:09.69,0:59:13.36,Default,,0,0,0,,the Chinese team is just good\Nat collective teamwork.
+Dialogue: 0,0:59:13.36,0:59:17.86,Default,,0,0,0,,The strength of the Chinese players\Nis not remarkable.
+Dialogue: 0,0:59:18.57,0:59:22.20,Default,,0,0,0,,The two young players\Nin their first appearance are anomalies.
+Dialogue: 0,0:59:22.20,0:59:26.70,Default,,0,0,0,,Under their unique system,\Nhow many young talents like them are there?
+Dialogue: 0,0:59:28.83,0:59:31.33,Default,,0,0,0,,We won!
+Dialogue: 0,0:59:31.33,0:59:33.84,Default,,0,0,0,,The men's ping pong team got lucky.
+Dialogue: 0,0:59:33.84,0:59:34.92,Default,,0,0,0,,Didn't face the Swedish team this time.
+Dialogue: 0,0:59:34.92,0:59:36.34,Default,,0,0,0,,They can't defeat the Swedes.
+Dialogue: 0,0:59:44.55,0:59:45.68,Default,,0,0,0,,Top class sport clubs in Europe.\N(South Korean Invitational, Residence Hotel)
+Dialogue: 0,0:59:45.68,0:59:46.93,Default,,0,0,0,,Royal Charleroi Club.\N(South Korean Invitational, Residence Hotel)
+Dialogue: 0,0:59:46.93,0:59:47.56,Default,,0,0,0,,Take a look!
+Dialogue: 0,0:59:47.56,0:59:48.72,Default,,0,0,0,,Go away!
+Dialogue: 0,0:59:49.85,0:59:51.06,Default,,0,0,0,,Take my card.
+Dialogue: 0,0:59:51.06,0:59:52.56,Default,,0,0,0,,No, thanks.
+Dialogue: 0,0:59:52.56,0:59:54.44,Default,,0,0,0,,Okay, okay!
+Dialogue: 0,0:59:54.44,0:59:56.07,Default,,0,0,0,,Good. Talk to me.
+Dialogue: 0,0:59:58.86,0:59:59.86,Default,,0,0,0,,There's my number.
+Dialogue: 0,0:59:59.86,1:00:00.36,Default,,0,0,0,,Here.
+Dialogue: 0,1:00:00.36,1:00:01.20,Default,,0,0,0,,Truly,
+Dialogue: 0,1:00:01.20,1:00:02.36,Default,,0,0,0,,with your talents,
+Dialogue: 0,1:00:03.07,1:00:05.08,Default,,0,0,0,,you'd have your pick
+Dialogue: 0,1:00:05.08,1:00:06.24,Default,,0,0,0,,of European clubs.
+Dialogue: 0,1:00:06.24,1:00:08.20,Default,,0,0,0,,The salary will be 50 times\Nwhat you make now.
+Dialogue: 0,1:00:08.20,1:00:09.08,Default,,0,0,0,,How much?
+Dialogue: 0,1:00:09.79,1:00:10.79,Default,,0,0,0,,50 times.
+Dialogue: 0,1:00:11.41,1:00:12.71,Default,,0,0,0,,I have connections in every club,
+Dialogue: 0,1:00:12.71,1:00:13.42,Default,,0,0,0,,don't worry,
+Dialogue: 0,1:00:13.42,1:00:15.29,Default,,0,0,0,,I'll make sure you make a fortune.
+Dialogue: 0,1:00:16.71,1:00:17.92,Default,,0,0,0,,Consider it.
+Dialogue: 0,1:00:21.30,1:00:22.93,Default,,0,0,0,,Not bad, Coach Dai.
+Dialogue: 0,1:00:23.59,1:00:24.72,Default,,0,0,0,,I'm surprised.
+Dialogue: 0,1:00:35.31,1:00:36.73,Default,,0,0,0,,One question, Coach Dai.
+Dialogue: 0,1:00:39.11,1:00:40.57,Default,,0,0,0,,Over the years in Italy
+Dialogue: 0,1:00:41.07,1:00:41.82,Default,,0,0,0,,you made plenty of dough.
+Dialogue: 0,1:00:42.45,1:00:43.82,Default,,0,0,0,,Does your conscience allow you\Nto keep your players
+Dialogue: 0,1:00:43.82,1:00:45.32,Default,,0,0,0,,impoverished?
+Dialogue: 0,1:00:50.79,1:00:51.95,Default,,0,0,0,,What's your offer?
+Dialogue: 0,1:00:57.29,1:00:58.30,Default,,0,0,0,,Come, come.
+Dialogue: 0,1:00:58.96,1:01:00.17,Default,,0,0,0,,Who wants to pick first?
+Dialogue: 0,1:01:03.30,1:01:04.30,Default,,0,0,0,,I've done showering.
+Dialogue: 0,1:01:08.31,1:01:10.10,Default,,0,0,0,,To let current national team players
+Dialogue: 0,1:01:10.10,1:01:11.43,Default,,0,0,0,,go play in European leagues,
+Dialogue: 0,1:01:11.43,1:01:13.31,Default,,0,0,0,,who would dare to approve that?
+Dialogue: 0,1:01:13.31,1:01:14.31,Default,,0,0,0,,What would the leadership think?
+Dialogue: 0,1:01:14.81,1:01:16.10,Default,,0,0,0,,What would our colleagues think?
+Dialogue: 0,1:01:16.69,1:01:18.11,Default,,0,0,0,,What about the public?
+Dialogue: 0,1:01:18.69,1:01:19.94,Default,,0,0,0,,Here, noodles.
+Dialogue: 0,1:01:20.82,1:01:21.61,Default,,0,0,0,,Dai.
+Dialogue: 0,1:01:21.61,1:01:23.11,Default,,0,0,0,,You must be nuts.
+Dialogue: 0,1:01:23.11,1:01:24.95,Default,,0,0,0,,My legs hurt having to sit like this.
+Dialogue: 0,1:01:24.95,1:01:27.11,Default,,0,0,0,,At least we have the noodles.
+Dialogue: 0,1:01:27.12,1:01:28.20,Default,,0,0,0,,That's the last pack of pickles.
+Dialogue: 0,1:01:28.20,1:01:28.95,Default,,0,0,0,,Give me some.
+Dialogue: 0,1:01:28.95,1:01:30.12,Default,,0,0,0,,Don't eat them all yourself.
+Dialogue: 0,1:01:30.54,1:01:31.95,Default,,0,0,0,,Who's Saive's coach?
+Dialogue: 0,1:01:34.46,1:01:35.29,Default,,0,0,0,,Wang Dayong.
+Dialogue: 0,1:01:35.67,1:01:36.83,Default,,0,0,0,,What about Rosskopf?
+Dialogue: 0,1:01:37.29,1:01:38.54,Default,,0,0,0,,Li Xianjue.
+Dialogue: 0,1:01:38.54,1:01:39.17,Default,,0,0,0,,Waldy,
+Dialogue: 0,1:01:39.17,1:01:39.67,Default,,0,0,0,,Linde.
+Dialogue: 0,1:01:39.67,1:01:40.96,Default,,0,0,0,,All learned from us.
+Dialogue: 0,1:01:41.46,1:01:42.84,Default,,0,0,0,,Why shouldn't we learn from them?
+Dialogue: 0,1:01:44.47,1:01:45.18,Default,,0,0,0,,Today we won in Korea.
+Dialogue: 0,1:01:45.18,1:01:46.55,Default,,0,0,0,,What about Gothenburg next year?
+Dialogue: 0,1:01:49.05,1:01:51.18,Default,,0,0,0,,The future of ping pong is topspin strokes.
+Dialogue: 0,1:01:52.47,1:01:54.56,Default,,0,0,0,,We can't even beat the 5th ranked Saive!
+Dialogue: 0,1:01:54.56,1:01:56.35,Default,,0,0,0,,How will we play\Nagainst the world champion Waldy?
+Dialogue: 0,1:02:03.57,1:02:04.57,Default,,0,0,0,,Don't you already have a plan?
+Dialogue: 0,1:02:04.57,1:02:05.57,Default,,0,0,0,,Why are you asking us?
+Dialogue: 0,1:02:05.57,1:02:06.99,Default,,0,0,0,,I can't dictate the plan.
+Dialogue: 0,1:02:07.99,1:02:08.82,Default,,0,0,0,,Alright now.
+Dialogue: 0,1:02:08.82,1:02:09.70,Default,,0,0,0,,Let's vote.
+Dialogue: 0,1:02:09.70,1:02:10.57,Default,,0,0,0,,Okay?
+Dialogue: 0,1:02:20.54,1:02:22.21,Default,,0,0,0,,An unanimous agreement?
+Dialogue: 0,1:02:29.55,1:02:30.05,Default,,0,0,0,,Hey, don't hit that!
+Dialogue: 0,1:02:30.05,1:02:31.22,Default,,0,0,0,,This is for you.
+Dialogue: 0,1:02:31.22,1:02:32.85,Default,,0,0,0,,This is for your mom.
+Dialogue: 0,1:02:32.85,1:02:35.22,Default,,0,0,0,,Is it necessary to buy perfume\Nthat's ping pong shaped?
+Dialogue: 0,1:02:36.23,1:02:37.35,Default,,0,0,0,,How much is this?
+Dialogue: 0,1:02:37.85,1:02:38.56,Default,,0,0,0,,Bonus.
+Dialogue: 0,1:02:39.06,1:02:39.85,Default,,0,0,0,,Not much.
+Dialogue: 0,1:02:40.36,1:02:41.56,Default,,0,0,0,,I've got
+Dialogue: 0,1:02:42.94,1:02:44.07,Default,,0,0,0,,this much left.
+Dialogue: 0,1:02:44.57,1:02:45.36,Default,,0,0,0,,Holy cow,
+Dialogue: 0,1:02:45.36,1:02:47.07,Default,,0,0,0,,so much?
+Dialogue: 0,1:02:50.37,1:02:52.08,Default,,0,0,0,,How did you divide the bonus?
+Dialogue: 0,1:02:52.87,1:02:53.87,Default,,0,0,0,,Listen to me,
+Dialogue: 0,1:02:54.20,1:02:57.21,Default,,0,0,0,,You need to give more to\NChangbiao, Xiaodong, and Jingling.
+Dialogue: 0,1:02:58.21,1:02:59.58,Default,,0,0,0,,We are living together.
+Dialogue: 0,1:02:59.58,1:03:00.71,Default,,0,0,0,,They live away from their families.
+Dialogue: 0,1:03:00.71,1:03:02.21,Default,,0,0,0,,It must be tough for their wives.
+Dialogue: 0,1:03:02.21,1:03:03.59,Default,,0,0,0,,Tell dad, it's sweet.
+Dialogue: 0,1:03:03.59,1:03:04.42,Default,,0,0,0,,Understand?
+Dialogue: 0,1:03:04.42,1:03:05.71,Default,,0,0,0,,Yeah, yeah.
+Dialogue: 0,1:03:07.55,1:03:09.09,Default,,0,0,0,,Say "sweet" to dad.
+Dialogue: 0,1:03:09.93,1:03:10.80,Default,,0,0,0,,Sweet.
+Dialogue: 0,1:03:11.93,1:03:12.93,Default,,0,0,0,,Sweet or not!
+Dialogue: 0,1:03:15.31,1:03:17.10,Default,,0,0,0,,Doctors at the air force general hospital\Nsaid that
+Dialogue: 0,1:03:17.60,1:03:19.81,Default,,0,0,0,,it's due to\Nthe complex language environment.
+Dialogue: 0,1:03:19.81,1:03:20.81,Default,,0,0,0,,His grandma speaks Chengzhou dialect.
+Dialogue: 0,1:03:20.81,1:03:21.81,Default,,0,0,0,,I speak Shanghainese.
+Dialogue: 0,1:03:21.81,1:03:22.61,Default,,0,0,0,,The athletes in this community
+Dialogue: 0,1:03:22.61,1:03:24.32,Default,,0,0,0,,come from all over China.
+Dialogue: 0,1:03:24.82,1:03:26.44,Default,,0,0,0,,That's why he struggles\Nwith language development.
+Dialogue: 0,1:03:26.82,1:03:27.82,Default,,0,0,0,,But he's smart like me.
+Dialogue: 0,1:03:27.82,1:03:28.95,Default,,0,0,0,,Don't worry.
+Dialogue: 0,1:03:29.32,1:03:32.32,Default,,0,0,0,,Changbiao's daughter could already recite\Npoems at his age.
+Dialogue: 0,1:03:33.95,1:03:35.62,Default,,0,0,0,,Wouldn't you celebrate with me?
+Dialogue: 0,1:03:35.62,1:03:36.79,Default,,0,0,0,,We've got so many dishes\Nto go with the wine.
+Dialogue: 0,1:03:36.79,1:03:37.58,Default,,0,0,0,,Let's toast.
+Dialogue: 0,1:03:37.58,1:03:38.58,Default,,0,0,0,,Come.
+Dialogue: 0,1:03:42.79,1:03:44.29,Default,,0,0,0,,We have more wine dishes.
+Dialogue: 0,1:03:44.67,1:03:46.46,Default,,0,0,0,,Vieri sent from France.
+Dialogue: 0,1:03:50.18,1:03:53.18,Default,,0,0,0,,(English) Waldner,\Nthe top seed of this competition.
+Dialogue: 0,1:03:53.18,1:03:56.97,Default,,0,0,0,,(English) It's his serve again.\NAnother game point tonight.
+Dialogue: 0,1:03:59.68,1:04:01.10,Default,,0,0,0,,(English) And Waldner won again.
+Dialogue: 0,1:04:01.10,1:04:04.31,Default,,0,0,0,,(English) For the whole tournament,\Nyou've only lost 1 game out of 16 sets.
+Dialogue: 0,1:04:04.31,1:04:08.19,Default,,0,0,0,,(English) You've crushed all opponents and\Nwon the championship with a record winning rate.
+Dialogue: 0,1:04:08.19,1:04:11.20,Default,,0,0,0,,(English) Is the Swedish team\Neven stronger than last year?
+Dialogue: 0,1:04:12.70,1:04:15.83,Default,,0,0,0,,(English) If there were a hundred points\Nin table tennis,
+Dialogue: 0,1:04:17.12,1:04:19.95,Default,,0,0,0,,(English) then I only know\Nabout five points.
+Dialogue: 0,1:04:19.95,1:04:23.04,Default,,0,0,0,,(English) A very dangerous force\Nhas appeared in table tennis now.
+Dialogue: 0,1:04:23.79,1:04:25.54,Default,,0,0,0,,(English) Once we stop where we are,
+Dialogue: 0,1:04:25.54,1:04:27.96,Default,,0,0,0,,(English) they'll kill us\Nin Gothenburg next year.
+Dialogue: 0,1:04:27.96,1:04:30.05,Default,,0,0,0,,(English) So we'll continue to improve.
+Dialogue: 0,1:04:30.05,1:04:31.30,Default,,0,0,0,,(English) Thanks.
+Dialogue: 0,1:04:33.05,1:04:34.68,Default,,0,0,0,,He's talking about you guys, right?
+Dialogue: 0,1:04:35.85,1:04:36.85,Default,,0,0,0,,He's scared.
+Dialogue: 0,1:04:36.85,1:04:38.18,Default,,0,0,0,,Must be!
+Dialogue: 0,1:04:38.18,1:04:39.81,Default,,0,0,0,,I'm good at reading people.
+Dialogue: 0,1:04:41.06,1:04:41.81,Default,,0,0,0,,Come.
+Dialogue: 0,1:04:41.81,1:04:42.69,Default,,0,0,0,,Cheers.
+Dialogue: 0,1:04:44.48,1:04:45.48,Default,,0,0,0,,Cheers!
+Dialogue: 0,1:05:28.06,1:05:28.94,Default,,0,0,0,,Dong.
+Dialogue: 0,1:05:28.94,1:05:29.94,Default,,0,0,0,,Hello.
+Dialogue: 0,1:05:30.69,1:05:31.73,Default,,0,0,0,,This time
+Dialogue: 0,1:05:31.73,1:05:33.86,Default,,0,0,0,,you won't trick me, yeah?
+Dialogue: 0,1:05:35.07,1:05:36.86,Default,,0,0,0,,These two aren't retired players.
+Dialogue: 0,1:05:37.20,1:05:39.07,Default,,0,0,0,,They're current national team players.
+Dialogue: 0,1:05:40.45,1:05:41.79,Default,,0,0,0,,Champion of Youth Games.
+Dialogue: 0,1:05:41.79,1:05:43.04,Default,,0,0,0,,Champion of National Games.
+Dialogue: 0,1:05:43.04,1:05:44.29,Default,,0,0,0,,Ex world champion.
+Dialogue: 0,1:05:49.79,1:05:50.92,Default,,0,0,0,,On one condition.
+Dialogue: 0,1:05:52.05,1:05:52.92,Default,,0,0,0,,This one goes to Germany.
+Dialogue: 0,1:05:53.30,1:05:54.22,Default,,0,0,0,,This one goes to Sweden.
+Dialogue: 0,1:06:03.31,1:06:04.23,Default,,0,0,0,,Mom.
+Dialogue: 0,1:06:05.23,1:06:06.31,Default,,0,0,0,,I'm going abroad.
+Dialogue: 0,1:06:08.23,1:06:09.94,Default,,0,0,0,,The application was approved so fast.
+Dialogue: 0,1:06:10.32,1:06:11.44,Default,,0,0,0,,That's great!
+Dialogue: 0,1:06:12.07,1:06:14.07,Default,,0,0,0,,Shi jun!
+Dialogue: 0,1:06:14.07,1:06:14.94,Default,,0,0,0,,Quick,
+Dialogue: 0,1:06:14.94,1:06:17.45,Default,,0,0,0,,book our son a ticket to Sydney!
+Dialogue: 0,1:06:17.45,1:06:18.95,Default,,0,0,0,,Tell your dad.
+Dialogue: 0,1:06:19.82,1:06:20.95,Default,,0,0,0,,I'm going to Europe.
+Dialogue: 0,1:06:21.62,1:06:22.79,Default,,0,0,0,,State-sponsored training trip.
+Dialogue: 0,1:06:26.29,1:06:27.42,Default,,0,0,0,,Son.
+Dialogue: 0,1:06:27.96,1:06:29.58,Default,,0,0,0,,What do you mean?
+Dialogue: 0,1:06:37.80,1:06:39.68,Default,,0,0,0,,If Zhao goes to Germany,\Nwho's going to Sweden?
+Dialogue: 0,1:06:39.68,1:06:40.59,Default,,0,0,0,,Jizu.
+Dialogue: 0,1:06:40.60,1:06:41.80,Default,,0,0,0,,Must be.
+Dialogue: 0,1:06:41.80,1:06:43.60,Default,,0,0,0,,Me? I can't even beat Zhigang.
+Dialogue: 0,1:06:43.60,1:06:45.10,Default,,0,0,0,,Even if Zhigang is okay with that,
+Dialogue: 0,1:06:45.10,1:06:47.18,Default,,0,0,0,,will Huaming be?
+Dialogue: 0,1:06:47.98,1:06:49.31,Default,,0,0,0,,Stop guessing.
+Dialogue: 0,1:06:49.31,1:06:50.31,Default,,0,0,0,,Must be Bai.
+Dialogue: 0,1:06:50.31,1:06:51.94,Default,,0,0,0,,That's not possible.
+Dialogue: 0,1:06:51.94,1:06:53.32,Default,,0,0,0,,What are you doing, Bai?
+Dialogue: 0,1:06:57.61,1:07:00.20,Default,,0,0,0,,He's checking out his girlfriend\Nin the hotel across the street.
+Dialogue: 0,1:07:04.95,1:07:06.79,Default,,0,0,0,,Didn't she come by just last week?
+Dialogue: 0,1:07:06.79,1:07:07.96,Default,,0,0,0,,Start missing each other already?
+Dialogue: 0,1:07:07.96,1:07:08.67,Default,,0,0,0,,Bai.
+Dialogue: 0,1:07:08.67,1:07:09.83,Default,,0,0,0,,Is she pretty?
+Dialogue: 0,1:07:15.55,1:07:18.68,Default,,0,0,0,,Coach Dai would also allow you\Nto have a girlfriend if you play well.
+Dialogue: 0,1:07:18.68,1:07:19.97,Default,,0,0,0,,In any case it can't be him.
+Dialogue: 0,1:07:20.18,1:07:21.68,Default,,0,0,0,,If it's not Bai,
+Dialogue: 0,1:07:21.68,1:07:23.18,Default,,0,0,0,,then who's taking the last spot?
+Dialogue: 0,1:07:23.18,1:07:24.81,Default,,0,0,0,,By age.
+Dialogue: 0,1:07:24.81,1:07:26.18,Default,,0,0,0,,By experience.
+Dialogue: 0,1:07:26.18,1:07:27.06,Default,,0,0,0,,By style.
+Dialogue: 0,1:07:27.06,1:07:28.18,Default,,0,0,0,,It can only be Wen.
+Dialogue: 0,1:07:28.18,1:07:30.35,Default,,0,0,0,,Right, it must be Wen.
+Dialogue: 0,1:07:30.35,1:07:31.06,Default,,0,0,0,,It must be Wen.
+Dialogue: 0,1:07:31.06,1:07:32.06,Default,,0,0,0,,Must be you.
+Dialogue: 0,1:07:33.19,1:07:34.69,Default,,0,0,0,,Nah...
+Dialogue: 0,1:07:34.69,1:07:35.98,Default,,0,0,0,,Of course not.
+Dialogue: 0,1:07:37.36,1:07:39.82,Default,,0,0,0,,It can never be Wen.
+Dialogue: 0,1:07:39.82,1:07:41.20,Default,,0,0,0,,Want to put money on it?
+Dialogue: 0,1:07:42.99,1:07:44.58,Default,,0,0,0,,If it's none of them,
+Dialogue: 0,1:07:44.58,1:07:45.70,Default,,0,0,0,,who do you think it is then?
+Dialogue: 0,1:07:45.70,1:07:46.91,Default,,0,0,0,,You, duh!
+Dialogue: 0,1:07:48.41,1:07:49.91,Default,,0,0,0,,Who else would it be?
+Dialogue: 0,1:07:50.42,1:07:52.54,Default,,0,0,0,,I shouldn't have guessed\Nthe decision of the coaches.
+Dialogue: 0,1:07:53.21,1:07:54.92,Default,,0,0,0,,Especially shouldn't have fabricated lies.
+Dialogue: 0,1:07:54.92,1:07:56.21,Default,,0,0,0,,Spread lies, disturbed the team.
+Dialogue: 0,1:07:58.72,1:08:00.05,Default,,0,0,0,,I promise to right my wrongs
+Dialogue: 0,1:08:00.05,1:08:01.68,Default,,0,0,0,,and will not misbehave ever ever again.
+Dialogue: 0,1:08:02.22,1:08:03.68,Default,,0,0,0,,I'm canceling your breaks for 6 months.
+Dialogue: 0,1:08:04.35,1:08:06.18,Default,,0,0,0,,If there's a next time,\NI'll cancel your annual bonus.
+Dialogue: 0,1:08:07.56,1:08:10.18,Default,,0,0,0,,How did you know Bat's not going to Sweden?
+Dialogue: 0,1:08:13.06,1:08:14.56,Default,,0,0,0,,Bai is the...
+Dialogue: 0,1:08:17.19,1:08:18.44,Default,,0,0,0,,He's the heart of the team.
+Dialogue: 0,1:08:18.44,1:08:19.86,Default,,0,0,0,,The team will lose focus without him.
+Dialogue: 0,1:08:20.36,1:08:21.57,Default,,0,0,0,,How did you know
+Dialogue: 0,1:08:21.57,1:08:22.74,Default,,0,0,0,,that it wouldn't be you?
+Dialogue: 0,1:08:24.24,1:08:25.07,Default,,0,0,0,,Me?
+Dialogue: 0,1:08:25.87,1:08:27.08,Default,,0,0,0,,Me and Gong Feng
+Dialogue: 0,1:08:27.08,1:08:28.70,Default,,0,0,0,,are the secret weapons.
+Dialogue: 0,1:08:29.29,1:08:30.41,Default,,0,0,0,,China's gold medal machines.
+Dialogue: 0,1:08:30.41,1:08:31.71,Default,,0,0,0,,Can't just go showing us off.
+Dialogue: 0,1:08:32.04,1:08:33.58,Default,,0,0,0,,Gold medal machines?
+Dialogue: 0,1:08:33.58,1:08:34.42,Default,,0,0,0,,Get lost!
+Dialogue: 0,1:08:37.30,1:08:38.92,Default,,0,0,0,,This kid!
+Dialogue: 0,1:08:38.92,1:08:39.92,Default,,0,0,0,,Sharp as a tack!
+Dialogue: 0,1:08:40.21,1:08:42.30,Default,,0,0,0,,We debated for three days\Nto make those decisions.
+Dialogue: 0,1:08:42.30,1:08:44.72,Default,,0,0,0,,This kid got there in five minutes.
+Dialogue: 0,1:08:46.30,1:08:47.81,Default,,0,0,0,,Zhao, Dong,
+Dialogue: 0,1:08:47.81,1:08:49.31,Default,,0,0,0,,train hard in Europe.
+Dialogue: 0,1:08:49.31,1:08:50.31,Default,,0,0,0,,- Don't miss me.\N- Go to hell.
+Dialogue: 0,1:08:50.31,1:08:51.43,Default,,0,0,0,,- Stop blabbering.\N- Bye, all.
+Dialogue: 0,1:08:51.43,1:08:52.60,Default,,0,0,0,,Off you go.
+Dialogue: 0,1:08:54.73,1:08:54.94,Default,,0,0,0,,Fourth hit.
+Dialogue: 0,1:08:54.94,1:08:56.23,Default,,0,0,0,,Fourth hit.
+Dialogue: 0,1:08:56.61,1:08:57.94,Default,,0,0,0,,Fifth hit.
+Dialogue: 0,1:08:58.32,1:08:59.82,Default,,0,0,0,,Sixth hit.
+Dialogue: 0,1:09:00.23,1:09:01.74,Default,,0,0,0,,Seventh hit.
+Dialogue: 0,1:09:02.07,1:09:03.45,Default,,0,0,0,,Eighth hit.
+Dialogue: 0,1:09:03.82,1:09:05.32,Default,,0,0,0,,Hell yeah!
+Dialogue: 0,1:09:05.32,1:09:06.12,Default,,0,0,0,,Hell yeah, Gong Feng!
+Dialogue: 0,1:09:07.45,1:09:09.24,Default,,0,0,0,,Hell yeah?
+Dialogue: 0,1:09:10.79,1:09:12.29,Default,,0,0,0,,You can go to hell.
+Dialogue: 0,1:09:18.80,1:09:19.80,Default,,0,0,0,,Wen!
+Dialogue: 0,1:09:59.96,1:10:01.17,Default,,0,0,0,,Gong Feng.
+Dialogue: 0,1:10:06.34,1:10:10.05,Default,,0,0,0,,Happy birthday!
+Dialogue: 0,1:10:13.98,1:10:16.06,Default,,0,0,0,,I don't do birthdays.
+Dialogue: 0,1:10:16.06,1:10:16.69,Default,,0,0,0,,Well,
+Dialogue: 0,1:10:16.69,1:10:18.31,Default,,0,0,0,,then it's your first.
+Dialogue: 0,1:10:22.69,1:10:24.19,Default,,0,0,0,,What's your problem?
+Dialogue: 0,1:10:24.19,1:10:26.99,Default,,0,0,0,,If we weren't all on the same team\Nwho'd even want to talk to you?
+Dialogue: 0,1:10:26.99,1:10:27.99,Default,,0,0,0,,Stop it, Wen.
+Dialogue: 0,1:10:27.99,1:10:29.49,Default,,0,0,0,,You're the worst player in the team!
+Dialogue: 0,1:10:29.49,1:10:31.70,Default,,0,0,0,,I help you in training every single day,\Nhave you ever said thanks?
+Dialogue: 0,1:10:31.70,1:10:33.54,Default,,0,0,0,,You're in the main lineup. What about me?
+Dialogue: 0,1:10:33.91,1:10:35.41,Default,,0,0,0,,Cranking up music at 3 in the morning!
+Dialogue: 0,1:10:35.41,1:10:36.41,Default,,0,0,0,,Don't we need to sleep?
+Dialogue: 0,1:10:36.41,1:10:36.83,Default,,0,0,0,,Wen!
+Dialogue: 0,1:10:36.83,1:10:38.21,Default,,0,0,0,,You are a monster!
+Dialogue: 0,1:10:38.21,1:10:40.04,Default,,0,0,0,,No wonder no family of yours\Never comes to visit!
+Dialogue: 0,1:10:40.04,1:10:41.54,Default,,0,0,0,,You're a damn weirdo!
+Dialogue: 0,1:10:43.05,1:10:43.84,Default,,0,0,0,,What are you doing!
+Dialogue: 0,1:10:43.84,1:10:44.55,Default,,0,0,0,,Stop fighting!
+Dialogue: 0,1:10:44.55,1:10:45.84,Default,,0,0,0,,Stop it!
+Dialogue: 0,1:10:50.05,1:10:51.05,Default,,0,0,0,,Chen Wen.
+Dialogue: 0,1:10:52.22,1:10:53.22,Default,,0,0,0,,What are you doing?
+Dialogue: 0,1:10:57.73,1:10:58.94,Default,,0,0,0,,Are you crazy?
+Dialogue: 0,1:11:10.87,1:11:11.95,Default,,0,0,0,,Coach.
+Dialogue: 0,1:11:11.95,1:11:13.20,Default,,0,0,0,,What are you looking at?
+Dialogue: 0,1:11:13.20,1:11:13.95,Default,,0,0,0,,Normal speed!
+Dialogue: 0,1:11:13.95,1:11:15.29,Default,,0,0,0,,Run!
+Dialogue: 0,1:11:20.29,1:11:21.42,Default,,0,0,0,,Keep running!
+Dialogue: 0,1:11:21.42,1:11:21.92,Default,,0,0,0,,Accelerate!
+Dialogue: 0,1:11:21.92,1:11:24.09,Default,,0,0,0,,Normal speed, keep it up!
+Dialogue: 0,1:11:24.71,1:11:27.21,Default,,0,0,0,,Chen Wen!
+Dialogue: 0,1:11:28.72,1:11:30.72,Default,,0,0,0,,Didn't you always want to play overseas?
+Dialogue: 0,1:11:31.80,1:11:33.30,Default,,0,0,0,,European clubs.
+Dialogue: 0,1:11:33.30,1:11:34.31,Default,,0,0,0,,Take your pick.
+Dialogue: 0,1:11:34.93,1:11:36.22,Default,,0,0,0,,I can call to recommend you.
+Dialogue: 0,1:11:36.93,1:11:38.31,Default,,0,0,0,,You should make some money\Nafter retirement.
+Dialogue: 0,1:11:40.23,1:11:41.81,Default,,0,0,0,,I entered the sports academy at 8.
+Dialogue: 0,1:11:41.81,1:11:43.23,Default,,0,0,0,,Got selected for the national team at 19.
+Dialogue: 0,1:11:43.23,1:11:44.11,Default,,0,0,0,,For a dozen years,
+Dialogue: 0,1:11:44.73,1:11:45.82,Default,,0,0,0,,I've killed myself
+Dialogue: 0,1:11:45.82,1:11:48.11,Default,,0,0,0,,training around that damn green table.
+Dialogue: 0,1:11:48.74,1:11:49.82,Default,,0,0,0,,Except for Bai,
+Dialogue: 0,1:11:50.45,1:11:52.82,Default,,0,0,0,,I'm the best loop player\Nin the whole country.
+Dialogue: 0,1:11:53.83,1:11:55.24,Default,,0,0,0,,And because of that,
+Dialogue: 0,1:11:56.29,1:11:57.79,Default,,0,0,0,,you used me to elevate others.
+Dialogue: 0,1:12:01.58,1:12:03.08,Default,,0,0,0,,Coach Dai.
+Dialogue: 0,1:12:04.59,1:12:06.30,Default,,0,0,0,,You retired at 24,
+Dialogue: 0,1:12:06.30,1:12:08.80,Default,,0,0,0,,because you knew\Nyou'd never get to be a champion.
+Dialogue: 0,1:12:09.30,1:12:10.97,Default,,0,0,0,,When you know your hopeless destiny,
+Dialogue: 0,1:12:10.97,1:12:12.30,Default,,0,0,0,,what's the point of fighting?
+Dialogue: 0,1:12:15.68,1:12:17.43,Default,,0,0,0,,I'm relieved today.
+Dialogue: 0,1:12:20.10,1:12:22.60,Default,,0,0,0,,I'll start a business back home.
+Dialogue: 0,1:12:24.11,1:12:25.19,Default,,0,0,0,,Ping pong players
+Dialogue: 0,1:12:25.19,1:12:26.44,Default,,0,0,0,,are all smart as hell.
+Dialogue: 0,1:12:26.44,1:12:27.61,Default,,0,0,0,,You will make it.
+Dialogue: 0,1:12:28.11,1:12:29.99,Default,,0,0,0,,Being an athlete is tough enough.
+Dialogue: 0,1:12:29.99,1:12:32.99,Default,,0,0,0,,Don't ask Dong and the boys\Nto do cartwheels for money anymore.
+Dialogue: 0,1:12:33.82,1:12:35.12,Default,,0,0,0,,When I've made some money,
+Dialogue: 0,1:12:35.12,1:12:36.99,Default,,0,0,0,,I'll be your damn sponsor.
+Dialogue: 0,1:12:36.99,1:12:39.04,Default,,0,0,0,,However much you ask, I'll give.
+Dialogue: 0,1:12:43.46,1:12:44.54,Default,,0,0,0,,This is from your coach.
+Dialogue: 0,1:12:59.68,1:13:01.68,Default,,0,0,0,,Tell my coach I'm sorry.
+Dialogue: 0,1:13:22.41,1:13:23.33,Default,,0,0,0,,What was that?
+Dialogue: 0,1:13:24.71,1:13:25.54,Default,,0,0,0,,Go!
+Dialogue: 0,1:13:26.54,1:13:27.42,Default,,0,0,0,,Keep running!
+Dialogue: 0,1:13:30.71,1:13:32.42,Default,,0,0,0,,Choosing to be an athlete
+Dialogue: 0,1:13:32.92,1:13:35.43,Default,,0,0,0,,means choosing the hardest path\Nin the world.
+Dialogue: 0,1:13:37.35,1:13:39.22,Default,,0,0,0,,Chen Wen has left the path.
+Dialogue: 0,1:13:39.93,1:13:41.93,Default,,0,0,0,,Who will be the next?
+Dialogue: 0,1:13:45.02,1:13:49.52,Default,,0,0,0,,(Berlin, Germany\NEuropean Table Tennis Cup)
+Dialogue: 0,1:13:50.07,1:13:51.44,Default,,0,0,0,,Good job.
+Dialogue: 0,1:13:53.44,1:13:54.70,Default,,0,0,0,,Great job, Huang.
+Dialogue: 0,1:13:54.70,1:13:58.87,Default,,0,0,0,,This is the first time the club\Nhas entered top 8 in Europe.
+Dialogue: 0,1:13:58.87,1:14:00.87,Default,,0,0,0,,The next round starts in an hour.
+Dialogue: 0,1:14:00.87,1:14:02.58,Default,,0,0,0,,Do you know who your opponent will be?
+Dialogue: 0,1:14:02.91,1:14:04.79,Default,,0,0,0,,I know it'll be Saive.
+Dialogue: 0,1:14:04.79,1:14:06.04,Default,,0,0,0,,Don't worry.
+Dialogue: 0,1:14:06.04,1:14:08.71,Default,,0,0,0,,Although I lost to him twice in Busan,
+Dialogue: 0,1:14:08.71,1:14:10.79,Default,,0,0,0,,today I will do my best.
+Dialogue: 0,1:14:11.71,1:14:13.30,Default,,0,0,0,,Saive is out.
+Dialogue: 0,1:14:13.30,1:14:16.43,Default,,0,0,0,,He just had the ugliest loss in his career.
+Dialogue: 0,1:14:46.91,1:14:47.92,Default,,0,0,0,,You okay?
+Dialogue: 0,1:14:48.67,1:14:49.46,Default,,0,0,0,,Come.
+Dialogue: 0,1:14:49.46,1:14:50.29,Default,,0,0,0,,I'm okay.
+Dialogue: 0,1:14:58.30,1:15:00.18,Default,,0,0,0,,You're the highest paid player on the team!
+Dialogue: 0,1:15:00.80,1:15:03.18,Default,,0,0,0,,Nobody expected you to beat\Nthe invincible Swedes,
+Dialogue: 0,1:15:03.18,1:15:05.81,Default,,0,0,0,,but you weren't supposed to\Nlose that badly!
+Dialogue: 0,1:15:08.44,1:15:10.19,Default,,0,0,0,,I'm benching you for a month.
+Dialogue: 0,1:15:30.83,1:15:33.04,Default,,0,0,0,,I've already trained here for so long!
+Dialogue: 0,1:15:33.67,1:15:36.34,Default,,0,0,0,,Now I can't even play matches anymore!
+Dialogue: 0,1:15:37.30,1:15:38.17,Default,,0,0,0,,Coach.
+Dialogue: 0,1:15:38.17,1:15:39.84,Default,,0,0,0,,Could you please listen to me?
+Dialogue: 0,1:15:40.55,1:15:41.55,Default,,0,0,0,,Listen to me.
+Dialogue: 0,1:15:41.55,1:15:42.47,Default,,0,0,0,,Seriously.
+Dialogue: 0,1:15:42.97,1:15:44.85,Default,,0,0,0,,Let me come home.
+Dialogue: 0,1:15:44.85,1:15:46.81,Default,,0,0,0,,Please!
+Dialogue: 0,1:15:46.81,1:15:48.98,Default,,0,0,0,,I can't take it anymore, I'm going crazy!
+Dialogue: 0,1:15:48.98,1:15:52.19,Default,,0,0,0,,Dreams of generations of\Nnational table tennis players are on you now.
+Dialogue: 0,1:15:52.19,1:15:54.69,Default,,0,0,0,,You're not allowed to come back\Nwithout learning real techniques.
+Dialogue: 0,1:15:54.69,1:15:56.57,Default,,0,0,0,,Anything else?
+Dialogue: 0,1:15:56.57,1:15:58.49,Default,,0,0,0,,Overseas phone calls are expensive.
+Dialogue: 0,1:15:58.82,1:16:01.20,Default,,0,0,0,,Everyone thinks\NI've got it so easy out here!
+Dialogue: 0,1:16:01.20,1:16:02.99,Default,,0,0,0,,But I'm in pain everyday!
+Dialogue: 0,1:16:03.32,1:16:04.49,Default,,0,0,0,,So tell me.
+Dialogue: 0,1:16:04.49,1:16:05.33,Default,,0,0,0,,Why?
+Dialogue: 0,1:16:05.33,1:16:06.66,Default,,0,0,0,,Why!
+Dialogue: 0,1:16:06.66,1:16:08.33,Default,,0,0,0,,I want to go home.
+Dialogue: 0,1:16:08.33,1:16:10.04,Default,,0,0,0,,I want to go home today!
+Dialogue: 0,1:16:10.54,1:16:11.71,Default,,0,0,0,,I've got no one to talk to.
+Dialogue: 0,1:16:11.92,1:16:13.54,Default,,0,0,0,,I can only watch “A Better Tomorrow”\Nevery day.
+Dialogue: 0,1:16:13.75,1:16:16.21,Default,,0,0,0,,I can even speak Cantonese\Nnow as a Beijinger!
+Dialogue: 0,1:16:17.55,1:16:19.42,Default,,0,0,0,,Already kind of sounds like Chow Yun Fat.
+Dialogue: 0,1:16:22.84,1:16:24.43,Default,,0,0,0,,What doesn't kill you makes you stronger.
+Dialogue: 0,1:16:24.43,1:16:25.93,Default,,0,0,0,,Next time he calls,
+Dialogue: 0,1:16:25.93,1:16:26.72,Default,,0,0,0,,tell him I'm not in,
+Dialogue: 0,1:16:26.72,1:16:27.43,Default,,0,0,0,,Okay?
+Dialogue: 0,1:16:36.27,1:16:40.40,Default,,0,0,0,,(Kalmar, Sweden\NKalmar City Club)
+Dialogue: 0,1:16:40.86,1:16:41.36,Default,,0,0,0,,Dong!
+Dialogue: 0,1:16:42.20,1:16:42.95,Default,,0,0,0,,Dong!
+Dialogue: 0,1:16:44.62,1:16:45.37,Default,,0,0,0,,Dong!
+Dialogue: 0,1:16:45.87,1:16:46.70,Default,,0,0,0,,Dong!
+Dialogue: 0,1:16:49.91,1:16:51.91,Default,,0,0,0,,Get moving! Now!
+Dialogue: 0,1:16:51.91,1:16:53.71,Default,,0,0,0,,Don't be lazy, Dong!
+Dialogue: 0,1:16:57.55,1:16:59.30,Default,,0,0,0,,I asked for water, not a towel.
+Dialogue: 0,1:17:00.71,1:17:01.80,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,1:17:09.56,1:17:11.10,Default,,0,0,0,,Okay, Dong. Now train with me.
+Dialogue: 0,1:17:11.60,1:17:12.73,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,1:17:16.31,1:17:17.31,Default,,0,0,0,,(English) Hey, Dong.
+Dialogue: 0,1:17:17.31,1:17:19.44,Default,,0,0,0,,(English) We can finally have dinner tonight,\Nright?
+Dialogue: 0,1:17:19.82,1:17:21.94,Default,,0,0,0,,(English) Oh come on!\NYou're always breaking my heart.
+Dialogue: 0,1:17:21.94,1:17:24.32,Default,,0,0,0,,(English) I don't even want to\Ngive you your own package.
+Dialogue: 0,1:17:24.32,1:17:25.32,Default,,0,0,0,,(English) From whom?
+Dialogue: 0,1:17:26.74,1:17:28.32,Default,,0,0,0,,(English) It's from your brother.
+Dialogue: 0,1:17:28.33,1:17:29.33,Default,,0,0,0,,(English) But,
+Dialogue: 0,1:17:29.83,1:17:32.29,Default,,0,0,0,,(English) he's not as good looking as you are.
+Dialogue: 0,1:17:32.66,1:17:33.79,Default,,0,0,0,,You don't have a chance.
+Dialogue: 0,1:17:33.79,1:17:34.96,Default,,0,0,0,,Come on.
+Dialogue: 0,1:17:40.13,1:17:41.80,Default,,0,0,0,,Work hard!
+Dialogue: 0,1:17:41.96,1:17:43.67,Default,,0,0,0,,Come on, Huang Zhao!
+Dialogue: 0,1:17:43.67,1:17:46.30,Default,,0,0,0,,You're the greatest in the world!
+Dialogue: 0,1:17:46.80,1:17:49.10,Default,,0,0,0,,The greatest!
+Dialogue: 0,1:17:50.26,1:17:53.77,Default,,0,0,0,,(Six months later)
+Dialogue: 0,1:18:06.20,1:18:07.62,Default,,0,0,0,,Come on, faster!
+Dialogue: 0,1:18:08.82,1:18:09.95,Default,,0,0,0,,Good job, Gong Feng. Keep going!
+Dialogue: 0,1:18:11.79,1:18:12.95,Default,,0,0,0,,When you're ready to give up,
+Dialogue: 0,1:18:12.95,1:18:14.79,Default,,0,0,0,,your opponent will be too!
+Dialogue: 0,1:18:15.66,1:18:19.29,Default,,0,0,0,,Our country built the best training base in the world.\N(National Sports Commission, Special Training)
+Dialogue: 0,1:18:19.79,1:18:21.46,Default,,0,0,0,,Final closed training!
+Dialogue: 0,1:18:21.46,1:18:23.17,Default,,0,0,0,,Full simulation of\Nthe competition conditions!
+Dialogue: 0,1:18:23.17,1:18:24.80,Default,,0,0,0,,Your generation
+Dialogue: 0,1:18:24.80,1:18:26.34,Default,,0,0,0,,will decide the fate of ping pong!
+Dialogue: 0,1:18:34.85,1:18:36.56,Default,,0,0,0,,These kids,
+Dialogue: 0,1:18:36.56,1:18:37.98,Default,,0,0,0,,if they manage to mature,
+Dialogue: 0,1:18:38.31,1:18:39.48,Default,,0,0,0,,I think,
+Dialogue: 0,1:18:39.48,1:18:40.69,Default,,0,0,0,,personally,
+Dialogue: 0,1:18:42.69,1:18:44.48,Default,,0,0,0,,the Swaythling Cup will be just the start.
+Dialogue: 0,1:18:56.83,1:18:58.33,Default,,0,0,0,,Stop it!
+Dialogue: 0,1:19:01.92,1:19:03.05,Default,,0,0,0,,Say daddy.
+Dialogue: 0,1:19:03.05,1:19:04.05,Default,,0,0,0,,Groom it back more.
+Dialogue: 0,1:19:04.05,1:19:04.84,Default,,0,0,0,,Like this.
+Dialogue: 0,1:19:05.67,1:19:06.92,Default,,0,0,0,,Do I look like daddy?
+Dialogue: 0,1:19:06.92,1:19:08.22,Default,,0,0,0,,Say daddy.
+Dialogue: 0,1:19:08.22,1:19:08.93,Default,,0,0,0,,Do I look like daddy?
+Dialogue: 0,1:19:08.93,1:19:09.68,Default,,0,0,0,,Come on!
+Dialogue: 0,1:19:09.68,1:19:11.05,Default,,0,0,0,,I'm daddy!
+Dialogue: 0,1:19:16.56,1:19:18.94,Default,,0,0,0,,Zhao! Dong!
+Dialogue: 0,1:19:18.94,1:19:21.86,Default,,0,0,0,,You're back!
+Dialogue: 0,1:19:29.07,1:19:30.86,Default,,0,0,0,,That was Persson's backhand.
+Dialogue: 0,1:19:30.86,1:19:32.20,Default,,0,0,0,,This is Waldy's service.
+Dialogue: 0,1:19:36.08,1:19:37.20,Default,,0,0,0,,Like this.
+Dialogue: 0,1:19:37.20,1:19:38.21,Default,,0,0,0,,This is Karlsson.
+Dialogue: 0,1:19:38.21,1:19:38.91,Default,,0,0,0,,This is Karlsson, Get it?
+Dialogue: 0,1:19:38.91,1:19:40.79,Default,,0,0,0,,Get lower. This position.
+Dialogue: 0,1:19:42.92,1:19:45.59,Default,,0,0,0,,This chop goes to Karlsson's backhand.
+Dialogue: 0,1:19:58.43,1:19:59.60,Default,,0,0,0,,Chang Biao,
+Dialogue: 0,1:19:59.60,1:20:02.06,Default,,0,0,0,,I think this batch of K52 glue should work.
+Dialogue: 0,1:20:10.57,1:20:11.74,Default,,0,0,0,,Glue!
+Dialogue: 0,1:20:11.95,1:20:13.57,Default,,0,0,0,,Glue!
+Dialogue: 0,1:20:13.82,1:20:15.08,Default,,0,0,0,,Glue!
+Dialogue: 0,1:20:15.08,1:20:15.95,Default,,0,0,0,,Done!
+Dialogue: 0,1:20:15.95,1:20:17.45,Default,,0,0,0,,Will this glue really work?
+Dialogue: 0,1:20:17.45,1:20:18.29,Default,,0,0,0,,Do you think?
+Dialogue: 0,1:20:18.29,1:20:19.16,Default,,0,0,0,,Wait until it's dry.
+Dialogue: 0,1:20:19.16,1:20:20.58,Default,,0,0,0,,Quiet, we haven't tried it yet.
+Dialogue: 0,1:20:29.17,1:20:31.68,Default,,0,0,0,,It's not soft at all. So handy!
+Dialogue: 0,1:20:32.09,1:20:33.93,Default,,0,0,0,,With this racket you don't need to worry\Nabout getting the ball on the table.
+Dialogue: 0,1:20:33.93,1:20:36.97,Default,,0,0,0,,- Just hit! With all your strength!\N- The Europeans achieved speed change strokes like this.
+Dialogue: 0,1:20:36.97,1:20:38.31,Default,,0,0,0,,Go directly forward.
+Dialogue: 0,1:20:38.81,1:20:40.18,Default,,0,0,0,,Don't go for the spin.
+Dialogue: 0,1:20:40.18,1:20:42.81,Default,,0,0,0,,Good hit, Bai! Nice!
+Dialogue: 0,1:20:42.81,1:20:46.11,Default,,0,0,0,,We've got this!
+Dialogue: 0,1:20:48.32,1:20:50.19,Default,,0,0,0,,Li Fan, Li Fan!
+Dialogue: 0,1:20:50.19,1:20:51.61,Default,,0,0,0,,Listen to me.
+Dialogue: 0,1:20:51.61,1:20:53.61,Default,,0,0,0,,Wait until I'm back on the 6th.
+Dialogue: 0,1:20:53.61,1:20:54.62,Default,,0,0,0,,Then I'll...
+Dialogue: 0,1:20:54.62,1:20:55.45,Default,,0,0,0,,Hello?
+Dialogue: 0,1:20:55.45,1:20:56.45,Default,,0,0,0,,Wang Ying.
+Dialogue: 0,1:20:56.95,1:20:57.99,Default,,0,0,0,,Dai.
+Dialogue: 0,1:20:57.99,1:20:59.04,Default,,0,0,0,,Listen!
+Dialogue: 0,1:20:59.04,1:21:00.33,Default,,0,0,0,,On the train back to Beijing,
+Dialogue: 0,1:21:00.33,1:21:02.46,Default,,0,0,0,,your son spoke!
+Dialogue: 0,1:21:02.46,1:21:03.67,Default,,0,0,0,,One second.
+Dialogue: 0,1:21:04.04,1:21:05.33,Default,,0,0,0,,Tell dad.
+Dialogue: 0,1:21:05.79,1:21:06.96,Default,,0,0,0,,Sal
+Dialogue: 0,1:21:11.80,1:21:12.97,Default,,0,0,0,,Did you hear it?
+Dialogue: 0,1:21:12.97,1:21:14.47,Default,,0,0,0,,Did you hear him talk?
+Dialogue: 0,1:21:14.80,1:21:15.80,Default,,0,0,0,,Wasn't he good?
+Dialogue: 0,1:21:16.68,1:21:17.47,Default,,0,0,0,,Hello?
+Dialogue: 0,1:21:18.06,1:21:18.85,Default,,0,0,0,,Dai.
+Dialogue: 0,1:21:18.85,1:21:19.97,Default,,0,0,0,,Are you still there?
+Dialogue: 0,1:21:20.56,1:21:21.35,Default,,0,0,0,,Hello?
+Dialogue: 0,1:21:41.83,1:21:42.54,Default,,0,0,0,,Minhe.
+Dialogue: 0,1:21:43.16,1:21:44.54,Default,,0,0,0,,I forgot to get shampoo again.
+Dialogue: 0,1:21:45.33,1:21:46.83,Default,,0,0,0,,Stingy as usual.
+Dialogue: 0,1:21:55.93,1:21:57.05,Default,,0,0,0,,If you even try to tell anyone,
+Dialogue: 0,1:21:57.43,1:21:58.93,Default,,0,0,0,,I'll annihilate you!
+Dialogue: 0,1:22:19.20,1:22:20.95,Default,,0,0,0,,Bai has been doing really well lately.
+Dialogue: 0,1:22:20.95,1:22:22.41,Default,,0,0,0,,Even if it's against Waldy,
+Dialogue: 0,1:22:22.41,1:22:23.58,Default,,0,0,0,,he has a great chance to win.
+Dialogue: 0,1:22:23.58,1:22:25.29,Default,,0,0,0,,Huang Zhao can play number two now.
+Dialogue: 0,1:22:25.29,1:22:26.21,Default,,0,0,0,,Since he's come back from Europe,
+Dialogue: 0,1:22:26.21,1:22:27.29,Default,,0,0,0,,he's been rising fast.
+Dialogue: 0,1:22:27.29,1:22:29.29,Default,,0,0,0,,The only tough cookie is Karlsson.
+Dialogue: 0,1:22:29.92,1:22:31.59,Default,,0,0,0,,Do we have someone who can take him?
+Dialogue: 0,1:22:31.59,1:22:32.42,Default,,0,0,0,,That
+Dialogue: 0,1:22:32.42,1:22:35.30,Default,,0,0,0,,would have to be\Nour carefully prepared little starter dish.
+Dialogue: 0,1:22:36.93,1:22:38.72,Default,,0,0,0,,It's only polite\Nto serve some refreshments.
+Dialogue: 0,1:22:43.81,1:22:45.23,Default,,0,0,0,,Bad news!
+Dialogue: 0,1:22:53.07,1:22:54.94,Default,,0,0,0,,Chen's playing in a league in the UK
+Dialogue: 0,1:22:55.32,1:22:56.45,Default,,0,0,0,,and just sent this.
+Dialogue: 0,1:23:01.07,1:23:03.24,Default,,0,0,0,,The Swedes have known\Nabout Gong Feng since last year.
+Dialogue: 0,1:23:03.24,1:23:05.29,Default,,0,0,0,,How did they find him out?
+Dialogue: 0,1:23:05.29,1:23:07.08,Default,,0,0,0,,Who's that? Do you know him?
+Dialogue: 0,1:23:07.08,1:23:09.17,Default,,0,0,0,,Looks like Gong's friend\Nfrom the Youth team.
+Dialogue: 0,1:23:09.17,1:23:11.08,Default,,0,0,0,,They were the most\Npromising young talents on the team.
+Dialogue: 0,1:23:11.08,1:23:12.67,Default,,0,0,0,,He was doing better than Gong
+Dialogue: 0,1:23:12.67,1:23:13.96,Default,,0,0,0,,but got a knee injury,
+Dialogue: 0,1:23:13.96,1:23:16.17,Default,,0,0,0,,so all the best opportunities\Nwere offered to Gong.
+Dialogue: 0,1:23:16.17,1:23:17.30,Default,,0,0,0,,So he retired soon after that.
+Dialogue: 0,1:23:18.68,1:23:20.43,Default,,0,0,0,,How well does he know Gong?
+Dialogue: 0,1:23:21.68,1:23:23.18,Default,,0,0,0,,If Gong talked in his sleep,
+Dialogue: 0,1:23:23.18,1:23:24.43,Default,,0,0,0,,he would translate it verbatim.
+Dialogue: 0,1:23:28.81,1:23:29.81,Default,,0,0,0,,It's him indeed.
+Dialogue: 0,1:23:29.81,1:23:31.98,Default,,0,0,0,,Swapping players before the game\Ndoesn't look good!
+Dialogue: 0,1:23:31.98,1:23:34.44,Default,,0,0,0,,You pulled Gong from Shanghai!
+Dialogue: 0,1:23:34.44,1:23:35.98,Default,,0,0,0,,He's been training hard for two years!
+Dialogue: 0,1:23:35.98,1:23:36.61,Default,,0,0,0,,Lower your voice, I'm on the phone!
+Dialogue: 0,1:23:36.61,1:23:37.61,Default,,0,0,0,,Shut up!
+Dialogue: 0,1:23:37.61,1:23:40.11,Default,,0,0,0,,If you don't use him in Gothenburg,\Nyou'll ruin his career.
+Dialogue: 0,1:23:40.82,1:23:42.45,Default,,0,0,0,,How can I face his mother?
+Dialogue: 0,1:23:44.12,1:23:46.16,Default,,0,0,0,,Training and games are different.
+Dialogue: 0,1:23:46.16,1:23:47.54,Default,,0,0,0,,Chop players are Karlsson's natural enemy.
+Dialogue: 0,1:23:47.83,1:23:49.29,Default,,0,0,0,,To abandon the two-year plan
+Dialogue: 0,1:23:49.29,1:23:50.46,Default,,0,0,0,,is too risky.
+Dialogue: 0,1:23:51.04,1:23:52.96,Default,,0,0,0,,Even though the Swedes have studied Gong,
+Dialogue: 0,1:23:52.96,1:23:54.54,Default,,0,0,0,,we should still get someone to play chop.
+Dialogue: 0,1:23:55.55,1:23:57.05,Default,,0,0,0,,There's another chop player, Wang Yao.
+Dialogue: 0,1:23:57.05,1:23:58.17,Default,,0,0,0,,He immigrated to Germany\Nseveral years back.
+Dialogue: 0,1:23:58.17,1:23:58.97,Default,,0,0,0,,They just got him on the phone.
+Dialogue: 0,1:23:58.97,1:24:00.34,Default,,0,0,0,,Hearing that he can still play\Nfor the national team,
+Dialogue: 0,1:24:00.34,1:24:01.05,Default,,0,0,0,,he's very excited.
+Dialogue: 0,1:24:01.47,1:24:02.30,Default,,0,0,0,,One word from you,
+Dialogue: 0,1:24:02.30,1:24:03.85,Default,,0,0,0,,and he'll fly to Gothenburg right away.
+Dialogue: 0,1:24:11.81,1:24:13.56,Default,,0,0,0,,Gothenburg is coming up.
+Dialogue: 0,1:24:23.99,1:24:24.99,Default,,0,0,0,,Wang Ying.
+Dialogue: 0,1:24:26.37,1:24:27.91,Default,,0,0,0,,Any words of encouragement?
+Dialogue: 0,1:24:28.70,1:24:30.16,Default,,0,0,0,,Like what?
+Dialogue: 0,1:24:31.83,1:24:33.21,Default,,0,0,0,,The way I see it,
+Dialogue: 0,1:24:33.21,1:24:34.42,Default,,0,0,0,,in a competition against foreigners,
+Dialogue: 0,1:24:34.42,1:24:35.84,Default,,0,0,0,,I'm your good luck charm.
+Dialogue: 0,1:24:38.21,1:24:39.34,Default,,0,0,0,,What's my last name?
+Dialogue: 0,1:24:40.42,1:24:41.84,Default,,0,0,0,,Wang.
+Dialogue: 0,1:24:41.84,1:24:43.05,Default,,0,0,0,,What does it mean?
+Dialogue: 0,1:24:43.05,1:24:44.43,Default,,0,0,0,,The Champion.
+Dialogue: 0,1:24:45.35,1:24:46.35,Default,,0,0,0,,And what's my first name?
+Dialogue: 0,1:24:49.85,1:24:52.85,Default,,0,0,0,,Ying [Win].
+Dialogue: 0,1:24:55.23,1:24:57.44,Default,,0,0,0,,(English) Sweden will battle China\Nat home in the final.
+Dialogue: 0,1:24:57.44,1:24:59.36,Default,,0,0,0,,(English) The brand new Chinese team,\Nespecially
+Dialogue: 0,1:24:59.36,1:25:01.86,Default,,0,0,0,,(English) with the wonderful performances of the two young\Nplayers, (1993 - Gothenburg - 42nd World Table Tennis Championship)
+Dialogue: 0,1:25:01.86,1:25:03.57,Default,,0,0,0,,(English) has attracted worldwide attention. (1993\N- Gothenburg - 42nd World Table Tennis Championship)
+Dialogue: 0,1:25:03.57,1:25:05.24,Default,,0,0,0,,(English) Any comments to that?
+Dialogue: 0,1:25:05.95,1:25:08.70,Default,,0,0,0,,(English) I think everyone should\Npay tribute to coach Dai,
+Dialogue: 0,1:25:08.70,1:25:10.41,Default,,0,0,0,,(English) to Chinese.
+Dialogue: 0,1:25:10.41,1:25:13.21,Default,,0,0,0,,(English) Because table tennis\Nis not only about techniques,
+Dialogue: 0,1:25:13.21,1:25:14.71,Default,,0,0,0,,(English) but a formal of art...
+Dialogue: 0,1:25:15.42,1:25:17.21,Default,,0,0,0,,(English) What he wants to say
+Dialogue: 0,1:25:17.21,1:25:20.71,Default,,0,0,0,,(English) is Sweden is invincible.
+Dialogue: 0,1:25:20.71,1:25:23.59,Default,,0,0,0,,(English) Swe-den, Swe-den!
+Dialogue: 0,1:25:27.10,1:25:28.30,Default,,0,0,0,,Will they win?
+Dialogue: 0,1:25:29.31,1:25:30.31,Default,,0,0,0,,Good chance.
+Dialogue: 0,1:25:30.31,1:25:31.73,Default,,0,0,0,,James!
+Dialogue: 0,1:25:31.73,1:25:33.10,Default,,0,0,0,,Come back with your dad!
+Dialogue: 0,1:25:33.94,1:25:35.81,Default,,0,0,0,,Didn't you say to\Nnever watch your son's games?
+Dialogue: 0,1:25:36.61,1:25:37.81,Default,,0,0,0,,Stop making fun of me.
+Dialogue: 0,1:25:37.81,1:25:39.32,Default,,0,0,0,,It starts in 5 minutes.
+Dialogue: 0,1:25:45.45,1:25:48.58,Default,,0,0,0,,Those foreigners learned\Nour player placement strategy quite thoroughly.
+Dialogue: 0,1:25:48.58,1:25:50.95,Default,,0,0,0,,Looks like they're going the offensive route.
+Dialogue: 0,1:25:54.16,1:25:55.17,Default,,0,0,0,,In that case,
+Dialogue: 0,1:25:55.17,1:25:56.58,Default,,0,0,0,,what if we go with their flow?
+Dialogue: 0,1:25:58.17,1:25:59.59,Default,,0,0,0,,But we drew the home team.
+Dialogue: 0,1:26:00.30,1:26:01.80,Default,,0,0,0,,If we place the wrong bet,
+Dialogue: 0,1:26:01.80,1:26:03.42,Default,,0,0,0,,it'll be ugly.
+Dialogue: 0,1:26:03.42,1:26:04.30,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:26:06.43,1:26:07.68,Default,,0,0,0,,Would this be better?
+Dialogue: 0,1:26:08.60,1:26:09.80,Default,,0,0,0,,Not at all.
+Dialogue: 0,1:26:09.81,1:26:11.31,Default,,0,0,0,,This is riskier.
+Dialogue: 0,1:26:12.93,1:26:13.98,Default,,0,0,0,,Dai.
+Dialogue: 0,1:26:21.11,1:26:22.11,Default,,0,0,0,,I'm fine.
+Dialogue: 0,1:26:22.11,1:26:23.11,Default,,0,0,0,,I'm alright.
+Dialogue: 0,1:26:23.11,1:26:24.44,Default,,0,0,0,,I can definitely play.
+Dialogue: 0,1:26:25.61,1:26:27.70,Default,,0,0,0,,It's too risky now\Nto get a numbing injection.
+Dialogue: 0,1:26:27.70,1:26:29.20,Default,,0,0,0,,If the acromioclavicular ligament breaks,
+Dialogue: 0,1:26:29.20,1:26:30.33,Default,,0,0,0,,he'll be disabled for life.
+Dialogue: 0,1:26:30.95,1:26:31.99,Default,,0,0,0,,Don't move!
+Dialogue: 0,1:26:34.16,1:26:35.29,Default,,0,0,0,,Do we switch?
+Dialogue: 0,1:26:37.54,1:26:38.67,Default,,0,0,0,,Coach?
+Dialogue: 0,1:26:40.17,1:26:41.96,Default,,0,0,0,,I'll die on the court if I must!
+Dialogue: 0,1:26:45.80,1:26:46.84,Default,,0,0,0,,Bai plays number two.
+Dialogue: 0,1:26:47.97,1:26:49.05,Default,,0,0,0,,Zhao plays number three.
+Dialogue: 0,1:27:03.98,1:27:05.69,Default,,0,0,0,,The chop plays number one.
+Dialogue: 0,1:27:05.69,1:27:08.70,Default,,0,0,0,,We're in the Scandinavium\Nin Gothenburg, Sweden.
+Dialogue: 0,1:27:08.70,1:27:10.37,Default,,0,0,0,,The outdoor temperature is 7 degrees,
+Dialogue: 0,1:27:10.37,1:27:12.99,Default,,0,0,0,,but in here the temperature\Nhas almost reached 30.
+Dialogue: 0,1:27:13.20,1:27:15.04,Default,,0,0,0,,Since the oil crisis in the 70s,
+Dialogue: 0,1:27:15.04,1:27:17.91,Default,,0,0,0,,Gothenburg has built\Na world-leading regional heating system.
+Dialogue: 0,1:27:18.42,1:27:20.33,Default,,0,0,0,,As one of the most developed cities\Nin northern Europe,
+Dialogue: 0,1:27:20.33,1:27:22.42,Default,,0,0,0,,it has a fiery beating heart\Nhidden under its brutal cold weather.
+Dialogue: 0,1:27:22.42,1:27:25.42,Default,,0,0,0,,Before the game even starts,
+Dialogue: 0,1:27:25.42,1:27:27.84,Default,,0,0,0,,the stadium is already boiling.
+Dialogue: 0,1:27:30.34,1:27:32.35,Default,,0,0,0,,Who's that fierce looking guy?
+Dialogue: 0,1:27:33.35,1:27:34.56,Default,,0,0,0,,Where's our Gong?
+Dialogue: 0,1:27:36.06,1:27:39.35,Default,,0,0,0,,China, player one,
+Dialogue: 0,1:27:39.35,1:27:41.35,Default,,0,0,0,,Wang Yao.
+Dialogue: 0,1:27:41.35,1:27:43.36,Default,,0,0,0,,Player two,
+Dialogue: 0,1:27:43.36,1:27:45.07,Default,,0,0,0,,Bai Minhe.
+Dialogue: 0,1:27:47.36,1:27:48.44,Default,,0,0,0,,Our national sport,
+Dialogue: 0,1:27:48.45,1:27:50.57,Default,,0,0,0,,has declined in our generation.
+Dialogue: 0,1:27:52.70,1:27:55.08,Default,,0,0,0,,I've been waiting for a chance like today.
+Dialogue: 0,1:27:56.70,1:27:57.58,Default,,0,0,0,,I think that
+Dialogue: 0,1:27:58.79,1:28:00.79,Default,,0,0,0,,China can rank second in any other sport,
+Dialogue: 0,1:28:01.58,1:28:03.92,Default,,0,0,0,,but never table tennis.
+Dialogue: 0,1:28:03.92,1:28:07.30,Default,,0,0,0,,The Chinese coaching team has fully predicted\Nthe line-up of the Swedish team.
+Dialogue: 0,1:28:07.30,1:28:09.30,Default,,0,0,0,,They didn't put Bai Minhe\Nin the first position,
+Dialogue: 0,1:28:09.30,1:28:11.93,Default,,0,0,0,,nor the young players who\Nperformed brilliantly in the group stage,
+Dialogue: 0,1:28:11.93,1:28:13.72,Default,,0,0,0,,Hou Zhuoxiang, Dong Shuai.
+Dialogue: 0,1:28:13.72,1:28:16.43,Default,,0,0,0,,Instead they gave it to the retiree,\NWang Yao.
+Dialogue: 0,1:28:16.43,1:28:19.10,Default,,0,0,0,,This veteran player retired due\Nto injury in 1987 and went to Germany.
+Dialogue: 0,1:28:19.10,1:28:20.81,Default,,0,0,0,,For this championship,\Nhe rushed to Gothenburg.
+Dialogue: 0,1:28:20.81,1:28:24.31,Default,,0,0,0,,He is set as player one\Nfor his chop techniques against Karlsson.
+Dialogue: 0,1:28:25.23,1:28:26.94,Default,,0,0,0,,A chance for Wang Yao. Smash!
+Dialogue: 0,1:28:26.94,1:28:28.32,Default,,0,0,0,,Great hit! Beautiful!
+Dialogue: 0,1:28:28.94,1:28:30.74,Default,,0,0,0,,Wang scores again.
+Dialogue: 0,1:28:32.61,1:28:34.32,Default,,0,0,0,,Karlsson's turn to serve.
+Dialogue: 0,1:28:37.29,1:28:38.66,Default,,0,0,0,,Great shot!
+Dialogue: 0,1:28:39.58,1:28:42.29,Default,,0,0,0,,Karlsson always gets nervous\Nwhen facing chop players.
+Dialogue: 0,1:28:42.29,1:28:45.08,Default,,0,0,0,,This is a serve that's never seen\Nin world-class competitions like this.
+Dialogue: 0,1:28:45.42,1:28:47.29,Default,,0,0,0,,Karlsson backhand serve.
+Dialogue: 0,1:28:47.30,1:28:48.59,Default,,0,0,0,,Wang chops.
+Dialogue: 0,1:28:48.59,1:28:49.80,Default,,0,0,0,,Another chop.
+Dialogue: 0,1:28:49.80,1:28:50.92,Default,,0,0,0,,And another.
+Dialogue: 0,1:28:50.92,1:28:51.67,Default,,0,0,0,,Beautiful!
+Dialogue: 0,1:28:52.30,1:28:53.30,Default,,0,0,0,,Good shot!
+Dialogue: 0,1:28:53.68,1:28:55.68,Default,,0,0,0,,Wang is on a streak, keeps scoring!
+Dialogue: 0,1:28:55.68,1:28:57.81,Default,,0,0,0,,Karlsson has never won\Nagainst chop players.
+Dialogue: 0,1:28:58.31,1:29:00.60,Default,,0,0,0,,Coach Dai's promise from two years ago
+Dialogue: 0,1:29:00.60,1:29:01.81,Default,,0,0,0,,might just come true this time.
+Dialogue: 0,1:29:04.10,1:29:04.69,Default,,0,0,0,,Nice!
+Dialogue: 0,1:29:04.69,1:29:06.61,Default,,0,0,0,,After a big win for Wang in the first game,
+Dialogue: 0,1:29:06.61,1:29:07.82,Default,,0,0,0,,The second game is going wilder.
+Dialogue: 0,1:29:07.82,1:29:09.61,Default,,0,0,0,,We have the best players
+Dialogue: 0,1:29:09.61,1:29:11.44,Default,,0,0,0,,but the Chinese have\Nthe most experienced coaching team.
+Dialogue: 0,1:29:11.95,1:29:13.11,Default,,0,0,0,,Come on, Karlsson!
+Dialogue: 0,1:29:13.11,1:29:15.45,Default,,0,0,0,,19 to 16. Karlsson's serve.
+Dialogue: 0,1:29:15.45,1:29:17.32,Default,,0,0,0,,If Wang manages to score\None in the coming five serves,
+Dialogue: 0,1:29:17.33,1:29:18.83,Default,,0,0,0,,he'll get the set point.
+Dialogue: 0,1:29:18.83,1:29:20.54,Default,,0,0,0,,And if he scores two, he will win the game.
+Dialogue: 0,1:29:21.33,1:29:22.29,Default,,0,0,0,,What a pity!
+Dialogue: 0,1:29:23.29,1:29:24.33,Default,,0,0,0,,19 to 17,
+Dialogue: 0,1:29:24.33,1:29:25.96,Default,,0,0,0,,Karlsson got a point back.
+Dialogue: 0,1:29:26.17,1:29:27.17,Default,,0,0,0,,Come on, come on!
+Dialogue: 0,1:29:28.67,1:29:31.30,Default,,0,0,0,,It's okay.\NWe'll have an absolute leading advantage.
+Dialogue: 0,1:29:31.80,1:29:33.67,Default,,0,0,0,,Karlsson is deliberately
+Dialogue: 0,1:29:33.68,1:29:35.68,Default,,0,0,0,,focusing his attack\Non Wang's weak positions.
+Dialogue: 0,1:29:36.30,1:29:36.97,Default,,0,0,0,,Nice hit!
+Dialogue: 0,1:29:36.97,1:29:38.68,Default,,0,0,0,,Two more points, just two more!
+Dialogue: 0,1:29:39.97,1:29:41.18,Default,,0,0,0,,It's 18 to 19 now.
+Dialogue: 0,1:29:41.18,1:29:42.06,Default,,0,0,0,,Karlsson's serve.
+Dialogue: 0,1:29:43.81,1:29:44.69,Default,,0,0,0,,That was a pity.
+Dialogue: 0,1:29:45.56,1:29:48.48,Default,,0,0,0,,Wang wanted to use the long pips\Nto interrupt the opponent's service attack,
+Dialogue: 0,1:29:48.48,1:29:50.57,Default,,0,0,0,,but didn't manage to. 19 all.
+Dialogue: 0,1:29:51.19,1:29:53.49,Default,,0,0,0,,It's okay.\NWe're still on the same starting line.
+Dialogue: 0,1:29:56.70,1:29:58.99,Default,,0,0,0,,The score now is 20 to 19.
+Dialogue: 0,1:29:58.99,1:30:00.49,Default,,0,0,0,,Wang Yao was ahead
+Dialogue: 0,1:30:00.49,1:30:01.41,Default,,0,0,0,,with 19 to 16.
+Dialogue: 0,1:30:01.41,1:30:03.41,Default,,0,0,0,,Now Karlsson has caught up\Nby scoring 4 points
+Dialogue: 0,1:30:03.41,1:30:04.41,Default,,0,0,0,,during his serving round.
+Dialogue: 0,1:30:04.41,1:30:06.42,Default,,0,0,0,,Karsson has got the match point first.
+Dialogue: 0,1:30:06.42,1:30:08.04,Default,,0,0,0,,The score now is 20 to 19.
+Dialogue: 0,1:30:08.04,1:30:09.04,Default,,0,0,0,,Karlsson is one point ahead.
+Dialogue: 0,1:30:09.04,1:30:10.92,Default,,0,0,0,,Wang Yao still has a chance\Nas long as he keeps it steady.
+Dialogue: 0,1:30:11.84,1:30:12.55,Default,,0,0,0,,Wang chops.
+Dialogue: 0,1:30:13.55,1:30:14.84,Default,,0,0,0,,Heavy spin! Wang chops again!
+Dialogue: 0,1:30:16.34,1:30:17.43,Default,,0,0,0,,What a shame.
+Dialogue: 0,1:30:17.43,1:30:18.85,Default,,0,0,0,,That was a pity indeed.
+Dialogue: 0,1:30:19.85,1:30:21.43,Default,,0,0,0,,Karlsson has won back a game.
+Dialogue: 0,1:30:21.43,1:30:24.06,Default,,0,0,0,,The two players are tied at 1 to 1.
+Dialogue: 0,1:30:24.43,1:30:25.44,Default,,0,0,0,,Good job!
+Dialogue: 0,1:30:25.44,1:30:27.69,Default,,0,0,0,,Well done, very well.
+Dialogue: 0,1:30:28.86,1:30:29.94,Default,,0,0,0,,Forget that match.
+Dialogue: 0,1:30:29.94,1:30:31.19,Default,,0,0,0,,That guy wanted to eat me alive.
+Dialogue: 0,1:30:35.45,1:30:36.07,Default,,0,0,0,,Play like you always do.
+Dialogue: 0,1:30:36.86,1:30:38.24,Default,,0,0,0,,Karlsson is no match for you.
+Dialogue: 0,1:30:40.20,1:30:41.20,Default,,0,0,0,,Come on.
+Dialogue: 0,1:30:42.24,1:30:43.20,Default,,0,0,0,,Come on!
+Dialogue: 0,1:30:44.20,1:30:45.91,Default,,0,0,0,,Come on!
+Dialogue: 0,1:30:47.04,1:30:49.21,Default,,0,0,0,,So, is Wang performing well today?
+Dialogue: 0,1:30:49.71,1:30:51.29,Default,,0,0,0,,He rushed a bit in the second match.
+Dialogue: 0,1:30:51.29,1:30:53.21,Default,,0,0,0,,But generally he's playing okay today.
+Dialogue: 0,1:30:53.21,1:30:54.42,Default,,0,0,0,,I think
+Dialogue: 0,1:30:54.42,1:30:56.22,Default,,0,0,0,,Karlsson has gotten used to\Nhis way of playing.
+Dialogue: 0,1:30:56.80,1:30:58.30,Default,,0,0,0,,Will he win today?
+Dialogue: 0,1:30:58.30,1:31:00.43,Default,,0,0,0,,Wang wants to avenge himself too much.
+Dialogue: 0,1:31:08.73,1:31:12.44,Default,,0,0,0,,Karlsson, 22-20.
+Dialogue: 0,1:31:15.94,1:31:18.95,Default,,0,0,0,,What a great game!
+Dialogue: 0,1:31:18.95,1:31:23.45,Default,,0,0,0,,Karlsson has caught up and defeated Wang Yao,\Nwho he's never won against.
+Dialogue: 0,1:31:23.95,1:31:27.29,Default,,0,0,0,,He has annihilated\Nthe Chinese technically and mentally.
+Dialogue: 0,1:31:27.29,1:31:28.66,Default,,0,0,0,,Well played.
+Dialogue: 0,1:31:30.17,1:31:31.58,Default,,0,0,0,,It was a great match.
+Dialogue: 0,1:31:31.58,1:31:32.29,Default,,0,0,0,,Alright?
+Dialogue: 0,1:31:32.29,1:31:33.96,Default,,0,0,0,,You don't have to hit so hard every time.
+Dialogue: 0,1:31:33.96,1:31:35.09,Default,,0,0,0,,We can badger him a bit longer.
+Dialogue: 0,1:31:35.59,1:31:36.67,Default,,0,0,0,,There's still a chance.
+Dialogue: 0,1:31:37.30,1:31:38.17,Default,,0,0,0,,Alright?
+Dialogue: 0,1:31:38.17,1:31:39.47,Default,,0,0,0,,We still have four sets.
+Dialogue: 0,1:31:39.47,1:31:40.30,Default,,0,0,0,,Understand?
+Dialogue: 0,1:31:40.80,1:31:41.93,Default,,0,0,0,,Where's Bai?
+Dialogue: 0,1:31:41.93,1:31:42.47,Default,,0,0,0,,Bai!
+Dialogue: 0,1:31:42.47,1:31:43.30,Default,,0,0,0,,Here!
+Dialogue: 0,1:31:43.30,1:31:47.80,Default,,0,0,0,,Go China!
+Dialogue: 0,1:31:48.48,1:31:49.69,Default,,0,0,0,,Show them
+Dialogue: 0,1:31:50.44,1:31:51.69,Default,,0,0,0,,that Chinese players can also play loop.
+Dialogue: 0,1:31:55.44,1:31:59.94,Default,,0,0,0,,Go China!
+Dialogue: 0,1:32:03.45,1:32:04.83,Default,,0,0,0,,The second match.
+Dialogue: 0,1:32:04.83,1:32:06.45,Default,,0,0,0,,Bai Minhe against Waldner.
+Dialogue: 0,1:32:06.45,1:32:09.66,Default,,0,0,0,,This is the match between the top\NChinese player and the world's top player.
+Dialogue: 0,1:32:10.96,1:32:12.33,Default,,0,0,0,,They play loops against each other.
+Dialogue: 0,1:32:12.33,1:32:14.04,Default,,0,0,0,,The audience is entirely entranced.
+Dialogue: 0,1:32:18.67,1:32:19.30,Default,,0,0,0,,Great hit, Bai!
+Dialogue: 0,1:32:19.84,1:32:20.47,Default,,0,0,0,,Good!
+Dialogue: 0,1:32:21.80,1:32:23.97,Default,,0,0,0,,Bai has outperformed himself today.
+Dialogue: 0,1:32:23.97,1:32:25.97,Default,,0,0,0,,He is no disadvantage\Nat all against Waldner.
+Dialogue: 0,1:32:25.97,1:32:29.35,Default,,0,0,0,,We can only imagine how hard\Nthe Chinese team has trained for this match.
+Dialogue: 0,1:32:31.48,1:32:32.31,Default,,0,0,0,,Nice hit!
+Dialogue: 0,1:32:33.06,1:32:34.06,Default,,0,0,0,,Good hit!
+Dialogue: 0,1:32:39.99,1:32:41.49,Default,,0,0,0,,Game point 1 all.
+Dialogue: 0,1:32:41.49,1:32:42.86,Default,,0,0,0,,Now the final game.
+Dialogue: 0,1:32:43.87,1:32:45.07,Default,,0,0,0,,Bai Minhe's service.
+Dialogue: 0,1:32:45.08,1:32:46.20,Default,,0,0,0,,The players are blocking fast.
+Dialogue: 0,1:32:46.20,1:32:47.37,Default,,0,0,0,,Back to forehand.
+Dialogue: 0,1:32:48.04,1:32:48.83,Default,,0,0,0,,It's out.
+Dialogue: 0,1:32:52.33,1:32:54.54,Default,,0,0,0,,Waldner's tactic is impenetrable,
+Dialogue: 0,1:32:54.54,1:32:56.04,Default,,0,0,0,,known as the guerrilla lead.
+Dialogue: 0,1:32:56.04,1:32:58.55,Default,,0,0,0,,Not sure why he's sticking\Nto right side attack today,
+Dialogue: 0,1:32:58.55,1:32:59.92,Default,,0,0,0,,and not playing left\Neven when there's an obvious gap.
+Dialogue: 0,1:32:59.92,1:33:02.84,Default,,0,0,0,,These are all supposed\Nto be right up Bat's alley.
+Dialogue: 0,1:33:02.84,1:33:04.84,Default,,0,0,0,,It's very unusual for Waldner.
+Dialogue: 0,1:33:08.35,1:33:09.85,Default,,0,0,0,,He keeps attacking on the right side.
+Dialogue: 0,1:33:09.85,1:33:11.35,Default,,0,0,0,,Bai Minhe keeps looping with forehand.
+Dialogue: 0,1:33:12.56,1:33:13.35,Default,,0,0,0,,Nice!
+Dialogue: 0,1:33:13.85,1:33:15.35,Default,,0,0,0,,Bai Minhe is going all out!
+Dialogue: 0,1:33:15.56,1:33:18.19,Default,,0,0,0,,Winning all the way\Nwith his forehand loops!
+Dialogue: 0,1:33:21.69,1:33:22.70,Default,,0,0,0,,Who'd have thought that
+Dialogue: 0,1:33:22.70,1:33:24.57,Default,,0,0,0,,on the world champion's home court,
+Dialogue: 0,1:33:24.57,1:33:28.08,Default,,0,0,0,,Bai has got the set point\Nwith 1 point ahead.
+Dialogue: 0,1:33:34.79,1:33:36.29,Default,,0,0,0,,Great hit!
+Dialogue: 0,1:33:37.71,1:33:39.21,Default,,0,0,0,,Sal
+Dialogue: 0,1:33:40.92,1:33:43.30,Default,,0,0,0,,He is as heroic as\Na great general from ages past.
+Dialogue: 0,1:33:43.30,1:33:46.05,Default,,0,0,0,,With a blood-stained robe,\Nhe will not return home without winning the war.
+Dialogue: 0,1:33:47.60,1:33:48.80,Default,,0,0,0,,Well played, well played.
+Dialogue: 0,1:33:49.31,1:33:51.22,Default,,0,0,0,,Your right shoulder, all good?
+Dialogue: 0,1:33:51.22,1:33:53.10,Default,,0,0,0,,There's still the fifth set.
+Dialogue: 0,1:33:54.44,1:33:57.60,Default,,0,0,0,,(English) Bai defeated Waldner,\Nthe world's No.1 player.
+Dialogue: 0,1:33:57.61,1:34:00.57,Default,,0,0,0,,(English) It's the first time\Nhe's been defeated in 18 months.
+Dialogue: 0,1:34:00.57,1:34:02.44,Default,,0,0,0,,(English) Here comes\Nthe opportunity for the Chinese.
+Dialogue: 0,1:34:02.94,1:34:03.95,Default,,0,0,0,,Top-spin opposition.
+Dialogue: 0,1:34:04.82,1:34:06.32,Default,,0,0,0,,Careful with middle-long rallies.
+Dialogue: 0,1:34:06.82,1:34:08.07,Default,,0,0,0,,Don't be led by the opponent.
+Dialogue: 0,1:34:09.45,1:34:10.74,Default,,0,0,0,,Good hit!
+Dialogue: 0,1:34:14.41,1:34:15.58,Default,,0,0,0,,I can't anymore.
+Dialogue: 0,1:34:17.17,1:34:18.59,Default,,0,0,0,,That long drive got me.
+Dialogue: 0,1:34:31.81,1:34:32.68,Default,,0,0,0,,What's with Bai?
+Dialogue: 0,1:34:32.68,1:34:33.43,Default,,0,0,0,,Nothing.
+Dialogue: 0,1:34:33.81,1:34:35.31,Default,,0,0,0,,Where were we?
+Dialogue: 0,1:34:35.69,1:34:36.44,Default,,0,0,0,,More forehand attack,
+Dialogue: 0,1:34:36.44,1:34:37.69,Default,,0,0,0,,careful with rallies.
+Dialogue: 0,1:34:37.69,1:34:38.19,Default,,0,0,0,,Okay.
+Dialogue: 0,1:34:38.19,1:34:39.19,Default,,0,0,0,,Huang Zhao.
+Dialogue: 0,1:34:39.69,1:34:40.82,Default,,0,0,0,,You must win this!
+Dialogue: 0,1:34:40.82,1:34:41.61,Default,,0,0,0,,Okay.
+Dialogue: 0,1:34:42.69,1:34:43.19,Default,,0,0,0,,Go, Zhao!
+Dialogue: 0,1:34:44.32,1:34:45.95,Default,,0,0,0,,Show them, Zhao!
+Dialogue: 0,1:35:01.46,1:35:05.96,Default,,0,0,0,,Go China!
+Dialogue: 0,1:35:16.35,1:35:18.06,Default,,0,0,0,,What's with Dai today?
+Dialogue: 0,1:36:37.72,1:36:41.31,Default,,0,0,0,,(English) To make Waldner lose\Nis as rare as the Halley's comet.
+Dialogue: 0,1:36:41.31,1:36:43.73,Default,,0,0,0,,(English) The Chinese have lost\Na close victory.
+Dialogue: 0,1:36:43.73,1:36:45.57,Default,,0,0,0,,(English) How many years\Ndo they have to wait?
+Dialogue: 0,1:36:45.57,1:36:48.73,Default,,0,0,0,,(English) The whole world knows\Nabout coach Dai's two-year promise.
+Dialogue: 0,1:36:48.74,1:36:51.82,Default,,0,0,0,,(English) I guess they'll need\Nto add a zero to that two now.
+Dialogue: 0,1:37:09.09,1:37:10.92,Default,,0,0,0,,Come on, Dai.
+Dialogue: 0,1:37:11.42,1:37:12.30,Default,,0,0,0,,Dai, let's go.
+Dialogue: 0,1:37:13.09,1:37:14.80,Default,,0,0,0,,The decision was made by us together.
+Dialogue: 0,1:37:14.80,1:37:15.80,Default,,0,0,0,,Give your mind a break.
+Dialogue: 0,1:37:19.18,1:37:20.18,Default,,0,0,0,,Dai!
+Dialogue: 0,1:37:22.60,1:37:24.60,Default,,0,0,0,,Careful.
+Dialogue: 0,1:37:24.60,1:37:25.98,Default,,0,0,0,,You okay?
+Dialogue: 0,1:37:27.11,1:37:28.44,Default,,0,0,0,,I'm fine. Let's go.
+Dialogue: 0,1:37:29.19,1:37:30.32,Default,,0,0,0,,I'm fine.
+Dialogue: 0,1:37:36.70,1:37:37.45,Default,,0,0,0,,Coach Dai.
+Dialogue: 0,1:37:40.54,1:37:41.95,Default,,0,0,0,,We wanted to ask...
+Dialogue: 0,1:37:44.04,1:37:44.96,Default,,0,0,0,,Did you...
+Dialogue: 0,1:37:46.54,1:37:48.17,Default,,0,0,0,,really believe that we could've won?
+Dialogue: 0,1:38:14.99,1:38:16.57,Default,,0,0,0,,Come here, everyone gather here.
+Dialogue: 0,1:38:16.57,1:38:17.20,Default,,0,0,0,,This way.
+Dialogue: 0,1:38:18.49,1:38:19.99,Default,,0,0,0,,Everyone gather here.
+Dialogue: 0,1:38:20.58,1:38:21.91,Default,,0,0,0,,Hurry, get off.
+Dialogue: 0,1:38:23.33,1:38:23.83,Default,,0,0,0,,Hurry.
+Dialogue: 0,1:38:26.54,1:38:27.83,Default,,0,0,0,,An announcement.
+Dialogue: 0,1:38:30.42,1:38:32.05,Default,,0,0,0,,Starting now,
+Dialogue: 0,1:38:32.05,1:38:33.17,Default,,0,0,0,,All athletes
+Dialogue: 0,1:38:35.05,1:38:36.34,Default,,0,0,0,,will go back home.
+Dialogue: 0,1:38:37.93,1:38:39.55,Default,,0,0,0,,Coaches
+Dialogue: 0,1:38:39.55,1:38:41.06,Default,,0,0,0,,will wait for further notice.
+Dialogue: 0,1:38:44.35,1:38:45.73,Default,,0,0,0,,This national team
+Dialogue: 0,1:38:46.69,1:38:47.94,Default,,0,0,0,,is disbanded from now on.
+Dialogue: 0,1:38:51.94,1:38:53.94,Default,,0,0,0,,Well, I was only informed
+Dialogue: 0,1:38:53.94,1:38:55.19,Default,,0,0,0,,just before the plane took off.
+Dialogue: 0,1:38:57.57,1:38:58.07,Default,,0,0,0,,Alright?
+Dialogue: 0,1:39:01.70,1:39:02.45,Default,,0,0,0,,Go.
+Dialogue: 0,1:39:03.04,1:39:03.91,Default,,0,0,0,,What are you waiting for?
+Dialogue: 0,1:39:04.70,1:39:05.41,Default,,0,0,0,,Go.
+Dialogue: 0,1:39:16.05,1:39:17.42,Default,,0,0,0,,See you, Dai.
+Dialogue: 0,1:39:17.43,1:39:18.22,Default,,0,0,0,,Bye.
+Dialogue: 0,1:39:20.30,1:39:21.93,Default,,0,0,0,,Hope you had a good journey, Coach Dai.
+Dialogue: 0,1:39:23.31,1:39:25.43,Default,,0,0,0,,You promised to win the Swaythling Cup\Nwithin two years.
+Dialogue: 0,1:39:25.43,1:39:26.81,Default,,0,0,0,,Now that you've lost in Gothenburg,
+Dialogue: 0,1:39:26.81,1:39:27.94,Default,,0,0,0,,what's your next step?
+Dialogue: 0,1:39:27.94,1:39:29.81,Default,,0,0,0,,Swapping players before the game\Nand letting injured players compete.
+Dialogue: 0,1:39:29.81,1:39:30.81,Default,,0,0,0,,Do you take full responsibility?
+Dialogue: 0,1:39:30.81,1:39:32.82,Default,,0,0,0,,On the public denouncement\Nof your mismanagement of team,
+Dialogue: 0,1:39:32.82,1:39:33.82,Default,,0,0,0,,do you have any comments?
+Dialogue: 0,1:39:33.82,1:39:35.32,Default,,0,0,0,,What public denouncement?
+Dialogue: 0,1:39:38.32,1:39:40.11,Default,,0,0,0,,Didn't you read the papers today?
+Dialogue: 0,1:39:41.24,1:39:43.45,Default,,0,0,0,,Sports Times, the article by Xia Youde.
+Dialogue: 0,1:39:49.08,1:39:52.17,Default,,0,0,0,,How was\Nthe national team players' list decided?
+Dialogue: 0,1:39:52.17,1:39:53.67,Default,,0,0,0,,How much of it was your decision?
+Dialogue: 0,1:39:54.96,1:39:57.09,Default,,0,0,0,,Sending Huang Zhao and Dong Shuai
+Dialogue: 0,1:39:57.09,1:39:58.59,Default,,0,0,0,,to compete for European clubs,
+Dialogue: 0,1:39:58.59,1:39:59.97,Default,,0,0,0,,did you make a public annoucement?
+Dialogue: 0,1:40:00.59,1:40:01.68,Default,,0,0,0,,For each competition,
+Dialogue: 0,1:40:01.68,1:40:03.60,Default,,0,0,0,,how did you decide on the main lineup?
+Dialogue: 0,1:40:05.18,1:40:06.68,Default,,0,0,0,,I've put it all in the report.
+Dialogue: 0,1:40:07.48,1:40:09.81,Default,,0,0,0,,Through the selection campaign,\Nwe picked out players into the national team.
+Dialogue: 0,1:40:09.81,1:40:11.48,Default,,0,0,0,,The rest went into the talent pool.
+Dialogue: 0,1:40:13.11,1:40:14.69,Default,,0,0,0,,Players' list for each competition\Nwas decided by
+Dialogue: 0,1:40:14.69,1:40:15.98,Default,,0,0,0,,head coach, coaching team,
+Dialogue: 0,1:40:15.98,1:40:16.82,Default,,0,0,0,,and team manager,
+Dialogue: 0,1:40:16.82,1:40:18.19,Default,,0,0,0,,through voting.
+Dialogue: 0,1:40:19.61,1:40:21.32,Default,,0,0,0,,Is that so?
+Dialogue: 0,1:40:21.32,1:40:23.32,Default,,0,0,0,,The training plan was made up by you alone.
+Dialogue: 0,1:40:23.32,1:40:24.33,Default,,0,0,0,,But during games,
+Dialogue: 0,1:40:24.33,1:40:25.99,Default,,0,0,0,,you're changing the plan all the time.
+Dialogue: 0,1:40:26.45,1:40:27.66,Default,,0,0,0,,Do you even
+Dialogue: 0,1:40:27.66,1:40:29.66,Default,,0,0,0,,have a serious plan?
+Dialogue: 0,1:40:34.17,1:40:35.17,Default,,0,0,0,,I see that
+Dialogue: 0,1:40:35.17,1:40:36.96,Default,,0,0,0,,there're some questions\Nfor you in the article.
+Dialogue: 0,1:40:36.96,1:40:38.84,Default,,0,0,0,,Where did you get that gold necklace from?
+Dialogue: 0,1:40:39.55,1:40:40.97,Default,,0,0,0,,And the designer suits?
+Dialogue: 0,1:40:42.47,1:40:43.97,Default,,0,0,0,,It is also said that,
+Dialogue: 0,1:40:43.97,1:40:45.68,Default,,0,0,0,,during competitions,
+Dialogue: 0,1:40:45.68,1:40:47.56,Default,,0,0,0,,instead of focusing on\Nstrategies and tactics,
+Dialogue: 0,1:40:47.56,1:40:50.18,Default,,0,0,0,,you spent a lot of time
+Dialogue: 0,1:40:50.18,1:40:51.81,Default,,0,0,0,,grooming your hair everyday.
+Dialogue: 0,1:40:52.98,1:40:54.36,Default,,0,0,0,,Any use of that hairstyle?
+Dialogue: 0,1:40:55.06,1:40:57.19,Default,,0,0,0,,The life of a head coach
+Dialogue: 0,1:40:57.19,1:40:58.69,Default,,0,0,0,,shouldn't be so luxurious.
+Dialogue: 0,1:41:02.07,1:41:02.99,Default,,0,0,0,,Dinner's ready.
+Dialogue: 0,1:41:04.57,1:41:06.20,Default,,0,0,0,,Would you like to join us?
+Dialogue: 0,1:41:06.20,1:41:08.20,Default,,0,0,0,,Check out how luxurious our life is.
+Dialogue: 0,1:41:08.20,1:41:09.41,Default,,0,0,0,,Wang Ying, it's none of your business.
+Dialogue: 0,1:41:09.41,1:41:11.54,Default,,0,0,0,,Rice noodles from Chong Ren.
+Dialogue: 0,1:41:11.54,1:41:13.04,Default,,0,0,0,,Dried bamboo shoots from Lin An.
+Dialogue: 0,1:41:13.04,1:41:14.67,Default,,0,0,0,,Prawns from Xiang Shan.
+Dialogue: 0,1:41:16.04,1:41:18.21,Default,,0,0,0,,This bowl of Sheng Zhou noodles
+Dialogue: 0,1:41:18.21,1:41:19.84,Default,,0,0,0,,is worth more than\Nthose sold in five star hotels.
+Dialogue: 0,1:41:20.42,1:41:21.92,Default,,0,0,0,,How luxurious is that?
+Dialogue: 0,1:41:21.92,1:41:23.34,Default,,0,0,0,,So freaking luxurious.
+Dialogue: 0,1:41:28.85,1:41:29.93,Default,,0,0,0,,Dai, he...
+Dialogue: 0,1:41:31.35,1:41:34.23,Default,,0,0,0,,can barely make it home\Nfor dinner five times a year.
+Dialogue: 0,1:41:36.23,1:41:37.56,Default,,0,0,0,,Next month,
+Dialogue: 0,1:41:37.57,1:41:39.23,Default,,0,0,0,,he'll have a spine surgery.
+Dialogue: 0,1:41:39.86,1:41:41.57,Default,,0,0,0,,There's a chance he may become paralysed.
+Dialogue: 0,1:41:46.37,1:41:47.57,Default,,0,0,0,,Let me ask you,
+Dialogue: 0,1:41:48.58,1:41:49.79,Default,,0,0,0,,if someone like him...
+Dialogue: 0,1:41:56.29,1:41:57.71,Default,,0,0,0,,even someone like him is...
+Dialogue: 0,1:42:03.72,1:42:05.80,Default,,0,0,0,,Then who else
+Dialogue: 0,1:42:07.30,1:42:10.31,Default,,0,0,0,,will be there for the team in tough times.
+Dialogue: 0,1:42:12.73,1:42:13.93,Default,,0,0,0,,Who else
+Dialogue: 0,1:42:14.31,1:42:17.23,Default,,0,0,0,,is willing to be the next Dai Min jia?
+Dialogue: 0,1:42:31.79,1:42:36.08,Default,,0,0,0,,Anesthetic accidental, brain hernia, death,\Nplease confirm all risks above.
+Dialogue: 0,1:42:39.96,1:42:44.46,Default,,0,0,0,,Say dad, see you later.
+Dialogue: 0,1:43:06.70,1:43:08.61,Default,,0,0,0,,He's fine. The surgery went well.
+Dialogue: 0,1:43:27.47,1:43:31.85,Default,,0,0,0,,(Xiamen, Rehabilitation Center)
+Dialogue: 0,1:43:44.86,1:43:45.99,Default,,0,0,0,,Da Li?
+Dialogue: 0,1:43:48.86,1:43:51.07,Default,,0,0,0,,Mi called me back to the Bureau last week.
+Dialogue: 0,1:43:51.99,1:43:54.20,Default,,0,0,0,,He said you were quitting?
+Dialogue: 0,1:43:55.20,1:43:56.41,Default,,0,0,0,,You want to persuade me too?
+Dialogue: 0,1:43:58.54,1:43:59.92,Default,,0,0,0,,You know, Dai.
+Dialogue: 0,1:44:01.04,1:44:02.54,Default,,0,0,0,,I really envy you.
+Dialogue: 0,1:44:03.42,1:44:04.42,Default,,0,0,0,,Envy me?
+Dialogue: 0,1:44:05.55,1:44:06.55,Default,,0,0,0,,Yes.
+Dialogue: 0,1:44:08.05,1:44:09.72,Default,,0,0,0,,What's to envy?
+Dialogue: 0,1:44:10.93,1:44:12.93,Default,,0,0,0,,We are both defeated generals.
+Dialogue: 0,1:44:12.93,1:44:14.43,Default,,0,0,0,,Ended up in the same situation.
+Dialogue: 0,1:44:14.43,1:44:15.35,Default,,0,0,0,,Not the same.
+Dialogue: 0,1:44:15.85,1:44:17.72,Default,,0,0,0,,If I get another chance,\NI'd never back off.
+Dialogue: 0,1:44:22.35,1:44:24.36,Default,,0,0,0,,You said it well when you were appointed.
+Dialogue: 0,1:44:25.57,1:44:27.07,Default,,0,0,0,,Faith dictates everything.
+Dialogue: 0,1:44:27.94,1:44:28.86,Default,,0,0,0,,And what,
+Dialogue: 0,1:44:28.86,1:44:30.24,Default,,0,0,0,,why don't you believe now?
+Dialogue: 0,1:44:32.36,1:44:34.07,Default,,0,0,0,,If winning is that easy,
+Dialogue: 0,1:44:34.95,1:44:36.79,Default,,0,0,0,,what meaning would it have?
+Dialogue: 0,1:44:38.70,1:44:40.41,Default,,0,0,0,,What if I never get\Nto win for the rest of my life?
+Dialogue: 0,1:44:40.41,1:44:43.08,Default,,0,0,0,,Then you'll close your eyes\Nknowing you did your best.
+Dialogue: 0,1:44:49.59,1:44:50.59,Default,,0,0,0,,Losing is terrible.
+Dialogue: 0,1:44:50.93,1:44:52.43,Default,,0,0,0,,But is it as terrible as death?
+Dialogue: 0,1:44:53.30,1:44:54.72,Default,,0,0,0,,You could've died in that surgery.
+Dialogue: 0,1:44:55.60,1:44:57.56,Default,,0,0,0,,You don't even fear death,\Nwhat else can scare you?
+Dialogue: 0,1:45:04.61,1:45:05.73,Default,,0,0,0,,Mr. Xia.
+Dialogue: 0,1:45:10.95,1:45:12.11,Default,,0,0,0,,Your article about Dai Min jia
+Dialogue: 0,1:45:12.11,1:45:13.24,Default,,0,0,0,,was very well written.
+Dialogue: 0,1:45:13.74,1:45:15.07,Default,,0,0,0,,So you understand me.
+Dialogue: 0,1:45:15.07,1:45:16.24,Default,,0,0,0,,I'm really touched.
+Dialogue: 0,1:45:16.83,1:45:17.74,Default,,0,0,0,,I do.
+Dialogue: 0,1:45:18.58,1:45:20.79,Default,,0,0,0,,I've been reporting sports\Nfor so many years.
+Dialogue: 0,1:45:21.96,1:45:23.08,Default,,0,0,0,,My driving motivation
+Dialogue: 0,1:45:23.58,1:45:25.08,Default,,0,0,0,,is to tell the truth,
+Dialogue: 0,1:45:25.08,1:45:28.09,Default,,0,0,0,,and keep those bad actors\Nfrom trampling our national sport.
+Dialogue: 0,1:45:28.09,1:45:29.09,Default,,0,0,0,,You are so right.
+Dialogue: 0,1:45:30.59,1:45:31.67,Default,,0,0,0,,Right, Coach Ni.
+Dialogue: 0,1:45:31.67,1:45:33.18,Default,,0,0,0,,You just mentioned
+Dialogue: 0,1:45:33.18,1:45:34.93,Default,,0,0,0,,something about your team.
+Dialogue: 0,1:45:34.93,1:45:36.09,Default,,0,0,0,,What is it about?
+Dialogue: 0,1:45:36.80,1:45:37.97,Default,,0,0,0,,Is it big?
+Dialogue: 0,1:45:40.98,1:45:42.81,Default,,0,0,0,,Assault and battery big enough?
+Dialogue: 0,1:45:44.69,1:45:46.19,Default,,0,0,0,,No!
+Dialogue: 0,1:45:46.19,1:45:47.44,Default,,0,0,0,,Didn't the team disband?
+Dialogue: 0,1:45:47.44,1:45:48.48,Default,,0,0,0,,There,
+Dialogue: 0,1:45:48.48,1:45:50.32,Default,,0,0,0,,we'll talk inside.
+Dialogue: 0,1:45:50.32,1:45:51.11,Default,,0,0,0,,Get in.
+Dialogue: 0,1:45:53.99,1:45:56.20,Default,,0,0,0,,How dare you!
+Dialogue: 0,1:45:58.33,1:45:59.33,Default,,0,0,0,,Can't hit the ball right.
+Dialogue: 0,1:45:59.33,1:46:00.33,Default,,0,0,0,,Now you hit people?
+Dialogue: 0,1:46:01.33,1:46:02.79,Default,,0,0,0,,Do you know what situation you're in?
+Dialogue: 0,1:46:03.96,1:46:05.17,Default,,0,0,0,,Don't you think the ping pong team
+Dialogue: 0,1:46:05.96,1:46:08.84,Default,,0,0,0,,is in enough trouble as it is?
+Dialogue: 0,1:46:08.84,1:46:10.05,Default,,0,0,0,,Idiots!
+Dialogue: 0,1:46:15.80,1:46:17.55,Default,,0,0,0,,Thanks for being my scapegoat.
+Dialogue: 0,1:46:17.55,1:46:19.18,Default,,0,0,0,,Don't flatter yourself!
+Dialogue: 0,1:46:19.18,1:46:20.18,Default,,0,0,0,,I didn't do it for you.
+Dialogue: 0,1:46:20.56,1:46:21.18,Default,,0,0,0,,Get away from me.
+Dialogue: 0,1:46:21.18,1:46:22.56,Default,,0,0,0,,I hate the smell of your hair wax.
+Dialogue: 0,1:46:23.18,1:46:24.68,Default,,0,0,0,,Regarding the loss in Gothenburg,
+Dialogue: 0,1:46:24.89,1:46:25.85,Default,,0,0,0,,our work in the past two years
+Dialogue: 0,1:46:26.19,1:46:27.98,Default,,0,0,0,,was a failure.
+Dialogue: 0,1:46:32.69,1:46:35.36,Default,,0,0,0,,Mr. Qi and I wanted to help you.
+Dialogue: 0,1:46:36.70,1:46:38.99,Default,,0,0,0,,But there were too many opposing voices.
+Dialogue: 0,1:46:40.08,1:46:42.04,Default,,0,0,0,,The Bureau fought in meetings for two days,
+Dialogue: 0,1:46:42.83,1:46:44.33,Default,,0,0,0,,and the leadership finally decided
+Dialogue: 0,1:46:44.91,1:46:46.71,Default,,0,0,0,,to survey the team members
+Dialogue: 0,1:46:47.21,1:46:49.42,Default,,0,0,0,,and give them the power to select
+Dialogue: 0,1:46:50.42,1:46:51.55,Default,,0,0,0,,the next coaching team.
+Dialogue: 0,1:46:57.93,1:46:58.93,Default,,0,0,0,,Dai Min jia.
+Dialogue: 0,1:46:59.43,1:47:00.72,Default,,0,0,0,,Ni Xiaodong.
+Dialogue: 0,1:47:01.22,1:47:01.93,Default,,0,0,0,,Du Yuancheng.
+Dialogue: 0,1:47:02.56,1:47:03.56,Default,,0,0,0,,Hu Jingting.
+Dialogue: 0,1:47:04.56,1:47:05.43,Default,,0,0,0,,Yin Chao.
+Dialogue: 0,1:47:07.85,1:47:08.85,Default,,0,0,0,,Dai Min jia.
+Dialogue: 0,1:47:09.06,1:47:09.44,Default,,0,0,0,,(Tianjin Haihe Wart)
+Dialogue: 0,1:47:09.44,1:47:10.23,Default,,0,0,0,,Ni Xiaodong.\N(Tianjin Haihe Wart)
+Dialogue: 0,1:47:10.23,1:47:11.06,Default,,0,0,0,,(Tianjin Haihe Wart)
+Dialogue: 0,1:47:11.07,1:47:11.86,Default,,0,0,0,,Hu Jingting.
+Dialogue: 0,1:47:12.07,1:47:12.44,Default,,0,0,0,,(Shanghai Xuhui Post Office)
+Dialogue: 0,1:47:12.44,1:47:13.19,Default,,0,0,0,,Yin Chao.\N(Shanghai Xuhui Post Office)
+Dialogue: 0,1:47:13.19,1:47:13.44,Default,,0,0,0,,(Shanghai Xuhui Post Office)
+Dialogue: 0,1:47:13.69,1:47:14.36,Default,,0,0,0,,(Beijing Training Bureau Dormitory)
+Dialogue: 0,1:47:14.36,1:47:15.19,Default,,0,0,0,,Ni Xiaodong.\N(Beijing Training Bureau Dormitory)
+Dialogue: 0,1:47:15.86,1:47:16.74,Default,,0,0,0,,Hu Jingting.
+Dialogue: 0,1:47:16.90,1:47:17.24,Default,,0,0,0,,(Julich, Germany)
+Dialogue: 0,1:47:17.24,1:47:18.07,Default,,0,0,0,,Du Yuancheng.\N(Julich, Germany)
+Dialogue: 0,1:47:18.28,1:47:18.74,Default,,0,0,0,,(Xinxiang, Henan)
+Dialogue: 0,1:47:18.74,1:47:19.45,Default,,0,0,0,,Yin Chao.\N(Xinxiang, Henan)
+Dialogue: 0,1:47:19.45,1:47:20.74,Default,,0,0,0,,(Xinxiang, Henan)
+Dialogue: 0,1:47:20.74,1:47:22.87,Default,,0,0,0,,(Beijing's Children's Palace)
+Dialogue: 0,1:47:22.87,1:47:23.58,Default,,0,0,0,,Mom.
+Dialogue: 0,1:47:24.70,1:47:26.29,Default,,0,0,0,,I've decided where to go.
+Dialogue: 0,1:47:26.91,1:47:29.88,Default,,0,0,0,,(Harbin, Heilongjiang)
+Dialogue: 0,1:47:36.80,1:47:37.80,Default,,0,0,0,,Head coach,
+Dialogue: 0,1:47:38.43,1:47:39.55,Default,,0,0,0,,Dai Min jia.
+Dialogue: 0,1:47:52.73,1:47:54.32,Default,,0,0,0,,The press called me Dai the Cackler.
+Dialogue: 0,1:47:56.44,1:47:57.44,Default,,0,0,0,,Only talk.
+Dialogue: 0,1:47:58.11,1:47:59.32,Default,,0,0,0,,No result.
+Dialogue: 0,1:48:00.95,1:48:02.45,Default,,0,0,0,,In two years,
+Dialogue: 0,1:48:02.45,1:48:03.74,Default,,0,0,0,,Tianjin World Table Tennis Championships,
+Dialogue: 0,1:48:04.83,1:48:06.29,Default,,0,0,0,,our home court.
+Dialogue: 0,1:48:08.16,1:48:09.46,Default,,0,0,0,,I won't say anything.
+Dialogue: 0,1:48:10.29,1:48:11.29,Default,,0,0,0,,You lead.
+Dialogue: 0,1:48:13.67,1:48:15.59,Default,,0,0,0,,Can we take the Swaythling?
+Dialogue: 0,1:48:15.59,1:48:16.42,Default,,0,0,0,,Yes!
+Dialogue: 0,1:48:16.92,1:48:18.09,Default,,0,0,0,,Can't hear you!
+Dialogue: 0,1:48:18.09,1:48:19.67,Default,,0,0,0,,Yes!
+Dialogue: 0,1:48:20.59,1:48:21.59,Default,,0,0,0,,CCTV.\N(1995, 43rd World Table Tennis Championships)
+Dialogue: 0,1:48:21.59,1:48:22.59,Default,,0,0,0,,TJTV.\N(1995, 43rd World Table Tennis Championships)
+Dialogue: 0,1:48:22.59,1:48:24.60,Default,,0,0,0,,Now, we're live\N(1995, 43rd World Table Tennis Championships)
+Dialogue: 0,1:48:24.60,1:48:26.31,Default,,0,0,0,,From Tianjin Stadium,
+Dialogue: 0,1:48:26.31,1:48:29.93,Default,,0,0,0,,the 43rd World Table Tennis Championships.
+Dialogue: 0,1:48:30.35,1:48:32.98,Default,,0,0,0,,The scale of the game is unprecedented.
+Dialogue: 0,1:48:32.98,1:48:35.82,Default,,0,0,0,,Teams from 124 countries\Nand regions around the globe,
+Dialogue: 0,1:48:35.82,1:48:38.82,Default,,0,0,0,,one thousand and two hundred\Nreporters from all over the world,
+Dialogue: 0,1:48:38.82,1:48:41.32,Default,,0,0,0,,top 100 table tennis players,
+Dialogue: 0,1:48:41.32,1:48:42.99,Default,,0,0,0,,have all gathered in Tianjin.
+Dialogue: 0,1:48:43.95,1:48:46.49,Default,,0,0,0,,Now we're witnessing\Nthe men's group competitions.
+Dialogue: 0,1:48:46.49,1:48:50.04,Default,,0,0,0,,In the past two years,\Nthe Chinese men's team has prepared through hardship.
+Dialogue: 0,1:48:50.04,1:48:52.83,Default,,0,0,0,,They are ready\Nfor this battle here in Tianjin,
+Dialogue: 0,1:48:52.83,1:48:54.50,Default,,0,0,0,,to win back the Swaythling Cup.
+Dialogue: 0,1:48:57.46,1:48:58.34,Default,,0,0,0,,3 to 0!
+Dialogue: 0,1:48:58.34,1:49:00.21,Default,,0,0,0,,Huang Zhao defeated his old rival Saive
+Dialogue: 0,1:49:00.22,1:49:01.84,Default,,0,0,0,,and led his team to victory\Nagainst the Red Devil Belgium team.
+Dialogue: 0,1:49:02.18,1:49:04.72,Default,,0,0,0,,Hou Zhuoxiang's pen hold drives\Nare near perfection.
+Dialogue: 0,1:49:04.72,1:49:06.18,Default,,0,0,0,,Another 3 to 0.
+Dialogue: 0,1:49:06.18,1:49:07.68,Default,,0,0,0,,Overcoming great difficulties,\Nthe Chinese team
+Dialogue: 0,1:49:07.68,1:49:10.23,Default,,0,0,0,,will face their old rival the Korean team.
+Dialogue: 0,1:49:10.56,1:49:12.85,Default,,0,0,0,,The Chinese team tied 2 to 2\Nwith the Korean team.
+Dialogue: 0,1:49:12.85,1:49:13.98,Default,,0,0,0,,Huang Zhao did not let us down.
+Dialogue: 0,1:49:13.98,1:49:15.23,Default,,0,0,0,,He greatly defeated Yoo Namkyu.
+Dialogue: 0,1:49:16.36,1:49:18.23,Default,,0,0,0,,With doctors help,
+Dialogue: 0,1:49:18.23,1:49:19.69,Default,,0,0,0,,Bai Minhe recovered\Nfrom his shoulder injuries
+Dialogue: 0,1:49:19.69,1:49:21.19,Default,,0,0,0,,less than a month ago.
+Dialogue: 0,1:49:21.20,1:49:23.86,Default,,0,0,0,,He's defeated\Nby Kim Taeksoo and Yoo Namkyu.
+Dialogue: 0,1:49:27.99,1:49:30.70,Default,,0,0,0,,Young player Dong Shuai\Nhas gradually exhibited some maturity
+Dialogue: 0,1:49:30.70,1:49:32.04,Default,,0,0,0,,and easily defeated Lee Chulsung.
+Dialogue: 0,1:49:32.54,1:49:34.71,Default,,0,0,0,,If the Chinese team wants to\Nenter the finals on their home court,
+Dialogue: 0,1:49:34.71,1:49:37.00,Default,,0,0,0,,Huang Zhao will have to\Ntake Kim Taeksoo in the fifth set.
+Dialogue: 0,1:49:38.21,1:49:39.05,Default,,0,0,0,,Great shot!
+Dialogue: 0,1:49:39.05,1:49:41.01,Default,,0,0,0,,The Chinese team has\Nonce again entered the finals!
+Dialogue: 0,1:49:41.01,1:49:42.42,Default,,0,0,0,,Again, we are one step away
+Dialogue: 0,1:49:42.42,1:49:43.93,Default,,0,0,0,,from the Swaythling cup!
+Dialogue: 0,1:49:43.93,1:49:44.55,Default,,0,0,0,,Coach Dai.
+Dialogue: 0,1:49:44.55,1:49:46.51,Default,,0,0,0,,The women's team has already taken\Nthe Corbillon Cup.
+Dialogue: 0,1:49:46.51,1:49:49.39,Default,,0,0,0,,Will the men's team retake the Swaythling Cup?\N(May 8th at 4:30 PM)
+Dialogue: 0,1:49:49.39,1:49:52.06,Default,,0,0,0,,Dai!
+Dialogue: 0,1:49:52.06,1:49:53.10,Default,,0,0,0,,Lv Sen!
+Dialogue: 0,1:49:53.10,1:49:54.02,Default,,0,0,0,,You can interview him.
+Dialogue: 0,1:49:54.02,1:49:55.23,Default,,0,0,0,,Go to your dad.
+Dialogue: 0,1:49:55.23,1:49:56.36,Default,,0,0,0,,Don't get rained on.
+Dialogue: 0,1:49:56.36,1:49:57.40,Default,,0,0,0,,My son.
+Dialogue: 0,1:49:57.40,1:49:58.19,Default,,0,0,0,,Come here.
+Dialogue: 0,1:49:59.61,1:50:00.57,Default,,0,0,0,,Look at you all soaked.
+Dialogue: 0,1:50:00.57,1:50:02.07,Default,,0,0,0,,Mom, I hate rain.
+Dialogue: 0,1:50:02.07,1:50:03.36,Default,,0,0,0,,No you don't.
+Dialogue: 0,1:50:03.36,1:50:04.40,Default,,0,0,0,,Water is your dad's lucky element.
+Dialogue: 0,1:50:04.40,1:50:05.86,Default,,0,0,0,,It will bless him with a victory today.
+Dialogue: 0,1:50:08.58,1:50:09.62,Default,,0,0,0,,This time,
+Dialogue: 0,1:50:10.29,1:50:11.58,Default,,0,0,0,,what would you say to me?
+Dialogue: 0,1:50:18.21,1:50:19.42,Default,,0,0,0,,Actually, before today,
+Dialogue: 0,1:50:20.71,1:50:22.59,Default,,0,0,0,,I always secretly wanted you to lose.
+Dialogue: 0,1:50:23.38,1:50:24.59,Default,,0,0,0,,It seemed like the only way
+Dialogue: 0,1:50:24.59,1:50:26.93,Default,,0,0,0,,for you to have more time\Nto be with me and our son.
+Dialogue: 0,1:50:29.43,1:50:30.47,Default,,0,0,0,,But today,
+Dialogue: 0,1:50:31.97,1:50:33.60,Default,,0,0,0,,I really do think you'll win.
+Dialogue: 0,1:50:37.27,1:50:38.11,Default,,0,0,0,,Give dad a kiss.
+Dialogue: 0,1:50:41.78,1:50:43.23,Default,,0,0,0,,(May 8th at 6:30 PM)
+Dialogue: 0,1:50:43.24,1:50:44.28,Default,,0,0,0,,Excuse me.\N(May 8th at 4:30 PM)
+Dialogue: 0,1:50:44.28,1:50:45.90,Default,,0,0,0,,(May 8th at 4:30 PM)
+Dialogue: 0,1:50:47.61,1:50:49.49,Default,,0,0,0,,Coach, he is late again!
+Dialogue: 0,1:50:49.49,1:50:51.12,Default,,0,0,0,,The 11th row!
+Dialogue: 0,1:51:07.84,1:51:08.97,Default,,0,0,0,,CCTV.
+Dialogue: 0,1:51:08.97,1:51:10.30,Default,,0,0,0,,TJTV.
+Dialogue: 0,1:51:10.76,1:51:13.77,Default,,0,0,0,,This is the 43rd World Table Tennis Championships Final.\N(May 8th at 7:59 PM)
+Dialogue: 0,1:51:13.77,1:51:15.48,Default,,0,0,0,,The Chinese team against the Swedish team.\N(May 8th at 7:59 PM)
+Dialogue: 0,1:51:15.48,1:51:16.85,Default,,0,0,0,,(May 8th at 7:59 PM)
+Dialogue: 0,1:51:16.85,1:51:17.81,Default,,0,0,0,,First set.\N(May 8th at 8:00 PM)
+Dialogue: 0,1:51:17.81,1:51:18.77,Default,,0,0,0,,First game.\N(May 8th at 8:00 PM)
+Dialogue: 0,1:51:18.77,1:51:20.31,Default,,0,0,0,,Huang Zhao vs Waldner.\N(May 8th at 8:00 PM)
+Dialogue: 0,1:51:20.31,1:51:21.44,Default,,0,0,0,,(May 8th at 8:00 PM)
+Dialogue: 0,1:51:31.62,1:51:32.62,Default,,0,0,0,,Too bad.
+Dialogue: 0,1:51:35.45,1:51:37.16,Default,,0,0,0,,There are many top notch players worldwide,
+Dialogue: 0,1:51:37.54,1:51:38.96,Default,,0,0,0,,but whether in terms of\Ntechnique, experience,
+Dialogue: 0,1:51:38.96,1:51:40.12,Default,,0,0,0,,or psychology,
+Dialogue: 0,1:51:40.13,1:51:42.46,Default,,0,0,0,,Waldner is the best in all aspects.
+Dialogue: 0,1:51:49.97,1:51:50.51,Default,,0,0,0,,Good hit!
+Dialogue: 0,1:51:51.55,1:51:52.47,Default,,0,0,0,,In past seven years,
+Dialogue: 0,1:51:52.47,1:51:54.85,Default,,0,0,0,,Waldner ranked first in the world 14 times.
+Dialogue: 0,1:51:54.85,1:51:55.72,Default,,0,0,0,,He's the only player
+Dialogue: 0,1:51:55.72,1:51:57.98,Default,,0,0,0,,who has won gold\Nin the Olympic, WTTC, and the World Cup,
+Dialogue: 0,1:51:57.98,1:51:59.98,Default,,0,0,0,,all three top games.
+Dialogue: 0,1:52:05.48,1:52:07.49,Default,,0,0,0,,This backhand cross court was beautiful.
+Dialogue: 0,1:52:12.03,1:52:14.58,Default,,0,0,0,,Huang lost 3 points to Waldner in a row.
+Dialogue: 0,1:52:14.58,1:52:16.54,Default,,0,0,0,,The first set\Nin a world class championship is tough.
+Dialogue: 0,1:52:16.54,1:52:19.04,Default,,0,0,0,,It's a great challenge\Nto the psyche of the player.
+Dialogue: 0,1:52:23.21,1:52:24.04,Default,,0,0,0,,Good shot!
+Dialogue: 0,1:52:24.38,1:52:25.55,Default,,0,0,0,,Huang scored with his serve!
+Dialogue: 0,1:52:26.42,1:52:28.38,Default,,0,0,0,,It is apparent that the coaching team
+Dialogue: 0,1:52:28.38,1:52:29.93,Default,,0,0,0,,has prepared tirelessly\Nfor the opening game.
+Dialogue: 0,1:52:29.93,1:52:32.84,Default,,0,0,0,,Huang Zhao lost to Persson\Nin the thrid set two years ago.
+Dialogue: 0,1:52:32.84,1:52:34.93,Default,,0,0,0,,This time he plays\Nagainst Waldner in the first set.
+Dialogue: 0,1:52:34.93,1:52:36.85,Default,,0,0,0,,It's a huge responsibility.
+Dialogue: 0,1:52:42.56,1:52:43.52,Default,,0,0,0,,21 to 16.
+Dialogue: 0,1:52:43.52,1:52:45.11,Default,,0,0,0,,Waldner won the first game.
+Dialogue: 0,1:52:48.86,1:52:49.86,Default,,0,0,0,,Just play as you always do.
+Dialogue: 0,1:52:49.86,1:52:51.11,Default,,0,0,0,,Not much else to say.
+Dialogue: 0,1:52:53.03,1:52:53.57,Default,,0,0,0,,Second game.
+Dialogue: 0,1:52:53.57,1:52:55.91,Default,,0,0,0,,Huang has grown bold,\Nnow leading with a margin.
+Dialogue: 0,1:53:00.25,1:53:00.96,Default,,0,0,0,,Wonderful!
+Dialogue: 0,1:53:01.37,1:53:02.08,Default,,0,0,0,,What happened?
+Dialogue: 0,1:53:02.08,1:53:03.46,Default,,0,0,0,,Huang signaled\Nthat the ball has touched the net.
+Dialogue: 0,1:53:07.71,1:53:09.76,Default,,0,0,0,,The referee is letting Waldner serve again.
+Dialogue: 0,1:53:10.09,1:53:12.22,Default,,0,0,0,,This was a close call.
+Dialogue: 0,1:53:12.22,1:53:12.97,Default,,0,0,0,,It was supposed to be Huang's point.
+Dialogue: 0,1:53:12.97,1:53:14.47,Default,,0,0,0,,But he voluntarily gave it up.
+Dialogue: 0,1:53:14.47,1:53:17.05,Default,,0,0,0,,Our athlete's ethics are impressive.
+Dialogue: 0,1:53:18.47,1:53:19.81,Default,,0,0,0,,Huang missed the return serve.
+Dialogue: 0,1:53:19.81,1:53:20.93,Default,,0,0,0,,Waldner scores.
+Dialogue: 0,1:53:21.81,1:53:22.98,Default,,0,0,0,,Together with the point that was given up,
+Dialogue: 0,1:53:22.98,1:53:24.98,Default,,0,0,0,,2 points have been wasted.
+Dialogue: 0,1:53:28.28,1:53:29.94,Default,,0,0,0,,Huang's serve.
+Dialogue: 0,1:53:29.94,1:53:31.57,Default,,0,0,0,,He will need to take advantage of it.
+Dialogue: 0,1:53:33.11,1:53:34.61,Default,,0,0,0,,Serve and backhand block!
+Dialogue: 0,1:53:34.61,1:53:35.45,Default,,0,0,0,,Nice!
+Dialogue: 0,1:53:36.33,1:53:37.33,Default,,0,0,0,,Backhand block again.
+Dialogue: 0,1:53:37.74,1:53:38.79,Default,,0,0,0,,The ball didn't cross the line.
+Dialogue: 0,1:53:41.79,1:53:44.58,Default,,0,0,0,,Looks like Huang\Nis still affected by that lost point.
+Dialogue: 0,1:53:44.58,1:53:46.33,Default,,0,0,0,,Waldner has taken the chance\Nand scored several.
+Dialogue: 0,1:53:46.34,1:53:48.46,Default,,0,0,0,,One must keep calm in a big game like this.
+Dialogue: 0,1:53:53.76,1:53:55.14,Default,,0,0,0,,Beautiful, net cord ball!
+Dialogue: 0,1:53:55.14,1:53:56.47,Default,,0,0,0,,This was pure luck.
+Dialogue: 0,1:53:56.47,1:53:58.60,Default,,0,0,0,,Luck has finally come to our side.
+Dialogue: 0,1:53:59.97,1:54:01.98,Default,,0,0,0,,This is the third game, the deciding game.
+Dialogue: 0,1:54:01.98,1:54:02.98,Default,,0,0,0,,From the 8 to 8 tie,
+Dialogue: 0,1:54:02.98,1:54:04.85,Default,,0,0,0,,they tied at 9, 10, 11,
+Dialogue: 0,1:54:04.85,1:54:06.77,Default,,0,0,0,,12, 13, 14,
+Dialogue: 0,1:54:06.77,1:54:08.48,Default,,0,0,0,,16, 17, and 18.
+Dialogue: 0,1:54:08.48,1:54:10.78,Default,,0,0,0,,Now Huang leads 19 to 18.
+Dialogue: 0,1:54:10.78,1:54:11.61,Default,,0,0,0,,Waldner scores.
+Dialogue: 0,1:54:11.61,1:54:13.15,Default,,0,0,0,,It's tied 19 to 19 again.
+Dialogue: 0,1:54:13.15,1:54:14.61,Default,,0,0,0,,The game is so exciting,
+Dialogue: 0,1:54:14.61,1:54:15.99,Default,,0,0,0,,so exhilarating!
+Dialogue: 0,1:54:16.70,1:54:17.99,Default,,0,0,0,,19 tie.
+Dialogue: 0,1:54:17.99,1:54:19.78,Default,,0,0,0,,After 11 ties within one game,
+Dialogue: 0,1:54:19.79,1:54:22.33,Default,,0,0,0,,we come to the key moment.
+Dialogue: 0,1:54:22.33,1:54:23.46,Default,,0,0,0,,Waldner serves.
+Dialogue: 0,1:54:25.46,1:54:26.83,Default,,0,0,0,,Huang blocks with backhand.
+Dialogue: 0,1:54:30.34,1:54:31.34,Default,,0,0,0,,The ball is out.
+Dialogue: 0,1:54:33.05,1:54:34.13,Default,,0,0,0,,20 to 19.
+Dialogue: 0,1:54:34.13,1:54:36.18,Default,,0,0,0,,It's Waldner leading now.
+Dialogue: 0,1:54:37.18,1:54:39.47,Default,,0,0,0,,The match is so exciting\NI can barely breath.
+Dialogue: 0,1:54:39.47,1:54:41.22,Default,,0,0,0,,There are 7 thousand seats\Nin the Tianjin stadium,
+Dialogue: 0,1:54:41.22,1:54:43.56,Default,,0,0,0,,but it's so quiet, one can hear a pin drop.
+Dialogue: 0,1:54:44.56,1:54:46.06,Default,,0,0,0,,I's Wadlner's serve again.
+Dialogue: 0,1:54:46.06,1:54:47.65,Default,,0,0,0,,Huang plays a transitional drive.
+Dialogue: 0,1:54:55.53,1:54:57.20,Default,,0,0,0,,Waldner attacks cross court.
+Dialogue: 0,1:55:06.83,1:55:07.83,Default,,0,0,0,,The shot worked.
+Dialogue: 0,1:55:09.04,1:55:10.21,Default,,0,0,0,,What a pity.
+Dialogue: 0,1:55:10.21,1:55:12.71,Default,,0,0,0,,Huang was two points away from victory.
+Dialogue: 0,1:55:13.55,1:55:15.42,Default,,0,0,0,,The Chinese team is near the precipice.
+Dialogue: 0,1:55:15.42,1:55:17.22,Default,,0,0,0,,If Bai Minhe loses the next set,
+Dialogue: 0,1:55:17.22,1:55:18.89,Default,,0,0,0,,the game is basically over.
+Dialogue: 0,1:55:28.10,1:55:29.23,Default,,0,0,0,,Tie again.
+Dialogue: 0,1:55:29.23,1:55:31.36,Default,,0,0,0,,1, 2, 3, 4, 5 ties.
+Dialogue: 0,1:55:31.36,1:55:33.07,Default,,0,0,0,,Last set there were 9 consecutive ties.
+Dialogue: 0,1:55:33.07,1:55:35.74,Default,,0,0,0,,This set starts with 5.
+Dialogue: 0,1:55:37.90,1:55:39.53,Default,,0,0,0,,Persson stands 1.88 meters tall.
+Dialogue: 0,1:55:39.53,1:55:41.07,Default,,0,0,0,,Against him,\NBai can't afford to turn to his side.
+Dialogue: 0,1:55:41.07,1:55:42.41,Default,,0,0,0,,His hands are tied.
+Dialogue: 0,1:55:50.75,1:55:52.38,Default,,0,0,0,,Good hit! 6 to 5.
+Dialogue: 0,1:55:53.71,1:55:55.80,Default,,0,0,0,,This is the first point scored\Nafter the 5th tie.
+Dialogue: 0,1:56:03.22,1:56:04.39,Default,,0,0,0,,20-20 tie.
+Dialogue: 0,1:56:09.60,1:56:10.77,Default,,0,0,0,,21-21 tie.
+Dialogue: 0,1:56:15.11,1:56:15.98,Default,,0,0,0,,22-22 tie.
+Dialogue: 0,1:56:15.98,1:56:17.57,Default,,0,0,0,,The game is entering the white-hot stage.
+Dialogue: 0,1:56:18.90,1:56:20.74,Default,,0,0,0,,Persson has got the game point.
+Dialogue: 0,1:56:21.91,1:56:22.95,Default,,0,0,0,,Serve and attack.
+Dialogue: 0,1:56:22.95,1:56:24.12,Default,,0,0,0,,Bai returns.
+Dialogue: 0,1:56:24.12,1:56:25.12,Default,,0,0,0,,The ball is out.
+Dialogue: 0,1:56:25.95,1:56:27.45,Default,,0,0,0,,22 to 24.
+Dialogue: 0,1:56:27.45,1:56:29.16,Default,,0,0,0,,It's like the third game\Nof Huang Zhao's first set.
+Dialogue: 0,1:56:29.58,1:56:31.25,Default,,0,0,0,,Bai Minhe lost the first game
+Dialogue: 0,1:56:31.25,1:56:32.79,Default,,0,0,0,,of the second set by 2 points.
+Dialogue: 0,1:56:34.09,1:56:35.17,Default,,0,0,0,,CCTV.
+Dialogue: 0,1:56:35.17,1:56:38.26,Default,,0,0,0,,This is the final\Nof the 43rd World Table Tennis Championships.
+Dialogue: 0,1:56:38.26,1:56:39.80,Default,,0,0,0,,The Chinese team is behind on set scores.
+Dialogue: 0,1:56:40.76,1:56:41.84,Default,,0,0,0,,The second game of the second set.
+Dialogue: 0,1:56:41.84,1:56:43.85,Default,,0,0,0,,Bai is now 4 points behind.
+Dialogue: 0,1:56:43.85,1:56:45.85,Default,,0,0,0,,The Chinese team is nearing the precipice.
+Dialogue: 0,1:56:45.85,1:56:47.35,Default,,0,0,0,,They are at a great disadvantage.
+Dialogue: 0,1:56:49.68,1:56:50.48,Default,,0,0,0,,Wait.
+Dialogue: 0,1:56:50.48,1:56:52.60,Default,,0,0,0,,What is the referee saying?
+Dialogue: 0,1:56:57.78,1:56:58.99,Default,,0,0,0,,Bai Minhe, what's up with you?
+Dialogue: 0,1:57:01.20,1:57:02.78,Default,,0,0,0,,Stop it!\NHis shoulder injury is still recovering.
+Dialogue: 0,1:57:02.78,1:57:04.37,Default,,0,0,0,,What's wrong with Bai?
+Dialogue: 0,1:57:04.78,1:57:05.99,Default,,0,0,0,,Bai Minhe!
+Dialogue: 0,1:57:06.87,1:57:07.70,Default,,0,0,0,,Go!
+Dialogue: 0,1:57:08.20,1:57:09.54,Default,,0,0,0,,Bai Minhe, go!
+Dialogue: 0,1:57:10.33,1:57:13.33,Default,,0,0,0,,Bai Minhe, go!
+Dialogue: 0,1:57:16.34,1:57:17.67,Default,,0,0,0,,Go!
+Dialogue: 0,1:57:36.36,1:57:37.69,Default,,0,0,0,,Loop rallies!
+Dialogue: 0,1:57:37.69,1:57:40.57,Default,,0,0,0,,Bai has beaten Persson\Nwith Persson's own specialty.
+Dialogue: 0,1:57:41.32,1:57:43.03,Default,,0,0,0,,The score is now 20 to 18.
+Dialogue: 0,1:57:43.03,1:57:44.49,Default,,0,0,0,,Bat's got the game point.
+Dialogue: 0,1:57:45.24,1:57:46.53,Default,,0,0,0,,Good shot!
+Dialogue: 0,1:57:51.20,1:57:52.83,Default,,0,0,0,,Bai is on a streak.
+Dialogue: 0,1:57:52.83,1:57:54.71,Default,,0,0,0,,He has won a game back.
+Dialogue: 0,1:57:54.71,1:57:57.42,Default,,0,0,0,,There had been\N26 ties in the first two sets.
+Dialogue: 0,1:57:57.42,1:57:59.21,Default,,0,0,0,,The game is weighing on the players.
+Dialogue: 0,1:57:59.21,1:58:00.88,Default,,0,0,0,,Now comes the deciding game.
+Dialogue: 0,1:58:02.34,1:58:03.09,Default,,0,0,0,,Nice!
+Dialogue: 0,1:58:03.09,1:58:04.88,Default,,0,0,0,,21 to 16.
+Dialogue: 0,1:58:04.88,1:58:06.43,Default,,0,0,0,,Bai won the third game,
+Dialogue: 0,1:58:06.43,1:58:08.35,Default,,0,0,0,,leveling the playing field again.
+Dialogue: 0,1:58:20.23,1:58:21.73,Default,,0,0,0,,The set score is 1 to 1.
+Dialogue: 0,1:58:21.74,1:58:23.74,Default,,0,0,0,,The third set begins.
+Dialogue: 0,1:58:23.74,1:58:25.74,Default,,0,0,0,,Karlsson from the Swedish team
+Dialogue: 0,1:58:25.74,1:58:27.45,Default,,0,0,0,,is facing Gong Feng from China.
+Dialogue: 0,1:58:27.45,1:58:29.03,Default,,0,0,0,,The Swedes know you play chop,
+Dialogue: 0,1:58:29.74,1:58:30.87,Default,,0,0,0,,but they don't know you can attack.
+Dialogue: 0,1:58:31.91,1:58:34.25,Default,,0,0,0,,You were buried for four years,\Ndidn't play in any high-profile competitions.
+Dialogue: 0,1:58:34.25,1:58:35.58,Default,,0,0,0,,It's all for this day.
+Dialogue: 0,1:58:36.96,1:58:37.96,Default,,0,0,0,,Kill him dead.
+Dialogue: 0,1:58:40.80,1:58:45.30,Default,,0,0,0,,Chen Wen, send the orders to table six, fast!\NOtherwise, you take care of our son!
+Dialogue: 0,1:58:49.60,1:58:50.72,Default,,0,0,0,,Chen Wen.
+Dialogue: 0,1:58:50.72,1:58:54.60,Default,,0,0,0,,Chen Wen, stop staring at the TV.
+Dialogue: 0,1:59:03.11,1:59:04.57,Default,,0,0,0,,Chen Wen!
+Dialogue: 0,1:59:04.57,1:59:06.45,Default,,0,0,0,,Chen Wen, what the hell\Nare you doing there?
+Dialogue: 0,1:59:06.82,1:59:08.57,Default,,0,0,0,,Make your mom proud!
+Dialogue: 0,1:59:11.49,1:59:12.66,Default,,0,0,0,,Karlsson's service.
+Dialogue: 0,1:59:12.66,1:59:13.83,Default,,0,0,0,,One stroke,
+Dialogue: 0,1:59:13.83,1:59:14.79,Default,,0,0,0,,go long.
+Dialogue: 0,1:59:14.79,1:59:15.96,Default,,0,0,0,,Gong fast attack,
+Dialogue: 0,1:59:15.96,1:59:16.83,Default,,0,0,0,,good hit.
+Dialogue: 0,1:59:19.46,1:59:21.67,Default,,0,0,0,,From the expression,\NKarlsson's very surprised.
+Dialogue: 0,1:59:22.25,1:59:24.13,Default,,0,0,0,,Gong uses forehand inverted, backhand pips.
+Dialogue: 0,1:59:24.13,1:59:25.80,Default,,0,0,0,,His style, adding attack into chop,
+Dialogue: 0,1:59:25.80,1:59:28.13,Default,,0,0,0,,is something Karlsson\Nhas never seen in his career.
+Dialogue: 0,1:59:28.13,1:59:29.34,Default,,0,0,0,,Gong's service.
+Dialogue: 0,1:59:29.34,1:59:30.60,Default,,0,0,0,,Return serve missed.
+Dialogue: 0,1:59:36.48,1:59:37.85,Default,,0,0,0,,Gong's service again.
+Dialogue: 0,1:59:43.32,1:59:44.48,Default,,0,0,0,,Gong serves.
+Dialogue: 0,1:59:45.11,1:59:46.15,Default,,0,0,0,,Karlsson missed.
+Dialogue: 0,1:59:46.15,1:59:47.78,Default,,0,0,0,,Gong scored on service.
+Dialogue: 0,1:59:47.78,1:59:49.78,Default,,0,0,0,,Karlsson looks lost.
+Dialogue: 0,1:59:49.78,1:59:51.78,Default,,0,0,0,,Gong is like a magician.
+Dialogue: 0,1:59:51.78,1:59:54.16,Default,,0,0,0,,4 out of the first\N9 points were scored with services.
+Dialogue: 0,1:59:54.16,1:59:56.29,Default,,0,0,0,,Every now and then we see players\Nencounter techniques that they just can't handle,
+Dialogue: 0,1:59:56.29,1:59:58.96,Default,,0,0,0,,but this is an extreme case.
+Dialogue: 0,1:59:58.96,2:00:00.33,Default,,0,0,0,,Gong's service again.
+Dialogue: 0,2:00:00.33,2:00:01.33,Default,,0,0,0,,Out!
+Dialogue: 0,2:00:01.33,2:00:02.96,Default,,0,0,0,,Karlsson's out again.
+Dialogue: 0,2:00:02.96,2:00:04.84,Default,,0,0,0,,The audience are learning.
+Dialogue: 0,2:00:04.84,2:00:06.84,Default,,0,0,0,,They yell "Out" right after Gong serves.
+Dialogue: 0,2:00:07.22,2:00:09.05,Default,,0,0,0,,Predictably, Karlsson's out again.
+Dialogue: 0,2:00:11.01,2:00:12.72,Default,,0,0,0,,This is getting interesting.
+Dialogue: 0,2:00:13.56,2:00:15.01,Default,,0,0,0,,It's Gong's service again.
+Dialogue: 0,2:00:15.01,2:00:16.22,Default,,0,0,0,,Net!
+Dialogue: 0,2:00:16.22,2:00:16.85,Default,,0,0,0,,Damn!
+Dialogue: 0,2:00:16.85,2:00:19.06,Default,,0,0,0,,This time the audience is yelling "net!"
+Dialogue: 0,2:00:19.06,2:00:20.85,Default,,0,0,0,,And unsurprisingly Karlsson\Nhas hit the net.
+Dialogue: 0,2:00:22.73,2:00:23.86,Default,,0,0,0,,Third set, first game.
+Dialogue: 0,2:00:23.86,2:00:26.48,Default,,0,0,0,,Gong's got the game point with 20 to 14.
+Dialogue: 0,2:00:27.99,2:00:28.86,Default,,0,0,0,,Karlsson serves,
+Dialogue: 0,2:00:28.86,2:00:29.74,Default,,0,0,0,,Gong chops.
+Dialogue: 0,2:00:30.20,2:00:31.70,Default,,0,0,0,,Karlsson lost it again!
+Dialogue: 0,2:00:37.54,2:00:38.20,Default,,0,0,0,,You know,
+Dialogue: 0,2:00:38.20,2:00:39.21,Default,,0,0,0,,out of all these players,
+Dialogue: 0,2:00:39.21,2:00:40.54,Default,,0,0,0,,this guy is the one
+Dialogue: 0,2:00:40.54,2:00:41.83,Default,,0,0,0,,I have the most confidence in.
+Dialogue: 0,2:00:42.38,2:00:44.50,Default,,0,0,0,,The most feared man
+Dialogue: 0,2:00:44.50,2:00:46.88,Default,,0,0,0,,is the one that lives in his own world.
+Dialogue: 0,2:00:49.84,2:00:52.43,Default,,0,0,0,,This was nothing like how we trained.
+Dialogue: 0,2:00:52.43,2:00:53.72,Default,,0,0,0,,He's bewildering.
+Dialogue: 0,2:00:53.72,2:00:54.72,Default,,0,0,0,,Keep chopping with no spin.
+Dialogue: 0,2:00:54.72,2:00:55.89,Default,,0,0,0,,He's going to fall for it still.
+Dialogue: 0,2:00:55.89,2:00:57.10,Default,,0,0,0,,Get him already!
+Dialogue: 0,2:00:57.35,2:00:59.73,Default,,0,0,0,,Gong Feng, teach him the lesson!
+Dialogue: 0,2:01:01.90,2:01:03.10,Default,,0,0,0,,The second game, 5 to 0.
+Dialogue: 0,2:01:03.10,2:01:04.23,Default,,0,0,0,,Gong's ahead.
+Dialogue: 0,2:01:04.23,2:01:06.73,Default,,0,0,0,,In the last game, Gong scored 6 points\Nwith services alone.
+Dialogue: 0,2:01:06.73,2:01:09.07,Default,,0,0,0,,Karlsson is claimed to be the successor\Nof Waldner as the future King of Ping Pong.
+Dialogue: 0,2:01:09.07,2:01:11.86,Default,,0,0,0,,He'll have an edge\Nover any of our other players,
+Dialogue: 0,2:01:11.86,2:01:14.57,Default,,0,0,0,,but Gong Feng has him completely baffled.
+Dialogue: 0,2:01:17.74,2:01:18.58,Default,,0,0,0,,Backhand chop,
+Dialogue: 0,2:01:18.58,2:01:19.70,Default,,0,0,0,,change to forehand.
+Dialogue: 0,2:01:19.70,2:01:20.37,Default,,0,0,0,,Good hit!
+Dialogue: 0,2:01:22.37,2:01:24.21,Default,,0,0,0,,Unlike any other conventional chop players,
+Dialogue: 0,2:01:24.21,2:01:26.21,Default,,0,0,0,,Gong's true power shot is not the chop,
+Dialogue: 0,2:01:26.21,2:01:27.38,Default,,0,0,0,,but the attack.
+Dialogue: 0,2:01:27.38,2:01:28.30,Default,,0,0,0,,6 to 0.
+Dialogue: 0,2:01:29.26,2:01:30.26,Default,,0,0,0,,Gong's service.
+Dialogue: 0,2:01:30.26,2:01:30.97,Default,,0,0,0,,Score again!
+Dialogue: 0,2:01:31.38,2:01:32.59,Default,,0,0,0,,Pride of our post office!
+Dialogue: 0,2:01:33.09,2:01:34.22,Default,,0,0,0,,17 to 8.
+Dialogue: 0,2:01:34.22,2:01:36.60,Default,,0,0,0,,Karlsson again lost 6 points\Non return serves.
+Dialogue: 0,2:01:36.60,2:01:37.56,Default,,0,0,0,,Gong Feng, fending.
+Dialogue: 0,2:01:37.56,2:01:39.97,Default,,0,0,0,,He's easily fending Karlsson off today!
+Dialogue: 0,2:01:45.90,2:01:46.77,Default,,0,0,0,,Don't pull any crap, Gong!
+Dialogue: 0,2:01:46.77,2:01:47.77,Default,,0,0,0,,Play to your advantage!
+Dialogue: 0,2:01:50.32,2:01:51.28,Default,,0,0,0,,What did he just do?
+Dialogue: 0,2:01:51.99,2:01:52.82,Default,,0,0,0,,Can't you tell?
+Dialogue: 0,2:01:52.82,2:01:53.82,Default,,0,0,0,,He's got it.
+Dialogue: 0,2:01:53.82,2:01:55.07,Default,,0,0,0,,Score is now 20 to 11.
+Dialogue: 0,2:01:55.07,2:01:57.45,Default,,0,0,0,,Gong's got the match point.\NA win is in the cards.
+Dialogue: 0,2:01:57.45,2:02:00.66,Default,,0,0,0,,This is a match\Nthat will end up in the history books.
+Dialogue: 0,2:02:00.66,2:02:01.66,Default,,0,0,0,,The success of Gong Feng
+Dialogue: 0,2:02:01.66,2:02:04.79,Default,,0,0,0,,wouldn't happen\Nwithout our talent building system,
+Dialogue: 0,2:02:04.79,2:02:08.46,Default,,0,0,0,,and the numerous unsung heroes\Ndevoting themselves.
+Dialogue: 0,2:02:27.77,2:02:29.98,Default,,0,0,0,,Honey!
+Dialogue: 0,2:02:30.48,2:02:31.32,Default,,0,0,0,,What is it?
+Dialogue: 0,2:02:31.99,2:02:32.78,Default,,0,0,0,,Well, I heard that,
+Dialogue: 0,2:02:33.19,2:02:35.49,Default,,0,0,0,,Chen Wen used to be\Na table tennis player before.
+Dialogue: 0,2:02:37.16,2:02:39.66,Default,,0,0,0,,Honey I won too!
+Dialogue: 0,2:02:44.83,2:02:45.67,Default,,0,0,0,,Bai.
+Dialogue: 0,2:02:46.12,2:02:48.84,Default,,0,0,0,,I enjoyed each of our games.
+Dialogue: 0,2:02:48.84,2:02:52.21,Default,,0,0,0,,I hope our games tonight\Nwill stand the test of time.
+Dialogue: 0,2:02:54.34,2:02:55.55,Default,,0,0,0,,They will.
+Dialogue: 0,2:03:06.48,2:03:08.69,Default,,0,0,0,,21 to 17.
+Dialogue: 0,2:03:08.69,2:03:11.69,Default,,0,0,0,,Waldner won against\NBai Minhe, 2 games to 1.
+Dialogue: 0,2:03:11.90,2:03:14.74,Default,,0,0,0,,The last set will start\Nin five minutes after break.
+Dialogue: 0,2:03:14.74,2:03:16.24,Default,,0,0,0,,Give us the room.
+Dialogue: 0,2:03:16.24,2:03:18.49,Default,,0,0,0,,Huang Zhao from China\Nagainst Persson from Sweden.
+Dialogue: 0,2:03:27.42,2:03:29.50,Default,,0,0,0,,The final match is about to start.
+Dialogue: 0,2:03:29.50,2:03:31.92,Default,,0,0,0,,We have been waiting for\Nthis moment for two whole years.
+Dialogue: 0,2:03:58.74,2:03:59.57,Default,,0,0,0,,Serve attack,
+Dialogue: 0,2:03:59.57,2:04:00.41,Default,,0,0,0,,one more hit!
+Dialogue: 0,2:04:00.41,2:04:01.12,Default,,0,0,0,,Good shot!
+Dialogue: 0,2:04:01.12,2:04:02.53,Default,,0,0,0,,Huang Zhao scores again!
+Dialogue: 0,2:04:03.08,2:04:04.41,Default,,0,0,0,,A chance for Huang Zhao!
+Dialogue: 0,2:04:04.70,2:04:06.29,Default,,0,0,0,,What a pity! It's out.
+Dialogue: 0,2:04:07.71,2:04:08.96,Default,,0,0,0,,Persson scored three points in a row.
+Dialogue: 0,2:04:08.96,2:04:10.38,Default,,0,0,0,,Huang Zhao is at a disadvantage.
+Dialogue: 0,2:04:10.38,2:04:12.59,Default,,0,0,0,,That was a good chance.\NBut Persson missed it.
+Dialogue: 0,2:04:12.59,2:04:13.71,Default,,0,0,0,,It is a lucky one!
+Dialogue: 0,2:04:13.71,2:04:15.05,Default,,0,0,0,,Huang Zhao seventh hit!
+Dialogue: 0,2:04:15.05,2:04:16.26,Default,,0,0,0,,Huang Zhao eighth hit!
+Dialogue: 0,2:04:16.26,2:04:16.96,Default,,0,0,0,,Yes!
+Dialogue: 0,2:04:28.10,2:04:29.81,Default,,0,0,0,,What's the score now?
+Dialogue: 0,2:04:29.81,2:04:31.44,Default,,0,0,0,,Why don't you go watch it yourself?
+Dialogue: 0,2:04:46.79,2:04:47.91,Default,,0,0,0,,Backhand cross court.
+Dialogue: 0,2:04:47.91,2:04:48.83,Default,,0,0,0,,What a pity.
+Dialogue: 0,2:04:49.29,2:04:50.25,Default,,0,0,0,,That was a great chance,
+Dialogue: 0,2:04:50.25,2:04:51.17,Default,,0,0,0,,but it's lost.
+Dialogue: 0,2:04:53.46,2:04:54.84,Default,,0,0,0,,Persson is a giant.
+Dialogue: 0,2:04:54.84,2:04:56.09,Default,,0,0,0,,One step forward
+Dialogue: 0,2:04:56.09,2:04:57.59,Default,,0,0,0,,and the ball would land near the net.
+Dialogue: 0,2:04:58.34,2:04:59.47,Default,,0,0,0,,Persson scored twice in a row.
+Dialogue: 0,2:05:04.18,2:05:05.26,Default,,0,0,0,,What's the score?
+Dialogue: 0,2:05:06.47,2:05:08.60,Default,,0,0,0,,Well, how bad is our son losing?
+Dialogue: 0,2:05:08.60,2:05:10.18,Default,,0,0,0,,Why are you crying?
+Dialogue: 0,2:05:10.18,2:05:12.14,Default,,0,0,0,,Which game is it now?
+Dialogue: 0,2:05:12.15,2:05:13.31,Default,,0,0,0,,What's the score?
+Dialogue: 0,2:05:13.31,2:05:15.19,Default,,0,0,0,,Since the very beginning,
+Dialogue: 0,2:05:15.19,2:05:17.19,Default,,0,0,0,,our son has not been behind!
+Dialogue: 0,2:05:17.19,2:05:19.11,Default,,0,0,0,,One more point to win!
+Dialogue: 0,2:05:21.99,2:05:23.28,Default,,0,0,0,,Sal
+Dialogue: 0,2:05:24.32,2:05:25.49,Default,,0,0,0,,20 to 10.
+Dialogue: 0,2:05:25.49,2:05:26.62,Default,,0,0,0,,Victory is in sight.
+Dialogue: 0,2:05:26.62,2:05:27.70,Default,,0,0,0,,One more point for the Chinese team,
+Dialogue: 0,2:05:27.70,2:05:28.83,Default,,0,0,0,,then the match will be over!
+Dialogue: 0,2:05:40.72,2:05:42.84,Default,,0,0,0,,The score is now 20 to 10.
+Dialogue: 0,2:05:42.84,2:05:43.84,Default,,0,0,0,,But be patient.
+Dialogue: 0,2:05:43.84,2:05:45.01,Default,,0,0,0,,Before someone reaches 21,
+Dialogue: 0,2:05:45.01,2:05:46.55,Default,,0,0,0,,the game is still on.
+Dialogue: 0,2:05:47.35,2:05:48.72,Default,,0,0,0,,Persson's turn to serve,
+Dialogue: 0,2:05:48.72,2:05:49.97,Default,,0,0,0,,10 to 20.
+Dialogue: 0,2:05:50.56,2:05:52.23,Default,,0,0,0,,Huang Zhao's return didn't pass.
+Dialogue: 0,2:05:54.02,2:05:54.85,Default,,0,0,0,,Persson serves.
+Dialogue: 0,2:05:54.85,2:05:55.98,Default,,0,0,0,,11 to 20.
+Dialogue: 0,2:05:56.56,2:05:57.73,Default,,0,0,0,,Two years ago, in Gothenburg,
+Dialogue: 0,2:05:57.73,2:05:59.48,Default,,0,0,0,,Huang lost to Persson.
+Dialogue: 0,2:05:59.48,2:06:01.57,Default,,0,0,0,,Today, there are 10 match points\Nfor him to avenge himself.
+Dialogue: 0,2:06:02.70,2:06:04.24,Default,,0,0,0,,Don't rush, Huang!
+Dialogue: 0,2:06:06.03,2:06:07.49,Default,,0,0,0,,Huang pushes.
+Dialogue: 0,2:06:07.49,2:06:08.49,Default,,0,0,0,,Persson hits a straight line.
+Dialogue: 0,2:06:08.49,2:06:09.37,Default,,0,0,0,,Nice one.
+Dialogue: 0,2:06:09.37,2:06:10.70,Default,,0,0,0,,12 to 20.
+Dialogue: 0,2:06:10.70,2:06:12.50,Default,,0,0,0,,In the final game of the first set,
+Dialogue: 0,2:06:12.50,2:06:15.54,Default,,0,0,0,,Huang was surpassed by Waldy 19 to 18.
+Dialogue: 0,2:06:15.54,2:06:18.71,Default,,0,0,0,,Now his psyche is being tested again.
+Dialogue: 0,2:06:18.71,2:06:19.75,Default,,0,0,0,,In a ping pong game,\Nnot one point comes easily.
+Dialogue: 0,2:06:19.75,2:06:21.17,Default,,0,0,0,,In a ping pong game,\Nnot one point comes easily.
+Dialogue: 0,2:06:21.17,2:06:23.55,Default,,0,0,0,,Huang deliberately slowed his pace down\Nto stablize.
+Dialogue: 0,2:06:25.68,2:06:26.55,Default,,0,0,0,,Persson's service.
+Dialogue: 0,2:06:27.22,2:06:28.22,Default,,0,0,0,,Huang pushes.
+Dialogue: 0,2:06:28.72,2:06:30.43,Default,,0,0,0,,Persson attacks twice in a row.
+Dialogue: 0,2:06:30.43,2:06:31.56,Default,,0,0,0,,13 to 20.
+Dialogue: 0,2:06:35.23,2:06:36.02,Default,,0,0,0,,Huang's return
+Dialogue: 0,2:06:36.02,2:06:37.23,Default,,0,0,0,,didn't pass again.
+Dialogue: 0,2:06:37.23,2:06:38.52,Default,,0,0,0,,13 to 20.
+Dialogue: 0,2:06:38.52,2:06:40.86,Default,,0,0,0,,The more critical the moment,\Nthe more important it is to keep calm!
+Dialogue: 0,2:07:05.09,2:07:06.55,Default,,0,0,0,,Persson serves.
+Dialogue: 0,2:07:14.23,2:07:16.23,Default,,0,0,0,,Huang forehand pushes a long ball.
+Dialogue: 0,2:07:22.73,2:07:24.23,Default,,0,0,0,,Persson goes sideways.
+Dialogue: 0,2:07:26.49,2:07:27.61,Default,,0,0,0,,One attacking hit.
+Dialogue: 0,2:07:31.45,2:07:33.58,Default,,0,0,0,,Huang backhand around the table corner.
+Dialogue: 0,2:07:36.58,2:07:38.79,Default,,0,0,0,,Persson returns, not a good shot.
+Dialogue: 0,2:07:42.59,2:07:43.96,Default,,0,0,0,,Huang Zhao is back.
+Dialogue: 0,2:07:44.59,2:07:46.47,Default,,0,0,0,,Another shot.
+Dialogue: 0,2:07:47.97,2:07:49.30,Default,,0,0,0,,This is his killer technique.
+Dialogue: 0,2:07:49.30,2:07:50.80,Default,,0,0,0,,Forehand fast attack!
+Dialogue: 0,2:08:01.19,2:08:03.48,Default,,0,0,0,,Beautiful!
+Dialogue: 0,2:08:03.48,2:08:04.98,Default,,0,0,0,,What a great victory!
+Dialogue: 0,2:08:04.98,2:08:06.69,Default,,0,0,0,,What a triumph!
+Dialogue: 0,2:08:06.69,2:08:09.82,Default,,0,0,0,,Huang defeated Persson 2 to 0.
+Dialogue: 0,2:08:09.82,2:08:12.12,Default,,0,0,0,,The Chinese team has defeated\Nthe Swedish team
+Dialogue: 0,2:08:12.12,2:08:14.54,Default,,0,0,0,,with 3 to 2 in today's match.
+Dialogue: 0,2:08:14.54,2:08:15.95,Default,,0,0,0,,After eight years,
+Dialogue: 0,2:08:15.95,2:08:18.21,Default,,0,0,0,,through the hard work of generations\Nof Chinese ping pong players,
+Dialogue: 0,2:08:18.21,2:08:21.29,Default,,0,0,0,,the Chinese men's ping pong team\Nhas returned to the top
+Dialogue: 0,2:08:21.29,2:08:25.34,Default,,0,0,0,,and won the Swaythling Cup\Nfor the 11th time!
+Dialogue: 0,2:08:26.30,2:08:27.72,Default,,0,0,0,,Since the establishment of the PRC,
+Dialogue: 0,2:08:27.72,2:08:29.97,Default,,0,0,0,,with great support from the Party\Nand the country,
+Dialogue: 0,2:08:29.97,2:08:33.55,Default,,0,0,0,,the Chinese ping pong team grew\Nfrom weak to strong.
+Dialogue: 0,2:08:33.55,2:08:35.85,Default,,0,0,0,,The victory belongs\Nnot only to Chinese ping pong,
+Dialogue: 0,2:08:35.85,2:08:38.85,Default,,0,0,0,,but also the whole nation.
+Dialogue: 0,2:08:54.87,2:08:55.99,Default,,0,0,0,,Next question.
+Dialogue: 0,2:08:58.41,2:08:59.41,Default,,0,0,0,,Here, please.
+Dialogue: 0,2:09:00.00,2:09:00.54,Default,,0,0,0,,Here, please.
+Dialogue: 0,2:09:00.54,2:09:01.83,Default,,0,0,0,,Hello Huang Zhao.
+Dialogue: 0,2:09:01.83,2:09:03.33,Default,,0,0,0,,The whole world wants to know.
+Dialogue: 0,2:09:03.33,2:09:04.54,Default,,0,0,0,,Before the fifth set,
+Dialogue: 0,2:09:04.54,2:09:06.71,Default,,0,0,0,,what did Coach Dai say to you?
+Dialogue: 0,2:09:11.22,2:09:12.55,Default,,0,0,0,,What did I say?
+Dialogue: 0,2:09:20.56,2:09:22.23,Default,,0,0,0,,For all these years,
+Dialogue: 0,2:09:27.94,2:09:29.74,Default,,0,0,0,,we got up at 6:10 in the morning.
+Dialogue: 0,2:09:32.57,2:09:34.91,Default,,0,0,0,,We trained when the Swedes\Nwere having breakfast.
+Dialogue: 0,2:09:37.12,2:09:39.79,Default,,0,0,0,,We trained when the Swedes\Nwere having afternoon tea.
+Dialogue: 0,2:09:41.79,2:09:43.79,Default,,0,0,0,,When the Swedes go to trips,
+Dialogue: 0,2:09:43.79,2:09:46.29,Default,,0,0,0,,to vacation, to ski,
+Dialogue: 0,2:09:46.92,2:09:48.71,Default,,0,0,0,,we trained.
+Dialogue: 0,2:09:50.59,2:09:52.97,Default,,0,0,0,,Maybe they trained a thousand hours.
+Dialogue: 0,2:09:54.72,2:09:57.22,Default,,0,0,0,,But we trained ten thousand hours.
+Dialogue: 0,2:10:00.22,2:10:03.73,Default,,0,0,0,,I've been to so many countries and cities.
+Dialogue: 0,2:10:05.73,2:10:07.57,Default,,0,0,0,,The Chinese
+Dialogue: 0,2:10:08.94,2:10:10.44,Default,,0,0,0,,are the most diligent people.
+Dialogue: 0,2:10:10.44,2:10:11.24,Default,,0,0,0,,Keep going!
+Dialogue: 0,2:10:11.24,2:10:12.32,Default,,0,0,0,,Go for it!
+Dialogue: 0,2:10:12.32,2:10:13.32,Default,,0,0,0,,Keep up!
+Dialogue: 0,2:10:13.32,2:10:14.82,Default,,0,0,0,,Don't stop!
+Dialogue: 0,2:10:14.82,2:10:16.28,Default,,0,0,0,,You two, see how Bat's doing!
+Dialogue: 0,2:10:16.28,2:10:16.91,Default,,0,0,0,,Speed up!
+Dialogue: 0,2:10:17.62,2:10:18.99,Default,,0,0,0,,Undoubtedly.
+Dialogue: 0,2:10:23.75,2:10:25.08,Default,,0,0,0,,I was wrong.
+Dialogue: 0,2:10:25.33,2:10:26.79,Default,,0,0,0,,Your opponents
+Dialogue: 0,2:10:27.59,2:10:29.09,Default,,0,0,0,,are not them.
+Dialogue: 0,2:10:31.80,2:10:33.47,Default,,0,0,0,,Nobody lives forever.
+Dialogue: 0,2:10:33.97,2:10:35.34,Default,,0,0,0,,But today,
+Dialogue: 0,2:10:35.34,2:10:37.60,Default,,0,0,0,,what you did tonight
+Dialogue: 0,2:10:39.10,2:10:40.47,Default,,0,0,0,,will make a difference
+Dialogue: 0,2:10:41.85,2:10:43.60,Default,,0,0,0,,for the people after you.
+Dialogue: 0,2:10:48.31,2:10:49.82,Default,,0,0,0,,Win or lose
+Dialogue: 0,2:10:51.28,2:10:52.36,Default,,0,0,0,,is not important.
+Dialogue: 0,2:10:53.69,2:10:54.70,Default,,0,0,0,,Forget all that.
+Dialogue: 0,2:10:55.70,2:10:56.82,Default,,0,0,0,,Go enjoy the game.
+Dialogue: 0,2:11:33.36,2:11:34.99,Default,,0,0,0,,A question for the youngest player.
+Dialogue: 0,2:11:34.99,2:11:36.19,Default,,0,0,0,,You've trained so hard for so long,
+Dialogue: 0,2:11:36.20,2:11:37.74,Default,,0,0,0,,but didn't have a chance\Nto stand on the court in the final.
+Dialogue: 0,2:11:37.74,2:11:39.36,Default,,0,0,0,,Do you have anything to say?
+Dialogue: 0,2:11:41.58,2:11:43.20,Default,,0,0,0,,Things are just getting started.
+Dialogue: 0,2:12:03.60,2:12:07.89,Default,,0,0,0,,Directed by Deng Chao & Yu Baimei
+Dialogue: 0,2:12:11.77,2:12:16.27,Default,,0,0,0,,Since the Chinese Table Tennis Team was founded in 1952, 32 Olympic gold\Nmedals have been won, including 8 team & 24 individual championships,
+Dialogue: 0,2:12:16.36,2:12:20.61,Default,,0,0,0,,151 gold medals in the World Table Tennis Championships, including 44\Nteam championships 107 individual championships & 71 World Cup gold medals,
+Dialogue: 0,2:12:20.61,2:12:25.11,Default,,0,0,0,,including 21 team & 50 individual championships. A total of\N117 world champions were born and 254 gold medals were won.

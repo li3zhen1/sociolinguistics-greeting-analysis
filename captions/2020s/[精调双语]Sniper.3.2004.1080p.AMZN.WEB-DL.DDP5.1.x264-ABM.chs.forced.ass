@@ -1,0 +1,826 @@
+﻿[Script Info]
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: No
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,3,1,2,5,5,5,1
+Style: cn,Microsoft YaHei,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,3.0,1.0,2,5,5,5,1
+Style: en,arial,14,&H0000BAFF,&H00FFFFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,15,1
+Style: icn,microsoft yahei,22,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,-1,0,0,100,100,0,0,1,2.5,2.5,2,5,5,5,1
+Style: ien,arial,14,&H0000BAFF,&H00FFFFFF,&H00000000,&H02000000,0,-1,0,0,100,100,0,0,1,2,2,2,5,5,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:41.26,0:02:43.13,Default,,0,0,0,,目标已找到\N{\ren}Target acquired.
+Dialogue: 0,0:02:43.16,0:02:47.26,Default,,0,0,0,,收到,目标确定,随时开火\N{\ren}Roger that. Target confirmed. Fire at will.
+Dialogue: 0,0:02:47.30,0:02:49.57,Default,,0,0,0,,辨认目标,下士\N{\ren}Make your target, corporal.
+Dialogue: 0,0:02:56.87,0:02:59.11,Default,,0,0,0,,各位,你们时间有限\N{\ren}You got a time problem, gentlemen.
+Dialogue: 0,0:02:59.14,0:03:01.84,Default,,0,0,0,,锁定地形参考系统,赶快准备好\N{\ren}Lock it, t.R.S. And get this over with.
+Dialogue: 0,0:03:01.88,0:03:03.28,Default,,0,0,0,,地形参考系统在确认目标\N{\ren}T.r.s. Verifying target.
+Dialogue: 0,0:03:03.31,0:03:05.41,Default,,0,0,0,,妈的,瞄准目标就扣扳机啦\N{\ren}Just eyeball the fucker and pull the trigger.
+Dialogue: 0,0:03:05.45,0:03:07.72,Default,,0,0,0,,我听到了,贝克特\N{\ren}I heard that, Beckett.
+Dialogue: 0,0:03:10.25,0:03:12.22,Default,,0,0,0,,好像有敌人进入了\N{\ren}We got incoming bogeys.
+Dialogue: 0,0:03:16.09,0:03:18.26,Default,,0,0,0,,收到,650公尺\N{\ren}Range, 650 yards.
+Dialogue: 0,0:03:18.29,0:03:20.13,Default,,0,0,0,,风速每小时5公里\N{\ren}We have a 5-mile-an-hour wind,
+Dialogue: 0,0:03:20.16,0:03:21.96,Default,,0,0,0,,中范围,来自左侧\N{\ren}midrange, coming from your Lima.
+Dialogue: 0,0:03:22.00,0:03:24.30,Default,,0,0,0,,正在尝试确认目标\N{\ren}Attempting to confirm target.
+Dialogue: 0,0:03:27.67,0:03:31.54,Default,,0,0,0,,长官,艾佛斯的脉搏、呼吸和 皮肤电反应已达到最高\N{\ren}Sir, evers's pulse, respiration and g.S.R. Are maxing out.
+Dialogue: 0,0:03:31.57,0:03:33.14,Default,,0,0,0,,贝克特呢?\N{\ren}What about Beckett?
+Dialogue: 0,0:03:34.24,0:03:35.88,Default,,0,0,0,,没有,很稳定\N{\ren}No, steady as a rock.
+Dialogue: 0,0:03:35.91,0:03:37.31,Default,,0,0,0,,像在睡眠中一样\N{\ren}It's like he's taking a nap.
+Dialogue: 0,0:03:37.35,0:03:40.25,Default,,0,0,0,,各位,快没时间了\N{\ren}You're running out of time, gentlemen.
+Dialogue: 0,0:03:43.75,0:03:44.99,Default,,0,0,0,,艾佛斯,开枪\N{\ren}Take the shot, evers.
+Dialogue: 0,0:03:45.02,0:03:46.42,Default,,0,0,0,,可能会射到人质,军械官…\N{\ren}I could hit a hostage, master gunny...
+Dialogue: 0,0:03:46.46,0:03:48.26,Default,,0,0,0,,叫你开枪就开枪\N{\ren}Take the fucking shot.
+Dialogue: 0,0:03:48.29,0:03:49.89,Default,,0,0,0,,别轻举妄动\N{\ren}Stand down.
+Dialogue: 0,0:04:03.61,0:04:05.24,Default,,0,0,0,,各位,别轻举妄动\N{\ren}Stand down, gentlemen.
+Dialogue: 0,0:04:09.58,0:04:11.35,Default,,0,0,0,,军械官,你没事吧?\N{\ren}You ok, master gunny?
+Dialogue: 0,0:04:12.82,0:04:16.29,Default,,0,0,0,,没事,好得不得了\N{\ren}Perfect. Abso-fucking-lutely perfect.
+Dialogue: 0,0:04:21.42,0:04:23.56,Default,,0,0,0,,目标状态:目标已摧毁\N{\ren}Target status: Target destroyed.
+Dialogue: 0,0:04:23.59,0:04:26.33,Default,,0,0,0,,他开枪了\N{\ren}He made that damn shot.
+Dialogue: 0,0:04:26.36,0:04:29.73,Default,,0,0,0,,真不敢相信 他居然开枪\N{\ren}I can't believe it. He made that goddamn shot!
+Dialogue: 0,0:04:35.70,0:04:37.14,Default,,0,0,0,,游戏结束\N{\ren}Game over.
+Dialogue: 0,0:04:41.08,0:04:43.18,Default,,0,0,0,,你们的埋伏差点就被识破了\N{\ren}Your position was about to be compromised.
+Dialogue: 0,0:04:43.21,0:04:45.15,Default,,0,0,0,,你的命令是取消任务\N{\ren}Your directive was to abort that mission.
+Dialogue: 0,0:04:45.18,0:04:47.48,Default,,0,0,0,,我们是陆战队侦察狙击手,上尉\N{\ren}We're marine scout snipers, captain.
+Dialogue: 0,0:04:47.52,0:04:49.69,Default,,0,0,0,,我们誓死达成任务\N{\ren}We don't abort missions unless we stop breathing.
+Dialogue: 0,0:04:49.72,0:04:54.46,Default,,0,0,0,,你不该开枪 谁都不该开枪\N{\ren}You weren't supposed to make that shot. No one's supposed to.
+Dialogue: 0,0:04:54.49,0:04:55.99,Default,,0,0,0,,反正我完成了我的任务\N{\ren}Well, I completed my mission.
+Dialogue: 0,0:04:56.02,0:04:57.33,Default,,0,0,0,,想当年…\N{\ren}Back in my days...
+Dialogue: 0,0:04:57.36,0:04:59.06,Default,,0,0,0,,好汉不提当年勇\N{\ren}Fuck your days!
+Dialogue: 0,0:04:59.09,0:05:00.66,Default,,0,0,0,,全世界找不到\N{\ren}That was the luckiest fuckin' shot
+Dialogue: 0,0:05:00.70,0:05:03.33,Default,,0,0,0,,那么狗屎运的一枪\N{\ren}in the history of lucky fuckin' shots!
+Dialogue: 0,0:05:03.37,0:05:05.67,Default,,0,0,0,,上尉,抱歉毁了你的兵器\N{\ren}Sorry I broke your toy, captain.
+Dialogue: 0,0:05:05.70,0:05:09.10,Default,,0,0,0,,一个狙击手如果要靠那种烂兵器 早就毙了\N{\ren}But if a sniper had to depend on that, he'd end up dead.
+Dialogue: 0,0:05:09.14,0:05:10.97,Default,,0,0,0,,战场上可不像玩电动玩具 必须枪枪致命\N{\ren}It's not a video game out there.
+Dialogue: 0,0:05:11.01,0:05:12.81,Default,,0,0,0,,必须枪枪致命\N{\ren}It's all about one shot and one kill.
+Dialogue: 0,0:05:12.84,0:05:14.68,Default,,0,0,0,,你是害群之马,你知道吗?\N{\ren}You're a risk, you know that?
+Dialogue: 0,0:05:14.71,0:05:16.11,Default,,0,0,0,,你把我们害惨了…\N{\ren}You're a goddamn liability
+Dialogue: 0,0:05:16.14,0:05:19.68,Default,,0,0,0,,我自己不愿意再负担…\N{\ren}that I, for one, am not going to risk...
+Dialogue: 0,0:05:19.72,0:05:22.02,Default,,0,0,0,,听不下去了是不是?\N{\ren}Getting bored, are we?
+Dialogue: 0,0:05:22.05,0:05:25.49,Default,,0,0,0,,没占到你宝贵的喝酒时间吧?\N{\ren}I'm not cutting into your precious drinking time, am I?
+Dialogue: 0,0:05:25.52,0:05:27.22,Default,,0,0,0,,恕我直言,长官 你说的没错,长官\N{\ren}Begging the captain's pardon, sir,
+Dialogue: 0,0:05:27.26,0:05:31.13,Default,,0,0,0,,你说的没错,长官\N{\ren}but yes, sir, I am. And yes, sir, you are, sir.
+Dialogue: 0,0:05:31.16,0:05:33.90,Default,,0,0,0,,我不喜欢你,中士军械官\N{\ren}I don't like you, master gunnery sergeant.
+Dialogue: 0,0:05:33.93,0:05:37.97,Default,,0,0,0,,我不管你跟陆战队签下什么鸟契约\N{\ren}And I don't care about that fucking deal you made with the corps!
+Dialogue: 0,0:05:38.00,0:05:39.67,Default,,0,0,0,,你要是下礼拜体检没过\N{\ren}You fail that medical next week,
+Dialogue: 0,0:05:39.70,0:05:42.81,Default,,0,0,0,,回到真实世界我就让你好看\N{\ren}I'll Bury your ass back in the real world.
+Dialogue: 0,0:05:43.84,0:05:45.84,Default,,0,0,0,,我说到做到\N{\ren}And that's a promise.
+Dialogue: 0,0:05:47.78,0:05:49.48,Default,,0,0,0,,是的,谢谢长官\N{\ren}Yes, sir. Thank you, sir.
+Dialogue: 0,0:09:02.10,0:09:04.37,Default,,0,0,0,,我找到你的狙击手了\N{\ren}I got him. Get your sniper.
+Dialogue: 0,0:09:11.25,0:09:12.21,Default,,0,0,0,,恭喜你,尼尔 嘿,朋友\N{\ren}Congratulations, Neil.
+Dialogue: 0,0:09:12.25,0:09:13.68,Default,,0,0,0,,你好朋友。\N{\ren}Hey, buddy.
+Dialogue: 0,0:09:18.22,0:09:20.12,Default,,0,0,0,,恭喜\N{\ren}congratulations.
+Dialogue: 0,0:09:24.23,0:09:28.06,Default,,0,0,0,,尼尔,干得好\N{\ren}Hey, nice going, Neil, buddy. Good job.
+Dialogue: 0,0:09:28.83,0:09:30.47,Default,,0,0,0,,妈,来吧\N{\ren}Mom, mom, it's time.
+Dialogue: 0,0:09:30.50,0:09:33.17,Default,,0,0,0,,不要,他说他会来的\N{\ren}No, he said he'd be here.
+Dialogue: 0,0:09:33.20,0:09:34.34,Default,,0,0,0,,没关系\N{\ren}It's ok.
+Dialogue: 0,0:09:34.37,0:09:36.27,Default,,0,0,0,,我昨天才跟他说的\N{\ren}I talked to him yesterday...
+Dialogue: 0,0:09:36.30,0:09:38.41,Default,,0,0,0,,来吧,电视台的人 要拍我们切蛋糕\N{\ren}Come on, Neil, the t.V. People want a shot of us cutting the cake.
+Dialogue: 0,0:09:38.44,0:09:39.71,Default,,0,0,0,,不能再等了\N{\ren}We can't wait any longer.
+Dialogue: 0,0:09:39.74,0:09:40.81,Default,,0,0,0,,好吧\N{\ren}Ok.
+Dialogue: 0,0:09:40.84,0:09:43.61,Default,,0,0,0,,妈,对不起\N{\ren}Sorry, mom.
+Dialogue: 0,0:09:43.65,0:09:46.65,Default,,0,0,0,,反而像竞选宣传照\N{\ren}This looks more like a campaign photo opportunity
+Dialogue: 0,0:09:46.68,0:09:47.72,Default,,0,0,0,,这不像婚礼\N{\ren}than a wedding.
+Dialogue: 0,0:09:51.52,0:09:54.59,Default,,0,0,0,,今天我们就不发表演讲了…\N{\ren}We've decided to forgo the speeches today
+Dialogue: 0,0:09:54.62,0:09:56.39,Default,,0,0,0,,因为有人实在无法到场\N{\ren}because of an unavoidable absence.
+Dialogue: 0,0:09:56.42,0:09:58.76,Default,,0,0,0,,如果你是指贝克特\N{\ren}If that's Beckett you're talking about,
+Dialogue: 0,0:09:58.79,0:10:00.56,Default,,0,0,0,,他大概在去酒吧途中迷路了\N{\ren}he probably got lost on the way to the bar.
+Dialogue: 0,0:10:01.40,0:10:03.17,Default,,0,0,0,,他说得不错\N{\ren}Well, he's right.
+Dialogue: 0,0:10:03.20,0:10:06.70,Default,,0,0,0,,不先喝两杯实在不行\N{\ren}No way I could do this without a couple of tall ones.
+Dialogue: 0,0:10:10.14,0:10:11.44,Default,,0,0,0,,希妮\N{\ren}Sydney.
+Dialogue: 0,0:10:12.54,0:10:15.11,Default,,0,0,0,,你知道我会赶来的\N{\ren}You knew I'd make it.
+Dialogue: 0,0:10:15.14,0:10:16.51,Default,,0,0,0,,该我上了?\N{\ren}Do me the honors?
+Dialogue: 0,0:10:16.54,0:10:18.31,Default,,0,0,0,,好\N{\ren}Ok.
+Dialogue: 0,0:10:18.35,0:10:22.05,Default,,0,0,0,,老实说,我还真怕这种应酬\N{\ren}Actually, these kind of affairs scare the hell out of me.
+Dialogue: 0,0:10:28.89,0:10:30.83,Default,,0,0,0,,尼尔\N{\ren}Neil.
+Dialogue: 0,0:10:30.86,0:10:36.67,Default,,0,0,0,,多年前,你老爸 要我答应他一件事\N{\ren}Many years ago, your old man made me promise him something.
+Dialogue: 0,0:10:36.70,0:10:39.67,Default,,0,0,0,,那就是,如果他无法参加你的婚礼…\N{\ren}That, were he not able to attend your wedding day,
+Dialogue: 0,0:10:39.70,0:10:42.30,Default,,0,0,0,,就要我向你读这封信\N{\ren}I would read this letter to you.
+Dialogue: 0,0:10:45.84,0:10:49.34,Default,,0,0,0,,如果让那步兵贝克特读这封信\N{\ren}""If that grunt Beckett is reading this,""
+Dialogue: 0,0:10:49.38,0:10:51.35,Default,,0,0,0,,表示我已经一命呜呼了\N{\ren}""then I didn't make it.""
+Dialogue: 0,0:10:51.38,0:10:53.15,Default,,0,0,0,,我希望这封信的这个部分\N{\ren}""I'm hoping this part of the letter""
+Dialogue: 0,0:10:53.18,0:10:56.15,Default,,0,0,0,,在你的婚礼中宣读\N{\ren}""is being read at your wedding.""
+Dialogue: 0,0:10:56.18,0:10:59.55,Default,,0,0,0,,我只想让你知道 我爱你…\N{\ren}""I just wanted to let you know that I love you,""
+Dialogue: 0,0:11:01.26,0:11:06.43,Default,,0,0,0,,我要祝你和新娘永浴爱河\N{\ren}""and that I wish you and your bride nothing but happiness.""
+Dialogue: 0,0:11:06.46,0:11:08.96,Default,,0,0,0,,永远爱她、疼惜她\N{\ren}""Love her and Cherish her always.""
+Dialogue: 0,0:11:09.00,0:11:12.20,Default,,0,0,0,,祝你们长命百岁…\N{\ren}""And may you both live as long as you want,""
+Dialogue: 0,0:11:13.74,0:11:16.50,Default,,0,0,0,,永远不逮吃穿\N{\ren}""and never want as long as you live.""
+Dialogue: 0,0:11:18.41,0:11:21.44,Default,,0,0,0,,尼尔,这封信我已经保存很久了\N{\ren}Neil, I've been holding onto this for a long time.
+Dialogue: 0,0:11:21.48,0:11:23.85,Default,,0,0,0,,现在交给你\N{\ren}Now I think it's yours.
+Dialogue: 0,0:11:23.88,0:11:25.05,Default,,0,0,0,,恭喜\N{\ren}Congratulations.
+Dialogue: 0,0:11:25.08,0:11:26.41,Default,,0,0,0,,谢谢你,汤姆\N{\ren}Thanks, Tom.
+Dialogue: 0,0:11:32.72,0:11:35.42,Default,,0,0,0,,乔瑟琳与尼尔芬尼根\N{\ren}Jocelyn and Neil Finnegan.
+Dialogue: 0,0:11:53.54,0:11:58.58,Default,,0,0,0,,每次看到尼尔 就觉得可惜保罗无法像他一样\N{\ren}Every time I look at Neil, I see the man Paul never got to be.
+Dialogue: 0,0:11:58.61,0:12:01.05,Default,,0,0,0,,我相信他爸爸会以他为傲\N{\ren}Well, I'm sure his father would be very proud of him.
+Dialogue: 0,0:12:01.08,0:12:02.42,Default,,0,0,0,,嗯嗯\N{\ren}Mmm-hmm.
+Dialogue: 0,0:12:02.45,0:12:04.49,Default,,0,0,0,,你知道吗?这都是演戏\N{\ren}You know, this is a circus.
+Dialogue: 0,0:12:04.52,0:12:06.52,Default,,0,0,0,,她已着眼白宫\N{\ren}She's got her eyes set on the white house,
+Dialogue: 0,0:12:06.55,0:12:09.29,Default,,0,0,0,,非得让他入主白宫不可\N{\ren}and won't stop till she gets him there.
+Dialogue: 0,0:12:09.32,0:12:10.73,Default,,0,0,0,,他是英烈战士的儿子…\N{\ren}He's the son of a war hero,
+Dialogue: 0,0:12:10.76,0:12:13.70,Default,,0,0,0,,在安纳波里斯的哈佛政府学院 第一名毕业\N{\ren}graduates first in his class at Annapolis,
+Dialogue: 0,0:12:13.73,0:12:15.16,Default,,0,0,0,,哈佛政府学院\N{\ren}Harvard school of government.
+Dialogue: 0,0:12:15.20,0:12:16.53,Default,,0,0,0,,嗯嗯\N{\ren}Mmm-hmm.
+Dialogue: 0,0:12:16.56,0:12:18.00,Default,,0,0,0,,在政坛平步青云\N{\ren}Climbing his way up the political ladder
+Dialogue: 0,0:12:18.03,0:12:19.60,Default,,0,0,0,,为人诚恳,工作勤奋\N{\ren}with honest living and hard work.
+Dialogue: 0,0:12:19.63,0:12:21.80,Default,,0,0,0,,我支持他 我也是\N{\ren}Hell, he's got my vote. Mine, too.
+Dialogue: 0,0:12:21.84,0:12:24.64,Default,,0,0,0,,你的手会抖,什么时候开始的?\N{\ren}You're hand's shaking. When did that start?
+Dialogue: 0,0:12:24.67,0:12:27.08,Default,,0,0,0,,几个月了,没事的\N{\ren}Ah, it's a few months ago. It's nothing.
+Dialogue: 0,0:12:27.11,0:12:28.78,Default,,0,0,0,,也许没事,也许有事\N{\ren}Might be, might not.
+Dialogue: 0,0:12:28.81,0:12:31.38,Default,,0,0,0,,你应该到我的诊所来让我看看\N{\ren}You should stop by the office and let me look at it, hmm?
+Dialogue: 0,0:12:32.51,0:12:34.25,Default,,0,0,0,,汤姆,好啦\N{\ren}Tom, come on.
+Dialogue: 0,0:12:34.28,0:12:36.79,Default,,0,0,0,,好啦\N{\ren}Ok.
+Dialogue: 0,0:12:36.82,0:12:38.45,Default,,0,0,0,,我们是陆战队侦察狙击手\N{\ren}We're marine scout snipers.
+Dialogue: 0,0:12:38.49,0:12:39.79,Default,,0,0,0,,长官,我们誓死达成任务\N{\ren}The only time we abort a mission
+Dialogue: 0,0:12:39.82,0:12:42.39,Default,,0,0,0,,致死方休\N{\ren}is when we stop breathing, sir.
+Dialogue: 0,0:12:42.42,0:12:45.13,Default,,0,0,0,,这是个很大的错误\N{\ren}It's a very big mistake.
+Dialogue: 0,0:12:45.16,0:12:48.26,Default,,0,0,0,,除了明显原因之外,在从欧洲回来之后 他的举止记录…\N{\ren}Besides the obvious, his conduct record since returning from Europe
+Dialogue: 0,0:12:48.30,0:12:49.80,Default,,0,0,0,,一直不佳\N{\ren}has been questionable.
+Dialogue: 0,0:12:49.83,0:12:52.57,Default,,0,0,0,,心理测试结果有些不良 而且他根本…\N{\ren}Psychs are a bit disturbing. And he's just
+Dialogue: 0,0:12:54.14,0:12:55.34,Default,,0,0,0,,年纪太大\N{\ren}old.
+Dialogue: 0,0:12:55.37,0:12:58.41,Default,,0,0,0,,他年纪和我一样大\N{\ren}He's the same age I am.
+Dialogue: 0,0:12:58.44,0:13:01.11,Default,,0,0,0,,我们可能只有一次机会\N{\ren}We may get one shot and one shot only.
+Dialogue: 0,0:13:01.14,0:13:04.05,Default,,0,0,0,,我要贝克特出任务\N{\ren}I want Beckett taking it.
+Dialogue: 0,0:13:04.08,0:13:08.05,Default,,0,0,0,,你的手指切除后 神经受到损害\N{\ren}You suffered nerve damage when you lost the finger.
+Dialogue: 0,0:13:08.08,0:13:11.85,Default,,0,0,0,,此后就每下愈况\N{\ren}The condition's been steadily deteriorating ever since.
+Dialogue: 0,0:13:13.59,0:13:15.32,Default,,0,0,0,,指腱…\N{\ren}The digitorum tendon,
+Dialogue: 0,0:13:15.36,0:13:19.23,Default,,0,0,0,,功能正常时,可延伸舒张手指\N{\ren}when functioning normally, flexes and extends the finger.
+Dialogue: 0,0:13:19.26,0:13:21.43,Default,,0,0,0,,但在受伤的手上…\N{\ren}But here on the damaged hand,
+Dialogue: 0,0:13:21.46,0:13:24.87,Default,,0,0,0,,可能随时做出不随意的反射动作\N{\ren}you could have an involuntary reflex at any time.
+Dialogue: 0,0:13:24.90,0:13:29.37,Default,,0,0,0,,在非常紧张的状况下 更容易发生\N{\ren}And it's more likely to occur in a high-stress situation.
+Dialogue: 0,0:13:29.40,0:13:30.74,Default,,0,0,0,,汤姆,我觉得\N{\ren}What I see here, Thomas,
+Dialogue: 0,0:13:30.77,0:13:33.71,Default,,0,0,0,,这也像是早期瘫痪症状\N{\ren}also looks like the early stages of palsy.
+Dialogue: 0,0:13:39.88,0:13:42.89,Default,,0,0,0,,你不能一辈子当陆战队\N{\ren}You can't be a marine forever, you know.
+Dialogue: 0,0:13:42.92,0:13:43.89,Default,,0,0,0,,我知道\N{\ren}Yeah, I know.
+Dialogue: 0,0:13:45.15,0:13:49.46,Default,,0,0,0,,我能当到65岁就很满足了\N{\ren}I was just hoping to make it to 65.
+Dialogue: 0,0:13:49.49,0:13:53.00,Default,,0,0,0,,你知道吗?你应该考虑开创新生活\N{\ren}You know, you should think about getting on with your life.
+Dialogue: 0,0:13:53.03,0:13:54.90,Default,,0,0,0,,什么生活?\N{\ren}And do what?
+Dialogue: 0,0:13:54.93,0:13:57.80,Default,,0,0,0,,嗯,应该找个伴侣,安定下来\N{\ren}Well, you should meet someone special, you know, settle down.
+Dialogue: 0,0:13:57.83,0:13:58.90,Default,,0,0,0,,哦\N{\ren}Oh.
+Dialogue: 0,0:13:58.93,0:14:00.07,Default,,0,0,0,,是呀\N{\ren}Yeah.
+Dialogue: 0,0:14:00.10,0:14:01.24,Default,,0,0,0,,你自己怎么不找呢?\N{\ren}Why didn't you?
+Dialogue: 0,0:14:01.27,0:14:02.74,Default,,0,0,0,,我找到了\N{\ren}Well, I did.
+Dialogue: 0,0:14:04.44,0:14:09.64,Default,,0,0,0,,不过我跟保罗一起那几年 已经够了\N{\ren}But I guess, uh, the few years I had with Paul were enough.
+Dialogue: 0,0:14:09.68,0:14:12.35,Default,,0,0,0,,而且,你对我也没兴趣\N{\ren}And besides, you never asked me.
+Dialogue: 0,0:14:16.99,0:14:18.19,Default,,0,0,0,,嘿\N{\ren}Hey.
+Dialogue: 0,0:14:18.22,0:14:19.79,Default,,0,0,0,,嗯\N{\ren}Mmm-hmm.
+Dialogue: 0,0:14:19.82,0:14:21.82,Default,,0,0,0,,我们三个一起时,乐事还真不少\N{\ren}We had some good times, the 3 of us.
+Dialogue: 0,0:14:21.86,0:14:23.96,Default,,0,0,0,,记得当年在乐荣营的事吗?\N{\ren}Down at camp lejeune, remember?
+Dialogue: 0,0:14:24.79,0:14:25.83,Default,,0,0,0,,是的。\N{\ren}Yeah.
+Dialogue: 0,0:14:28.56,0:14:29.97,Default,,0,0,0,,啊，西德……\N{\ren}Ah, Syd...
+Dialogue: 0,0:14:30.00,0:14:31.60,Default,,0,0,0,,别…\N{\ren}Don't.
+Dialogue: 0,0:14:31.63,0:14:33.60,Default,,0,0,0,,他没活着回来\N{\ren}He didn't come back.
+Dialogue: 0,0:14:33.64,0:14:35.64,Default,,0,0,0,,许多年轻人都没能活着回来\N{\ren}A lot of young men didn't come back.
+Dialogue: 0,0:14:39.77,0:14:43.98,Default,,0,0,0,,不要待在那间破烂的汽车旅馆 何不搬来跟我们住?\N{\ren}Why don't you get out of that horrible motel and come and stay with me?
+Dialogue: 0,0:14:44.01,0:14:45.25,Default,,0,0,0,,哦\N{\ren}Oh.
+Dialogue: 0,0:14:45.28,0:14:47.48,Default,,0,0,0,,好吧\N{\ren}Well.
+Dialogue: 0,0:14:47.52,0:14:51.35,Default,,0,0,0,,事实上 我这辈子一直以行军袋为家\N{\ren}Tell you the truth, I've been living out of a sea bag all my life.
+Dialogue: 0,0:14:51.39,0:14:53.59,Default,,0,0,0,,再几个礼拜 训练课程就结束了\N{\ren}I've only got a few more weeks of the training sessions,
+Dialogue: 0,0:14:53.62,0:14:57.26,Default,,0,0,0,,然后军方就会把我载到 一个勤务站\N{\ren}then the corps will just ship me out to some other duty station somewhere.
+Dialogue: 0,0:14:57.29,0:14:59.53,Default,,0,0,0,,那你要抽空约我吃饭\N{\ren}Then you should call me sometime and ask me to dinner,
+Dialogue: 0,0:14:59.56,0:15:02.73,Default,,0,0,0,,我已经30年没约会了\N{\ren}I haven't had a date in 30 years.
+Dialogue: 0,0:15:02.76,0:15:06.50,Default,,0,0,0,,这事请千万不要告诉别人\N{\ren}Syd, I'd really appreciate it if you didn't tell anyone about this.
+Dialogue: 0,0:15:06.53,0:15:08.00,Default,,0,0,0,,没问题\N{\ren}Ok.
+Dialogue: 0,0:15:08.04,0:15:09.14,Default,,0,0,0,,谢谢\N{\ren}Thanks.
+Dialogue: 0,0:15:09.17,0:15:10.74,Default,,0,0,0,,再见\N{\ren}See you.
+Dialogue: 0,0:15:12.51,0:15:13.88,Default,,0,0,0,,陆战队的\N{\ren}Jarheads.
+Dialogue: 0,0:15:23.85,0:15:27.02,Default,,0,0,0,,干掉他\N{\ren}Kill him! Kill him!
+Dialogue: 0,0:15:51.01,0:15:52.38,Default,,0,0,0,,干掉他\N{\ren}Kill him!
+Dialogue: 0,0:17:11.19,0:17:12.13,Default,,0,0,0,,发狂\N{\ren}Madness.
+Dialogue: 0,0:17:15.10,0:17:16.56,Default,,0,0,0,,发狂\N{\ren}Madness.
+Dialogue: 0,0:17:56.27,0:17:58.21,Default,,0,0,0,,贝克特,我们走别留在这里\N{\ren}Beckett, let's go, let's go!
+Dialogue: 0,0:17:58.24,0:18:00.74,Default,,0,0,0,,走吧 走吧 走吧\N{\ren}Let's get out of here! Let's go, let's go!
+Dialogue: 0,0:18:03.71,0:18:05.68,Default,,0,0,0,,该死,他们越来越近了\N{\ren}Goddamn, they're getting close!
+Dialogue: 0,0:18:05.71,0:18:07.22,Default,,0,0,0,,好极了\N{\ren}I love it!
+Dialogue: 0,0:18:15.39,0:18:16.89,Default,,0,0,0,,掩护我,贝克特\N{\ren}Just cover my ass, Beckett.
+Dialogue: 0,0:18:27.64,0:18:28.90,Default,,0,0,0,,妈的\N{\ren}Shit!
+Dialogue: 0,0:18:30.74,0:18:33.04,Default,,0,0,0,,芬尼根 芬尼根\N{\ren}Finnegan! Finnegan!
+Dialogue: 0,0:18:48.96,0:18:51.36,Default,,0,0,0,,让他躺下 让他躺下\N{\ren}Lay him down. Lay him down.
+Dialogue: 0,0:18:51.39,0:18:52.36,Default,,0,0,0,,汤姆,你没事的\N{\ren}You'll be ok, Tommy.
+Dialogue: 0,0:18:52.39,0:18:53.33,Default,,0,0,0,,你不会有事的\N{\ren}You're going to be ok.
+Dialogue: 0,0:18:53.36,0:18:54.56,Default,,0,0,0,,欢迎来到隧道,汤姆\N{\ren}Welcome to the tunnels, Tommy.
+Dialogue: 0,0:18:54.60,0:18:55.56,Default,,0,0,0,,什么都看不到\N{\ren}Can't see a goddamn thing.
+Dialogue: 0,0:18:55.60,0:18:57.40,Default,,0,0,0,,慢慢你就习惯了\N{\ren}You'll get used to it.
+Dialogue: 0,0:18:57.43,0:18:59.17,Default,,0,0,0,,这里是最危险的地方 来,拿着这个\N{\ren}It's where the real shit happens, man. Here, take this.
+Dialogue: 0,0:18:59.20,0:19:00.50,Default,,0,0,0,,这是什么?\N{\ren}What is it?
+Dialogue: 0,0:19:00.54,0:19:03.44,Default,,0,0,0,,幸运符 我前几天从一个越军身上拿下的\N{\ren}Good luck. Took it off a gook a couple of days ago.
+Dialogue: 0,0:19:03.47,0:19:05.31,Default,,0,0,0,,北越军的混帐\N{\ren}N.v.a. Motherfuckers!
+Dialogue: 0,0:19:12.08,0:19:14.05,Default,,0,0,0,,军械官,你没有回答\N{\ren}You didn't answer, master guns.
+Dialogue: 0,0:19:14.08,0:19:16.92,Default,,0,0,0,,你的门没锁\N{\ren}Your door was unlocked.
+Dialogue: 0,0:19:16.95,0:19:19.85,Default,,0,0,0,,如果我要小歧把我叫醒\N{\ren}If I wanted clowns to wake me up,
+Dialogue: 0,0:19:19.89,0:19:22.96,Default,,0,0,0,,我早就加入马戏团了\N{\ren}I would've joined the circus.
+Dialogue: 0,0:19:22.99,0:19:24.76,Default,,0,0,0,,军械官,恕我直言\N{\ren}With all due respect, master guns,
+Dialogue: 0,0:19:24.79,0:19:26.06,Default,,0,0,0,,你应该去演喜剧\N{\ren}you should've been a comedian.
+Dialogue: 0,0:19:26.09,0:19:28.10,Default,,0,0,0,,你到底想干嘛?\N{\ren}What the hell do you want?
+Dialogue: 0,0:19:28.13,0:19:31.27,Default,,0,0,0,,军械官 我们奉命带您去会见高级长官\N{\ren}We have orders to take you in to go see the brass, master gunnery sergeant.
+Dialogue: 0,0:19:31.30,0:19:34.30,Default,,0,0,0,,得了吧 我才不想会见高级长官\N{\ren}Yeah, well, I don't want to see the brass.
+Dialogue: 0,0:19:38.07,0:19:39.97,Default,,0,0,0,,带他去冲澡\N{\ren}Let's get him in the shower.
+Dialogue: 0,0:19:44.08,0:19:45.81,Default,,0,0,0,,长官,您可在陆战队顶尖的狙击手中\N{\ren}Sir, you could have your pick
+Dialogue: 0,0:19:45.85,0:19:48.08,Default,,0,0,0,,挑选十二位\N{\ren}of a dozen of the corps' best snipers.
+Dialogue: 0,0:19:48.12,0:19:50.35,Default,,0,0,0,,艾佛斯下士特别杰出\N{\ren}Corporal evers is a particularly good shot.
+Dialogue: 0,0:19:50.39,0:19:51.85,Default,,0,0,0,,我对他没兴趣\N{\ren}I'm not interested in him.
+Dialogue: 0,0:19:51.89,0:19:53.52,Default,,0,0,0,,我想要汤玛斯贝克特\N{\ren}I'm interested in Thomas Beckett.
+Dialogue: 0,0:19:53.56,0:19:55.99,Default,,0,0,0,,这是国家安全委员会副主席 威廉埃瓦瑞\N{\ren}This is n.S.A. Deputy director William Avery.
+Dialogue: 0,0:19:56.02,0:19:58.33,Default,,0,0,0,,我们认识,上尉 我们一起服役过\N{\ren}We know each other, captain. We served together.
+Dialogue: 0,0:19:58.36,0:19:59.89,Default,,0,0,0,,上一辈子,长官\N{\ren}A lifetime ago, sir.
+Dialogue: 0,0:19:59.93,0:20:02.06,Default,,0,0,0,,我有幸合作过的狙击手中 最厉害的一位\N{\ren}Best goddamn sniper I had the privilege of working with.
+Dialogue: 0,0:20:02.10,0:20:04.23,Default,,0,0,0,,谢谢长官,找我有事吗?\N{\ren}Well, thank you, sir. What can I do for you?
+Dialogue: 0,0:20:04.27,0:20:07.03,Default,,0,0,0,,汤姆,你明天上飞机\N{\ren}Tom, I want you on a plane tomorrow.
+Dialogue: 0,0:20:07.07,0:20:08.40,Default,,0,0,0,,去哪儿,长官?\N{\ren}To where, sir?
+Dialogue: 0,0:20:08.44,0:20:10.14,Default,,0,0,0,,越南\N{\ren}Vietnam.
+Dialogue: 0,0:20:10.17,0:20:11.71,Default,,0,0,0,,长官\N{\ren}Captain.
+Dialogue: 0,0:20:11.74,0:20:13.84,Default,,0,0,0,,我要你去除掉一个人\N{\ren}I want you to take out a target there.
+Dialogue: 0,0:20:13.88,0:20:16.24,Default,,0,0,0,,彭霸来的一个山寨主 他和他的叛军…\N{\ren}A mountain warlord from phum bat. He and his rogue army
+Dialogue: 0,0:20:16.28,0:20:18.21,Default,,0,0,0,,走私鸦片、武器\N{\ren}are running opium, stolen goods, weapons,
+Dialogue: 0,0:20:18.25,0:20:20.25,Default,,0,0,0,,任何弄得到的东西都肯做\N{\ren}almost anything they can get their hands on.
+Dialogue: 0,0:20:20.28,0:20:22.15,Default,,0,0,0,,听起来好像让越南人很头痛,长官\N{\ren}Sounds like a pain in the ass for the Vietnamese, sir.
+Dialogue: 0,0:20:22.18,0:20:23.62,Default,,0,0,0,,我们为何要插手?\N{\ren}Why are we getting involved?
+Dialogue: 0,0:20:23.65,0:20:25.95,Default,,0,0,0,,他已准备从事更危险的勾当\N{\ren}He's graduated to bigger and better things.
+Dialogue: 0,0:20:25.99,0:20:27.89,Default,,0,0,0,,根据情报判断,我们相信…\N{\ren}We have intelligence that leads us to believe
+Dialogue: 0,0:20:27.92,0:20:30.73,Default,,0,0,0,,他已和贾玛伊斯兰米雅在谈生意\N{\ren}he's been talking business with the jamaah islamiyah.
+Dialogue: 0,0:20:30.76,0:20:32.53,Default,,0,0,0,,哪一种生意?\N{\ren}Oh, what kind of business?
+Dialogue: 0,0:20:32.56,0:20:34.06,Default,,0,0,0,,恐怖事件\N{\ren}Terrorism.
+Dialogue: 0,0:20:34.10,0:20:36.50,Default,,0,0,0,,他已开始玩大的\N{\ren}He's ventured into the big leagues.
+Dialogue: 0,0:20:36.53,0:20:40.30,Default,,0,0,0,,长官,恕我直言 这里没什么资料\N{\ren}Well, with all due respect, sir, there's not very much here.
+Dialogue: 0,0:20:40.34,0:20:43.67,Default,,0,0,0,,我们知道他长什么样子吗?\N{\ren}Do we even know what he looks like?
+Dialogue: 0,0:20:43.71,0:20:47.88,Default,,0,0,0,,拉瑞比上尉 你出去一下好吗?\N{\ren}Captain laraby, would you mind excusing us?
+Dialogue: 0,0:20:55.35,0:20:57.15,Default,,0,0,0,,没问题,长官\N{\ren}Of course not, sir.
+Dialogue: 0,0:21:01.36,0:21:02.29,Default,,0,0,0,,阿迪斯\N{\ren}Addis.
+Dialogue: 0,0:21:12.20,0:21:13.47,Default,,0,0,0,,芬尼根\N{\ren}Finnegan.
+Dialogue: 0,0:21:15.37,0:21:16.74,Default,,0,0,0,,谢谢你,汤姆\N{\ren}Thanks, Tom.
+Dialogue: 0,0:21:19.77,0:21:21.18,Default,,0,0,0,,他的尸体已运回家\N{\ren}His body was shipped home.
+Dialogue: 0,0:21:21.21,0:21:22.74,Default,,0,0,0,,那只是一具尸体\N{\ren}What was left of the body.
+Dialogue: 0,0:21:22.78,0:21:24.35,Default,,0,0,0,,尸体\N{\ren}A body.
+Dialogue: 0,0:21:26.95,0:21:28.95,Default,,0,0,0,,说来话长,汤姆\N{\ren}It's a long story, Tom.
+Dialogue: 0,0:21:28.98,0:21:31.02,Default,,0,0,0,,我大概解释一下\N{\ren}Let me try to explain some of it.
+Dialogue: 0,0:21:31.05,0:21:33.96,Default,,0,0,0,,西贡沦陷的几天前\N{\ren}During the last days before the fall of Saigon,
+Dialogue: 0,0:21:33.99,0:21:35.79,Default,,0,0,0,,保罗芬尼根接受征召\N{\ren}Paul Finnegan was recruited.
+Dialogue: 0,0:21:35.82,0:21:36.89,Default,,0,0,0,,谁的征召?\N{\ren}Recruited by who?
+Dialogue: 0,0:21:36.92,0:21:38.49,Default,,0,0,0,,中央情报局\N{\ren}The c.I.A.
+Dialogue: 0,0:21:38.53,0:21:40.96,Default,,0,0,0,,他参与的第一个行动是协助赤棉军\N{\ren}His first op was to help the khmer Rouge
+Dialogue: 0,0:21:41.00,0:21:43.16,Default,,0,0,0,,将海洛英运离高地\N{\ren}run heroin out of the highlands.
+Dialogue: 0,0:21:43.20,0:21:46.17,Default,,0,0,0,,他这份利润可用来资助秘密行动\N{\ren}His cut financed the covert operations.
+Dialogue: 0,0:21:46.20,0:21:51.04,Default,,0,0,0,,几年下来,我们的利益有所改变\N{\ren}As the years passed, our interests changed.
+Dialogue: 0,0:21:51.07,0:21:53.17,Default,,0,0,0,,我们要芬尼根参与新的行动\N{\ren}Finnegan was offered a new op,
+Dialogue: 0,0:21:53.21,0:21:54.91,Default,,0,0,0,,但丛林已改变了他\N{\ren}but the jungle had changed him.
+Dialogue: 0,0:21:54.94,0:21:59.31,Default,,0,0,0,,当初的爱国情操已变质…\N{\ren}That patriotic fervor had changed into something else,
+Dialogue: 0,0:21:59.35,0:22:01.58,Default,,0,0,0,,他成为一个危险人物\N{\ren}something that makes him dangerous.
+Dialogue: 0,0:22:01.62,0:22:02.92,Default,,0,0,0,,他是一个能构成威胁的人\N{\ren}He's a threat.
+Dialogue: 0,0:22:02.95,0:22:05.95,Default,,0,0,0,,对于你、我、他的家人、他的国家\N{\ren}To you, me, his family, and his country.
+Dialogue: 0,0:22:07.25,0:22:08.76,Default,,0,0,0,,欢迎来到隧道,汤姆\N{\ren}Welcome to the tunnels, Tommy.
+Dialogue: 0,0:22:08.79,0:22:11.93,Default,,0,0,0,,他到底在这里干嘛?\N{\ren}What the hell's he doing here?
+Dialogue: 0,0:22:19.37,0:22:22.27,Default,,0,0,0,,有没有其他方法可处理这件事?\N{\ren}Is there any other way to handle this?
+Dialogue: 0,0:22:25.67,0:22:27.17,Default,,0,0,0,,用谈的或是做一些安排?\N{\ren}A deal or an arrangement?
+Dialogue: 0,0:22:27.21,0:22:28.51,Default,,0,0,0,,没有其他方法\N{\ren}There's no other way.
+Dialogue: 0,0:22:28.54,0:22:30.04,Default,,0,0,0,,我们知道胡志明市警察…\N{\ren}We've learned the ho chi minh police
+Dialogue: 0,0:22:30.08,0:22:31.68,Default,,0,0,0,,已展开部署来捕捉他\N{\ren}have set up a sting to capture him.
+Dialogue: 0,0:22:31.71,0:22:32.95,Default,,0,0,0,,不能让他们这样做\N{\ren}That cannot happen.
+Dialogue: 0,0:22:32.98,0:22:35.08,Default,,0,0,0,,若他被找到 你可想像\N{\ren}If he is identified, you can imagine
+Dialogue: 0,0:22:35.12,0:22:36.85,Default,,0,0,0,,我们会有多大麻烦\N{\ren}the problems that we might face.
+Dialogue: 0,0:22:36.88,0:22:41.06,Default,,0,0,0,,要费多大唇舌解释 更别提对于他家人的影响…\N{\ren}The explanations. Not to mention the effect on his family,
+Dialogue: 0,0:22:42.59,0:22:44.06,Default,,0,0,0,,他的儿子…\N{\ren}his son...
+Dialogue: 0,0:22:48.86,0:22:53.37,Default,,0,0,0,,你要我去杀死我的救命恩人\N{\ren}You're asking me to kill the man who saved my life.
+Dialogue: 0,0:22:53.40,0:22:56.50,Default,,0,0,0,,我知道你一定觉得这个处境非常困难 汤姆…\N{\ren}I know how incredibly bizarre this must seem to you, Tom,
+Dialogue: 0,0:22:56.54,0:22:59.97,Default,,0,0,0,,但相信我 他已经不是当年你所认识的他了\N{\ren}but believe me, this is not the man that you once knew.
+Dialogue: 0,0:23:00.01,0:23:03.55,Default,,0,0,0,,几年下来 他已成为一个冷血杀手\N{\ren}Over the years, he has become a cold-blooded killer.
+Dialogue: 0,0:23:05.81,0:23:07.92,Default,,0,0,0,,我很遗憾地说\N{\ren}And I'm ashamed to say,
+Dialogue: 0,0:23:07.95,0:23:10.25,Default,,0,0,0,,我们对此有部分责任…\N{\ren}we bear some responsibility for that
+Dialogue: 0,0:23:10.28,0:23:14.16,Default,,0,0,0,,也有义务矫正这个错误\N{\ren}and, uh, an obligation to rectify the mistake.
+Dialogue: 0,0:23:15.72,0:23:18.93,Default,,0,0,0,,作为狙击手,你有权拒绝这次任务\N{\ren}As a sniper, you have the option to refuse the mission.
+Dialogue: 0,0:23:18.96,0:23:20.93,Default,,0,0,0,,但你必须尽快决定\N{\ren}But I need an answer, Tom.
+Dialogue: 0,0:23:20.96,0:23:23.26,Default,,0,0,0,,在明早八点前\N{\ren}By 0800.
+Dialogue: 0,0:23:23.30,0:23:26.20,Default,,0,0,0,,如果你拒绝的话我能了解\N{\ren}I'll understand if you can't do this.
+Dialogue: 0,0:23:26.23,0:23:28.40,Default,,0,0,0,,我会再找其他人\N{\ren}I'll find somebody else.
+Dialogue: 0,0:23:36.41,0:23:37.55,Default,,0,0,0,,不\N{\ren}No.
+Dialogue: 0,0:23:39.85,0:23:43.02,Default,,0,0,0,,我独自一人来做\N{\ren}I'll do it. Alone.
+Dialogue: 0,0:23:44.69,0:23:46.95,Default,,0,0,0,,我不要有人监督\N{\ren}I want no observer with me.
+Dialogue: 0,0:23:48.82,0:23:51.99,Default,,0,0,0,,我不要任何人插手\N{\ren}I don't want anybody else's hand in it.
+Dialogue: 0,0:23:54.20,0:23:57.83,Default,,0,0,0,,你怎能确定到时候 他真下得了手?\N{\ren}How can you be so sure he'll do it when the time comes?
+Dialogue: 0,0:23:57.87,0:23:59.07,Default,,0,0,0,,他总会千方百计 把事办成的\N{\ren}One way or another,
+Dialogue: 0,0:23:59.10,0:24:01.00,Default,,0,0,0,,这是他生存的意义\N{\ren}he will get the job done.
+Dialogue: 0,0:24:02.10,0:24:04.04,Default,,0,0,0,,只有在出生入死或夺人性命时\N{\ren}It's all he's got left.
+Dialogue: 0,0:24:04.07,0:24:06.01,Default,,0,0,0,,他的命才稍有价值\N{\ren}His life isn't worth a damn
+Dialogue: 0,0:24:06.04,0:24:09.44,Default,,0,0,0,,除非他冒险，或者拿别人的\N{\ren}unless he's risking it, or taking someone else's.
+Dialogue: 0,0:24:38.14,0:24:40.14,Default,,0,0,0,,第一次来胡志明市吗?\N{\ren}First time in ho chi minh?
+Dialogue: 0,0:24:40.17,0:24:43.18,Default,,0,0,0,,上次我来时,这里还叫西贡\N{\ren}Last time I was here, it was called Saigon.
+Dialogue: 0,0:25:18.28,0:25:20.28,Default,,0,0,0,,汤玛斯贝克特\N{\ren}Uh, Beckett, Thomas.
+Dialogue: 0,0:25:24.09,0:25:26.35,Default,,0,0,0,,贝克特先生,欢迎来到胡志明市\N{\ren}Welcome to ho chi minh, Mr. Beckett.
+Dialogue: 0,0:25:26.39,0:25:28.42,Default,,0,0,0,,第一次来越南吗?\N{\ren}First time in Vietnam?
+Dialogue: 0,0:25:29.52,0:25:30.52,Default,,0,0,0,,不是\N{\ren}No.
+Dialogue: 0,0:25:31.63,0:25:33.03,Default,,0,0,0,,要不要点好康的,先生?\N{\ren}Do you want anything, sir?
+Dialogue: 0,0:25:33.06,0:25:34.96,Default,,0,0,0,,你知道我的意思吧\N{\ren}If you know what I mean, you know?
+Dialogue: 0,0:25:35.00,0:25:37.63,Default,,0,0,0,,我知道你的意思 真的不用了\N{\ren}Yeah, I know what you mean, and thanks but no thanks.
+Dialogue: 0,0:25:37.67,0:25:40.74,Default,,0,0,0,,你确定吗?凯蔓什么都愿意做的\N{\ren}Sure? Because ky mam can get you anything.
+Dialogue: 0,0:25:40.77,0:25:42.14,Default,,0,0,0,,包君满意\N{\ren}Anything that you want.
+Dialogue: 0,0:25:42.17,0:25:44.01,Default,,0,0,0,,要不要马杀鸡?\N{\ren}Any good massage?
+Dialogue: 0,0:25:45.14,0:25:46.67,Default,,0,0,0,,快乐一下\N{\ren}Uh, happy ending.
+Dialogue: 0,0:25:47.84,0:25:49.44,Default,,0,0,0,,谢谢先生\N{\ren}Thank you, sir.
+Dialogue: 0,0:26:01.79,0:26:04.13,Default,,0,0,0,,先生,您的袋子到了\N{\ren}Your bag has arrived, sir.
+Dialogue: 0,0:26:05.36,0:26:07.09,Default,,0,0,0,,你一定送错房间\N{\ren}You must have the wrong room.
+Dialogue: 0,0:26:07.13,0:26:08.80,Default,,0,0,0,,我已经拿到袋子了\N{\ren}I already have my bags.
+Dialogue: 0,0:26:08.83,0:26:12.30,Default,,0,0,0,,不是这个 汤玛斯贝克特军械官\N{\ren}Not this one, master gunnery sergeant Thomas Beckett.
+Dialogue: 0,0:26:12.33,0:26:14.54,Default,,0,0,0,,我叫关 胡志明市警局探员\N{\ren}My name is quan. Detective, Ho Chi Minh City police.
+Dialogue: 0,0:26:14.57,0:26:15.84,Default,,0,0,0,,也是您行动的连络人\N{\ren}Also your operations contact.
+Dialogue: 0,0:26:15.87,0:26:18.54,Default,,0,0,0,,那徽章唬不了我\N{\ren}Like I give a shit about some badge.
+Dialogue: 0,0:26:18.57,0:26:20.11,Default,,0,0,0,,这次行动代号是什么?\N{\ren}What's the operation code name?
+Dialogue: 0,0:26:20.14,0:26:21.51,Default,,0,0,0,,眼镜蛇\N{\ren}Cobra.
+Dialogue: 0,0:26:23.24,0:26:24.75,Default,,0,0,0,,进来吧\N{\ren}Come on in.
+Dialogue: 0,0:26:28.12,0:26:29.38,Default,,0,0,0,,那件衬衫还真有意思\N{\ren}Interesting choice of shirt.
+Dialogue: 0,0:26:29.42,0:26:31.69,Default,,0,0,0,,看起来好像加拿大游客\N{\ren}You look like a Canadian tourist.
+Dialogue: 0,0:26:33.66,0:26:36.59,Default,,0,0,0,,您会在此找到所需要的东西\N{\ren}You'll find what you need here.
+Dialogue: 0,0:26:36.62,0:26:38.59,Default,,0,0,0,,他们说您能百发百中\N{\ren}They say you can make million-to-one shot.
+Dialogue: 0,0:26:38.63,0:26:40.19,Default,,0,0,0,,您是个可靠的人吧?\N{\ren}You are the go-to guy. Yes?
+Dialogue: 0,0:26:40.23,0:26:42.13,Default,,0,0,0,,他们真多嘴\N{\ren}They say a lot of things.
+Dialogue: 0,0:26:42.16,0:26:44.40,Default,,0,0,0,,您远道而来,先休息 然后我们吃晚饭再聊\N{\ren}You rest after your trip, then we have some dinner. We talk.
+Dialogue: 0,0:26:44.43,0:26:46.40,Default,,0,0,0,,我带您去探地点\N{\ren}I show you the spot.
+Dialogue: 0,0:26:48.00,0:26:49.70,Default,,0,0,0,,11:30 准备好\N{\ren}Be ready at 11:30.
+Dialogue: 0,0:27:18.47,0:27:21.37,Default,,0,0,0,,勾起您的回忆吗,贝克特先生?\N{\ren}This bring back memories, Mr. Beckett?
+Dialogue: 0,0:27:24.04,0:27:25.81,Default,,0,0,0,,他们透露了一些您的事\N{\ren}They told me a little about you.
+Dialogue: 0,0:27:25.84,0:27:27.41,Default,,0,0,0,,两次任务从头到尾参与\N{\ren}2 full tours.
+Dialogue: 0,0:27:27.44,0:27:30.14,Default,,0,0,0,,您在这里时,正好是情况最糟时\N{\ren}You were here for the worst of it.
+Dialogue: 0,0:27:30.18,0:27:31.75,Default,,0,0,0,,当时一切都很糟\N{\ren}None of it was good.
+Dialogue: 0,0:27:33.31,0:27:35.72,Default,,0,0,0,,您当时一定很年轻\N{\ren}You must have been very young.
+Dialogue: 0,0:27:38.92,0:27:40.79,Default,,0,0,0,,废话少说\N{\ren}Ok.
+Dialogue: 0,0:27:40.82,0:27:43.16,Default,,0,0,0,,除了你以外,还有谁知道我来了?\N{\ren}Who else knows I'm here besides you?
+Dialogue: 0,0:27:44.63,0:27:48.50,Default,,0,0,0,,如果您是指胡志明的警察 没有人知道\N{\ren}If you're talking about the ho chi minh police, no one.
+Dialogue: 0,0:27:48.53,0:27:51.10,Default,,0,0,0,,如果他们知道,我早就没命了\N{\ren}If they knew, I'd be a dead man.
+Dialogue: 0,0:27:52.93,0:27:56.94,Default,,0,0,0,,好吧,我们怎样行动?\N{\ren}All right, then how do we work this?
+Dialogue: 0,0:27:56.97,0:28:00.07,Default,,0,0,0,,我如何寻找我的目标?\N{\ren}How do I find my target?
+Dialogue: 0,0:28:00.11,0:28:03.85,Default,,0,0,0,,两周前,我在胡志明市 逮到了他最大的毒贩…\N{\ren}2 weeks ago, I arrested his biggest dealer in Ho Chi Minh City,
+Dialogue: 0,0:28:03.88,0:28:08.32,Default,,0,0,0,,然后劝服他为我们指认眼镜蛇\N{\ren}and convinced him to, uh, how do you say, to finger the cobra for us.
+Dialogue: 0,0:28:08.35,0:28:10.12,Default,,0,0,0,,为什么叫他眼镜蛇?\N{\ren}Why do you call him that?
+Dialogue: 0,0:28:10.15,0:28:12.89,Default,,0,0,0,,他们把他捧得像王一样 眼镜蛇王\N{\ren}They treat him like he's a king. King cobra.
+Dialogue: 0,0:28:12.92,0:28:15.72,Default,,0,0,0,,他们其实只是小孩子 有些才不过十几岁\N{\ren}They're just kids, really. Some barely in their teens.
+Dialogue: 0,0:28:15.76,0:28:19.19,Default,,0,0,0,,把头切下来,蛇也活不成 相信我\N{\ren}You cut off the head, the snake will die, believe me.
+Dialogue: 0,0:28:19.23,0:28:20.90,Default,,0,0,0,,那毒贩告诉我们\N{\ren}The dealer told us about a meeting
+Dialogue: 0,0:28:20.93,0:28:22.60,Default,,0,0,0,,眼镜蛇要和一个新客户碰面\N{\ren}between cobra and a new client.
+Dialogue: 0,0:28:22.63,0:28:24.47,Default,,0,0,0,,我们会去那里逮捕他\N{\ren}We will be there to arrest him.
+Dialogue: 0,0:28:24.50,0:28:27.10,Default,,0,0,0,,你抢先一步,先把他干掉\N{\ren}You take him out before that happens.
+Dialogue: 0,0:28:27.13,0:28:28.77,Default,,0,0,0,,在西贡这里吗?\N{\ren}Here in Saigon?
+Dialogue: 0,0:28:30.37,0:28:32.07,Default,,0,0,0,,西贡?\N{\ren}Saigon?
+Dialogue: 0,0:28:32.11,0:28:34.64,Default,,0,0,0,,还改不了口是不是?\N{\ren}Old habits die hard, huh?
+Dialogue: 0,0:28:34.68,0:28:38.45,Default,,0,0,0,,在眼镜蛇开的一家店里 共军俱乐部\N{\ren}At one of the establishments the cobra owns. Club cong.
+Dialogue: 0,0:28:39.21,0:28:40.82,Default,,0,0,0,,看看这个\N{\ren}Check this out.
+Dialogue: 0,0:28:44.35,0:28:46.12,Default,,0,0,0,,这是最新型的\N{\ren}This is very new.
+Dialogue: 0,0:28:46.15,0:28:48.49,Default,,0,0,0,,我会叫那毒贩放在眼镜蛇身上\N{\ren}I'm going to make the dealer put it on the cobra.
+Dialogue: 0,0:28:48.52,0:28:50.29,Default,,0,0,0,,你的TRS电脑会收到信号\N{\ren}It'll send a signal to your t.R.S. Computer.
+Dialogue: 0,0:28:50.32,0:28:52.99,Default,,0,0,0,,那样就容易在人群中找到他\N{\ren}That way it'll be easy to find him in the crowd.
+Dialogue: 0,0:28:53.03,0:28:55.80,Default,,0,0,0,,顺便问一下 你的武器如何?\N{\ren}By the way, how are your weapons?
+Dialogue: 0,0:28:55.83,0:28:58.77,Default,,0,0,0,,AW麦格农还不错 你去哪弄来的?\N{\ren}The a.W. Magnum's just fine. Where did you get that?
+Dialogue: 0,0:28:58.80,0:29:01.57,Default,,0,0,0,,他妈的日本鬼子的,很酷吧?\N{\ren}Fucking Japanese. Pretty cool, huh?
+Dialogue: 0,0:29:06.87,0:29:10.41,Default,,0,0,0,,我能多靠近我的目标?\N{\ren}How close do I get to my target?
+Dialogue: 0,0:29:10.44,0:29:13.18,Default,,0,0,0,,大概300公尺吧,包括室内室外\N{\ren}300 meters, maybe. Outside, inside.
+Dialogue: 0,0:29:13.21,0:29:15.82,Default,,0,0,0,,吃完我带你去看\N{\ren}Come on, eat up. I think it's best I show you.
+Dialogue: 0,0:29:17.68,0:29:20.32,Default,,0,0,0,,你做警察多久了?\N{\ren}How long have you been a policeman?
+Dialogue: 0,0:29:20.35,0:29:22.66,Default,,0,0,0,,6年\N{\ren}6 years.
+Dialogue: 0,0:29:22.69,0:29:25.69,Default,,0,0,0,,国家安全委员会何时征召你的?\N{\ren}When did the n.S.A. Recruit you?
+Dialogue: 0,0:29:25.73,0:29:29.46,Default,,0,0,0,,两年前,你知道怎样吗?\N{\ren}Couple of years ago. You see how it is?
+Dialogue: 0,0:29:30.63,0:29:32.60,Default,,0,0,0,,现在比从前好不到哪去\N{\ren}No better than before.
+Dialogue: 0,0:29:32.63,0:29:34.17,Default,,0,0,0,,要有些改变才行\N{\ren}Things need to change.
+Dialogue: 0,0:29:34.20,0:29:37.44,Default,,0,0,0,,也许你们就不会像上次一样搞砸\N{\ren}Maybe you guys don't fuck up like last time.
+Dialogue: 0,0:29:46.81,0:29:49.32,Default,,0,0,0,,你老爸也打过仗吗?\N{\ren}Was your old man in the war?
+Dialogue: 0,0:29:50.72,0:29:52.72,Default,,0,0,0,,对\N{\ren}Yes.
+Dialogue: 0,0:29:52.75,0:29:53.69,Default,,0,0,0,,北越军？\N{\ren}N.v.a.?
+Dialogue: 0,0:29:56.42,0:29:58.26,Default,,0,0,0,,我爸是美国大兵\N{\ren}My father was an American g.I.,
+Dialogue: 0,0:29:58.29,0:30:00.56,Default,,0,0,0,,第九营,25步兵连\N{\ren}9th battalion, 25th infantry.
+Dialogue: 0,0:30:01.60,0:30:03.70,Default,,0,0,0,,这里没有人知道这件事\N{\ren}Nobody here knows this.
+Dialogue: 0,0:30:09.37,0:30:11.51,Default,,0,0,0,,在这里死的吗?\N{\ren}He die here?
+Dialogue: 0,0:30:11.54,0:30:15.41,Default,,0,0,0,,回到他家人那里了 在俄亥俄州\N{\ren}Went home to his real family somewhere in Ohio.
+Dialogue: 0,0:31:12.50,0:31:14.54,Default,,0,0,0,,看到那个屋顶没有?\N{\ren}There. You see that roof?
+Dialogue: 0,0:31:17.64,0:31:19.17,Default,,0,0,0,,那就是共军俱乐部\N{\ren}That's club cong.
+Dialogue: 0,0:31:19.21,0:31:21.81,Default,,0,0,0,,今晚约10:00你的目标将会到那里\N{\ren}Your target will be there tonight around 10:00.
+Dialogue: 0,0:31:21.84,0:31:25.35,Default,,0,0,0,,他通常坐在上层的位子\N{\ren}He usually sits at a table on the upper deck.
+Dialogue: 0,0:31:25.38,0:31:26.35,Default,,0,0,0,,会很热闹吗?\N{\ren}Will it be crowded?
+Dialogue: 0,0:31:26.38,0:31:27.98,Default,,0,0,0,,通常会\N{\ren}It usually is.
+Dialogue: 0,0:31:28.02,0:31:30.78,Default,,0,0,0,,他从哪个方向来呢?\N{\ren}What about the street? He's got to come and go.
+Dialogue: 0,0:31:30.82,0:31:32.72,Default,,0,0,0,,入口在另一边\N{\ren}The entrance is on the other side.
+Dialogue: 0,0:31:32.75,0:31:34.56,Default,,0,0,0,,取不到狙击角度\N{\ren}There's no sniper angle.
+Dialogue: 0,0:31:36.52,0:31:39.06,Default,,0,0,0,,开枪之后 你把武器丢在这里\N{\ren}After you take the shot, you abandon your weapon here,
+Dialogue: 0,0:31:39.09,0:31:40.76,Default,,0,0,0,,然后买张往谭松的火车票\N{\ren}and buy a ticket on tan son train.
+Dialogue: 0,0:31:40.79,0:31:42.23,Default,,0,0,0,,我带你去机场\N{\ren}It'll take you to the airport.
+Dialogue: 0,0:31:42.26,0:31:43.80,Default,,0,0,0,,善后呢?\N{\ren}What about the cleanup?
+Dialogue: 0,0:31:43.83,0:31:45.70,Default,,0,0,0,,我已安排好新的身份证\N{\ren}A new identification has been arranged.
+Dialogue: 0,0:31:45.73,0:31:47.20,Default,,0,0,0,,尸体不会有人去认领\N{\ren}The body will not be claimed.
+Dialogue: 0,0:31:47.23,0:31:49.30,Default,,0,0,0,,警察会很高兴眼镜蛇已被除掉\N{\ren}Police will be satisfied the cobra is dead
+Dialogue: 0,0:31:49.34,0:31:51.84,Default,,0,0,0,,而且没人会知道他到底是谁\N{\ren}and no one will know who he really was.
+Dialogue: 0,0:32:03.72,0:32:05.42,Default,,0,0,0,,贝克特先生\N{\ren}Mr. Beckett.
+Dialogue: 0,0:32:06.85,0:32:08.66,Default,,0,0,0,,事成之后我不会和你见面\N{\ren}I will not see you after this.
+Dialogue: 0,0:32:08.69,0:32:10.42,Default,,0,0,0,,这是我手机号码\N{\ren}That's my cell phone number.
+Dialogue: 0,0:32:10.46,0:32:13.53,Default,,0,0,0,,除非你需要什么或事情不妙 否则不要打\N{\ren}Call only if you need something or if something is wrong.
+Dialogue: 0,0:32:13.56,0:32:15.96,Default,,0,0,0,,记住\N{\ren}And remember,
+Dialogue: 0,0:32:16.00,0:32:18.07,Default,,0,0,0,,也许你只有机会开一枪\N{\ren}one shot is probably all you get.
+Dialogue: 0,0:32:19.53,0:32:21.67,Default,,0,0,0,,我只需要一枪\N{\ren}One shot is all I need.
+Dialogue: 0,0:33:36.94,0:33:40.51,Default,,0,0,0,,一切都已就绪,行动已展开\N{\ren}Everything is in place. The op is on-line.
+Dialogue: 0,0:33:41.75,0:33:43.68,Default,,0,0,0,,How's Beckett doing?\N{\ren}{\ren}贝克特如何?
+Dialogue: 0,0:33:41.75,0:33:43.68,Default,,0,0,0,,{\an8}国家安全委员会总部 马里兰州密德堡
+Dialogue: 0,0:33:43.72,0:33:45.79,Default,,0,0,0,,我们连络人说他很好\N{\ren}Our contact says he's fine.
+Dialogue: 0,0:33:46.62,0:33:47.89,Default,,0,0,0,,没有犹豫吗?\N{\ren}No hesitations?
+Dialogue: 0,0:33:47.92,0:33:49.92,Default,,0,0,0,,似乎没有\N{\ren}Doesn't seem so.
+Dialogue: 0,0:33:49.96,0:33:51.19,Default,,0,0,0,,目标呢?\N{\ren}Target?
+Dialogue: 0,0:33:51.23,0:33:54.43,Default,,0,0,0,,此刻正在行动中 他的买主来了\N{\ren}On the move as we speak. His buyer has arrived.
+Dialogue: 0,0:33:54.46,0:33:56.10,Default,,0,0,0,,目前为止一切顺利\N{\ren}So far, so good.
+Dialogue: 0,0:33:56.13,0:33:59.53,Default,,0,0,0,,若一切顺利\N{\ren}If everything goes well, it'll be over in
+Dialogue: 0,0:33:59.57,0:34:02.20,Default,,0,0,0,,十小时之内就能完成\N{\ren}less than 10 hours.
+Dialogue: 0,0:34:02.24,0:34:05.41,Default,,0,0,0,,这样最好\N{\ren}From your lips to god's ear.
+Dialogue: 0,0:34:05.44,0:34:07.41,Default,,0,0,0,,因为如果不这样\N{\ren}'Cause if it doesn't,
+Dialogue: 0,0:34:07.44,0:34:09.58,Default,,0,0,0,,我们大家都会倒大楣\N{\ren}we're all in deep shit.
+Dialogue: 0,0:34:19.32,0:34:21.09,Default,,0,0,0,,你好\N{\ren}Hello.
+Dialogue: 0,0:34:21.12,0:34:22.49,Default,,0,0,0,,是我\N{\ren}It's me.
+Dialogue: 0,0:34:22.52,0:34:23.86,Default,,0,0,0,,汤玛斯?\N{\ren}Thomas?
+Dialogue: 0,0:34:24.36,0:34:26.36,Default,,0,0,0,,对\N{\ren}Yeah.
+Dialogue: 0,0:34:26.39,0:34:29.23,Default,,0,0,0,,现在是凌晨4:00 有什么问题吗?\N{\ren}It's 4:00 in the morning. Is something wrong?
+Dialogue: 0,0:34:29.26,0:34:33.90,Default,,0,0,0,,希妮,对不起,我…\N{\ren}Oh, Sydney, i'm... I'm sorry, I...
+Dialogue: 0,0:34:33.93,0:34:36.74,Default,,0,0,0,,你的声音听起来好远 你在哪里?\N{\ren}You sound so distant. Where are you?
+Dialogue: 0,0:34:38.21,0:34:39.51,Default,,0,0,0,,嗯…\N{\ren}Oh...
+Dialogue: 0,0:34:41.54,0:34:43.01,Default,,0,0,0,,大概30年的距离\N{\ren}About 30 years away.
+Dialogue: 0,0:34:43.04,0:34:44.68,Default,,0,0,0,,汤玛斯?\N{\ren}Thomas?
+Dialogue: 0,0:34:44.71,0:34:48.98,Default,,0,0,0,,对不起,希妮,真抱歉吵醒了你\N{\ren}I'm sorry, Syd. I'm... I'm sorry for waking you. I...
+Dialogue: 0,0:34:50.75,0:34:52.29,Default,,0,0,0,,你没事吧?\N{\ren}Are you ok?
+Dialogue: 0,0:34:54.79,0:34:56.92,Default,,0,0,0,,我没事,只是…\N{\ren}I'm ok. I just...
+Dialogue: 0,0:34:59.43,0:35:01.96,Default,,0,0,0,,我一直在想…\N{\ren}I've been thinking about
+Dialogue: 0,0:35:02.00,0:35:05.77,Default,,0,0,0,,你和尼尔如何…\N{\ren}how you and Neil are...
+Dialogue: 0,0:35:08.90,0:35:10.57,Default,,0,0,0,,你们是…\N{\ren}You're
+Dialogue: 0,0:35:12.17,0:35:15.31,Default,,0,0,0,,我最亲近的人了\N{\ren}the closest thing I've ever had to a family.
+Dialogue: 0,0:35:17.91,0:35:20.98,Default,,0,0,0,,我知道…\N{\ren}And I... I know
+Dialogue: 0,0:35:21.68,0:35:23.95,Default,,0,0,0,,有时候我…\N{\ren}sometimes I...
+Dialogue: 0,0:35:23.98,0:35:27.22,Default,,0,0,0,,有时候我忘记 这对我是多么珍贵\N{\ren}Sometimes I forget how much that's meant to me.
+Dialogue: 0,0:35:28.39,0:35:32.86,Default,,0,0,0,,我只是想要…\N{\ren}And I just wanted to
+Dialogue: 0,0:35:34.96,0:35:37.36,Default,,0,0,0,,确定你们真的知道\N{\ren}make sure you knew.
+Dialogue: 0,0:35:37.40,0:35:39.03,Default,,0,0,0,,我们知道,汤玛斯\N{\ren}We know, Thomas.
+Dialogue: 0,0:35:40.30,0:35:41.90,Default,,0,0,0,,我们知道\N{\ren}We know.
+Dialogue: 0,0:35:44.61,0:35:47.34,Default,,0,0,0,,你真的没事吗?\N{\ren}Are you sure you're ok?
+Dialogue: 0,0:35:47.37,0:35:48.91,Default,,0,0,0,,没事\N{\ren}Yeah. I'm ok.
+Dialogue: 0,0:35:50.54,0:35:52.18,Default,,0,0,0,,那我不多说了\N{\ren}Look, I gotta go.
+Dialogue: 0,0:35:52.21,0:35:53.45,Default,,0,0,0,,嗯\N{\ren}Um,
+Dialogue: 0,0:35:53.48,0:35:55.92,Default,,0,0,0,,我会……我会，呃，\N{\ren}I'll tell you what. I'll... I'll, uh,
+Dialogue: 0,0:35:57.12,0:36:00.72,Default,,0,0,0,,我过几天打电话给你\N{\ren}I'll give you a call in a few days,
+Dialogue: 0,0:36:00.75,0:36:02.39,Default,,0,0,0,,等我回来以后\N{\ren}you know, after I get back.
+Dialogue: 0,0:36:02.42,0:36:03.79,Default,,0,0,0,,你保证?\N{\ren}You promise?
+Dialogue: 0,0:36:03.82,0:36:05.73,Default,,0,0,0,,对,我保证\N{\ren}I promise. Yeah.
+Dialogue: 0,0:36:05.76,0:36:07.09,Default,,0,0,0,,你知道我爱你\N{\ren}You know I love you.
+Dialogue: 0,0:36:08.90,0:36:10.36,Default,,0,0,0,,我爱你\N{\ren}I love you.
+Dialogue: 0,0:36:17.37,0:36:18.71,Default,,0,0,0,,我也是\N{\ren}Me, too.
+Dialogue: 0,0:42:06.59,0:42:08.45,Default,,0,0,0,,你他妈的在看什么\N{\ren}What the fuck are you lookin' at?
+Dialogue: 0,0:44:21.05,0:44:23.69,Default,,0,0,0,,你要我去杀死我的救命恩人\N{\ren}You're asking me to kill the man who saved my life.
+Dialogue: 0,0:44:23.72,0:44:26.46,Default,,0,0,0,,他到底在这里干嘛?\N{\ren}What the hell's he doing here?
+Dialogue: 0,0:44:26.49,0:44:28.83,Default,,0,0,0,,许多年轻人都没能活着回来\N{\ren}A lot of young men didn't come back.
+Dialogue: 0,0:45:01.09,0:45:02.70,Default,,0,0,0,,妈的 真该死\N{\ren}Goddamn piece of shit.
+Dialogue: 0,0:45:16.88,0:45:18.18,Default,,0,0,0,,去做吧\N{\ren}Do it.
+Dialogue: 0,0:45:31.86,0:45:33.23,Default,,0,0,0,,妈的\N{\ren}Shit.
+Dialogue: 0,0:45:47.34,0:45:48.98,Default,,0,0,0,,就现在\N{\ren}Now!
+Dialogue: 0,0:45:49.01,0:45:50.48,Default,,0,0,0,,抱歉\N{\ren}Forgive me.
+Dialogue: 0,0:47:43.96,0:47:45.06,Default,,0,0,0,,该死\N{\ren}Damn.
+Dialogue: 0,0:48:01.67,0:48:03.54,Default,,0,0,0,,搞定 混蛋\N{\ren}Got you, fucker.
+Dialogue: 0,0:48:14.29,0:48:16.26,Default,,0,0,0,,你他妈的不怎么准\N{\ren}You're not that good a fucking shot,
+Dialogue: 0,0:48:16.29,0:48:18.02,Default,,0,0,0,,但也许可以靠运气\N{\ren}but you might get lucky.
+Dialogue: 0,0:48:58.80,0:49:00.40,Default,,0,0,0,,刚刚到底怎么回事?\N{\ren}What the hell happened?
+Dialogue: 0,0:49:00.43,0:49:02.24,Default,,0,0,0,,贝克特没打中目标\N{\ren}Beckett missed the target.
+Dialogue: 0,0:49:02.27,0:49:04.64,Default,,0,0,0,,可是他妈的打到我们后备人员吗?\N{\ren}But he took out our goddamn backup?
+Dialogue: 0,0:49:04.67,0:49:06.61,Default,,0,0,0,,我们完蛋了,真的完蛋了\N{\ren}We're fucked, truly fucked.
+Dialogue: 0,0:49:08.41,0:49:09.71,Default,,0,0,0,,他现在在哪里?\N{\ren}Where is he now?
+Dialogue: 0,0:49:09.74,0:49:11.34,Default,,0,0,0,,被越南警察带走了\N{\ren}The Vietnamese police have him.
+Dialogue: 0,0:49:11.38,0:49:13.81,Default,,0,0,0,,我们的人应该很容易接近他吧?\N{\ren}It should be easy for our men to get to him, right?
+Dialogue: 0,0:49:13.85,0:49:16.62,Default,,0,0,0,,我们连络人没有受过那种训练\N{\ren}Our contact is not trained for that.
+Dialogue: 0,0:49:16.65,0:49:18.92,Default,,0,0,0,,那就找一个受过那种训练的人\N{\ren}Then get someone who is.
+Dialogue: 0,0:49:38.60,0:49:40.57,Default,,0,0,0,,应该是我跟他谈才对\N{\ren}Talk to me.
+Dialogue: 0,0:49:40.61,0:49:43.74,Default,,0,0,0,,我说过,我叫贝克特\N{\ren}I told you, my name is Beckett.
+Dialogue: 0,0:49:43.78,0:49:45.85,Default,,0,0,0,,汤玛斯杰贝克特\N{\ren}Thomas j. Beckett.
+Dialogue: 0,0:49:45.88,0:49:48.85,Default,,0,0,0,,你在这里做什么? 汤玛斯杰贝克特\N{\ren}And what are you doing here, Thomas j. Beckett?
+Dialogue: 0,0:49:48.88,0:49:51.05,Default,,0,0,0,,努力学习亚洲文化\N{\ren}Soakin' up Asian culture.
+Dialogue: 0,0:49:53.39,0:49:55.86,Default,,0,0,0,,你在屋顶上杀的那个人\N{\ren}The man you killed on the roof,
+Dialogue: 0,0:49:55.89,0:49:58.02,Default,,0,0,0,,是柬埔寨国民\N{\ren}he was Cambodian national.
+Dialogue: 0,0:49:59.13,0:50:01.29,Default,,0,0,0,,也许你们两个和今晚\N{\ren}Maybe you two got something to do
+Dialogue: 0,0:50:01.33,0:50:03.30,Default,,0,0,0,,在共军俱乐部发生的事有关\N{\ren}with what happened at club cong tonight.
+Dialogue: 0,0:50:03.33,0:50:05.77,Default,,0,0,0,,共军俱乐部?\N{\ren}Club cong?
+Dialogue: 0,0:50:05.80,0:50:09.44,Default,,0,0,0,,我要找美国领事\N{\ren}Look, I want to speak to the American consul.
+Dialogue: 0,0:50:11.24,0:50:13.07,Default,,0,0,0,,没问题\N{\ren}Sure. You bet.
+Dialogue: 0,0:50:19.48,0:50:22.52,Default,,0,0,0,,国家警察已接管了这个案子\N{\ren}The national police have taken over the case.
+Dialogue: 0,0:50:24.08,0:50:25.65,Default,,0,0,0,,当你忘记告诉我…\N{\ren}You should have thought of that
+Dialogue: 0,0:50:25.69,0:50:27.19,Default,,0,0,0,,事迹败露该如何处理时\N{\ren}when you changed the plan and forgot
+Dialogue: 0,0:50:27.22,0:50:29.79,Default,,0,0,0,,就该想到会有这种后果\N{\ren}to tell me about the secondary hit.
+Dialogue: 0,0:50:32.73,0:50:34.69,Default,,0,0,0,,我来想办法\N{\ren}I'll see what I can do.
+Dialogue: 0,0:51:11.40,0:51:14.67,Default,,0,0,0,,靠,这世界上怪事还真多 是不是,老汤?\N{\ren}Weird fucking world, ain't it, Tommy?
+Dialogue: 0,0:51:20.14,0:51:21.51,Default,,0,0,0,,芬尼根?\N{\ren}Finnegan?
+Dialogue: 0,0:51:28.18,0:51:29.62,Default,,0,0,0,,靠\N{\ren}Fucking weird.
+Dialogue: 0,0:51:29.65,0:51:31.12,Default,,0,0,0,,这么多年以后\N{\ren}After all these years,
+Dialogue: 0,0:51:31.15,0:51:33.92,Default,,0,0,0,,他们居然找 我亲密的老战友来干掉我\N{\ren}they send my old hump buddy Beckett to do the job.
+Dialogue: 0,0:51:40.26,0:51:42.93,Default,,0,0,0,,那是埃瓦瑞的主意吧?\N{\ren}That was Avery's idea, wasn't it?
+Dialogue: 0,0:51:48.57,0:51:50.00,Default,,0,0,0,,怎会失手?\N{\ren}What happened?
+Dialogue: 0,0:51:50.04,0:51:53.11,Default,,0,0,0,,你一向能百发百中的\N{\ren}You could always make the million-to-one shot.
+Dialogue: 0,0:51:53.14,0:51:56.31,Default,,0,0,0,,太久没练,还是改变心意?\N{\ren}Losing your touch, or change of heart?
+Dialogue: 0,0:51:58.91,0:52:00.41,Default,,0,0,0,,该死的埃瓦瑞骗你\N{\ren}Fucking Avery lied to you, Tommy.
+Dialogue: 0,0:52:00.45,0:52:03.62,Default,,0,0,0,,他也骗了我\N{\ren}That's something the two of us have in common.
+Dialogue: 0,0:52:03.65,0:52:05.02,Default,,0,0,0,,他哪里说谎?\N{\ren}Which lie?
+Dialogue: 0,0:52:06.22,0:52:08.79,Default,,0,0,0,,有关你贩毒吗?\N{\ren}The one about you dealing drugs?
+Dialogue: 0,0:52:08.82,0:52:11.42,Default,,0,0,0,,还是走私武器?\N{\ren}Or running weapons?
+Dialogue: 0,0:52:11.46,0:52:14.09,Default,,0,0,0,,还是贾玛伊斯兰米雅?\N{\ren}Or the jamaah islamiyah?
+Dialogue: 0,0:52:14.13,0:52:16.06,Default,,0,0,0,,这他们也知道?\N{\ren}They know about that, huh?
+Dialogue: 0,0:52:18.33,0:52:20.13,Default,,0,0,0,,为什么,老芬?\N{\ren}Why, Finn?
+Dialogue: 0,0:52:20.17,0:52:24.14,Default,,0,0,0,,被逼上绝路,还有什么选择?\N{\ren}What other choice does a dead man have?
+Dialogue: 0,0:52:24.17,0:52:26.74,Default,,0,0,0,,我把生命奉献给上帝和国家\N{\ren}I gave my life to serve god and country.
+Dialogue: 0,0:52:26.77,0:52:28.11,Default,,0,0,0,,你在跟死亡打交道\N{\ren}You're a dealer in death.
+Dialogue: 0,0:52:28.14,0:52:29.88,Default,,0,0,0,,你奉献给谁的上帝、谁的国家?\N{\ren}Whose god and country do you serve?
+Dialogue: 0,0:52:29.91,0:52:31.18,Default,,0,0,0,,最后一件事是\N{\ren}The last thing I need
+Dialogue: 0,0:52:31.21,0:52:33.75,Default,,0,0,0,,来刺杀我还要跟我讲生命的大道理 省省吧你\N{\ren}is a sermon about death from an assassin.
+Dialogue: 0,0:52:38.15,0:52:41.35,Default,,0,0,0,,我奉他们之命行事 却被他们出卖\N{\ren}I did the job they asked and they sold me out.
+Dialogue: 0,0:52:45.56,0:52:49.23,Default,,0,0,0,,那么结束之后你为什么不回家?\N{\ren}Then why didn't you come home when it ended?
+Dialogue: 0,0:52:51.96,0:52:55.20,Default,,0,0,0,,这里是我的家 这里一直是我的家\N{\ren}This is my home. It was always my home.
+Dialogue: 0,0:52:55.24,0:52:58.30,Default,,0,0,0,,我们在西宁登陆的那一刹那 我就知道了\N{\ren}I knew it the second we hit that l.Z. In tay ninh.
+Dialogue: 0,0:52:58.34,0:53:01.91,Default,,0,0,0,,过了第一个晚上之后 我就知道我不想回去了,老汤\N{\ren}After that first night, I knew I wasn't going back, Tommy.
+Dialogue: 0,0:53:01.94,0:53:03.98,Default,,0,0,0,,我在这里如鱼得水\N{\ren}I was alive here!
+Dialogue: 0,0:53:04.01,0:53:06.21,Default,,0,0,0,,即使出生入死,我还是快活得很\N{\ren}Even in all the death, I was alive!
+Dialogue: 0,0:53:06.25,0:53:08.38,Default,,0,0,0,,来此之前,无论什么事、什么人\N{\ren}Nothing ever made me feel like that back there.
+Dialogue: 0,0:53:08.41,0:53:10.35,Default,,0,0,0,,都不曾让我有这种感觉\N{\ren}Nothing and no one.
+Dialogue: 0,0:53:11.98,0:53:14.19,Default,,0,0,0,,有的人天生就爱打仗\N{\ren}Some people are born for war.
+Dialogue: 0,0:53:14.22,0:53:16.22,Default,,0,0,0,,这不是打仗,老芬\N{\ren}This isn't war, Finn.
+Dialogue: 0,0:53:17.59,0:53:19.23,Default,,0,0,0,,这是疯狂之举\N{\ren}This is madness.
+Dialogue: 0,0:53:20.99,0:53:23.16,Default,,0,0,0,,希妮跟尼尔呢?\N{\ren}What about Syd and Neil?
+Dialogue: 0,0:53:26.53,0:53:29.94,Default,,0,0,0,,你知道,你儿子刚结婚\N{\ren}You know, your son just got married.
+Dialogue: 0,0:53:29.97,0:53:32.67,Default,,0,0,0,,我依照诺言宣读了你的贺词\N{\ren}I delivered your note as promised.
+Dialogue: 0,0:53:35.17,0:53:36.54,Default,,0,0,0,,他们不存在\N{\ren}They don't exist.
+Dialogue: 0,0:53:36.58,0:53:38.94,Default,,0,0,0,,他们三十多年前消失了\N{\ren}They haven't existed for over 30 years.
+Dialogue: 0,0:53:38.98,0:53:41.05,Default,,0,0,0,,最好别提起\N{\ren}It was better that way.
+Dialogue: 0,0:53:44.02,0:53:45.75,Default,,0,0,0,,这样对大家都好\N{\ren}For everyone.
+Dialogue: 0,0:54:02.97,0:54:06.17,Default,,0,0,0,,我开枪之后,有人想要杀我\N{\ren}Someone tried to kill me after I took the shot.
+Dialogue: 0,0:54:07.21,0:54:08.54,Default,,0,0,0,,你现在无法脱身了\N{\ren}You're in it now.
+Dialogue: 0,0:54:08.57,0:54:11.14,Default,,0,0,0,,你应该在还能逃时逃走的\N{\ren}You should have quit when you were ahead.
+Dialogue: 0,0:54:13.81,0:54:15.21,Default,,0,0,0,,无法脱身?\N{\ren}In what?
+Dialogue: 0,0:54:27.59,0:54:28.96,Default,,0,0,0,,我可以毁掉他们,老汤\N{\ren}I can Bury them, Tommy,
+Dialogue: 0,0:54:28.99,0:54:31.16,Default,,0,0,0,,他们就怕这点\N{\ren}that's what they're afraid of.
+Dialogue: 0,0:54:31.20,0:54:33.03,Default,,0,0,0,,你不是第一个来刺杀我的\N{\ren}You're not the first one to come gunning.
+Dialogue: 0,0:54:33.07,0:54:34.30,Default,,0,0,0,,他们已经试了好几年\N{\ren}They've been trying for years.
+Dialogue: 0,0:54:34.33,0:54:37.07,Default,,0,0,0,,所以我才留在壕沟里\N{\ren}That's why I stay in the ditch.
+Dialogue: 0,0:54:39.84,0:54:41.97,Default,,0,0,0,,很抱歉,这是你自找的\N{\ren}Sorry you got yourself into this.
+Dialogue: 0,0:54:42.01,0:54:44.71,Default,,0,0,0,,但话说回来,你一直是理想主义者\N{\ren}But then, you always were an idealist.
+Dialogue: 0,0:54:45.78,0:54:47.95,Default,,0,0,0,,他们就是看中你这点\N{\ren}That's what they counted on, Tommy.
+Dialogue: 0,0:54:49.11,0:54:51.78,Default,,0,0,0,,我觉得难过的是尼尔\N{\ren}Neil's the one I feel sorry for.
+Dialogue: 0,0:54:53.19,0:54:55.96,Default,,0,0,0,,他觉得自己是战争英雄的儿子\N{\ren}He thinks he's the son of a war hero.
+Dialogue: 0,0:55:05.26,0:55:08.73,Default,,0,0,0,,我每天看着这个世界沉沦入地狱\N{\ren}Every day, I watch this world descend into hell.
+Dialogue: 0,0:55:10.24,0:55:12.47,Default,,0,0,0,,我只想找个舒服的位子\N{\ren}I'm just trying to find myself
+Dialogue: 0,0:55:12.51,0:55:15.88,Default,,0,0,0,,好好观赏\N{\ren}a nice comfortable seat with a good view.
+Dialogue: 0,0:55:45.04,0:55:47.84,Default,,0,0,0,,胡志明市警察局被人炸了\N{\ren}Somebody blew up the goddamn police station
+Dialogue: 0,0:55:47.87,0:55:49.27,Default,,0,0,0,,什么?\N{\ren}at ho chi minh. What?
+Dialogue: 0,0:56:02.92,0:56:04.66,Default,,0,0,0,,你好\N{\ren}Hello.
+Dialogue: 0,0:56:04.69,0:56:06.03,Default,,0,0,0,,小子,你听好\N{\ren}Now, listen to me, you little fuck,
+Dialogue: 0,0:56:06.06,0:56:07.99,Default,,0,0,0,,乖乖闭嘴\N{\ren}and don't you say a word.
+Dialogue: 0,0:56:08.03,0:56:10.03,Default,,0,0,0,,过2小时跟我在 人民统一大楼碰面\N{\ren}Meet me at the people's unification building in 2 hours.
+Dialogue: 0,0:56:10.06,0:56:11.96,Default,,0,0,0,,你一个人来…\N{\ren}You come alone
+Dialogue: 0,0:56:12.00,0:56:13.93,Default,,0,0,0,,不然我会告诉胡志明的警察 你的幕后指使人是谁\N{\ren}or I'll tell the ho chi minh police who you really work for.
+Dialogue: 0,0:56:13.97,0:56:16.44,Default,,0,0,0,,我不知道他们想要干嘛 他们从来没有…\N{\ren}I didn't know what they were gonna do. They never...
+Dialogue: 0,0:56:16.47,0:56:17.84,Default,,0,0,0,,你好吗\N{\ren}Hello?
+Dialogue: 0,0:57:07.29,0:57:10.29,Default,,0,0,0,,两方都在玩游戏\N{\ren}It was a game both sides played.
+Dialogue: 0,0:57:10.32,0:57:12.63,Default,,0,0,0,,我不知道\N{\ren}Look, I didn't know.
+Dialogue: 0,0:57:12.66,0:57:16.63,Default,,0,0,0,,他们从没跟我说 对你攻击是行动的一部份\N{\ren}They never told me the hit on you was part of the operation.
+Dialogue: 0,0:57:18.06,0:57:19.36,Default,,0,0,0,,我发誓\N{\ren}I swear.
+Dialogue: 0,0:57:20.77,0:57:21.83,Default,,0,0,0,,芬尼根怎么了?\N{\ren}What happened to Finnegan?
+Dialogue: 0,0:57:21.87,0:57:23.17,Default,,0,0,0,,他们还不知道\N{\ren}They don't know yet.
+Dialogue: 0,0:57:23.20,0:57:25.10,Default,,0,0,0,,他们还在指认尸体\N{\ren}They're still identifying bodies.
+Dialogue: 0,0:57:29.31,0:57:31.48,Default,,0,0,0,,多年来我一直努力 想把这一切忘记\N{\ren}I've spent years trying to forget this shit.
+Dialogue: 0,0:57:31.51,0:57:34.65,Default,,0,0,0,,你真的以为有这么容易吗?\N{\ren}You really think it was going to be that easy?
+Dialogue: 0,0:57:36.58,0:57:38.62,Default,,0,0,0,,你要从这里救我出去\N{\ren}You're going to get me out of here.
+Dialogue: 0,0:57:38.65,0:57:39.95,Default,,0,0,0,,然后去哪里?\N{\ren}And go where?
+Dialogue: 0,0:57:39.99,0:57:42.92,Default,,0,0,0,,再拿给我一把来福枪 和一个随身武器\N{\ren}You're gonna get me another rifle and a sidearm.
+Dialogue: 0,0:57:42.96,0:57:44.52,Default,,0,0,0,,然后去哪里?\N{\ren}And go where?
+Dialogue: 0,0:57:47.13,0:57:49.66,Default,,0,0,0,,他如果还活着,一定在壕沟里\N{\ren}If he's alive, he's in the ditch.
+Dialogue: 0,0:57:55.77,0:57:58.30,Default,,0,0,0,,参议员,请等一下\N{\ren}Hang on a sec, senator.
+Dialogue: 0,0:57:58.34,0:57:59.91,Default,,0,0,0,,我们在金边有些人手\N{\ren}We had some people in Phnom Penh.
+Dialogue: 0,0:57:59.94,0:58:01.71,Default,,0,0,0,,他们应该在一个小时内 就能赶到胡志明\N{\ren}They should be in ho chi minh in less than an hour.
+Dialogue: 0,0:58:01.74,0:58:05.04,Default,,0,0,0,,坏消息是,我们的人不假外出\N{\ren}The bad news is that our boy's gone awol.
+Dialogue: 0,0:58:05.08,0:58:06.28,Default,,0,0,0,,不假外出是什么意思?\N{\ren}What do you mean, awol?
+Dialogue: 0,0:58:06.31,0:58:07.58,Default,,0,0,0,,他还没有报到\N{\ren}He hasn't checked in.
+Dialogue: 0,0:58:07.61,0:58:09.35,Default,,0,0,0,,芬尼根和贝克特呢?\N{\ren}What about Finnegan and Beckett?
+Dialogue: 0,0:58:09.38,0:58:10.68,Default,,0,0,0,,他们还在辨认尸体\N{\ren}They're still I.D.-ing bodies,
+Dialogue: 0,0:58:10.72,0:58:13.12,Default,,0,0,0,,但两人都还不在死亡名单上\N{\ren}but neither of them are on the list so far.
+Dialogue: 0,0:58:13.15,0:58:16.39,Default,,0,0,0,,妈的,怎么会搞成这样\N{\ren}I don't fucking believe this.
+Dialogue: 0,0:58:16.42,0:58:17.92,Default,,0,0,0,,我再打电话给你\N{\ren}I'm going to have to call you back.
+Dialogue: 0,0:58:17.96,0:58:21.03,Default,,0,0,0,,没事,已经控制住了\N{\ren}No, it's under control.
+Dialogue: 0,0:58:21.06,0:58:25.57,Default,,0,0,0,,如果贝克特还活着 而且他找到我们的人…\N{\ren}If Beckett is still alive, and he's gotten to our boy...
+Dialogue: 0,0:58:26.10,0:58:27.37,Default,,0,0,0,,我知道\N{\ren}I know.
+Dialogue: 0,0:58:30.67,0:58:32.57,Default,,0,0,0,,你和芬尼根是朋友?\N{\ren}You and Finnegan were friends?
+Dialogue: 0,0:58:32.61,0:58:35.47,Default,,0,0,0,,我是说,真正的好朋友?\N{\ren}I mean, real good friends?
+Dialogue: 0,0:58:35.51,0:58:39.75,Default,,0,0,0,,对,他救过我一命\N{\ren}Yeah. He saved my ass once.
+Dialogue: 0,0:58:39.78,0:58:41.51,Default,,0,0,0,,那你一定很难下手\N{\ren}This must be hard then.
+Dialogue: 0,0:58:43.02,0:58:44.55,Default,,0,0,0,,是的\N{\ren}Yeah.
+Dialogue: 0,0:58:45.79,0:58:47.42,Default,,0,0,0,,他是坏人\N{\ren}He's a bad guy.
+Dialogue: 0,0:58:49.92,0:58:51.29,Default,,0,0,0,,我知道\N{\ren}I know.
+Dialogue: 0,0:58:51.32,0:58:53.39,Default,,0,0,0,,你怎么知道他在西宁?\N{\ren}How do you know he's up in tay ninh?
+Dialogue: 0,0:58:54.26,0:58:55.80,Default,,0,0,0,,不在市内,在地下\N{\ren}Not in. Under.
+Dialogue: 0,0:58:55.83,0:58:57.80,Default,,0,0,0,,我认识芬尼根时,他是隧道鼠卧底人员\N{\ren}When I knew Finnegan, he was a tunnel rat.
+Dialogue: 0,0:58:57.83,0:59:01.37,Default,,0,0,0,,大家都知道这些人 也知道他们做什么\N{\ren}Everybody knows about them, and what they did.
+Dialogue: 0,0:59:01.40,0:59:03.77,Default,,0,0,0,,这还用说,他们是奉命行事\N{\ren}Yeah, well, they did what they had to do.
+Dialogue: 0,0:59:03.80,0:59:05.37,Default,,0,0,0,,有人说自己喜欢这种工作\N{\ren}Some say they like it.
+Dialogue: 0,0:59:05.40,0:59:07.57,Default,,0,0,0,,你是不该喜欢的\N{\ren}You're not supposed to like it.
+Dialogue: 0,0:59:07.61,0:59:10.41,Default,,0,0,0,,你他妈的懂不懂战争啊?\N{\ren}What the fuck do you know about war?
+Dialogue: 0,0:59:20.75,0:59:23.46,Default,,0,0,0,,你怎么确定他在那里?\N{\ren}How can you be sure he's there?
+Dialogue: 0,0:59:23.49,0:59:26.89,Default,,0,0,0,,因为我在牢里时,他说溜了嘴\N{\ren}Because when I was in the jail, he slipped.
+Dialogue: 0,0:59:26.93,0:59:30.00,Default,,0,0,0,,他提到什么""在壕沟里""\N{\ren}He mentioned something about ""being in the ditch.""
+Dialogue: 0,0:59:30.03,0:59:32.93,Default,,0,0,0,,隧道鼠把隧道叫做壕沟\N{\ren}And that's what the rats called the tunnels.
+Dialogue: 0,0:59:32.97,0:59:34.27,Default,,0,0,0,,我们要不要跟人连络?\N{\ren}Should we contact someone?
+Dialogue: 0,0:59:34.30,0:59:35.57,Default,,0,0,0,,你还有可任的人吗?\N{\ren}Someone you can trust?
+Dialogue: 0,0:59:35.60,0:59:38.10,Default,,0,0,0,,现在，我不相信任何人\N{\ren}Right now, I don't trust anybody.
+Dialogue: 0,0:59:40.47,0:59:43.01,Default,,0,0,0,,靠,这是什么?\N{\ren}What the hell is that?
+Dialogue: 0,0:59:45.28,0:59:47.18,Default,,0,0,0,,警察还是国家安全委员会?\N{\ren}Police or n.S.A.?
+Dialogue: 0,0:59:47.85,0:59:49.15,Default,,0,0,0,,国家安全委员会\N{\ren}N.s.a.
+Dialogue: 0,0:59:54.22,0:59:55.79,Default,,0,0,0,,他们在搜寻信号\N{\ren}They're in pursuit of the signal.
+Dialogue: 0,0:59:55.82,0:59:58.22,Default,,0,0,0,,我们的人已前往西宁\N{\ren}Our boy's headed towards tay ninh.
+Dialogue: 0,1:00:07.23,1:00:09.30,Default,,0,0,0,,贝克特和他在一起\N{\ren}Beckett's with him.
+Dialogue: 0,1:00:10.74,1:00:13.17,Default,,0,0,0,,他在找芬尼根\N{\ren}He's goin' after Finnegan.
+Dialogue: 0,1:01:06.53,1:01:07.66,Default,,0,0,0,,他在那里搞什么?\N{\ren}What the hell's he doing here?
+Dialogue: 0,1:01:07.69,1:01:09.06,Default,,0,0,0,,和史提维约克打招呼\N{\ren}Say hello to Stevie York.
+Dialogue: 0,1:01:09.09,1:01:10.73,Default,,0,0,0,,我们上六点新闻了\N{\ren}We're the 6:00 news, Tommy.
+Dialogue: 0,1:01:14.33,1:01:15.84,Default,,0,0,0,,正午时有几个人经过这里\N{\ren}Some men came through here midday.
+Dialogue: 0,1:01:15.87,1:01:19.27,Default,,0,0,0,,他们往丛林去了,有一个是白人\N{\ren}They headed into the jungle. One was white.
+Dialogue: 0,1:01:20.61,1:01:23.31,Default,,0,0,0,,他回家了\N{\ren}He's headed home.
+Dialogue: 0,1:01:23.34,1:01:24.48,Default,,0,0,0,,你以为自己一个人去\N{\ren}You really expect to go in there
+Dialogue: 0,1:01:24.51,1:01:26.68,Default,,0,0,0,,能活着回来吗?\N{\ren}by yourself and come out alive?
+Dialogue: 0,1:01:27.21,1:01:29.31,Default,,0,0,0,,不\N{\ren}No.
+Dialogue: 0,1:01:29.35,1:01:31.05,Default,,0,0,0,,你要跟我一起去\N{\ren}You're goin' with me.
+Dialogue: 0,1:01:31.08,1:01:32.85,Default,,0,0,0,,这对我有什么好处?\N{\ren}Why would I want to do that?
+Dialogue: 0,1:01:32.89,1:01:36.46,Default,,0,0,0,,你想知道他们为何要干掉我\N{\ren}Well, you wanted to know why they tried to kill me.
+Dialogue: 0,1:01:36.49,1:01:40.03,Default,,0,0,0,,答案就在芬尼根身上\N{\ren}The answer's in there with Finnegan.
+Dialogue: 0,1:01:40.06,1:01:42.73,Default,,0,0,0,,你知道,有些事情他没有告诉我\N{\ren}You see, there's something he didn't tell me.
+Dialogue: 0,1:01:42.76,1:01:44.63,Default,,0,0,0,,他们派我来的真正原因\N{\ren}The real reason they sent me.
+Dialogue: 0,1:01:44.66,1:01:47.80,Default,,0,0,0,,依照计划,最后应该剩下他…\N{\ren}And it was supposed to end with him
+Dialogue: 0,1:01:47.83,1:01:49.23,Default,,0,0,0,,和我\N{\ren}and me.
+Dialogue: 0,1:01:56.34,1:01:59.08,Default,,0,0,0,,你这他妈是哪弄来的?\N{\ren}Where the hell did you dig this up?
+Dialogue: 0,1:01:59.11,1:02:01.18,Default,,0,0,0,,这是我爸的\N{\ren}It's my father's.
+Dialogue: 0,1:02:01.21,1:02:03.48,Default,,0,0,0,,他只留下这件东西\N{\ren}It's all he left behind.
+Dialogue: 0,1:02:03.52,1:02:05.79,Default,,0,0,0,,我用它来学射击\N{\ren}I learned to shoot with it.
+Dialogue: 0,1:02:05.82,1:02:08.55,Default,,0,0,0,,这枪好吗?\N{\ren}Is it ok?
+Dialogue: 0,1:02:08.59,1:02:11.89,Default,,0,0,0,,不是我说 这是性能最好的狙击来福枪\N{\ren}Best damn sniper rifle ever made, if you ask me.
+Dialogue: 0,1:02:14.03,1:02:16.43,Default,,0,0,0,,你没告诉我 你老爹是狙击手\N{\ren}You didn't tell me your old man was a sniper.
+Dialogue: 0,1:02:16.46,1:02:18.26,Default,,0,0,0,,你没问我\N{\ren}You didn't ask.
+Dialogue: 0,1:02:56.57,1:02:58.84,Default,,0,0,0,,我们的柬埔寨部队\N{\ren}Our Cambodian units found the cell phone
+Dialogue: 0,1:02:58.87,1:03:00.94,Default,,0,0,0,,在去西宁的路边捡到手机\N{\ren}on the side of the road to tay ninh.
+Dialogue: 0,1:03:00.97,1:03:03.18,Default,,0,0,0,,他们一定已发现这手机可被人跟踪\N{\ren}They must have figured out it was traceable.
+Dialogue: 0,1:03:03.21,1:03:06.18,Default,,0,0,0,,不是他们,是贝克特\N{\ren}Not they. Beckett.
+Dialogue: 0,1:03:06.21,1:03:07.55,Default,,0,0,0,,现在怎么办?\N{\ren}What do we do now?
+Dialogue: 0,1:03:07.58,1:03:09.48,Default,,0,0,0,,叫他们继续找\N{\ren}Tell them to keep looking.
+Dialogue: 0,1:03:09.51,1:03:12.45,Default,,0,0,0,,同时祈祷在贝克特找到芬尼根之前 先让他们找到贝克特\N{\ren}And pray to god that they find Beckett before he finds Finnegan.
+Dialogue: 0,1:03:56.40,1:03:57.56,Default,,0,0,0,,越来越…\N{\ren}Hey, Beckett, it's getting...
+Dialogue: 0,1:03:57.60,1:03:58.96,Default,,0,0,0,,小声点\N{\ren}Hold it down.
+Dialogue: 0,1:03:59.00,1:04:01.33,Default,,0,0,0,,我们一定找不到这个地方\N{\ren}We're never going to find this place.
+Dialogue: 0,1:05:06.37,1:05:07.70,Default,,0,0,0,,贝克特\N{\ren}Beckett.
+Dialogue: 0,1:05:56.62,1:05:58.02,Default,,0,0,0,,还好吧?\N{\ren}You ok?
+Dialogue: 0,1:06:00.49,1:06:02.55,Default,,0,0,0,,他们还有更多人\N{\ren}There's more of them.
+Dialogue: 0,1:06:29.11,1:06:31.42,Default,,0,0,0,,他没弹药了,干掉他\N{\ren}He's dry. Get him! Get him!
+Dialogue: 0,1:06:32.55,1:06:33.95,Default,,0,0,0,,他是最后一个\N{\ren}He's the last one.
+Dialogue: 0,1:06:33.99,1:06:36.36,Default,,0,0,0,,他也许会往隧道去\N{\ren}He'll probably be heading for the tunnels.
+Dialogue: 0,1:06:36.39,1:06:37.66,Default,,0,0,0,,那里\N{\ren}There.
+Dialogue: 0,1:07:16.80,1:07:18.66,Default,,0,0,0,,他只是一个孩子\N{\ren}Ah, he's just a kid.
+Dialogue: 0,1:07:19.66,1:07:22.27,Default,,0,0,0,,他要去警告他们\N{\ren}He was going to warn them.
+Dialogue: 0,1:07:22.30,1:07:25.50,Default,,0,0,0,,对,我知道\N{\ren}Right. I know.
+Dialogue: 0,1:07:25.54,1:07:26.94,Default,,0,0,0,,芬尼根知道我们已经来了\N{\ren}Finnegan knows we're here already.
+Dialogue: 0,1:07:26.97,1:07:28.81,Default,,0,0,0,,这对他只是一场游戏\N{\ren}It's just a game to him.
+Dialogue: 0,1:07:28.84,1:07:30.94,Default,,0,0,0,,第一圈我们赢了\N{\ren}We won the first round.
+Dialogue: 0,1:07:30.98,1:07:34.21,Default,,0,0,0,,通过出发点,领200元\N{\ren}Pass go, collect $200.
+Dialogue: 0,1:07:34.25,1:07:36.25,Default,,0,0,0,,现在轮到我们花钱了\N{\ren}Now it's our chance to spend it.
+Dialogue: 0,1:07:37.05,1:07:38.15,Default,,0,0,0,,什么?\N{\ren}What?
+Dialogue: 0,1:07:39.45,1:07:41.02,Default,,0,0,0,,这是一种游戏\N{\ren}It's a game.
+Dialogue: 0,1:07:42.59,1:07:44.69,Default,,0,0,0,,你知道,像麻将一样?\N{\ren}You know, like mahjong?
+Dialogue: 0,1:08:02.74,1:08:05.24,Default,,0,0,0,,紧跟着我,听我指示\N{\ren}Stay close to me and do as I say.
+Dialogue: 0,1:08:06.98,1:08:08.58,Default,,0,0,0,,你怎么知道走哪条路?\N{\ren}How do you know which way to go?
+Dialogue: 0,1:08:08.61,1:08:10.05,Default,,0,0,0,,我不知道\N{\ren}I don't.
+Dialogue: 0,1:08:10.08,1:08:11.22,Default,,0,0,0,,惨\N{\ren}Great.
+Dialogue: 0,1:08:21.43,1:08:24.40,Default,,0,0,0,,干脆喊话 让他们知道我们在这里\N{\ren}Why not just yell out and tell them we're here?
+Dialogue: 0,1:08:24.43,1:08:25.56,Default,,0,0,0,,我们怎么看得见东西?\N{\ren}How're we going to see?
+Dialogue: 0,1:08:25.60,1:08:27.10,Default,,0,0,0,,不要开灯\N{\ren}No lights.
+Dialogue: 0,1:08:55.69,1:08:57.16,Default,,0,0,0,,走哪条?\N{\ren}Which way?
+Dialogue: 0,1:09:45.38,1:09:46.68,Default,,0,0,0,,什么?\N{\ren}What?
+Dialogue: 0,1:09:51.88,1:09:53.35,Default,,0,0,0,,我听到了\N{\ren}I hear it.
+Dialogue: 0,1:09:55.02,1:09:56.96,Default,,0,0,0,,好像音乐\N{\ren}Sounds like music.
+Dialogue: 0,1:10:12.87,1:10:14.84,Default,,0,0,0,,好像是NWA\N{\ren}Sounds like n.W.A.
+Dialogue: 0,1:10:14.87,1:10:16.81,Default,,0,0,0,,什么?\N{\ren}What?
+Dialogue: 0,1:10:16.84,1:10:20.14,Default,,0,0,0,,NWA,傲慢黑鬼乐团\N{\ren}N.w.a. Niggas with attitude.
+Dialogue: 0,1:10:20.18,1:10:22.85,Default,,0,0,0,,就是方块冰、德瑞博士那些饶舌乐手\N{\ren}You know, ice cube, Dr. Dre? The rappers.
+Dialogue: 0,1:10:22.88,1:10:25.32,Default,,0,0,0,,听起来像是《干掉警察》\N{\ren}Sounds like fuck tha police.
+Dialogue: 0,1:10:25.35,1:10:28.39,Default,,0,0,0,,哪种白痴会写这种歌?\N{\ren}What kind of idiots would write a song like that?
+Dialogue: 0,1:10:28.42,1:10:31.16,Default,,0,0,0,,你应该多听一点巴布希格\N{\ren}You ought to try listenin' to a little Bob seger.
+Dialogue: 0,1:10:31.19,1:10:32.26,Default,,0,0,0,,什么?\N{\ren}What?
+Dialogue: 0,1:13:07.45,1:13:09.31,Default,,0,0,0,,来吧,警察,拼个你死我活\N{\ren}Couldn't leave it alone, huh, Tommy?
+Dialogue: 0,1:17:35.05,1:17:36.48,Default,,0,0,0,,让他走\N{\ren}Let him go.
+Dialogue: 0,1:17:37.55,1:17:40.02,Default,,0,0,0,,他没有参与这档子事\N{\ren}He's not part of this.
+Dialogue: 0,1:17:40.05,1:17:42.45,Default,,0,0,0,,太迟了\N{\ren}He is now.
+Dialogue: 0,1:17:42.49,1:17:44.89,Default,,0,0,0,,你带他来,必有原因\N{\ren}You brought him along for a reason.
+Dialogue: 0,1:17:44.92,1:17:46.39,Default,,0,0,0,,我想是中情局\N{\ren}I'm thinking agency.
+Dialogue: 0,1:17:46.42,1:17:48.29,Default,,0,0,0,,也许是国家安全委员会\N{\ren}And maybe n.S.A.
+Dialogue: 0,1:17:48.33,1:17:52.40,Default,,0,0,0,,我不想浪费你的时间来证明我自己 老汤\N{\ren}I'm not gonna waste your time trying to justify myself, Tommy.
+Dialogue: 0,1:17:52.43,1:17:54.13,Default,,0,0,0,,我们都是杀手\N{\ren}We're both killers.
+Dialogue: 0,1:17:54.17,1:17:56.70,Default,,0,0,0,,不一样的杀手\N{\ren}Different kinds.
+Dialogue: 0,1:17:56.74,1:17:59.44,Default,,0,0,0,,我杀人,是因为他该杀\N{\ren}When I kill a man, it's because he needs killin'.
+Dialogue: 0,1:17:59.47,1:18:01.07,Default,,0,0,0,,我看他这一辈子\N{\ren}I look at his life
+Dialogue: 0,1:18:01.11,1:18:03.88,Default,,0,0,0,,没做什么好事,我才毙了他\N{\ren}and if it adds up to nothin', I take him out.
+Dialogue: 0,1:18:03.91,1:18:05.58,Default,,0,0,0,,但是你,老芬\N{\ren}But you, Finn,
+Dialogue: 0,1:18:05.61,1:18:08.05,Default,,0,0,0,,你把杀人变成乐趣\N{\ren}you got to likin' it.
+Dialogue: 0,1:18:08.08,1:18:10.21,Default,,0,0,0,,我从来没有\N{\ren}I never did.
+Dialogue: 0,1:18:10.25,1:18:12.48,Default,,0,0,0,,那这是怎么一回事,老芬?\N{\ren}So what's this all about, Finn?
+Dialogue: 0,1:18:12.52,1:18:14.69,Default,,0,0,0,,最后怎会走到这步田地?\N{\ren}How does it all end here?
+Dialogue: 0,1:18:14.72,1:18:16.72,Default,,0,0,0,,是史提维约克\N{\ren}It's about Stevie York.
+Dialogue: 0,1:18:16.76,1:18:19.32,Default,,0,0,0,,你记得史提维吧?\N{\ren}You remember Stevie, don't you?
+Dialogue: 0,1:18:19.36,1:18:20.52,Default,,0,0,0,,和史提维约克打招呼\N{\ren}Say hello to Stevie York.
+Dialogue: 0,1:18:20.56,1:18:22.16,Default,,0,0,0,,他在这里搞什么?\N{\ren}What the hell's he doin' here?
+Dialogue: 0,1:18:23.43,1:18:24.80,Default,,0,0,0,,美联社的摄影师?\N{\ren}The a.P. Photographer?
+Dialogue: 0,1:18:24.83,1:18:27.53,Default,,0,0,0,,这是史提维、我和埃瓦瑞之间的事\N{\ren}It's about Stevie and me and Avery.
+Dialogue: 0,1:18:28.33,1:18:29.80,Default,,0,0,0,,还有盖勒\N{\ren}And gaylor.
+Dialogue: 0,1:18:31.17,1:18:32.87,Default,,0,0,0,,约翰盖勒,那个参议员?\N{\ren}John gaylor, the senator?
+Dialogue: 0,1:18:32.90,1:18:35.44,Default,,0,0,0,,有些人说他马上会当上总统\N{\ren}Soon to be president, some say.
+Dialogue: 0,1:18:37.18,1:18:38.91,Default,,0,0,0,,史提维怎样?\N{\ren}What about Stevie York?
+Dialogue: 0,1:18:38.94,1:18:40.41,Default,,0,0,0,,他全都拍了下来\N{\ren}He filmed it all.
+Dialogue: 0,1:18:41.35,1:18:43.71,Default,,0,0,0,,我们都吸了不少毒\N{\ren}We were higher than kites.
+Dialogue: 0,1:18:43.75,1:18:46.85,Default,,0,0,0,,吸毒、狩猎 三天没合眼\N{\ren}Smokin' and huntin' for 3 days without sleep.
+Dialogue: 0,1:18:50.45,1:18:52.42,Default,,0,0,0,,他们有9个人\N{\ren}There was 9 of them.
+Dialogue: 0,1:18:54.19,1:18:55.93,Default,,0,0,0,,6男3女\N{\ren}6 men and 3 women.
+Dialogue: 0,1:18:57.76,1:19:01.80,Default,,0,0,0,,拍完以后,我们开始有些紧张兮兮\N{\ren}When it was done, we started getting paranoid.
+Dialogue: 0,1:19:01.83,1:19:04.70,Default,,0,0,0,,我们叫约克毁掉底片\N{\ren}We'd make York destroy the film.
+Dialogue: 0,1:19:06.27,1:19:09.11,Default,,0,0,0,,但日子久了…\N{\ren}But as the days passed,
+Dialogue: 0,1:19:09.14,1:19:13.85,Default,,0,0,0,,盖勒和埃瓦瑞一直对我施压\N{\ren}gaylor and Avery kept getting more and more psycho on me.
+Dialogue: 0,1:19:13.88,1:19:15.75,Default,,0,0,0,,所以我们三个一言为定\N{\ren}So we made a pact, the 3 of us.
+Dialogue: 0,1:19:19.35,1:19:20.72,Default,,0,0,0,,然后我们杀了史提维\N{\ren}And then we killed Stevie
+Dialogue: 0,1:19:20.75,1:19:22.65,Default,,0,0,0,,做得像是北越军杀的\N{\ren}and made it look like the n.V.A. Did it.
+Dialogue: 0,1:19:31.36,1:19:33.23,Default,,0,0,0,,现在呢?老汤\N{\ren}So what now, Tommy?
+Dialogue: 0,1:19:33.26,1:19:35.30,Default,,0,0,0,,下一步怎么办?\N{\ren}What's our next move?
+Dialogue: 0,1:19:40.40,1:19:42.04,Default,,0,0,0,,这样吧\N{\ren}Tell you what.
+Dialogue: 0,1:19:42.07,1:19:44.34,Default,,0,0,0,,我放你一条生路 你回家\N{\ren}You could just walk out of here and go home.
+Dialogue: 0,1:19:44.38,1:19:46.31,Default,,0,0,0,,如果我走,我要那个警察跟我一起走\N{\ren}If I leave, the cop goes with me.
+Dialogue: 0,1:19:46.34,1:19:48.48,Default,,0,0,0,,走,快逃,贝克特\N{\ren}Go, get out, Beckett!
+Dialogue: 0,1:19:48.51,1:19:51.55,Default,,0,0,0,,你知道我不能这样做\N{\ren}You know I can't let that happen, Tommy.
+Dialogue: 0,1:19:51.58,1:19:53.99,Default,,0,0,0,,你必须杀掉我\N{\ren}You're going to have to kill me.
+Dialogue: 0,1:19:54.02,1:19:56.42,Default,,0,0,0,,到这个地步,我只能杀掉他\N{\ren}The only way I see it from here is to kill him.
+Dialogue: 0,1:19:56.45,1:19:58.59,Default,,0,0,0,,你的口头禅是什么?\N{\ren}What's your old sayin'?
+Dialogue: 0,1:19:59.39,1:20:01.79,Default,,0,0,0,,一发子弹,一条命\N{\ren}""One shot, one kill.""
+Dialogue: 0,1:20:04.23,1:20:05.66,Default,,0,0,0,,一发子弹,两条命,怎么样?\N{\ren}How about, one shot, 2 kills?
+Dialogue: 0,1:20:05.70,1:20:06.97,Default,,0,0,0,,百发百中\N{\ren}A million-to-one.
+Dialogue: 0,1:20:07.00,1:20:08.90,Default,,0,0,0,,他们不是曾经这样讲吗?\N{\ren}Isn't that what they used to say?
+Dialogue: 0,1:20:08.93,1:20:10.84,Default,,0,0,0,,开枪,反正他们也不会放过我\N{\ren}Do it. They're gonna kill me one way or another.
+Dialogue: 0,1:20:10.87,1:20:13.67,Default,,0,0,0,,他说得不错,老汤 发挥你的实力吧\N{\ren}He's right, Tommy. Take your best shot.
+Dialogue: 0,1:20:17.68,1:20:21.88,Default,,0,0,0,,指腱可伸缩与舒张手指\N{\ren}The digitorum tendon flexes and extends the finger.
+Dialogue: 0,1:20:21.91,1:20:24.58,Default,,0,0,0,,我们两人之间 有一人的大限快到了\N{\ren}Time's running out for one of us.
+Dialogue: 0,1:20:33.86,1:20:36.49,Default,,0,0,0,,快,老汤,赶快\N{\ren}Come on, Tommy, make your move!
+Dialogue: 0,1:21:33.68,1:21:36.79,Default,,0,0,0,,这是怎么回事?\N{\ren}Quan, what's happening here?
+Dialogue: 0,1:21:36.82,1:21:38.92,Default,,0,0,0,,他们说你是猫鼬\N{\ren}They say you're the mongoose.
+Dialogue: 0,1:21:38.96,1:21:40.42,Default,,0,0,0,,再说一遍\N{\ren}Come again?
+Dialogue: 0,1:21:40.46,1:21:42.06,Default,,0,0,0,,猫鼬\N{\ren}The mongoose.
+Dialogue: 0,1:21:43.76,1:21:46.70,Default,,0,0,0,,在古老的越南民间故事中\N{\ren}It's a... it's an old Vietnamese folk tale.
+Dialogue: 0,1:21:46.73,1:21:49.20,Default,,0,0,0,,上帝创造眼镜蛇 立他为王\N{\ren}When god created the cobra, he made him king.
+Dialogue: 0,1:21:49.23,1:21:51.84,Default,,0,0,0,,时间久了,眼镜蛇权力越来越大 以为自己是上帝\N{\ren}As time passed, the cobra became so powerful he thought he was god.
+Dialogue: 0,1:21:51.87,1:21:54.37,Default,,0,0,0,,所以上帝又创造了猫鼬 把他的权力夺走\N{\ren}So god created the mongoose to take his power away.
+Dialogue: 0,1:21:54.41,1:21:55.54,Default,,0,0,0,,嗯-嗯\N{\ren}Mmm-hmm.
+Dialogue: 0,1:21:55.57,1:21:56.91,Default,,0,0,0,,他们想干嘛?\N{\ren}What do they want?
+Dialogue: 0,1:21:56.94,1:22:00.54,Default,,0,0,0,,无论你想干嘛 现在权力在于你\N{\ren}Whatever you want. You have the power now.
+Dialogue: 0,1:22:00.58,1:22:02.25,Default,,0,0,0,,你在开玩笑吧\N{\ren}You're kiddin' me.
+Dialogue: 0,1:22:02.28,1:22:03.78,Default,,0,0,0,,是真的,我告诉你\N{\ren}It's true, I told you.
+Dialogue: 0,1:22:03.81,1:22:06.95,Default,,0,0,0,,他们只是孩子,孩子什么都肯做\N{\ren}They're just kids. Kids do anything.
+Dialogue: 0,1:22:06.99,1:22:09.39,Default,,0,0,0,,你听我说\N{\ren}Listen to me.
+Dialogue: 0,1:22:09.42,1:22:11.79,Default,,0,0,0,,有一个麦肯纳上校\N{\ren}There's a colonel McKenna.
+Dialogue: 0,1:22:11.82,1:22:16.29,Default,,0,0,0,,陆军情报部的丹麦肯纳上校\N{\ren}Colonel Dan McKenna. Military intelligence.
+Dialogue: 0,1:22:16.33,1:22:19.63,Default,,0,0,0,,他驻在华府五角大厦\N{\ren}He's stationed at the Pentagon in Washington D.C.
+Dialogue: 0,1:22:19.66,1:22:22.60,Default,,0,0,0,,我要你和他连络,不要找其他人\N{\ren}I want you to contact him and only him.
+Dialogue: 0,1:22:22.63,1:22:24.10,Default,,0,0,0,,告诉他这里发生的事\N{\ren}Tell him what happened here.
+Dialogue: 0,1:22:24.14,1:22:27.04,Default,,0,0,0,,告诉他过两天我需要 撤运伤军的直升机…\N{\ren}And tell him I'll need a dust-off in 2 days
+Dialogue: 0,1:22:27.07,1:22:30.57,Default,,0,0,0,,在柬埔寨境内 磅河和梅河的交流处\N{\ren}where the kampong and mebon rivers meet in Cambodia.
+Dialogue: 0,1:22:30.61,1:22:32.14,Default,,0,0,0,,为什么不和我一起回来?\N{\ren}Why not come back with me?
+Dialogue: 0,1:22:32.18,1:22:34.45,Default,,0,0,0,,他们会在越南找我\N{\ren}They'll be looking for me in the nam.
+Dialogue: 0,1:22:34.48,1:22:35.75,Default,,0,0,0,,我想对我比较安全\N{\ren}I think it's safer
+Dialogue: 0,1:22:35.78,1:22:39.15,Default,,0,0,0,,越过边界去柬埔寨\N{\ren}if I d.D. Across the border into Cambodia.
+Dialogue: 0,1:22:40.45,1:22:42.52,Default,,0,0,0,,你问问他们好吗?\N{\ren}Can you ask them that?
+Dialogue: 0,1:23:02.51,1:23:04.71,Default,,0,0,0,,你信得过我吗?\N{\ren}You trust me to do this?
+Dialogue: 0,1:23:04.74,1:23:06.21,Default,,0,0,0,,如果我两天后到那里\N{\ren}If in 2 days I get there,
+Dialogue: 0,1:23:06.24,1:23:08.31,Default,,0,0,0,,却没有直升机带我走…\N{\ren}and there's not a chopper to evac me out,
+Dialogue: 0,1:23:08.35,1:23:11.02,Default,,0,0,0,,那我大概看错了你\N{\ren}then I'll guess I was wrong about you.
+Dialogue: 0,1:23:13.55,1:23:14.82,Default,,0,0,0,,Quan\N{\ren}Quan.
+Dialogue: 0,1:23:20.16,1:23:21.59,Default,,0,0,0,,你也是\N{\ren}You, too.
+Dialogue: 0,1:23:24.53,1:23:25.86,Default,,0,0,0,,嘿，贝克特。\N{\ren}Hey, Beckett.
+Dialogue: 0,1:23:29.40,1:23:30.93,Default,,0,0,0,,你真是神枪手\N{\ren}You're one hell of a shot.
+Dialogue: 0,1:23:33.54,1:23:34.87,Default,,0,0,0,,现在不行了\N{\ren}Was.
+Dialogue: 0,1:23:37.48,1:23:38.81,Default,,0,0,0,,现在不行了\N{\ren}Was.
+Dialogue: 0,1:25:49.87,1:25:52.68,Default,,0,0,0,,今日最新消息\N{\ren}In breaking news today, it was learned
+Dialogue: 0,1:25:52.71,1:25:54.45,Default,,0,0,0,,据报德州参议员约翰盖勒…\N{\ren}that senator John gaylor from Texas
+Dialogue: 0,1:25:54.48,1:25:56.38,Default,,0,0,0,,已辞去参议院席位\N{\ren}has resigned his seat in the senate.
+Dialogue: 0,1:25:56.41,1:25:58.18,Default,,0,0,0,,在由发言人宣读的声明中\N{\ren}In his statement read by a spokesman,
+Dialogue: 0,1:25:58.22,1:25:59.92,Default,,0,0,0,,参议员表示他决定…\N{\ren}the senator said he has decided
+Dialogue: 0,1:25:59.95,1:26:01.65,Default,,0,0,0,,结束政治生涯\N{\ren}to end his political aspirations
+Dialogue: 0,1:26:01.69,1:26:03.92,Default,,0,0,0,,在私人机构另求发展\N{\ren}and enter the private sector.
+Dialogue: 0,1:26:03.95,1:26:05.76,Default,,0,0,0,,他的辞职完全\N{\ren}His resignation came as a complete surprise
+Dialogue: 0,1:26:05.79,1:26:07.93,Default,,0,0,0,,在白宫意料之外\N{\ren}to the white house.
+Dialogue: 0,1:26:07.96,1:26:10.39,Default,,0,0,0,,盖勒参议员被视为该党…\N{\ren}Senator gaylor was thought to be his party's leading candidate
+Dialogue: 0,1:26:10.43,1:26:12.53,Default,,0,0,0,,下届总统大选的热门候选人\N{\ren}for the upcoming presidential race.
+Dialogue: 0,1:26:12.56,1:26:14.33,Default,,0,0,0,,对于参议员辞职的消息…\N{\ren}The news of the senator's departure
+Dialogue: 0,1:26:14.37,1:26:16.53,Default,,0,0,0,,总统一定感到非常头痛\N{\ren}must be very troubling for the president,
+Dialogue: 0,1:26:16.57,1:26:18.94,Default,,0,0,0,,因为才在两天前…\N{\ren}considering it was just 2 days ago
+Dialogue: 0,1:26:18.97,1:26:20.54,Default,,0,0,0,,他最信赖的顾问之一\N{\ren}that one of his most trusted advisors,
+Dialogue: 0,1:26:20.57,1:26:23.41,Default,,0,0,0,,国家安全委员会副主席威廉埃瓦瑞…\N{\ren}William Avery, deputy director of the n.S.A.,
+Dialogue: 0,1:26:23.44,1:26:26.44,Default,,0,0,0,,被发现自杀而身亡\N{\ren}was found dead, an apparent suicide.
