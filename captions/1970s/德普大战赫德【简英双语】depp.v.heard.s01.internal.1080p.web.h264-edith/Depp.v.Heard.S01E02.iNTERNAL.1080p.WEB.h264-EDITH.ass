@@ -1,0 +1,871 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.52,0:00:09.36,Default,,0000,0000,0000,,欢迎回来\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:00:09.44,0:00:12.56,Default,,0000,0000,0000,,约翰尼·德普诉前妻 安柏·赫德的诽谤案\N{\fn微软雅黑}{\fs14}Welcome back. Johnny Depp's defamation trial
+Dialogue: 0,0:00:12.64,0:00:15.48,Default,,0000,0000,0000,,在电视上和社交媒体上同步直播\N{\fn微软雅黑}{\fs14}is playing out in real time on television and on social media,
+Dialogue: 0,0:00:15.56,0:00:16.52,Default,,0000,0000,0000,,（2022年4月 弗吉尼亚）
+Dialogue: 0,0:00:16.60,0:00:19.96,Default,,0000,0000,0000,,有数以百万记的人 在爆出惊人的细节 并且站边\N{\fn微软雅黑}{\fs14}where millions are poring over shocking details and taking sides.
+Dialogue: 0,0:00:22.12,0:00:24.04,Default,,0000,0000,0000,,（抖音）
+Dialogue: 0,0:00:24.12,0:00:25.64,Default,,0000,0000,0000,,安柏 你感觉如何？\N{\fn微软雅黑}{\fs14}Amber, how you feeling?
+Dialogue: 0,0:00:25.72,0:00:30.52,Default,,0000,0000,0000,,我关于这集节目的视频 有将近50万播放量\N{\fn微软雅黑}{\fs14}My video about this pod episode is at almost 500,000 views,
+Dialogue: 0,0:00:31.16,0:00:33.84,Default,,0000,0000,0000,,而那期视频是我昨天才发布的\N{\fn微软雅黑}{\fs14}and I just posted it yesterday.
+Dialogue: 0,0:00:33.92,0:00:35.84,Default,,0000,0000,0000,,我们必须看到很多方面\N{\fn微软雅黑}{\fs14}It has many facets that we have to look at,
+Dialogue: 0,0:00:35.92,0:00:39.08,Default,,0000,0000,0000,,包括名声 “我也是”运动 取消文化\N{\fn微软雅黑}{\fs14}including fame, the Me Too movement, cancel culture.
+Dialogue: 0,0:00:39.16,0:00:42.08,Default,,0000,0000,0000,,这简直就是一场完美风暴\N{\fn微软雅黑}{\fs14}It is just a, uh... sort of a perfect storm, if you will.
+Dialogue: 0,0:00:42.80,0:00:45.32,Default,,0000,0000,0000,,超过埃隆·马斯克成为第一名\N{\fn微软雅黑}{\fs14}Number one over Elon Musk.
+Dialogue: 0,0:00:45.40,0:00:47.68,Default,,0000,0000,0000,,是乔·拜登的四倍以上\N{\fn微软雅黑}{\fs14}More than four times Joe Biden.
+Dialogue: 0,0:00:47.76,0:00:51.16,Default,,0000,0000,0000,,是堕胎意见的五倍以上\N{\fn微软雅黑}{\fs14}Abortion opinion, more than five times greater.
+Dialogue: 0,0:00:51.24,0:00:54.60,Default,,0000,0000,0000,,是乌克兰战争的六倍以上\N{\fn微软雅黑}{\fs14}The Ukraine war, more than six times greater.
+Dialogue: 0,0:00:54.68,0:01:00.80,Default,,0000,0000,0000,,这是全国互联网上最热门的事件\N{\fn微软雅黑}{\fs14}This story is the biggest story online in the nation.
+Dialogue: 0,0:01:00.88,0:01:03.96,Default,,0000,0000,0000,,（在审判期间 有超过200小时的实况报道）
+Dialogue: 0,0:01:04.04,0:01:05.84,Default,,0000,0000,0000,,（数以百万计的人 收看、评论和分享）
+Dialogue: 0,0:01:05.92,0:01:08.52,Default,,0000,0000,0000,,新闻主播在法院外排起了长队\N{\fn微软雅黑}{\fs14}News anchors lined up outside the courthouse.
+Dialogue: 0,0:01:08.60,0:01:11.96,Default,,0000,0000,0000,,法庭里有很多摄像头 每分钟都在直播\N{\fn微软雅黑}{\fs14}Numerous cameras inside the courtroom live-streaming every minute.
+Dialogue: 0,0:01:12.04,0:01:15.36,Default,,0000,0000,0000,,带我们去参观一下 可以给我们的移动设备拍个视频\N{\fn微软雅黑}{\fs14}Uh, take us for a little tour of our... I think we have video of our mobile setup.
+Dialogue: 0,0:01:15.44,0:01:18.48,Default,,0000,0000,0000,,我们这里有时会有供暖和空调\N{\fn微软雅黑}{\fs14}We actually have heating and air conditioning sometimes in here.
+Dialogue: 0,0:01:20.64,0:01:23.08,Default,,0000,0000,0000,,大家在推特直播 在视频直播\N{\fn微软雅黑}{\fs14}People are live-tweeting, people are live-streaming.
+Dialogue: 0,0:01:23.16,0:01:25.40,Default,,0000,0000,0000,,这都是什么意思？最后如何收场？\N{\fn微软雅黑}{\fs14}What does it all mean? Where does it end?
+Dialogue: 0,0:01:25.48,0:01:27.88,Default,,0000,0000,0000,,这成为了社交媒体马戏团\N{\fn微软雅黑}{\fs14}It's been, uh, you know, a social media circus
+Dialogue: 0,0:01:27.96,0:01:32.68,Default,,0000,0000,0000,,充斥着来自 创作者、网红和普通人的评论\N{\fn微软雅黑}{\fs14}of commentary from creators and influencers and, uh... and laypeople.
+Dialogue: 0,0:01:32.76,0:01:37.20,Default,,0000,0000,0000,,我觉得这件事的真正意义 早就被社交媒体遗忘了\N{\fn微软雅黑}{\fs14}I think that the truth was lost on social media, uh, quite some time ago.
+Dialogue: 0,0:01:37.28,0:01:41.44,Default,,0000,0000,0000,,大家对抖音上 传播的错误信息有了新的担忧\N{\fn微软雅黑}{\fs14}Well, there are new concerns about the spread of misinformation on TikTok.
+Dialogue: 0,0:01:41.52,0:01:43.16,Default,,0000,0000,0000,,研究人员调查显示\N{\fn微软雅黑}{\fs14}According to researchers,
+Dialogue: 0,0:01:43.24,0:01:47.24,Default,,0000,0000,0000,,美国用户在抖音上 花费的时间比在推特上长三倍\N{\fn微软雅黑}{\fs14}American users spend three times as much time on TikTok than on Twitter.
+Dialogue: 0,0:01:47.32,0:01:52.24,Default,,0000,0000,0000,,再多给我们解释一下 这个应用程序的设计和它的麻烦之处\N{\fn微软雅黑}{\fs14}Explain for us more about the app's design and why it is particularly problematic.
+Dialogue: 0,0:01:52.32,0:01:54.48,Default,,0000,0000,0000,,这是一个短视频平台\N{\fn微软雅黑}{\fs14}You have a platform that uses short videos.
+Dialogue: 0,0:01:54.56,0:01:58.24,Default,,0000,0000,0000,,它有一个非常强大而神秘的推荐算法\N{\fn微软雅黑}{\fs14}It has a powerful and very mysterious recommendation algorithm.
+Dialogue: 0,0:01:58.32,0:01:59.76,Default,,0000,0000,0000,,它有十亿用户\N{\fn微软雅黑}{\fs14}You've got a billion users
+Dialogue: 0,0:01:59.84,0:02:03.12,Default,,0000,0000,0000,,不断地快速筛选视频\N{\fn微软雅黑}{\fs14}that are constantly filtering through a very fast-moving feed.
+Dialogue: 0,0:02:03.20,0:02:06.32,Default,,0000,0000,0000,,视频可以很轻易地被操控和重新发布\N{\fn微软雅黑}{\fs14}Videos can be very easily manipulated and republished.
+Dialogue: 0,0:02:06.40,0:02:09.40,Default,,0000,0000,0000,,我走出卧室时 一巴掌打在我脸上\N{\fn微软雅黑}{\fs14}I was walking out of the bedroom, slapped me across the face,
+Dialogue: 0,0:02:09.48,0:02:11.44,Default,,0000,0000,0000,,我说：“约翰尼 你打我”\N{\fn微软雅黑}{\fs14}and I said, "Johnny, you hit me."
+Dialogue: 0,0:02:12.32,0:02:13.88,Default,,0000,0000,0000,,你打我\N{\fn微软雅黑}{\fs14}You just hit me. Hit me.
+Dialogue: 0,0:02:13.96,0:02:17.08,Default,,0000,0000,0000,,有一些模仿视频会被很多人当真\N{\fn微软雅黑}{\fs14}There are parody videos that often get mistaken as fact.
+Dialogue: 0,0:02:17.60,0:02:19.12,Default,,0000,0000,0000,,我们当时并肩坐着
+Dialogue: 0,0:02:19.20,0:02:20.52,Default,,0000,0000,0000,,人们都痴迷于这个案件\N{\fn微软雅黑}{\fs14}People are obsessed with this case. On TikTok,
+Dialogue: 0,0:02:20.60,0:02:23.72,Default,,0000,0000,0000,,人们可以在抖音上广播他们的理论\N{\fn微软雅黑}{\fs14}people could really broadcast their theories.
+Dialogue: 0,0:02:23.80,0:02:26.04,Default,,0000,0000,0000,,我当时坐在地毯上\N{\fn微软雅黑}{\fs14}I was sitting there on this carpet.
+Dialogue: 0,0:02:26.12,0:02:29.24,Default,,0000,0000,0000,,尤其是这个案件被直播 你可以拿到全程录像\N{\fn微软雅黑}{\fs14}Especially when the case is live in court and you have all this footage.
+Dialogue: 0,0:02:29.32,0:02:32.84,Default,,0000,0000,0000,,你可以给他们看到真实发生的事情 大家在发什么？\N{\fn微软雅黑}{\fs14}You could show them authentically what is going on. What are people posting?
+Dialogue: 0,0:02:32.92,0:02:34.20,Default,,0000,0000,0000,,聊聊澳大利亚\N{\fn微软雅黑}{\fs14}...talked about Australia.
+Dialogue: 0,0:02:34.28,0:02:36.76,Default,,0000,0000,0000,,我认为这可能会决定这个案件\N{\fn微软雅黑}{\fs14}I think this might decide the case,
+Dialogue: 0,0:02:36.84,0:02:41.44,Default,,0000,0000,0000,,因为这是双方争论最激烈的矛盾焦点\N{\fn微软雅黑}{\fs14}because this is where the parties are alleging the most significant dispute,
+Dialogue: 0,0:02:41.52,0:02:43.24,Default,,0000,0000,0000,,而且他们的说法完全相反\N{\fn微软雅黑}{\fs14}and they're in such contradiction,
+Dialogue: 0,0:02:43.32,0:02:46.24,Default,,0000,0000,0000,,陪审团只能认同其中一个的真实性\N{\fn微软雅黑}{\fs14}that the jury can only think one of them is true.
+Dialogue: 0,0:02:46.32,0:02:48.84,Default,,0000,0000,0000,,我认为他们会得出结论 其中一方\N{\fn微软雅黑}{\fs14}I think they're going to come to the conclusion
+Dialogue: 0,0:02:48.92,0:02:50.28,Default,,0000,0000,0000,,在澳大利亚的事情上撒了谎\N{\fn微软雅黑}{\fs14}that one of them is lying about Australia.
+Dialogue: 0,0:02:50.36,0:02:52.84,Default,,0000,0000,0000,,让我们来看看他们描述的事情经过\N{\fn微软雅黑}{\fs14}Let's take a look about what they said happened.
+Dialogue: 0,0:02:52.92,0:02:56.72,Default,,0000,0000,0000,,我当时在参与 《加勒比海盗5》的拍摄\N{\fn微软雅黑}{\fs14}I was... I was working on Pirates of the Caribbean five.
+Dialogue: 0,0:02:56.80,0:02:59.52,Default,,0000,0000,0000,,德普先生 当时赫德小姐 和你一起在澳大利亚吗？\N{\fn微软雅黑}{\fs14}Mr. Depp, was Ms. Heard in Australia with you?
+Dialogue: 0,0:03:02.60,0:03:04.76,Default,,0000,0000,0000,,她后来过来了 是的\N{\fn微软雅黑}{\fs14}She came a little later, yes.
+Dialogue: 0,0:03:04.84,0:03:08.88,Default,,0000,0000,0000,,赫德小姐去澳大利亚 找你的时候 发生了什么事？\N{\fn微软雅黑}{\fs14}And what happened when Ms. Heard came to visit you in Australia?
+Dialogue: 0,0:03:17.84,0:03:23.56,Default,,0000,0000,0000,,《德普 vs 赫德： 好莱坞夫妻诽谤案》
+Dialogue: 0,0:03:24.32,0:03:26.92,Default,,0000,0000,0000,,剧名：《第二集：全网关注》
+Dialogue: 0,0:03:27.00,0:03:29.12,Default,,0000,0000,0000,,谢谢 约翰尼·德普来了\N{\fn微软雅黑}{\fs14}Thank you very much. Johnny Depp's here.
+Dialogue: 0,0:03:29.20,0:03:31.88,Default,,0000,0000,0000,,我听说过这件事 现在终于看到了 你有一枚订婚戒指\N{\fn微软雅黑}{\fs14}I haven't seen it, but I know it ahead of time, and now I see it,that you're wea... wearing a, uh... a... you have an engagement ring.
+Dialogue: 0,0:03:31.96,0:03:35.20,Default,,0000,0000,0000,,（2014年4月 《大卫·莱特曼深夜秀》）
+Dialogue: 0,0:03:35.28,0:03:40.24,Default,,0000,0000,0000,,-是的 我戴了一枚女性订婚戒指 -对 但你要结婚了吧\N{\fn微软雅黑}{\fs14}- I do, I have a female engagement ring... - Yeah. - ...on my finger. - But you... you, uh, uh, you're getting married.
+Dialogue: 0,0:03:40.32,0:03:41.68,Default,,0000,0000,0000,,是啊\N{\fn微软雅黑}{\fs14}- Well, it's... uh, yeah. Uh, yeah. - Yeah.
+Dialogue: 0,0:03:41.76,0:03:46.48,Default,,0000,0000,0000,,对 但男人戴订婚戒指 这不是很常见 对吧？\N{\fn微软雅黑}{\fs14}But it's... it's not typical for a m-man to wear an engagement ring, is it?
+Dialogue: 0,0:03:46.56,0:03:47.40,Default,,0000,0000,0000,,不常见\N{\fn微软雅黑}{\fs14}No.
+Dialogue: 0,0:03:49.44,0:03:52.28,Default,,0000,0000,0000,,但我的女孩戴嫌大了 所以…\N{\fn微软雅黑}{\fs14}It was too big for my girl, so, uh...
+Dialogue: 0,0:03:52.36,0:03:55.16,Default,,0000,0000,0000,,你的结婚对象…对了 她也上过节目\N{\fn微软雅黑}{\fs14}So the woman you're, uh... Who's been on the show, by the way.
+Dialogue: 0,0:03:55.24,0:03:56.56,Default,,0000,0000,0000,,-安柏 是的 -很棒\N{\fn微软雅黑}{\fs14}- Amber, yeah. Yeah. - Oh, lovely.
+Dialogue: 0,0:03:56.64,0:03:58.20,Default,,0000,0000,0000,,安柏！\N{\fn微软雅黑}{\fs14}Amber!
+Dialogue: 0,0:03:58.28,0:03:59.92,Default,,0000,0000,0000,,安柏 向左看！\N{\fn微软雅黑}{\fs14}Amber, look to your left!
+Dialogue: 0,0:04:00.44,0:04:03.08,Default,,0000,0000,0000,,安柏 笑一个 安柏！\N{\fn微软雅黑}{\fs14}Amber. Big smile, Amber!
+Dialogue: 0,0:04:04.12,0:04:08.88,Default,,0000,0000,0000,,我几年前就向赫德小姐求婚了\N{\fn微软雅黑}{\fs14}I had proposed to Ms. Heard a couple of years before, I believe,
+Dialogue: 0,0:04:08.96,0:04:14.08,Default,,0000,0000,0000,,我们偶尔会聊一聊 什么时候适合抽出时间\N{\fn微软雅黑}{\fs14}so we talked occasionally about when would be the right time between schedules
+Dialogue: 0,0:04:14.16,0:04:20.88,Default,,0000,0000,0000,,来举办婚礼和度蜜月\N{\fn微软雅黑}{\fs14}so that we could actually have a wedding and a honeymoon,
+Dialogue: 0,0:04:20.96,0:04:25.32,Default,,0000,0000,0000,,然后去澳大利亚工作\N{\fn微软雅黑}{\fs14}and... and then go on to do the work in Australia.
+Dialogue: 0,0:04:26.08,0:04:29.92,Default,,0000,0000,0000,,我要和我的一生挚爱结婚\N{\fn微软雅黑}{\fs14}I was marrying the love of my life.
+Dialogue: 0,0:04:31.24,0:04:32.56,Default,,0000,0000,0000,,这很复杂\N{\fn微软雅黑}{\fs14}It was complicated,
+Dialogue: 0,0:04:33.36,0:04:35.36,Default,,0000,0000,0000,,但他曾是我的一生挚爱\N{\fn微软雅黑}{\fs14}but he was the love of my life.
+Dialogue: 0,0:04:35.44,0:04:39.00,Default,,0000,0000,0000,,女士们 先生们 约翰尼·德普\N{\fn微软雅黑}{\fs14}Ladies and gentlemen, Johnny Depp!
+Dialogue: 0,0:04:44.60,0:04:47.32,Default,,0000,0000,0000,,我们是为了…\N{\fn微软雅黑}{\fs14}We all left for the island for the...
+Dialogue: 0,0:04:48.68,0:04:51.52,Default,,0000,0000,0000,,梦想中的婚礼上岛的 大概吧\N{\fn微软雅黑}{\fs14}well, the dream wedding, I guess.
+Dialogue: 0,0:04:54.48,0:04:56.36,Default,,0000,0000,0000,,我们走过沙滩步道\N{\fn微软雅黑}{\fs14}We walked down the beach aisle, 
+Dialogue: 0,0:04:56.44,0:04:59.92,Default,,0000,0000,0000,,说了我们的誓言 在祭坛上\N{\fn微软雅黑}{\fs14}said our vows,
+Dialogue: 0,0:05:00.00,0:05:03.20,Default,,0000,0000,0000,,对狗仔队竖了中指\N{\fn微软雅黑}{\fs14}and shot the bird, meaning the middle finger, up at the paparazzi while we were on the altar.
+Dialogue: 0,0:05:04.60,0:05:07.92,Default,,0000,0000,0000,,然后我们跳舞和庆祝\N{\fn微软雅黑}{\fs14}And we danced and celebrated.
+Dialogue: 0,0:05:09.00,0:05:11.84,Default,,0000,0000,0000,,然后我离开了岛屿 因为我得去工作\N{\fn微软雅黑}{\fs14}And then I left the island 'cause I had to go work.
+Dialogue: 0,0:05:11.92,0:05:14.04,Default,,0000,0000,0000,,安柏！请看前面\N{\fn微软雅黑}{\fs14}Amber! Straight ahead please.
+Dialogue: 0,0:05:14.12,0:05:16.16,Default,,0000,0000,0000,,安柏·赫德比他年轻20岁\N{\fn微软雅黑}{\fs14}Amber Heard is 20 years younger
+Dialogue: 0,0:05:16.24,0:05:20.00,Default,,0000,0000,0000,,她在好莱坞建立了 自己的事业和知名度\N{\fn微软雅黑}{\fs14}and was building a career and name recognition within Hollywood,
+Dialogue: 0,0:05:20.08,0:05:23.68,Default,,0000,0000,0000,,但她还远不是 约翰尼·德普那样的明星\N{\fn微软雅黑}{\fs14}but she was certainly nowhere near the star that Johnny Depp was.
+Dialogue: 0,0:05:23.76,0:05:25.56,Default,,0000,0000,0000,,-我们跟安柏·赫德在一起 -你好\N{\fn微软雅黑}{\fs14}- Hi, we're here with Amber Heard. - Hi.
+Dialogue: 0,0:05:25.64,0:05:27.48,Default,,0000,0000,0000,,介绍一下你的角色\N{\fn微软雅黑}{\fs14}Explain quickly your character.
+Dialogue: 0,0:05:27.56,0:05:29.24,Default,,0000,0000,0000,,我扮演的是一个年轻女孩\N{\fn微软雅黑}{\fs14}I play a young girl who's caught up
+Dialogue: 0,0:05:29.32,0:05:30.64,Default,,0000,0000,0000,,（圣丹斯电影节 2009年）\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:05:30.72,0:05:34.56,Default,,0000,0000,0000,,陷入了洛杉矶1980年代 快节奏且贪图享乐的生活方式\N{\fn微软雅黑}{\fs14}in the fast-paced, decadent, 1980s lifestyle of Los Angeles,
+Dialogue: 0,0:05:36.80,0:05:39.40,Default,,0000,0000,0000,,她是一个美丽的女人 最终…\N{\fn微软雅黑}{\fs14}She's a beautiful woman who ultimately, um...
+Dialogue: 0,0:05:40.92,0:05:44.48,Default,,0000,0000,0000,,最终 这种美丽 导致了她和其他人物的灭亡\N{\fn微软雅黑}{\fs14}Ultimately, that beauty causes her demise and the demise of other characters around her.
+Dialogue: 0,0:05:44.56,0:05:46.24,Default,,0000,0000,0000,,那是一个很有趣的角色\N{\fn微软雅黑}{\fs14}And it was an interesting part.
+Dialogue: 0,0:05:46.32,0:05:49.48,Default,,0000,0000,0000,,我在洛杉矶搭乘公交车 那是在智能手机时代之前\N{\fn微软雅黑}{\fs14}I took the bus around L.A. It was before smartphones.
+Dialogue: 0,0:05:49.56,0:05:52.80,Default,,0000,0000,0000,,我拿着托马斯街道地图和换洗的背心\N{\fn微软雅黑}{\fs14}I had a... a Thomas Guide and a change of tank tops,
+Dialogue: 0,0:05:52.88,0:05:55.48,Default,,0000,0000,0000,,非常努力地跑试镜\N{\fn微软雅黑}{\fs14}and I just hustled from one audition to the other.
+Dialogue: 0,0:05:55.56,0:05:58.84,Default,,0000,0000,0000,,-这里 安柏 -安柏 这里\N{\fn微软雅黑}{\fs14}- Right here, Amber. - Amber, right here.
+Dialogue: 0,0:05:58.92,0:06:01.52,Default,,0000,0000,0000,,那之后的进展很缓慢\N{\fn微软雅黑}{\fs14}It's been a slow progression, I guess, since then,
+Dialogue: 0,0:06:01.60,0:06:06.36,Default,,0000,0000,0000,,我要么是在大片里出演非常小的角色\N{\fn微软雅黑}{\fs14}you know, of doing either tiny bit parts in bigger movies
+Dialogue: 0,0:06:06.44,0:06:10.24,Default,,0000,0000,0000,,要么是在没人去看的电影里 出演重要一点的角色\N{\fn微软雅黑}{\fs14}or doing larger roles in movies that no one would see,
+Dialogue: 0,0:06:10.32,0:06:12.64,Default,,0000,0000,0000,,其实现在也差不多是那样\N{\fn微软雅黑}{\fs14}and I guess, you know, it still is kind of like that.
+Dialogue: 0,0:06:13.44,0:06:16.04,Default,,0000,0000,0000,,离开岛上之后 你就必须去工作\N{\fn微软雅黑}{\fs14}When you say you left the island, you had to go to work,
+Dialogue: 0,0:06:16.12,0:06:17.72,Default,,0000,0000,0000,,你当时在做什么？\N{\fn微软雅黑}{\fs14}what... what were you working on?
+Dialogue: 0,0:06:17.80,0:06:18.64,Default,,0000,0000,0000,,（《丹麦女孩》）
+Dialogue: 0,0:06:20.36,0:06:22.92,Default,,0000,0000,0000,,我当时在伦敦拍《丹麦女孩》\N{\fn微软雅黑}{\fs14}I was filming The Danish Girl in London.
+Dialogue: 0,0:06:23.60,0:06:27.00,Default,,0000,0000,0000,,我当时在为那部电影做准备工作\N{\fn微软雅黑}{\fs14}I was there doing, kind of, prep work for that film.
+Dialogue: 0,0:06:28.36,0:06:30.84,Default,,0000,0000,0000,,我要去往澳大利亚\N{\fn微软雅黑}{\fs14}I was going off to Australia.
+Dialogue: 0,0:06:35.08,0:06:35.92,Default,,0000,0000,0000,,先生们！\N{\fn微软雅黑}{\fs14}Gentlemen!
+Dialogue: 0,0:06:36.00,0:06:39.84,Default,,0000,0000,0000,,当时的计划就是我拍完电影之后\N{\fn微软雅黑}{\fs14}The plan was always for me to wrap on my movie
+Dialogue: 0,0:06:39.92,0:06:43.60,Default,,0000,0000,0000,,就去澳大利亚找他 他在那里拍摄《加勒比海盗5》\N{\fn微软雅黑}{\fs14}and then come and join him in Australia where he was filming Pirates five.
+Dialogue: 0,0:06:43.68,0:06:46.36,Default,,0000,0000,0000,,好 那大概是什么时候？\N{\fn微软雅黑}{\fs14}Okay, and when approximately was that?
+Dialogue: 0,0:06:48.44,0:06:52.00,Default,,0000,0000,0000,,那是3月3日\N{\fn微软雅黑}{\fs14}That was March 3rd.
+Dialogue: 0,0:06:52.08,0:06:56.36,Default,,0000,0000,0000,,各位 我非常震惊于你们对这个频道\N{\fn微软雅黑}{\fs14}Guys, I am shocked at the massive amounts of love and support
+Dialogue: 0,0:06:56.44,0:06:58.40,Default,,0000,0000,0000,,展现出的那么多爱与支持\N{\fn微软雅黑}{\fs14}that you guys have been showing this channel,
+Dialogue: 0,0:06:58.48,0:07:01.72,Default,,0000,0000,0000,,尤其是我们关于 为约翰尼·德普讨公道运动的报道\N{\fn微软雅黑}{\fs14}and specifically our coverage of the Justice for Johnny Depp movement.
+Dialogue: 0,0:07:02.32,0:07:05.52,Default,,0000,0000,0000,,欢迎回来本期的达斯新闻特别编\N{\fn微软雅黑}{\fs14}Welcome back to another episode of Darthn3ws special edition,
+Dialogue: 0,0:07:05.60,0:07:07.20,Default,,0000,0000,0000,,“大家都爱约翰尼”\N{\fn微软雅黑}{\fs14}"Everybody Loves Johnny."
+Dialogue: 0,0:07:07.28,0:07:10.68,Default,,0000,0000,0000,,不对 划掉这句 “大家都讨厌安柏”\N{\fn微软雅黑}{\fs14}Actually, scratch that. "Everybody Hates Amber."
+Dialogue: 0,0:07:11.20,0:07:13.48,Default,,0000,0000,0000,,YouTube上有一些创作者\N{\fn微软雅黑}{\fs14}You have creators on platforms like YouTube.
+Dialogue: 0,0:07:13.56,0:07:14.64,Default,,0000,0000,0000,,突然之间\N{\fn微软雅黑}{\fs14}All of a sudden,
+Dialogue: 0,0:07:14.72,0:07:16.92,Default,,0000,0000,0000,,他们就开始发布关于这场庭审的视频\N{\fn微软雅黑}{\fs14}they're pumping out videos about this trial.
+Dialogue: 0,0:07:17.00,0:07:18.44,Default,,0000,0000,0000,,如果你还没有的话 帮个忙？\N{\fn微软雅黑}{\fs14}If you haven't, do me a favor, 
+Dialogue: 0,0:07:18.52,0:07:20.60,Default,,0000,0000,0000,,点击关注按钮 按下提醒铃\N{\fn微软雅黑}{\fs14}hit the subscribe button, hit the bell for alerts.
+Dialogue: 0,0:07:20.68,0:07:23.16,Default,,0000,0000,0000,,大家都在等着看证据 我也是…\N{\fn微软雅黑}{\fs14}I think everybody's waiting to see the evidence. That's what I...
+Dialogue: 0,0:07:23.24,0:07:25.00,Default,,0000,0000,0000,,（痞子杰 痞子杰秀音频）\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:07:25.08,0:07:28.04,Default,,0000,0000,0000,,提示一下不知道的人 醒目留言是在YouTube上\N{\fn微软雅黑}{\fs14}For those of you who don't know, Super Chats is a way, on YouTube, 
+Dialogue: 0,0:07:28.12,0:07:30.96,Default,,0000,0000,0000,,观众看直播时的打赏手段\N{\fn微软雅黑}{\fs14}for people watching someone streaming to donate.
+Dialogue: 0,0:07:31.04,0:07:32.88,Default,,0000,0000,0000,,洛 谢谢你打赏的100\N{\fn微软雅黑}{\fs14}Loww, thank you for the 100 gift, giving me subs. I appreciate that.
+Dialogue: 0,0:07:32.96,0:07:35.76,Default,,0000,0000,0000,,我很感激 非常谢谢你\N{\fn微软雅黑}{\fs14}Thank you so much. Thank you, thank you.
+Dialogue: 0,0:07:35.84,0:07:40.72,Default,,0000,0000,0000,,它可以让你的评论被置顶 打赏人的名字和额度会被高亮\N{\fn微软雅黑}{\fs14}It allows their comment to go to the top. It kinda highlights that... that person and their donation.
+Dialogue: 0,0:07:40.80,0:07:44.72,Default,,0000,0000,0000,,嘿 如果我们还没见过 我是艾米丽·D·贝克 超牛的律师\N{\fn微软雅黑}{\fs14}Hey, there. If we haven't met yet, I'm Emily D. Baker, the badass lawyer,
+Dialogue: 0,0:07:44.80,0:07:47.20,Default,,0000,0000,0000,,也是大家最喜欢的法律评论员\N{\fn微软雅黑}{\fs14}and everyone's favorite legal commentator.
+Dialogue: 0,0:07:47.28,0:07:50.56,Default,,0000,0000,0000,,我分析新闻和流行文化故事 背后的法律细节\N{\fn微软雅黑}{\fs14}I break down the legal shit behind the news and pop culture stories
+Dialogue: 0,0:07:50.64,0:07:51.92,Default,,0000,0000,0000,,这是我们都感兴趣的内容\N{\fn微软雅黑}{\fs14}we all wanna talk about.
+Dialogue: 0,0:07:52.00,0:07:59.00,Default,,0000,0000,0000,,我们是来分析 约翰尼·德普诉安柏·赫德案的\N{\fn微软雅黑}{\fs14}We are here to call to order...the case of Johnny Depp v. Amber Heard.
+Dialogue: 0,0:07:59.08,0:08:03.56,Default,,0000,0000,0000,,今天 我们要看看现场直播证词\N{\fn微软雅黑}{\fs14}Today, we are watching through live testimony
+Dialogue: 0,0:08:03.64,0:08:07.00,Default,,0000,0000,0000,,了解在澳大利亚发生的事情\N{\fn微软雅黑}{\fs14}of what happened in Australia.
+Dialogue: 0,0:08:07.08,0:08:11.80,Default,,0000,0000,0000,,（2015年3月 澳大利亚 黄金海岸）
+Dialogue: 0,0:08:17.28,0:08:21.52,Default,,0000,0000,0000,,现在 我要请你告知陪审团\N{\fn微软雅黑}{\fs14}Now, I'm going to ask you to take this jury 
+Dialogue: 0,0:08:21.60,0:08:23.88,Default,,0000,0000,0000,,你到达澳大利亚之后发生的事情\N{\fn微软雅黑}{\fs14}through what happened once you arrived there.
+Dialogue: 0,0:08:25.88,0:08:27.48,Default,,0000,0000,0000,,我坐飞机过去 提前到了\N{\fn微软雅黑}{\fs14}Um, I flew in. I arrived early.
+Dialogue: 0,0:08:27.56,0:08:31.60,Default,,0000,0000,0000,,我立刻走进了卧室\N{\fn微软雅黑}{\fs14}Uh, I... Immediately, I walked into the bedroom.
+Dialogue: 0,0:08:31.68,0:08:34.16,Default,,0000,0000,0000,,我很期待见到他\N{\fn微软雅黑}{\fs14}I was so excited to... to see him.
+Dialogue: 0,0:08:34.24,0:08:38.68,Default,,0000,0000,0000,,我期待着开始…我们风格的居家约会\N{\fn微软雅黑}{\fs14}I was looking forward to having this, kind of, you know, "our style" at-home date.
+Dialogue: 0,0:08:38.76,0:08:40.20,Default,,0000,0000,0000,,我们是新婚夫妇\N{\fn微软雅黑}{\fs14}You know, a new... we're a new married couple.
+Dialogue: 0,0:08:40.28,0:08:43.08,Default,,0000,0000,0000,,我们在结婚之后\N{\fn微软雅黑}{\fs14}We hadn't seen each other 
+Dialogue: 0,0:08:43.88,0:08:44.92,Default,,0000,0000,0000,,有近一个月没见\N{\fn微软雅黑}{\fs14}for basically a month......after getting married.
+Dialogue: 0,0:08:45.00,0:08:49.84,Default,,0000,0000,0000,,我开始吃晚餐 很高兴见到他\N{\fn微软雅黑}{\fs14}And I start dinner and am happy to see him,
+Dialogue: 0,0:08:49.92,0:08:53.24,Default,,0000,0000,0000,,那天晚上早些时候\N{\fn微软雅黑}{\fs14}and some point early in that evening,
+Dialogue: 0,0:08:53.92,0:08:56.56,Default,,0000,0000,0000,,他拿出一袋摇头丸\N{\fn微软雅黑}{\fs14}he pulls out a bag of MDMA.
+Dialogue: 0,0:08:56.64,0:08:58.40,Default,,0000,0000,0000,,我问他那是什么\N{\fn微软雅黑}{\fs14}I asked him what it was, 
+Dialogue: 0,0:08:58.48,0:09:00.08,Default,,0000,0000,0000,,他告诉我是摇头丸\N{\fn微软雅黑}{\fs14}and he told me it was MDMA.
+Dialogue: 0,0:09:00.64,0:09:05.72,Default,,0000,0000,0000,,我很惊讶 因为当时他已经戒毒戒酒了\N{\fn微软雅黑}{\fs14}And I was surprised because, at the time, he had already gotten clean and sober.
+Dialogue: 0,0:09:05.80,0:09:08.00,Default,,0000,0000,0000,,是为了婚礼\N{\fn微软雅黑}{\fs14}It was for the wedding.
+Dialogue: 0,0:09:08.08,0:09:11.52,Default,,0000,0000,0000,,所以我很惊讶他会掏出这袋药丸\N{\fn微软雅黑}{\fs14}So I was surprised that he would even pull out this bag,
+Dialogue: 0,0:09:12.12,0:09:16.72,Default,,0000,0000,0000,,他好像在建议我们一起嗑药\N{\fn微软雅黑}{\fs14}and he kinda seemed to suggest that we should do it together,
+Dialogue: 0,0:09:17.56,0:09:20.52,Default,,0000,0000,0000,,我的反应是：“坚决不行\N{\fn微软雅黑}{\fs14}and I was like, "Absolutely not."
+Dialogue: 0,0:09:21.32,0:09:23.84,Default,,0000,0000,0000,,我刚刚到这里\N{\fn微软雅黑}{\fs14}Like, "I just got here. I just got here!"
+Dialogue: 0,0:09:23.92,0:09:26.52,Default,,0000,0000,0000,,我想见你 想跟你共度时光”\N{\fn微软雅黑}{\fs14}"I wanna see you, I wanna spend time with you."
+Dialogue: 0,0:09:26.60,0:09:29.72,Default,,0000,0000,0000,,赫德小姐很难过是因为\N{\fn微软雅黑}{\fs14}Ms. Heard was upset because,
+Dialogue: 0,0:09:30.64,0:09:33.48,Default,,0000,0000,0000,,已经来不及写婚前协议了\N{\fn微软雅黑}{\fs14}as it was too late for a pre-nup agreement,
+Dialogue: 0,0:09:33.56,0:09:39.24,Default,,0000,0000,0000,,而是在商讨婚后协议\N{\fn微软雅黑}{\fs14}there... there was, uh, discussion of post-nup agreement.
+Dialogue: 0,0:09:40.16,0:09:46.16,Default,,0000,0000,0000,,她无法释怀 认为我想订立这份婚后协议\N{\fn微软雅黑}{\fs14}She could not let go of the fact that I was in on this, uh, post-nup agreement
+Dialogue: 0,0:09:46.24,0:09:48.64,Default,,0000,0000,0000,,并且我试图欺骗她\N{\fn微软雅黑}{\fs14}and that I was trying to trick her
+Dialogue: 0,0:09:49.56,0:09:53.96,Default,,0000,0000,0000,,如果发生什么事\N{\fn微软雅黑}{\fs14}into, uh, essentially getting nothing
+Dialogue: 0,0:09:54.04,0:09:57.36,Default,,0000,0000,0000,,她基本上什么都得不到\N{\fn微软雅黑}{\fs14}if, uh...if something were to happen.
+Dialogue: 0,0:09:58.20,0:10:01.60,Default,,0000,0000,0000,,她告诉我：“你不相信我”\N{\fn微软雅黑}{\fs14}She's telling me, "You don't trust me, you don't trust me, you don't trust me."
+Dialogue: 0,0:10:01.68,0:10:07.16,Default,,0000,0000,0000,,我当时只能试着让她冷静下来\N{\fn微软雅黑}{\fs14}And, um, all I could do was... try to calm her down.
+Dialogue: 0,0:10:07.24,0:10:08.56,Default,,0000,0000,0000,,成功了吗？\N{\fn微软雅黑}{\fs14}- That... - Did that work?
+Dialogue: 0,0:10:08.64,0:10:09.84,Default,,0000,0000,0000,,没有成功\N{\fn微软雅黑}{\fs14}It did not work, no.
+Dialogue: 0,0:10:09.92,0:10:15.80,Default,,0000,0000,0000,,而是升级了 局面变得很疯狂\N{\fn微软雅黑}{\fs14}It escalated and escalated, and t-turned into, uh...madness,
+Dialogue: 0,0:10:15.88,0:10:16.72,Default,,0000,0000,0000,,混乱\N{\fn微软雅黑}{\fs14}chaos.
+Dialogue: 0,0:10:17.32,0:10:18.68,Default,,0000,0000,0000,,-你能不能… -暴力\N{\fn微软雅黑}{\fs14}- Can you please... - Violence.
+Dialogue: 0,0:10:18.76,0:10:21.44,Default,,0000,0000,0000,,你能不能描述一下当时的混乱和暴力\N{\fn微软雅黑}{\fs14}Can you please describe that chaos and violence?
+Dialogue: 0,0:10:21.52,0:10:24.16,Default,,0000,0000,0000,,你的本性和身份
+Dialogue: 0,0:10:24.24,0:10:26.32,Default,,0000,0000,0000,,你坑害我的方式
+Dialogue: 0,0:10:27.12,0:10:29.76,Default,,0000,0000,0000,,让我感到恶心
+Dialogue: 0,0:10:32.16,0:10:34.00,Default,,0000,0000,0000,,对我自己！
+Dialogue: 0,0:10:34.08,0:10:36.64,Default,,0000,0000,0000,,你那周日为什么会在家里？\N{\fn微软雅黑}{\fs14}Why were you at the house that Sunday?
+Dialogue: 0,0:10:37.44,0:10:40.68,Default,,0000,0000,0000,,我被德普的一个助手叫去了他家\N{\fn微软雅黑}{\fs14}I was called to the house by one of Mr. Depp's assistants.
+Dialogue: 0,0:10:41.28,0:10:44.40,Default,,0000,0000,0000,,你进屋时有没有观察到什么？\N{\fn微软雅黑}{\fs14}And did you observe anything when you went into the house?
+Dialogue: 0,0:10:44.48,0:10:48.68,Default,,0000,0000,0000,,是的 我听到了非常歇斯底里的抽泣\N{\fn微软雅黑}{\fs14}Yeah, I mean, initially, I heard pretty hysterical sobbing, 
+Dialogue: 0,0:10:48.76,0:10:49.88,Default,,0000,0000,0000,,哭喊\N{\fn微软雅黑}{\fs14}crying,
+Dialogue: 0,0:10:49.96,0:10:52.36,Default,,0000,0000,0000,,听起来像是赫德小姐的声音\N{\fn微软雅黑}{\fs14}which sounded like Ms. Heard to me.
+Dialogue: 0,0:10:52.88,0:10:56.36,Default,,0000,0000,0000,,就是失控地哭泣 我觉得这么说很合理\N{\fn微软雅黑}{\fs14}Just crying uncontrollably, I think it's fair to say.
+Dialogue: 0,0:10:57.04,0:10:58.64,Default,,0000,0000,0000,,楼梯下面有损坏\N{\fn微软雅黑}{\fs14}There was a bit of damage down the steps.
+Dialogue: 0,0:10:58.72,0:11:01.52,Default,,0000,0000,0000,,大理石阶梯上有一大块掉了下来\N{\fn微软雅黑}{\fs14}A big chunk had been taken out of the marble staircase.
+Dialogue: 0,0:11:01.60,0:11:04.80,Default,,0000,0000,0000,,走到吧台 我能看到损坏\N{\fn微软雅黑}{\fs14}Walking down into the bar, I could see the damage,
+Dialogue: 0,0:11:05.44,0:11:09.04,Default,,0000,0000,0000,,一个损坏的乒乓球桌倒在了地板上\N{\fn微软雅黑}{\fs14}a broken ping-pong table, sort of collapsed onto the floor,
+Dialogue: 0,0:11:09.88,0:11:13.20,Default,,0000,0000,0000,,吧台那边散落着大量玻璃和罐子\N{\fn微软雅黑}{\fs14}lots of glass and cans strewn around the bar area.
+Dialogue: 0,0:11:13.72,0:11:15.32,Default,,0000,0000,0000,,显然浩克来过\N{\fn微软雅黑}{\fs14}Apparently, Hulk came through.
+Dialogue: 0,0:11:15.40,0:11:17.80,Default,,0000,0000,0000,,碎玻璃 他也是这么说的\N{\fn微软雅黑}{\fs14}Broken glass is consistent with his version.
+Dialogue: 0,0:11:17.88,0:11:20.16,Default,,0000,0000,0000,,你到的时候 都有谁在场？\N{\fn微软雅黑}{\fs14}Who was there when you arrived?
+Dialogue: 0,0:11:22.48,0:11:23.84,Default,,0000,0000,0000,,黛比罗伊德在那里\N{\fn微软雅黑}{\fs14}Um, Debbie Lloyd was there.
+Dialogue: 0,0:11:24.48,0:11:27.08,Default,,0000,0000,0000,,11点30分 你写了\N{\fn微软雅黑}{\fs14}Eleven-thirty, you wrote,
+Dialogue: 0,0:11:27.16,0:11:29.52,Default,,0000,0000,0000,,“医学博士收到客户的短信\N{\fn微软雅黑}{\fs14}"MD received a text message from client
+Dialogue: 0,0:11:29.60,0:11:32.60,Default,,0000,0000,0000,,他与妻子争吵 割伤了手指\N{\fn微软雅黑}{\fs14}that he'd been arguing with wife and that he had cut his finger."
+Dialogue: 0,0:11:33.20,0:11:34.64,Default,,0000,0000,0000,,病人说\N{\fn微软雅黑}{\fs14}"According to patient,
+Dialogue: 0,0:11:34.72,0:11:38.20,Default,,0000,0000,0000,,他的助理和保安正在去接他”\N{\fn微软雅黑}{\fs14}his assistant and security were on their way to pick him up."
+Dialogue: 0,0:11:38.28,0:11:39.24,Default,,0000,0000,0000,,你写的？\N{\fn微软雅黑}{\fs14}You wrote that?
+Dialogue: 0,0:11:40.48,0:11:41.76,Default,,0000,0000,0000,,根据我的记录 没错\N{\fn微软雅黑}{\fs14}According to my notes, yes.
+Dialogue: 0,0:11:42.48,0:11:43.96,Default,,0000,0000,0000,,大卫·基普在场\N{\fn微软雅黑}{\fs14}David Kipper was there.
+Dialogue: 0,0:11:44.88,0:11:47.20,Default,,0000,0000,0000,,我进去是为了指示\N{\fn微软雅黑}{\fs14}I went in to instruct
+Dialogue: 0,0:11:47.72,0:11:52.36,Default,,0000,0000,0000,,跟着他的人去找到指尖\N{\fn微软雅黑}{\fs14}one of the people with him to look for the tip of the finger,
+Dialogue: 0,0:11:53.40,0:11:55.92,Default,,0000,0000,0000,,希望我们能把它接回去\N{\fn微软雅黑}{\fs14}hoping that we would be able to put it back.
+Dialogue: 0,0:11:56.00,0:11:58.68,Default,,0000,0000,0000,,范围很广 碎玻璃 血迹\N{\fn微软雅黑}{\fs14}It was pretty extensive, all that broken glass, the blood.
+Dialogue: 0,0:11:58.76,0:12:01.16,Default,,0000,0000,0000,,地板上滴了很多血\N{\fn微软雅黑}{\fs14}There were a lot of blood drips across that floor.
+Dialogue: 0,0:12:01.24,0:12:03.68,Default,,0000,0000,0000,,地板是奶油色的\N{\fn微软雅黑}{\fs14}It's a kind of cream-colored tiled floor. On the next floor, on the main floor,
+Dialogue: 0,0:12:03.76,0:12:07.40,Default,,0000,0000,0000,,在主楼 有一间起居室 里面有一张乳白色的沙发\N{\fn微软雅黑}{\fs14}there's a sitting room with a couch on... a cream-colored couch,
+Dialogue: 0,0:12:07.48,0:12:10.84,Default,,0000,0000,0000,,垫子上有相当大量的血迹\N{\fn微软雅黑}{\fs14}which had a fair amount of blood drips on the cushions,
+Dialogue: 0,0:12:10.92,0:12:15.88,Default,,0000,0000,0000,,我们设置了一个艺术工作室 所以有很多从那儿拿的艺术材料\N{\fn微软雅黑}{\fs14}and we'd set up an art studio, so a lot of the art materials from that,
+Dialogue: 0,0:12:15.96,0:12:19.56,Default,,0000,0000,0000,,画笔 颜料 地板上有很多颜料\N{\fn微软雅黑}{\fs14}you know, paintbrushes, paint, a lot of paint on the floor.
+Dialogue: 0,0:12:20.96,0:12:22.56,Default,,0000,0000,0000,,进入主卧\N{\fn微软雅黑}{\fs14}Going into the master bathroom,
+Dialogue: 0,0:12:22.64,0:12:26.20,Default,,0000,0000,0000,,那里有双人水槽和镜子 很大的镜子\N{\fn微软雅黑}{\fs14}there was a his-and-hers sinks and a mirror, a large mirror,
+Dialogue: 0,0:12:26.28,0:12:29.60,Default,,0000,0000,0000,,每个水槽上都有 上面写了字\N{\fn微软雅黑}{\fs14}above each of the sinks that had writing on each of them.
+Dialogue: 0,0:12:31.80,0:12:36.44,Default,,0000,0000,0000,,我记得每间卧室的被套上都有血迹\N{\fn微软雅黑}{\fs14}Both of the bedrooms, I think, had blood on the duvet covers.
+Dialogue: 0,0:12:37.36,0:12:38.68,Default,,0000,0000,0000,,就是这样\N{\fn微软雅黑}{\fs14}That's about the extent of it.
+Dialogue: 0,0:12:38.76,0:12:40.04,Default,,0000,0000,0000,,哦 就是这些？\N{\fn微软雅黑}{\fs14}Oh, is that all?
+Dialogue: 0,0:12:40.12,0:12:42.36,Default,,0000,0000,0000,,这些该谁清理？\N{\fn微软雅黑}{\fs14}Uh, whose job was it to clean all that up?
+Dialogue: 0,0:12:43.48,0:12:46.24,Default,,0000,0000,0000,,该我\N{\fn微软雅黑}{\fs14}It was mine. It was mine.
+Dialogue: 0,0:12:47.28,0:12:49.64,Default,,0000,0000,0000,,我就直说吧\N{\fn微软雅黑}{\fs14}Well, I'll... I'll just cut to the chase.
+Dialogue: 0,0:12:49.72,0:12:53.28,Default,,0000,0000,0000,,我记得 那天我最后把自己锁在\N{\fn微软雅黑}{\fs14}I... I think that I ended up locking myself
+Dialogue: 0,0:12:53.92,0:13:00.24,Default,,0000,0000,0000,,至少九间卧室和洗手间里\N{\fn微软雅黑}{\fs14}in about, at lea... at least nine bedrooms, bathrooms that day,
+Dialogue: 0,0:13:01.84,0:13:05.28,Default,,0000,0000,0000,,因为她敲打着门 喊着污言秽语\N{\fn微软雅黑}{\fs14}um, as she was banging on the doors and screaming obscenities
+Dialogue: 0,0:13:05.36,0:13:09.76,Default,,0000,0000,0000,,想要发生肢体冲突\N{\fn微软雅黑}{\fs14}and wanting to, uh, have a physical altercation.
+Dialogue: 0,0:13:11.00,0:13:14.32,Default,,0000,0000,0000,,所以你的手指受伤是怎么回事？\N{\fn微软雅黑}{\fs14}So how did it come to be that your finger became injured?
+Dialogue: 0,0:13:15.40,0:13:18.08,Default,,0000,0000,0000,,我离开了那里\N{\fn微软雅黑}{\fs14}I left the... place, 
+Dialogue: 0,0:13:18.16,0:13:20.52,Default,,0000,0000,0000,,就是我躲的那间房\N{\fn微软雅黑}{\fs14}the... the room that I was hiding in,
+Dialogue: 0,0:13:20.60,0:13:22.68,Default,,0000,0000,0000,,不叫躲 把自己锁在里面\N{\fn微软雅黑}{\fs14}or not hiding, locked myself into.
+Dialogue: 0,0:13:23.88,0:13:26.84,Default,,0000,0000,0000,,然后我下了楼\N{\fn微软雅黑}{\fs14}And I went downstairs,
+Dialogue: 0,0:13:26.92,0:13:30.12,Default,,0000,0000,0000,,那里有个吧台\N{\fn微软雅黑}{\fs14}and there was a, uh, bar,
+Dialogue: 0,0:13:30.64,0:13:35.16,Default,,0000,0000,0000,,所以我拿了一瓶那里的伏特加\N{\fn微软雅黑}{\fs14}so I grabbed a bottle of vodka that was there,
+Dialogue: 0,0:13:35.24,0:13:36.52,Default,,0000,0000,0000,,和一个小酒杯\N{\fn微软雅黑}{\fs14}and a shot glass,
+Dialogue: 0,0:13:37.40,0:13:39.00,Default,,0000,0000,0000,,然后坐在吧台\N{\fn微软雅黑}{\fs14}and sat at the bar.
+Dialogue: 0,0:13:39.52,0:13:40.88,Default,,0000,0000,0000,,她当时不在附近\N{\fn微软雅黑}{\fs14}She was nowhere around.
+Dialogue: 0,0:13:40.96,0:13:46.52,Default,,0000,0000,0000,,我给自己倒了两三杯纯伏特加\N{\fn微软雅黑}{\fs14}Poured myself two or three stiff shots of, uh... of the vodka,
+Dialogue: 0,0:13:47.52,0:13:50.20,Default,,0000,0000,0000,,那是我很久以来第一次喝酒\N{\fn微软雅黑}{\fs14}first taste of alcohol I'd had in a long time.
+Dialogue: 0,0:13:53.44,0:13:58.80,Default,,0000,0000,0000,,然后她来到吧台 看到我在那儿\N{\fn微软雅黑}{\fs14}then she came down to the bar and found me there,
+Dialogue: 0,0:14:00.20,0:14:03.68,Default,,0000,0000,0000,,果然就开始大喊：“你又喝酒了”\N{\fn微软雅黑}{\fs14}and of course started screaming, "Oh, you're drinking again!"
+Dialogue: 0,0:14:03.76,0:14:05.20,Default,,0000,0000,0000,,“怪物”之类的\N{\fn微软雅黑}{\fs14}"Ah, the monster," and all that. Um...
+Dialogue: 0,0:14:06.00,0:14:07.68,Default,,0000,0000,0000,,你可以看到他的感受\N{\fn微软雅黑}{\fs14}You can see how he feels about that.
+Dialogue: 0,0:14:07.76,0:14:10.20,Default,,0000,0000,0000,,他拿着一瓶酒\N{\fn微软雅黑}{\fs14}Um, he holds up this bottle,
+Dialogue: 0,0:14:11.08,0:14:14.12,Default,,0000,0000,0000,,然后用瓶子指着我\N{\fn微软雅黑}{\fs14}and kind of gesturing with the... the bottle towards me,
+Dialogue: 0,0:14:15.52,0:14:17.56,Default,,0000,0000,0000,,我伸手去拿\N{\fn微软雅黑}{\fs14}and, uh, I reach for it, 
+Dialogue: 0,0:14:17.64,0:14:20.44,Default,,0000,0000,0000,,他收回了瓶子 嘲笑了一下我\N{\fn微软雅黑}{\fs14}and he'd revoke it, kind of laugh at me.
+Dialogue: 0,0:14:21.96,0:14:25.08,Default,,0000,0000,0000,,而且他还拿着瓶子\N{\fn微软雅黑}{\fs14}And he's holding out the bottle.
+Dialogue: 0,0:14:25.16,0:14:27.88,Default,,0000,0000,0000,,好像是第三次左右 我拿到了瓶子\N{\fn微软雅黑}{\fs14}I think, maybe the third time or so, I get a hold of it.
+Dialogue: 0,0:14:30.20,0:14:33.00,Default,,0000,0000,0000,,我把它拿过来 摔到地上\N{\fn微软雅黑}{\fs14}I pick it up and I slam it down on the ground,
+Dialogue: 0,0:14:33.08,0:14:34.28,Default,,0000,0000,0000,,摔在我们中间\N{\fn微软雅黑}{\fs14}right in between us,
+Dialogue: 0,0:14:34.36,0:14:36.96,Default,,0000,0000,0000,,我把瓶子砸在地上\N{\fn微软雅黑}{\fs14}and I smashed the bottle on the floor,
+Dialogue: 0,0:14:38.56,0:14:40.44,Default,,0000,0000,0000,,把他气坏了\N{\fn微软雅黑}{\fs14}and that really set him off.
+Dialogue: 0,0:14:40.52,0:14:42.88,Default,,0000,0000,0000,,她拿起那瓶伏特加\N{\fn微软雅黑}{\fs14}She grabbed the... the bottle of vodka...
+Dialogue: 0,0:14:44.48,0:14:50.48,Default,,0000,0000,0000,,然后往后退 然后把它扔到我身上\N{\fn微软雅黑}{\fs14}and then just, uh, kind of stood back and then...hurled it at me.
+Dialogue: 0,0:14:51.28,0:14:54.04,Default,,0000,0000,0000,,又拿了第二瓶 更大的一瓶\N{\fn微软雅黑}{\fs14}Takes the second bottle, which was the larger one,
+Dialogue: 0,0:14:54.96,0:14:56.56,Default,,0000,0000,0000,,她把大瓶子扔了过来\N{\fn微软雅黑}{\fs14}she threw the large bottle,
+Dialogue: 0,0:14:57.52,0:15:00.20,Default,,0000,0000,0000,,摔到了地面\N{\fn微软雅黑}{\fs14}and it made contact
+Dialogue: 0,0:15:01.16,0:15:04.80,Default,,0000,0000,0000,,然后碎得到处都是\N{\fn微软雅黑}{\fs14}and shattered, uh, everywhere,
+Dialogue: 0,0:15:05.80,0:15:09.68,Default,,0000,0000,0000,,然后我发现我的手指尖\N{\fn微软雅黑}{\fs14}and then I realized that the... the tip of my finger, uh,
+Dialogue: 0,0:15:10.96,0:15:13.16,Default,,0000,0000,0000,,被切断了\N{\fn微软雅黑}{\fs14}had been severed.
+Dialogue: 0,0:15:16.28,0:15:18.40,Default,,0000,0000,0000,,这是什么照片 德普先生？\N{\fn微软雅黑}{\fs14}What is this a picture of, Mr. Depp?
+Dialogue: 0,0:15:18.48,0:15:22.52,Default,,0000,0000,0000,,（法庭证据）
+Dialogue: 0,0:15:22.60,0:15:24.60,Default,,0000,0000,0000,,我的手指残肢\N{\fn微软雅黑}{\fs14}The remains of my finger.
+Dialogue: 0,0:15:28.32,0:15:33.84,Default,,0000,0000,0000,,我真的不记得 有没有朝他的方向扔东西\N{\fn微软雅黑}{\fs14}I-I-I honestly don't remember if I, um, threw anything in his direction.
+Dialogue: 0,0:15:33.92,0:15:35.92,Default,,0000,0000,0000,,我不觉得我扔过\N{\fn微软雅黑}{\fs14}I... I don't think I did.
+Dialogue: 0,0:15:36.00,0:15:40.24,Default,,0000,0000,0000,,我只记得他抓住我的睡袍\N{\fn微软雅黑}{\fs14}Um, I just remember him having me by the nightgown.
+Dialogue: 0,0:15:41.92,0:15:46.28,Default,,0000,0000,0000,,我记得他甩我 把我扔来扔去 我被他摔打\N{\fn微软雅黑}{\fs14}Um, I remember him flailing me, uh, throwing me around. I'm flailing, um...
+Dialogue: 0,0:15:48.68,0:15:51.00,Default,,0000,0000,0000,,某个时刻 他逗弄我 嘲笑我\N{\fn微软雅黑}{\fs14}I remember at one point, he's teasing me, he... taunting me,
+Dialogue: 0,0:15:51.08,0:15:55.84,Default,,0000,0000,0000,,他手握我的胸部\N{\fn微软雅黑}{\fs14}that I... he has my, um... my breast in his hand.
+Dialogue: 0,0:15:57.52,0:16:00.16,Default,,0000,0000,0000,,我的睡袍完全被脱掉了\N{\fn微软雅黑}{\fs14}Um, my nightgown came completely off.
+Dialogue: 0,0:16:00.24,0:16:02.00,Default,,0000,0000,0000,,睡袍被从我身上撕下来了\N{\fn微软雅黑}{\fs14}It was ripped off of me.
+Dialogue: 0,0:16:03.52,0:16:05.48,Default,,0000,0000,0000,,所以我完全赤裸\N{\fn微软雅黑}{\fs14}So... I was naked,
+Dialogue: 0,0:16:06.56,0:16:09.20,Default,,0000,0000,0000,,我在一块地砖上滑倒\N{\fn微软雅黑}{\fs14}and I'm slipping around on this tile,
+Dialogue: 0,0:16:10.04,0:16:13.84,Default,,0000,0000,0000,,在某个时刻\N{\fn微软雅黑}{\fs14}and...at...at some point,
+Dialogue: 0,0:16:14.72,0:16:17.48,Default,,0000,0000,0000,,他压在我身上\N{\fn微软雅黑}{\fs14}he's on top of... of... of... of me.
+Dialogue: 0,0:16:18.00,0:16:19.84,Default,,0000,0000,0000,,我在台面上\N{\fn微软雅黑}{\fs14}I'm on the countertop,
+Dialogue: 0,0:16:20.80,0:16:22.20,Default,,0000,0000,0000,,他抓住了我的脖子\N{\fn微软雅黑}{\fs14}he had me by the neck,
+Dialogue: 0,0:16:22.92,0:16:25.68,Default,,0000,0000,0000,,我看着他的眼睛\N{\fn微软雅黑}{\fs14}and I'm looking at h... in his eyes.
+Dialogue: 0,0:16:27.12,0:16:28.80,Default,,0000,0000,0000,,我都认不出他了\N{\fn微软雅黑}{\fs14}And I don't see him anymore.
+Dialogue: 0,0:16:29.68,0:16:31.36,Default,,0000,0000,0000,,我都认不出他了\N{\fn微软雅黑}{\fs14}I don't see him anymore.
+Dialogue: 0,0:16:31.44,0:16:33.40,Default,,0000,0000,0000,,那不是他 而是漆黑一片\N{\fn微软雅黑}{\fs14}It wasn't him. It was black.
+Dialogue: 0,0:16:34.28,0:16:37.72,Default,,0000,0000,0000,,我这辈子从没那么害怕过\N{\fn微软雅黑}{\fs14}I've never been... so scared in my life.
+Dialogue: 0,0:16:37.80,0:16:40.80,Default,,0000,0000,0000,,漆黑一片 我看不到他\N{\fn微软雅黑}{\fs14}It was... It was black. I couldn't see him.
+Dialogue: 0,0:16:42.08,0:16:45.96,Default,,0000,0000,0000,,我的头被往后撞在吧台上\N{\fn微软雅黑}{\fs14}And... ...my head was bashing against the back of the bar,
+Dialogue: 0,0:16:46.04,0:16:47.92,Default,,0000,0000,0000,,我无法呼吸\N{\fn微软雅黑}{\fs14}and I couldn't breathe.
+Dialogue: 0,0:16:48.00,0:16:50.88,Default,,0000,0000,0000,,我记得我想爬起来 我滑倒在玻璃上\N{\fn微软雅黑}{\fs14}And I remember trying to get up, and I was slipping on the glass.
+Dialogue: 0,0:16:50.96,0:16:53.44,Default,,0000,0000,0000,,我的手和脚都滑了\N{\fn微软雅黑}{\fs14}My feet were slipping, my arms were slipping on the countertop.
+Dialogue: 0,0:16:53.52,0:16:55.64,Default,,0000,0000,0000,,我记得我试图爬起来呼吸\N{\fn微软雅黑}{\fs14}And I remember just trying to get up so I could breathe,
+Dialogue: 0,0:16:55.72,0:16:58.12,Default,,0000,0000,0000,,这样我就能告诉他 他真的弄疼了我\N{\fn微软雅黑}{\fs14}so I could tell him that he was really hurting me.
+Dialogue: 0,0:16:58.20,0:17:00.92,Default,,0000,0000,0000,,我以为他不知道自己在做什么\N{\fn微软雅黑}{\fs14}I didn't think he knew what he was doing.
+Dialogue: 0,0:17:03.20,0:17:04.20,Default,,0000,0000,0000,,我不知道该怎么做\N{\fn微软雅黑}{\fs14}I don't know how.
+Dialogue: 0,0:17:12.40,0:17:13.40,Default,,0000,0000,0000,,对不起\N{\fn微软雅黑}{\fs14}I'm sorry.
+Dialogue: 0,0:17:19.76,0:17:20.64,Default,,0000,0000,0000,,对不起\N{\fn微软雅黑}{\fs14}I'm sorry.
+Dialogue: 0,0:17:23.44,0:17:24.84,Default,,0000,0000,0000,,我无法呼吸\N{\fn微软雅黑}{\fs14}I couldn't breathe.
+Dialogue: 0,0:17:27.20,0:17:28.04,Default,,0000,0000,0000,,拜托\N{\fn微软雅黑}{\fs14}Please.
+Dialogue: 0,0:17:30.16,0:17:31.12,Default,,0000,0000,0000,,我不…\N{\fn微软雅黑}{\fs14}I don't...
+Dialogue: 0,0:17:33.84,0:17:35.24,Default,,0000,0000,0000,,我不想这么做\N{\fn微软雅黑}{\fs14}I don't wanna do this.
+Dialogue: 0,0:17:36.08,0:17:37.56,Default,,0000,0000,0000,,我不想这么做\N{\fn微软雅黑}{\fs14}I don't wanna do this.
+Dialogue: 0,0:17:43.48,0:17:47.12,Default,,0000,0000,0000,,（安柏·赫德在法庭上 作证称约翰尼·德普）
+Dialogue: 0,0:17:47.20,0:17:50.24,Default,,0000,0000,0000,,（用一个玻璃瓶对她实行性侵）
+Dialogue: 0,0:17:51.28,0:17:54.76,Default,,0000,0000,0000,,（这是美国第一次完整展现）
+Dialogue: 0,0:17:54.84,0:17:58.84,Default,,0000,0000,0000,,（受害者声称自己 遭受性侵的庭审录像）
+Dialogue: 0,0:17:58.92,0:18:00.40,Default,,0000,0000,0000,,安柏·赫德在证人席上说\N{\fn微软雅黑}{\fs14}Amber Heard has said on the stand
+Dialogue: 0,0:18:00.48,0:18:04.84,Default,,0000,0000,0000,,她无法清晰回忆起事情的发展\N{\fn微软雅黑}{\fs14}she doesn't have a clear recollection of how things unfolded,
+Dialogue: 0,0:18:04.92,0:18:08.48,Default,,0000,0000,0000,,但她声称他用一个瓶子性侵了她\N{\fn微软雅黑}{\fs14}but she has alleged that he sexually assaulted her with a bottle.
+Dialogue: 0,0:18:08.56,0:18:10.36,Default,,0000,0000,0000,,庭审中有一些东西\N{\fn微软雅黑}{\fs14}There were a couple of points in the trial that,
+Dialogue: 0,0:18:10.44,0:18:16.60,Default,,0000,0000,0000,,是本不应该被这样公开的\N{\fn微软雅黑}{\fs14}uh, should have never come out so publicly.
+Dialogue: 0,0:18:16.68,0:18:21.56,Default,,0000,0000,0000,,很难评估双方的可信度 原因非常简单\N{\fn微软雅黑}{\fs14}It is so hard to assess the credibility of either Johnny Depp or Amber Heard for one simple reason,
+Dialogue: 0,0:18:21.64,0:18:22.72,Default,,0000,0000,0000,,他们都是演员\N{\fn微软雅黑}{\fs14}they're both actors.
+Dialogue: 0,0:18:22.80,0:18:25.96,Default,,0000,0000,0000,,他们很擅长 让人们感受到他们想要的感觉\N{\fn微软雅黑}{\fs14}They're good at getting people to feel the way that they want them to feel.
+Dialogue: 0,0:18:26.64,0:18:30.88,Default,,0000,0000,0000,,（很多社交媒体评论员 都对安柏·赫德的证词）
+Dialogue: 0,0:18:30.96,0:18:32.88,Default,,0000,0000,0000,,（充满怀疑和批判）
+Dialogue: 0,0:18:32.96,0:18:33.80,Default,,0000,0000,0000,,（为约翰尼讨公道）
+Dialogue: 0,0:18:33.88,0:18:37.04,Default,,0000,0000,0000,,欢迎来到爆米花星球 我是安迪·西诺尔 我不会撒谎\N{\fn微软雅黑}{\fs14}Welcome to Popcorned Planet, I'm Andy Signore, and I'm not gonna lie,
+Dialogue: 0,0:18:37.12,0:18:38.72,Default,,0000,0000,0000,,今天很艰难\N{\fn微软雅黑}{\fs14}today was rough.
+Dialogue: 0,0:18:38.80,0:18:40.76,Default,,0000,0000,0000,,我为外面的幸存者感到难过\N{\fn微软雅黑}{\fs14}I'm feeling bad for all the survivors out there
+Dialogue: 0,0:18:40.84,0:18:43.64,Default,,0000,0000,0000,,他们刚看到那场表演 因为我完全不相信\N{\fn微软雅黑}{\fs14}that just watched this performance 'cause I'm not buying it,
+Dialogue: 0,0:18:43.72,0:18:45.68,Default,,0000,0000,0000,,我收到了很多信息\N{\fn微软雅黑}{\fs14}and I've gotten so many messages from so many of you
+Dialogue: 0,0:18:45.76,0:18:49.00,Default,,0000,0000,0000,,你们中的很多人都有相似的经历\N{\fn微软雅黑}{\fs14}who have been through similar experiences,
+Dialogue: 0,0:18:49.08,0:18:50.64,Default,,0000,0000,0000,,而且你们也并不相信\N{\fn微软雅黑}{\fs14}and you're not buying it either.
+Dialogue: 0,0:18:50.72,0:18:56.12,Default,,0000,0000,0000,,他压在我身上 我看着他的眼睛\N{\fn微软雅黑}{\fs14}Like, he was on top of me, and I'm loo... I... I'm looking at h... in his eyes,
+Dialogue: 0,0:18:57.64,0:18:59.40,Default,,0000,0000,0000,,我都认不出他了\N{\fn微软雅黑}{\fs14}and I don't see him anymore.
+Dialogue: 0,0:19:00.12,0:19:01.56,Default,,0000,0000,0000,,我都认不出他了\N{\fn微软雅黑}{\fs14}I don't see him anymore.
+Dialogue: 0,0:19:01.64,0:19:05.16,Default,,0000,0000,0000,,捆扎痕迹和指痕的淤青都非常常见\N{\fn微软雅黑}{\fs14}Ligature marks and finger marks bruising is very, very common.
+Dialogue: 0,0:19:05.68,0:19:07.32,Default,,0000,0000,0000,,我很抱歉你们有那样的经历\N{\fn微软雅黑}{\fs14}And I'm sorry that that was your experience,
+Dialogue: 0,0:19:07.40,0:19:10.04,Default,,0000,0000,0000,,但感谢你们在聊天区分享这段经历\N{\fn微软雅黑}{\fs14}but thank you for sharing your experience with the chat.
+Dialogue: 0,0:19:10.12,0:19:14.72,Default,,0000,0000,0000,,所以他们说： “这些是我们觉得困惑的东西”\N{\fn微软雅黑}{\fs14}So they're like, "Look, these are the things we find, uh, confusing."
+Dialogue: 0,0:19:14.80,0:19:19.48,Default,,0000,0000,0000,,“安柏·赫德精神变态” 现在是推特的热门话题 所以…\N{\fn微软雅黑}{\fs14}"Amber Heard is a psychopath" is currently trending on Twitter, so, uh...
+Dialogue: 0,0:19:20.64,0:19:21.88,Default,,0000,0000,0000,,（安柏·赫德是个骗子）
+Dialogue: 0,0:19:21.96,0:19:24.92,Default,,0000,0000,0000,,如果你在精神和身体上受到虐待\N{\fn微软雅黑}{\fs14}If you are mentally and physically abused,
+Dialogue: 0,0:19:25.00,0:19:27.44,Default,,0000,0000,0000,,一个家庭暴力的人\N{\fn微软雅黑}{\fs14}like, a person of domestic violence,
+Dialogue: 0,0:19:27.52,0:19:28.72,Default,,0000,0000,0000,,男性或女性\N{\fn微软雅黑}{\fs14}male or female,
+Dialogue: 0,0:19:29.64,0:19:31.88,Default,,0000,0000,0000,,你能否上法庭\N{\fn微软雅黑}{\fs14}would you be able to go to court,
+Dialogue: 0,0:19:31.96,0:19:33.48,Default,,0000,0000,0000,,走上证人席\N{\fn微软雅黑}{\fs14}get on the stand,
+Dialogue: 0,0:19:33.56,0:19:37.40,Default,,0000,0000,0000,,并成为一个乳臭未干 自以为是的婊子？\N{\fn微软雅黑}{\fs14}and be a lairy, smarmy bitch?
+Dialogue: 0,0:19:38.00,0:19:39.68,Default,,0000,0000,0000,,有人看过《消失的爱人》吗？\N{\fn微软雅黑}{\fs14}Has anyone seen Gone Girl?
+Dialogue: 0,0:19:39.76,0:19:43.96,Default,,0000,0000,0000,,等待你一无所知的丈夫 开始一天的生活\N{\fn微软雅黑}{\fs14}Wait for your clueless husband to start his day.
+Dialogue: 0,0:19:44.04,0:19:47.16,Default,,0000,0000,0000,,精心布置你的犯罪现场\N{\fn微软雅黑}{\fs14}Meticulously stage your crime scene.
+Dialogue: 0,0:19:47.24,0:19:49.88,Default,,0000,0000,0000,,是假的 太假了\N{\fn微软雅黑}{\fs14}It's fake. It is so fake!
+Dialogue: 0,0:19:49.96,0:19:54.32,Default,,0000,0000,0000,,她怎么能够那样\N{\fn微软雅黑}{\fs14}Like, how could you make such a mockery
+Dialogue: 0,0:19:55.52,0:19:58.84,Default,,0000,0000,0000,,对受害者进行嘲讽？\N{\fn微软雅黑}{\fs14}of the victims like she's doing?
+Dialogue: 0,0:19:58.92,0:20:02.04,Default,,0000,0000,0000,,用物体进行性侵是非常严重的\N{\fn微软雅黑}{\fs14}Sexual penetration with an object is really severe,
+Dialogue: 0,0:20:02.12,0:20:05.32,Default,,0000,0000,0000,,而且跟她对约翰尼·德普的 其他描述不相符\N{\fn微软雅黑}{\fs14}and unlike the rest of what she says about Johnny Depp,
+Dialogue: 0,0:20:05.40,0:20:07.76,Default,,0000,0000,0000,,这需要施暴者有施虐狂倾向\N{\fn微软雅黑}{\fs14}almost requires some sort of sadistic nature,
+Dialogue: 0,0:20:07.84,0:20:11.52,Default,,0000,0000,0000,,所以我觉得澳大利亚事件 他的版本更加可信\N{\fn微软雅黑}{\fs14}so I think Australia, his story's more believable.
+Dialogue: 0,0:20:11.60,0:20:15.28,Default,,0000,0000,0000,,这不只是新闻报道或诉讼 而是已经变成了一场文化运动\N{\fn微软雅黑}{\fs14}This has moved away from, like, a news story or a lawsuit,
+Dialogue: 0,0:20:15.36,0:20:18.28,Default,,0000,0000,0000,,（德拉拉·格尔吉安 创作者 维尔档案播客嘉宾）\N{\fn微软雅黑}{\fs14}and it's... it's... it's transformed into a cultural moment.
+Dialogue: 0,0:20:18.36,0:20:23.04,Default,,0000,0000,0000,,以我的年龄 还没经历过 OJ辛普森审判的影响\N{\fn微软雅黑}{\fs14}And I wasn't old enough to experience the impact of the O.J. Simpson trial,
+Dialogue: 0,0:20:23.12,0:20:24.16,Default,,0000,0000,0000,,但如果让我猜的话\N{\fn微软雅黑}{\fs14}but if I had to guess,
+Dialogue: 0,0:20:24.24,0:20:28.00,Default,,0000,0000,0000,,这场官司对全世界的影响\N{\fn微软雅黑}{\fs14}the hold, the chokehold that this lawsuit has on the world...
+Dialogue: 0,0:20:28.08,0:20:30.12,Default,,0000,0000,0000,,-应该有那么高 -…可以相提并论\N{\fn微软雅黑}{\fs14}- It's up there, yeah. - ...it's comparable.
+Dialogue: 0,0:20:30.20,0:20:33.84,Default,,0000,0000,0000,,以及今天信息和新闻的传播方式\N{\fn微软雅黑}{\fs14}And also the ways in which information and news are spread
+Dialogue: 0,0:20:33.92,0:20:36.80,Default,,0000,0000,0000,,跟从前完全不一样\N{\fn微软雅黑}{\fs14}is very different today than it was before.
+Dialogue: 0,0:20:36.88,0:20:38.60,Default,,0000,0000,0000,,OJ如果有抖音…\N{\fn微软雅黑}{\fs14}O.J. TikTok would have been...
+Dialogue: 0,0:20:39.60,0:20:40.68,Default,,0000,0000,0000,,-天啊 -…太疯狂了\N{\fn微软雅黑}{\fs14}- Oh, my God. - ...wild.
+Dialogue: 0,0:20:40.76,0:20:41.60,Default,,0000,0000,0000,,非常疯狂\N{\fn微软雅黑}{\fs14}Truly wild.
+Dialogue: 0,0:20:41.68,0:20:43.44,Default,,0000,0000,0000,,-非常疯狂 -是的\N{\fn微软雅黑}{\fs14}- Truly wild. - Yeah.
+Dialogue: 0,0:20:43.96,0:20:45.76,Default,,0000,0000,0000,,（在抖音上）
+Dialogue: 0,0:20:45.84,0:20:50.24,Default,,0000,0000,0000,,（用户们可以自己编辑庭审视频）
+Dialogue: 0,0:20:50.32,0:20:51.36,Default,,0000,0000,0000,,（反响非常巨大）
+Dialogue: 0,0:20:51.96,0:20:54.56,Default,,0000,0000,0000,,社交媒体 显然在这个案子中起了作用\N{\fn微软雅黑}{\fs14}Social media is clearly playing a role in this case.
+Dialogue: 0,0:20:54.64,0:20:59.28,Default,,0000,0000,0000,,我不能告诉你 我在社交媒体上花了多少时间\N{\fn微软雅黑}{\fs14}I cannot tell you how much time I spend dealing with folks on social media.
+Dialogue: 0,0:20:59.36,0:21:02.88,Default,,0000,0000,0000,,但我告诉你 约翰尼·德普的粉丝非常狂热\N{\fn微软雅黑}{\fs14}And I tell you what, the Johnny Depp folks are fanatics.
+Dialogue: 0,0:21:02.96,0:21:04.56,Default,,0000,0000,0000,,在为TMZ工作时\N{\fn微软雅黑}{\fs14}And while working for TMZ,
+Dialogue: 0,0:21:04.64,0:21:07.20,Default,,0000,0000,0000,,你有没有参与到 与赫德小姐相关的任务中？\N{\fn微软雅黑}{\fs14}were you involved in any assignments related to Ms. Heard?
+Dialogue: 0,0:21:07.28,0:21:08.32,Default,,0000,0000,0000,,有的\N{\fn微软雅黑}{\fs14}I was.
+Dialogue: 0,0:21:08.40,0:21:11.32,Default,,0000,0000,0000,,12号 我们收到了一段视频\N{\fn微软雅黑}{\fs14}On the 12th, we received a video,
+Dialogue: 0,0:21:11.40,0:21:17.84,Default,,0000,0000,0000,,是赫德小姐拍摄的 约翰尼·德普猛击一些柜子的画面\N{\fn微软雅黑}{\fs14}um, depicting, um, Johnny Depp, um, s-slamming some cabinets that was captured by Ms. Heard.
+Dialogue: 0,0:21:17.92,0:21:20.84,Default,,0000,0000,0000,,这次审判中播放的视频\N{\fn微软雅黑}{\fs14}How does that video that was played in this trial
+Dialogue: 0,0:21:20.92,0:21:24.48,Default,,0000,0000,0000,,跟你2016年8月12日 收到的视频有何区别？\N{\fn微软雅黑}{\fs14}compare to the one you received on August 12, 2016?
+Dialogue: 0,0:21:24.56,0:21:27.52,Default,,0000,0000,0000,,庭审中播放的视频\N{\fn微软雅黑}{\fs14}It was much shorter than the video we had recei...
+Dialogue: 0,0:21:27.60,0:21:29.64,Default,,0000,0000,0000,,比我们收到的视频短很多\N{\fn微软雅黑}{\fs14}uh, than the video that's been played in this trial.
+Dialogue: 0,0:21:29.72,0:21:32.28,Default,,0000,0000,0000,,这里播放的视频开头\N{\fn微软雅黑}{\fs14}There was some... a bit at the beginning that was played here,
+Dialogue: 0,0:21:32.36,0:21:37.08,Default,,0000,0000,0000,,有赫德小姐放置好相机\N{\fn微软雅黑}{\fs14}which Ms. Heard is, um, seemingly, sort of, setting up the camera
+Dialogue: 0,0:21:37.16,0:21:38.72,Default,,0000,0000,0000,,然后就位的画面\N{\fn微软雅黑}{\fs14}and getting into position,
+Dialogue: 0,0:21:38.80,0:21:40.56,Default,,0000,0000,0000,,最后还有一点\N{\fn微软雅黑}{\fs14}and then there's a bit at the end
+Dialogue: 0,0:21:40.64,0:21:43.60,Default,,0000,0000,0000,,是她好像在偷偷观望摄像头\N{\fn微软雅黑}{\fs14}where she's seemingly sniggering and looks at the camera.
+Dialogue: 0,0:21:43.68,0:21:47.60,Default,,0000,0000,0000,,那部分不在我们收到的视频里\N{\fn微软雅黑}{\fs14}That part was not present in what we received.
+Dialogue: 0,0:21:48.72,0:21:50.24,Default,,0000,0000,0000,,TMZ剪辑了视频吗？\N{\fn微软雅黑}{\fs14}Did TMZ edit the video?
+Dialogue: 0,0:21:50.32,0:21:52.28,Default,,0000,0000,0000,,-一点都没有 -没有问题了\N{\fn微软雅黑}{\fs14}- No, not even a little. - - Nothing further, Your Honor.
+Dialogue: 0,0:21:52.36,0:21:53.68,Default,,0000,0000,0000,,交叉盘问？\N{\fn微软雅黑}{\fs14}Cross-examination?
+Dialogue: 0,0:21:54.20,0:21:55.08,Default,,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}Yes. 
+Dialogue: 0,0:21:55.60,0:21:58.88,Default,,0000,0000,0000,,所以你知道这个案子 正在被转播 对吧？\N{\fn微软雅黑}{\fs14}Uh, so, you know this case is being televised, right?
+Dialogue: 0,0:21:58.96,0:22:00.56,Default,,0000,0000,0000,,我知道有摄像头\N{\fn微软雅黑}{\fs14}I... I am aware that there are cameras.
+Dialogue: 0,0:22:00.64,0:22:02.52,Default,,0000,0000,0000,,所以这让你有15分钟的名气\N{\fn微软雅黑}{\fs14}And so this gets you your 15 minutes of fame.
+Dialogue: 0,0:22:02.60,0:22:05.68,Default,,0000,0000,0000,,-反对 法官大人 争论性问题 -我可以问这个问题\N{\fn微软雅黑}{\fs14}Objection, Your Honor. Argumentative. I... I can ask that question.
+Dialogue: 0,0:22:05.76,0:22:06.60,Default,,0000,0000,0000,,反对无效\N{\fn微软雅黑}{\fs14}Overruled.
+Dialogue: 0,0:22:08.36,0:22:10.80,Default,,0000,0000,0000,,所以我不会从中得到任何好处
+Dialogue: 0,0:22:10.88,0:22:14.32,Default,,0000,0000,0000,,我这么做其实会成为TMZ的靶子
+Dialogue: 0,0:22:14.40,0:22:17.40,Default,,0000,0000,0000,,那是一个非常爱打官司的公司
+Dialogue: 0,0:22:17.48,0:22:20.48,Default,,0000,0000,0000,,我不是在追求15分钟的名声\N{\fn微软雅黑}{\fs14}...and I'm not seeking any 15 minutes here.
+Dialogue: 0,0:22:20.56,0:22:22.40,Default,,0000,0000,0000,,虽然你可以推测\N{\fn微软雅黑}{\fs14}Though you may... you're welcome to speculate.
+Dialogue: 0,0:22:22.48,0:22:25.72,Default,,0000,0000,0000,,我可以对你有同样的推测 你让赫德成为你的客户\N{\fn微软雅黑}{\fs14}I could say the same thing, by taking Amber Heard as a client, for you.
+Dialogue: 0,0:22:35.16,0:22:39.20,Default,,0000,0000,0000,,当你走上法庭 必须作证 而有证据被提出\N{\fn微软雅黑}{\fs14}The issue when you go in court and when you have to testify and when there's evidence brought,
+Dialogue: 0,0:22:39.28,0:22:41.56,Default,,0000,0000,0000,,（伊丽莎白·瓦格迈斯特 《视相》首席记者）
+Dialogue: 0,0:22:41.64,0:22:43.16,Default,,0000,0000,0000,,（维尔档案播客嘉宾）
+Dialogue: 0,0:22:43.24,0:22:46.84,Default,,0000,0000,0000,,这就是为什么名人要和解 以避免公开他们的脏事\N{\fn微软雅黑}{\fs14}That's why celebrities always settle cases. You never want to go into court for that very reason.
+Dialogue: 0,0:22:46.92,0:22:48.96,Default,,0000,0000,0000,,难道他们不能私下解决吗？\N{\fn微软雅黑}{\fs14}Could they not have figured this out privately? Um...
+Dialogue: 0,0:22:49.84,0:22:52.64,Default,,0000,0000,0000,,我们之前在节目上讨论过这个\N{\fn微软雅黑}{\fs14}I think... And we've talked about this before on the show.
+Dialogue: 0,0:22:52.72,0:22:56.52,Default,,0000,0000,0000,,我认为让公众知道也是一种策略\N{\fn微软雅黑}{\fs14}I think that making it, um, accessible to the public was a strategy,
+Dialogue: 0,0:22:56.60,0:22:59.40,Default,,0000,0000,0000,,可能是约翰尼的团队提出的\N{\fn微软雅黑}{\fs14}I think, probably brought to the table by Johnny's team.
+Dialogue: 0,0:22:59.48,0:23:02.92,Default,,0000,0000,0000,,这个播客只为娱乐\N{\fn微软雅黑}{\fs14}This podcast is for entertainment purposes only.
+Dialogue: 0,0:23:03.00,0:23:06.88,Default,,0000,0000,0000,,这次德普和赫德的庭审 大家的参与度非常高\N{\fn微软雅黑}{\fs14}With this Depp/Heard trial, the engagement is phenomenal.
+Dialogue: 0,0:23:06.96,0:23:10.36,Default,,0000,0000,0000,,看到大家都参与进来真是太酷了\N{\fn微软雅黑}{\fs14}I mean, it's just so cool to see everyone get involved
+Dialogue: 0,0:23:10.44,0:23:14.36,Default,,0000,0000,0000,,大家想知道法律程序和相关法律\N{\fn微软雅黑}{\fs14}and wanna know about the legal process and the laws that are involved.
+Dialogue: 0,0:23:14.44,0:23:20.16,Default,,0000,0000,0000,,但正义的问题在于它与真相无关\N{\fn微软雅黑}{\fs14}But that's... The thing is about justice is that it's not about the truth,
+Dialogue: 0,0:23:20.24,0:23:22.64,Default,,0000,0000,0000,,与对错无关\N{\fn微软雅黑}{\fs14}it's not about right or wrong.
+Dialogue: 0,0:23:22.72,0:23:23.68,Default,,0000,0000,0000,,不幸的是\N{\fn微软雅黑}{\fs14}Unfortunately,
+Dialogue: 0,0:23:23.76,0:23:26.68,Default,,0000,0000,0000,,它事关法官或陪审团相信什么\N{\fn微软雅黑}{\fs14}it's about what the judge or jury believes,
+Dialogue: 0,0:23:26.76,0:23:31.36,Default,,0000,0000,0000,,这取决于提出什么信息\N{\fn微软雅黑}{\fs14}and that's...and on the information that's presented.
+Dialogue: 0,0:23:31.88,0:23:34.28,Default,,0000,0000,0000,,所以庭审就是剧场\N{\fn微软雅黑}{\fs14}And that's why trials are theater.
+Dialogue: 0,0:23:34.36,0:23:37.60,Default,,0000,0000,0000,,这本该是对真相的探寻\N{\fn微软雅黑}{\fs14}It's not nec... It's supposed to be this search for the truth,
+Dialogue: 0,0:23:37.68,0:23:42.72,Default,,0000,0000,0000,,但事实上是我们在导演 我们应该带来怎样的证人\N{\fn微软雅黑}{\fs14}but it's really about us orchestrating what witnesses we're gonna bring in,
+Dialogue: 0,0:23:42.80,0:23:47.00,Default,,0000,0000,0000,,我们要讲述这个故事 应该怎样规划证据\N{\fn微软雅黑}{\fs14}the order of proof that we're gonna present this story,
+Dialogue: 0,0:23:47.08,0:23:49.08,Default,,0000,0000,0000,,我们要怎么讲述\N{\fn微软雅黑}{\fs14}and how we're gonna do it,
+Dialogue: 0,0:23:49.16,0:23:51.60,Default,,0000,0000,0000,,我们要保留什么 规避什么\N{\fn微软雅黑}{\fs14}what we're gonna keep in, what we're gonna keep out.
+Dialogue: 0,0:23:52.48,0:23:53.84,Default,,0000,0000,0000,,这里是《被扰乱的法律》\N{\fn微软雅黑}{\fs14}This is Law Disrupted,
+Dialogue: 0,0:23:53.92,0:23:58.48,Default,,0000,0000,0000,,今天我们有幸 与卡米尔·巴斯克斯对话\N{\fn微软雅黑}{\fs14}and today we have the privilege of speaking with Camille Vasquez.
+Dialogue: 0,0:23:58.56,0:24:01.80,Default,,0000,0000,0000,,约翰尼的证词是我们的关键点\N{\fn微软雅黑}{\fs14}Johnny's testimony was a... a key point for us.
+Dialogue: 0,0:24:01.88,0:24:07.40,Default,,0000,0000,0000,,那是全世界和本案陪审团第一次\N{\fn微软雅黑}{\fs14}It was the first time that the world, really the jury, right, in... in this case,
+Dialogue: 0,0:24:07.48,0:24:11.24,Default,,0000,0000,0000,,听到他用自己的语言进行描述\N{\fn微软雅黑}{\fs14}the jury got to hear from him in his own words.
+Dialogue: 0,0:24:11.32,0:24:15.80,Default,,0000,0000,0000,,我们要给他机会开口说真话\N{\fn微软雅黑}{\fs14}We needed to give him the opportunity to speak and speak freely.
+Dialogue: 0,0:24:16.60,0:24:21.48,Default,,0000,0000,0000,,我们向陪审团介绍了约翰尼·德普 以及真正的约翰尼·德普是谁\N{\fn微软雅黑}{\fs14}We introduced the jury to Johnny Depp and who the real Johnny Depp was.
+Dialogue: 0,0:24:21.56,0:24:24.52,Default,,0000,0000,0000,,所以我们向陪审团介绍他的妹妹\N{\fn微软雅黑}{\fs14}So, we introduced the jury to his sister,
+Dialogue: 0,0:24:24.60,0:24:27.08,Default,,0000,0000,0000,,她能够提供背景\N{\fn微软雅黑}{\fs14}who was able to give a background
+Dialogue: 0,0:24:27.16,0:24:31.76,Default,,0000,0000,0000,,介绍那个小男孩 在成为约翰尼·德普之前是什么样\N{\fn微软雅黑}{\fs14}about who the little boy was... ...before he became Johnny Depp,
+Dialogue: 0,0:24:31.84,0:24:35.12,Default,,0000,0000,0000,,以及这个男人现在是什么样\N{\fn微软雅黑}{\fs14}and who the man is now.
+Dialogue: 0,0:24:35.84,0:24:39.72,Default,,0000,0000,0000,,谢谢 女士们 先生们 好了 你的第一个证人\N{\fn微软雅黑}{\fs14}Thank you, ladies and gentlemen. All right, your first witness.
+Dialogue: 0,0:24:42.32,0:24:44.88,Default,,0000,0000,0000,,邓布罗斯基小姐 你能告诉陪审团\N{\fn微软雅黑}{\fs14}Miss Dembrowski, would you please tell the jurors
+Dialogue: 0,0:24:44.96,0:24:47.16,Default,,0000,0000,0000,,在你的成长过程中\N{\fn微软雅黑}{\fs14}what your relationship with Johnny was like
+Dialogue: 0,0:24:47.24,0:24:48.56,Default,,0000,0000,0000,,和约翰尼的关系如何吗？\N{\fn微软雅黑}{\fs14}when you were growing up?
+Dialogue: 0,0:24:52.08,0:24:53.80,Default,,0000,0000,0000,,约翰尼和我关系很好\N{\fn微软雅黑}{\fs14}Johnny and I were very close. Uh...
+Dialogue: 0,0:24:55.24,0:24:58.24,Default,,0000,0000,0000,,我们就是朋友 我们像是最好的朋友\N{\fn微软雅黑}{\fs14}We were just friends. We were like best friends.
+Dialogue: 0,0:24:59.16,0:25:00.04,Default,,0000,0000,0000,,邓布罗斯基小姐\N{\fn微软雅黑}{\fs14}Miss Dembrowski, 
+Dialogue: 0,0:25:00.12,0:25:03.04,Default,,0000,0000,0000,,你和你双亲的关系如何？\N{\fn微软雅黑}{\fs14}how would you describe your parents' relationship?
+Dialogue: 0,0:25:03.88,0:25:05.12,Default,,0000,0000,0000,,很复杂\N{\fn微软雅黑}{\fs14}That was complicated.
+Dialogue: 0,0:25:07.84,0:25:08.76,Default,,0000,0000,0000,,我的童年…\N{\fn微软雅黑}{\fs14}Um, I had a very...
+Dialogue: 0,0:25:11.84,0:25:13.88,Default,,0000,0000,0000,,非常有趣\N{\fn微软雅黑}{\fs14}...interesting childhood,
+Dialogue: 0,0:25:15.08,0:25:18.16,Default,,0000,0000,0000,,直到一定年纪前 我都以为我的童年很普通\N{\fn微软雅黑}{\fs14}um, one that I thought was normal until a certain age.
+Dialogue: 0,0:25:18.24,0:25:21.28,Default,,0000,0000,0000,,你能告诉他们你吸毒的历史吗？\N{\fn微软雅黑}{\fs14}Could you please tell them about your history of substance use?
+Dialogue: 0,0:25:22.80,0:25:26.40,Default,,0000,0000,0000,,大概在四五岁的时候\N{\fn微软雅黑}{\fs14}At about the age of, I don't know,
+Dialogue: 0,0:25:26.48,0:25:27.92,Default,,0000,0000,0000,,我也说不好了\N{\fn微软雅黑}{\fs14}f-four, five years old,
+Dialogue: 0,0:25:28.00,0:25:34.00,Default,,0000,0000,0000,,我很清楚地记得我妈妈\N{\fn微软雅黑}{\fs14}I... I can remember vividly my... my mom
+Dialogue: 0,0:25:35.44,0:25:38.08,Default,,0000,0000,0000,,叫我从她挂在门后的包里\N{\fn微软雅黑}{\fs14}telling me to go get her nerve pills, you know, um,
+Dialogue: 0,0:25:40.16,0:25:43.08,Default,,0000,0000,0000,,去拿她的神经药\N{\fn微软雅黑}{\fs14}out of her purse that was hanging on the back of the door.
+Dialogue: 0,0:25:44.32,0:25:47.48,Default,,0000,0000,0000,,所以我会去拿神经药\N{\fn微软雅黑}{\fs14}So I'd go get the nerve pills and I'd take it,
+Dialogue: 0,0:25:47.56,0:25:51.28,Default,,0000,0000,0000,,几年后\N{\fn微软雅黑}{\fs14}and, um, you know, after a few years,
+Dialogue: 0,0:25:51.36,0:25:52.76,Default,,0000,0000,0000,,我开始注意到…\N{\fn微软雅黑}{\fs14}you start to notice...
+Dialogue: 0,0:25:53.80,0:25:56.12,Default,,0000,0000,0000,,我开始想“神经药”\N{\fn微软雅黑}{\fs14}well, you start to think about "nerve pills."
+Dialogue: 0,0:25:56.64,0:25:57.88,Default,,0000,0000,0000,,“神经药”\N{\fn微软雅黑}{\fs14}"Nerve pill."
+Dialogue: 0,0:25:59.00,0:26:04.20,Default,,0000,0000,0000,,她吃了那些“神经药”之后 似乎会平静下来\N{\fn微软雅黑}{\fs14}And then she seemed to calm down after she took those "nerve pills."
+Dialogue: 0,0:26:05.32,0:26:08.76,Default,,0000,0000,0000,,所以当我11岁的时候…\N{\fn微软雅黑}{\fs14}So, when I was 11 years old,
+Dialogue: 0,0:26:12.00,0:26:13.64,Default,,0000,0000,0000,,我想冷静下来\N{\fn微软雅黑}{\fs14}I wanted to calm down.
+Dialogue: 0,0:26:14.56,0:26:17.00,Default,,0000,0000,0000,,我会帮我妈妈拿她的神经药\N{\fn微软雅黑}{\fs14}I'd bring my mom her nerve pill,
+Dialogue: 0,0:26:17.56,0:26:19.24,Default,,0000,0000,0000,,我会走开\N{\fn微软雅黑}{\fs14}I would walk away...
+Dialogue: 0,0:26:19.32,0:26:22.56,Default,,0000,0000,0000,,然后我自己也吃一颗\N{\fn微软雅黑}{\fs14}...and I would take one myself,
+Dialogue: 0,0:26:26.48,0:26:32.56,Default,,0000,0000,0000,,用来逃避我们当时\N{\fn微软雅黑}{\fs14}to escape the... the chaotic... nature
+Dialogue: 0,0:26:32.64,0:26:37.04,Default,,0000,0000,0000,,非常混乱的生活\N{\fn微软雅黑}{\fs14}of... of what w... of what we were living, uh, through.
+Dialogue: 0,0:26:39.20,0:26:40.44,Default,,0000,0000,0000,,我的妈妈\N{\fn微软雅黑}{\fs14}My mother was...
+Dialogue: 0,0:26:42.08,0:26:43.28,Default,,0000,0000,0000,,非常难以预测\N{\fn微软雅黑}{\fs14}quite unpredictable,
+Dialogue: 0,0:26:43.36,0:26:46.04,Default,,0000,0000,0000,,而且她非常暴力\N{\fn微软雅黑}{\fs14}and she was quite violent,
+Dialogue: 0,0:26:46.68,0:26:48.08,Default,,0000,0000,0000,,还有身体上的痛苦\N{\fn微软雅黑}{\fs14}and the physical pain,
+Dialogue: 0,0:26:49.36,0:26:52.28,Default,,0000,0000,0000,,我们学会应对 学会接受\N{\fn微软雅黑}{\fs14}y-you learn to deal with, you learn to accept it,
+Dialogue: 0,0:26:53.60,0:26:57.80,Default,,0000,0000,0000,,但心理和情感上的虐待\N{\fn微软雅黑}{\fs14}but the, uh, psychological and emotional abuse,
+Dialogue: 0,0:26:58.32,0:27:02.12,Default,,0000,0000,0000,,我觉得会把我们撕成碎片\N{\fn微软雅黑}{\fs14}that's what, uh...that's what kind of tore us up, I think.
+Dialogue: 0,0:27:03.24,0:27:06.84,Default,,0000,0000,0000,,德普先生 你有没有过药物上瘾？\N{\fn微软雅黑}{\fs14}Mr. Depp, is there any substance you've ever been addicted to?
+Dialogue: 0,0:27:07.72,0:27:10.12,Default,,0000,0000,0000,,-有 -是什么药物？\N{\fn微软雅黑}{\fs14}- Yes. - And... And what is that?
+Dialogue: 0,0:27:14.16,0:27:15.80,Default,,0000,0000,0000,,洛西考酮\N{\fn微软雅黑}{\fs14}Roxicodone.
+Dialogue: 0,0:27:16.32,0:27:18.68,Default,,0000,0000,0000,,目前为止 大家都在用自己读到的东西\N{\fn微软雅黑}{\fs14}So far, everybody's just making these speculations
+Dialogue: 0,0:27:18.76,0:27:20.48,Default,,0000,0000,0000,,进行推测\N{\fn微软雅黑}{\fs14}based off of whatever they're reading.
+Dialogue: 0,0:27:20.56,0:27:23.24,Default,,0000,0000,0000,,我们在此之前 都没有听过当事人的陈述\N{\fn微软雅黑}{\fs14}We haven't heard it out of the horse's mouth until now.
+Dialogue: 0,0:27:23.32,0:27:26.32,Default,,0000,0000,0000,,现在我们听到了 或者开始听到这些事情\N{\fn微软雅黑}{\fs14}And now that we have, or started to hear about these things...
+Dialogue: 0,0:27:28.04,0:27:30.84,Default,,0000,0000,0000,,这只会让他看起来 是一个更加真诚的人\N{\fn微软雅黑}{\fs14}it only makes him seem like a more honest human being,
+Dialogue: 0,0:27:30.92,0:27:32.40,Default,,0000,0000,0000,,更加讨喜的人\N{\fn微软雅黑}{\fs14}a more likable person.
+Dialogue: 0,0:27:32.48,0:27:34.16,Default,,0000,0000,0000,,我上瘾的药物\N{\fn微软雅黑}{\fs14}The pills that I was addicted to, the... 
+Dialogue: 0,0:27:34.24,0:27:35.84,Default,,0000,0000,0000,,洛西考酮\N{\fn微软雅黑}{\fs14}the Roxicodone,
+Dialogue: 0,0:27:35.92,0:27:38.04,Default,,0000,0000,0000,,是非常强大的阿片类药物\N{\fn微软雅黑}{\fs14}which are very, very powerful opiates,
+Dialogue: 0,0:27:38.12,0:27:43.64,Default,,0000,0000,0000,,两颗就能让我失去意识\N{\fn微软雅黑}{\fs14}two of those would knock me out.
+Dialogue: 0,0:27:44.52,0:27:46.68,Default,,0000,0000,0000,,你会开始所谓的“点头”\N{\fn微软雅黑}{\fs14}You go on what's called "the nod,"
+Dialogue: 0,0:27:47.88,0:27:50.52,Default,,0000,0000,0000,,然后它会让你立即沉睡\N{\fn微软雅黑}{\fs14}and then it takes you away into sleep.
+Dialogue: 0,0:27:51.04,0:27:53.04,Default,,0000,0000,0000,,是非常深的睡眠\N{\fn微软雅黑}{\fs14}It's just very deep sleep.
+Dialogue: 0,0:27:53.12,0:27:56.64,Default,,0000,0000,0000,,我们看到约翰尼·德普 对自己的药物滥用史非常坦诚\N{\fn微软雅黑}{\fs14}We see Johnny Depp very open about his drug use,
+Dialogue: 0,0:27:56.72,0:27:59.60,Default,,0000,0000,0000,,我认为另一方会试图用这一点扳倒他\N{\fn微软雅黑}{\fs14}that I think the other side was going to try to use against him,
+Dialogue: 0,0:27:59.68,0:28:03.20,Default,,0000,0000,0000,,但他知道 他会承认 他的朋友也承认\N{\fn微软雅黑}{\fs14}but he knew, he's going to admit to it, his friends admitted to it,
+Dialogue: 0,0:28:03.28,0:28:06.76,Default,,0000,0000,0000,,他们让对方的攻击不那么有杀伤力\N{\fn微软雅黑}{\fs14}and they kind of, you know, took the sting out of it from the other side.
+Dialogue: 0,0:28:06.84,0:28:09.16,Default,,0000,0000,0000,,没什么严重后果了\N{\fn微软雅黑}{\fs14}They... Nothing really happened with it anymore, right?
+Dialogue: 0,0:28:09.24,0:28:12.00,Default,,0000,0000,0000,,一旦你承认了 他们就做不了什么\N{\fn微软雅黑}{\fs14}Once you admit it, they can't really do anything with it.
+Dialogue: 0,0:28:12.08,0:28:13.00,Default,,0000,0000,0000,,无法采取行动\N{\fn微软雅黑}{\fs14}There's no movement.
+Dialogue: 0,0:28:13.08,0:28:17.48,Default,,0000,0000,0000,,这是一张你在 黑色皮沙发上昏倒的照片 是么？\N{\fn微软雅黑}{\fs14}This is a picture of you on a... on a black leather couch, passed out, correct?
+Dialogue: 0,0:28:19.12,0:28:21.20,Default,,0000,0000,0000,,昏倒是一种有趣的说法\N{\fn微软雅黑}{\fs14}Passed out's an interesting way of putting it.
+Dialogue: 0,0:28:21.28,0:28:22.60,Default,,0000,0000,0000,,也许是睡着\N{\fn微软雅黑}{\fs14}Maybe "asleep."
+Dialogue: 0,0:28:22.68,0:28:25.20,Default,,0000,0000,0000,,你大腿上的是冰淇淋 对吧？\N{\fn微软雅黑}{\fs14}That's ice cream on your lap, correct?
+Dialogue: 0,0:28:25.28,0:28:26.28,Default,,0000,0000,0000,,的确如此\N{\fn微软雅黑}{\fs14}It is indeed. 
+Dialogue: 0,0:28:26.36,0:28:31.20,Default,,0000,0000,0000,,赫德小姐让我拿着冰淇淋 因为她注意到我在点头\N{\fn微软雅黑}{\fs14}Uh, Ms. Heard asked me to hold the ice cream as she noticed that I was on a... on the nod,
+Dialogue: 0,0:28:31.28,0:28:33.12,Default,,0000,0000,0000,,意思是快睡着了\N{\fn微软雅黑}{\fs14}that means "falling asleep,"
+Dialogue: 0,0:28:33.20,0:28:38.96,Default,,0000,0000,0000,,我那天工作了17个小时 而且我摄入了阿片类药物\N{\fn微软雅黑}{\fs14}um, from the 17-hour day that I'd worked, and also the opiates that I'd ingested,
+Dialogue: 0,0:28:39.04,0:28:41.48,Default,,0000,0000,0000,,那是她拍的一张绝妙的照片\N{\fn微软雅黑}{\fs14}and that was a wonderful picture to take for her.
+Dialogue: 0,0:28:41.56,0:28:42.92,Default,,0000,0000,0000,,我不知道她为什么要拍\N{\fn微软雅黑}{\fs14}- Sure... - I don't know why she took it.
+Dialogue: 0,0:28:43.00,0:28:46.72,Default,,0000,0000,0000,,所以拍到那张照片是赫德小姐的问题\N{\fn微软雅黑}{\fs14}Well, so it's Ms. Heard's fault that that picture was taken.
+Dialogue: 0,0:28:46.80,0:28:48.40,Default,,0000,0000,0000,,你是这意思吗？\N{\fn微软雅黑}{\fs14}That's... Is that what you're saying?
+Dialogue: 0,0:28:48.96,0:28:50.60,Default,,0000,0000,0000,,是她拍的\N{\fn微软雅黑}{\fs14}She... She snapped it.
+Dialogue: 0,0:28:51.56,0:28:54.44,Default,,0000,0000,0000,,陪审团对这个信息的解读会很有趣\N{\fn微软雅黑}{\fs14}Interesting to see how the jury interpret this information.
+Dialogue: 0,0:28:54.52,0:28:58.36,Default,,0000,0000,0000,,他们会像赫德希望的那样 认为是约翰尼拥有黑暗面的证据？\N{\fn微软雅黑}{\fs14}Will they interpret it, as Ms. Heard wants, as evidence of Johnny having a "dark side"?
+Dialogue: 0,0:28:58.44,0:29:00.72,Default,,0000,0000,0000,,还是说他们会像约翰尼说的那样\N{\fn微软雅黑}{\fs14}Will they interpret it as evidence, as Johnny says,
+Dialogue: 0,0:29:00.80,0:29:03.84,Default,,0000,0000,0000,,解读成女朋友 故意让她的伴侣看起来像坏人？\N{\fn微软雅黑}{\fs14}of a girlfriend setting up her partner to look like a bad guy?
+Dialogue: 0,0:29:03.92,0:29:05.04,Default,,0000,0000,0000,,关注我 了解更多\N{\fn微软雅黑}{\fs14}Follow me for more legal TikTok.
+Dialogue: 0,0:29:06.28,0:29:09.00,Default,,0000,0000,0000,,-你拍了这张照片吗 赫德小姐？ -没错\N{\fn微软雅黑}{\fs14}- You took this photo, right, Ms. Heard? - That's correct.
+Dialogue: 0,0:29:09.96,0:29:12.56,Default,,0000,0000,0000,,你决定拍德普睡在地板上的照片？\N{\fn微软雅黑}{\fs14}So you decided to take a picture of Mr. Depp asleep on the floor?
+Dialogue: 0,0:29:13.40,0:29:14.56,Default,,0000,0000,0000,,他昏倒了\N{\fn微软雅黑}{\fs14}He was passed out.
+Dialogue: 0,0:29:15.68,0:29:17.72,Default,,0000,0000,0000,,你也拍了这张照片\N{\fn微软雅黑}{\fs14}You took this picture as well.
+Dialogue: 0,0:29:17.80,0:29:19.00,Default,,0000,0000,0000,,是的\N{\fn微软雅黑}{\fs14}Yes.
+Dialogue: 0,0:29:19.08,0:29:22.32,Default,,0000,0000,0000,,这是德普先生度假时 在他的热带岛屿上\N{\fn微软雅黑}{\fs14}This is a picture of Mr. Depp taking a nap on his tropical island, on vacation.
+Dialogue: 0,0:29:22.40,0:29:23.28,Default,,0000,0000,0000,,小憩
+Dialogue: 0,0:29:23.36,0:29:24.80,Default,,0000,0000,0000,,我们在度假 是的\N{\fn微软雅黑}{\fs14}We were on vacation, yes.
+Dialogue: 0,0:29:24.88,0:29:27.80,Default,,0000,0000,0000,,-你也拍了这张照片吗 赫德小姐？ -没错\N{\fn微软雅黑}{\fs14}- You also took this picture, right, Ms. Heard? - That's correct.
+Dialogue: 0,0:29:27.88,0:29:30.92,Default,,0000,0000,0000,,这是德普先生 睡在椅子上的另一张照片\N{\fn微软雅黑}{\fs14}And this is another picture of Mr. Depp asleep in a chair.
+Dialogue: 0,0:29:31.00,0:29:33.36,Default,,0000,0000,0000,,不 他在点头\N{\fn微软雅黑}{\fs14}No, he was, um, nodding off.
+Dialogue: 0,0:29:33.88,0:29:35.52,Default,,0000,0000,0000,,睡觉不一样\N{\fn微软雅黑}{\fs14}Uh, "asleep" is different.
+Dialogue: 0,0:29:35.60,0:29:38.48,Default,,0000,0000,0000,,当你在点头时 说明你嗑药嗑嗨了\N{\fn微软雅黑}{\fs14}When you're nodding off, you're high on drugs.
+Dialogue: 0,0:29:38.56,0:29:43.00,Default,,0000,0000,0000,,他甚至没有感觉到 拿在手上的香烟烧到了他的腿\N{\fn微软雅黑}{\fs14}He didn't even feel the cigarette in his hand that had, you know, been burning on his leg.
+Dialogue: 0,0:29:43.52,0:29:47.76,Default,,0000,0000,0000,,我认为这是警报 因为我非常在意他\N{\fn微软雅黑}{\fs14}Uh, it was cause for alarm for me, naturally, um, because I cared about him.
+Dialogue: 0,0:29:48.28,0:29:52.44,Default,,0000,0000,0000,,你似乎很喜欢 在德普先生睡觉的时候给他拍照\N{\fn微软雅黑}{\fs14}You seem to like taking pictures of Mr. Depp while he's sleeping, don't you?
+Dialogue: 0,0:29:52.52,0:29:53.48,Default,,0000,0000,0000,,我非常讨厌\N{\fn微软雅黑}{\fs14}I hated it.
+Dialogue: 0,0:29:54.00,0:29:58.36,Default,,0000,0000,0000,,你决定拍一张德普 浑身都是冰淇淋睡着的照片\N{\fn微软雅黑}{\fs14}You decided to take a picture of Mr. Depp asleep with ice cream spilled all over him.
+Dialogue: 0,0:29:58.44,0:30:00.88,Default,,0000,0000,0000,,这照片里的他不是很好看吧？\N{\fn微软雅黑}{\fs14}This isn't a very flattering picture of Mr. Depp, is it?
+Dialogue: 0,0:30:00.96,0:30:02.00,Default,,0000,0000,0000,,不好看\N{\fn微软雅黑}{\fs14}No, it's not.
+Dialogue: 0,0:30:03.88,0:30:07.60,Default,,0000,0000,0000,,你把这张照片发给了你的朋友 洛基佩宁顿\N{\fn微软雅黑}{\fs14}You did, in fact, send this picture to your friend, Rocky Pennington.
+Dialogue: 0,0:30:07.68,0:30:08.52,Default,,0000,0000,0000,,是的 我发了\N{\fn微软雅黑}{\fs14}Yes, I did.
+Dialogue: 0,0:30:08.60,0:30:10.72,Default,,0000,0000,0000,,这是你在保护德普先生吗？\N{\fn微软雅黑}{\fs14}And this is you protecting Mr. Depp?
+Dialogue: 0,0:30:10.80,0:30:13.52,Default,,0000,0000,0000,,这是我在寻求最好朋友的支持\N{\fn微软雅黑}{\fs14}That is me getting support from my best friend.
+Dialogue: 0,0:30:14.04,0:30:15.76,Default,,0000,0000,0000,,这是你在支持德普先生吗？\N{\fn微软雅黑}{\fs14}This is you supporting Mr. Depp?
+Dialogue: 0,0:30:15.84,0:30:18.20,Default,,0000,0000,0000,,这是我寻求最好朋友的支持\N{\fn微软雅黑}{\fs14}This is me getting support from my best friend.
+Dialogue: 0,0:30:18.28,0:30:19.60,Default,,0000,0000,0000,,我也需要支持\N{\fn微软雅黑}{\fs14}I also need support.
+Dialogue: 0,0:30:19.68,0:30:20.52,Default,,0000,0000,0000,,天啊 我…\N{\fn微软雅黑}{\fs14}- My God, I'm... - I'm so disappointed!
+Dialogue: 0,0:30:20.60,0:30:23.68,Default,,0000,0000,0000,,我对你很失望 安迪 这太让人难过了\N{\fn微软雅黑}{\fs14}I'm so disappointed in you, Andy.
+Dialogue: 0,0:30:23.76,0:30:25.96,Default,,0000,0000,0000,,很抱歉 各位 真相已经出来了\N{\fn微软雅黑}{\fs14}I'm so sorry, guys. The truth is there. It's so upsetting.
+Dialogue: 0,0:30:26.04,0:30:31.24,Default,,0000,0000,0000,,我是怪物 因为我昨晚在床上昏倒了\N{\fn微软雅黑}{\fs14}I'm a monster. I must be a monster because I passed out on my bed last night,
+Dialogue: 0,0:30:31.32,0:30:34.68,Default,,0000,0000,0000,,亚米拍了一张照片 然后就完了\N{\fn微软雅黑}{\fs14}and Yami took a photo and it's over.
+Dialogue: 0,0:30:34.76,0:30:39.24,Default,,0000,0000,0000,,你们敢相信吗 这都能被作为证据？\N{\fn微软雅黑}{\fs14}Can you guys friggin' believe this was put into evidence?
+Dialogue: 0,0:30:39.32,0:30:43.76,Default,,0000,0000,0000,,他在度假的时候小憩了一下 这照片是他妈什么东西？\N{\fn微软雅黑}{\fs14}He's taking a freaking nap on vacation! Like, what the fuck is this photo?
+Dialogue: 0,0:30:43.84,0:30:46.72,Default,,0000,0000,0000,,这里面还有钱的因素\N{\fn微软雅黑}{\fs14}- There is a money aspect to this too. - Yes.
+Dialogue: 0,0:30:46.80,0:30:49.08,Default,,0000,0000,0000,,社交媒体 网红\N{\fn微软雅黑}{\fs14}Social media, now influencers,
+Dialogue: 0,0:30:49.16,0:30:50.76,Default,,0000,0000,0000,,你们以研究这个为生\N{\fn微软雅黑}{\fs14}you... you study this for a living, I don't have to tell you,
+Dialogue: 0,0:30:50.84,0:30:53.64,Default,,0000,0000,0000,,他们有时候会因为发布内容而挣钱\N{\fn微软雅黑}{\fs14}they make money sometimes for posting content.
+Dialogue: 0,0:30:53.72,0:30:56.68,Default,,0000,0000,0000,,在这个特定的时刻 这是如何发挥作用的？\N{\fn微软雅黑}{\fs14}How... How is that playing into this particular moment?
+Dialogue: 0,0:30:56.76,0:30:58.20,Default,,0000,0000,0000,,今天就加入吧\N{\fn微软雅黑}{\fs14}Become a member today.
+Dialogue: 0,0:30:58.28,0:31:00.76,Default,,0000,0000,0000,,按下加入按钮 你就在支持本频道\N{\fn微软雅黑}{\fs14}Hit that join button. You'll be supporting the channel.
+Dialogue: 0,0:31:00.84,0:31:02.56,Default,,0000,0000,0000,,我们很希望得到你的点赞\N{\fn微软雅黑}{\fs14}We would love if you hit the like button.
+Dialogue: 0,0:31:02.64,0:31:04.96,Default,,0000,0000,0000,,这会让YouTube的算法之神眷顾我们\N{\fn微软雅黑}{\fs14}It does help us with the YouTube algorithm gods.
+Dialogue: 0,0:31:05.04,0:31:07.00,Default,,0000,0000,0000,,请一定要记得\N{\fn微软雅黑}{\fs14}You need to make sure the next thing you do,
+Dialogue: 0,0:31:07.08,0:31:09.72,Default,,0000,0000,0000,,狂按订阅按钮\N{\fn微软雅黑}{\fs14}no matter what, is smash the hell out of that subscribe button.
+Dialogue: 0,0:31:09.80,0:31:12.60,Default,,0000,0000,0000,,（在庭审的过程中）
+Dialogue: 0,0:31:12.68,0:31:18.20,Default,,0000,0000,0000,,（内容创作者获得了 数百万美元的收益）
+Dialogue: 0,0:31:18.28,0:31:20.88,Default,,0000,0000,0000,,YouTube一类的平台上有些创作者\N{\fn微软雅黑}{\fs14}You have creators on platforms like YouTube
+Dialogue: 0,0:31:20.96,0:31:24.96,Default,,0000,0000,0000,,之前发布的视频只有数百播放量\N{\fn微软雅黑}{\fs14}who previously were getting hundreds of views on videos about anything,
+Dialogue: 0,0:31:25.04,0:31:27.40,Default,,0000,0000,0000,,内容从电子游戏到音乐到艺术都有\N{\fn微软雅黑}{\fs14}ranging from video games to music to art.
+Dialogue: 0,0:31:27.48,0:31:30.36,Default,,0000,0000,0000,,突然之间 他们开始产出 与这场审判相关的视频\N{\fn微软雅黑}{\fs14}All of a sudden, they're pumping out videos about this trial.
+Dialogue: 0,0:31:30.44,0:31:33.60,Default,,0000,0000,0000,,我订阅了一些频道 参与直播很有趣\N{\fn微软雅黑}{\fs14}I'm subscribed to some of you and it's... it's cool to... to be on a stream.
+Dialogue: 0,0:31:33.68,0:31:37.00,Default,,0000,0000,0000,,让约翰尼·德普看起来很棒 让安柏·赫德看起来很糟糕的视频\N{\fn微软雅黑}{\fs14}Videos that make Johnny Depp look good and make Amber Heard look bad
+Dialogue: 0,0:31:37.08,0:31:39.68,Default,,0000,0000,0000,,因为人们只想看到这类视频\N{\fn微软雅黑}{\fs14}because a... those are the only ones that people want to see,
+Dialogue: 0,0:31:39.76,0:31:42.28,Default,,0000,0000,0000,,而这是他们有史以来第一次挣到钱\N{\fn微软雅黑}{\fs14}and they're being able to make money for the first time ever.
+Dialogue: 0,0:31:42.36,0:31:44.48,Default,,0000,0000,0000,,他们关于这次审判的视频大爆\N{\fn微软雅黑}{\fs14}They're getting viral videos off of this case,
+Dialogue: 0,0:31:44.56,0:31:46.24,Default,,0000,0000,0000,,得到数百万播放量\N{\fn微软雅黑}{\fs14}getting millions of views.
+Dialogue: 0,0:31:46.32,0:31:49.16,Default,,0000,0000,0000,,你们都疯了 我非常感谢你们\N{\fn微软雅黑}{\fs14}Y'all have gotten wild, and I appreciate you.
+Dialogue: 0,0:31:49.24,0:31:50.80,Default,,0000,0000,0000,,这就是我们要走的路\N{\fn微软雅黑}{\fs14}This is the road that we're on.
+Dialogue: 0,0:31:50.88,0:31:51.84,Default,,0000,0000,0000,,非常感谢\N{\fn微软雅黑}{\fs14}Thank you so much.
+Dialogue: 0,0:31:51.92,0:31:54.72,Default,,0000,0000,0000,,看着数字上涨很有趣 我非常感激\N{\fn微软雅黑}{\fs14}It's kinda fun to just watch the numbers spiral, and I appreciate it.
+Dialogue: 0,0:31:54.80,0:31:56.88,Default,,0000,0000,0000,,这是一张疯狂的成长图表\N{\fn微软雅黑}{\fs14}This is a... This is a wild growth chart.
+Dialogue: 0,0:31:56.96,0:31:59.44,Default,,0000,0000,0000,,你一直在说： “这是美化约翰尼·德普”\N{\fn微软雅黑}{\fs14}You know, you keep saying, "It's glorifying Johnny Depp."
+Dialogue: 0,0:31:59.52,0:32:01.80,Default,,0000,0000,0000,,-但这就是主流意见 对吧？ -是的\N{\fn微软雅黑}{\fs14}- But that is the dominant stream, right? - Oh, yes.
+Dialogue: 0,0:32:01.88,0:32:03.12,Default,,0000,0000,0000,,而不是相反\N{\fn微软雅黑}{\fs14}It's not the other way.
+Dialogue: 0,0:32:03.20,0:32:04.36,Default,,0000,0000,0000,,直到最近\N{\fn微软雅黑}{\fs14}Up until recently,
+Dialogue: 0,0:32:04.44,0:32:07.20,Default,,0000,0000,0000,,你都找不到 任何支持安柏·赫德的抖音用户\N{\fn微软雅黑}{\fs14}you really couldn't find any TikToks in support of Amber Heard.
+Dialogue: 0,0:32:07.28,0:32:09.28,Default,,0000,0000,0000,,整个平台都支持约翰尼·德普\N{\fn微软雅黑}{\fs14}- Wow! - The entire platform was pro-Johnny Depp.
+Dialogue: 0,0:32:09.36,0:32:12.44,Default,,0000,0000,0000,,我听创作者们自己说 如果有人评论\N{\fn微软雅黑}{\fs14}And I've heard from those creators themselves that if someone comments
+Dialogue: 0,0:32:12.52,0:32:16.96,Default,,0000,0000,0000,,说他们的立场是中立的 或者他们认为安柏也许是受害者\N{\fn微软雅黑}{\fs14}and says that they have a neutral position or they think that maybe Amber is a victim,
+Dialogue: 0,0:32:17.04,0:32:22.16,Default,,0000,0000,0000,,他们马上就会被围攻和骚扰 在评论区里被虐待\N{\fn微软雅黑}{\fs14}they immediately get dog-piled, harassed, abused themselves in these comment sections,
+Dialogue: 0,0:32:22.24,0:32:24.72,Default,,0000,0000,0000,,没有人想为安柏·赫德说话\N{\fn微软雅黑}{\fs14}and no one wants to speak up in support of Amber Heard.
+Dialogue: 0,0:32:27.52,0:32:29.84,Default,,0000,0000,0000,,在这场备受关注的审判进行时\N{\fn微软雅黑}{\fs14}And as this high-profile trial plays out in court, 
+Dialogue: 0,0:32:29.92,0:32:33.20,Default,,0000,0000,0000,,社交媒体用户 团结在约翰尼·德普周围\N{\fn微软雅黑}{\fs14}social media users are... are sort of rallying around Johnny Depp,
+Dialogue: 0,0:32:33.28,0:32:34.72,Default,,0000,0000,0000,,就像史蒂夫提到的那样\N{\fn微软雅黑}{\fs14}as Steve alluded to.
+Dialogue: 0,0:32:34.80,0:32:37.36,Default,,0000,0000,0000,,他们在辩方的证明中寻找漏洞\N{\fn微软雅黑}{\fs14}They're... They're looking for holes in the defense's case,
+Dialogue: 0,0:32:37.44,0:32:39.00,Default,,0000,0000,0000,,他们觉得找到了一个\N{\fn微软雅黑}{\fs14}and they think that they found one.
+Dialogue: 0,0:32:39.08,0:32:45.16,Default,,0000,0000,0000,,这是安柏在和德普交往的全过程中 都带在包里的东西\N{\fn微软雅黑}{\fs14}This is what Amber carried in her purse for the entire relationship with Johnny Depp.
+Dialogue: 0,0:32:45.88,0:32:48.20,Default,,0000,0000,0000,,这是她用的\N{\fn微软雅黑}{\fs14}This was what she used.
+Dialogue: 0,0:32:48.28,0:32:51.88,Default,,0000,0000,0000,,她已经可以熟练混合不同的颜色\N{\fn微软雅黑}{\fs14}She became very adept about how she had to mix the different colors
+Dialogue: 0,0:32:51.96,0:32:55.68,Default,,0000,0000,0000,,来遮盖不同程度的淤青\N{\fn微软雅黑}{\fs14}for the different days of the bruises to be able to cover those.
+Dialogue: 0,0:32:55.76,0:33:00.84,Default,,0000,0000,0000,,米拉尼美妆公司被牵扯进了这个案子\N{\fn微软雅黑}{\fs14}So Milani Cosmetics is the company that is sort of jumping into the fray in this case.
+Dialogue: 0,0:33:00.92,0:33:07.32,Default,,0000,0000,0000,,他们说他们的美妆调色盒 于2017年问世\N{\fn微软雅黑}{\fs14}They said that their, uh, color correcting compact, it's a compact that came out in 2017.
+Dialogue: 0,0:33:07.40,0:33:10.68,Default,,0000,0000,0000,,辩方律师说安柏·赫德\N{\fn微软雅黑}{\fs14}It was the same compact that, uh, defense attorneys used
+Dialogue: 0,0:33:10.76,0:33:14.80,Default,,0000,0000,0000,,正是使用的这款产品\N{\fn微软雅黑}{\fs14}to say that, uh, Amber Heard used this specific kit
+Dialogue: 0,0:33:14.88,0:33:18.32,Default,,0000,0000,0000,,遮盖她被约翰尼·德普打出的淤青\N{\fn微软雅黑}{\fs14}to cover bruises she allegedly received from Johnny Depp.
+Dialogue: 0,0:33:18.40,0:33:22.48,Default,,0000,0000,0000,,米拉尼加入争论 发布了一条抖音\N{\fn微软雅黑}{\fs14}Now, Milani jumped into the fray by posting a TikTok to say,
+Dialogue: 0,0:33:22.56,0:33:25.52,Default,,0000,0000,0000,,“实际上 这款产品是2017年问世的\N{\fn微软雅黑}{\fs14}"Actually, this kit came out in 2017."
+Dialogue: 0,0:33:25.60,0:33:28.44,Default,,0000,0000,0000,,赫德在2016年申请和德普离婚\N{\fn微软雅黑}{\fs14}"Amber Heard filed for divorce from Johnny Depp in 2016."
+Dialogue: 0,0:33:28.52,0:33:34.04,Default,,0000,0000,0000,,她不可能用这款产品 来遮盖她所谓的淤青”\N{\fn微软雅黑}{\fs14}"There's no way that she used this specific kit in order to cover alleged bruises."
+Dialogue: 0,0:33:34.12,0:33:35.52,Default,,0000,0000,0000,,（米拉尼美妆抖音 2022年）\N{\fn微软雅黑}{\fs14}♪ There's one thing You can expect from me ♪
+Dialogue: 0,0:33:35.60,0:33:39.08,Default,,0000,0000,0000,,（她在交往期间一直带在包里）
+Dialogue: 0,0:33:41.56,0:33:43.40,Default,,0000,0000,0000,,（米拉尼）
+Dialogue: 0,0:33:44.76,0:33:47.76,Default,,0000,0000,0000,,（确认于2017年发布）
+Dialogue: 0,0:33:47.84,0:33:50.72,Default,,0000,0000,0000,,这只是举例她用的是这类东西\N{\fn微软雅黑}{\fs14}This was just an example of something that she used,
+Dialogue: 0,0:33:50.80,0:33:53.60,Default,,0000,0000,0000,,不是她真正使用的产品\N{\fn微软雅黑}{\fs14}and this is not the actual compact that she used,
+Dialogue: 0,0:33:53.68,0:33:59.24,Default,,0000,0000,0000,,但很多人用米拉尼美妆发的抖音说\N{\fn微软雅黑}{\fs14}but many people took the TikTok that Milani Cosmetics posted, and said,
+Dialogue: 0,0:33:59.32,0:34:03.40,Default,,0000,0000,0000,,“嘿 这完全能证明 安柏·赫德的律师们在撒谎”\N{\fn微软雅黑}{\fs14}"Hey, this is definitive proof that Amber Heard's attorneys are lying."
+Dialogue: 0,0:34:04.24,0:34:05.84,Default,,0000,0000,0000,,安柏·赫德在和德普的审判中\N{\fn微软雅黑}{\fs14}Amber Heard just got exposed
+Dialogue: 0,0:34:05.92,0:34:08.96,Default,,0000,0000,0000,,又被戳穿了一个弥天大谎\N{\fn微软雅黑}{\fs14}in another big lie from her court case with Johnny Depp.
+Dialogue: 0,0:34:09.04,0:34:11.76,Default,,0000,0000,0000,,她说安柏把这个放在包里\N{\fn微软雅黑}{\fs14}She said that Amber carried that in her purse
+Dialogue: 0,0:34:11.84,0:34:15.60,Default,,0000,0000,0000,,在整个交往期间都用它来遮盖淤青\N{\fn微软雅黑}{\fs14}to cover the bruises through her entire relationship.
+Dialogue: 0,0:34:15.68,0:34:18.92,Default,,0000,0000,0000,,这个遮瑕盘直到离婚后才问世\N{\fn微软雅黑}{\fs14}Well, that palette didn't come out until after the divorce.
+Dialogue: 0,0:34:19.00,0:34:23.00,Default,,0000,0000,0000,,这意味着这个遮瑕盘 在他们在一起时都还不存在！\N{\fn微软雅黑}{\fs14}Meaning this makeup palette did not exist when they were together! 
+Dialogue: 0,0:34:23.08,0:34:26.88,Default,,0000,0000,0000,,嘭！真相会让你获得自由！\N{\fn微软雅黑}{\fs14}Boom! And the truth will set you free!
+Dialogue: 0,0:34:26.96,0:34:29.52,Default,,0000,0000,0000,,这条抖音已经被观看过500多万次了\N{\fn微软雅黑}{\fs14}The TikTok has been viewed more than five million times.
+Dialogue: 0,0:34:29.60,0:34:33.60,Default,,0000,0000,0000,,好了 我现在在费尔法克斯县法院\N{\fn微软雅黑}{\fs14}All right, so I'm here at the Fairfax County Courthouse.
+Dialogue: 0,0:34:33.68,0:34:36.40,Default,,0000,0000,0000,,这在现实世界造成了影响\N{\fn微软雅黑}{\fs14}It has caused real-world consequences.
+Dialogue: 0,0:34:36.48,0:34:40.68,Default,,0000,0000,0000,,我们看到一个用户真的去往法院…\N{\fn微软雅黑}{\fs14}We saw one user actually go to the courthouse...
+Dialogue: 0,0:34:40.76,0:34:41.60,Default,,0000,0000,0000,,（法官办公室）\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:34:41.68,0:34:43.12,Default,,0000,0000,0000,,去往法官办公室\N{\fn微软雅黑}{\fs14}All right, going to the judges' chambers.
+Dialogue: 0,0:34:43.20,0:34:47.48,Default,,0000,0000,0000,,…找到德普的律师们说\N{\fn微软雅黑}{\fs14}...and seek out, uh, Johnny Depp's lawyers and attorneys,
+Dialogue: 0,0:34:47.56,0:34:49.76,Default,,0000,0000,0000,,“我有证据必须要给你们看”\N{\fn微软雅黑}{\fs14}and say, "I have evidence for you that you need to see."
+Dialogue: 0,0:34:49.84,0:34:53.36,Default,,0000,0000,0000,,（德普的粉丝试图亲手 送出米拉尼化妆品而受到赞扬）
+Dialogue: 0,0:34:53.44,0:34:54.88,Default,,0000,0000,0000,,（赫德案的“证据”）
+Dialogue: 0,0:34:54.96,0:34:57.88,Default,,0000,0000,0000,,有些人在批评化妆品公司\N{\fn微软雅黑}{\fs14}Some people are actually criticizing the cosmetics company
+Dialogue: 0,0:34:57.96,0:35:01.16,Default,,0000,0000,0000,,因为他们加入争端 说他们：“你们是为了求关注\N{\fn微软雅黑}{\fs14}for jumping into the fray, saying, "Hey, you did this for clout."
+Dialogue: 0,0:35:01.24,0:35:03.40,Default,,0000,0000,0000,,没必要掺和进去的”\N{\fn微软雅黑}{\fs14}Like, "There was no reason for you to jump in here."
+Dialogue: 0,0:35:03.48,0:35:05.60,Default,,0000,0000,0000,,（我们都在实时观看社会的倒退）
+Dialogue: 0,0:35:05.68,0:35:08.20,Default,,0000,0000,0000,,（这不是反乌托邦吧？）
+Dialogue: 0,0:35:08.28,0:35:11.48,Default,,0000,0000,0000,,（米拉尼美妆发表声明：）
+Dialogue: 0,0:35:11.56,0:35:16.00,Default,,0000,0000,0000,,（我们的视频是为了验证 我们眼尖的忠实粉丝群）
+Dialogue: 0,0:35:16.08,0:35:18.04,Default,,0000,0000,0000,,（关于庭审中提及产品的推测）
+Dialogue: 0,0:35:18.12,0:35:20.08,Default,,0000,0000,0000,,（米拉尼美妆没有）
+Dialogue: 0,0:35:20.16,0:35:23.36,Default,,0000,0000,0000,,（对该案的审判、证据 或未来结果采取正式立场）
+Dialogue: 0,0:35:23.44,0:35:29.52,Default,,0000,0000,0000,,（米拉尼美妆已经从他们的 抖音账户中删除了该视频）
+Dialogue: 0,0:35:29.60,0:35:34.24,Default,,0000,0000,0000,,我认为这里有很多人\N{\fn微软雅黑}{\fs14}I think a lot of people, uh, are this... as this room,
+Dialogue: 0,0:35:34.32,0:35:37.04,Default,,0000,0000,0000,,都认为“我姑且相信 安柏·赫德的指控”\N{\fn微软雅黑}{\fs14}which is, "I just took Amber Heard's accusations at face value."
+Dialogue: 0,0:35:37.12,0:35:39.72,Default,,0000,0000,0000,,（尼克维尔 电视嘉宾 维尔档案播客主播）
+Dialogue: 0,0:35:39.80,0:35:41.04,Default,,0000,0000,0000,,我想要相信她\N{\fn微软雅黑}{\fs14}I wanted to believe her.
+Dialogue: 0,0:35:41.64,0:35:46.68,Default,,0000,0000,0000,,这个化妆工具可能说明 她没有完全坦诚\N{\fn微软雅黑}{\fs14}Like, this makeup kit would suggest that maybe she's not completely truthful.
+Dialogue: 0,0:35:46.76,0:35:49.72,Default,,0000,0000,0000,,大家显然有倾向性 这是名人案件\N{\fn微软雅黑}{\fs14}People obviously have their opinions. This is a celebrity case.
+Dialogue: 0,0:35:49.80,0:35:52.96,Default,,0000,0000,0000,,德普显然在公众舆论的法庭中赢了\N{\fn微软雅黑}{\fs14}Johnny Depp is clearly winning right now in the court of public opinion.
+Dialogue: 0,0:35:53.04,0:35:55.16,Default,,0000,0000,0000,,安柏·赫德还是约翰尼·德普？\N{\fn微软雅黑}{\fs14}Amber Heard or Johnny Depp?
+Dialogue: 0,0:35:56.40,0:35:58.00,Default,,0000,0000,0000,,-你必须回答 -约翰尼·德普\N{\fn微软雅黑}{\fs14}- Come on, you gotta answer. - Johnny Depp.
+Dialogue: 0,0:35:58.08,0:36:01.08,Default,,0000,0000,0000,,你是相信约翰尼还是安柏？\N{\fn微软雅黑}{\fs14}Do you believe Johnny or do you believe Amber?
+Dialogue: 0,0:36:01.16,0:36:05.40,Default,,0000,0000,0000,,这个案子归根结底就是这样 他们不可能都是对的\N{\fn微软雅黑}{\fs14}And it's ultimately what this case can... comes down to. 'Cause they can't both be right. 
+Dialogue: 0,0:36:05.48,0:36:08.32,Default,,0000,0000,0000,,有一个在撒谎 你相信谁？\N{\fn微软雅黑}{\fs14}One is lying. Who do you believe?
+Dialogue: 0,0:36:08.40,0:36:11.36,Default,,0000,0000,0000,,这大部分取决于你的倾向性\N{\fn微软雅黑}{\fs14}Well, that depends probably a lot on your biases.
+Dialogue: 0,0:36:11.44,0:36:15.52,Default,,0000,0000,0000,,如果你愿意相信约翰尼\N{\fn微软雅黑}{\fs14}And... And, uh, if you're inclined to believe Johnny,
+Dialogue: 0,0:36:15.60,0:36:17.48,Default,,0000,0000,0000,,你认可他\N{\fn微软雅黑}{\fs14}you just identify with him,
+Dialogue: 0,0:36:17.56,0:36:20.84,Default,,0000,0000,0000,,那么他说什么 你都会相信\N{\fn微软雅黑}{\fs14}then everything he says is gonna be believed,
+Dialogue: 0,0:36:20.92,0:36:25.16,Default,,0000,0000,0000,,交叉盘问中的负面消息 会被打折扣和找理由\N{\fn微软雅黑}{\fs14}the negative things that are brought out on cross are gonna be discounted and explained,
+Dialogue: 0,0:36:25.24,0:36:29.68,Default,,0000,0000,0000,,“也许他没有发那条信息” 嗑药的事“没有关系”\N{\fn微软雅黑}{\fs14}"Well, maybe he didn't send that text message." The drug stuff, "Sure, that doesn't matter."
+Dialogue: 0,0:36:29.76,0:36:33.80,Default,,0000,0000,0000,,看到了吗？我们大事化小 我们找借口 因为我们站那一边\N{\fn微软雅黑}{\fs14}See? We minimize, we excuse, because that's our favored party.
+Dialogue: 0,0:36:33.88,0:36:35.60,Default,,0000,0000,0000,,然后 对安柏来说\N{\fn微软雅黑}{\fs14}And then, for Amber, it's like,
+Dialogue: 0,0:36:35.68,0:36:38.04,Default,,0000,0000,0000,,所有关于她的负面信息\N{\fn微软雅黑}{\fs14}everything out there negative about her,
+Dialogue: 0,0:36:38.12,0:36:41.36,Default,,0000,0000,0000,,我们当然会抓住 因为这证明了我们的信念\N{\fn微软雅黑}{\fs14}it's... we seize on, "of course," 'cause that validates our belief.
+Dialogue: 0,0:36:43.92,0:36:47.88,Default,,0000,0000,0000,,我们正在看安柏·赫德 和约翰尼·德普的最后一段庭审\N{\fn微软雅黑}{\fs14}We are watching the final stretch of Amber Heard and Johnny Depp
+Dialogue: 0,0:36:47.96,0:36:51.08,Default,,0000,0000,0000,,以及他们在弗吉尼亚州 进行的决斗式诽谤审判\N{\fn微软雅黑}{\fs14}and their dueling defamation trial playing out in Virginia.
+Dialogue: 0,0:36:51.16,0:36:53.72,Default,,0000,0000,0000,,安柏·赫德 她站上了证人席\N{\fn微软雅黑}{\fs14}Amber Heard, she is on the stand,
+Dialogue: 0,0:36:53.80,0:36:56.60,Default,,0000,0000,0000,,在交叉盘问中努力反抗\N{\fn微软雅黑}{\fs14}really pushing back on the cross-examination.
+Dialogue: 0,0:36:56.68,0:36:59.00,Default,,0000,0000,0000,,你能看到一点不同\N{\fn微软雅黑}{\fs14}You're seeing a little bit of a... a difference
+Dialogue: 0,0:36:59.08,0:37:01.56,Default,,0000,0000,0000,,在赫德回答 卡米尔·巴斯克斯的问题时\N{\fn微软雅黑}{\fs14}in the way Amber Heard is answering Camille Vasquez,
+Dialogue: 0,0:37:01.64,0:37:05.32,Default,,0000,0000,0000,,卡米尔·巴斯克斯 对她的攻击性也很强\N{\fn微软雅黑}{\fs14}and Camille Vasquez is being extremely aggressive with her.
+Dialogue: 0,0:37:05.40,0:37:08.80,Default,,0000,0000,0000,,我们从上次暂停的地方继续看吧\N{\fn微软雅黑}{\fs14}Let's go back in, in the moment where we left off.
+Dialogue: 0,0:37:08.88,0:37:13.24,Default,,0000,0000,0000,,你在丹麦电视上提过 捐赠你的离婚赔偿金 是吗？\N{\fn微软雅黑}{\fs14}You spoke about donating your divorce settlement on a Danish TV show, correct?
+Dialogue: 0,0:37:13.76,0:37:20.32,Default,,0000,0000,0000,,我想我说过我捐给慈善机构了\N{\fn微软雅黑}{\fs14}Uh, I believe I said I had, um...I... I believe I said I donated it to charity.
+Dialogue: 0,0:37:20.40,0:37:24.00,Default,,0000,0000,0000,,你出现在了一个叫 《RTL深夜秀》的节目里 对吧？\N{\fn微软雅黑}{\fs14}You appeared on a show called RTL Late Night, right?
+Dialogue: 0,0:37:24.08,0:37:26.60,Default,,0000,0000,0000,,我不记得是哪个节目\N{\fn微软雅黑}{\fs14}I don't recall what it... what show it was.
+Dialogue: 0,0:37:27.60,0:37:30.60,Default,,0000,0000,0000,,请播放原告物证346号\N{\fn微软雅黑}{\fs14}If we could please play Plaintiff's Exhibit 346,
+Dialogue: 0,0:37:30.68,0:37:33.80,Default,,0000,0000,0000,,那是你在这个节目上出场的部分\N{\fn微软雅黑}{\fs14}which is a portion of your appearance on this program.
+Dialogue: 0,0:37:36.80,0:37:40.04,Default,,0000,0000,0000,,你拿到了700万的离婚赔偿金\N{\fn微软雅黑}{\fs14}For the divorce settlement, you got seven million dollars.
+Dialogue: 0,0:37:40.12,0:37:42.32,Default,,0000,0000,0000,,大家说都是为了钱\N{\fn微软雅黑}{\fs14}People were saying this is all about the money.
+Dialogue: 0,0:37:42.40,0:37:45.68,Default,,0000,0000,0000,,但后来你做了一些 扭曲整个论点的事\N{\fn微软雅黑}{\fs14}But then you did something that, uh, twisted that whole argument.
+Dialogue: 0,0:37:45.76,0:37:47.08,Default,,0000,0000,0000,,你怎么处理那笔钱的？\N{\fn微软雅黑}{\fs14}What did you do with that money?
+Dialogue: 0,0:37:47.16,0:37:51.16,Default,,0000,0000,0000,,总共700万美元 捐给…\N{\fn微软雅黑}{\fs14}Seven million dollars in total was donated to...
+Dialogue: 0,0:37:51.24,0:37:54.80,Default,,0000,0000,0000,,我把它分给了美国公民自由联盟 和洛杉矶儿童医院\N{\fn微软雅黑}{\fs14}I split it between the ACLU and Children's Hospital of Los Angeles.
+Dialogue: 0,0:37:54.88,0:37:56.56,Default,,0000,0000,0000,,美国公民自由联盟是一个人权组织\N{\fn微软雅黑}{\fs14}ACLU is a human rights organization?
+Dialogue: 0,0:37:56.64,0:38:01.64,Default,,0000,0000,0000,,抱歉 美国公民自由联盟 是一个非常重要的组织\N{\fn微软雅黑}{\fs14}Sorry, ACLU is a prominent, um, uh, organization,
+Dialogue: 0,0:38:01.72,0:38:03.80,Default,,0000,0000,0000,,美国的非营利组织\N{\fn微软雅黑}{\fs14}non-profit organization in the United States.
+Dialogue: 0,0:38:03.88,0:38:06.00,Default,,0000,0000,0000,,它叫美国公民自由联盟\N{\fn微软雅黑}{\fs14}It's called the American Civil Liberties Union,
+Dialogue: 0,0:38:06.08,0:38:11.64,Default,,0000,0000,0000,,他们为当地的边缘化社区工作\N{\fn微软雅黑}{\fs14}and they work on behalf of marginalized communities,
+Dialogue: 0,0:38:11.72,0:38:13.84,Default,,0000,0000,0000,,参与法律改革\N{\fn微软雅黑}{\fs14}uh, on the ground, in legislative reform.
+Dialogue: 0,0:38:13.92,0:38:16.04,Default,,0000,0000,0000,,你这么做非常好 因为这种事情\N{\fn微软雅黑}{\fs14}Right. Well, more power to you. Because that's something
+Dialogue: 0,0:38:16.12,0:38:18.00,Default,,0000,0000,0000,,-是我从来没听过的 -我什么都不想要\N{\fn微软雅黑}{\fs14}- I've never heard of. - I wanted nothing.
+Dialogue: 0,0:38:26.24,0:38:29.04,Default,,0000,0000,0000,,所以 在2018年10月的这场采访中\N{\fn微软雅黑}{\fs14}So, in this October, 2018 interview,
+Dialogue: 0,0:38:29.12,0:38:32.92,Default,,0000,0000,0000,,你说你已经把所有离婚赔偿金\N{\fn微软雅黑}{\fs14}you said that you had, quote, "donated," end quote,
+Dialogue: 0,0:38:33.00,0:38:35.96,Default,,0000,0000,0000,,“捐赠”给了慈善组织 是吗？\N{\fn微软雅黑}{\fs14}your entire divorce settlement to charity, right?
+Dialogue: 0,0:38:36.04,0:38:37.00,Default,,0000,0000,0000,,没错\N{\fn微软雅黑}{\fs14}That's correct.
+Dialogue: 0,0:38:37.08,0:38:39.40,Default,,0000,0000,0000,,事实上 你的原话是\N{\fn微软雅黑}{\fs14}And in fact, your exact words were,
+Dialogue: 0,0:38:39.48,0:38:41.48,Default,,0000,0000,0000,,“总共700万\N{\fn微软雅黑}{\fs14}quote, "Seven million in total."
+Dialogue: 0,0:38:41.56,0:38:44.12,Default,,0000,0000,0000,,我把它分给了美国公民自由联盟\N{\fn微软雅黑}{\fs14}"I split it between the ACLU
+Dialogue: 0,0:38:44.20,0:38:47.40,Default,,0000,0000,0000,,和洛杉矶儿童医院” 是吗？\N{\fn微软雅黑}{\fs14}and the Children's Hospital of Los Angeles," end quote.
+Dialogue: 0,0:38:47.48,0:38:48.92,Default,,0000,0000,0000,,是的 我在离婚达成和解后\N{\fn微软雅黑}{\fs14}- Right? - That's correct. I made that statement
+Dialogue: 0,0:38:49.00,0:38:52.24,Default,,0000,0000,0000,,就立刻做出了这个声明\N{\fn微软雅黑}{\fs14}as soon as I got a divorce and we reached the settlement.
+Dialogue: 0,0:38:52.32,0:38:54.44,Default,,0000,0000,0000,,我当时就认捐了\N{\fn微软雅黑}{\fs14}That's when I pledged it, right then.
+Dialogue: 0,0:38:54.52,0:38:58.12,Default,,0000,0000,0000,,但你当时还没有把700万赔偿金\N{\fn微软雅黑}{\fs14}But you hadn't donated your entitle... entire seven million dollars settlement
+Dialogue: 0,0:38:58.20,0:39:00.44,Default,,0000,0000,0000,,全部捐给慈善组织 是吧？\N{\fn微软雅黑}{\fs14}to charity at that point, had you?
+Dialogue: 0,0:39:00.52,0:39:01.64,Default,,0000,0000,0000,,不对\N{\fn微软雅黑}{\fs14}That's incorrect.
+Dialogue: 0,0:39:03.68,0:39:05.56,Default,,0000,0000,0000,,今天坐在这里 赫德小姐\N{\fn微软雅黑}{\fs14}Sitting here today, Ms. Heard, 
+Dialogue: 0,0:39:05.64,0:39:08.72,Default,,0000,0000,0000,,你还是没有把700万美元\N{\fn微软雅黑}{\fs14}you still haven't donated the seven million dollars 
+Dialogue: 0,0:39:08.80,0:39:11.24,Default,,0000,0000,0000,,离婚赔偿金捐给慈善组织 对吗？\N{\fn微软雅黑}{\fs14}divorce settlement to charity, isn't that right?
+Dialogue: 0,0:39:11.32,0:39:12.16,Default,,0000,0000,0000,,不对\N{\fn微软雅黑}{\fs14}Incorrect. 
+Dialogue: 0,0:39:12.24,0:39:16.08,Default,,0000,0000,0000,,-我认捐了700万… -不 那不是我的问题\N{\fn微软雅黑}{\fs14}- I pledged the entirety... - Ms. Heard, that's not my question.
+Dialogue: 0,0:39:16.16,0:39:18.84,Default,,0000,0000,0000,,-…我打算要履行义务 -赫德小姐？\N{\fn微软雅黑}{\fs14}- ...I intend to fulfill those obligations. - Ms. Heard? Ms. Heard?
+Dialogue: 0,0:39:19.64,0:39:20.92,Default,,0000,0000,0000,,那不是我的问题\N{\fn微软雅黑}{\fs14}That's not my question.
+Dialogue: 0,0:39:21.56,0:39:23.76,Default,,0000,0000,0000,,-请试着回答 -你问的什么问题？\N{\fn微软雅黑}{\fs14}- Please try to answer my question. - What was your question?
+Dialogue: 0,0:39:24.36,0:39:26.00,Default,,0000,0000,0000,,今天坐在这里\N{\fn微软雅黑}{\fs14}Sitting here today...
+Dialogue: 0,0:39:26.08,0:39:29.64,Default,,0000,0000,0000,,你还是没有把700万美元\N{\fn微软雅黑}{\fs14}...you have not donated the seven million dollars,
+Dialogue: 0,0:39:29.72,0:39:32.36,Default,,0000,0000,0000,,捐赠 不是认捐 而是捐赠\N{\fn微软雅黑}{\fs14}"donated," not pledged, donated,
+Dialogue: 0,0:39:32.44,0:39:36.56,Default,,0000,0000,0000,,700万美元的离婚赔偿金给慈善组织\N{\fn微软雅黑}{\fs14}the seven million dollars divorce settlement to charity.
+Dialogue: 0,0:39:37.20,0:39:40.88,Default,,0000,0000,0000,,我用了“认捐”和“捐赠” 彼此的同义词\N{\fn微软雅黑}{\fs14}I use "pledge" and "donation" synonymous with one another.
+Dialogue: 0,0:39:40.96,0:39:42.64,Default,,0000,0000,0000,,-一样的 -我不觉得 赫德小姐？\N{\fn微软雅黑}{\fs14}- Same thing. - But I don't. Ms. Heard?
+Dialogue: 0,0:39:43.60,0:39:46.44,Default,,0000,0000,0000,,-我不认为那是同义词 -捐款就是这样的\N{\fn微软雅黑}{\fs14}- I don't use it synonymously. - That's how donations are paid.
+Dialogue: 0,0:39:46.52,0:39:48.16,Default,,0000,0000,0000,,赫德小姐 恕我直言\N{\fn微软雅黑}{\fs14}Ms. Heard, respectfully,
+Dialogue: 0,0:39:48.84,0:39:50.36,Default,,0000,0000,0000,,那不是我的问题\N{\fn微软雅黑}{\fs14}that's not my question.
+Dialogue: 0,0:39:50.44,0:39:52.52,Default,,0000,0000,0000,,所以 直到今天\N{\fn微软雅黑}{\fs14}So, as of today,
+Dialogue: 0,0:39:52.60,0:39:55.84,Default,,0000,0000,0000,,你还没有把700万美元\N{\fn微软雅黑}{\fs14}you have not donated seven million dollars 
+Dialogue: 0,0:39:55.92,0:39:58.04,Default,,0000,0000,0000,,离婚赔偿金捐给慈善机构 是吗？\N{\fn微软雅黑}{\fs14}of your divorce settlement to charity, right?
+Dialogue: 0,0:39:58.64,0:40:02.52,Default,,0000,0000,0000,,我目前还没有完成那些义务\N{\fn微软雅黑}{\fs14}I have not been able to fulfill those p...uh, those, uh, obligations yet.
+Dialogue: 0,0:40:02.60,0:40:04.84,Default,,0000,0000,0000,,安柏真的在试图说服陪审团\N{\fn微软雅黑}{\fs14}Amber is literally trying to convince the jury.
+Dialogue: 0,0:40:04.92,0:40:06.12,Default,,0000,0000,0000,,她一直在看他们\N{\fn微软雅黑}{\fs14}And she keeps looking at the jury.
+Dialogue: 0,0:40:06.20,0:40:10.92,Default,,0000,0000,0000,,她想让陪审团相信这个故事 就是她捐赠了离婚赔偿的700万\N{\fn微软雅黑}{\fs14}She is trying to sell this story that she donated the whole seven million that she got from her divorce
+Dialogue: 0,0:40:11.00,0:40:14.36,Default,,0000,0000,0000,,就因为她认捐了\N{\fn微软雅黑}{\fs14}because she pledged it.
+Dialogue: 0,0:40:14.44,0:40:16.08,Default,,0000,0000,0000,,安柏非常善于表达\N{\fn微软雅黑}{\fs14}Amber is very articulate.
+Dialogue: 0,0:40:16.16,0:40:17.28,Default,,0000,0000,0000,,她非常聪明\N{\fn微软雅黑}{\fs14}She's very smart.
+Dialogue: 0,0:40:17.88,0:40:22.04,Default,,0000,0000,0000,,但她会看着陪审团 这在她回应问题时是很奇怪的\N{\fn微软雅黑}{\fs14}Um, but yes, she does look at the jury, which is a little bit weird, when she's addressing her comments.
+Dialogue: 0,0:40:22.12,0:40:25.76,Default,,0000,0000,0000,,她看陪审团的次数比这场庭审中的\N{\fn微软雅黑}{\fs14}She may be looking at that jury more than any other witness has
+Dialogue: 0,0:40:25.84,0:40:30.16,Default,,0000,0000,0000,,其他任何证人都要多 因为她想要获得他们的关注\N{\fn微软雅黑}{\fs14}in the past during this trial, because she wants to keep their attention.
+Dialogue: 0,0:40:30.24,0:40:34.32,Default,,0000,0000,0000,,那是因为你确实有所图 对吧？\N{\fn微软雅黑}{\fs14}And that's because you did want something, didn't you?
+Dialogue: 0,0:40:34.40,0:40:36.88,Default,,0000,0000,0000,,我什么都不想要 我也没有得到什么\N{\fn微软雅黑}{\fs14}I didn't want anything and I didn't get anything.
+Dialogue: 0,0:40:36.96,0:40:38.72,Default,,0000,0000,0000,,你想要德普先生的钱\N{\fn微软雅黑}{\fs14}You wanted Mr. Depp's money.
+Dialogue: 0,0:40:39.60,0:40:43.48,Default,,0000,0000,0000,,没拿到 没兴趣 我爱过约翰尼 这是我当初跟他在一起的原因\N{\fn微软雅黑}{\fs14}Didn't get it, wasn't interested in it. I loved Johnny, that's why I was with him.
+Dialogue: 0,0:40:43.56,0:40:44.88,Default,,0000,0000,0000,,你想得到正面的曝光\N{\fn微软雅黑}{\fs14}You wanted good press.
+Dialogue: 0,0:40:47.00,0:40:50.28,Default,,0000,0000,0000,,总的来说 谁都想要正面的曝光 是的\N{\fn微软雅黑}{\fs14}In general, one... ...does want good press, yes.
+Dialogue: 0,0:40:50.80,0:40:53.12,Default,,0000,0000,0000,,你想在公众面前表现出利他主义\N{\fn微软雅黑}{\fs14}You wanted to seem altruistic publicly.
+Dialogue: 0,0:40:53.96,0:40:55.08,Default,,0000,0000,0000,,我不感兴趣\N{\fn微软雅黑}{\fs14}Wasn't my interest.
+Dialogue: 0,0:40:55.16,0:40:58.24,Default,,0000,0000,0000,,我的兴趣在于我的名声 澄清我的名声\N{\fn微软雅黑}{\fs14}Uh, my interest is, uh, in my name, in clearing my name,
+Dialogue: 0,0:40:58.32,0:41:03.20,Default,,0000,0000,0000,,而当时我被称为骗子 我的动机被质疑\N{\fn微软雅黑}{\fs14}and, at the time, I was being called a liar and my motives were being questioned.
+Dialogue: 0,0:41:03.28,0:41:07.16,Default,,0000,0000,0000,,我觉得把这件事说清楚很重要\N{\fn微软雅黑}{\fs14}I did see it as important to... clear that up.
+Dialogue: 0,0:41:07.24,0:41:11.72,Default,,0000,0000,0000,,我想发表一个声明 以确保没有任何疑问\N{\fn微软雅黑}{\fs14}I wanted to make a statement, to make sure that there was n-not any doubt,
+Dialogue: 0,0:41:11.80,0:41:15.52,Default,,0000,0000,0000,,我不能因为约翰尼是更大的明星 得到更多的宣传\N{\fn微软雅黑}{\fs14}that I couldn't be labeled these things just because Johnny was a bigger star
+Dialogue: 0,0:41:15.60,0:41:17.36,Default,,0000,0000,0000,,就被贴上这些标签\N{\fn微软雅黑}{\fs14}and had more publicity reach.
+Dialogue: 0,0:41:17.44,0:41:18.80,Default,,0000,0000,0000,,你想提醒大家\N{\fn微软雅黑}{\fs14}You wanted to remind everyone 
+Dialogue: 0,0:41:18.88,0:41:23.20,Default,,0000,0000,0000,,你对德普先生 家庭暴力的指控 是吗？\N{\fn微软雅黑}{\fs14}of your claims of domestic violence against Mr. Depp, right?
+Dialogue: 0,0:41:23.28,0:41:25.08,Default,,0000,0000,0000,,不 我想继续我的生活\N{\fn微软雅黑}{\fs14}No, I wanted to move on with my life.
+Dialogue: 0,0:41:25.16,0:41:27.60,Default,,0000,0000,0000,,你想让那些说法看起来可信\N{\fn微软雅黑}{\fs14}You wanted to make those claims seem believable.
+Dialogue: 0,0:41:28.20,0:41:31.40,Default,,0000,0000,0000,,-它们是可信的 它们很可信 -你想让大家看到\N{\fn微软雅黑}{\fs14}- They are believable. They were believable. - You wanted them to be seen...
+Dialogue: 0,0:41:31.48,0:41:35.48,Default,,0000,0000,0000,,你想被看作是 抱歉 一个高尚的家庭暴力受害者\N{\fn微软雅黑}{\fs14}You wanted to be seen, excuse me, as a noble victim of domestic violence, didn't you?
+Dialogue: 0,0:41:35.56,0:41:38.84,Default,,0000,0000,0000,,我从没想过被当成受害者\N{\fn微软雅黑}{\fs14}I have never, never wanted to be seen as a victim.
+Dialogue: 0,0:41:39.68,0:41:41.72,Default,,0000,0000,0000,,-我也没说过自己是 -你…\N{\fn微软雅黑}{\fs14}- Nor have I ever called myself one. - You...
+Dialogue: 0,0:41:43.08,0:41:45.00,Default,,0000,0000,0000,,你宣过誓\N{\fn微软雅黑}{\fs14}You testified under oath,
+Dialogue: 0,0:41:45.08,0:41:51.16,Default,,0000,0000,0000,,“你的离婚赔偿金 会被全额捐赠给慈善组织”不是吗？\N{\fn微软雅黑}{\fs14}that, quote, "The entirety of your divorce settlement was donated to charity," end quote. Didn't you?
+Dialogue: 0,0:41:51.24,0:41:53.56,Default,,0000,0000,0000,,没错 我认捐了全部金额\N{\fn微软雅黑}{\fs14}That's correct. I pledged the entirety.
+Dialogue: 0,0:41:54.64,0:42:00.68,Default,,0000,0000,0000,,（安柏·赫德的交叉盘问 导致互联网又进行了一番奚落）
+Dialogue: 0,0:42:00.76,0:42:03.12,Default,,0000,0000,0000,,赫德和她的捐款是怎么回事？\N{\fn微软雅黑}{\fs14}What's the big deal with Amber Heard and these donations?
+Dialogue: 0,0:42:03.20,0:42:07.12,Default,,0000,0000,0000,,“骗子屎德”又一次暴露了自己 这可能让她输掉整场审判\N{\fn微软雅黑}{\fs14}"Scamber Turd" exposed herself yet again and it might have just cost her the entire trial.
+Dialogue: 0,0:42:07.20,0:42:10.76,Default,,0000,0000,0000,,匹诺曹可能要告她盗窃身份 因为她撒了这么多谎\N{\fn微软雅黑}{\fs14}Pinocchio might have to sue her for identity theft, these lies are getting out of hand.
+Dialogue: 0,0:42:10.84,0:42:13.20,Default,,0000,0000,0000,,你捐钱直接认捐就可以了？\N{\fn微软雅黑}{\fs14}You pay donations through pledging them?
+Dialogue: 0,0:42:13.28,0:42:14.92,Default,,0000,0000,0000,,不 你得付钱\N{\fn微软雅黑}{\fs14}No, you pay...
+Dialogue: 0,0:42:15.00,0:42:19.64,Default,,0000,0000,0000,,你捐钱是把钱给他们 而不是说你会给他们\N{\fn微软雅黑}{\fs14}You give donations by giving them money,
+Dialogue: 0,0:42:17.60,0:42:19.64,Default,,0000,0000,0000,,not by saying you're going to give them money.
+Dialogue: 0,0:42:19.72,0:42:23.48,Default,,0000,0000,0000,,她不知道捐赠和认捐的区别\N{\fn微软雅黑}{\fs14}She doesn't know the difference between "donate" and "pledge."
+Dialogue: 0,0:42:23.56,0:42:24.60,Default,,0000,0000,0000,,对\N{\fn微软雅黑}{\fs14}Right.
+Dialogue: 0,0:42:24.68,0:42:27.00,Default,,0000,0000,0000,,我觉得我会“安柏·赫德”这件事\N{\fn微软雅黑}{\fs14}I think I'm gonna "Amber Heard" it, you know?
+Dialogue: 0,0:42:27.08,0:42:31.44,Default,,0000,0000,0000,,认捐1000或1200万美元给大组织\N{\fn微软雅黑}{\fs14}Pledge ten, twelve million dollars to a great organization.
+Dialogue: 0,0:42:32.44,0:42:36.52,Default,,0000,0000,0000,,既然认捐和捐赠是同义词\N{\fn微软雅黑}{\fs14}You know, and since "pledge" and "donate" is synonymous,
+Dialogue: 0,0:42:36.60,0:42:37.56,Default,,0000,0000,0000,,那事情就成了\N{\fn微软雅黑}{\fs14}we're all good.
+Dialogue: 0,0:42:38.72,0:42:44.80,Default,,0000,0000,0000,,（社交媒体上的一些人 迅速指出从前的例子）
+Dialogue: 0,0:42:44.88,0:42:49.48,Default,,0000,0000,0000,,（“认捐”和“捐赠” 被当做同义词使用）
+Dialogue: 0,0:42:49.56,0:42:53.16,Default,,0000,0000,0000,,（我要说多少次 美国公民自由联盟认为）
+Dialogue: 0,0:42:53.24,0:42:56.32,Default,,0000,0000,0000,,（认捐和捐赠是可以互换的词）
+Dialogue: 0,0:42:56.40,0:42:59.32,Default,,0000,0000,0000,,（安柏·赫德小姐捐款 2018付款 2018年12月11日）
+Dialogue: 0,0:42:59.40,0:43:01.72,Default,,0000,0000,0000,,（安柏·赫德小姐认捐）
+Dialogue: 0,0:43:01.80,0:43:06.56,Default,,0000,0000,0000,,（媒体/捐赠者 交替使用认捐/捐赠的例子）
+Dialogue: 0,0:43:06.64,0:43:07.76,Default,,0000,0000,0000,,（JK罗琳捐赠）
+Dialogue: 0,0:43:07.84,0:43:11.52,Default,,0000,0000,0000,,（JK罗琳认捐）
+Dialogue: 0,0:43:11.60,0:43:12.88,Default,,0000,0000,0000,,（爱莉安娜·格兰德 认捐）
+Dialogue: 0,0:43:12.96,0:43:16.16,Default,,0000,0000,0000,,（爱莉安娜·格兰德 捐赠）
+Dialogue: 0,0:43:16.24,0:43:17.84,Default,,0000,0000,0000,,（赛琳娜·戈麦斯 认捐）
+Dialogue: 0,0:43:17.92,0:43:19.12,Default,,0000,0000,0000,,（赛琳娜·戈麦斯 捐赠）
+Dialogue: 0,0:43:19.76,0:43:23.40,Default,,0000,0000,0000,,（美国公民自由联盟将130万美元 归于十年内捐赠350万美元的计划）
+Dialogue: 0,0:43:23.48,0:43:26.68,Default,,0000,0000,0000,,（洛杉矶儿童医院证实 截至2018年6月）
+Dialogue: 0,0:43:26.76,0:43:30.28,Default,,0000,0000,0000,,（他们已收到 与350万美元认捐有关的25万美元）
+Dialogue: 0,0:43:30.36,0:43:32.80,Default,,0000,0000,0000,,（他已经在舆论法庭上获胜了）\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:43:32.88,0:43:36.28,Default,,0000,0000,0000,,不管这个陪审团的结果是什么 他都已经赢了\N{\fn微软雅黑}{\fs14}He's won already in the court of opinion. Whatever this jury comes out to, he's won,
+Dialogue: 0,0:43:36.36,0:43:38.32,Default,,0000,0000,0000,,他需要法庭程序\N{\fn微软雅黑}{\fs14}and he needed the court process
+Dialogue: 0,0:43:38.40,0:43:42.92,Default,,0000,0000,0000,,从安柏那里取得证据和陈述\N{\fn微软雅黑}{\fs14}to extract evidence and statements from Amber.
+Dialogue: 0,0:43:43.00,0:43:45.68,Default,,0000,0000,0000,,这就留给我们一个真正的问题\N{\fn微软雅黑}{\fs14}And that leaves us to the... to... to the real question,
+Dialogue: 0,0:43:45.76,0:43:49.08,Default,,0000,0000,0000,,那就是 真正的真相是什么？\N{\fn微软雅黑}{\fs14}which is, what is the actual truth?
+Dialogue: 0,0:43:50.20,0:43:51.76,Default,,0000,0000,0000,,真相从哪里来？\N{\fn微软雅黑}{\fs14}Where does that come from?
+Dialogue: 0,0:43:53.48,0:43:55.08,Default,,0000,0000,0000,,那是陪审团的工作\N{\fn微软雅黑}{\fs14}That's the jury's job.
+Dialogue: 0,0:43:55.16,0:43:58.24,Default,,0000,0000,0000,,-我想知道他们是怎么选陪审团的 -我也想过\N{\fn微软雅黑}{\fs14}I wanna know how they picked the jury for this.
+Dialogue: 0,0:43:58.32,0:44:02.88,Default,,0000,0000,0000,,我想的是“这一定是…” 我猜想陪审团已经被隔离了\N{\fn微软雅黑}{\fs14}I was thinking about that too. Like, "This has gotta be..." I mean, like, I'm assuming the jury's, like, sequestered away.
+Dialogue: 0,0:44:02.96,0:44:04.00,Default,,0000,0000,0000,,-对 -这是个很大的…\N{\fn微软雅黑}{\fs14}- Yeah. - This is a big...
+Dialogue: 0,0:44:04.08,0:44:05.60,Default,,0000,0000,0000,,跟什么东西隔离开？\N{\fn微软雅黑}{\fs14}Sequestered away from where?
+Dialogue: 0,0:44:05.68,0:44:09.20,Default,,0000,0000,0000,,菲利普 你觉得社交媒体有多重要\N{\fn微软雅黑}{\fs14}Philip, let me start with you. How important do you think social media is, and what's going on out there
+Dialogue: 0,0:44:09.28,0:44:12.52,Default,,0000,0000,0000,,在社交媒体领域 对这个案件有什么看法？\N{\fn微软雅黑}{\fs14}in the social media universe, to this case?
+Dialogue: 0,0:44:12.60,0:44:15.56,Default,,0000,0000,0000,,真正重要的是 你有一个由七个人组成的陪审团\N{\fn微软雅黑}{\fs14}All that really matters is that you have a jury of seven
+Dialogue: 0,0:44:15.64,0:44:19.52,Default,,0000,0000,0000,,他们不会在社交媒体上发表言论 他们会纯粹根据\N{\fn微软雅黑}{\fs14}who does not go on social media and is going to assess what went down based purely on 
+Dialogue: 0,0:44:19.60,0:44:24.20,Default,,0000,0000,0000,,法庭上提出的内容 而不是抖音或照片墙帖子\N{\fn微软雅黑}{\fs14}what is presented in court and not what is, you know, on TikTok or in Instagram posts
+Dialogue: 0,0:44:24.28,0:44:27.36,Default,,0000,0000,0000,,或脸书上的内容等等 来评估发生了什么\N{\fn微软雅黑}{\fs14}or on Facebook, etc.
+Dialogue: 0,0:44:27.44,0:44:29.64,Default,,0000,0000,0000,,（米歇尔·托马斯 辩护律师 法庭卫视音频）\N{\fn微软雅黑}{\fs14}
+Dialogue: 0,0:44:29.72,0:44:32.44,Default,,0000,0000,0000,,他们可以跟亲朋好友互动\N{\fn微软雅黑}{\fs14}They've been able to interact with friends, family,
+Dialogue: 0,0:44:32.52,0:44:35.28,Default,,0000,0000,0000,,但他们不应该参与社交媒体\N{\fn微软雅黑}{\fs14}and so, while they're not supposed to engage in social media
+Dialogue: 0,0:44:35.36,0:44:37.56,Default,,0000,0000,0000,,不应知道公共领域发生了什么事\N{\fn微软雅黑}{\fs14}and know what's going on in the public sphere,
+Dialogue: 0,0:44:37.64,0:44:40.88,Default,,0000,0000,0000,,但很难说陪审团里没有人接触过\N{\fn微软雅黑}{\fs14}it's kind of tough to say that no one on that jury has been exposed to it whatsoever,
+Dialogue: 0,0:44:40.96,0:44:42.52,Default,,0000,0000,0000,,所以我的确认为那是个问题\N{\fn微软雅黑}{\fs14}so I do think that's a concern.
+Dialogue: 0,0:44:41.80,0:44:44.40,Default,,0000,0000,0000,,
+Dialogue: 0,0:44:42.60,0:44:44.16,Default,,0000,0000,0000,,还有那间法庭里的人群\N{\fn微软雅黑}{\fs14}And the impact of the crowd cannot be overlooked
+Dialogue: 0,0:44:44.24,0:44:46.40,Default,,0000,0000,0000,,也是不能被忽视的影响因素\N{\fn微软雅黑}{\fs14}in that courtroom every day.
+Dialogue: 0,0:44:46.48,0:44:51.12,Default,,0000,0000,0000,,你觉得大多数情况下 陪审团都会做出正确判断吗？\N{\fn微软雅黑}{\fs14}Do you think that the jury gets it right in most cases?
+Dialogue: 0,0:44:51.20,0:44:55.24,Default,,0000,0000,0000,,你觉得他们了解自己的责任吗？\N{\fn微软雅黑}{\fs14}Do you think that they understand their responsibility?
+Dialogue: 0,0:44:55.32,0:44:58.04,Default,,0000,0000,0000,,是的 法官会告知他们应该做什么\N{\fn微软雅黑}{\fs14}Of course, the judge tells them what they're supposed to do.
+Dialogue: 0,0:44:58.12,0:44:59.40,Default,,0000,0000,0000,,你不能读关于这个案件的任何东西\N{\fn微软雅黑}{\fs14}You're not to read anything about this case.
+Dialogue: 0,0:44:59.80,0:45:02.24,Default,,0000,0000,0000,,你不能看关于这个案件的任何东西\N{\fn微软雅黑}{\fs14}You are not to watch anything about this case.
+Dialogue: 0,0:45:02.32,0:45:04.52,Default,,0000,0000,0000,,你不能听关于这个案件的任何东西\N{\fn微软雅黑}{\fs14}You're not to listen to anything about this case.
+Dialogue: 0,0:45:04.64,0:45:06.76,Default,,0000,0000,0000,,这适用于电视 报纸\N{\fn微软雅黑}{\fs14}This applies to television, newspapers,
+Dialogue: 0,0:45:06.84,0:45:09.96,Default,,0000,0000,0000,,杂志 网络 任何网站\N{\fn微软雅黑}{\fs14}magazines, the Internet, and any online sites.
+Dialogue: 0,0:45:10.04,0:45:13.00,Default,,0000,0000,0000,,更进一步说 你不能读、看或听 任何与之相关的\N{\fn微软雅黑}{\fs14}Further, you're not to read, watch, or listen to anything about this case
+Dialogue: 0,0:45:13.08,0:45:16.76,Default,,0000,0000,0000,,在任何社交网站上发布的内容 比如推特 脸书 照片墙\N{\fn微软雅黑}{\fs14}on any social networking sites such as Twitter, Facebook, Instagram,
+Dialogue: 0,0:45:16.84,0:45:19.04,Default,,0000,0000,0000,,Snapchat之类的 任何类似的网站\N{\fn微软雅黑}{\fs14}Snapchat, etc., or any similar sites.
+Dialogue: 0,0:45:19.76,0:45:24.72,Default,,0000,0000,0000,,陪审团应该被隔离起来 人们会希望他们不会查看任何东西\N{\fn微软雅黑}{\fs14}The jury should've been sequestered. You would hope that they would not look up anything.
+Dialogue: 0,0:45:24.80,0:45:26.68,Default,,0000,0000,0000,,做陪审员很难\N{\fn微软雅黑}{\fs14}It's very, very hard to be a juror.
+Dialogue: 0,0:45:26.76,0:45:30.00,Default,,0000,0000,0000,,我一点都不羡慕这些陪审员\N{\fn微软雅黑}{\fs14}I do not envy these jurors at all.
+Dialogue: 0,0:45:30.52,0:45:33.04,Default,,0000,0000,0000,,在法庭上待了六个星期\N{\fn微软雅黑}{\fs14}Six weeks being in that courtroom!
+Dialogue: 0,0:45:33.12,0:45:34.80,Default,,0000,0000,0000,,再说一次 不好玩\N{\fn微软雅黑}{\fs14}Again, it is not fun.
+Dialogue: 0,0:45:35.52,0:45:40.60,Default,,0000,0000,0000,,他们没有一个人知道 自己会参与德普案的庭审\N{\fn微软雅黑}{\fs14}Not one of them had a fucking clue that they were walking into Johnny Depp's fucking trial.
+Dialogue: 0,0:45:40.68,0:45:43.88,Default,,0000,0000,0000,,我觉得被转播是非常棒的\N{\fn微软雅黑}{\fs14}I-I-I think this is fantastic that this is being broadcasted,
+Dialogue: 0,0:45:43.96,0:45:46.16,Default,,0000,0000,0000,,而且我觉得一切都清晰起来了\N{\fn微软雅黑}{\fs14}and I think that everything that's coming together,
+Dialogue: 0,0:45:46.24,0:45:49.08,Default,,0000,0000,0000,,这会变得规模更大 更疯狂\N{\fn微软雅黑}{\fs14}this is gonna get bigger and crazier.
+Dialogue: 0,0:45:49.16,0:45:50.72,Default,,0000,0000,0000,,他刚才踢我了吗？\N{\fn微软雅黑}{\fs14}"Did he just kick me?"
+Dialogue: 0,0:45:50.80,0:45:53.00,Default,,0000,0000,0000,,-德普先生提请凯特·莫斯 -凯特·莫斯\N{\fn微软雅黑}{\fs14}Mr. Depp calls Kate Moss to the stand.
+Dialogue: 0,0:45:53.08,0:45:56.48,Default,,0000,0000,0000,,这会对安柏的证明造成不利影响\N{\fn微软雅黑}{\fs14}Would be a detrimental thing to Amber's case.
+Dialogue: 0,0:45:56.56,0:45:58.08,Default,,0000,0000,0000,,这是存在真正风险的\N{\fn微软雅黑}{\fs14}And there is a real risk
+Dialogue: 0,0:45:58.16,0:46:01.52,Default,,0000,0000,0000,,他不仅可能以原告的身份败诉\N{\fn微软雅黑}{\fs14}that not only could he lose this case as the plaintiff,
+Dialogue: 0,0:46:01.60,0:46:03.72,Default,,0000,0000,0000,,而且赫德还提起了一亿美元的反诉\N{\fn微软雅黑}{\fs14}but Heard has a $100 million counterclaim.
+Dialogue: 0,0:46:03.80,0:46:05.80,Default,,0000,0000,0000,,事情可能会很糟糕\N{\fn微软雅黑}{\fs14}This thing could get real bad,
+Dialogue: 0,0:46:05.88,0:46:08.64,Default,,0000,0000,0000,,对德普先生来说 甚至可能很快变得更糟\N{\fn微软雅黑}{\fs14}even worse, real fast for Mr. Depp.
+Dialogue: 0,0:46:54.16,0:46:56.08,Default,,0000,0000,0000,,字幕翻译：Zeo Niu
+

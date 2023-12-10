@@ -1,0 +1,838 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:05:03.95,0:05:05.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐山武馆\N{\fnTahoma\fs14\bord1\3c&H400000&}TANG SAN CLAN
+Dialogue: 0,0:05:06.93,0:05:08.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 来了\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, they're here
+Dialogue: 0,0:05:11.90,0:05:15.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}武林至尊\N{\fnTahoma\fs14\bord1\3c&H400000&}WITH RESPECT FROM WU LIN
+Dialogue: 0,0:05:23.34,0:05:25.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谢谢 谢谢\N{\fnTahoma\fs14\bord1\3c&H400000&}Congratulations
+Dialogue: 0,0:05:25.71,0:05:31.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}在下 得各位英雄赏面谦让 得此薄名 真是愧不敢当\N{\fnTahoma\fs14\bord1\3c&H400000&}It's a humbling experience to have so many respectable heroes here to grace this occasion
+Dialogue: 0,0:05:31.91,0:05:35.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄大侠武功盖世 我们实在是佩服佩服\N{\fnTahoma\fs14\bord1\3c&H400000&}Your fighting skill has been an inspiration to us all
+Dialogue: 0,0:05:35.28,0:05:36.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哪里 哪里 谢谢 谢谢\N{\fnTahoma\fs14\bord1\3c&H400000&}You're too kind
+Dialogue: 0,0:05:37.25,0:05:38.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}各位把匾抬上来\N{\fnTahoma\fs14\bord1\3c&H400000&}Present the board.
+Dialogue: 0,0:05:39.12,0:05:40.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}慢着\N{\fnTahoma\fs14\bord1\3c&H400000&}Hold on
+Dialogue: 0,0:05:41.96,0:05:46.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄三泰 我钟剑钧赶到了\N{\fnTahoma\fs14\bord1\3c&H400000&}Sam Tai, you didn't expect me to come to the celebration. Right?
+Dialogue: 0,0:05:51.19,0:05:54.75,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}原来是钟大侠驾到 失迎 失迎 请\N{\fnTahoma\fs14\bord1\3c&H400000&}It's Mr Chung. What a surprise? Please join us
+Dialogue: 0,0:06:03.33,0:06:05.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不是来喝酒的\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm not here to socialise.
+Dialogue: 0,0:06:05.74,0:06:06.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那么你\N{\fnTahoma\fs14\bord1\3c&H400000&}You're here for?
+Dialogue: 0,0:06:06.84,0:06:08.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要这块匾\N{\fnTahoma\fs14\bord1\3c&H400000&}I want this board
+Dialogue: 0,0:06:08.83,0:06:11.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟老前辈 这块匾是我师父比武得来的\N{\fnTahoma\fs14\bord1\3c&H400000&}Senior Chung, my Sifu won it in a Kung Fu tournament
+Dialogue: 0,0:06:12.63,0:06:15.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}比武 哼 有没有跟我比过啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Kung Fu tournament? He hasn't fought with me
+Dialogue: 0,0:06:17.61,0:06:20.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟大侠 比武已经结束 你最好等下一届啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Mr Chung, the tournament is finished. You'll have to wait for the next round
+Dialogue: 0,0:06:21.61,0:06:25.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我已经赶到了 你不跟我过招\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm already here, if you refuse to fight me
+Dialogue: 0,0:06:25.48,0:06:28.78,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算挂起这块匾都没有光彩\N{\fnTahoma\fs14\bord1\3c&H400000&}you haven't won the board honourably. Shame on you
+Dialogue: 0,0:06:29.15,0:06:30.08,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你有什么了不起\N{\fnTahoma\fs14\bord1\3c&H400000&}What's so special about you?
+Dialogue: 0,0:06:30.18,0:06:33.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}放肆 不得对钟大侠如此无礼\N{\fnTahoma\fs14\bord1\3c&H400000&}Hold it Don't be rude to Senior Chung
+Dialogue: 0,0:06:34.38,0:06:38.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟兄 如果你认为小弟 不配挂这块匾 那你\N{\fnTahoma\fs14\bord1\3c&H400000&}Mr Chung, if you think that I'm not qualified to put this board up...
+Dialogue: 0,0:06:38.68,0:06:41.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对啦 我就说你不配\N{\fnTahoma\fs14\bord1\3c&H400000&}That's my point. You're not qualified to put it up
+Dialogue: 0,0:06:41.65,0:06:46.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}除非你赢得了我三弹腿 这块匾就归你\N{\fnTahoma\fs14\bord1\3c&H400000&}If you can beat my Snapping Kick, this board is yours
+Dialogue: 0,0:06:46.29,0:06:50.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你太过分了 如果你一定要比 我只好奉陪\N{\fnTahoma\fs14\bord1\3c&H400000&}You've gone too far. If you insist on fighting, I'm not going to back out
+Dialogue: 0,0:06:51.23,0:06:52.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu
+Dialogue: 0,0:07:56.56,0:07:57.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu
+Dialogue: 0,0:08:40.22,0:08:41.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu.
+Dialogue: 0,0:08:41.32,0:08:42.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好功夫\N{\fnTahoma\fs14\bord1\3c&H400000&}Good Kung Fu
+Dialogue: 0,0:08:55.37,0:08:56.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad
+Dialogue: 0,0:08:57.37,0:08:59.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}赶快走吧\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop or you'll kill him
+Dialogue: 0,0:09:06.47,0:09:07.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不准打\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop it
+Dialogue: 0,0:09:09.37,0:09:10.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu...
+Dialogue: 0,0:09:10.98,0:09:12.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}让他把匾拿走\N{\fnTahoma\fs14\bord1\3c&H400000&}You can have the board
+Dialogue: 0,0:09:18.98,0:09:22.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看这个招牌也没有用了吧\N{\fnTahoma\fs14\bord1\3c&H400000&}You'll have no use for that board either
+Dialogue: 0,0:09:58.90,0:10:02.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不公道 不公道\N{\fnTahoma\fs14\bord1\3c&H400000&}That's not fair, that's not fair
+Dialogue: 0,0:10:02.91,0:10:06.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我已经认输了他还要打\N{\fnTahoma\fs14\bord1\3c&H400000&}I admitted defeat but he just wouldn't stop hitting me
+Dialogue: 0,0:10:09.41,0:10:10.57,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen...
+Dialogue: 0,0:10:11.08,0:10:14.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 我恐怕不行了\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm afraid I won't last much longer
+Dialogue: 0,0:10:15.95,0:10:21.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘师妹你要好好的照顾她们\N{\fnTahoma\fs14\bord1\3c&H400000&}You must take good care of Lan and Simo
+Dialogue: 0,0:10:23.02,0:10:27.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我这口气死也不服\N{\fnTahoma\fs14\bord1\3c&H400000&}This is a grave injustice. I'll not die in peace
+Dialogue: 0,0:10:28.09,0:10:30.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 你放心\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, you'll be fine
+Dialogue: 0,0:10:30.93,0:10:34.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一定勤练武功 替你找回公道的\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll train hard in my Kung Fu and take revenge for you
+Dialogue: 0,0:10:36.10,0:10:39.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}重振唐山武馆\N{\fnTahoma\fs14\bord1\3c&H400000&}The future of Tang San Clan...
+Dialogue: 0,0:10:41.44,0:10:44.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}全靠你了\N{\fnTahoma\fs14\bord1\3c&H400000&}...depends on you now
+Dialogue: 0,0:10:44.50,0:10:45.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad
+Dialogue: 0,0:10:46.20,0:10:48.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad...
+Dialogue: 0,0:10:50.00,0:10:51.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}百胜道场\N{\fnTahoma\fs14\bord1\3c&H400000&}CHAMPION CLAN
+Dialogue: 0,0:10:54.94,0:10:56.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}各位请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please.
+Dialogue: 0,0:11:04.22,0:11:07.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}雕虫小技 不足挂齿\N{\fnTahoma\fs14\bord1\3c&H400000&}That was easy, not worth mentioning
+Dialogue: 0,0:11:07.95,0:11:10.50,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}但是总算为地方争光\N{\fnTahoma\fs14\bord1\3c&H400000&}but we did make our presence felt
+Dialogue: 0,0:11:11.48,0:11:12.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}秋萍\N{\fnTahoma\fs14\bord1\3c&H400000&}Chou Ping
+Dialogue: 0,0:11:12.71,0:11:13.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}嗯\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes...
+Dialogue: 0,0:11:13.45,0:11:17.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}所有人都到齐了 叫你娘出来\N{\fnTahoma\fs14\bord1\3c&H400000&}All the guests have arrived. Go and get your Mum
+Dialogue: 0,0:11:17.05,0:11:18.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}啊 知道了\N{\fnTahoma\fs14\bord1\3c&H400000&}Right away
+Dialogue: 0,0:11:34.39,0:11:38.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}娘 客人都到齐了 爹叫我来请你快点出去\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum, all the guests are here. Dad is asking for you
+Dialogue: 0,0:11:43.97,0:11:44.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}娘\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum...
+Dialogue: 0,0:11:51.24,0:11:54.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹 你快点来啊 快点来啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, come here quick. Come here quick
+Dialogue: 0,0:11:55.98,0:11:56.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}What's happened?
+Dialogue: 0,0:11:56.98,0:11:58.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快点 快点 快点来嘛\N{\fnTahoma\fs14\bord1\3c&H400000&}Quick, come and see for yourself
+Dialogue: 0,0:11:58.98,0:12:00.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快呀\N{\fnTahoma\fs14\bord1\3c&H400000&}Hurry up. Quick
+Dialogue: 0,0:12:08.75,0:12:09.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快点\N{\fnTahoma\fs14\bord1\3c&H400000&}Please hurry up
+Dialogue: 0,0:12:09.98,0:12:11.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}您看\N{\fnTahoma\fs14\bord1\3c&H400000&}See for yourself
+Dialogue: 0,0:12:14.49,0:12:15.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}出了什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}What's wrong?
+Dialogue: 0,0:12:18.69,0:12:20.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}妈妈…\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum is...
+Dialogue: 0,0:12:46.04,0:12:47.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}剑钧吾夫\N{\fnTahoma\fs14\bord1\3c&H400000&}"My dear husband
+Dialogue: 0,0:12:47.91,0:12:53.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你为了报复十八年前庄三泰 和我曾经相爱的私怨\N{\fnTahoma\fs14\bord1\3c&H400000&}"You've always been bothered by my relationship with Sam Tai 18 years ago
+Dialogue: 0,0:12:53.14,0:12:58.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}竟借比武毒手 打死三泰 良心何在\N{\fnTahoma\fs14\bord1\3c&H400000&}"I know you'll try any underhand methods to kill him "Where is your conscience?
+Dialogue: 0,0:12:59.01,0:13:02.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我因爱君 故以死相劝\N{\fnTahoma\fs14\bord1\3c&H400000&}"Because I love you, I'll trade my life so God will have mercy on you
+Dialogue: 0,0:13:02.92,0:13:06.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}望君忍让为怀 行侠仗义\N{\fnTahoma\fs14\bord1\3c&H400000&}"I hope you'll be a better person in the future
+Dialogue: 0,0:13:06.92,0:13:12.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我在九泉之下必当瞑目 秀秀绝笔\N{\fnTahoma\fs14\bord1\3c&H400000&}"My death will not have been in vain if you change "Your beloved wife."
+Dialogue: 0,0:14:23.97,0:14:28.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大爷 我们是在此地干活的 我们真的不是故意的\N{\fnTahoma\fs14\bord1\3c&H400000&}Master, we're only working here. We're not doing anything wrong
+Dialogue: 0,0:14:28.81,0:14:30.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大爷 您饶了我们吧\N{\fnTahoma\fs14\bord1\3c&H400000&}Please don't take it the wrong way
+Dialogue: 0,0:14:30.80,0:14:34.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那只好怪你运气不好 谁叫你们看见的\N{\fnTahoma\fs14\bord1\3c&H400000&}It's your misfortune to have witnessed it
+Dialogue: 0,0:14:35.30,0:14:38.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}嗯哎 大爷\N{\fnTahoma\fs14\bord1\3c&H400000&}Master, don't. Please have mercy
+Dialogue: 0,0:14:47.82,0:14:50.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快 快点去找 快去找\N{\fnTahoma\fs14\bord1\3c&H400000&}Listen up. Check around Search carefully.
+Dialogue: 0,0:14:54.02,0:14:55.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}有没有\N{\fnTahoma\fs14\bord1\3c&H400000&}Find anything?
+Dialogue: 0,0:15:04.82,0:15:06.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}没有\N{\fnTahoma\fs14\bord1\3c&H400000&}OK
+Dialogue: 0,0:15:06.39,0:15:08.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到这边看看\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro, the goods are here Let's have a look
+Dialogue: 0,0:15:12.23,0:15:14.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}老大 货在这儿呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Fish it out, quick
+Dialogue: 0,0:15:14.97,0:15:16.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快起货\N{\fnTahoma\fs14\bord1\3c&H400000&}Hurry up.
+Dialogue: 0,0:15:25.37,0:15:25.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快\N{\fnTahoma\fs14\bord1\3c&H400000&}Got it.
+Dialogue: 0,0:15:39.05,0:15:40.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}上\N{\fnTahoma\fs14\bord1\3c&H400000&}Bring it ashore
+Dialogue: 0,0:15:40.78,0:15:43.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎哎 你们看 你们看\N{\fnTahoma\fs14\bord1\3c&H400000&}Hey can you see it?
+Dialogue: 0,0:15:43.28,0:15:45.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那边有尸首 那边有尸首哎\N{\fnTahoma\fs14\bord1\3c&H400000&}- Is that a corpse? - It looks like it
+Dialogue: 0,0:15:45.78,0:15:48.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎 大家不要吵\N{\fnTahoma\fs14\bord1\3c&H400000&}Please be quiet
+Dialogue: 0,0:15:48.28,0:15:52.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要吵 咱们先把尸首捞起来\N{\fnTahoma\fs14\bord1\3c&H400000&}We'll bring it up and ask Master Chung what to do
+Dialogue: 0,0:15:52.78,0:15:54.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}然后呢再给转钟大爷看怎么办\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you think?
+Dialogue: 0,0:17:20.34,0:17:21.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}住手\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop
+Dialogue: 0,0:17:21.91,0:17:24.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师兄弟过招怎么可以下毒手\N{\fnTahoma\fs14\bord1\3c&H400000&}You're sparring with your own man. No underhand tricks, please
+Dialogue: 0,0:17:26.34,0:17:27.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥 对不起\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm sorry, Big Brother
+Dialogue: 0,0:17:32.68,0:17:35.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 南英青的功夫进步得真快啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, Nam Sing's Kung Fu has improved a lot
+Dialogue: 0,0:17:36.68,0:17:39.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我叫迟一步 你的腿早断了\N{\fnTahoma\fs14\bord1\3c&H400000&}If I hadn't stopped him in time, he'd have broken your leg
+Dialogue: 0,0:17:41.79,0:17:42.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}断了 怎么会了\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Brother, is that true?
+Dialogue: 0,0:17:44.59,0:17:49.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你再练三年也打不过我 不过我不会象你那样下毒手\N{\fnTahoma\fs14\bord1\3c&H400000&}You might beat me in 3 years But I won't use dirty tricks like you
+Dialogue: 0,0:17:50.80,0:17:54.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}人头猪脑 好好的想一想\N{\fnTahoma\fs14\bord1\3c&H400000&}What an idiot. Go away and think about it
+Dialogue: 0,0:17:55.36,0:17:55.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你去练\N{\fnTahoma\fs14\bord1\3c&H400000&}Your turn.
+Dialogue: 0,0:17:56.12,0:17:56.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:18:05.50,0:18:06.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}放下\N{\fnTahoma\fs14\bord1\3c&H400000&}Put it down
+Dialogue: 0,0:18:08.24,0:18:10.50,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟大爷 您看看 再这样下去怎么办呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Master, look at this
+Dialogue: 0,0:18:13.61,0:18:15.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}已经是第六个了\N{\fnTahoma\fs14\bord1\3c&H400000&}This is the sixth.
+Dialogue: 0,0:18:15.58,0:18:18.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹你看多可怕\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, it looks gross
+Dialogue: 0,0:18:20.57,0:18:24.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这简直是无法无天 这种伤天害理的事 一定是魏家的人干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Master, such immoral acts must have been committed by the Ngais
+Dialogue: 0,0:18:25.51,0:18:28.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要胡说 没有证据不能诬赖人家\N{\fnTahoma\fs14\bord1\3c&H400000&}Nonsense, you've no proof of that
+Dialogue: 0,0:18:28.91,0:18:30.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我可以作证\N{\fnTahoma\fs14\bord1\3c&H400000&}I can be a witness
+Dialogue: 0,0:18:30.48,0:18:34.08,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我亲眼看见的 是魏家的许胖子带人打死的\N{\fnTahoma\fs14\bord1\3c&H400000&}I saw the Ngai's Fatty Hui kill this guy
+Dialogue: 0,0:18:34.72,0:18:36.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你愿意作证吗\N{\fnTahoma\fs14\bord1\3c&H400000&}You'll be the witness?
+Dialogue: 0,0:18:36.92,0:18:38.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我绝对敢对质\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll honour my words
+Dialogue: 0,0:18:40.42,0:18:42.14,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}太不象话了\N{\fnTahoma\fs14\bord1\3c&H400000&}He's crossed the line
+Dialogue: 0,0:18:42.92,0:18:43.85,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}方刚\N{\fnTahoma\fs14\bord1\3c&H400000&}Fong Kuo!
+Dialogue: 0,0:18:44.65,0:18:45.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}在\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu
+Dialogue: 0,0:18:45.55,0:18:49.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你和南英青到魏家去一趟 叫许胖子来见我\N{\fnTahoma\fs14\bord1\3c&H400000&}Go to the Ngai's with Nam Sing Ask Fatty Hui to come and see me.
+Dialogue: 0,0:18:49.92,0:18:50.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:18:51.09,0:18:52.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么 找许胖子\N{\fnTahoma\fs14\bord1\3c&H400000&}They're looking for Fatty Hui?
+Dialogue: 0,0:18:52.56,0:18:53.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}嗯\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:18:59.90,0:19:03.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不错 是我的人 二位有什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}You're right, Fatty Hui is my man. Why are you looking for him?
+Dialogue: 0,0:19:03.40,0:19:05.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他是杀人凶手 请你把他交出来\N{\fnTahoma\fs14\bord1\3c&H400000&}He's a murderer, hand him over
+Dialogue: 0,0:19:06.56,0:19:09.50,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他杀人 谁看见了\N{\fnTahoma\fs14\bord1\3c&H400000&}He killed someone? Who witnessed that?
+Dialogue: 0,0:19:09.80,0:19:13.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}当然有人证 现在就是找他去对质\N{\fnTahoma\fs14\bord1\3c&H400000&}We've got a witness. We need him to come with us to explain
+Dialogue: 0,0:19:14.41,0:19:18.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}百忍道场 在地方上一向受人尊重\N{\fnTahoma\fs14\bord1\3c&H400000&}The Patience Clan is very respectable
+Dialogue: 0,0:19:18.41,0:19:21.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}而你们二位好像不太讲理\N{\fnTahoma\fs14\bord1\3c&H400000&}but you two are being unreasonable now
+Dialogue: 0,0:19:22.11,0:19:25.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算许胖子杀人 你也不能来找我呀\N{\fnTahoma\fs14\bord1\3c&H400000&}Even if Fatty Hui killed someone, you've no reason to come to me
+Dialogue: 0,0:19:25.62,0:19:27.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他是你魏家的人\N{\fnTahoma\fs14\bord1\3c&H400000&}He's one of the Ngai's men
+Dialogue: 0,0:19:27.82,0:19:30.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他已经不在这儿做了\N{\fnTahoma\fs14\bord1\3c&H400000&}He's no longer here
+Dialogue: 0,0:19:30.45,0:19:31.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到哪去了\N{\fnTahoma\fs14\bord1\3c&H400000&}Where is he now?
+Dialogue: 0,0:19:32.41,0:19:33.61,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不知道\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't know.
+Dialogue: 0,0:19:34.15,0:19:34.94,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要你交人\N{\fnTahoma\fs14\bord1\3c&H400000&}Hand him over
+Dialogue: 0,0:19:35.05,0:19:36.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}放屁\N{\fnTahoma\fs14\bord1\3c&H400000&}Shut up,
+Dialogue: 0,0:19:36.45,0:19:39.21,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这儿是什么地方 由得你来放肆\N{\fnTahoma\fs14\bord1\3c&H400000&}you're on our territory. You better watch what you say
+Dialogue: 0,0:19:44.43,0:19:45.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们想怎么样\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you want to do?
+Dialogue: 0,0:19:48.16,0:19:53.57,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}二位不必生气 许胖子的确不在 此地大家何必伤和气了\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't be angry. Fatty really isn't here We shouldn't spoil our relationship
+Dialogue: 0,0:19:54.20,0:19:57.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}等我找到了许胖子 可别怪我不客气\N{\fnTahoma\fs14\bord1\3c&H400000&}If we find Fatty Hui, don't blame us if it gets nasty It's your call.
+Dialogue: 0,0:19:59.10,0:20:00.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们看着办吧\N{\fnTahoma\fs14\bord1\3c&H400000&}That's right
+Dialogue: 0,0:20:01.60,0:20:02.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎哎
+Dialogue: 0,0:20:02.33,0:20:03.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go. See you
+Dialogue: 0,0:20:06.10,0:20:08.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大哥 我看现在就把他们百忍道场给拆了\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro, why don't we deal with Patience Clan now?
+Dialogue: 0,0:20:08.74,0:20:12.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你懂什么 百忍道场在这很多名气\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you know? Patience Clan is much respected around here
+Dialogue: 0,0:20:12.28,0:20:15.14,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}要除掉它 一定要名正言顺才行\N{\fnTahoma\fs14\bord1\3c&H400000&}If we want to get rid of them, we need to be clever about it
+Dialogue: 0,0:20:15.25,0:20:16.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎 对了 对了\N{\fnTahoma\fs14\bord1\3c&H400000&}That's right
+Dialogue: 0,0:20:18.12,0:20:20.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}时机未到 你们先别急呀\N{\fnTahoma\fs14\bord1\3c&H400000&}It's not the right time yet
+Dialogue: 0,0:20:21.12,0:20:25.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}等我跟小三子一切都安排好了 你还怕我们不去找他\N{\fnTahoma\fs14\bord1\3c&H400000&}We must be patient, we'll get them when we're fully prepared
+Dialogue: 0,0:20:37.12,0:20:39.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我真担心我们到了那儿 找不到那个姓钟的\N{\fnTahoma\fs14\bord1\3c&H400000&}I hope that we can find Chung there
+Dialogue: 0,0:20:39.99,0:20:44.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你放心好了 姓钟的在这里很有名望 一打听就打听到了\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't worry, Chung is a well－known guy, we just have to ask around
+Dialogue: 0,0:20:45.33,0:20:48.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算他飞上天 我也要把他抓起来\N{\fnTahoma\fs14\bord1\3c&H400000&}Even if he can fly, I'll still find him
+Dialogue: 0,0:20:52.36,0:20:53.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到了\N{\fnTahoma\fs14\bord1\3c&H400000&}We're there Move here.
+Dialogue: 0,0:21:34.16,0:21:36.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哇哎哎 少爷 快来看 快来看\N{\fnTahoma\fs14\bord1\3c&H400000&}No I want to move here
+Dialogue: 0,0:21:36.53,0:21:40.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你看那个妞长得好帅好棒啊\N{\fnTahoma\fs14\bord1\3c&H400000&}What a beautiful girl! Young Master, come and take a look Beautiful, I'll talk to her
+Dialogue: 0,0:21:44.23,0:21:47.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小姐 你从远处来的吧 我来帮你拿好不好\N{\fnTahoma\fs14\bord1\3c&H400000&}Miss, your luggage must be heavy, can I help you?
+Dialogue: 0,0:21:47.53,0:21:48.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不用\N{\fnTahoma\fs14\bord1\3c&H400000&}No need.
+Dialogue: 0,0:21:48.40,0:21:49.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我又没问你\N{\fnTahoma\fs14\bord1\3c&H400000&}I wasn't asking you
+Dialogue: 0,0:21:50.90,0:21:52.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们是一块来的\N{\fnTahoma\fs14\bord1\3c&H400000&}We're together
+Dialogue: 0,0:21:59.88,0:22:00.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你背的是什么\N{\fnTahoma\fs14\bord1\3c&H400000&}What's that you're carrying?
+Dialogue: 0,0:22:00.88,0:22:01.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}想看吗\N{\fnTahoma\fs14\bord1\3c&H400000&}You want to see?
+Dialogue: 0,0:22:02.01,0:22:03.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}想\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes.
+Dialogue: 0,0:22:03.24,0:22:05.14,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不问问要看的代价是什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Regardless of the price?
+Dialogue: 0,0:22:05.17,0:22:07.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}看看还要代价啊\N{\fnTahoma\fs14\bord1\3c&H400000&}What's the price?
+Dialogue: 0,0:22:07.37,0:22:09.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怕你付不起\N{\fnTahoma\fs14\bord1\3c&H400000&}You can't afford it
+Dialogue: 0,0:22:11.01,0:22:15.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你也不打听打听 我们魏家在这儿有什么付不起的\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't you know? There's nothing the Ngais can't afford
+Dialogue: 0,0:22:15.38,0:22:16.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你真付得起\N{\fnTahoma\fs14\bord1\3c&H400000&}You want to pay for it?
+Dialogue: 0,0:22:16.95,0:22:18.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}说多少\N{\fnTahoma\fs14\bord1\3c&H400000&}Tell me how much?
+Dialogue: 0,0:22:19.25,0:22:20.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}一条腿\N{\fnTahoma\fs14\bord1\3c&H400000&}A leg
+Dialogue: 0,0:22:25.09,0:22:26.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}太贵了吧\N{\fnTahoma\fs14\bord1\3c&H400000&}That's a bit expensive
+Dialogue: 0,0:22:26.16,0:22:27.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}没什么好讨价还价的\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm not open to other offers
+Dialogue: 0,0:22:28.15,0:22:29.78,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 我们走\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, we can go now
+Dialogue: 0,0:22:38.10,0:22:41.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么玩意 看看就要一条腿\N{\fnTahoma\fs14\bord1\3c&H400000&}What is that? Costs a leg just to look at it?
+Dialogue: 0,0:22:43.97,0:22:46.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎 你们谁肯付啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Who will do it?
+Dialogue: 0,0:22:46.34,0:22:47.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}少爷 我们付不起 太贵了\N{\fnTahoma\fs14\bord1\3c&H400000&}No, not me, not me
+Dialogue: 0,0:22:47.81,0:22:49.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就你吧\N{\fnTahoma\fs14\bord1\3c&H400000&}You do it.
+Dialogue: 0,0:22:49.34,0:22:50.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我 少爷 不行啊\N{\fnTahoma\fs14\bord1\3c&H400000&}No, I can't, my leg is...
+Dialogue: 0,0:22:50.84,0:22:53.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对 对 对 去呀\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go, just do it
+Dialogue: 0,0:23:00.11,0:23:01.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}又有什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}What now?
+Dialogue: 0,0:23:01.94,0:23:06.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不是说要一条腿我才能看你的宝贝东西吗 我带来了\N{\fnTahoma\fs14\bord1\3c&H400000&}Didn't you say it'd cost us a leg to look at it? We've got it.
+Dialogue: 0,0:23:07.82,0:23:10.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}少爷 少爷\N{\fnTahoma\fs14\bord1\3c&H400000&}Young Master,  I don't want to see it
+Dialogue: 0,0:23:10.42,0:23:11.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是你要看吗\N{\fnTahoma\fs14\bord1\3c&H400000&}It's you who wants to see it?
+Dialogue: 0,0:23:11.72,0:23:12.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:23:12.29,0:23:13.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那不行\N{\fnTahoma\fs14\bord1\3c&H400000&}No deal.
+Dialogue: 0,0:23:13.22,0:23:14.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why?
+Dialogue: 0,0:23:14.09,0:23:16.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谁看要谁的腿\N{\fnTahoma\fs14\bord1\3c&H400000&}The leg has to belong to the person who wants to see it
+Dialogue: 0,0:23:18.72,0:23:20.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还要不要看\N{\fnTahoma\fs14\bord1\3c&H400000&}You really want to see it?
+Dialogue: 0,0:23:23.32,0:23:26.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好 有种 改天再看\N{\fnTahoma\fs14\bord1\3c&H400000&}Good on you. We'll see it another day
+Dialogue: 0,0:23:26.09,0:23:28.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go.
+Dialogue: 0,0:23:34.70,0:23:38.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 我们出门在外什么事都要忍耐\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. This is not our territory, you should be more tolerant
+Dialogue: 0,0:23:38.34,0:23:42.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这不能怪师哥 那家伙实在讨厌\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum, you can't blame him. Those guys are so annoying
+Dialogue: 0,0:23:42.83,0:23:44.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}妈 我们现在上哪\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum, where should we go now?
+Dialogue: 0,0:23:44.63,0:23:46.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}当然是直奔百胜道场\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go to the Champion Clan's
+Dialogue: 0,0:23:46.13,0:23:49.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不用忙 我们先找个地方住下来\N{\fnTahoma\fs14\bord1\3c&H400000&}There's no rush. We should look for a place to stay
+Dialogue: 0,0:23:49.77,0:23:52.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}明天是你师父三周年忌期\N{\fnTahoma\fs14\bord1\3c&H400000&}Tomorrow is the third anniversary of your Sifu's death
+Dialogue: 0,0:23:52.97,0:23:58.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我想上庙烧个香 既然来了也不在乎多呆个一两天\N{\fnTahoma\fs14\bord1\3c&H400000&}I want to go to the temple to make an offering Since we're here, let's stay a few days.
+Dialogue: 0,0:23:58.85,0:23:59.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes, Simo
+Dialogue: 0,0:24:00.11,0:24:02.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}冥府殿\N{\fnTahoma\fs14\bord1\3c&H400000&}MING FU TEMPLE
+Dialogue: 0,0:25:03.66,0:25:06.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥 你不舒服啊\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Not feeling well?
+Dialogue: 0,0:25:07.87,0:25:10.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你干什么 有心事\N{\fnTahoma\fs14\bord1\3c&H400000&}What are you doing? Something's bothering you?
+Dialogue: 0,0:25:10.17,0:25:11.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我有什么心事\N{\fnTahoma\fs14\bord1\3c&H400000&}Nothing is bothering me
+Dialogue: 0,0:25:23.91,0:25:25.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你是不是怕\N{\fnTahoma\fs14\bord1\3c&H400000&}Are you afraid?
+Dialogue: 0,0:25:25.94,0:25:27.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怕\N{\fnTahoma\fs14\bord1\3c&H400000&}Afraid?
+Dialogue: 0,0:25:28.18,0:25:31.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为了师父的仇恨 为了唐山门的名誉\N{\fnTahoma\fs14\bord1\3c&H400000&}To avenge the death of Sifu, to avenge the name of Tang San Clan
+Dialogue: 0,0:25:31.35,0:25:34.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我的心里永远没有怕字\N{\fnTahoma\fs14\bord1\3c&H400000&}I've never been afraid in my life
+Dialogue: 0,0:25:36.62,0:25:40.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那为什么你来了此地之后态度跟以前完全变了\N{\fnTahoma\fs14\bord1\3c&H400000&}Why has your attitude changed so much since we arrived here?
+Dialogue: 0,0:25:41.76,0:25:45.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}如果你真的怕 现在回去还来得及\N{\fnTahoma\fs14\bord1\3c&H400000&}If you're afraid, it's not too late to turn back
+Dialogue: 0,0:25:47.10,0:25:51.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你误会了 我是有心事 我担心你跟师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}You've misunderstood. I'm actually worried about
+Dialogue: 0,0:25:51.29,0:25:55.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是不是你认为我们是你的累赘\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo's and your well－being Have we caused you any inconvenience?
+Dialogue: 0,0:25:55.56,0:25:57.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你更误会了\N{\fnTahoma\fs14\bord1\3c&H400000&}That's an even worse misunderstanding!
+Dialogue: 0,0:25:57.87,0:26:02.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我是怕万一输给钟剑钧 以后谁来照顾你们\N{\fnTahoma\fs14\bord1\3c&H400000&}My worry is, if I'm defeated by Chung, who'll look after you two?
+Dialogue: 0,0:26:02.84,0:26:06.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你不用担心 我们会自己照顾自己\N{\fnTahoma\fs14\bord1\3c&H400000&}You needn't worry, we'll look after ourselves
+Dialogue: 0,0:26:07.01,0:26:10.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}总之你千万不能泄气\N{\fnTahoma\fs14\bord1\3c&H400000&}You shouldn't be demoralised
+Dialogue: 0,0:26:10.64,0:26:14.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不会泄气 你照顾师娘 我去逛逛\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm not demoralised. Look after Simo, I'll take a walk
+Dialogue: 0,0:26:33.79,0:26:36.51,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}少爷 那小子又来了\N{\fnTahoma\fs14\bord1\3c&H400000&}Young Master, that chap is here
+Dialogue: 0,0:26:43.92,0:26:45.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你是从外地来的\N{\fnTahoma\fs14\bord1\3c&H400000&}Are you from another town?
+Dialogue: 0,0:26:45.63,0:26:46.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是的\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:26:46.76,0:26:48.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到我们这儿干什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why are you here?
+Dialogue: 0,0:26:48.50,0:26:50.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我的事不劳过问\N{\fnTahoma\fs14\bord1\3c&H400000&}That's my business
+Dialogue: 0,0:26:50.63,0:26:53.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那入境随俗 进庙得有个规矩\N{\fnTahoma\fs14\bord1\3c&H400000&}You must follow the rules and regulations if you want to come here
+Dialogue: 0,0:26:54.27,0:26:55.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么规矩\N{\fnTahoma\fs14\bord1\3c&H400000&}What are the rules and regulations?
+Dialogue: 0,0:26:56.77,0:26:58.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}打这儿进去\N{\fnTahoma\fs14\bord1\3c&H400000&}To come in. You've to go through here
+Dialogue: 0,0:27:00.84,0:27:03.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}出去要从这儿出去\N{\fnTahoma\fs14\bord1\3c&H400000&}To go out, you've to go through here
+Dialogue: 0,0:27:07.00,0:27:08.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谁定的规矩\N{\fnTahoma\fs14\bord1\3c&H400000&}Who approved the rules and regulations?
+Dialogue: 0,0:27:08.84,0:27:09.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}本少爷\N{\fnTahoma\fs14\bord1\3c&H400000&}Me
+Dialogue: 0,0:27:09.97,0:27:12.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}又是你\N{\fnTahoma\fs14\bord1\3c&H400000&}You again.
+Dialogue: 0,0:27:12.68,0:27:15.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你是要进去呢 还是要出去\N{\fnTahoma\fs14\bord1\3c&H400000&}You want to come in or go out?
+Dialogue: 0,0:27:16.31,0:27:17.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我无意结怨也不愿受辱\N{\fnTahoma\fs14\bord1\3c&H400000&}I've no intention to make enemies and don't wish to be humiliated
+Dialogue: 0,0:27:17.38,0:27:17.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那么交个朋友呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's be friends.
+Dialogue: 0,0:27:18.35,0:27:19.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不交\N{\fnTahoma\fs14\bord1\3c&H400000&}Friends?
+Dialogue: 0,0:27:19.78,0:27:21.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}上\N{\fnTahoma\fs14\bord1\3c&H400000&}Get him.
+Dialogue: 0,0:27:22.02,0:27:22.85,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}慢着\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't move Stop
+Dialogue: 0,0:27:24.22,0:27:25.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}姓魏的 你太过分了\N{\fnTahoma\fs14\bord1\3c&H400000&}Ngai, you're being ruthless
+Dialogue: 0,0:27:27.49,0:27:28.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}管闲事的来了\N{\fnTahoma\fs14\bord1\3c&H400000&}Look who's here
+Dialogue: 0,0:27:31.02,0:27:32.61,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不许你们欺负人 放开他\N{\fnTahoma\fs14\bord1\3c&H400000&}I won't let you bully anyone here. Let him go
+Dialogue: 0,0:27:34.92,0:27:36.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}关你什么事 我又没有欺负你\N{\fnTahoma\fs14\bord1\3c&H400000&}That's none of your business? I wasn't bullying you
+Dialogue: 0,0:27:37.22,0:27:37.78,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我偏要管\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll take it as my business.
+Dialogue: 0,0:27:38.53,0:27:39.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你管得太多了\N{\fnTahoma\fs14\bord1\3c&H400000&}I won't let you
+Dialogue: 0,0:27:39.69,0:27:40.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}让他走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let him go.
+Dialogue: 0,0:27:40.36,0:27:40.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你说就行了\N{\fnTahoma\fs14\bord1\3c&H400000&}Why should I listen to you?
+Dialogue: 0,0:27:41.70,0:27:45.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}一个刚从外地来的人又没有得罪你 你凭什么要欺负人家\N{\fnTahoma\fs14\bord1\3c&H400000&}He's just arrived in our town and hasn't offended you. Why must you bully him?
+Dialogue: 0,0:27:48.04,0:27:50.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你要打抱不平 小白脸你看上了\N{\fnTahoma\fs14\bord1\3c&H400000&}You're standing up against injustice? You've fallen for him
+Dialogue: 0,0:27:51.31,0:27:52.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你敢欺负你姑奶奶\N{\fnTahoma\fs14\bord1\3c&H400000&}You want to bully me too? Friend, you can go now
+Dialogue: 0,0:27:53.81,0:27:54.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}朋友 你快走\N{\fnTahoma\fs14\bord1\3c&H400000&}Go, get out of here.
+Dialogue: 0,0:27:55.43,0:27:56.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走啊 快走 走了\N{\fnTahoma\fs14\bord1\3c&H400000&}Get him
+Dialogue: 0,0:28:00.20,0:28:01.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小子 可有死过\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't you dare get involved
+Dialogue: 0,0:29:08.09,0:29:08.94,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}上\N{\fnTahoma\fs14\bord1\3c&H400000&}Fight.
+Dialogue: 0,0:29:09.12,0:29:10.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那边\N{\fnTahoma\fs14\bord1\3c&H400000&}They're there
+Dialogue: 0,0:29:39.00,0:29:40.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走 走 走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go. Let's go
+Dialogue: 0,0:29:49.97,0:29:54.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}刚才多谢你帮忙 我叫钟秋萍 请问你贵姓啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Thanks for your help. I'm Chung Chou Ping What is your name?
+Dialogue: 0,0:29:55.18,0:29:58.16,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不是冤家就是债主 明儿见\N{\fnTahoma\fs14\bord1\3c&H400000&}You can call me either enemy or creditor See you tomorrow
+Dialogue: 0,0:30:03.01,0:30:04.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他说什么呀 我都听不懂\N{\fnTahoma\fs14\bord1\3c&H400000&}What did he say? I don't understand
+Dialogue: 0,0:30:06.91,0:30:07.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么要明天见\N{\fnTahoma\fs14\bord1\3c&H400000&}Why will he see me tomorrow?
+Dialogue: 0,0:30:09.15,0:30:10.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我懂 回去告诉师父\N{\fnTahoma\fs14\bord1\3c&H400000&}I know. Let's go and inform Sifu
+Dialogue: 0,0:30:39.32,0:30:40.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu
+Dialogue: 0,0:30:48.83,0:30:49.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu.
+Dialogue: 0,0:30:50.55,0:30:51.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}弟子们到齐了\N{\fnTahoma\fs14\bord1\3c&H400000&}All the trainees are here
+Dialogue: 0,0:30:53.82,0:30:56.32,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他们既然到了这 一定会来找我的\N{\fnTahoma\fs14\bord1\3c&H400000&}If they're here, they'll be looking for me
+Dialogue: 0,0:30:57.59,0:30:59.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}所以我召集你们来 有话要交代\N{\fnTahoma\fs14\bord1\3c&H400000&}I assembled all of you here to do something for me
+Dialogue: 0,0:31:00.46,0:31:02.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹 他还跟我说明天见\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, he said he'd see me tomorrow
+Dialogue: 0,0:31:04.77,0:31:05.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那他一定明天来\N{\fnTahoma\fs14\bord1\3c&H400000&}He'll definitely come tomorrow
+Dialogue: 0,0:31:07.00,0:31:09.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}如果他们来了 你们不准难为他们\N{\fnTahoma\fs14\bord1\3c&H400000&}If they're here, I don't want you lot to be rude to them
+Dialogue: 0,0:31:10.81,0:31:11.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}OK
+Dialogue: 0,0:31:15.94,0:31:17.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 我不明白您的意思\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, I don't know what you mean
+Dialogue: 0,0:31:19.27,0:31:19.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师弟
+Dialogue: 0,0:31:20.34,0:31:23.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不用问 我怎么说你怎么做\N{\fnTahoma\fs14\bord1\3c&H400000&}Just do what you're told. No questions asked
+Dialogue: 0,0:31:24.01,0:31:26.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算他们动手打你们 你们都不准还手\N{\fnTahoma\fs14\bord1\3c&H400000&}Even if they hit you, you're not to retaliate
+Dialogue: 0,0:31:27.28,0:31:30.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹 为什么呢 难道我们怕他吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, why? Are you afraid of them?
+Dialogue: 0,0:31:31.79,0:31:35.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不是怕他们 是我欠了他们\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm not afraid of them but I did wrong them
+Dialogue: 0,0:31:37.62,0:31:40.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大哥 我查清楚了 他是从唐山来的 叫唐浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro, I've checked him out. He's from Tang San Clan His name is Tang How Yuen.
+Dialogue: 0,0:31:41.29,0:31:42.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐山\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang San Clan?
+Dialogue: 0,0:31:42.29,0:31:45.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小三子告诉我 几年前钟老头打伤了庄三泰\N{\fnTahoma\fs14\bord1\3c&H400000&}A few years back, Chung defeated Sam Tai badly in a fight
+Dialogue: 0,0:31:45.76,0:31:49.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}拆了唐山武馆的招牌 庄三泰气愤而死\N{\fnTahoma\fs14\bord1\3c&H400000&}He also broke the Tang San Clan sign board
+Dialogue: 0,0:31:49.79,0:31:51.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他这次来 八成是报仇来的\N{\fnTahoma\fs14\bord1\3c&H400000&}Sam Tai died from the trauma How Yuen must be here for revenge
+Dialogue: 0,0:31:53.26,0:31:56.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怪不得那小子一身好功夫 他不是猛龙不过江\N{\fnTahoma\fs14\bord1\3c&H400000&}No wonder his Kung Fu is so good He comes fully prepared
+Dialogue: 0,0:31:57.63,0:32:01.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那就好了 咱们隔山观虎斗 在这儿瞧热闹\N{\fnTahoma\fs14\bord1\3c&H400000&}Good news for us, we can stand back and see them injure each other
+Dialogue: 0,0:32:04.04,0:32:04.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他身手真的那么好\N{\fnTahoma\fs14\bord1\3c&H400000&}Is his Kung Fu that good?
+Dialogue: 0,0:32:06.53,0:32:08.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看呀 比二哥还好\N{\fnTahoma\fs14\bord1\3c&H400000&}He's better than Second Brother
+Dialogue: 0,0:32:08.67,0:32:12.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们五个人打他一个 除了挨打 想摸他一下真是门都没有\N{\fnTahoma\fs14\bord1\3c&H400000&}The five of us not only got beaten up, we couldn't even touch him
+Dialogue: 0,0:32:13.27,0:32:15.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}真的这么厉害吗 我明天要会会他\N{\fnTahoma\fs14\bord1\3c&H400000&}Is he that good? I want to challenge him now
+Dialogue: 0,0:32:16.78,0:32:17.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}何必去斗那个气呢\N{\fnTahoma\fs14\bord1\3c&H400000&}There's no need for that
+Dialogue: 0,0:32:18.28,0:32:21.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}想办法收买他 去对付钟老头 那不是更好吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Isn't it better to get him on our side to fight that old man for us?
+Dialogue: 0,0:32:23.52,0:32:24.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}老三 交给你去办\N{\fnTahoma\fs14\bord1\3c&H400000&}Sun. I'll leave this to you
+Dialogue: 0,0:32:26.25,0:32:28.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那还不容易 坏招我多的是\N{\fnTahoma\fs14\bord1\3c&H400000&}No problem. I'm the crafty one here
+Dialogue: 0,0:32:29.26,0:32:31.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这件事您放心 交给我啦\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll convince him to join forces with us
+Dialogue: 0,0:32:54.47,0:32:55.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥 你怎么啦\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. What are you doing?
+Dialogue: 0,0:32:56.46,0:32:57.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我找到了我们要找的人\N{\fnTahoma\fs14\bord1\3c&H400000&}I've found our enemy
+Dialogue: 0,0:32:58.07,0:32:58.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen.
+Dialogue: 0,0:33:00.03,0:33:04.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你还在想什么 我们不是为结仇而来 只想讨个公道回去\N{\fnTahoma\fs14\bord1\3c&H400000&}What are you waiting for? We're not here for revenge, we just want some justification
+Dialogue: 0,0:33:06.01,0:33:09.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我知道 我是在考虑您跟师妹\N{\fnTahoma\fs14\bord1\3c&H400000&}I know, but I'm worried about you and Lan
+Dialogue: 0,0:33:10.04,0:33:10.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们不是问题\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't let us get in the way
+Dialogue: 0,0:33:12.21,0:33:14.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不是跟你讲过吗 不要担心我们\N{\fnTahoma\fs14\bord1\3c&H400000&}Didn't I tell you not to worry about us?
+Dialogue: 0,0:33:15.18,0:33:19.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}只要你把钟老头打败了 替爹报了仇 妈就开心\N{\fnTahoma\fs14\bord1\3c&H400000&}As long as you beat that old man in a fight to avenge dad Simo will be contented
+Dialogue: 0,0:33:21.01,0:33:25.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 我要真能看到你 为师门争回这口气\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Only if I witness that old man pay for his crime
+Dialogue: 0,0:33:26.35,0:33:27.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我死也瞑目了\N{\fnTahoma\fs14\bord1\3c&H400000&}will I be able to die in peace
+Dialogue: 0,0:33:28.72,0:33:31.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}您言重了 替师父报仇 是我的责任\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't say that, to avenge Sifu is my responsibility
+Dialogue: 0,0:33:31.72,0:33:33.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么时候去找他 您吩咐\N{\fnTahoma\fs14\bord1\3c&H400000&}Just tell me when
+Dialogue: 0,0:33:33.96,0:33:35.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好 明天天一亮就去找他\N{\fnTahoma\fs14\bord1\3c&H400000&}In the morning.
+Dialogue: 0,0:33:35.26,0:33:36.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,0:34:10.15,0:34:11.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就是这儿\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, we're here
+Dialogue: 0,0:34:14.38,0:34:16.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}百忍道场\N{\fnTahoma\fs14\bord1\3c&H400000&}PATIENCE CLAN
+Dialogue: 0,0:34:24.89,0:34:25.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请你通报一下\N{\fnTahoma\fs14\bord1\3c&H400000&}Can you announce our visit?
+Dialogue: 0,0:34:25.92,0:34:26.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please
+Dialogue: 0,0:34:44.77,0:34:45.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请你通报一下\N{\fnTahoma\fs14\bord1\3c&H400000&}Can you announce our visit?
+Dialogue: 0,0:34:45.63,0:34:46.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please
+Dialogue: 0,0:35:02.41,0:35:03.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please
+Dialogue: 0,0:35:16.35,0:35:17.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please
+Dialogue: 0,0:35:26.55,0:35:27.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄夫人 请坐\N{\fnTahoma\fs14\bord1\3c&H400000&}Madam, please be seated
+Dialogue: 0,0:35:29.59,0:35:30.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}难得你还记得我\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm surprised you still remember me
+Dialogue: 0,0:35:31.83,0:35:35.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}虽然事隔多年 我知道你们一定会来的\N{\fnTahoma\fs14\bord1\3c&H400000&}The incident might have happened years ago, but I knew you'd come
+Dialogue: 0,0:35:36.33,0:35:38.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你该知道我们为什么而来\N{\fnTahoma\fs14\bord1\3c&H400000&}You know why we're here?
+Dialogue: 0,0:35:39.87,0:35:40.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}知道\N{\fnTahoma\fs14\bord1\3c&H400000&}I know
+Dialogue: 0,0:35:40.77,0:35:42.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你也应该知道我们要的是什么\N{\fnTahoma\fs14\bord1\3c&H400000&}You must know what we want
+Dialogue: 0,0:35:43.20,0:35:45.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}当然 我更加知道\N{\fnTahoma\fs14\bord1\3c&H400000&}Of course. I know that very well
+Dialogue: 0,0:35:46.54,0:35:47.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还我们\N{\fnTahoma\fs14\bord1\3c&H400000&}Return it, then.
+Dialogue: 0,0:35:47.84,0:35:48.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一定还的\N{\fnTahoma\fs14\bord1\3c&H400000&}I will
+Dialogue: 0,0:35:48.94,0:35:49.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么时候\N{\fnTahoma\fs14\bord1\3c&H400000&}When?
+Dialogue: 0,0:35:49.84,0:35:50.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}三天后\N{\fnTahoma\fs14\bord1\3c&H400000&}In three days
+Dialogue: 0,0:35:50.71,0:35:51.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why?
+Dialogue: 0,0:35:51.70,0:35:53.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}因为那一天是 我难忘的日子\N{\fnTahoma\fs14\bord1\3c&H400000&}That's a special day for me
+Dialogue: 0,0:35:55.34,0:35:57.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}希望在那一天 我们能做了断\N{\fnTahoma\fs14\bord1\3c&H400000&}I want to settle our grievances on that day, once and for all
+Dialogue: 0,0:36:08.22,0:36:13.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们到底想怎么样 我们百忍堂决不会怕你们的\N{\fnTahoma\fs14\bord1\3c&H400000&}What else do you want? The Patience Clan is not afraid of you
+Dialogue: 0,0:36:14.09,0:36:15.57,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}秋萍 不要多讲\N{\fnTahoma\fs14\bord1\3c&H400000&}Chou Ping, don't be rude
+Dialogue: 0,0:36:18.09,0:36:20.78,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们几位可以宽限我三天吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Can you give me three more days?
+Dialogue: 0,0:36:25.89,0:36:26.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你讲话算数\N{\fnTahoma\fs14\bord1\3c&H400000&}You'll honour your words?
+Dialogue: 0,0:36:27.19,0:36:27.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}一言为定\N{\fnTahoma\fs14\bord1\3c&H400000&}I promise
+Dialogue: 0,0:36:28.53,0:36:29.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}在什么地方\N{\fnTahoma\fs14\bord1\3c&H400000&}Where?
+Dialogue: 0,0:36:29.90,0:36:30.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就在这里\N{\fnTahoma\fs14\bord1\3c&H400000&}Here
+Dialogue: 0,0:36:31.36,0:36:32.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好 准时拜访\N{\fnTahoma\fs14\bord1\3c&H400000&}OK, we'll come again
+Dialogue: 0,0:36:33.53,0:36:34.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 我们走\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, let's go
+Dialogue: 0,0:37:13.12,0:37:15.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你为什么不坐下来 走来走去干什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Have a seat. Why are you pacing around?
+Dialogue: 0,0:37:17.79,0:37:20.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我在想他们为什么 约我们三天之后了\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm wondering why they asked for three more days
+Dialogue: 0,0:37:20.96,0:37:24.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我也觉得很奇怪 他们人这么多 你真要小心啊\N{\fnTahoma\fs14\bord1\3c&H400000&}It puzzles me too We're outnumbered, you've got to be careful
+Dialogue: 0,0:37:25.93,0:37:26.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不会怕他们的\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm not afraid of them
+Dialogue: 0,0:37:28.07,0:37:31.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}反正这次来我不能要回唐山门的面子 我是不会回去的\N{\fnTahoma\fs14\bord1\3c&H400000&}I won't quit until I reinstate Tang San Clan's reputation
+Dialogue: 0,0:37:33.46,0:37:34.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是 师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}It's Simo
+Dialogue: 0,0:37:40.77,0:37:42.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 妈\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, what is it?
+Dialogue: 0,0:37:43.41,0:37:45.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我好痛啊\N{\fnTahoma\fs14\bord1\3c&H400000&}It hurts, it really hurts
+Dialogue: 0,0:37:51.58,0:37:52.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 你怎么啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, what happened?
+Dialogue: 0,0:37:54.92,0:38:00.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我 我 我这里好痛啊\N{\fnTahoma\fs14\bord1\3c&H400000&}I've got a pain here
+Dialogue: 0,0:38:00.71,0:38:01.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么会突然痛了\N{\fnTahoma\fs14\bord1\3c&H400000&}All of a sudden?
+Dialogue: 0,0:38:02.28,0:38:05.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我也不知道我喝了一杯茶\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't know why
+Dialogue: 0,0:38:06.55,0:38:07.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}一会就痛起来了\N{\fnTahoma\fs14\bord1\3c&H400000&}but I felt the pain after drinking that tea
+Dialogue: 0,0:38:16.83,0:38:17.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}有人来过没有\N{\fnTahoma\fs14\bord1\3c&H400000&}Has anyone been here?
+Dialogue: 0,0:38:18.47,0:38:19.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不知道\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't know
+Dialogue: 0,0:38:20.93,0:38:24.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好像有点脚步声 我以为是你\N{\fnTahoma\fs14\bord1\3c&H400000&}but I did hear footsteps I thought it was you two.
+Dialogue: 0,0:38:24.59,0:38:27.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我才出去一会 不会有人进来\N{\fnTahoma\fs14\bord1\3c&H400000&}We went out earlier, it couldn't have been
+Dialogue: 0,0:38:35.91,0:38:38.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥 你的手 我替你包起来\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll dress the wound for you
+Dialogue: 0,0:38:38.58,0:38:40.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要紧 你照顾师娘 我擦点药就好\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't bother. I'll just apply some lotion
+Dialogue: 0,0:39:05.51,0:39:06.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}贵姓\N{\fnTahoma\fs14\bord1\3c&H400000&}Who are you?
+Dialogue: 0,0:39:08.48,0:39:10.57,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}百忍道场大弟子 方刚\N{\fnTahoma\fs14\bord1\3c&H400000&}The most senior student of Patience Clan. Fong Kong
+Dialogue: 0,0:39:11.85,0:39:13.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}半夜三更的 你来干什么\N{\fnTahoma\fs14\bord1\3c&H400000&}What are you doing here in the middle of the night?
+Dialogue: 0,0:39:14.27,0:39:16.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我来问你我师父 到底欠了你什么\N{\fnTahoma\fs14\bord1\3c&H400000&}I want to know what my Sifu owes you?
+Dialogue: 0,0:39:19.05,0:39:20.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}三年前 你不是亲眼看见的吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Didn't you see it three years ago?
+Dialogue: 0,0:39:23.48,0:39:25.75,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那只怪你们唐山 武学技不如人\N{\fnTahoma\fs14\bord1\3c&H400000&}That's only because the Tang San Clan's Kung Fu is lousy
+Dialogue: 0,0:39:27.75,0:39:29.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}所以我这次来要为师门讨回公道\N{\fnTahoma\fs14\bord1\3c&H400000&}That's why I'm here to to reinstate our name fairly
+Dialogue: 0,0:39:30.56,0:39:31.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么样才算公道\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you consider fair?
+Dialogue: 0,0:39:32.06,0:39:33.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}用我们唐山拳会他的三弹腿\N{\fnTahoma\fs14\bord1\3c&H400000&}To pit my Tang San Fist against your Snapping Kicks
+Dialogue: 0,0:39:35.80,0:39:36.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}要是你输了呢\N{\fnTahoma\fs14\bord1\3c&H400000&}What if you lose?
+Dialogue: 0,0:39:37.50,0:39:40.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}任凭处置 要是我赢呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Do what you want with me What if I win?
+Dialogue: 0,0:39:40.86,0:39:41.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你想怎么样\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you want?
+Dialogue: 0,0:39:42.26,0:39:42.85,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}问你师父去\N{\fnTahoma\fs14\bord1\3c&H400000&}Go and ask your Sifu
+Dialogue: 0,0:39:44.19,0:39:46.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}在问我师父前 先问问我\N{\fnTahoma\fs14\bord1\3c&H400000&}Before going to my Sifu, you'll need my permission
+Dialogue: 0,0:39:47.06,0:39:48.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}想打架 外面去\N{\fnTahoma\fs14\bord1\3c&H400000&}If you want to fight, let's go outside
+Dialogue: 0,0:41:06.08,0:41:07.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这算不算问过你\N{\fnTahoma\fs14\bord1\3c&H400000&}Do I get your permission now?
+Dialogue: 0,0:41:42.47,0:41:44.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么吃了亏回来了\N{\fnTahoma\fs14\bord1\3c&H400000&}So? Lost the fight?
+Dialogue: 0,0:41:46.97,0:41:48.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 你怎么知道的\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, how do you know?
+Dialogue: 0,0:41:50.44,0:41:51.96,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你有什么可以瞒得过我\N{\fnTahoma\fs14\bord1\3c&H400000&}You can't hide anything from me
+Dialogue: 0,0:41:54.41,0:41:55.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么不听我的话\N{\fnTahoma\fs14\bord1\3c&H400000&}Why didn't you listen to me?
+Dialogue: 0,0:41:59.61,0:42:03.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 你是以武技打败庄三泰 我们并没有错啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, you beat Sam Tai fairly. What's wrong with that?
+Dialogue: 0,0:42:04.45,0:42:08.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么你老是觉得欠他的一样 怕他怕成这个样子\N{\fnTahoma\fs14\bord1\3c&H400000&}Why do you have to give in to their claims? Why are you afraid of them?
+Dialogue: 0,0:42:10.78,0:42:13.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不会明白 是我欠他的\N{\fnTahoma\fs14\bord1\3c&H400000&}It's my duty to them
+Dialogue: 0,0:42:14.28,0:42:17.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算你欠他的 弟子有责任替师父还债\N{\fnTahoma\fs14\bord1\3c&H400000&}Whatever you owe them, I'm obliged to repay them
+Dialogue: 0,0:42:20.36,0:42:22.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你刚才还没让他打够吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Didn't you get enough earlier?
+Dialogue: 0,0:42:24.29,0:42:28.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}所以请师父教弟子绝技三弹腿 弟子一定要跟他去拼\N{\fnTahoma\fs14\bord1\3c&H400000&}That's why I'd like to ask you, Sifu, to teach me the Snapping Kicks I want to fight him to the end
+Dialogue: 0,0:42:30.47,0:42:33.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么你总是让我教你三弹腿呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Why are you so interested in Snapping Kicks?
+Dialogue: 0,0:42:36.66,0:42:39.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云不是猛龙不过江\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen won't be here unless he's fully prepared
+Dialogue: 0,0:42:40.20,0:42:43.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算我的三弹腿 也未必打得过他\N{\fnTahoma\fs14\bord1\3c&H400000&}The Snapping Kicks might be of no threat to him
+Dialogue: 0,0:42:49.21,0:42:52.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么我不如他 为什么我不如他\N{\fnTahoma\fs14\bord1\3c&H400000&}Why can't I match up to him? Why?
+Dialogue: 0,0:42:55.55,0:42:58.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这种私人的恩怨何必放在心上\N{\fnTahoma\fs14\bord1\3c&H400000&}We shouldn't let these personal matters affect us
+Dialogue: 0,0:42:58.71,0:43:04.08,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}现在最重要的是找出魏友危害地方的证据 将许胖子找出来\N{\fnTahoma\fs14\bord1\3c&H400000&}The most important thing now is to look for evidence against the Ngais We must find Fatty Hui
+Dialogue: 0,0:43:04.85,0:43:09.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}方刚 如果你诚心替师父做事 就将许胖子找出来\N{\fnTahoma\fs14\bord1\3c&H400000&}If you want to be of help to Sifu, go and find Fatty Hui
+Dialogue: 0,0:43:12.26,0:43:13.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你办得到吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Can you do it?
+Dialogue: 0,0:43:13.89,0:43:16.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我办得到 我一定找他出来\N{\fnTahoma\fs14\bord1\3c&H400000&}Definitely. I'll find him
+Dialogue: 0,0:43:24.91,0:43:25.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么没人呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Why is there no one here?
+Dialogue: 0,0:43:26.28,0:43:28.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不用怕 就算有埋伏 也不用怕他们\N{\fnTahoma\fs14\bord1\3c&H400000&}We've nothing to worry about
+Dialogue: 0,0:43:49.42,0:43:50.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我唐浩云来了\N{\fnTahoma\fs14\bord1\3c&H400000&}I, Tang How Yuen. Am here
+Dialogue: 0,0:43:59.43,0:44:00.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way, please
+Dialogue: 0,0:44:45.03,0:44:45.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}This way
+Dialogue: 0,0:44:45.63,0:44:46.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}Over there
+Dialogue: 0,0:44:54.97,0:44:56.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹 他们已经到了\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, they're here.
+Dialogue: 0,0:44:57.14,0:44:58.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请他们进来\N{\fnTahoma\fs14\bord1\3c&H400000&}Show them in
+Dialogue: 0,0:45:01.07,0:45:01.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请\N{\fnTahoma\fs14\bord1\3c&H400000&}Please go in
+Dialogue: 0,0:45:07.14,0:45:08.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请进\N{\fnTahoma\fs14\bord1\3c&H400000&}Come in. Please
+Dialogue: 0,0:45:20.78,0:45:22.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}秋萍 你出去\N{\fnTahoma\fs14\bord1\3c&H400000&}Chou Ping, you can go now
+Dialogue: 0,0:45:29.03,0:45:30.21,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad.
+Dialogue: 0,0:45:30.42,0:45:31.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}出去\N{\fnTahoma\fs14\bord1\3c&H400000&}Go now
+Dialogue: 0,0:45:32.02,0:45:32.75,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}OK
+Dialogue: 0,0:45:35.76,0:45:36.85,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}把门关上\N{\fnTahoma\fs14\bord1\3c&H400000&}Close the door.
+Dialogue: 0,0:45:36.86,0:45:37.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}OK
+Dialogue: 0,0:45:41.96,0:45:46.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟剑钧 你把我们带到这里来 好像不是个理想的地方\N{\fnTahoma\fs14\bord1\3c&H400000&}Chung, this doesn't look like an ideal place to settle our score
+Dialogue: 0,0:45:47.13,0:45:49.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是一个可以了断过节的场所\N{\fnTahoma\fs14\bord1\3c&H400000&}This is the best place to let bygones be bygones
+Dialogue: 0,0:45:51.14,0:45:53.96,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今日是我亡妻 三周年的忌日\N{\fnTahoma\fs14\bord1\3c&H400000&}Today is the third anniversary of my wife's death
+Dialogue: 0,0:45:54.86,0:45:57.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对我来讲是个很重大的日子\N{\fnTahoma\fs14\bord1\3c&H400000&}It's an important date to me
+Dialogue: 0,0:46:00.64,0:46:03.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我认为今日在我亡妻的灵前\N{\fnTahoma\fs14\bord1\3c&H400000&}Right here at the shrine of my late wife
+Dialogue: 0,0:46:04.27,0:46:10.61,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}了断我们之间的过节 是一个很恰当的地方 你们想怎么样\N{\fnTahoma\fs14\bord1\3c&H400000&}is the best place to settle our score What do you think?
+Dialogue: 0,0:46:11.41,0:46:13.21,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今天我们要把账总算一下\N{\fnTahoma\fs14\bord1\3c&H400000&}We have to settle all our grievances today
+Dialogue: 0,0:46:14.22,0:46:16.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}首先 你给我把这个还原\N{\fnTahoma\fs14\bord1\3c&H400000&}For a start, you've got to restore this
+Dialogue: 0,0:46:21.08,0:46:24.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}匾已破 叫我怎么样还原\N{\fnTahoma\fs14\bord1\3c&H400000&}The board is already broken. How can I restore it?
+Dialogue: 0,0:46:35.90,0:46:38.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐山武馆\N{\fnTahoma\fs14\bord1\3c&H400000&}TANG SAN CLAN
+Dialogue: 0,0:46:42.80,0:46:45.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请你们看看那个箱子\N{\fnTahoma\fs14\bord1\3c&H400000&}Please open the chest there
+Dialogue: 0,0:47:03.01,0:47:07.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我这样做也不能减轻我内心的惭愧\N{\fnTahoma\fs14\bord1\3c&H400000&}I did that to alleviate the remorse I feel
+Dialogue: 0,0:47:11.71,0:47:13.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那 那条腿\N{\fnTahoma\fs14\bord1\3c&H400000&}And the leg?
+Dialogue: 0,0:47:19.92,0:47:22.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我当年气盛铸成大错\N{\fnTahoma\fs14\bord1\3c&H400000&}I'd been blinded by the lure of power and done you wrong
+Dialogue: 0,0:47:23.96,0:47:25.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}内疚于心\N{\fnTahoma\fs14\bord1\3c&H400000&}I deeply regret what I've done
+Dialogue: 0,0:47:28.13,0:47:31.96,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今日见到你们 心里反为踏实了\N{\fnTahoma\fs14\bord1\3c&H400000&}Seeing you today makes me feel much better
+Dialogue: 0,0:47:34.27,0:47:36.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你想用苦肉计博取我们的同情\N{\fnTahoma\fs14\bord1\3c&H400000&}You're using tricks to get our compassion
+Dialogue: 0,0:47:38.76,0:47:42.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我钟剑钧难道不应该奉上金匾一方 自断一腿\N{\fnTahoma\fs14\bord1\3c&H400000&}I've presented you with a golden board and my own leg as an apology
+Dialogue: 0,0:47:43.87,0:47:46.17,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}向九泉之下的人谢罪吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Is that not enough?
+Dialogue: 0,0:47:52.44,0:47:56.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我将百胜门的胜字改为忍字\N{\fnTahoma\fs14\bord1\3c&H400000&}I've also changed my clan's name from Champion to Patience
+Dialogue: 0,0:47:57.48,0:47:58.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就是要等今日\N{\fnTahoma\fs14\bord1\3c&H400000&}All just for today
+Dialogue: 0,0:48:00.34,0:48:03.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们想怎么样处置我 就动手吧\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll pay for my mistake Go ahead
+Dialogue: 0,0:48:06.65,0:48:07.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}住手\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop
+Dialogue: 0,0:48:08.28,0:48:13.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟剑钧 我们之间的过节算了\N{\fnTahoma\fs14\bord1\3c&H400000&}Chung, that's all I need to know. We've settled our score
+Dialogue: 0,0:48:14.32,0:48:17.08,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}算了 师娘 我们千里迢迢到这里来\N{\fnTahoma\fs14\bord1\3c&H400000&}Is that it? Simo, we've waited all this time for today
+Dialogue: 0,0:48:17.39,0:48:19.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}算了\N{\fnTahoma\fs14\bord1\3c&H400000&}Enough
+Dialogue: 0,0:48:27.06,0:48:30.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥 我也想报杀父之仇\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. I want to avenge my father too
+Dialogue: 0,0:48:33.03,0:48:37.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}可是你能欺负一个不还手的残废吗\N{\fnTahoma\fs14\bord1\3c&H400000&}But, how could you lay hands on someone who can't fight back?
+Dialogue: 0,0:48:52.69,0:48:53.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不公道\N{\fnTahoma\fs14\bord1\3c&H400000&}That's not fair.
+Dialogue: 0,0:48:55.33,0:48:56.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不公道\N{\fnTahoma\fs14\bord1\3c&H400000&}That's not fair
+Dialogue: 0,0:48:58.06,0:48:58.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这消息靠得住吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Is the news reliable?
+Dialogue: 0,0:48:59.20,0:49:01.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是小三子亲口告诉我的\N{\fnTahoma\fs14\bord1\3c&H400000&}I heard it from Sun
+Dialogue: 0,0:49:01.90,0:49:05.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他们的过节一了 姓唐的不是可以回唐山了吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Is How Yuen going to leave after this?
+Dialogue: 0,0:49:05.70,0:49:08.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}您放心 他走不了的\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't worry, he won't leave
+Dialogue: 0,0:49:10.21,0:49:10.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why?
+Dialogue: 0,0:49:12.21,0:49:14.51,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}老大 我这个赛孔明\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro, I've already
+Dialogue: 0,0:49:14.78,0:49:17.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是早有妙计巧安排的\N{\fnTahoma\fs14\bord1\3c&H400000&}set other plans in motion that will benefit us
+Dialogue: 0,0:49:18.54,0:49:20.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你别跟我酸溜溜的 到底搞什么鬼\N{\fnTahoma\fs14\bord1\3c&H400000&}What have you done now?
+Dialogue: 0,0:49:20.94,0:49:22.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我用的是借刀杀人之计\N{\fnTahoma\fs14\bord1\3c&H400000&}Practising the art of manipulation
+Dialogue: 0,0:49:23.31,0:49:27.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还要他自己送上门来 姓唐的是三国的赵云\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen is rumoured to be one of the best fighters around
+Dialogue: 0,0:49:28.31,0:49:31.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这一员猛将 很快的就会来给你效命的啦\N{\fnTahoma\fs14\bord1\3c&H400000&}He'll soon be of service to you
+Dialogue: 0,0:49:43.45,0:49:45.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大夫 好点了吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Doctor, is she OK?
+Dialogue: 0,0:49:48.99,0:49:50.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看这个方子不用开了\N{\fnTahoma\fs14\bord1\3c&H400000&}No medicine can help her now
+Dialogue: 0,0:49:51.29,0:49:52.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么没得治了\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you mean?
+Dialogue: 0,0:49:53.56,0:49:58.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}她得的是怪病 这种普通药吃多了也没有用\N{\fnTahoma\fs14\bord1\3c&H400000&}She has a strange disease. None of the medicine works on her
+Dialogue: 0,0:49:59.10,0:50:01.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大夫 麻烦你勉为其难再开个方子吧\N{\fnTahoma\fs14\bord1\3c&H400000&}Doctor, please give my mum another course of medicine
+Dialogue: 0,0:50:02.87,0:50:04.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我开方子也没有用啊\N{\fnTahoma\fs14\bord1\3c&H400000&}As I've said, no medicine seems to work on her
+Dialogue: 0,0:50:05.01,0:50:09.16,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}除非能求得魏府的家传秘方 也许有救\N{\fnTahoma\fs14\bord1\3c&H400000&}Unless you can get hold of the secret medicine from the Ngais. That might work
+Dialogue: 0,0:50:10.00,0:50:13.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大夫 请你帮忙去求一求 多少钱我都给\N{\fnTahoma\fs14\bord1\3c&H400000&}Doctor, please help us. Money is not a problem
+Dialogue: 0,0:50:13.67,0:50:16.94,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎 人家是大财主 在乎钱吗\N{\fnTahoma\fs14\bord1\3c&H400000&}The Ngais are very wealthy, they don't need your money
+Dialogue: 0,0:50:17.88,0:50:21.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你带我去求一求 只要能治好师娘的病 为他作牛作马都行\N{\fnTahoma\fs14\bord1\3c&H400000&}Please bring me to them, I'll do anything to help Simo recover
+Dialogue: 0,0:50:22.48,0:50:25.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好 我可以带你去试试\N{\fnTahoma\fs14\bord1\3c&H400000&}OK, I'll try my best
+Dialogue: 0,0:50:36.09,0:50:37.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你有什么事吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen. Can I help you?
+Dialogue: 0,0:50:37.65,0:50:40.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}请你通报一身声 我要见你们魏大爷\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm here to see Master Ngai
+Dialogue: 0,0:50:40.22,0:50:42.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}您还用通报啊 请进 请进\N{\fnTahoma\fs14\bord1\3c&H400000&}We're expecting you. This way
+Dialogue: 0,0:51:33.52,0:51:35.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏大爷 唐师父来见您\N{\fnTahoma\fs14\bord1\3c&H400000&}Master Ngai, Sifu Tang is here to see you
+Dialogue: 0,0:51:37.39,0:51:39.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么风把你吹来的 请进 请进\N{\fnTahoma\fs14\bord1\3c&H400000&}What a surprise. This way, please
+Dialogue: 0,0:51:44.63,0:51:45.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}坐\N{\fnTahoma\fs14\bord1\3c&H400000&}Have a seat.
+Dialogue: 0,0:51:45.54,0:51:46.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谢谢魏大爷的药 这点薄礼\N{\fnTahoma\fs14\bord1\3c&H400000&}Thank you for the medicine Something for you.
+Dialogue: 0,0:51:47.09,0:51:50.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你还这么客气干什么 坐 坐\N{\fnTahoma\fs14\bord1\3c&H400000&}You're too polite Please have a seat
+Dialogue: 0,0:51:55.60,0:51:56.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么 药丸还有效吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Was the medicine effective?
+Dialogue: 0,0:51:57.04,0:51:58.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}有效 一吃心口就不痛了\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes, the pain in the chest is gone now
+Dialogue: 0,0:51:59.54,0:52:03.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那就好 这药是魏家的祖传秘方 我很少送给人的\N{\fnTahoma\fs14\bord1\3c&H400000&}Great, the medicine has been passed down for generations I don't normally give it away
+Dialogue: 0,0:52:03.91,0:52:07.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是 我今天来就是想请您多给一点\N{\fnTahoma\fs14\bord1\3c&H400000&}I understand but I really do need more of it
+Dialogue: 0,0:52:08.08,0:52:13.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}当然不能说是跟您买了 但是 我得意思意思 请您出个价钱\N{\fnTahoma\fs14\bord1\3c&H400000&}Medicine like that should be priceless but I hope you can name a token price so I can get more of it
+Dialogue: 0,0:52:14.28,0:52:16.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不是钱的问题\N{\fnTahoma\fs14\bord1\3c&H400000&}Money is not a problem but we do have limited stock
+Dialogue: 0,0:52:16.55,0:52:20.21,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我也只剩这么多 我怕你们回到唐山病又发了怎么办\N{\fnTahoma\fs14\bord1\3c&H400000&}What if she falls sick again after you return to Tang San
+Dialogue: 0,0:52:22.59,0:52:24.61,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}真是的 路又那么远\N{\fnTahoma\fs14\bord1\3c&H400000&}You've a point. It's a long journey too
+Dialogue: 0,0:52:25.92,0:52:27.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我当然不能把秘方送给你\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm sorry but I can't give you the recipe
+Dialogue: 0,0:52:32.80,0:52:34.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我倒有个两全的办法\N{\fnTahoma\fs14\bord1\3c&H400000&}I've got a good idea. You can stay here for a while
+Dialogue: 0,0:52:34.93,0:52:37.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们先暂时住在这儿 你们的生活由我照看\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll pay for your upkeep What do you think?
+Dialogue: 0,0:52:42.13,0:52:46.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我知道你功夫不错 而我这儿呢也正缺人手\N{\fnTahoma\fs14\bord1\3c&H400000&}I know that your Kung Fu is not bad It just so happens that I need some help too
+Dialogue: 0,0:52:47.97,0:52:51.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你要明白 我大哥一生爱才他是提拔你的\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro likes to nurture raw talents like yours
+Dialogue: 0,0:52:52.97,0:52:55.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们赶着回唐山 我师娘想家\N{\fnTahoma\fs14\bord1\3c&H400000&}We want to return to Tang San as soon as we can. Simo is homesick
+Dialogue: 0,0:52:56.01,0:52:56.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}病了怎么走啊\N{\fnTahoma\fs14\bord1\3c&H400000&}She's too ill to walk
+Dialogue: 0,0:52:57.51,0:53:02.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们安心住下去 等你师娘病好了再走 我绝不留你们\N{\fnTahoma\fs14\bord1\3c&H400000&}You're welcome to stay here until she's fully recovered
+Dialogue: 0,0:53:03.91,0:53:06.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是我大哥一番好意呀 你就交个朋友啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro has a kind heart. He just wants to be friends
+Dialogue: 0,0:53:07.91,0:53:08.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那你们要我做什么呢\N{\fnTahoma\fs14\bord1\3c&H400000&}What can I do for you in return?
+Dialogue: 0,0:53:09.78,0:53:14.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对付百忍道场 他们人多功夫好 一直欺负我们\N{\fnTahoma\fs14\bord1\3c&H400000&}Help us to defeat the Patience Clan. They've been bullying us
+Dialogue: 0,0:53:14.25,0:53:18.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}希望以后你能主持公道\N{\fnTahoma\fs14\bord1\3c&H400000&}We hope that you'll help us gain justice
+Dialogue: 0,0:53:18.79,0:53:21.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还有 听说你是因为钟老头是个残废而不忍下手\N{\fnTahoma\fs14\bord1\3c&H400000&}We heard that you let Chung go because he's handicapped
+Dialogue: 0,0:53:21.79,0:53:25.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}其实 他那条腿不是因为你们断的\N{\fnTahoma\fs14\bord1\3c&H400000&}He didn't chop off his leg for you
+Dialogue: 0,0:53:25.80,0:53:29.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他知道他打不过你 故意装成可怜的样子 使你就无法下手\N{\fnTahoma\fs14\bord1\3c&H400000&}He knows that he can't beat you so he tried to get your sympathy
+Dialogue: 0,0:53:29.92,0:53:31.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哎呀 你上当了\N{\fnTahoma\fs14\bord1\3c&H400000&}You've fallen for his dirty trick
+Dialogue: 0,0:53:34.33,0:53:38.32,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}药丸只剩这么点了 你先带回去 我立刻派人去给你配\N{\fnTahoma\fs14\bord1\3c&H400000&}That's all the medicine I have now Take this first, I'll get my man to make more
+Dialogue: 0,0:54:28.39,0:54:29.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}够了\N{\fnTahoma\fs14\bord1\3c&H400000&}Enough
+Dialogue: 0,0:54:31.56,0:54:34.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今天看在唐师父的面子 只要你一条腿\N{\fnTahoma\fs14\bord1\3c&H400000&}Because of Sifu Tang, we'll only break one of your legs today
+Dialogue: 0,0:54:35.07,0:54:39.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}明天你们四兄弟不把茶园的地契送到魏家\N{\fnTahoma\fs14\bord1\3c&H400000&}Bring your lease contract to the Ngais tomorrow
+Dialogue: 0,0:54:39.37,0:54:40.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就要你们的命\N{\fnTahoma\fs14\bord1\3c&H400000&}or you won't live
+Dialogue: 0,0:54:40.71,0:54:41.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}听到没有\N{\fnTahoma\fs14\bord1\3c&H400000&}to see another day
+Dialogue: 0,0:54:42.43,0:54:43.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐师父 请\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu Tang, our business here is done
+Dialogue: 0,0:55:23.86,0:55:25.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}限你们三天搬离此地\N{\fnTahoma\fs14\bord1\3c&H400000&}We want you to be gone in three days
+Dialogue: 0,0:55:26.60,0:55:29.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们这样无法无天 我们要去找钟老爷评评理\N{\fnTahoma\fs14\bord1\3c&H400000&}You guys are ruthless. I'll report this to Master Chung
+Dialogue: 0,0:55:30.14,0:55:31.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就是要你们去\N{\fnTahoma\fs14\bord1\3c&H400000&}That's what we want
+Dialogue: 0,0:55:44.47,0:55:45.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 你慢点走\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Please wait
+Dialogue: 0,0:55:48.51,0:55:49.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我是故意在这儿等你的\N{\fnTahoma\fs14\bord1\3c&H400000&}I've been waiting for you
+Dialogue: 0,0:55:51.71,0:55:52.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}What can I do for you?
+Dialogue: 0,0:55:54.42,0:55:56.85,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我实在不敢相信 你在跟魏家做事\N{\fnTahoma\fs14\bord1\3c&H400000&}I can't believe you're working for the Ngais now
+Dialogue: 0,0:55:58.24,0:55:59.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不错 我是在替他做事\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm definitely working for the Ngais
+Dialogue: 0,0:56:00.51,0:56:01.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不要再继续做下去\N{\fnTahoma\fs14\bord1\3c&H400000&}You've got to stop.
+Dialogue: 0,0:56:02.72,0:56:03.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还要\N{\fnTahoma\fs14\bord1\3c&H400000&}I won't
+Dialogue: 0,0:56:03.88,0:56:07.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你要是不了解魏苍龙的为人 我可以告诉你\N{\fnTahoma\fs14\bord1\3c&H400000&}If you want to know more about the Ngais, I can tell you
+Dialogue: 0,0:56:07.89,0:56:09.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不必\N{\fnTahoma\fs14\bord1\3c&H400000&}No need
+Dialogue: 0,0:56:10.66,0:56:12.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他是专门跟我们百忍堂为敌的\N{\fnTahoma\fs14\bord1\3c&H400000&}He's the Patience Clan's arch enemy
+Dialogue: 0,0:56:13.59,0:56:14.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我无可选择\N{\fnTahoma\fs14\bord1\3c&H400000&}I've no other choice
+Dialogue: 0,0:56:18.43,0:56:21.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}最好你不要去惹他\N{\fnTahoma\fs14\bord1\3c&H400000&}You shouldn't provoke him in the future
+Dialogue: 0,0:56:23.29,0:56:26.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我真是不明白我们之间还有什么仇怨呢\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't understand, I thought we'd settled all our scores
+Dialogue: 0,0:56:29.57,0:56:31.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你真的想知道\N{\fnTahoma\fs14\bord1\3c&H400000&}Do you really want to know?
+Dialogue: 0,0:56:32.24,0:56:33.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}当然啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Of course
+Dialogue: 0,0:56:34.17,0:56:36.54,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}很简单 我师父已经死啦\N{\fnTahoma\fs14\bord1\3c&H400000&}It's simple. My Sifu is dead
+Dialogue: 0,0:56:37.47,0:56:41.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你爹虽然断了一条腿 还活着\N{\fnTahoma\fs14\bord1\3c&H400000&}and even though your dad has lost a leg, he's still alive
+Dialogue: 0,0:56:43.91,0:56:44.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}明白了吧\N{\fnTahoma\fs14\bord1\3c&H400000&}Get it now?
+Dialogue: 0,0:56:45.48,0:56:49.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怪不得你不回唐山 怪不得你要替魏家做事\N{\fnTahoma\fs14\bord1\3c&H400000&}No wonder you've not gone back to Tang San No wonder you work for the Ngais
+Dialogue: 0,0:56:50.98,0:56:53.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我爹跟我们说过很多次 不许我们恨你\N{\fnTahoma\fs14\bord1\3c&H400000&}My dad always asks us not to hate you
+Dialogue: 0,0:56:54.55,0:56:56.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一直认为 你是光明正大的男子汉\N{\fnTahoma\fs14\bord1\3c&H400000&}I thought you were a man of your word
+Dialogue: 0,0:56:57.92,0:57:00.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}想不到你是 我恨你 恨你\N{\fnTahoma\fs14\bord1\3c&H400000&}But you're not. I hate you, I hate you
+Dialogue: 0,0:57:36.28,0:57:37.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是你\N{\fnTahoma\fs14\bord1\3c&H400000&}It's you.
+Dialogue: 0,0:57:37.28,0:57:38.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我恨死你\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll kill you
+Dialogue: 0,0:57:50.28,0:57:51.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}南英青\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop fighting
+Dialogue: 0,0:57:56.79,0:57:58.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要再打了 不要打了\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop fighting, stop fighting
+Dialogue: 0,0:57:59.79,0:58:02.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要打了 不要打了 你们不要再打了\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop, you two stop fighting
+Dialogue: 0,0:58:09.73,0:58:10.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你还不快点走\N{\fnTahoma\fs14\bord1\3c&H400000&}Go now
+Dialogue: 0,0:58:31.97,0:58:35.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 这是您喜欢吃的果子 这两块衣料是买给你的\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, your favourite cake This fabric is for you
+Dialogue: 0,0:58:37.04,0:58:38.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这个颜色我喜欢\N{\fnTahoma\fs14\bord1\3c&H400000&}I like the colour. It's nice
+Dialogue: 0,0:58:39.35,0:58:40.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 您的药\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo, more medicine
+Dialogue: 0,0:58:40.88,0:58:43.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}正好 药昨天我刚刚吃完了\N{\fnTahoma\fs14\bord1\3c&H400000&}I've just finished mine as well
+Dialogue: 0,0:58:44.02,0:58:46.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}吃完了 上次给的一百粒没有几天吗\N{\fnTahoma\fs14\bord1\3c&H400000&}That's quick, I gave you a hundred tablets last time
+Dialogue: 0,0:58:47.02,0:58:52.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我也不知道 以前每次吃三颗就不痛了 现在啊 吃六颗都止不住\N{\fnTahoma\fs14\bord1\3c&H400000&}I've increased the dosage from three to six tablets to relieve the pain
+Dialogue: 0,0:58:52.83,0:58:53.94,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}妈 你怎么没告诉我\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum, why didn't you tell me?
+Dialogue: 0,0:58:55.55,0:58:58.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我的病 已经把你们都烦死了\N{\fnTahoma\fs14\bord1\3c&H400000&}My illness has troubled you two enough So what if I need to take more medicine?
+Dialogue: 0,0:58:58.82,0:59:03.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}说来干什么 多吃就多吃点 好啦 只要不痛就是了嘛\N{\fnTahoma\fs14\bord1\3c&H400000&}As long as I'm not in pain. There's no reason to tell you
+Dialogue: 0,0:59:05.83,0:59:09.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}越吃越多 这也不是个办法啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Having to increase your dosage that's not an ideal solution
+Dialogue: 0,0:59:11.10,0:59:13.93,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 魏财主真是个好人\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Ngai is really a good guy
+Dialogue: 0,0:59:14.67,0:59:17.19,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}可是我常常这样麻烦人家也不是个事\N{\fnTahoma\fs14\bord1\3c&H400000&}We've troubled them long enough
+Dialogue: 0,0:59:18.07,0:59:22.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}能不能这样 求他把方子给我们 我们自己去配就好了\N{\fnTahoma\fs14\bord1\3c&H400000&}Why don't we ask them for the recipe and make the medicine when we're back home?
+Dialogue: 0,0:59:24.77,0:59:28.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我每次问他拿这个药都不容易 秘方他不肯给\N{\fnTahoma\fs14\bord1\3c&H400000&}He's refused me a number of times I don't understand why?
+Dialogue: 0,0:59:29.08,0:59:33.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那怎么办呢 为了这个病 我们几时才能回唐山了\N{\fnTahoma\fs14\bord1\3c&H400000&}What can we do? My illness has kept us here When can we return to Tang San?
+Dialogue: 0,0:59:34.78,0:59:38.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 您放心 我在帮他们做事 药他一定会给我的\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't worry, Simo I'm working for them now, we'll have no problem getting the medicine
+Dialogue: 0,0:59:38.92,0:59:40.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我总会想办法尽快回唐山的\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll think of a way to get us back to Tang San as soon as possible
+Dialogue: 0,0:59:43.19,0:59:44.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我先回房了\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll go and rest now.
+Dialogue: 0,0:59:49.35,0:59:50.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云 唐浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen
+Dialogue: 0,0:59:54.69,0:59:56.06,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这么大声叫我 什么事啊\N{\fnTahoma\fs14\bord1\3c&H400000&}You don't need to shout. What is it?
+Dialogue: 0,0:59:56.39,0:59:57.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们大哥找你\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro's looking for you
+Dialogue: 0,0:59:58.93,0:59:59.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}天都黑了\N{\fnTahoma\fs14\bord1\3c&H400000&}It's late now.
+Dialogue: 0,1:00:00.00,1:00:01.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大概有要紧的事情吧\N{\fnTahoma\fs14\bord1\3c&H400000&}It's important
+Dialogue: 0,1:00:02.33,1:00:03.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这个\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's see...
+Dialogue: 0,1:00:03.70,1:00:04.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Come on Mum,
+Dialogue: 0,1:00:05.70,1:00:10.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}妈 你有没有看出来 师哥心里好像有什么话说不出来\N{\fnTahoma\fs14\bord1\3c&H400000&}have you noticed? How Yuen seems to be hiding something
+Dialogue: 0,1:00:12.06,1:00:14.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}自从你爹死了之后 多亏了他\N{\fnTahoma\fs14\bord1\3c&H400000&}He's been a great help since your dad died
+Dialogue: 0,1:00:15.00,1:00:18.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算我亲生的儿子 也不会待我们这么好的\N{\fnTahoma\fs14\bord1\3c&H400000&}He treats me better than any son treats their mother
+Dialogue: 0,1:00:26.21,1:00:26.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么事啊\N{\fnTahoma\fs14\bord1\3c&H400000&}What's up?
+Dialogue: 0,1:00:33.45,1:00:34.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哥哥 你上哪儿去呀\N{\fnTahoma\fs14\bord1\3c&H400000&}Brother, where are you going?
+Dialogue: 0,1:00:35.44,1:00:36.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你睡觉 我们就回来\N{\fnTahoma\fs14\bord1\3c&H400000&}Sleep tight, we'll be back soon
+Dialogue: 0,1:00:45.99,1:00:48.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我查到了今天魏家走私的地方 我们去抓去\N{\fnTahoma\fs14\bord1\3c&H400000&}I know where the Ngais are loading their stuff, let's catch them
+Dialogue: 0,1:00:48.72,1:00:50.16,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那还不告诉师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's tell Sifu
+Dialogue: 0,1:00:51.43,1:00:55.80,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不用告诉他老人家 又要说忍啊忍啊不许干 我们先干了再说\N{\fnTahoma\fs14\bord1\3c&H400000&}If we tell him, he'll ask us to be patient We'll inform him later.
+Dialogue: 0,1:01:14.51,1:01:15.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就在前面 小心点\N{\fnTahoma\fs14\bord1\3c&H400000&}This way
+Dialogue: 0,1:02:05.84,1:02:07.14,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快\N{\fnTahoma\fs14\bord1\3c&H400000&}Hurry up
+Dialogue: 0,1:02:12.41,1:02:13.39,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快\N{\fnTahoma\fs14\bord1\3c&H400000&}Quickly!
+Dialogue: 0,1:02:15.84,1:02:16.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}站住\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't move
+Dialogue: 0,1:02:20.48,1:02:22.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们在干什么 今天 总算给我们抓到了\N{\fnTahoma\fs14\bord1\3c&H400000&}What are you doing? Finally got caught in the act?
+Dialogue: 0,1:02:24.35,1:02:27.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}本少爷要干什么就干什么 你管得着吗 上\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll do what I want, it's none of your business
+Dialogue: 0,1:03:19.65,1:03:20.74,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go
+Dialogue: 0,1:03:22.79,1:03:23.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不准走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's split up
+Dialogue: 0,1:03:33.22,1:03:34.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}搜\N{\fnTahoma\fs14\bord1\3c&H400000&}Search
+Dialogue: 0,1:03:39.99,1:03:41.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这么晚了还有什么事\N{\fnTahoma\fs14\bord1\3c&H400000&}It's getting late, what do you want?
+Dialogue: 0,1:03:42.16,1:03:46.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今晚上有一批贷要在这儿交 大哥怕有意外所以叫你来看看\N{\fnTahoma\fs14\bord1\3c&H400000&}We've got a transaction tonight Big Bro wants you here to make sure nothing goes wrong
+Dialogue: 0,1:03:49.87,1:03:51.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是谁家的小孩 睡在这个地方\N{\fnTahoma\fs14\bord1\3c&H400000&}It's too late for a kid to be lying here
+Dialogue: 0,1:03:52.87,1:03:53.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}快\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's look there
+Dialogue: 0,1:03:57.50,1:03:59.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是小喜子 小喜子\N{\fnTahoma\fs14\bord1\3c&H400000&}Kiddo, kiddo!
+Dialogue: 0,1:04:03.01,1:04:03.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小喜子\N{\fnTahoma\fs14\bord1\3c&H400000&}Kiddo!
+Dialogue: 0,1:04:05.37,1:04:07.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen. You're despicable
+Dialogue: 0,1:04:07.58,1:04:10.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不是人 你是畜生 我们百忍道场跟你有什么仇\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you have against the Patience Clan now?
+Dialogue: 0,1:04:10.65,1:04:12.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}连个小孩子你都下得了手\N{\fnTahoma\fs14\bord1\3c&H400000&}How could you hurt a child?
+Dialogue: 0,1:04:12.52,1:04:13.78,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我\N{\fnTahoma\fs14\bord1\3c&H400000&}I...
+Dialogue: 0,1:04:18.42,1:04:19.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你听我说\N{\fnTahoma\fs14\bord1\3c&H400000&}Let me explain.
+Dialogue: 0,1:04:19.42,1:04:20.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}还有什么说的\N{\fnTahoma\fs14\bord1\3c&H400000&}What's there to explain?
+Dialogue: 0,1:04:29.79,1:04:31.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到了现在你们还要狠\N{\fnTahoma\fs14\bord1\3c&H400000&}How dare you?
+Dialogue: 0,1:04:32.53,1:04:33.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}出来\N{\fnTahoma\fs14\bord1\3c&H400000&}Get them
+Dialogue: 0,1:04:40.30,1:04:43.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}两位 我替你们找的坟地不错吧\N{\fnTahoma\fs14\bord1\3c&H400000&}Isn't this a good location to rest in peace?
+Dialogue: 0,1:04:44.97,1:04:47.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云 大哥叫你到这儿来 就是干这件事\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen. Big Bro wants you here to do this
+Dialogue: 0,1:04:48.43,1:04:49.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}把他们两个干掉\N{\fnTahoma\fs14\bord1\3c&H400000&}Kill them.
+Dialogue: 0,1:04:50.10,1:04:50.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不干\N{\fnTahoma\fs14\bord1\3c&H400000&}No way
+Dialogue: 0,1:04:50.80,1:04:51.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不干\N{\fnTahoma\fs14\bord1\3c&H400000&}Why not?
+Dialogue: 0,1:04:51.60,1:04:53.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我唐浩云做事一向光明磊落\N{\fnTahoma\fs14\bord1\3c&H400000&}I think it's dishonourable
+Dialogue: 0,1:04:53.90,1:04:55.77,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不干 是真的\N{\fnTahoma\fs14\bord1\3c&H400000&}You really won't do it?
+Dialogue: 0,1:04:57.44,1:04:58.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}来啊 把他们两干掉\N{\fnTahoma\fs14\bord1\3c&H400000&}Guys, kill them.
+Dialogue: 0,1:04:58.57,1:04:59.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不许动\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop
+Dialogue: 0,1:05:02.24,1:05:03.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}放他们走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let them go
+Dialogue: 0,1:05:05.58,1:05:10.03,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他们好不容易才中了我的计 放他们走 大哥怪起来谁负责\N{\fnTahoma\fs14\bord1\3c&H400000&}We don't often get a chance like this If we let them go, who will answer to Big Bro?
+Dialogue: 0,1:05:10.25,1:05:13.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我负责 谁不怕死尽管动手\N{\fnTahoma\fs14\bord1\3c&H400000&}Me, whoever touches them will die at my hands
+Dialogue: 0,1:05:14.41,1:05:15.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你\N{\fnTahoma\fs14\bord1\3c&H400000&}You...
+Dialogue: 0,1:05:16.75,1:05:17.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}二位请吧\N{\fnTahoma\fs14\bord1\3c&H400000&}You two can go. -
+Dialogue: 0,1:05:55.78,1:05:57.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师姐\N{\fnTahoma\fs14\bord1\3c&H400000&}Senior, I'm convinced now
+Dialogue: 0,1:05:58.08,1:06:00.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对不起 师弟 没有打痛你吧\N{\fnTahoma\fs14\bord1\3c&H400000&}I hope I didn't hurt you
+Dialogue: 0,1:06:00.91,1:06:01.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}没有\N{\fnTahoma\fs14\bord1\3c&H400000&}No
+Dialogue: 0,1:06:10.95,1:06:13.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小喜子 怎么回事 是谁干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Kiddo. What happened? Who did it?
+Dialogue: 0,1:06:15.19,1:06:16.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是谁干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Tell me
+Dialogue: 0,1:06:22.93,1:06:23.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}到底是谁干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Tell me who did it.
+Dialogue: 0,1:06:25.20,1:06:27.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你说话 你怎么不说话\N{\fnTahoma\fs14\bord1\3c&H400000&}Why won't you tell me?
+Dialogue: 0,1:06:34.83,1:06:36.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我亲眼看见是姓唐的\N{\fnTahoma\fs14\bord1\3c&H400000&}I saw Tang do it. I saw Tang do it
+Dialogue: 0,1:06:36.33,1:06:39.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我亲眼看见姓唐的干的 我为什么打不过他\N{\fnTahoma\fs14\bord1\3c&H400000&}I want to take revenge but I can't beat him
+Dialogue: 0,1:06:39.47,1:06:40.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要报这个仇\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm useless.
+Dialogue: 0,1:06:43.34,1:06:44.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是不可能的事\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't believe it
+Dialogue: 0,1:06:47.41,1:06:48.21,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}真的是他干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Are you sure it was him?
+Dialogue: 0,1:06:49.71,1:06:51.29,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是啊\N{\fnTahoma\fs14\bord1\3c&H400000&}It was him
+Dialogue: 0,1:07:03.42,1:07:04.75,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad...
+Dialogue: 0,1:07:53.68,1:07:54.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们想干什么\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you want?
+Dialogue: 0,1:08:12.49,1:08:14.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}说不说 许胖子躲在什么地方\N{\fnTahoma\fs14\bord1\3c&H400000&}Spit it out. Where's Fatty Hui hiding?
+Dialogue: 0,1:08:16.49,1:08:18.08,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我说 我说\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll tell you
+Dialogue: 0,1:08:25.80,1:08:26.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}咱们一块去的\N{\fnTahoma\fs14\bord1\3c&H400000&}Listen up, brother.
+Dialogue: 0,1:08:26.60,1:08:27.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是吗\N{\fnTahoma\fs14\bord1\3c&H400000&}What is it?
+Dialogue: 0,1:08:30.31,1:08:34.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我告诉你昨晚上我泡了个妞 那真是棒级了\N{\fnTahoma\fs14\bord1\3c&H400000&}Let me tell you something. I met a beautiful girl last night
+Dialogue: 0,1:08:34.80,1:08:38.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}看她年龄顶多十八九岁 那脸蛋是细皮白肉的\N{\fnTahoma\fs14\bord1\3c&H400000&}While we were haggling over the price, I touched her and she was ecstatic
+Dialogue: 0,1:09:50.35,1:09:52.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要再打了 我们要留个活口\N{\fnTahoma\fs14\bord1\3c&H400000&}Stop, keep him for questioning
+Dialogue: 0,1:09:56.99,1:09:59.22,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}姓魏的 你回去告诉你们大哥\N{\fnTahoma\fs14\bord1\3c&H400000&}Hey, go and tell your Big Bro
+Dialogue: 0,1:09:59.86,1:10:02.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们回去问清楚了 再来找他算账\N{\fnTahoma\fs14\bord1\3c&H400000&}we'll come for him after we question this one
+Dialogue: 0,1:10:08.13,1:10:10.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}好 现在是算账的时候了\N{\fnTahoma\fs14\bord1\3c&H400000&}Now is the time to get even
+Dialogue: 0,1:10:11.50,1:10:14.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一直叫大家忍耐 现在忍无可忍\N{\fnTahoma\fs14\bord1\3c&H400000&}I've always told you guys to be patient but everything has its limit
+Dialogue: 0,1:10:15.86,1:10:19.13,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}既然许胖子都招出来了 姓魏的罪大恶极\N{\fnTahoma\fs14\bord1\3c&H400000&}Since Fatty Hui's confession. We can confirm that the biggest villain is Ngai
+Dialogue: 0,1:10:20.00,1:10:21.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}今天我要跟他算清这笔账\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll make sure he pays for it
+Dialogue: 0,1:10:22.50,1:10:24.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}方刚 拉许胖子出来\N{\fnTahoma\fs14\bord1\3c&H400000&}Go get Fatty Hui.
+Dialogue: 0,1:10:24.87,1:10:25.50,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes
+Dialogue: 0,1:10:27.64,1:10:29.16,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}秋萍 把我的手杖拿来\N{\fnTahoma\fs14\bord1\3c&H400000&}Chou Ping, get my crutch
+Dialogue: 0,1:10:29.61,1:10:31.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹 你要手杖干什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad, what do you need that for?
+Dialogue: 0,1:10:31.68,1:10:32.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要亲自去见姓魏的\N{\fnTahoma\fs14\bord1\3c&H400000&}I want to go and see Ngai
+Dialogue: 0,1:10:33.51,1:10:35.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不好 万一动起手来了\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't go. What if he gets physical?
+Dialogue: 0,1:10:36.65,1:10:38.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我还有一条腿 去拿啊\N{\fnTahoma\fs14\bord1\3c&H400000&}I still have one leg. Go and get it
+Dialogue: 0,1:10:40.01,1:10:40.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哦\N{\fnTahoma\fs14\bord1\3c&H400000&}OK, then
+Dialogue: 0,1:10:49.25,1:10:52.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}许胖子 起来 我们要送你回去了\N{\fnTahoma\fs14\bord1\3c&H400000&}Fatty Hui, get up. We're sending you home now
+Dialogue: 0,1:10:55.06,1:10:57.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}怎么 你想赖着不走啊\N{\fnTahoma\fs14\bord1\3c&H400000&}What now? Don't want to go?
+Dialogue: 0,1:11:08.39,1:11:10.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 出了事啦 许胖子被人暗杀了\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, bad news. Fatty Hui has been killed
+Dialogue: 0,1:11:12.90,1:11:15.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是谁干的 现在连证人都没有了 这怎么办了\N{\fnTahoma\fs14\bord1\3c&H400000&}Now we've lost our main witness. What shall we do now?
+Dialogue: 0,1:11:17.94,1:11:19.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们说是谁干的\N{\fnTahoma\fs14\bord1\3c&H400000&}Any idea who did it?
+Dialogue: 0,1:11:22.57,1:11:23.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 完了\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, what shall we do now?
+Dialogue: 0,1:11:24.68,1:11:27.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这一次我们跟魏家的账又不能算了\N{\fnTahoma\fs14\bord1\3c&H400000&}We can't get even with the Ngais now
+Dialogue: 0,1:11:28.44,1:11:30.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}何止不能算\N{\fnTahoma\fs14\bord1\3c&H400000&}That's not the worst of it
+Dialogue: 0,1:11:31.84,1:11:35.44,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏家的人死在我们这儿 他们决不会罢休的\N{\fnTahoma\fs14\bord1\3c&H400000&}The Ngai's man died in our custody. They will hold us responsible
+Dialogue: 0,1:11:37.05,1:11:39.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看很麻烦\N{\fnTahoma\fs14\bord1\3c&H400000&}We're in real trouble
+Dialogue: 0,1:11:40.25,1:11:41.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}许胖子死啦 谁说的\N{\fnTahoma\fs14\bord1\3c&H400000&}Fatty Hui's been killed? Who told you?
+Dialogue: 0,1:11:41.88,1:11:43.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小三子亲眼看见的\N{\fnTahoma\fs14\bord1\3c&H400000&}Sun saw it himself
+Dialogue: 0,1:11:45.52,1:11:48.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}把我的人抓了去随随便便的杀了\N{\fnTahoma\fs14\bord1\3c&H400000&}They held our man in custody but couldn't even protect him
+Dialogue: 0,1:11:51.03,1:11:53.95,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 你说他们是不是欺人太甚\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Don't you think they're big bullies?
+Dialogue: 0,1:11:54.75,1:11:56.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你别动气 问问清楚再说\N{\fnTahoma\fs14\bord1\3c&H400000&}You shouldn't be too upset until you know the truth
+Dialogue: 0,1:11:57.46,1:12:01.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}现在你没第二条路可走 浩云 我们要他们交出许胖子来\N{\fnTahoma\fs14\bord1\3c&H400000&}There's no other way now. How Yuen. Go and claim Fatty Hui's body
+Dialogue: 0,1:12:02.73,1:12:06.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}交不出来的话 你替我把百忍道场给拆掉\N{\fnTahoma\fs14\bord1\3c&H400000&}Trash Patience Clan's place after that
+Dialogue: 0,1:12:09.00,1:12:10.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这件事我绝对不能做\N{\fnTahoma\fs14\bord1\3c&H400000&}That's something I won't do
+Dialogue: 0,1:12:11.30,1:12:15.14,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不做 他们认为你杀死小喜子 早晚也不会放过你\N{\fnTahoma\fs14\bord1\3c&H400000&}You won't do it? They thought you killed Kiddo, they'll come for you next
+Dialogue: 0,1:12:16.58,1:12:19.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你在场最清楚了 小喜子不是我杀的\N{\fnTahoma\fs14\bord1\3c&H400000&}We all know very well that I didn't kill Kiddo
+Dialogue: 0,1:12:20.54,1:12:22.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我可以跟他们解释\N{\fnTahoma\fs14\bord1\3c&H400000&}You can explain that to them
+Dialogue: 0,1:12:22.87,1:12:25.20,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你用嘴巴说 他们就相信你了吗\N{\fnTahoma\fs14\bord1\3c&H400000&}You think they'll trust what you say?
+Dialogue: 0,1:12:27.61,1:12:31.55,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他们相信不相信都不要紧 这件事我还是不做\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't care but I'll not do it
+Dialogue: 0,1:12:32.15,1:12:35.38,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你想一想 你本来是替师父报仇来的\N{\fnTahoma\fs14\bord1\3c&H400000&}Think about it, you're working for the Ngais
+Dialogue: 0,1:12:35.75,1:12:38.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是天公地道的 江湖上谁也不能说你不是\N{\fnTahoma\fs14\bord1\3c&H400000&}It's only right that you protect the Ngai's interests
+Dialogue: 0,1:12:40.89,1:12:43.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 我魏苍龙咽不下这口气\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. I won't let this matter rest
+Dialogue: 0,1:12:44.38,1:12:47.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你只要替我办妥了这件事 我把秘方送给你 你随时回唐山\N{\fnTahoma\fs14\bord1\3c&H400000&}If you do this for me, I'll give you the recipe for the medicine You can return to Tang San after that
+Dialogue: 0,1:12:49.05,1:12:50.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}如果许胖子没有死呢\N{\fnTahoma\fs14\bord1\3c&H400000&}What if Fatty Hui's still alive?
+Dialogue: 0,1:12:50.62,1:12:54.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那最好了 大家都没事 我药方也一样送给你\N{\fnTahoma\fs14\bord1\3c&H400000&}That's even better. No one loses I'll still give you the recipe
+Dialogue: 0,1:13:09.58,1:13:10.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么事啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Can I help you?
+Dialogue: 0,1:13:10.52,1:13:11.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄小姐住哪间房\N{\fnTahoma\fs14\bord1\3c&H400000&}Which room is Lan in?
+Dialogue: 0,1:13:11.48,1:13:12.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那间\N{\fnTahoma\fs14\bord1\3c&H400000&}That one.
+Dialogue: 0,1:13:12.92,1:13:13.75,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谢谢\N{\fnTahoma\fs14\bord1\3c&H400000&}Thank you
+Dialogue: 0,1:13:24.46,1:13:27.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我有一点事情 可以跟你谈谈吗\N{\fnTahoma\fs14\bord1\3c&H400000&}I've something to talk to you about
+Dialogue: 0,1:13:34.63,1:13:35.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄伯母\N{\fnTahoma\fs14\bord1\3c&H400000&}Auntie Zhong.
+Dialogue: 0,1:13:35.96,1:13:37.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是你呀 你怎么来了\N{\fnTahoma\fs14\bord1\3c&H400000&}It's you. Can I help?
+Dialogue: 0,1:13:38.77,1:13:39.73,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}有什么话你可以说了\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you want?
+Dialogue: 0,1:13:40.77,1:13:43.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}庄姑娘 我可是诚心诚意来的\N{\fnTahoma\fs14\bord1\3c&H400000&}Lan. I don't have any bad intentions...
+Dialogue: 0,1:13:44.11,1:13:45.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谁相信你\N{\fnTahoma\fs14\bord1\3c&H400000&}Cut the crap
+Dialogue: 0,1:13:46.74,1:13:48.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你怎么可以这样讲话呢 请坐\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't be rude. Please be seated
+Dialogue: 0,1:13:56.95,1:13:57.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}先喝杯热茶\N{\fnTahoma\fs14\bord1\3c&H400000&}Have some hot tea.
+Dialogue: 0,1:14:00.61,1:14:05.24,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们两位可知道 唐浩云在外边做些什么事吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Do you know what How Yuen's been up to recently?
+Dialogue: 0,1:14:05.82,1:14:08.25,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}知道 他在魏财主家里做事\N{\fnTahoma\fs14\bord1\3c&H400000&}We know. He's doing some manual work for Ngai
+Dialogue: 0,1:14:09.09,1:14:11.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不错 可是他做的都是坏事\N{\fnTahoma\fs14\bord1\3c&H400000&}He's definitely working for the Ngais but what he's doing is illegal
+Dialogue: 0,1:14:12.86,1:14:14.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}坏事\N{\fnTahoma\fs14\bord1\3c&H400000&}Illegal?
+Dialogue: 0,1:14:14.86,1:14:16.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不要胡说 我师哥不是这种人\N{\fnTahoma\fs14\bord1\3c&H400000&}Nonsense. How Yuen is not like that The Ngai brothers are the big bullies here
+Dialogue: 0,1:14:17.86,1:14:22.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏家四虎是这里的恶霸 他做了他们的帮凶鱼肉百姓\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen is helping them to oppress the villagers
+Dialogue: 0,1:14:24.36,1:14:25.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我真替他不值\N{\fnTahoma\fs14\bord1\3c&H400000&}I think he's been misled
+Dialogue: 0,1:14:26.36,1:14:27.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一点都不知道啊\N{\fnTahoma\fs14\bord1\3c&H400000&}I really don't know about this.
+Dialogue: 0,1:14:28.90,1:14:30.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不会吧\N{\fnTahoma\fs14\bord1\3c&H400000&}What do you think?
+Dialogue: 0,1:14:30.60,1:14:31.43,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不会\N{\fnTahoma\fs14\bord1\3c&H400000&}It can't be
+Dialogue: 0,1:14:32.23,1:14:36.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就算我师哥做坏事也与你无关 为什么你要来告诉我们\N{\fnTahoma\fs14\bord1\3c&H400000&}Even if it's true, it's none of your business What's your motive for telling us this?
+Dialogue: 0,1:14:38.87,1:14:41.04,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我早就猜到你们两位还不知道\N{\fnTahoma\fs14\bord1\3c&H400000&}I know you're in the dark about this
+Dialogue: 0,1:14:41.44,1:14:44.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}所以特地来警告 你们早点回唐山去吧\N{\fnTahoma\fs14\bord1\3c&H400000&}My advice to you is to return to Tang San quick
+Dialogue: 0,1:14:46.25,1:14:48.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们回不回唐山要听你的吗\N{\fnTahoma\fs14\bord1\3c&H400000&}When we return to Tang San has nothing to do with you
+Dialogue: 0,1:14:49.37,1:14:53.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}姓魏的心狠手辣 唐浩云是一个老实人 斗不过他们的\N{\fnTahoma\fs14\bord1\3c&H400000&}The Ngais are too shady for a decent guy like How Yuen They'll exploit him
+Dialogue: 0,1:14:54.48,1:14:56.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要把他的命丢在这儿\N{\fnTahoma\fs14\bord1\3c&H400000&}if he's not careful
+Dialogue: 0,1:15:04.16,1:15:04.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}再见\N{\fnTahoma\fs14\bord1\3c&H400000&}See you
+Dialogue: 0,1:15:17.36,1:15:18.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟姑娘\N{\fnTahoma\fs14\bord1\3c&H400000&}Miss Chung,
+Dialogue: 0,1:15:20.36,1:15:22.02,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我只要跟你说一句话\N{\fnTahoma\fs14\bord1\3c&H400000&}I've got something to tell you
+Dialogue: 0,1:15:22.13,1:15:22.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}什么话\N{\fnTahoma\fs14\bord1\3c&H400000&}What is it?
+Dialogue: 0,1:15:23.03,1:15:24.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小喜子的事不是我做的\N{\fnTahoma\fs14\bord1\3c&H400000&}I didn't kill your brother
+Dialogue: 0,1:15:58.59,1:16:00.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你这是干什么 良心惭愧\N{\fnTahoma\fs14\bord1\3c&H400000&}How could you do it? Haven't you got a conscience?
+Dialogue: 0,1:16:02.69,1:16:05.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你在外面做的坏事我全都知道 我去告诉娘去\N{\fnTahoma\fs14\bord1\3c&H400000&}I know you've been involved in illegal activities I'll tell Mum.
+Dialogue: 0,1:16:06.19,1:16:07.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师妹\N{\fnTahoma\fs14\bord1\3c&H400000&}Please don't
+Dialogue: 0,1:16:08.19,1:16:08.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}拿开你的脏手\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't touch me
+Dialogue: 0,1:16:09.53,1:16:11.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我求求你别告诉师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}Please don't tell Simo
+Dialogue: 0,1:16:11.73,1:16:12.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll tell her.
+Dialogue: 0,1:16:12.90,1:16:14.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师妹\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't
+Dialogue: 0,1:16:16.17,1:16:19.46,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你为什么要做那些见不得人的事 为什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why did you get involved in illegal activities?
+Dialogue: 0,1:16:20.30,1:16:21.23,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}为什么\N{\fnTahoma\fs14\bord1\3c&H400000&}Why did you do it?
+Dialogue: 0,1:16:25.67,1:16:26.70,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我为了师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}I did it for Simo
+Dialogue: 0,1:16:29.33,1:16:31.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我只要那些药丸治好师娘的病\N{\fnTahoma\fs14\bord1\3c&H400000&}I need their medicine for Simo's illness
+Dialogue: 0,1:16:33.94,1:16:38.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我只要师娘颐养天年 不再受疼痛之苦\N{\fnTahoma\fs14\bord1\3c&H400000&}If it stops Simo having to go through any pain
+Dialogue: 0,1:16:39.18,1:16:40.48,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我什么事都肯做\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm willing to do anything
+Dialogue: 0,1:16:41.45,1:16:43.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}哪怕是不仁不义的事\N{\fnTahoma\fs14\bord1\3c&H400000&}Even if it's unethical
+Dialogue: 0,1:16:44.82,1:16:46.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我从小没爹没娘\N{\fnTahoma\fs14\bord1\3c&H400000&}I lost my parents when I was a kid
+Dialogue: 0,1:16:47.32,1:16:49.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}全靠师娘抚养我长大\N{\fnTahoma\fs14\bord1\3c&H400000&}It's Simo who took care of me
+Dialogue: 0,1:16:49.96,1:16:51.79,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}全靠师父教养我成人\N{\fnTahoma\fs14\bord1\3c&H400000&}It's Sifu who taught me the ways of life
+Dialogue: 0,1:16:52.46,1:16:56.54,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我来不及报答师父的恩 也要全心全意报答师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}Since I can't repay Sifu, I'll do all I can to repay Simo
+Dialogue: 0,1:16:57.95,1:17:02.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}梦兰 师娘年事已高 报恩之日无多\N{\fnTahoma\fs14\bord1\3c&H400000&}Lan. I don't have much time left to repay Simo
+Dialogue: 0,1:17:03.29,1:17:04.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥\N{\fnTahoma\fs14\bord1\3c&H400000&}Brother
+Dialogue: 0,1:17:05.96,1:17:07.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我只为了尽人子之孝\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm at their mercy now
+Dialogue: 0,1:17:08.46,1:17:12.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}相信我我是不得已 让我替魏家再办一件事\N{\fnTahoma\fs14\bord1\3c&H400000&}Trust me, I'll do one last thing for the Ngais
+Dialogue: 0,1:17:14.17,1:17:16.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}再办一件事伤天害理的事\N{\fnTahoma\fs14\bord1\3c&H400000&}What is it? Something illegal?
+Dialogue: 0,1:17:18.41,1:17:20.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不要多问 我自有分寸\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't ask. I know what I'm doing
+Dialogue: 0,1:17:21.77,1:17:23.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}过了明天 我们马上回唐山\N{\fnTahoma\fs14\bord1\3c&H400000&}We'll return to Tang San the day after tomorrow
+Dialogue: 0,1:17:40.59,1:17:42.71,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏家的人打来了 快关门\N{\fnTahoma\fs14\bord1\3c&H400000&}They're here. Close the doors quickly
+Dialogue: 0,1:17:45.48,1:17:47.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}开门\N{\fnTahoma\fs14\bord1\3c&H400000&}Keep the doors open
+Dialogue: 0,1:17:47.85,1:17:49.32,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}把门打开\N{\fnTahoma\fs14\bord1\3c&H400000&}Open the doors
+Dialogue: 0,1:17:55.42,1:17:58.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不准关门 我们百忍道场的人 没有一个是怕死的\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't close the doors, we're no cowards.
+Dialogue: 0,1:17:59.19,1:17:59.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对 我不怕死\N{\fnTahoma\fs14\bord1\3c&H400000&}We're no cowards
+Dialogue: 0,1:18:00.83,1:18:03.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏家人公然找上门来简直目无王法\N{\fnTahoma\fs14\bord1\3c&H400000&}The Ngais really have no respect for us
+Dialogue: 0,1:18:06.20,1:18:09.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹跟他们讲理也讲不通 我们跟他们拼了\N{\fnTahoma\fs14\bord1\3c&H400000&}There's no point reasoning with them. Let's take them on
+Dialogue: 0,1:18:11.53,1:18:13.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父 他们的人来啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu, they're here
+Dialogue: 0,1:18:16.03,1:18:17.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}来啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go
+Dialogue: 0,1:18:25.81,1:18:29.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们守外面许进不许出 出来一个杀一个\N{\fnTahoma\fs14\bord1\3c&H400000&}Guard the area and kill anyone that's not our own
+Dialogue: 0,1:18:29.95,1:18:30.51,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}是\N{\fnTahoma\fs14\bord1\3c&H400000&}Yes, sir.
+Dialogue: 0,1:18:31.32,1:18:31.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}大家分开\N{\fnTahoma\fs14\bord1\3c&H400000&}Move it
+Dialogue: 0,1:18:45.39,1:18:49.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏苍龙你带这么多人到这里来 到底想怎么样\N{\fnTahoma\fs14\bord1\3c&H400000&}Ngai, you've brought an army here. What do you want?
+Dialogue: 0,1:18:50.83,1:18:56.56,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}姓钟的 你不是叫我兄弟带信来跟我算账吗 我送上门来啦\N{\fnTahoma\fs14\bord1\3c&H400000&}Chung, didn't you say you wanted to get even with me? Here I am.
+Dialogue: 0,1:18:57.87,1:19:01.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不要这么神气 你平日所作所为你心里有数\N{\fnTahoma\fs14\bord1\3c&H400000&}You're despicable You should know what wrongs you've done
+Dialogue: 0,1:19:02.66,1:19:06.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我当然有数啦 我杀人放火走私贩毒\N{\fnTahoma\fs14\bord1\3c&H400000&}Of course Murder, arson. Drugs. I've done them all
+Dialogue: 0,1:19:07.87,1:19:10.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你能拿我怎么样 你有证据吗\N{\fnTahoma\fs14\bord1\3c&H400000&}What can you do? Any evidence?
+Dialogue: 0,1:19:16.54,1:19:19.84,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你这种人作恶多端 迟早有报应\N{\fnTahoma\fs14\bord1\3c&H400000&}You'll pay for your crimes sooner or later
+Dialogue: 0,1:19:23.78,1:19:29.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}现在该我跟你算账了 你把许胖子抓了来 人在哪里\N{\fnTahoma\fs14\bord1\3c&H400000&}But now it's your turn to pay for your crime You detained Fatty Hui. Where is he now?
+Dialogue: 0,1:19:30.18,1:19:31.61,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不知道\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't know.
+Dialogue: 0,1:19:32.05,1:19:32.98,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不知道\N{\fnTahoma\fs14\bord1\3c&H400000&}You don't know?
+Dialogue: 0,1:19:34.68,1:19:36.41,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看你是交不出人来啦\N{\fnTahoma\fs14\bord1\3c&H400000&}You can't hand him over?
+Dialogue: 0,1:19:37.32,1:19:39.45,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云 找他要人\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen. Go ask him
+Dialogue: 0,1:19:48.06,1:19:49.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}钟老伯 我先跟你告个罪\N{\fnTahoma\fs14\bord1\3c&H400000&}Senior Chung, I apologise in advance
+Dialogue: 0,1:19:50.56,1:19:52.89,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云 我对你很失望\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen. I'm very disappointed in you
+Dialogue: 0,1:19:54.33,1:19:57.76,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我以为你是一个好汉 怎知道你为虎作伥\N{\fnTahoma\fs14\bord1\3c&H400000&}I thought you were a good man I would never have guessed you were a criminal
+Dialogue: 0,1:20:00.07,1:20:04.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我受人之禄忠人之事 请你把人交出来\N{\fnTahoma\fs14\bord1\3c&H400000&}I'm only doing my job. Please hand over our man
+Dialogue: 0,1:20:04.80,1:20:06.86,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}人\N{\fnTahoma\fs14\bord1\3c&H400000&}Your man?
+Dialogue: 0,1:20:08.04,1:20:10.37,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}人是我抓回来的 没那么容易交出来\N{\fnTahoma\fs14\bord1\3c&H400000&}I arrested your man for a reason. I won't just hand him over
+Dialogue: 0,1:20:11.24,1:20:16.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}两国交兵各为其主 要是你再不交人我就不客气了\N{\fnTahoma\fs14\bord1\3c&H400000&}We both have our reasons for this encounter Hand over my man or face the consequences
+Dialogue: 0,1:20:34.12,1:20:37.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你真以为你武功好 我们百忍道场的人怕你吗\N{\fnTahoma\fs14\bord1\3c&H400000&}Do you think you can intimidate us because your Kung Fu's good?
+Dialogue: 0,1:20:38.19,1:20:40.65,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我不想伤和气 只要你们交人\N{\fnTahoma\fs14\bord1\3c&H400000&}I don't want to resort to violence. Just hand over our man
+Dialogue: 0,1:20:41.55,1:20:42.54,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们一定不交了\N{\fnTahoma\fs14\bord1\3c&H400000&}What if we refuse?
+Dialogue: 0,1:20:43.26,1:20:46.69,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你听着 抓了我的人不放 还理直气壮\N{\fnTahoma\fs14\bord1\3c&H400000&}We've the right to ask for our man back. You shouldn't push your luck
+Dialogue: 0,1:20:47.56,1:20:49.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}要是你们不放人 魏家就没有错\N{\fnTahoma\fs14\bord1\3c&H400000&}The Ngais have the right to ask for their man back
+Dialogue: 0,1:20:50.06,1:20:51.62,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那就算我 错就错到底\N{\fnTahoma\fs14\bord1\3c&H400000&}Come and get him, then
+Dialogue: 0,1:21:18.95,1:21:22.04,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}老大 你看出来没有 唐浩云手下留情啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Big Bro, have you noticed? Tang How Yuen is being lenient on them
+Dialogue: 0,1:21:23.95,1:21:25.42,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我看我们该下最后一步棋了吧\N{\fnTahoma\fs14\bord1\3c&H400000&}We've got to resort to plan B now.
+Dialogue: 0,1:21:55.44,1:21:55.92,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父\N{\fnTahoma\fs14\bord1\3c&H400000&}Sifu.
+Dialogue: 0,1:21:56.30,1:21:57.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师父助你一腿\N{\fnTahoma\fs14\bord1\3c&H400000&}Let me help you
+Dialogue: 0,1:22:51.23,1:22:52.33,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}上\N{\fnTahoma\fs14\bord1\3c&H400000&}Attack
+Dialogue: 0,1:23:35.07,1:23:36.58,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}就用三弹腿打他\N{\fnTahoma\fs14\bord1\3c&H400000&}Give it to him
+Dialogue: 0,1:23:56.08,1:23:57.34,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}给我上\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Your turn
+Dialogue: 0,1:24:26.62,1:24:28.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小三子 你还不露馅\N{\fnTahoma\fs14\bord1\3c&H400000&}Sun. Show your true self now
+Dialogue: 0,1:24:42.47,1:24:43.60,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}爹\N{\fnTahoma\fs14\bord1\3c&H400000&}Dad Dad! Dad!
+Dialogue: 0,1:24:59.71,1:25:00.54,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你伤得怎么样\N{\fnTahoma\fs14\bord1\3c&H400000&}Chung, are you OK?
+Dialogue: 0,1:25:01.18,1:25:03.91,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他暗算我\N{\fnTahoma\fs14\bord1\3c&H400000&}I've been tricked
+Dialogue: 0,1:25:05.18,1:25:07.67,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这是你做梦也想不到的吧\N{\fnTahoma\fs14\bord1\3c&H400000&}You'd never have guessed, right?
+Dialogue: 0,1:25:08.09,1:25:09.52,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}原来你是魏家的卧底\N{\fnTahoma\fs14\bord1\3c&H400000&}So you're working as an informer for the Ngais
+Dialogue: 0,1:25:12.32,1:25:15.31,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我等了多少年才等到今天\N{\fnTahoma\fs14\bord1\3c&H400000&}I've waited a few years for this day
+Dialogue: 0,1:25:16.43,1:25:20.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我一直待你不错 你这狼心狗肺的东西\N{\fnTahoma\fs14\bord1\3c&H400000&}I've treated you very well. You're no better than an animal
+Dialogue: 0,1:25:21.62,1:25:25.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你骂我有什么用 只能怪你自己有眼无珠\N{\fnTahoma\fs14\bord1\3c&H400000&}There's no use scolding me now. Blame yourself for being so naive
+Dialogue: 0,1:25:26.43,1:25:30.49,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我只有杀了你 才能报魏大爷对我的救命之恩\N{\fnTahoma\fs14\bord1\3c&H400000&}The only way I can repay Ngai for saving me, is with your life
+Dialogue: 0,1:25:31.70,1:25:35.97,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}老实告诉你 小喜子是我故意引出去害死的\N{\fnTahoma\fs14\bord1\3c&H400000&}To be honest, Kiddo's death was part of my plan too
+Dialogue: 0,1:25:40.44,1:25:41.66,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你为什么要赖在我身上\N{\fnTahoma\fs14\bord1\3c&H400000&}Why did you make me the scapegoat?
+Dialogue: 0,1:25:43.64,1:25:46.87,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我要造成你们的误会 加深你们的仇恨\N{\fnTahoma\fs14\bord1\3c&H400000&}I wanted to make your misunderstanding with Chung even worse
+Dialogue: 0,1:25:47.51,1:25:50.07,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你有冤洗不清 你才会为魏大爷卖命啊\N{\fnTahoma\fs14\bord1\3c&H400000&}so you'd work for the Ngais more diligently
+Dialogue: 0,1:25:50.98,1:25:54.50,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对了 这都是我的奇谋妙计啊\N{\fnTahoma\fs14\bord1\3c&H400000&}That's right, we planned all this right from the start
+Dialogue: 0,1:25:55.68,1:25:59.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我再告诉你 许胖子还是我叫小三子抓去\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll tell you something, it's me who asked Sun to capture Fatty Hui
+Dialogue: 0,1:25:59.68,1:26:01.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}再把他杀死灭口\N{\fnTahoma\fs14\bord1\3c&H400000&}We killed him too
+Dialogue: 0,1:26:01.95,1:26:04.15,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}他是你们魏家的人 为什么要这么做\N{\fnTahoma\fs14\bord1\3c&H400000&}He's the Ngai's man too. Why did you kill him?
+Dialogue: 0,1:26:04.96,1:26:07.11,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}牺牲几个人算得了什么呢\N{\fnTahoma\fs14\bord1\3c&H400000&}Sacrificing a life is nothing to us
+Dialogue: 0,1:26:08.45,1:26:13.01,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}许胖子死在百忍道场 才使我们师出有名啊\N{\fnTahoma\fs14\bord1\3c&H400000&}Because Fatty Hui died in Patience Clan's custody we can hold them to account.
+Dialogue: 0,1:26:13.46,1:26:14.35,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}唐浩云\N{\fnTahoma\fs14\bord1\3c&H400000&}Tang How Yuen
+Dialogue: 0,1:26:14.59,1:26:15.72,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}现在只剩三个人\N{\fnTahoma\fs14\bord1\3c&H400000&}There are three of them left,
+Dialogue: 0,1:26:15.92,1:26:19.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你把他们打死 百忍道场就没有了\N{\fnTahoma\fs14\bord1\3c&H400000&}kill them and Patience Clan will cease to exist
+Dialogue: 0,1:26:20.06,1:26:22.05,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}那么你的任务也完了\N{\fnTahoma\fs14\bord1\3c&H400000&}Your responsibility will also end here
+Dialogue: 0,1:26:28.07,1:26:32.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们这帮人真下流无耻 唐浩云不为你用\N{\fnTahoma\fs14\bord1\3c&H400000&}You're despicable I won't be exploited by you
+Dialogue: 0,1:26:33.77,1:26:35.26,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你忘了我们昨天 是怎么讲定的\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't forget what we agreed yesterday
+Dialogue: 0,1:26:36.30,1:26:40.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不讲信用 你不想回唐山了\N{\fnTahoma\fs14\bord1\3c&H400000&}If you don't keep your promise, you'll never get back to Tang San
+Dialogue: 0,1:26:40.67,1:26:42.54,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}对畜生没有信用这两个字\N{\fnTahoma\fs14\bord1\3c&H400000&}What does an animal like you know about promises?
+Dialogue: 0,1:26:43.31,1:26:44.40,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你不听我的命令\N{\fnTahoma\fs14\bord1\3c&H400000&}You know what
+Dialogue: 0,1:26:46.08,1:26:47.57,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你该知道我怎么对付你\N{\fnTahoma\fs14\bord1\3c&H400000&}I'll do if you don't do what I say
+Dialogue: 0,1:26:50.80,1:26:53.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你们想怎么对付我 不怕死的上来\N{\fnTahoma\fs14\bord1\3c&H400000&}What can you do? Is anyone brave enough to take me on now?
+Dialogue: 0,1:26:56.54,1:26:58.59,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我告诉你们 有我唐浩云在\N{\fnTahoma\fs14\bord1\3c&H400000&}With me here,
+Dialogue: 0,1:26:59.16,1:27:00.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}谁都不准动姓钟的\N{\fnTahoma\fs14\bord1\3c&H400000&}no one shall touch Senior Chung
+Dialogue: 0,1:27:03.80,1:27:09.10,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}小唐啊 你别以为你了不起 你是常山赵子龙打不死…\N{\fnTahoma\fs14\bord1\3c&H400000&}Young man. Don't be so arrogant You think you're invincible?
+Dialogue: 0,1:27:22.54,1:27:23.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}真他妈的\N{\fnTahoma\fs14\bord1\3c&H400000&}What the...?
+Dialogue: 0,1:27:28.68,1:27:29.81,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}住手\N{\fnTahoma\fs14\bord1\3c&H400000&}Look
+Dialogue: 0,1:27:36.06,1:27:38.53,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}魏苍龙 你\N{\fnTahoma\fs14\bord1\3c&H400000&}Ngai Chong Loong!
+Dialogue: 0,1:27:39.59,1:27:43.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}现在两个人在我手里 你要考虑清楚\N{\fnTahoma\fs14\bord1\3c&H400000&}They're both in my hands Act carefully
+Dialogue: 0,1:27:45.33,1:27:49.09,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我老实告诉你 你师娘根本没有病 是我下了毒\N{\fnTahoma\fs14\bord1\3c&H400000&}To be honest, your Simo wasn't ill I poisoned her
+Dialogue: 0,1:27:50.33,1:27:55.36,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你把他们三个人打死 我就给你解药 放你回唐山\N{\fnTahoma\fs14\bord1\3c&H400000&}Kill the three of them and I'll give you the antidote
+Dialogue: 0,1:27:56.97,1:27:58.30,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我们的事一了百了\N{\fnTahoma\fs14\bord1\3c&H400000&}We'll call it quits when you're back in Tang San
+Dialogue: 0,1:27:58.74,1:28:03.47,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这也是我的锦囊妙计 是我派小三子去下的毒\N{\fnTahoma\fs14\bord1\3c&H400000&}That was one of my great ideas too I had Sun lace the tea with poison
+Dialogue: 0,1:28:03.84,1:28:05.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你要是不听我大哥的命令\N{\fnTahoma\fs14\bord1\3c&H400000&}If you don't do what Big Bro says
+Dialogue: 0,1:28:06.85,1:28:12.64,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你师娘非疼死不可 我看你还是听话的好\N{\fnTahoma\fs14\bord1\3c&H400000&}your Simo will die a painful death Just be obedient
+Dialogue: 0,1:28:13.84,1:28:16.68,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你要是不听我的话 只要我一举手\N{\fnTahoma\fs14\bord1\3c&H400000&}Don't think about it for long. I just need to give the sign
+Dialogue: 0,1:28:18.35,1:28:19.90,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}这两条命就没有了\N{\fnTahoma\fs14\bord1\3c&H400000&}and it'll be the end of them
+Dialogue: 0,1:28:20.98,1:28:26.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 你怎么一直瞒着我 你怎么会跟这种坏人做事\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Why did you keep this from me? Why did you work for these people?
+Dialogue: 0,1:28:27.86,1:28:29.88,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}我 我…\N{\fnTahoma\fs14\bord1\3c&H400000&}I...
+Dialogue: 0,1:28:31.13,1:28:33.12,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}姓魏的 你不要逼他\N{\fnTahoma\fs14\bord1\3c&H400000&}Ngai Chong Loong, there's no point forcing him
+Dialogue: 0,1:28:34.10,1:28:36.82,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}浩云 你师父一生忠义\N{\fnTahoma\fs14\bord1\3c&H400000&}How Yuen. Your Sifu was a righteous man
+Dialogue: 0,1:28:37.27,1:28:40.28,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}假如你帮人为非作歹 他会死不瞑目\N{\fnTahoma\fs14\bord1\3c&H400000&}If he knew what you were doing now, he'd turn in his grave
+Dialogue: 0,1:28:40.96,1:28:46.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}不要管我 为了唐山门的名誉着想 好好的照顾师妹\N{\fnTahoma\fs14\bord1\3c&H400000&}Do it for me and for the good name of Tang San Clan Take good care of your Lan
+Dialogue: 0,1:28:48.13,1:28:49.83,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}妈\N{\fnTahoma\fs14\bord1\3c&H400000&}Mum, Mum!
+Dialogue: 0,1:29:00.88,1:29:02.27,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘\N{\fnTahoma\fs14\bord1\3c&H400000&}Simo!
+Dialogue: 0,1:29:58.91,1:30:02.00,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}你这个畜生 我打死你\N{\fnTahoma\fs14\bord1\3c&H400000&}You, animal! Die!
+Dialogue: 0,1:32:06.05,1:32:07.18,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}接住\N{\fnTahoma\fs14\bord1\3c&H400000&}Die!
+Dialogue: 0,1:36:00.66,1:36:01.99,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}走 走\N{\fnTahoma\fs14\bord1\3c&H400000&}Let's go.  Let's go
+Dialogue: 0,1:36:07.52,1:36:08.63,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师哥\N{\fnTahoma\fs14\bord1\3c&H400000&}Brother
+Dialogue: 0,1:36:34.99,1:36:36.96,Default,NTP,0000,0000,0000,,{\bord1\3c&HFF8000&}师娘 妈\N{\fnTahoma\fs14\bord1\3c&H400000&}- Simo! - Mum!

@@ -1,0 +1,813 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,16,&H00969696,&H0000FFFF,&H14000000,&H78000000,0,0,0,0,100,100,0,0,1,2,3,2,2,2,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:36.59,0:00:37.68,Default,,0000,0000,0000,,{\blur3}小孩 让开点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Move aside, kid!{\r}
+Dialogue: 0,0:02:32.47,0:02:36.03,Default,,0000,0000,0000,,{\blur3}洪熙官你快走 去找至善师父\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan, run! Go find our master Zhishan.{\r}
+Dialogue: 0,0:02:39.84,0:02:41.07,Default,,0000,0000,0000,,{\blur3}快走啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,0:06:28.71,0:06:29.67,Default,,0000,0000,0000,,{\blur3}看打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Watch it!{\r}
+Dialogue: 0,0:06:39.12,0:06:40.17,Default,,0000,0000,0000,,{\blur3}别打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Stop!{\r}
+Dialogue: 0,0:07:16.22,0:07:17.21,Default,,0000,0000,0000,,{\blur3}让开\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Move over!{\r}
+Dialogue: 0,0:07:20.22,0:07:21.99,Default,,0000,0000,0000,,{\blur3}你看看日头已经老高了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's already mid-day,{\r}
+Dialogue: 0,0:07:22.09,0:07:23.25,Default,,0000,0000,0000,,{\blur3}还不好好做生意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}why aren't you working?{\r}
+Dialogue: 0,0:07:23.36,0:07:24.35,Default,,0000,0000,0000,,{\blur3}你们在干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing?{\r}
+Dialogue: 0,0:07:24.46,0:07:26.90,Default,,0000,0000,0000,,{\blur3}除了吃饭你还会做什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What do you know except eating?{\r}
+Dialogue: 0,0:07:27.00,0:07:29.69,Default,,0000,0000,0000,,{\blur3}老板 我半夜起身推磨做豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss, I woke up almost at midnight to make tofu,{\r}
+Dialogue: 0,0:07:29.80,0:07:32.10,Default,,0000,0000,0000,,{\blur3}到现在一夜都没停过\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and I didn't get a break.{\r}
+Dialogue: 0,0:07:32.20,0:07:35.14,Default,,0000,0000,0000,,{\blur3}我请你做伙计就是不准你停\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's the point of hiring you;{\r}
+Dialogue: 0,0:07:35.24,0:07:38.83,Default,,0000,0000,0000,,{\blur3}做 不停的做\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Working non-stop.{\r}
+Dialogue: 0,0:07:41.38,0:07:43.01,Default,,0000,0000,0000,,{\blur3}我不做了 你做吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I quit. You can do it.{\r}
+Dialogue: 0,0:07:43.31,0:07:44.71,Default,,0000,0000,0000,,{\blur3}阿金\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin.{\r}
+Dialogue: 0,0:07:51.72,0:07:53.05,Default,,0000,0000,0000,,{\blur3}请\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please.{\r}
+Dialogue: 0,0:07:54.69,0:07:56.16,Default,,0000,0000,0000,,{\blur3}让开 豆腐来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Move over, the tofu.{\r}
+Dialogue: 0,0:07:59.30,0:08:04.39,Default,,0000,0000,0000,,{\blur3}阿金 我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin... l...{\r}
+Dialogue: 0,0:08:08.21,0:08:09.90,Default,,0000,0000,0000,,{\blur3}擦擦汗总可以吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Guess I could at least wipe off the sweat.{\r}
+Dialogue: 0,0:08:13.41,0:08:17.01,Default,,0000,0000,0000,,{\blur3}黄老板 伙计抹抹汗不算偷懒吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss Huang, I don't think he's idling,{\r}
+Dialogue: 0,0:08:17.11,0:08:18.14,Default,,0000,0000,0000,,{\blur3}对不对\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}agree?{\r}
+Dialogue: 0,0:08:21.52,0:08:23.21,Default,,0000,0000,0000,,{\blur3}黄老板小心点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Careful, Boss Huang.{\r}
+Dialogue: 0,0:08:23.32,0:08:24.69,Default,,0000,0000,0000,,{\blur3}要是捧不住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If you can't hold it,{\r}
+Dialogue: 0,0:08:24.79,0:08:27.76,Default,,0000,0000,0000,,{\blur3}这十来架豆腐就血本无归了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}then it will be a disaster.{\r}
+Dialogue: 0,0:08:27.86,0:08:30.88,Default,,0000,0000,0000,,{\blur3}阿金 快来帮个忙\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin, come help!{\r}
+Dialogue: 0,0:08:31.83,0:08:33.19,Default,,0000,0000,0000,,{\blur3}来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Coming...{\r}
+Dialogue: 0,0:08:35.40,0:08:38.93,Default,,0000,0000,0000,,{\blur3}老板 您有什么吩咐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, boss?{\r}
+Dialogue: 0,0:08:46.98,0:08:49.28,Default,,0000,0000,0000,,{\blur3}黄老板 别怪阿金不做生意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss Huang, don't blame Jin that he's not working.{\r}
+Dialogue: 0,0:08:49.38,0:08:51.37,Default,,0000,0000,0000,,{\blur3}我就是来买豆腐的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm here to buy some tofu.{\r}
+Dialogue: 0,0:09:10.70,0:09:13.97,Default,,0000,0000,0000,,{\blur3}杨大宝 你还想不想干\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao, you want me to fire you?{\r}
+Dialogue: 0,0:09:14.07,0:09:15.73,Default,,0000,0000,0000,,{\blur3}买点豆腐去了那么久\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You took quite a while to buy tofu!{\r}
+Dialogue: 0,0:09:15.84,0:09:18.10,Default,,0000,0000,0000,,{\blur3}像你这样我别做生意了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've got a restaurant to run here.{\r}
+Dialogue: 0,0:09:18.21,0:09:21.34,Default,,0000,0000,0000,,{\blur3}是 老板 我这不回来了吗\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, boss. Well, I'm back now.{\r}
+Dialogue: 0,0:09:21.45,0:09:23.04,Default,,0000,0000,0000,,{\blur3}快摆好桌子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Set the tables.{\r}
+Dialogue: 0,0:09:25.38,0:09:27.28,Default,,0000,0000,0000,,{\blur3}老板 你得让开点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Excuse me, boss.{\r}
+Dialogue: 0,0:09:27.38,0:09:30.44,Default,,0000,0000,0000,,{\blur3}我总得把豆腐拿到厨房里去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I need to bring these to the kitchen.{\r}
+Dialogue: 0,0:09:36.09,0:09:38.49,Default,,0000,0000,0000,,{\blur3}快点 手脚俐落点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hurry up!{\r}
+Dialogue: 0,0:10:00.68,0:10:03.65,Default,,0000,0000,0000,,{\blur3}老板 请坐 两位吃点什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This way please. What would you like to eat?{\r}
+Dialogue: 0,0:10:03.75,0:10:05.52,Default,,0000,0000,0000,,{\blur3}伙计 来两碗牛肉面\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Two bowls of beef noodles.{\r}
+Dialogue: 0,0:10:05.62,0:10:06.11,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Right away.{\r}
+Dialogue: 0,0:10:06.22,0:10:08.38,Default,,0000,0000,0000,,{\blur3}牛肉面两碗\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Two bowls of beef noodles.{\r}
+Dialogue: 0,0:10:29.41,0:10:33.37,Default,,0000,0000,0000,,{\blur3}两位坐 吃点什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Welcome. What would you like?{\r}
+Dialogue: 0,0:10:33.48,0:10:38.72,Default,,0000,0000,0000,,{\blur3}蒸牛肉 煮水蛋 半斤白干 快点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Steamed beef, steamed egg and some wine. Hurry!{\r}
+Dialogue: 0,0:10:40.92,0:10:42.41,Default,,0000,0000,0000,,{\blur3}客倌 坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please have a seat.{\r}
+Dialogue: 0,0:10:45.93,0:10:46.42,Default,,0000,0000,0000,,{\blur3}两位\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Welcome.{\r}
+Dialogue: 0,0:10:46.53,0:10:47.02,Default,,0000,0000,0000,,{\blur3}切鸡一盘\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}A dish of chicken.{\r}
+Dialogue: 0,0:10:47.13,0:10:48.62,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Okay{\r}
+Dialogue: 0,0:10:51.30,0:10:54.00,Default,,0000,0000,0000,,{\blur3}喂 大爷有事 快点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey! I'm in a rush here! Hurry up!{\r}
+Dialogue: 0,0:10:54.10,0:10:58.34,Default,,0000,0000,0000,,{\blur3}是 听见没有\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes... can't you hear?{\r}
+Dialogue: 0,0:10:58.44,0:11:00.47,Default,,0000,0000,0000,,{\blur3}这两位爷儿们要先上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Bring the dishes to them first.{\r}
+Dialogue: 0,0:11:01.04,0:11:02.67,Default,,0000,0000,0000,,{\blur3}好 我知道了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Got it.{\r}
+Dialogue: 0,0:11:15.29,0:11:18.06,Default,,0000,0000,0000,,{\blur3}来了 快点快点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Coming. Hurry!{\r}
+Dialogue: 0,0:11:25.94,0:11:27.03,Default,,0000,0000,0000,,{\blur3}客倌 对不起\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sorry, sir.{\r}
+Dialogue: 0,0:11:27.14,0:11:29.63,Default,,0000,0000,0000,,{\blur3}大人有大量 我可不是故意的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I was careless.{\r}
+Dialogue: 0,0:11:32.41,0:11:33.38,Default,,0000,0000,0000,,{\blur3}鼻子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The nose.{\r}
+Dialogue: 0,0:11:37.25,0:11:39.44,Default,,0000,0000,0000,,{\blur3}起来起来 对不起\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get up. Sorry.{\r}
+Dialogue: 0,0:12:02.87,0:12:05.71,Default,,0000,0000,0000,,{\blur3}老板 这个鸡腿上有个苍蝇\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss, there's a fly on this chicken leg,{\r}
+Dialogue: 0,0:12:05.81,0:12:06.37,Default,,0000,0000,0000,,{\blur3}要不要把它给扔掉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}should I throw it away?{\r}
+Dialogue: 0,0:12:06.48,0:12:08.14,Default,,0000,0000,0000,,{\blur3}啊 扔了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Throw it away?{\r}
+Dialogue: 0,0:12:08.25,0:12:11.74,Default,,0000,0000,0000,,{\blur3}把这个苍蝇弄掉照样给他们吃\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get rid of the fly, and give it to them.{\r}
+Dialogue: 0,0:12:20.09,0:12:22.12,Default,,0000,0000,0000,,{\blur3}喂 这鸡腿怎么这样\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey, what's wrong with this?{\r}
+Dialogue: 0,0:12:22.23,0:12:24.66,Default,,0000,0000,0000,,{\blur3}请放心 这个鸡腿上本来有个苍蝇\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't worry. There's a fly here,{\r}
+Dialogue: 0,0:12:24.76,0:12:27.03,Default,,0000,0000,0000,,{\blur3}老板吩咐我把它给弄掉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}the boss told me to get rid of it.{\r}
+Dialogue: 0,0:12:27.13,0:12:29.50,Default,,0000,0000,0000,,{\blur3}不要紧的 尽管吃好了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't worry, eat up.{\r}
+Dialogue: 0,0:12:29.60,0:12:31.50,Default,,0000,0000,0000,,{\blur3}老板 这怎么吃啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How can I eat it?{\r}
+Dialogue: 0,0:12:31.60,0:12:32.93,Default,,0000,0000,0000,,{\blur3}我们这儿东西是绝对干净\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Our food is very clean here.{\r}
+Dialogue: 0,0:12:33.04,0:12:35.37,Default,,0000,0000,0000,,{\blur3}不要听他胡说八道 你这小子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't listen to him.{\r}
+Dialogue: 0,0:12:35.47,0:12:36.63,Default,,0000,0000,0000,,{\blur3}两位\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Gentlemen.{\r}
+Dialogue: 0,0:12:41.28,0:12:44.61,Default,,0000,0000,0000,,{\blur3}最要紧的是上好门板 收拾好铺子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Be sure to lock the shop up.{\r}
+Dialogue: 0,0:12:44.72,0:12:46.27,Default,,0000,0000,0000,,{\blur3}洗干净所有的东西\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Clean up everything.{\r}
+Dialogue: 0,0:12:46.38,0:12:47.87,Default,,0000,0000,0000,,{\blur3}泡好明天要磨的豆子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Soak the beans for tomorrow.{\r}
+Dialogue: 0,0:12:47.98,0:12:49.68,Default,,0000,0000,0000,,{\blur3}早点起来推磨\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wake up early to grind the beans.{\r}
+Dialogue: 0,0:12:50.69,0:12:53.28,Default,,0000,0000,0000,,{\blur3}干什么 你要砸铺子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What now? Are you trying to wreck the shop?{\r}
+Dialogue: 0,0:12:53.79,0:12:55.69,Default,,0000,0000,0000,,{\blur3}推好了磨马上煮豆汁\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}When you're done, start to boil the juice.{\r}
+Dialogue: 0,0:12:55.79,0:12:56.76,Default,,0000,0000,0000,,{\blur3}煮好了豆汁\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}When you've boiled the juice,{\r}
+Dialogue: 0,0:12:56.86,0:12:59.09,Default,,0000,0000,0000,,{\blur3}一边做豆腐一边做豆腐干\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}make some tofu and dried tofu.{\r}
+Dialogue: 0,0:12:59.20,0:13:02.36,Default,,0000,0000,0000,,{\blur3}一边炸豆腐 你可别偷懒\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And you can deep-fry some, don't try to slack off.{\r}
+Dialogue: 0,0:13:02.47,0:13:04.40,Default,,0000,0000,0000,,{\blur3}我要是知道你偷懒就得扣工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If I find out, I'll deduct it from your pay.{\r}
+Dialogue: 0,0:13:04.50,0:13:06.70,Default,,0000,0000,0000,,{\blur3}砸烂了东西也得扣工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If you break anything, that's coming off your pay too.{\r}
+Dialogue: 0,0:13:06.80,0:13:10.00,Default,,0000,0000,0000,,{\blur3}开门晚了我还是得扣工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And if you open the shop late, I'll deduct your pay.{\r}
+Dialogue: 0,0:13:10.11,0:13:11.20,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:13:40.14,0:13:43.07,Default,,0000,0000,0000,,{\blur3}奇怪 怎么每天临走都得摔一跤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's strange! Why do I trip everyday?{\r}
+Dialogue: 0,0:14:07.33,0:14:08.32,Default,,0000,0000,0000,,{\blur3}杨大宝\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao.{\r}
+Dialogue: 0,0:14:12.74,0:14:13.83,Default,,0000,0000,0000,,{\blur3}杨大宝\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao.{\r}
+Dialogue: 0,0:14:20.71,0:14:22.18,Default,,0000,0000,0000,,{\blur3}你在上边干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing up there?{\r}
+Dialogue: 0,0:14:25.45,0:14:26.97,Default,,0000,0000,0000,,{\blur3}我来看\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let me see what your{\r}
+Dialogue: 0,0:14:27.08,0:14:30.75,Default,,0000,0000,0000,,{\blur3}看你们黑虎门练什么叫化子功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Black Tiger Clan's martial arts style is all about{\r}
+Dialogue: 0,0:14:40.90,0:14:46.03,Default,,0000,0000,0000,,{\blur3}你懂什么 这就叫点指神仙钵\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What do you know? This is the fairy's bowl.{\r}
+Dialogue: 0,0:14:46.57,0:14:49.63,Default,,0000,0000,0000,,{\blur3}我说这是叫化子钵\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think it's more like a beggar's bowl.{\r}
+Dialogue: 0,0:14:53.84,0:14:56.24,Default,,0000,0000,0000,,{\blur3}来 只要你能够抢到这个叫化子钵\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Alright. If you can snatch this beggar's bowl,{\r}
+Dialogue: 0,0:14:56.35,0:14:57.81,Default,,0000,0000,0000,,{\blur3}就有好东西吃\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}you're in for a yummy treat.{\r}
+Dialogue: 0,0:15:13.16,0:15:14.22,Default,,0000,0000,0000,,{\blur3}戴上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wear it.{\r}
+Dialogue: 0,0:16:08.45,0:16:09.92,Default,,0000,0000,0000,,{\blur3}叫化子钵在我这儿了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've got it!{\r}
+Dialogue: 0,0:16:10.02,0:16:11.39,Default,,0000,0000,0000,,{\blur3}快拿东西来吃\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yummy food!{\r}
+Dialogue: 0,0:16:15.16,0:16:16.09,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Very well.{\r}
+Dialogue: 0,0:16:47.59,0:16:49.62,Default,,0000,0000,0000,,{\blur3}你信不信如果我不想让你吃\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you believe that with this pair of chopsticks{\r}
+Dialogue: 0,0:16:49.73,0:16:50.92,Default,,0000,0000,0000,,{\blur3}就凭我这双筷子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I can stop you from eating?{\r}
+Dialogue: 0,0:16:51.03,0:16:53.39,Default,,0000,0000,0000,,{\blur3}说什么你也进不了口\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You don't have a chance to eat anything.{\r}
+Dialogue: 0,0:16:56.90,0:16:58.16,Default,,0000,0000,0000,,{\blur3}我跟我爹学武的时候\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}When I was learning martial arts from my dad,{\r}
+Dialogue: 0,0:16:58.27,0:16:59.93,Default,,0000,0000,0000,,{\blur3}就是躲不开他这双筷子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}that's what he did.{\r}
+Dialogue: 0,0:17:00.04,0:17:02.23,Default,,0000,0000,0000,,{\blur3}整整吃了大半年的白饭\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For over half a year, I ate plain rice.{\r}
+Dialogue: 0,0:17:02.94,0:17:04.41,Default,,0000,0000,0000,,{\blur3}我们家传黑虎门的武功\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The main feature of the martial arts of my family,{\r}
+Dialogue: 0,0:17:04.51,0:17:05.30,Default,,0000,0000,0000,,{\blur3}最大的特点就是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}the Black Tiger Clan is that,{\r}
+Dialogue: 0,0:17:05.41,0:17:07.00,Default,,0000,0000,0000,,{\blur3}身边不论有什么东西\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we can pick up anything handy beside us,{\r}
+Dialogue: 0,0:17:07.11,0:17:09.31,Default,,0000,0000,0000,,{\blur3}都可以拿来做武器\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and use it as a weapon.{\r}
+Dialogue: 0,0:17:09.41,0:17:11.00,Default,,0000,0000,0000,,{\blur3}在吃饭的时候\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}While we're eating...{\r}
+Dialogue: 0,0:17:38.01,0:17:40.74,Default,,0000,0000,0000,,{\blur3}吃大半年的白饭滋味可不好捱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Ain't very nice to eat plain rice for over six months.{\r}
+Dialogue: 0,0:17:40.84,0:17:42.11,Default,,0000,0000,0000,,{\blur3}可不是嘛\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Definitely not.{\r}
+Dialogue: 0,0:17:42.21,0:17:45.41,Default,,0000,0000,0000,,{\blur3}不过等我爹制不住我的时候\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But when my dad couldn't stop me...{\r}
+Dialogue: 0,0:18:27.39,0:18:28.86,Default,,0000,0000,0000,,{\blur3}你明白了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you get it?{\r}
+Dialogue: 0,0:18:29.33,0:18:33.13,Default,,0000,0000,0000,,{\blur3}我先吞下去有空再慢慢的嚼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Swallow first, then chew later.{\r}
+Dialogue: 0,0:18:35.80,0:18:37.13,Default,,0000,0000,0000,,{\blur3}黑虎门功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For the Black Tiger Clan's martial arts,{\r}
+Dialogue: 0,0:18:37.23,0:18:39.86,Default,,0000,0000,0000,,{\blur3}随手可拿到的东西不论大小\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we can pick up anything handy beside us,{\r}
+Dialogue: 0,0:18:39.97,0:18:41.60,Default,,0000,0000,0000,,{\blur3}都可以做兵器\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and use it as a weapon.{\r}
+Dialogue: 0,0:18:41.71,0:18:43.04,Default,,0000,0000,0000,,{\blur3}真不简单\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's really something.{\r}
+Dialogue: 0,0:18:43.47,0:18:44.74,Default,,0000,0000,0000,,{\blur3}你也别客气了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't be modest.{\r}
+Dialogue: 0,0:18:44.84,0:18:48.00,Default,,0000,0000,0000,,{\blur3}你练的螳螂也是上乘功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The Mantis Style you're learning is very difficult too.{\r}
+Dialogue: 0,0:18:48.11,0:18:50.91,Default,,0000,0000,0000,,{\blur3}没有听你提起过你的师傅是谁\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've never heard about your master.{\r}
+Dialogue: 0,0:18:52.28,0:18:54.27,Default,,0000,0000,0000,,{\blur3}连我也不知道是谁\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I don't know who he is.{\r}
+Dialogue: 0,0:18:54.38,0:18:57.15,Default,,0000,0000,0000,,{\blur3}哪有这种事\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How can that be?{\r}
+Dialogue: 0,0:18:57.25,0:19:01.02,Default,,0000,0000,0000,,{\blur3}我遇到我师傅是在三年前\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I met my master three years ago.{\r}
+Dialogue: 0,0:19:01.89,0:19:03.36,Default,,0000,0000,0000,,{\blur3}我还在乡下\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I was still in my hometown then{\r}
+Dialogue: 0,0:19:10.43,0:19:14.87,Default,,0000,0000,0000,,{\blur3}小子 一人叫一声爷爷就放过你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Kid, c'mon address me as "grandpa" and I'll let you go.{\r}
+Dialogue: 0,0:19:14.97,0:19:16.20,Default,,0000,0000,0000,,{\blur3}龟孙子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Bastard!{\r}
+Dialogue: 0,0:19:16.91,0:19:18.40,Default,,0000,0000,0000,,{\blur3}小子 你叫不叫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on, kid!{\r}
+Dialogue: 0,0:19:18.51,0:19:19.67,Default,,0000,0000,0000,,{\blur3}龟孙子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Bastard!{\r}
+Dialogue: 0,0:19:39.66,0:19:42.83,Default,,0000,0000,0000,,{\blur3}爷爷饶命 爷爷\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Spare us, "grandpa"!{\r}
+Dialogue: 0,0:19:48.77,0:19:51.43,Default,,0000,0000,0000,,{\blur3}拜见师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master.{\r}
+Dialogue: 0,0:21:23.50,0:21:24.86,Default,,0000,0000,0000,,{\blur3}再试试这个\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Try this.{\r}
+Dialogue: 0,0:21:41.99,0:21:45.65,Default,,0000,0000,0000,,{\blur3}过了两年 师傅不告而别\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}My master left after two years.{\r}
+Dialogue: 0,0:21:46.52,0:21:49.22,Default,,0000,0000,0000,,{\blur3}我连他老人家的姓名都不知道\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I didn't even know his name.{\r}
+Dialogue: 0,0:21:54.90,0:21:56.83,Default,,0000,0000,0000,,{\blur3}这才是世外高人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's a true master.{\r}
+Dialogue: 0,0:22:07.31,0:22:08.87,Default,,0000,0000,0000,,{\blur3}你我都有一身的功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Both of us have skills,{\r}
+Dialogue: 0,0:22:08.98,0:22:10.47,Default,,0000,0000,0000,,{\blur3}在这个街市上混\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I don't know how long{\r}
+Dialogue: 0,0:22:10.58,0:22:13.38,Default,,0000,0000,0000,,{\blur3}不知道哪天才有出人头地的日子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we must wait to become something in this field{\r}
+Dialogue: 0,0:22:13.48,0:22:15.38,Default,,0000,0000,0000,,{\blur3}做一番英雄事业\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}that we can do something great!{\r}
+Dialogue: 0,0:22:16.22,0:22:18.81,Default,,0000,0000,0000,,{\blur3}如果有这一天我拼了这条命都肯\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'd risk my life for that day!{\r}
+Dialogue: 0,0:22:18.92,0:22:19.91,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Great!{\r}
+Dialogue: 0,0:22:24.13,0:22:25.82,Default,,0000,0000,0000,,{\blur3}我们两个人都想做英雄人物\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We both want to be heroes,{\r}
+Dialogue: 0,0:22:25.93,0:22:26.45,Default,,0000,0000,0000,,{\blur3}可是就是不知道\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we just don't know{\r}
+Dialogue: 0,0:22:26.56,0:22:28.39,Default,,0000,0000,0000,,{\blur3}要等到哪一天才能够做得到\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}when that will happen.{\r}
+Dialogue: 0,0:22:28.50,0:22:29.66,Default,,0000,0000,0000,,{\blur3}真气人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I can't wait.{\r}
+Dialogue: 0,0:22:31.94,0:22:33.46,Default,,0000,0000,0000,,{\blur3}早晚有这么一天的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It will happen one of these days.{\r}
+Dialogue: 0,0:22:35.27,0:22:37.21,Default,,0000,0000,0000,,{\blur3}好家伙 说打就打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Alright! A fight!{\r}
+Dialogue: 0,0:22:54.89,0:22:55.82,Default,,0000,0000,0000,,{\blur3}打和\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get even!{\r}
+Dialogue: 0,0:23:30.39,0:23:31.95,Default,,0000,0000,0000,,{\blur3}我晕了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm going to faint.{\r}
+Dialogue: 0,0:23:36.37,0:23:37.73,Default,,0000,0000,0000,,{\blur3}还说做英雄好汉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And you said you want to be a hero,{\r}
+Dialogue: 0,0:23:37.83,0:23:39.80,Default,,0000,0000,0000,,{\blur3}连坛酒都舍不得\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}you can't let go of this wine.{\r}
+Dialogue: 0,0:23:40.57,0:23:43.00,Default,,0000,0000,0000,,{\blur3}不是我舍不得 是老板舍不得\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's not me, it's my boss.{\r}
+Dialogue: 0,0:23:43.11,0:23:45.30,Default,,0000,0000,0000,,{\blur3}在没有做英雄之前还得吃饭\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I still need ajob before I become a hero.{\r}
+Dialogue: 0,0:23:45.41,0:23:46.43,Default,,0000,0000,0000,,{\blur3}对不对\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Right?{\r}
+Dialogue: 0,0:23:53.02,0:23:53.91,Default,,0000,0000,0000,,{\blur3}快点睡觉吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go to sleep.{\r}
+Dialogue: 0,0:23:54.02,0:23:56.42,Default,,0000,0000,0000,,{\blur3}半夜里还得起来推磨\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You need to get up to work in the middle of the night.{\r}
+Dialogue: 0,0:24:22.05,0:24:23.07,Default,,0000,0000,0000,,{\blur3}啊 洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan.{\r}
+Dialogue: 0,0:24:28.15,0:24:28.95,Default,,0000,0000,0000,,{\blur3}洪师兄\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Hong.{\r}
+Dialogue: 0,0:24:38.73,0:24:39.89,Default,,0000,0000,0000,,{\blur3}扶他起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Help him up.{\r}
+Dialogue: 0,0:24:41.60,0:24:44.23,Default,,0000,0000,0000,,{\blur3}别动他 扶他坐好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't move him, help him to sit up.{\r}
+Dialogue: 0,0:25:00.65,0:25:02.12,Default,,0000,0000,0000,,{\blur3}至善师父\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master Zhishan.{\r}
+Dialogue: 0,0:25:02.22,0:25:04.95,Default,,0000,0000,0000,,{\blur3}熙官 你内伤沉重\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Xiguan, you have serious internal injuries.{\r}
+Dialogue: 0,0:25:05.05,0:25:07.18,Default,,0000,0000,0000,,{\blur3}这位是喇嘛派的星龙长老\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is Master Xinglong of Lama Clan.{\r}
+Dialogue: 0,0:25:07.29,0:25:09.99,Default,,0000,0000,0000,,{\blur3}善于治伤 你且别动\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's a healer, don't move.{\r}
+Dialogue: 0,0:25:10.09,0:25:12.56,Default,,0000,0000,0000,,{\blur3}师父 西禅寺已经被白眉道人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master, the West Meditation Temple has been torn apart{\r}
+Dialogue: 0,0:25:12.66,0:25:16.22,Default,,0000,0000,0000,,{\blur3}高进忠和武当派的人给破了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}by White Brows Priest, Gao Jinzhong and the others.{\r}
+Dialogue: 0,0:25:16.97,0:25:22.70,Default,,0000,0000,0000,,{\blur3}三德师兄 童千斤 年瑞卿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Sande, Tong Qianjin, Nian Ruiqing,{\r}
+Dialogue: 0,0:25:22.81,0:25:25.54,Default,,0000,0000,0000,,{\blur3}李锦纶 胡惠乾他们都\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Li Jinlun, Hu Weigan... they're all dead.{\r}
+Dialogue: 0,0:25:25.64,0:25:27.80,Default,,0000,0000,0000,,{\blur3}七情六欲 澎湃翻腾\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Being emotional is the cause of internal injuries.{\r}
+Dialogue: 0,0:25:27.91,0:25:31.44,Default,,0000,0000,0000,,{\blur3}是内伤之本 吸气\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Inhale.{\r}
+Dialogue: 0,0:25:34.42,0:25:36.18,Default,,0000,0000,0000,,{\blur3}我全明白了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I understand.{\r}
+Dialogue: 0,0:25:36.29,0:25:39.41,Default,,0000,0000,0000,,{\blur3}他们迟早会到庆云寺来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They will come to Qingyun Temple eventually.{\r}
+Dialogue: 0,0:25:39.52,0:25:44.02,Default,,0000,0000,0000,,{\blur3}你伤得很重 一时之间难以痊愈\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're badly injured, it will take some time to heal.{\r}
+Dialogue: 0,0:25:44.13,0:25:48.26,Default,,0000,0000,0000,,{\blur3}我弟子中有个叫周成的开设武馆\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}My student Zhou Cheng runs a martial arts school.{\r}
+Dialogue: 0,0:25:48.36,0:25:52.32,Default,,0000,0000,0000,,{\blur3}你可以去找他 由他替你慢慢治伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You can look for him, and he can take care of you.{\r}
+Dialogue: 0,0:25:52.44,0:25:55.67,Default,,0000,0000,0000,,{\blur3}白眉 高进忠要是再来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If White Brows and Gao Jinzhong come here,{\r}
+Dialogue: 0,0:25:55.77,0:25:57.03,Default,,0000,0000,0000,,{\blur3}我正好跟他们拼命\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've to put up a fight with them.{\r}
+Dialogue: 0,0:25:57.14,0:26:01.54,Default,,0000,0000,0000,,{\blur3}你伤成这样留此无益 还不快走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You can't help in your state. You should leave soon.{\r}
+Dialogue: 0,0:26:01.64,0:26:04.91,Default,,0000,0000,0000,,{\blur3}韩七如今在红船当小武\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Han Qi works as an acrobat with a theatre troupe.{\r}
+Dialogue: 0,0:26:05.01,0:26:06.45,Default,,0000,0000,0000,,{\blur3}你可跟他联络\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You can contact him.{\r}
+Dialogue: 0,0:26:07.95,0:26:09.94,Default,,0000,0000,0000,,{\blur3}我们西藏喇嘛派不便卷入\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Our Tibetan Lama Clan don't want to get involved{\r}
+Dialogue: 0,0:26:10.05,0:26:14.08,Default,,0000,0000,0000,,{\blur3}中土朝廷和少林之争 告辞了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}in the fight between the Court and Shaolin, goodbye.{\r}
+Dialogue: 0,0:26:14.99,0:26:16.96,Default,,0000,0000,0000,,{\blur3}你等一等 我进去开一张药方给你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wait. I'll give you a prescription.{\r}
+Dialogue: 0,0:26:17.06,0:26:18.32,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:26:21.20,0:26:24.63,Default,,0000,0000,0000,,{\blur3}世玉你去拿点衣服银两来给熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Shiyu, pack some clothes and money for Xiguan.{\r}
+Dialogue: 0,0:26:24.73,0:26:25.89,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:26:28.54,0:26:30.63,Default,,0000,0000,0000,,{\blur3}我和世玉 美玉 孝玉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll stay here temporarily{\r}
+Dialogue: 0,0:26:30.74,0:26:32.50,Default,,0000,0000,0000,,{\blur3}他们暂时留在此地\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}with Shiyu, Meiyu and Xiaoyu.{\r}
+Dialogue: 0,0:26:32.61,0:26:34.44,Default,,0000,0000,0000,,{\blur3}一等走散的同门聚集\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}After we've gathered the rest of the students,{\r}
+Dialogue: 0,0:26:34.54,0:26:36.10,Default,,0000,0000,0000,,{\blur3}也会和韩七联络找你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we'll contact Han Qi and yourself.{\r}
+Dialogue: 0,0:26:36.21,0:26:37.37,Default,,0000,0000,0000,,{\blur3}是 师父\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, master.{\r}
+Dialogue: 0,0:26:47.02,0:26:48.35,Default,,0000,0000,0000,,{\blur3}我可以送你一程\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I could walk some distance with you.{\r}
+Dialogue: 0,0:26:48.46,0:26:50.69,Default,,0000,0000,0000,,{\blur3}告诉你去找周成的地方\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll tell you how to get to Zhou Cheng.{\r}
+Dialogue: 0,0:27:16.15,0:27:19.88,Default,,0000,0000,0000,,{\blur3}本派的桩法与普通的梅花桩不同\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}These are different from the usual setup.{\r}
+Dialogue: 0,0:27:19.99,0:27:21.98,Default,,0000,0000,0000,,{\blur3}是按北斗七星排列\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Ours is based on the Big Dipper constellation.{\r}
+Dialogue: 0,0:27:22.09,0:27:26.03,Default,,0000,0000,0000,,{\blur3}高低有异 共七七四十九根\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Forty nine in total, all different in height.{\r}
+Dialogue: 0,0:27:26.16,0:27:27.56,Default,,0000,0000,0000,,{\blur3}这些你们都知道了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You all know that.{\r}
+Dialogue: 0,0:27:27.66,0:27:29.10,Default,,0000,0000,0000,,{\blur3}知道了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:27:29.20,0:27:31.17,Default,,0000,0000,0000,,{\blur3}你们按我平时的传授\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Practise hard{\r}
+Dialogue: 0,0:27:31.27,0:27:32.67,Default,,0000,0000,0000,,{\blur3}好好地用心练习\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}from what I have taught you.{\r}
+Dialogue: 0,0:27:32.77,0:27:33.89,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:28:29.73,0:28:32.39,Default,,0000,0000,0000,,{\blur3}好 慢慢练\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Good! Continue practising!{\r}
+Dialogue: 0,0:28:32.50,0:28:35.46,Default,,0000,0000,0000,,{\blur3}日子长了 在七星桩上面\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}After a certain time, it won't feel{\r}
+Dialogue: 0,0:28:35.56,0:28:38.00,Default,,0000,0000,0000,,{\blur3}就会像在地面上一样\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}any different up there from what it's on the ground{\r}
+Dialogue: 0,0:28:40.54,0:28:42.33,Default,,0000,0000,0000,,{\blur3}朱财怎么还没来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Where's Zhu Cai?{\r}
+Dialogue: 0,0:28:46.71,0:28:47.97,Default,,0000,0000,0000,,{\blur3}师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master.{\r}
+Dialogue: 0,0:28:48.74,0:28:50.23,Default,,0000,0000,0000,,{\blur3}站住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wait.{\r}
+Dialogue: 0,0:28:50.35,0:28:52.91,Default,,0000,0000,0000,,{\blur3}你这个时候才来像是练功夫的人吗\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're late. Do you take your lesson seriously?{\r}
+Dialogue: 0,0:28:53.02,0:28:54.38,Default,,0000,0000,0000,,{\blur3}今天染房里事多\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's very busy at the dye factory today.{\r}
+Dialogue: 0,0:28:54.48,0:28:57.82,Default,,0000,0000,0000,,{\blur3}我赶着做完了才来 是迟了一点\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I rushed here as soon as I could leave.{\r}
+Dialogue: 0,0:28:57.92,0:29:00.05,Default,,0000,0000,0000,,{\blur3}那你就回染房去吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Then you should head back.{\r}
+Dialogue: 0,0:29:00.96,0:29:05.12,Default,,0000,0000,0000,,{\blur3}像你这样练功夫怎么练得成\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You can never learn the way you are.{\r}
+Dialogue: 0,0:29:05.23,0:29:08.03,Default,,0000,0000,0000,,{\blur3}说起来你是我周成的徒弟\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm ashamed that{\r}
+Dialogue: 0,0:29:08.13,0:29:09.96,Default,,0000,0000,0000,,{\blur3}给我丢脸\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}you're my student.{\r}
+Dialogue: 0,0:29:15.91,0:29:19.84,Default,,0000,0000,0000,,{\blur3}你们看看他想跟我动手\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Look! He tries to hit me.{\r}
+Dialogue: 0,0:29:21.51,0:29:24.17,Default,,0000,0000,0000,,{\blur3}喂 师傅叫你回染房去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey! The master sent you back to the dye factory.{\r}
+Dialogue: 0,0:29:24.28,0:29:25.44,Default,,0000,0000,0000,,{\blur3}你怎么还不走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing here still?{\r}
+Dialogue: 0,0:29:25.55,0:29:28.04,Default,,0000,0000,0000,,{\blur3}我练完七星桩再回去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll leave after I've practised.{\r}
+Dialogue: 0,0:29:28.15,0:29:29.41,Default,,0000,0000,0000,,{\blur3}练七星桩\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Practise on the Big Dipper poles?{\r}
+Dialogue: 0,0:29:29.52,0:29:33.32,Default,,0000,0000,0000,,{\blur3}好啊 来 我陪你上桩练练\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Very well. Come on!{\r}
+Dialogue: 0,0:29:33.42,0:29:35.65,Default,,0000,0000,0000,,{\blur3}桩上过招容易受伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's easy to get injured there.{\r}
+Dialogue: 0,0:29:35.76,0:29:38.85,Default,,0000,0000,0000,,{\blur3}你是万金之躯我可不敢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I dare not hurt you.{\r}
+Dialogue: 0,0:29:40.43,0:29:42.36,Default,,0000,0000,0000,,{\blur3}就凭你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you honestly think you can?{\r}
+Dialogue: 0,0:29:45.30,0:29:46.67,Default,,0000,0000,0000,,{\blur3}上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go up!{\r}
+Dialogue: 0,0:29:47.77,0:29:50.76,Default,,0000,0000,0000,,{\blur3}你们看看他多听话\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Look how he listens to me!{\r}
+Dialogue: 0,0:30:31.91,0:30:34.78,Default,,0000,0000,0000,,{\blur3}朱财 你这是干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai, what on earth are you doing?{\r}
+Dialogue: 0,0:30:34.88,0:30:38.41,Default,,0000,0000,0000,,{\blur3}同门过招 你怎么出手这么重\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How could you be so severe on your classmate?{\r}
+Dialogue: 0,0:30:41.92,0:30:43.62,Default,,0000,0000,0000,,{\blur3}师傅 他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master, he...{\r}
+Dialogue: 0,0:30:44.56,0:30:47.93,Default,,0000,0000,0000,,{\blur3}你自以为练得不错了 是不是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You think you've mastered it, don't you?{\r}
+Dialogue: 0,0:30:48.40,0:30:50.92,Default,,0000,0000,0000,,{\blur3}好 我跟你过几招\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Fine, challenge me.{\r}
+Dialogue: 0,0:30:51.03,0:30:52.59,Default,,0000,0000,0000,,{\blur3}弟子不敢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I dare not to, master.{\r}
+Dialogue: 0,0:31:00.21,0:31:01.90,Default,,0000,0000,0000,,{\blur3}阿金 我走了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin, I'm off.{\r}
+Dialogue: 0,0:31:02.75,0:31:05.81,Default,,0000,0000,0000,,{\blur3}朱财 站住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Stand still, Zhu Cai.{\r}
+Dialogue: 0,0:31:13.52,0:31:16.29,Default,,0000,0000,0000,,{\blur3}你们听着 你们替我打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Listen up! Beat him up!{\r}
+Dialogue: 0,0:31:16.39,0:31:19.52,Default,,0000,0000,0000,,{\blur3}打中一拳 踢中一脚一两银子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll pay a tael of silver for every punch and kick!{\r}
+Dialogue: 0,0:31:35.81,0:31:37.75,Default,,0000,0000,0000,,{\blur3}喂 你怎么不还手\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey! Why didn't you fight back?{\r}
+Dialogue: 0,0:31:37.85,0:31:40.21,Default,,0000,0000,0000,,{\blur3}就算打不过也要拼命啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You must try your best even if there's no hope to win.{\r}
+Dialogue: 0,0:31:41.92,0:31:44.89,Default,,0000,0000,0000,,{\blur3}打 打中一拳一两银子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on! You'll get paid.{\r}
+Dialogue: 0,0:31:45.75,0:31:48.19,Default,,0000,0000,0000,,{\blur3}我打中一拳 你欠我一两银子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One punch, you owe me a tael.{\r}
+Dialogue: 0,0:31:51.56,0:31:53.79,Default,,0000,0000,0000,,{\blur3}我连中五拳 前后六两\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Five punches, six taels of silver all together.{\r}
+Dialogue: 0,0:32:11.85,0:32:13.54,Default,,0000,0000,0000,,{\blur3}你到底有没有钱给\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Can you afford it?{\r}
+Dialogue: 0,0:32:13.65,0:32:18.09,Default,,0000,0000,0000,,{\blur3}一共是一百三十四两 你给不给\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One hundred and thirty four taels. Pay up.{\r}
+Dialogue: 0,0:32:22.99,0:32:24.48,Default,,0000,0000,0000,,{\blur3}一百五十\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One hundred and fifty.{\r}
+Dialogue: 0,0:32:26.80,0:32:28.35,Default,,0000,0000,0000,,{\blur3}一百七十八\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One hundred and seventy eight.{\r}
+Dialogue: 0,0:32:30.13,0:32:32.12,Default,,0000,0000,0000,,{\blur3}一百九十 一百九十八\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One hundred and ninety, one hundred and ninety eight.{\r}
+Dialogue: 0,0:32:32.23,0:32:33.83,Default,,0000,0000,0000,,{\blur3}一百九十九\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One hundred and ninety nine.{\r}
+Dialogue: 0,0:32:37.11,0:32:38.47,Default,,0000,0000,0000,,{\blur3}正好两百两\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Two hundred!{\r}
+Dialogue: 0,0:32:44.45,0:32:45.74,Default,,0000,0000,0000,,{\blur3}走啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run.{\r}
+Dialogue: 0,0:32:46.62,0:32:49.95,Default,,0000,0000,0000,,{\blur3}多谢两位 这几位都是我的师兄弟\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Thanks, they're all my classmates at the kung fu school{\r}
+Dialogue: 0,0:32:50.05,0:32:52.08,Default,,0000,0000,0000,,{\blur3}两位请住手吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please stop.{\r}
+Dialogue: 0,0:33:17.95,0:33:19.44,Default,,0000,0000,0000,,{\blur3}这算什么师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What kind of a master is he?{\r}
+Dialogue: 0,0:33:19.55,0:33:21.41,Default,,0000,0000,0000,,{\blur3}有钱不一定练得好功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}A rich person won't necessarily learn well.{\r}
+Dialogue: 0,0:33:21.52,0:33:24.95,Default,,0000,0000,0000,,{\blur3}我看你的功夫就比同门师兄弟强\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think you're better than the rest of them.{\r}
+Dialogue: 0,0:33:30.76,0:33:34.35,Default,,0000,0000,0000,,{\blur3}我练了七星桩 请多多指教\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've learnt martial arts on the Big Dipper Poles.{\r}
+Dialogue: 0,0:33:34.46,0:33:37.43,Default,,0000,0000,0000,,{\blur3}七星桩 在哪里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Big Dipper Poles? Where?{\r}
+Dialogue: 0,0:34:10.03,0:34:12.23,Default,,0000,0000,0000,,{\blur3}我们来过两招\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's have some fun.{\r}
+Dialogue: 0,0:34:17.87,0:34:19.50,Default,,0000,0000,0000,,{\blur3}我没站好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I lost my balance.{\r}
+Dialogue: 0,0:34:30.95,0:34:32.65,Default,,0000,0000,0000,,{\blur3}你不行 让我来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}My turn!{\r}
+Dialogue: 0,0:35:12.26,0:35:14.46,Default,,0000,0000,0000,,{\blur3}好 在桩上是你行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Very well! You rule on the poles.{\r}
+Dialogue: 0,0:35:14.56,0:35:17.33,Default,,0000,0000,0000,,{\blur3}到饭店就看我的了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But I'm better at the restaurant.{\r}
+Dialogue: 0,0:35:18.83,0:35:22.03,Default,,0000,0000,0000,,{\blur3}到了豆腐店就要看我的功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And I'm the best in the tofu shop.{\r}
+Dialogue: 0,0:35:40.12,0:35:41.38,Default,,0000,0000,0000,,{\blur3}韩七\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Han Qi?{\r}
+Dialogue: 0,0:35:42.96,0:35:44.93,Default,,0000,0000,0000,,{\blur3}我才叫洪熙官到红船和你联络\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I sent Hong Xiguan to contact you!{\r}
+Dialogue: 0,0:35:45.03,0:35:45.72,Default,,0000,0000,0000,,{\blur3}你怎么来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing here?{\r}
+Dialogue: 0,0:35:45.83,0:35:48.13,Default,,0000,0000,0000,,{\blur3}至善师父 外面风声很紧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master Zhishan, it's very dangerous out there.{\r}
+Dialogue: 0,0:35:48.23,0:35:49.20,Default,,0000,0000,0000,,{\blur3}我来告诉你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm here to inform you.{\r}
+Dialogue: 0,0:35:49.30,0:35:51.60,Default,,0000,0000,0000,,{\blur3}我知道了 你快回去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I know, just head back.{\r}
+Dialogue: 0,0:35:51.70,0:35:54.19,Default,,0000,0000,0000,,{\blur3}洪熙官受了伤 一定要赶快找到他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan is injured, you must hurry and find him.{\r}
+Dialogue: 0,0:35:54.30,0:35:55.70,Default,,0000,0000,0000,,{\blur3}我们暂时留在这里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We're staying here temporarily.{\r}
+Dialogue: 0,0:35:55.80,0:35:57.77,Default,,0000,0000,0000,,{\blur3}直等逃出来的同门到齐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}After the rest of the members are here,{\r}
+Dialogue: 0,0:35:57.87,0:36:01.17,Default,,0000,0000,0000,,{\blur3}就和你联络 走吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll contact you, go!{\r}
+Dialogue: 0,0:36:01.54,0:36:02.37,Default,,0000,0000,0000,,{\blur3}从后门走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Leave at the back door.{\r}
+Dialogue: 0,0:36:02.48,0:36:03.60,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Alright.{\r}
+Dialogue: 0,0:36:05.95,0:36:08.21,Default,,0000,0000,0000,,{\blur3}我记挂着洪师兄的伤势\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I worry about Brother Hong's injuries.{\r}
+Dialogue: 0,0:36:15.32,0:36:17.76,Default,,0000,0000,0000,,{\blur3}老和尚 这里有一个至善大师吗\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Old monk, is there a Master Zhishan here?{\r}
+Dialogue: 0,0:36:17.86,0:36:18.88,Default,,0000,0000,0000,,{\blur3}还好你没骂人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Good thing that you weren't rude.{\r}
+Dialogue: 0,0:36:18.99,0:36:20.89,Default,,0000,0000,0000,,{\blur3}这位就是至善师父了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is Master Zhishan.{\r}
+Dialogue: 0,0:36:21.00,0:36:23.16,Default,,0000,0000,0000,,{\blur3}谁说难找 一下就找到了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I didn't expect he'd be so easy to find.{\r}
+Dialogue: 0,0:36:23.27,0:36:25.23,Default,,0000,0000,0000,,{\blur3}这位小施主找我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You were looking for me?{\r}
+Dialogue: 0,0:36:25.33,0:36:27.10,Default,,0000,0000,0000,,{\blur3}要你的老命\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}To kill you.{\r}
+Dialogue: 0,0:36:30.14,0:36:32.04,Default,,0000,0000,0000,,{\blur3}老的打不过 打小的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Old one too tough; guess I will see to the younger ones.{\r}
+Dialogue: 0,0:37:04.41,0:37:08.81,Default,,0000,0000,0000,,{\blur3}高进忠 少林叛逆至善为首\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhishan is the head of those Shaolin members.{\r}
+Dialogue: 0,0:37:08.91,0:37:11.85,Default,,0000,0000,0000,,{\blur3}门人之中方世玉最强\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}His best student is Fang Shiyu.{\r}
+Dialogue: 0,0:37:11.95,0:37:15.54,Default,,0000,0000,0000,,{\blur3}先除方世玉 再合歼至善\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Tackle Fang Shiyu first; then we'll both kill Zhishan.{\r}
+Dialogue: 0,0:37:15.65,0:37:18.55,Default,,0000,0000,0000,,{\blur3}方世玉自小由他母亲苗翠花\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Fang Shiyu's mother Miao Cuihua{\r}
+Dialogue: 0,0:37:18.65,0:37:21.18,Default,,0000,0000,0000,,{\blur3}用药浸洗全身\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}soaked him in herbal medicine when he was young.{\r}
+Dialogue: 0,0:37:24.23,0:37:27.46,Default,,0000,0000,0000,,{\blur3}除了下阴 他是刀剑难伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's hard to hurt him with swords except his crotch.{\r}
+Dialogue: 0,0:37:27.56,0:37:30.79,Default,,0000,0000,0000,,{\blur3}你引他起飞脚 由我下手\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Try to make him kick, then I'll take care of it.{\r}
+Dialogue: 0,0:37:30.90,0:37:33.46,Default,,0000,0000,0000,,{\blur3}至善全身也只有双目和下阴\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For Zhishan,{\r}
+Dialogue: 0,0:37:33.57,0:37:34.97,Default,,0000,0000,0000,,{\blur3}是功夫练不到之处\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}his weakest parts are his eyes 1and crotch.{\r}
+Dialogue: 0,0:37:35.07,0:37:38.04,Default,,0000,0000,0000,,{\blur3}你攻他双目 引他注意保护眼睛\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Attack his eyes, so that he'll try to protect them.{\r}
+Dialogue: 0,0:37:38.14,0:37:39.57,Default,,0000,0000,0000,,{\blur3}我来取他下阴\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Then I'll attack his crotch.{\r}
+Dialogue: 0,0:37:39.68,0:37:40.57,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sure{\r}
+Dialogue: 0,0:37:40.68,0:37:41.67,Default,,0000,0000,0000,,{\blur3}上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go!{\r}
+Dialogue: 0,0:38:41.20,0:38:42.36,Default,,0000,0000,0000,,{\blur3}至善已死\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhishan's dead.{\r}
+Dialogue: 0,0:38:42.47,0:38:45.27,Default,,0000,0000,0000,,{\blur3}少林弟子之中只剩下洪熙官一人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan is the only Shaolin member left.{\r}
+Dialogue: 0,0:38:45.37,0:38:48.00,Default,,0000,0000,0000,,{\blur3}也被我打成重伤 不足为患\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's not a threat, I injured him well.{\r}
+Dialogue: 0,0:38:48.11,0:38:49.77,Default,,0000,0000,0000,,{\blur3}高进忠 你带着他们四个人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Gao Jinzhong, you take the four of them,{\r}
+Dialogue: 0,0:38:49.88,0:38:52.98,Default,,0000,0000,0000,,{\blur3}追寻洪熙官 一找到就地格杀\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and try to locate Hong Xiguan. Kill him once you've found him.{\r}
+Dialogue: 0,0:38:53.08,0:38:54.07,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:38:56.95,0:38:58.28,Default,,0000,0000,0000,,{\blur3}洪师哥\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Hong.{\r}
+Dialogue: 0,0:39:00.12,0:39:03.06,Default,,0000,0000,0000,,{\blur3}王师弟 你一个人在这儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Wang, you're here alone?{\r}
+Dialogue: 0,0:39:03.16,0:39:05.96,Default,,0000,0000,0000,,{\blur3}离开少林寺之后大家都走散了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I got parted from others after we left Shaolin Temple.{\r}
+Dialogue: 0,0:39:06.06,0:39:09.26,Default,,0000,0000,0000,,{\blur3}我还在找至善师父和师兄弟们\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm still trying to look for Master Zhishan & the rest.{\r}
+Dialogue: 0,0:39:10.57,0:39:13.26,Default,,0000,0000,0000,,{\blur3}许多师兄弟都在西禅寺殉难了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Many of them died in West Meditation Temple.{\r}
+Dialogue: 0,0:39:13.37,0:39:17.00,Default,,0000,0000,0000,,{\blur3}至善师父和方师弟他们还在庆云寺\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhishan and Brother Fang are still in Qingyun Temple.{\r}
+Dialogue: 0,0:39:17.11,0:39:18.80,Default,,0000,0000,0000,,{\blur3}我就是刚刚从那边来的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I came from there.{\r}
+Dialogue: 0,0:39:18.91,0:39:21.00,Default,,0000,0000,0000,,{\blur3}现在洪师哥打算去哪儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Where do you plan to go now?{\r}
+Dialogue: 0,0:39:23.31,0:39:25.30,Default,,0000,0000,0000,,{\blur3}你受了伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Are you hurt?{\r}
+Dialogue: 0,0:39:27.62,0:39:32.52,Default,,0000,0000,0000,,{\blur3}是 师父命我同红船上的韩七联络\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, the master sent me to contact Han Qi.{\r}
+Dialogue: 0,0:39:32.62,0:39:35.06,Default,,0000,0000,0000,,{\blur3}不过我离开庆云寺\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But when I left Qingyun Temple,{\r}
+Dialogue: 0,0:39:35.16,0:39:37.28,Default,,0000,0000,0000,,{\blur3}和星龙长老分手之后\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and bid goodbye to Master Xinglong{\r}
+Dialogue: 0,0:39:37.39,0:39:39.72,Default,,0000,0000,0000,,{\blur3}并给高进忠一帮人给追上了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Gao Jinzhong and his gang caught up with me.{\r}
+Dialogue: 0,0:39:39.83,0:39:41.30,Default,,0000,0000,0000,,{\blur3}还不知道会不会追到这儿来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm not sure whether they'll find me here.{\r}
+Dialogue: 0,0:39:41.40,0:39:42.56,Default,,0000,0000,0000,,{\blur3}那你还是快走吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Then you had better leave.{\r}
+Dialogue: 0,0:39:42.66,0:39:44.86,Default,,0000,0000,0000,,{\blur3}要是高进忠他们追到这里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If they get here,{\r}
+Dialogue: 0,0:39:44.97,0:39:47.13,Default,,0000,0000,0000,,{\blur3}我会见机行事\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll deal with them.{\r}
+Dialogue: 0,0:39:47.87,0:39:49.84,Default,,0000,0000,0000,,{\blur3}也好 我们两个在一块儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}At least we're here together,{\r}
+Dialogue: 0,0:39:49.94,0:39:51.37,Default,,0000,0000,0000,,{\blur3}反而会都脱不了身的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we'll think of something.{\r}
+Dialogue: 0,0:39:51.47,0:39:52.41,Default,,0000,0000,0000,,{\blur3}我先走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm heading off.{\r}
+Dialogue: 0,0:39:52.51,0:39:54.24,Default,,0000,0000,0000,,{\blur3}你直接去找韩七联络就行了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Try to find Han Qi.{\r}
+Dialogue: 0,0:39:54.34,0:39:58.28,Default,,0000,0000,0000,,{\blur3}是 师哥 你身上有伤要小心\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes. Please be careful with your wounds.{\r}
+Dialogue: 0,0:39:58.38,0:40:02.94,Default,,0000,0000,0000,,{\blur3}我知道 你也要小心 我走了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I know. You be careful too. I'm off.{\r}
+Dialogue: 0,0:40:07.89,0:40:09.25,Default,,0000,0000,0000,,{\blur3}洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan.{\r}
+Dialogue: 0,0:44:31.62,0:44:33.42,Default,,0000,0000,0000,,{\blur3}你们这两个家伙\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You two!{\r}
+Dialogue: 0,0:45:44.16,0:45:44.65,Default,,0000,0000,0000,,{\blur3}来呀\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on!{\r}
+Dialogue: 0,0:45:44.76,0:45:45.85,Default,,0000,0000,0000,,{\blur3}再来一次\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Another round!{\r}
+Dialogue: 0,0:45:48.20,0:45:50.49,Default,,0000,0000,0000,,{\blur3}一指定中原\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Power of a finger.{\r}
+Dialogue: 0,0:45:55.27,0:45:56.64,Default,,0000,0000,0000,,{\blur3}下来这儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get down here.{\r}
+Dialogue: 0,0:46:47.69,0:46:49.66,Default,,0000,0000,0000,,{\blur3}你就是洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're Hong Xiguan?{\r}
+Dialogue: 0,0:46:49.76,0:46:50.78,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,0:46:51.16,0:46:54.46,Default,,0000,0000,0000,,{\blur3}令师星龙长老命我来见周师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Your master Xinglong sent me here to meet Master Zhou.{\r}
+Dialogue: 0,0:46:54.56,0:46:56.43,Default,,0000,0000,0000,,{\blur3}请周师傅替我疗伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I hope that you could treat me.{\r}
+Dialogue: 0,0:46:57.10,0:46:59.16,Default,,0000,0000,0000,,{\blur3}本来武林一脉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We're both in the martial arts world,{\r}
+Dialogue: 0,0:46:59.27,0:47:03.43,Default,,0000,0000,0000,,{\blur3}你受了重伤又曾见过我师父\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}you're badly injured and have met my master.{\r}
+Dialogue: 0,0:47:04.01,0:47:06.94,Default,,0000,0000,0000,,{\blur3}可惜我这间武馆地方浅窄\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yet my school is just a small place;{\r}
+Dialogue: 0,0:47:07.04,0:47:08.91,Default,,0000,0000,0000,,{\blur3}实在容纳不了你老哥这样的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It has no room for such{\r}
+Dialogue: 0,0:47:09.01,0:47:11.24,Default,,0000,0000,0000,,{\blur3}大英雄 大豪杰\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}a big hero like yourself.{\r}
+Dialogue: 0,0:47:11.35,0:47:13.78,Default,,0000,0000,0000,,{\blur3}周师傅 不用说了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master Zhou, say no more.{\r}
+Dialogue: 0,0:47:13.88,0:47:17.22,Default,,0000,0000,0000,,{\blur3}我非常明白你的意思 就此告辞\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I understand. Goodbye.{\r}
+Dialogue: 0,0:47:20.69,0:47:21.52,Default,,0000,0000,0000,,{\blur3}洪英雄\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hero Hong.{\r}
+Dialogue: 0,0:47:21.62,0:47:22.95,Default,,0000,0000,0000,,{\blur3}干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing?{\r}
+Dialogue: 0,0:47:42.74,0:47:44.47,Default,,0000,0000,0000,,{\blur3}对不起 客倌\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sorry, sir.{\r}
+Dialogue: 0,0:47:49.68,0:47:52.02,Default,,0000,0000,0000,,{\blur3}快起来 起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get up!{\r}
+Dialogue: 0,0:47:54.69,0:47:57.02,Default,,0000,0000,0000,,{\blur3}杨大宝 你搞什么鬼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao, what's wrong with you?{\r}
+Dialogue: 0,0:47:57.13,0:47:58.02,Default,,0000,0000,0000,,{\blur3}我搞什么鬼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What's wrong with me?{\r}
+Dialogue: 0,0:47:58.13,0:47:59.02,Default,,0000,0000,0000,,{\blur3}你看看这些凳子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Look at these stools!{\r}
+Dialogue: 0,0:47:59.13,0:48:02.56,Default,,0000,0000,0000,,{\blur3}凳子 凳子是好的 你看\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're all in good condition, look!{\r}
+Dialogue: 0,0:48:02.96,0:48:03.99,Default,,0000,0000,0000,,{\blur3}好的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Good condition?{\r}
+Dialogue: 0,0:48:04.10,0:48:05.83,Default,,0000,0000,0000,,{\blur3}我坐着就没事\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I don't have any problem with it.{\r}
+Dialogue: 0,0:48:15.24,0:48:17.68,Default,,0000,0000,0000,,{\blur3}老板你看 凳子是好的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Look! All in one piece.{\r}
+Dialogue: 0,0:48:17.78,0:48:19.21,Default,,0000,0000,0000,,{\blur3}他们不会坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They just don't know how to sit properly.{\r}
+Dialogue: 0,0:48:20.88,0:48:22.75,Default,,0000,0000,0000,,{\blur3}客倌 里面请 请\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Welcome!{\r}
+Dialogue: 0,0:48:41.00,0:48:42.70,Default,,0000,0000,0000,,{\blur3}请坐 坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please have a seat.{\r}
+Dialogue: 0,0:48:42.80,0:48:47.57,Default,,0000,0000,0000,,{\blur3}该怎么坐 用四平大马还是子午马\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}So, how should I sit?{\r}
+Dialogue: 0,0:48:49.58,0:48:53.81,Default,,0000,0000,0000,,{\blur3}客倌您说笑了 怎么坐都行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sir, you're kidding. You can sit whatever way you want.{\r}
+Dialogue: 0,0:49:00.02,0:49:04.22,Default,,0000,0000,0000,,{\blur3}快点 对不起 快点拿张凳子来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hurry! Sorry. Take a stool{\r}
+Dialogue: 0,0:49:04.96,0:49:06.36,Default,,0000,0000,0000,,{\blur3}送到那边去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and put it over there.{\r}
+Dialogue: 0,0:49:06.96,0:49:07.95,Default,,0000,0000,0000,,{\blur3}来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Coming.{\r}
+Dialogue: 0,0:49:21.78,0:49:23.30,Default,,0000,0000,0000,,{\blur3}客倌你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You...{\r}
+Dialogue: 0,0:49:23.41,0:49:24.40,Default,,0000,0000,0000,,{\blur3}走开\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Beat it.{\r}
+Dialogue: 0,0:49:31.29,0:49:32.95,Default,,0000,0000,0000,,{\blur3}你是黑虎门的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Black Tiger Clan?{\r}
+Dialogue: 0,0:49:34.26,0:49:35.78,Default,,0000,0000,0000,,{\blur3}我要找一个人叫韩七\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm looking for a person named Han Qi,{\r}
+Dialogue: 0,0:49:35.89,0:49:37.48,Default,,0000,0000,0000,,{\blur3}是在红船上做小武的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}he works as an acrobat in the theatre troupe.{\r}
+Dialogue: 0,0:49:37.59,0:49:39.25,Default,,0000,0000,0000,,{\blur3}你认识不认识\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Have you heard of him?{\r}
+Dialogue: 0,0:49:39.36,0:49:41.73,Default,,0000,0000,0000,,{\blur3}就是韩七 我看过他演戏\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Han Qi! I've watched him perform.{\r}
+Dialogue: 0,0:49:41.83,0:49:43.32,Default,,0000,0000,0000,,{\blur3}红船这两天会来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}His red boat will arrive in a few days.{\r}
+Dialogue: 0,0:49:43.43,0:49:46.30,Default,,0000,0000,0000,,{\blur3}客倌你好像受了伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You seem to be injured.{\r}
+Dialogue: 0,0:49:48.14,0:49:49.50,Default,,0000,0000,0000,,{\blur3}算我多嘴\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sorry, it's none of my business.{\r}
+Dialogue: 0,0:50:00.42,0:50:03.21,Default,,0000,0000,0000,,{\blur3}偷懒扣工钱 打烂了东西扣工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll deduct from your pay if you slack off,{\r}
+Dialogue: 0,0:50:03.32,0:50:06.69,Default,,0000,0000,0000,,{\blur3}铺子开迟了也得要扣工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}break anything or open late.{\r}
+Dialogue: 0,0:50:19.13,0:50:24.80,Default,,0000,0000,0000,,{\blur3}见鬼 得请和尚道士来念念经才行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Damn! I must find a monk for a ceremony.{\r}
+Dialogue: 0,0:50:42.42,0:50:46.05,Default,,0000,0000,0000,,{\blur3}老兄 你撞翻了我的东西了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey, pal! You knocked off my stuff.{\r}
+Dialogue: 0,0:50:46.16,0:50:49.39,Default,,0000,0000,0000,,{\blur3}怎么搞的 这么大人走路还翻跟头\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What's the matter? Can't you walk properly?{\r}
+Dialogue: 0,0:50:49.50,0:50:51.76,Default,,0000,0000,0000,,{\blur3}真是 我看你八成喝醉酒了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think you're drunk.{\r}
+Dialogue: 0,0:50:51.87,0:50:53.63,Default,,0000,0000,0000,,{\blur3}真麻烦\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Such trouble!{\r}
+Dialogue: 0,0:51:03.91,0:51:05.67,Default,,0000,0000,0000,,{\blur3}你是什么人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who are you?{\r}
+Dialogue: 0,0:51:20.60,0:51:23.03,Default,,0000,0000,0000,,{\blur3}陈阿金\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Chen Ajin.{\r}
+Dialogue: 0,0:51:23.13,0:51:24.39,Default,,0000,0000,0000,,{\blur3}杨大宝 快来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao, come on in.{\r}
+Dialogue: 0,0:51:25.07,0:51:27.56,Default,,0000,0000,0000,,{\blur3}你让我给你推磨 我可不干\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You want me to do yourjob? Never.{\r}
+Dialogue: 0,0:51:27.67,0:51:30.30,Default,,0000,0000,0000,,{\blur3}跟我的功夫不是一路\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's different from my martial arts style.{\r}
+Dialogue: 0,0:51:32.34,0:51:33.36,Default,,0000,0000,0000,,{\blur3}你看看\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Look.{\r}
+Dialogue: 0,0:51:36.91,0:51:38.54,Default,,0000,0000,0000,,{\blur3}他是什么人 怎么会在这儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who is he? What's he doing here?{\r}
+Dialogue: 0,0:51:38.65,0:51:39.74,Default,,0000,0000,0000,,{\blur3}你认识他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You know him?{\r}
+Dialogue: 0,0:51:40.38,0:51:43.32,Default,,0000,0000,0000,,{\blur3}不认识 白天在店里见过\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No. I saw him in the restaurant earlier.{\r}
+Dialogue: 0,0:51:43.75,0:51:44.91,Default,,0000,0000,0000,,{\blur3}他是什么人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who is he?{\r}
+Dialogue: 0,0:51:45.02,0:51:46.15,Default,,0000,0000,0000,,{\blur3}我也不知道\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Not too sure myself.{\r}
+Dialogue: 0,0:51:46.25,0:51:49.49,Default,,0000,0000,0000,,{\blur3}在他身上找到了一张纸 你看看\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I found this piece of paper on him. Read it.{\r}
+Dialogue: 0,0:51:57.20,0:51:58.32,Default,,0000,0000,0000,,{\blur3}你也不把灯点起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Light up!{\r}
+Dialogue: 0,0:51:58.43,0:52:01.10,Default,,0000,0000,0000,,{\blur3}这么黑你让我怎么看\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I can't read anything in the dark.{\r}
+Dialogue: 0,0:52:13.05,0:52:14.57,Default,,0000,0000,0000,,{\blur3}上面说些什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What does it say?{\r}
+Dialogue: 0,0:52:20.22,0:52:21.71,Default,,0000,0000,0000,,{\blur3}你也不识字\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You are an illiterate too?{\r}
+Dialogue: 0,0:52:25.49,0:52:27.96,Default,,0000,0000,0000,,{\blur3}我看这个人有点来头\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think he must be an important person.{\r}
+Dialogue: 0,0:52:29.40,0:52:30.66,Default,,0000,0000,0000,,{\blur3}老板回来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The boss is back.{\r}
+Dialogue: 0,0:52:42.04,0:52:43.77,Default,,0000,0000,0000,,{\blur3}这是本门师祖星龙长老\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This prescription was written by my master's{\r}
+Dialogue: 0,0:52:43.88,0:52:46.01,Default,,0000,0000,0000,,{\blur3}开的一张疗伤药方\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}master, Xinglong.{\r}
+Dialogue: 0,0:52:47.18,0:52:48.81,Default,,0000,0000,0000,,{\blur3}这人伤得很重\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's badly injured.{\r}
+Dialogue: 0,0:52:48.92,0:52:50.04,Default,,0000,0000,0000,,{\blur3}伤者在里边\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The injured person is inside.{\r}
+Dialogue: 0,0:52:55.19,0:52:56.18,Default,,0000,0000,0000,,{\blur3}他是洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's Hong Xiguan.{\r}
+Dialogue: 0,0:52:56.29,0:52:57.66,Default,,0000,0000,0000,,{\blur3}什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What?{\r}
+Dialogue: 0,0:53:00.73,0:53:02.36,Default,,0000,0000,0000,,{\blur3}他是洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's Hong Xiguan{\r}
+Dialogue: 0,0:53:02.46,0:53:05.33,Default,,0000,0000,0000,,{\blur3}就是朝廷下令捉拿的大英雄洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The one who's wanted by the Court?{\r}
+Dialogue: 0,0:53:15.04,0:53:16.57,Default,,0000,0000,0000,,{\blur3}想不到我们能有机会\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I never expected that we'd have a chance{\r}
+Dialogue: 0,0:53:16.68,0:53:19.34,Default,,0000,0000,0000,,{\blur3}和名满天下的大豪杰在一块儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}to meet such a hero.{\r}
+Dialogue: 0,0:53:20.25,0:53:23.38,Default,,0000,0000,0000,,{\blur3}他的情形很坏\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Looks like he's in a pretty bad state.{\r}
+Dialogue: 0,0:53:23.48,0:53:24.58,Default,,0000,0000,0000,,{\blur3}我去抓药\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll get the medicine.{\r}
+Dialogue: 0,0:53:24.69,0:53:27.68,Default,,0000,0000,0000,,{\blur3}师祖开的药方子一定对症\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The old master's prescription would work.{\r}
+Dialogue: 0,0:53:30.59,0:53:32.65,Default,,0000,0000,0000,,{\blur3}绝不能让人知道\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't let anyone find out though.{\r}
+Dialogue: 0,0:53:33.86,0:53:36.63,Default,,0000,0000,0000,,{\blur3}能为洪熙官砍头也不枉此一生\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I wouldn't mind sacrificing for Hong Xiguan.{\r}
+Dialogue: 0,0:53:36.73,0:53:39.29,Default,,0000,0000,0000,,{\blur3}这样砍了头也好过一世磨豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'd rather be beheaded than to make tofu my whole life.{\r}
+Dialogue: 0,0:53:44.47,0:53:45.96,Default,,0000,0000,0000,,{\blur3}多少钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How much is it?{\r}
+Dialogue: 0,0:53:46.07,0:53:50.01,Default,,0000,0000,0000,,{\blur3}每副是三两四钱五分银子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Three taels forty five cents each.{\r}
+Dialogue: 0,0:53:50.95,0:53:52.85,Default,,0000,0000,0000,,{\blur3}两副就是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Times two, that comes to...{\r}
+Dialogue: 0,0:53:52.95,0:53:56.31,Default,,0000,0000,0000,,{\blur3}什么 一副药要那么贵\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What? It's so expensive.{\r}
+Dialogue: 0,0:53:56.42,0:53:58.91,Default,,0000,0000,0000,,{\blur3}这副药可不是普通药\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This isn't an ordinary prescription.{\r}
+Dialogue: 0,0:53:59.02,0:54:01.25,Default,,0000,0000,0000,,{\blur3}单是熊胆末 犀角粉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It costs two taels eighty cents for{\r}
+Dialogue: 0,0:54:01.36,0:54:05.02,Default,,0000,0000,0000,,{\blur3}这两样已经是二两八钱了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}just the bear's bladder and rhino's horn powder.{\r}
+Dialogue: 0,0:54:08.90,0:54:09.83,Default,,0000,0000,0000,,{\blur3}你干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing?{\r}
+Dialogue: 0,0:54:09.93,0:54:12.90,Default,,0000,0000,0000,,{\blur3}药先存着 我没带够钱回去拿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Keep it for me, I don't have enough cash, I'll be back.{\r}
+Dialogue: 0,0:54:17.67,0:54:21.47,Default,,0000,0000,0000,,{\blur3}我只有一两多银子还不够 你们\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I only have one tael, what about you?{\r}
+Dialogue: 0,0:54:25.41,0:54:29.14,Default,,0000,0000,0000,,{\blur3}你不是有银子藏着要来娶老婆的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't you have some money for your future wedding?{\r}
+Dialogue: 0,0:54:29.25,0:54:31.51,Default,,0000,0000,0000,,{\blur3}只不过二两 我存了两年了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Only two taels, I saved up for two years.{\r}
+Dialogue: 0,0:54:31.62,0:54:33.92,Default,,0000,0000,0000,,{\blur3}拿出来 救人要紧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Take it out... for saving a life.{\r}
+Dialogue: 0,0:54:34.02,0:54:35.22,Default,,0000,0000,0000,,{\blur3}拿出来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What?{\r}
+Dialogue: 0,0:54:39.66,0:54:41.59,Default,,0000,0000,0000,,{\blur3}拿出来 救人要紧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Saving a life is more important.{\r}
+Dialogue: 0,0:54:55.28,0:54:58.54,Default,,0000,0000,0000,,{\blur3}拿来吧 快去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on.{\r}
+Dialogue: 0,0:54:58.98,0:55:00.50,Default,,0000,0000,0000,,{\blur3}还不够啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Still not enough.{\r}
+Dialogue: 0,0:55:01.92,0:55:04.01,Default,,0000,0000,0000,,{\blur3}你还有银子存在衣服里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think you have some money.{\r}
+Dialogue: 0,0:55:04.12,0:55:06.52,Default,,0000,0000,0000,,{\blur3}快点 快拿出来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hurry up! Take it out!{\r}
+Dialogue: 0,0:55:06.62,0:55:08.82,Default,,0000,0000,0000,,{\blur3}快一点 快拿出来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on!{\r}
+Dialogue: 0,0:55:19.87,0:55:22.67,Default,,0000,0000,0000,,{\blur3}你昨天晚上吃了一副药睡得好沉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You slept well after you took the medicine last night.{\r}
+Dialogue: 0,0:55:22.77,0:55:24.70,Default,,0000,0000,0000,,{\blur3}今天精神好点了吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Are you feeling better?{\r}
+Dialogue: 0,0:55:26.77,0:55:31.91,Default,,0000,0000,0000,,{\blur3}三位 我与你们素不相识 你们\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm a complete stranger to you, yet you three...{\r}
+Dialogue: 0,0:55:32.01,0:55:34.28,Default,,0000,0000,0000,,{\blur3}洪大侠别放在心上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're very welcome, Master Hong.{\r}
+Dialogue: 0,0:55:34.38,0:55:35.78,Default,,0000,0000,0000,,{\blur3}我们虽然是小人物\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Although we are nobody,{\r}
+Dialogue: 0,0:55:35.88,0:55:37.68,Default,,0000,0000,0000,,{\blur3}可是也知道你是英雄豪杰\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}but we know that you're a hero.{\r}
+Dialogue: 0,0:55:37.79,0:55:40.35,Default,,0000,0000,0000,,{\blur3}应该尽力的来帮你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's why we'd like to help.{\r}
+Dialogue: 0,0:55:40.72,0:55:45.09,Default,,0000,0000,0000,,{\blur3}像你们那样才是真正的英雄豪杰\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're indeed the real heroes.{\r}
+Dialogue: 0,0:56:05.88,0:56:06.87,Default,,0000,0000,0000,,{\blur3}快\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on.{\r}
+Dialogue: 0,0:56:31.27,0:56:34.07,Default,,0000,0000,0000,,{\blur3}这个药很灵 可是还要多喝几服\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is good medicine, I guess you'd need to continue.{\r}
+Dialogue: 0,0:56:34.18,0:56:38.20,Default,,0000,0000,0000,,{\blur3}对 至少再喝十副八副\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, at least ten times.{\r}
+Dialogue: 0,0:56:41.05,0:56:42.31,Default,,0000,0000,0000,,{\blur3}买药的钱呢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What about the money for the medicine?{\r}
+Dialogue: 0,0:56:47.76,0:56:49.85,Default,,0000,0000,0000,,{\blur3}怎么我问你们不出声啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Why don't you answer?{\r}
+Dialogue: 0,0:56:49.96,0:56:52.45,Default,,0000,0000,0000,,{\blur3}我连老婆本都挖出来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I even used up the savings for my wedding.{\r}
+Dialogue: 0,0:56:52.56,0:56:56.12,Default,,0000,0000,0000,,{\blur3}平时你办法最多 该你想办法\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're the one with all the ideas, think of a plan!{\r}
+Dialogue: 0,0:56:58.77,0:57:00.70,Default,,0000,0000,0000,,{\blur3}好 我们来想想办法\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Alright, let us think!{\r}
+Dialogue: 0,0:57:04.54,0:57:05.63,Default,,0000,0000,0000,,{\blur3}偷\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Steal!{\r}
+Dialogue: 0,0:57:07.54,0:57:09.41,Default,,0000,0000,0000,,{\blur3}媚姑 今天这么早\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're early today, Mei.{\r}
+Dialogue: 0,0:57:10.24,0:57:13.11,Default,,0000,0000,0000,,{\blur3}阿金 来两块这样的豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin, two pieces of tofu.{\r}
+Dialogue: 0,0:57:14.15,0:57:16.64,Default,,0000,0000,0000,,{\blur3}今天的豆腐包你新鲜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're really fresh today.{\r}
+Dialogue: 0,0:57:19.82,0:57:22.02,Default,,0000,0000,0000,,{\blur3}这豆腐真不错 挺新鲜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, looks like it.{\r}
+Dialogue: 0,0:57:22.12,0:57:24.22,Default,,0000,0000,0000,,{\blur3}阿金 给我包两块豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Give me two pieces, Jin.{\r}
+Dialogue: 0,0:57:30.43,0:57:31.40,Default,,0000,0000,0000,,{\blur3}谢谢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Thanks.{\r}
+Dialogue: 0,0:57:32.10,0:57:33.19,Default,,0000,0000,0000,,{\blur3}回家吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's go.{\r}
+Dialogue: 0,0:58:03.20,0:58:06.69,Default,,0000,0000,0000,,{\blur3}朱财 今天你怎么了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai, what's the matter with you?{\r}
+Dialogue: 0,0:58:06.80,0:58:08.77,Default,,0000,0000,0000,,{\blur3}没什么 大叔\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Nothing.{\r}
+Dialogue: 0,0:58:08.87,0:58:11.57,Default,,0000,0000,0000,,{\blur3}穷人急着要钱有什么办法\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What can the poor do to get cash quick?{\r}
+Dialogue: 0,0:58:11.67,0:58:17.20,Default,,0000,0000,0000,,{\blur3}有 有一招 是穷人派的绝招\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, there's one thing.{\r}
+Dialogue: 0,0:58:19.98,0:58:21.14,Default,,0000,0000,0000,,{\blur3}这一招\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's called...{\r}
+Dialogue: 0,0:58:21.25,0:58:23.91,Default,,0000,0000,0000,,{\blur3}这一招叫做举世均图\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Pawn things.{\r}
+Dialogue: 0,0:58:33.99,0:58:36.05,Default,,0000,0000,0000,,{\blur3}伙计 算账\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The bill please.{\r}
+Dialogue: 0,0:58:41.17,0:58:42.80,Default,,0000,0000,0000,,{\blur3}一共是一钱二分\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Twelve cents.{\r}
+Dialogue: 0,0:58:54.01,0:58:55.14,Default,,0000,0000,0000,,{\blur3}一钱二分\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Twelve cents.{\r}
+Dialogue: 0,0:58:58.09,0:59:00.08,Default,,0000,0000,0000,,{\blur3}客倌 我叫的菜不错吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Did you enjoy the meal?{\r}
+Dialogue: 0,0:59:00.19,0:59:02.92,Default,,0000,0000,0000,,{\blur3}还算过得去 我们走吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's alright, let's go.{\r}
+Dialogue: 0,0:59:09.56,0:59:10.79,Default,,0000,0000,0000,,{\blur3}可能吃得太饱了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Think I'm too full.{\r}
+Dialogue: 0,0:59:10.90,0:59:13.59,Default,,0000,0000,0000,,{\blur3}是 两位慢走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Good day.{\r}
+Dialogue: 0,0:59:16.97,0:59:18.10,Default,,0000,0000,0000,,{\blur3}拿去 谢谢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Take it. Thanks.{\r}
+Dialogue: 0,0:59:19.37,0:59:22.81,Default,,0000,0000,0000,,{\blur3}来买豆腐 今天的豆腐很新鲜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Tofu? It's fresh today!{\r}
+Dialogue: 0,0:59:33.99,0:59:36.22,Default,,0000,0000,0000,,{\blur3}最大块的 拿去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The biggest piece, here you go.{\r}
+Dialogue: 0,0:59:37.22,0:59:40.46,Default,,0000,0000,0000,,{\blur3}王嫂 好久不见你 买豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Mrs. Wang, it's been a while. Want some tofu?{\r}
+Dialogue: 0,0:59:40.56,0:59:41.39,Default,,0000,0000,0000,,{\blur3}今天豆腐好新鲜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Very fresh today.{\r}
+Dialogue: 0,0:59:41.50,0:59:44.43,Default,,0000,0000,0000,,{\blur3}包你新鲜 常来光顾\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please come back again.{\r}
+Dialogue: 0,0:59:50.44,0:59:52.96,Default,,0000,0000,0000,,{\blur3}阿金 你做什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin, what are you doing?{\r}
+Dialogue: 0,0:59:53.07,0:59:53.80,Default,,0000,0000,0000,,{\blur3}没什么 好痒\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Nothing, it tickles.{\r}
+Dialogue: 0,0:59:53.91,0:59:55.07,Default,,0000,0000,0000,,{\blur3}我买豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Tofu...{\r}
+Dialogue: 0,0:59:55.18,0:59:56.40,Default,,0000,0000,0000,,{\blur3}有人买豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}A customer!{\r}
+Dialogue: 0,0:59:57.31,0:59:59.80,Default,,0000,0000,0000,,{\blur3}新鲜的豆腐 刚刚磨出来的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Fresh tofu!{\r}
+Dialogue: 0,0:59:59.91,1:00:01.75,Default,,0000,0000,0000,,{\blur3}你买回去包你满意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The best quality!{\r}
+Dialogue: 0,1:00:02.35,1:00:04.94,Default,,0000,0000,0000,,{\blur3}拿回去 下次记着再来买 谢谢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Here you go! Come back again! Thanks!{\r}
+Dialogue: 0,1:00:06.59,1:00:09.35,Default,,0000,0000,0000,,{\blur3}看不出你平时是木头木脑的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who would have thought?{\r}
+Dialogue: 0,1:00:09.46,1:00:12.86,Default,,0000,0000,0000,,{\blur3}偷起钱来是又凶又狠\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}A dumb wit like you would steal from me!{\r}
+Dialogue: 0,1:00:17.60,1:00:19.57,Default,,0000,0000,0000,,{\blur3}你数数看一共偷了我多少钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Count it! You've stolen so much from me!{\r}
+Dialogue: 0,1:00:19.67,1:00:23.26,Default,,0000,0000,0000,,{\blur3}你想叫我血本无归啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm running a business here.{\r}
+Dialogue: 0,1:00:23.37,1:00:26.60,Default,,0000,0000,0000,,{\blur3}我平时对你不错 供你吃供你住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've been treating you well.{\r}
+Dialogue: 0,1:00:26.71,1:00:28.73,Default,,0000,0000,0000,,{\blur3}你这个畜牲\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You bastard!{\r}
+Dialogue: 0,1:00:30.84,1:00:34.11,Default,,0000,0000,0000,,{\blur3}你偷我一文钱我就扣你十文工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You must pay ten times of what you've stolen from me.{\r}
+Dialogue: 0,1:00:34.22,1:00:35.91,Default,,0000,0000,0000,,{\blur3}臭小子你服不服\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you understand?{\r}
+Dialogue: 0,1:00:50.83,1:00:52.82,Default,,0000,0000,0000,,{\blur3}陈阿金 你那里有多少钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Chen Ajin, how much do you have?{\r}
+Dialogue: 0,1:00:52.93,1:00:54.49,Default,,0000,0000,0000,,{\blur3}我这里有\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've got...{\r}
+Dialogue: 0,1:00:55.40,1:00:57.17,Default,,0000,0000,0000,,{\blur3}你是来找陈阿金的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're looking for Jin?{\r}
+Dialogue: 0,1:00:57.47,1:00:58.94,Default,,0000,0000,0000,,{\blur3}你知道不知道阿金偷了我的钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you know that he stole from me?{\r}
+Dialogue: 0,1:00:59.04,1:01:01.13,Default,,0000,0000,0000,,{\blur3}被我当场抓住了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And I caught him!{\r}
+Dialogue: 0,1:01:02.18,1:01:05.01,Default,,0000,0000,0000,,{\blur3}我看你鬼头鬼脑的也不是好东西\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You don't look like a decent person too.{\r}
+Dialogue: 0,1:01:05.11,1:01:06.01,Default,,0000,0000,0000,,{\blur3}你来干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you here for?{\r}
+Dialogue: 0,1:01:06.11,1:01:08.34,Default,,0000,0000,0000,,{\blur3}我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I...{\r}
+Dialogue: 0,1:01:08.45,1:01:10.42,Default,,0000,0000,0000,,{\blur3}你来干什么的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing here?{\r}
+Dialogue: 0,1:01:11.92,1:01:13.44,Default,,0000,0000,0000,,{\blur3}我来买豆腐的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm here to buy tofu.{\r}
+Dialogue: 0,1:01:13.55,1:01:16.25,Default,,0000,0000,0000,,{\blur3}买豆腐 买多少\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Buy tofu? How much?{\r}
+Dialogue: 0,1:01:16.36,1:01:17.79,Default,,0000,0000,0000,,{\blur3}全买了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}All of it.{\r}
+Dialogue: 0,1:01:20.93,1:01:25.52,Default,,0000,0000,0000,,{\blur3}大主顾来了 慢慢再跟你算账\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We've a big spender today! I'll deal with you later.{\r}
+Dialogue: 0,1:01:27.33,1:01:28.39,Default,,0000,0000,0000,,{\blur3}来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on.{\r}
+Dialogue: 0,1:01:29.44,1:01:31.70,Default,,0000,0000,0000,,{\blur3}你买这么多的豆腐不好拿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It won't be easy for you to carry with all that tofu,{\r}
+Dialogue: 0,1:01:31.81,1:01:34.54,Default,,0000,0000,0000,,{\blur3}我叫伙计替你送去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll get my staff to help.{\r}
+Dialogue: 0,1:01:36.68,1:01:39.70,Default,,0000,0000,0000,,{\blur3}好好替他送去 快去快回\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Make the delivery and come back soon.{\r}
+Dialogue: 0,1:01:39.81,1:01:42.78,Default,,0000,0000,0000,,{\blur3}你要是偷懒我就扣你的工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll deduct from your pay if you try to slack off.{\r}
+Dialogue: 0,1:01:48.09,1:01:49.32,Default,,0000,0000,0000,,{\blur3}就是你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's you!{\r}
+Dialogue: 0,1:01:49.66,1:01:51.89,Default,,0000,0000,0000,,{\blur3}这些花瓶很名贵的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you know how expensive the vase is?{\r}
+Dialogue: 0,1:01:57.97,1:02:00.76,Default,,0000,0000,0000,,{\blur3}你也是的 买这么多豆腐怎么办\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What did you buy all that tofu for?{\r}
+Dialogue: 0,1:02:00.87,1:02:04.77,Default,,0000,0000,0000,,{\blur3}是你叫我买的 你没弄到钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You told me so. You didn't get any money.{\r}
+Dialogue: 0,1:02:04.87,1:02:06.10,Default,,0000,0000,0000,,{\blur3}我把什么都送到当铺去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I pawned everything,{\r}
+Dialogue: 0,1:02:06.21,1:02:08.54,Default,,0000,0000,0000,,{\blur3}换了二十板豆腐回来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and now I've all this tofu.{\r}
+Dialogue: 0,1:02:11.58,1:02:13.31,Default,,0000,0000,0000,,{\blur3}你们两个在搞什么鬼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What on earth are you two doing?{\r}
+Dialogue: 0,1:02:20.05,1:02:22.18,Default,,0000,0000,0000,,{\blur3}你去买药去 把豆腐交给我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go get the medicine, hand me the tofu.{\r}
+Dialogue: 0,1:02:32.43,1:02:35.49,Default,,0000,0000,0000,,{\blur3}杨大宝 你上哪儿去了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yang Dabao, where are you off to?{\r}
+Dialogue: 0,1:02:35.80,1:02:38.03,Default,,0000,0000,0000,,{\blur3}哎 你干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing?{\r}
+Dialogue: 0,1:02:38.14,1:02:39.83,Default,,0000,0000,0000,,{\blur3}老板 有大生意上门了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss, we've got big business.{\r}
+Dialogue: 0,1:02:39.94,1:02:41.74,Default,,0000,0000,0000,,{\blur3}有贵客要吃各种豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We have guests who like tofu.{\r}
+Dialogue: 0,1:02:41.84,1:02:43.50,Default,,0000,0000,0000,,{\blur3}贵客 在哪儿\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Guests? Where?{\r}
+Dialogue: 0,1:02:48.08,1:02:50.52,Default,,0000,0000,0000,,{\blur3}贵客来了 你先把豆腐端到厨房去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If they are, bring these to the kitchen first.{\r}
+Dialogue: 0,1:02:50.62,1:02:52.08,Default,,0000,0000,0000,,{\blur3}我去招呼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll take care of them.{\r}
+Dialogue: 0,1:02:54.42,1:02:56.22,Default,,0000,0000,0000,,{\blur3}坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please sit down.{\r}
+Dialogue: 0,1:03:00.29,1:03:00.78,Default,,0000,0000,0000,,{\blur3}有什么吃的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What's on the menu?{\r}
+Dialogue: 0,1:03:00.89,1:03:01.83,Default,,0000,0000,0000,,{\blur3}有 豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Oh, tofu.{\r}
+Dialogue: 0,1:03:01.93,1:03:03.49,Default,,0000,0000,0000,,{\blur3}先来两斤牛肉\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How about some beef first?{\r}
+Dialogue: 0,1:03:05.73,1:03:07.46,Default,,0000,0000,0000,,{\blur3}牛肉都是上个月没有卖完的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The beef, we kept it from last month.{\r}
+Dialogue: 0,1:03:07.57,1:03:11.47,Default,,0000,0000,0000,,{\blur3}又酸又臭 豆腐最新鲜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's gone bad! Tofu is fresh.{\r}
+Dialogue: 0,1:03:11.57,1:03:13.27,Default,,0000,0000,0000,,{\blur3}光吃豆腐怎么行啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But we can't just eat tofu.{\r}
+Dialogue: 0,1:03:13.37,1:03:15.81,Default,,0000,0000,0000,,{\blur3}小店专卖豆腐 花样可多了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Tofu is our specialty.{\r}
+Dialogue: 0,1:03:15.91,1:03:17.81,Default,,0000,0000,0000,,{\blur3}有煎豆腐 炸豆腐 清蒸豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We've fried, deep-fried, steamed,{\r}
+Dialogue: 0,1:03:17.91,1:03:19.97,Default,,0000,0000,0000,,{\blur3}红烧豆腐 鸡肠豆腐 八珍豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}stewed, diced, chilled,{\r}
+Dialogue: 0,1:03:20.08,1:03:22.55,Default,,0000,0000,0000,,{\blur3}麻婆豆腐 砂锅豆腐 炖豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}with vegetables, with minced pork,{\r}
+Dialogue: 0,1:03:22.65,1:03:26.18,Default,,0000,0000,0000,,{\blur3}香豆腐 麻油拌豆腐 韭菜炒豆腐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}in a soup... you name it, we have it.{\r}
+Dialogue: 0,1:03:26.59,1:03:30.02,Default,,0000,0000,0000,,{\blur3}将这豆腐每一样炒一大碟\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}All of the above!{\r}
+Dialogue: 0,1:03:31.19,1:03:33.56,Default,,0000,0000,0000,,{\blur3}各位就来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Coming right up...{\r}
+Dialogue: 0,1:03:37.40,1:03:38.56,Default,,0000,0000,0000,,{\blur3}现在的时势\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}At this time...{\r}
+Dialogue: 0,1:03:38.67,1:03:41.16,Default,,0000,0000,0000,,{\blur3}哪有平常百姓带着家伙满街跑\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No one would carry weapons so openly,{\r}
+Dialogue: 0,1:03:41.27,1:03:43.13,Default,,0000,0000,0000,,{\blur3}一定是官府当差的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}must be some kind of officers.{\r}
+Dialogue: 0,1:03:46.84,1:03:47.86,Default,,0000,0000,0000,,{\blur3}谢谢\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Thanks.{\r}
+Dialogue: 0,1:03:56.88,1:03:57.37,Default,,0000,0000,0000,,{\blur3}老板\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss.{\r}
+Dialogue: 0,1:03:57.48,1:03:59.15,Default,,0000,0000,0000,,{\blur3}曾大少\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master Zeng.{\r}
+Dialogue: 0,1:03:59.25,1:04:01.52,Default,,0000,0000,0000,,{\blur3}刚才那人来买什么药\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What did he buy just now?{\r}
+Dialogue: 0,1:04:01.62,1:04:05.06,Default,,0000,0000,0000,,{\blur3}上好的伤药 买了很多次了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The best, he's been here a few times.{\r}
+Dialogue: 0,1:04:05.16,1:04:06.39,Default,,0000,0000,0000,,{\blur3}照我看起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think someone is badly injured.{\r}
+Dialogue: 0,1:04:06.49,1:04:10.19,Default,,0000,0000,0000,,{\blur3}好像是有人受了很重的内伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Internal injuries.{\r}
+Dialogue: 0,1:04:14.60,1:04:16.63,Default,,0000,0000,0000,,{\blur3}你可记得方子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Can you remember the prescription?{\r}
+Dialogue: 0,1:04:22.24,1:04:25.41,Default,,0000,0000,0000,,{\blur3}周师傅 这位高大人是我的朋友\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master Zhou, this is my friend Official Gao.{\r}
+Dialogue: 0,1:04:25.51,1:04:28.00,Default,,0000,0000,0000,,{\blur3}他奉令缉拿叛贼洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He's on the Court's order to catch Hong Xiguan.{\r}
+Dialogue: 0,1:04:28.12,1:04:30.55,Default,,0000,0000,0000,,{\blur3}还要请周师傅多多帮忙\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Please assist him anyway you can.{\r}
+Dialogue: 0,1:04:30.65,1:04:32.18,Default,,0000,0000,0000,,{\blur3}一定一定\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Certainly.{\r}
+Dialogue: 0,1:04:32.92,1:04:35.72,Default,,0000,0000,0000,,{\blur3}我们要追寻的叛贼洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We're trying to look for Hong Xiguan.{\r}
+Dialogue: 0,1:04:35.82,1:04:39.32,Default,,0000,0000,0000,,{\blur3}据白眉师父说他受的是内伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}According to my master White Brows, Hong's injuries{\r}
+Dialogue: 0,1:04:39.43,1:04:41.83,Default,,0000,0000,0000,,{\blur3}只有喇嘛派才会治\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}can only be healed by the Lama Clan.{\r}
+Dialogue: 0,1:04:42.76,1:04:47.13,Default,,0000,0000,0000,,{\blur3}洪熙官不会来找周师傅治伤吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I wonder if Hong Xiguan came to you for help.{\r}
+Dialogue: 0,1:04:48.77,1:04:52.43,Default,,0000,0000,0000,,{\blur3}不瞒高提督 洪熙官是来找过我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}To be frank, he did.{\r}
+Dialogue: 0,1:04:54.48,1:04:55.97,Default,,0000,0000,0000,,{\blur3}我是守法良民\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm a law-abiding citizen.{\r}
+Dialogue: 0,1:04:56.08,1:04:58.31,Default,,0000,0000,0000,,{\blur3}这种叛贼找上门来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}A traitor like him came for help,{\r}
+Dialogue: 0,1:04:58.41,1:05:01.14,Default,,0000,0000,0000,,{\blur3}我当然把他赶走了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I kicked him out right away.{\r}
+Dialogue: 0,1:05:01.25,1:05:04.12,Default,,0000,0000,0000,,{\blur3}周师傅 要是当时你将他拿下\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If Master Zhou captured him on the spot,{\r}
+Dialogue: 0,1:05:04.22,1:05:07.24,Default,,0000,0000,0000,,{\blur3}倒是替朝廷立了一件大功\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}you would have helped the court a big deal.{\r}
+Dialogue: 0,1:05:07.35,1:05:09.95,Default,,0000,0000,0000,,{\blur3}师哥 我看周师傅当时不敢动手\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think master Zhou didn't dare to kill him.{\r}
+Dialogue: 0,1:05:10.06,1:05:12.32,Default,,0000,0000,0000,,{\blur3}洪熙官名头大啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan has a reputation.{\r}
+Dialogue: 0,1:05:19.20,1:05:22.57,Default,,0000,0000,0000,,{\blur3}师傅 有一副方子可是治内伤的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}There's one prescription to treat internal injuries.{\r}
+Dialogue: 0,1:05:22.67,1:05:26.04,Default,,0000,0000,0000,,{\blur3}药方有熊胆末 犀角粉 槲若\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Bear's bladder powder, rhino's horn powder...{\r}
+Dialogue: 0,1:05:26.14,1:05:28.70,Default,,0000,0000,0000,,{\blur3}是 这是本派的秘方\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, that's our special prescription.{\r}
+Dialogue: 0,1:05:28.81,1:05:29.94,Default,,0000,0000,0000,,{\blur3}朱财在买这副药\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai bought this prescription many times.{\r}
+Dialogue: 0,1:05:30.04,1:05:33.84,Default,,0000,0000,0000,,{\blur3}已经买了很多副了 会不会\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Could it be...{\r}
+Dialogue: 0,1:05:35.25,1:05:37.44,Default,,0000,0000,0000,,{\blur3}对 洪熙官来的时候\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Right. He's cleaning the room{\r}
+Dialogue: 0,1:05:37.55,1:05:39.18,Default,,0000,0000,0000,,{\blur3}他正在打扫房间\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}when Hong Xiguan came here.{\r}
+Dialogue: 0,1:05:39.29,1:05:40.88,Default,,0000,0000,0000,,{\blur3}谁是朱财\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who's Zhu Cai?{\r}
+Dialogue: 0,1:05:41.26,1:05:43.25,Default,,0000,0000,0000,,{\blur3}提督请放心 走不了他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't worry, I can take care of him.{\r}
+Dialogue: 0,1:05:43.36,1:05:45.33,Default,,0000,0000,0000,,{\blur3}他每天会到武馆来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He drops by everyday.{\r}
+Dialogue: 0,1:05:45.43,1:05:50.23,Default,,0000,0000,0000,,{\blur3}有了叛贼的下落 来 干杯\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Cheers! We've found the traitor!{\r}
+Dialogue: 0,1:06:10.45,1:06:13.08,Default,,0000,0000,0000,,{\blur3}气贯上下 力透全身\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let the "Qi" energy travel through your body.{\r}
+Dialogue: 0,1:06:19.29,1:06:21.59,Default,,0000,0000,0000,,{\blur3}你们三个人各有所长\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You three excel in different areas.{\r}
+Dialogue: 0,1:06:21.70,1:06:23.96,Default,,0000,0000,0000,,{\blur3}不过没有人指点你们运气的法门\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But no one has taught you about the Qi.{\r}
+Dialogue: 0,1:06:24.06,1:06:26.86,Default,,0000,0000,0000,,{\blur3}出招之际难免有力不从心之感\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's why you might find it difficult{\r}
+Dialogue: 0,1:06:26.97,1:06:29.63,Default,,0000,0000,0000,,{\blur3}难达上乘的武功境界\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}for some complicated martial arts styles.{\r}
+Dialogue: 0,1:06:29.74,1:06:31.90,Default,,0000,0000,0000,,{\blur3}你们武功已有根底\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}With your foundation,{\r}
+Dialogue: 0,1:06:32.01,1:06:34.00,Default,,0000,0000,0000,,{\blur3}可以一点即明\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}it's easy for you to learn.{\r}
+Dialogue: 0,1:06:35.08,1:06:38.04,Default,,0000,0000,0000,,{\blur3}我教你们少林正宗的运气之法门\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let me teach you Shaolin's own use of "Qi".{\r}
+Dialogue: 0,1:06:38.15,1:06:40.38,Default,,0000,0000,0000,,{\blur3}气先纳于丹田\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Gather "Qi" at diaphragm.{\r}
+Dialogue: 0,1:07:11.04,1:07:13.44,Default,,0000,0000,0000,,{\blur3}我们家招待贵客 厨子不够用\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We're treating a VIP guest & we don't have enough chefs{\r}
+Dialogue: 0,1:07:13.55,1:07:16.81,Default,,0000,0000,0000,,{\blur3}要用你们酒馆里的厨子是看得起你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's a compliment that we're using your chef.{\r}
+Dialogue: 0,1:07:16.92,1:07:20.55,Default,,0000,0000,0000,,{\blur3}这个没有厨子我们怎么做生意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How can I run a restaurant without a chef?{\r}
+Dialogue: 0,1:07:20.65,1:07:22.59,Default,,0000,0000,0000,,{\blur3}你知道我家的贵客什么身份\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Do you have any idea who my guest is?{\r}
+Dialogue: 0,1:07:22.69,1:07:24.71,Default,,0000,0000,0000,,{\blur3}谁理你做不做生意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who cares whether or not you can do business!{\r}
+Dialogue: 0,1:07:25.26,1:07:26.78,Default,,0000,0000,0000,,{\blur3}进去把厨子拉出来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Get the chef!{\r}
+Dialogue: 0,1:07:30.96,1:07:35.90,Default,,0000,0000,0000,,{\blur3}慢着 老兄 有话慢慢说\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wait...{\r}
+Dialogue: 0,1:07:36.00,1:07:37.37,Default,,0000,0000,0000,,{\blur3}像我们这种小馆子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We're just a small restaurant,{\r}
+Dialogue: 0,1:07:37.47,1:07:39.67,Default,,0000,0000,0000,,{\blur3}厨子的手艺也好不到哪儿去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}our chef isn't that good.{\r}
+Dialogue: 0,1:07:39.77,1:07:43.07,Default,,0000,0000,0000,,{\blur3}对 煮出来的菜只配喂猪\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes, the dishes are only good for pigs.{\r}
+Dialogue: 0,1:07:44.88,1:07:48.47,Default,,0000,0000,0000,,{\blur3}是 这位客倌说的对\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Well said.{\r}
+Dialogue: 0,1:07:52.19,1:07:53.17,Default,,0000,0000,0000,,{\blur3}你要招待贵宾\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For your VIP guest,{\r}
+Dialogue: 0,1:07:53.29,1:07:56.38,Default,,0000,0000,0000,,{\blur3}如果是猪那我们的厨子就有用了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}our chef is only useful if you're serving a pig.{\r}
+Dialogue: 0,1:07:56.76,1:07:58.02,Default,,0000,0000,0000,,{\blur3}你胡言乱语什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you on about?{\r}
+Dialogue: 0,1:08:11.51,1:08:16.10,Default,,0000,0000,0000,,{\blur3}别打 别打了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Stop!{\r}
+Dialogue: 0,1:08:16.21,1:08:17.73,Default,,0000,0000,0000,,{\blur3}老板 不打不行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Boss, we must.{\r}
+Dialogue: 0,1:08:17.84,1:08:18.47,Default,,0000,0000,0000,,{\blur3}厨子给他们拉起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They've got the chef;{\r}
+Dialogue: 0,1:08:18.58,1:08:20.21,Default,,0000,0000,0000,,{\blur3}咱们就没有生意做了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}without him, we've no business.{\r}
+Dialogue: 0,1:08:21.31,1:08:23.15,Default,,0000,0000,0000,,{\blur3}打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Beat him!{\r}
+Dialogue: 0,1:08:28.12,1:08:29.65,Default,,0000,0000,0000,,{\blur3}打\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Beat him!{\r}
+Dialogue: 0,1:08:57.75,1:08:59.08,Default,,0000,0000,0000,,{\blur3}来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on!{\r}
+Dialogue: 0,1:09:52.71,1:09:54.47,Default,,0000,0000,0000,,{\blur3}快走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,1:09:59.61,1:10:00.88,Default,,0000,0000,0000,,{\blur3}我自己会走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I can walk myself out.{\r}
+Dialogue: 0,1:10:00.98,1:10:04.42,Default,,0000,0000,0000,,{\blur3}一 二 三\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One, two, three.{\r}
+Dialogue: 0,1:10:09.09,1:10:13.89,Default,,0000,0000,0000,,{\blur3}打 店里的东西全给你们打烂了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You broke everything!{\r}
+Dialogue: 0,1:10:13.99,1:10:15.86,Default,,0000,0000,0000,,{\blur3}我要扣你们工钱\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll deduct from your pay{\r}
+Dialogue: 0,1:10:19.13,1:10:20.57,Default,,0000,0000,0000,,{\blur3}干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What are you doing?{\r}
+Dialogue: 0,1:10:22.40,1:10:25.30,Default,,0000,0000,0000,,{\blur3}一 二 三\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}One, two, three.{\r}
+Dialogue: 0,1:10:27.94,1:10:28.97,Default,,0000,0000,0000,,{\blur3}我叫韩七\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm Han Qi.{\r}
+Dialogue: 0,1:10:29.08,1:10:30.51,Default,,0000,0000,0000,,{\blur3}我看过你做戏\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I've seen you act.{\r}
+Dialogue: 0,1:10:30.61,1:10:32.10,Default,,0000,0000,0000,,{\blur3}洪熙官大哥在找你\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Hong Xiguan is looking for you.{\r}
+Dialogue: 0,1:10:32.21,1:10:33.54,Default,,0000,0000,0000,,{\blur3}我也在找他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm looking for him too.{\r}
+Dialogue: 0,1:10:34.05,1:10:35.64,Default,,0000,0000,0000,,{\blur3}白天人杂 晚上你来找我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come pick me up tonight,{\r}
+Dialogue: 0,1:10:35.75,1:10:36.44,Default,,0000,0000,0000,,{\blur3}咱们一块儿去见他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we'll go meet him.{\r}
+Dialogue: 0,1:10:36.55,1:10:37.48,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sure.{\r}
+Dialogue: 0,1:10:39.95,1:10:40.82,Default,,0000,0000,0000,,{\blur3}师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Master.{\r}
+Dialogue: 0,1:10:49.50,1:10:52.06,Default,,0000,0000,0000,,{\blur3}朱财 你到药铺去买伤药\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai, the medicine you bought,{\r}
+Dialogue: 0,1:10:52.17,1:10:53.79,Default,,0000,0000,0000,,{\blur3}给什么人治伤的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}who's that for?{\r}
+Dialogue: 0,1:10:53.90,1:10:56.49,Default,,0000,0000,0000,,{\blur3}说 给谁治伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Speak up! Who's that for?{\r}
+Dialogue: 0,1:10:56.60,1:10:59.66,Default,,0000,0000,0000,,{\blur3}给我自己的 我这里疼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For myself, it hurts here.{\r}
+Dialogue: 0,1:11:01.71,1:11:05.61,Default,,0000,0000,0000,,{\blur3}怕是练功练坏了 给我自己服的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Must be from the practising. It's for myself.{\r}
+Dialogue: 0,1:11:07.05,1:11:08.45,Default,,0000,0000,0000,,{\blur3}你这里疼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hurts here?{\r}
+Dialogue: 0,1:11:08.55,1:11:09.88,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,1:11:10.75,1:11:14.52,Default,,0000,0000,0000,,{\blur3}你倒有先见之明知道自己胸口会疼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Interesting that you can foresee your own injuries.{\r}
+Dialogue: 0,1:11:16.16,1:11:18.42,Default,,0000,0000,0000,,{\blur3}快说 给谁治伤的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Speak up! Who's that for?{\r}
+Dialogue: 0,1:11:18.53,1:11:20.02,Default,,0000,0000,0000,,{\blur3}是给我自己\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}For myself.{\r}
+Dialogue: 0,1:11:24.97,1:11:28.16,Default,,0000,0000,0000,,{\blur3}除了胸口你还有什么地方疼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Where else does it hurt?{\r}
+Dialogue: 0,1:11:31.27,1:11:36.83,Default,,0000,0000,0000,,{\blur3}这里疼 不 哪儿也不疼了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Here... no... nowhere.{\r}
+Dialogue: 0,1:11:36.94,1:11:38.54,Default,,0000,0000,0000,,{\blur3}那你买药干什么\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What's the medicine for?{\r}
+Dialogue: 0,1:11:38.65,1:11:40.84,Default,,0000,0000,0000,,{\blur3}洪熙官才要这种汤药的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Only Hong Xiguan would need a prescription like that.{\r}
+Dialogue: 0,1:11:55.76,1:11:58.93,Default,,0000,0000,0000,,{\blur3}朱财 带提督大人去找洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai, if you show Official Gao to Hong Xiguan,{\r}
+Dialogue: 0,1:11:59.03,1:12:00.73,Default,,0000,0000,0000,,{\blur3}是大功一件\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}that's a merit.{\r}
+Dialogue: 0,1:12:02.54,1:12:05.16,Default,,0000,0000,0000,,{\blur3}洪熙官在哪里 快说\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Speak up! Where is Hong Xiguan?{\r}
+Dialogue: 0,1:12:06.44,1:12:09.81,Default,,0000,0000,0000,,{\blur3}我看他鬼头鬼脑在豆腐店里进出\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He sneaks around in the tofu shop,{\r}
+Dialogue: 0,1:12:09.91,1:12:12.34,Default,,0000,0000,0000,,{\blur3}说不定洪熙官就藏在豆腐店里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think Hong Xiguan could be there.{\r}
+Dialogue: 0,1:12:12.45,1:12:15.44,Default,,0000,0000,0000,,{\blur3}不 洪熙官不在豆腐店\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No! He's not!{\r}
+Dialogue: 0,1:12:15.95,1:12:18.82,Default,,0000,0000,0000,,{\blur3}小子 你不打自招了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Alright! You did us a favour.{\r}
+Dialogue: 0,1:12:29.50,1:12:30.59,Default,,0000,0000,0000,,{\blur3}你是什么人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Who are you?{\r}
+Dialogue: 0,1:12:30.70,1:12:32.60,Default,,0000,0000,0000,,{\blur3}放开我 我是老板\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let me go! I'm the boss.{\r}
+Dialogue: 0,1:12:38.41,1:12:39.53,Default,,0000,0000,0000,,{\blur3}陈阿金 快溜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Chen Ajin, run!{\r}
+Dialogue: 0,1:12:40.91,1:12:41.84,Default,,0000,0000,0000,,{\blur3}站住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Freeze.{\r}
+Dialogue: 0,1:13:19.55,1:13:21.81,Default,,0000,0000,0000,,{\blur3}洪熙官在哪里 快说\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Where's Hong Xiguan? Speak up.{\r}
+Dialogue: 0,1:13:22.32,1:13:23.61,Default,,0000,0000,0000,,{\blur3}在你姥姥家里\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}At your grandma's.{\r}
+Dialogue: 0,1:13:41.17,1:13:44.26,Default,,0000,0000,0000,,{\blur3}你 这怎么行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You! You can't do that{\r}
+Dialogue: 0,1:13:46.67,1:13:48.11,Default,,0000,0000,0000,,{\blur3}这还差不多\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is more likely.{\r}
+Dialogue: 0,1:13:51.04,1:13:52.60,Default,,0000,0000,0000,,{\blur3}我们来放火趁乱救人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Set a fire! And we can save them.{\r}
+Dialogue: 0,1:14:17.10,1:14:18.83,Default,,0000,0000,0000,,{\blur3}他们两个在下面 我们在放火\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're below. We're setting a fire.{\r}
+Dialogue: 0,1:14:18.94,1:14:20.20,Default,,0000,0000,0000,,{\blur3}快走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,1:14:28.55,1:14:31.75,Default,,0000,0000,0000,,{\blur3}别乱 走 追\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't panic! Run! Go!{\r}
+Dialogue: 0,1:14:37.89,1:14:41.42,Default,,0000,0000,0000,,{\blur3}快走啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,1:14:49.67,1:14:50.86,Default,,0000,0000,0000,,{\blur3}往那边跑了 快追啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Over there! Go!{\r}
+Dialogue: 0,1:14:50.97,1:14:52.10,Default,,0000,0000,0000,,{\blur3}追\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go!{\r}
+Dialogue: 0,1:14:56.64,1:14:57.70,Default,,0000,0000,0000,,{\blur3}到哪儿去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Where to?{\r}
+Dialogue: 0,1:14:57.81,1:14:59.78,Default,,0000,0000,0000,,{\blur3}染房就在这儿 我们进去躲一躲\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The dye factory is right here, let's hide inside.{\r}
+Dialogue: 0,1:14:59.88,1:15:01.11,Default,,0000,0000,0000,,{\blur3}不行 官兵一到\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No, when they arrive,{\r}
+Dialogue: 0,1:15:01.21,1:15:03.27,Default,,0000,0000,0000,,{\blur3}一定会料到我们躲到染房去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}they would know that we're hiding there.{\r}
+Dialogue: 0,1:15:04.25,1:15:06.68,Default,,0000,0000,0000,,{\blur3}我们到周成的武馆去躲一躲\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We should hide in Zhou Cheng's martial arts school.{\r}
+Dialogue: 0,1:15:06.79,1:15:08.05,Default,,0000,0000,0000,,{\blur3}好主意 走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Good idea!{\r}
+Dialogue: 0,1:15:10.62,1:15:13.22,Default,,0000,0000,0000,,{\blur3}来了 恭喜提督抓住了洪熙官\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Here you are! Congratulations on catching Hong Xiguan,{\r}
+Dialogue: 0,1:15:13.33,1:15:15.19,Default,,0000,0000,0000,,{\blur3}替朝廷立了大功\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}what an achievement!{\r}
+Dialogue: 0,1:15:16.63,1:15:17.76,Default,,0000,0000,0000,,{\blur3}我来倒是来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Well, I'm here.{\r}
+Dialogue: 0,1:15:17.86,1:15:19.63,Default,,0000,0000,0000,,{\blur3}不过不是叫人抓来的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But no one caught me.{\r}
+Dialogue: 0,1:15:21.40,1:15:23.96,Default,,0000,0000,0000,,{\blur3}你别去 免得到时候你为难\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You stay here. It's better for you.{\r}
+Dialogue: 0,1:15:29.38,1:15:31.84,Default,,0000,0000,0000,,{\blur3}好酒好菜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What a meal!{\r}
+Dialogue: 0,1:15:46.46,1:15:47.65,Default,,0000,0000,0000,,{\blur3}别糟蹋了好酒好菜\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's not ruin it.{\r}
+Dialogue: 0,1:15:47.76,1:15:48.75,Default,,0000,0000,0000,,{\blur3}是啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's right.{\r}
+Dialogue: 0,1:16:31.04,1:16:32.44,Default,,0000,0000,0000,,{\blur3}朱财在染房工作\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai works in the dye factory,{\r}
+Dialogue: 0,1:16:32.54,1:16:34.27,Default,,0000,0000,0000,,{\blur3}他一定藏在染房里头\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}he must be hiding in there.{\r}
+Dialogue: 0,1:16:38.51,1:16:45.18,Default,,0000,0000,0000,,{\blur3}他们在武馆 师傅\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're in the school, the master...{\r}
+Dialogue: 0,1:16:49.82,1:16:53.09,Default,,0000,0000,0000,,{\blur3}小心点 你带头\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Careful. After you!{\r}
+Dialogue: 0,1:16:53.19,1:16:54.18,Default,,0000,0000,0000,,{\blur3}我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Me?{\r}
+Dialogue: 0,1:16:54.29,1:16:55.45,Default,,0000,0000,0000,,{\blur3}快去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go!{\r}
+Dialogue: 0,1:17:29.10,1:17:30.46,Default,,0000,0000,0000,,{\blur3}原来早走了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're gone.{\r}
+Dialogue: 0,1:17:31.83,1:17:34.43,Default,,0000,0000,0000,,{\blur3}喂 放心进来 没有人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hey! Come on in! No one's here.{\r}
+Dialogue: 0,1:17:35.64,1:17:38.13,Default,,0000,0000,0000,,{\blur3}我进去看看你们跟我来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll take a look first, follow me.{\r}
+Dialogue: 0,1:17:44.21,1:17:46.84,Default,,0000,0000,0000,,{\blur3}这小子怎么忽然胆子大起来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}How come he's suddenly acting so brave?{\r}
+Dialogue: 0,1:17:47.55,1:17:51.01,Default,,0000,0000,0000,,{\blur3}人都走了 胆子还不大\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're gone, of course he would.{\r}
+Dialogue: 0,1:17:51.82,1:17:53.45,Default,,0000,0000,0000,,{\blur3}里边没有人\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's clear.{\r}
+Dialogue: 0,1:18:05.87,1:18:08.56,Default,,0000,0000,0000,,{\blur3}那面就是染房 不知道他们在不在\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Next door is the dye factory, wonder if they're there.{\r}
+Dialogue: 0,1:18:18.24,1:18:21.15,Default,,0000,0000,0000,,{\blur3}灯火都没有 大概都逃了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No lights. Guess they must have fled.{\r}
+Dialogue: 0,1:18:21.25,1:18:24.05,Default,,0000,0000,0000,,{\blur3}提督大人 我遇事勇敢向前\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Official Gao, I'm being brave,{\r}
+Dialogue: 0,1:18:24.15,1:18:25.95,Default,,0000,0000,0000,,{\blur3}该记一功吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I deserve a credit.{\r}
+Dialogue: 0,1:18:29.32,1:18:31.26,Default,,0000,0000,0000,,{\blur3}好 记你一功\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sure, you do.{\r}
+Dialogue: 0,1:18:35.63,1:18:37.03,Default,,0000,0000,0000,,{\blur3}他们在墙那边\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're over there at the wall.{\r}
+Dialogue: 0,1:18:37.13,1:18:39.60,Default,,0000,0000,0000,,{\blur3}他们在暗 我们在明\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They're in the dark.{\r}
+Dialogue: 0,1:18:39.70,1:18:42.93,Default,,0000,0000,0000,,{\blur3}天黑地形不熟 攻过去会吃亏的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Unfamiliarity with the settings is to our disadvantage.{\r}
+Dialogue: 0,1:18:43.04,1:18:46.06,Default,,0000,0000,0000,,{\blur3}曾世光就是榜样\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zeng Shiguang is an example.{\r}
+Dialogue: 0,1:18:46.17,1:18:47.40,Default,,0000,0000,0000,,{\blur3}快去衙门调动人马\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go to the magistrate's office and get some manpower.{\r}
+Dialogue: 0,1:18:47.51,1:18:48.70,Default,,0000,0000,0000,,{\blur3}把所有出路封死\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Block all the exits.{\r}
+Dialogue: 0,1:18:48.81,1:18:50.24,Default,,0000,0000,0000,,{\blur3}是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Yes.{\r}
+Dialogue: 0,1:18:53.21,1:18:55.27,Default,,0000,0000,0000,,{\blur3}兵还是要调\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We indeed need the manpower.{\r}
+Dialogue: 0,1:18:55.38,1:18:59.37,Default,,0000,0000,0000,,{\blur3}不过现在深更半夜我怕打草惊蛇\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}But it's late in the night, I'd rather not alert them.{\r}
+Dialogue: 0,1:18:59.49,1:19:01.54,Default,,0000,0000,0000,,{\blur3}一来没跟官府联络\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}And besides, we haven't contacted the magistrate,{\r}
+Dialogue: 0,1:19:01.65,1:19:05.09,Default,,0000,0000,0000,,{\blur3}只怕不到天亮人马不易调集\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I worry that we can't get any help until daybreak.{\r}
+Dialogue: 0,1:19:05.19,1:19:07.18,Default,,0000,0000,0000,,{\blur3}暂时只好虚张声势\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}All we can do is bluff for now,{\r}
+Dialogue: 0,1:19:07.29,1:19:09.82,Default,,0000,0000,0000,,{\blur3}等天亮再调集兵马\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we'll get the men in the morning.{\r}
+Dialogue: 0,1:19:16.07,1:19:18.00,Default,,0000,0000,0000,,{\blur3}他们怎么还不攻过来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Why don't they attack?{\r}
+Dialogue: 0,1:19:18.37,1:19:19.13,Default,,0000,0000,0000,,{\blur3}我们熄灭了灯火\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}There's no light.{\r}
+Dialogue: 0,1:19:19.24,1:19:22.30,Default,,0000,0000,0000,,{\blur3}黑夜之间他们地形不熟不敢攻过来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They wouldn't dare to attack in the dark.{\r}
+Dialogue: 0,1:19:22.71,1:19:24.87,Default,,0000,0000,0000,,{\blur3}弓箭手守左边见人就射\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The archers on the left, shoot when you spot anyone.{\r}
+Dialogue: 0,1:19:24.98,1:19:27.54,Default,,0000,0000,0000,,{\blur3}刀斧手守右边见人就砍\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Soldiers with axes on the right, chop if you see anyone{\r}
+Dialogue: 0,1:19:29.52,1:19:31.92,Default,,0000,0000,0000,,{\blur3}我们一夜不断骚扰他们\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We'll keep disturbing them over the night.{\r}
+Dialogue: 0,1:19:32.02,1:19:35.04,Default,,0000,0000,0000,,{\blur3}令他们不能睡 也不敢逃\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That way, they can't sleep and dare not escape.{\r}
+Dialogue: 0,1:19:35.15,1:19:36.64,Default,,0000,0000,0000,,{\blur3}等天明再攻\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We'll launch a proper attack tomorrow.{\r}
+Dialogue: 0,1:20:03.08,1:20:04.64,Default,,0000,0000,0000,,{\blur3}我看都是虚张声势\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think it's just a bluff,{\r}
+Dialogue: 0,1:20:04.75,1:20:06.69,Default,,0000,0000,0000,,{\blur3}不过还是要做好准备\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}but we need to be prepared.{\r}
+Dialogue: 0,1:20:25.51,1:20:27.94,Default,,0000,0000,0000,,{\blur3}掌力有阴力阳力之分\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The power of the palm is different between yin & yang.{\r}
+Dialogue: 0,1:20:28.04,1:20:31.48,Default,,0000,0000,0000,,{\blur3}运气得当掌力阴阳自若\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}After controlling your "Qi" right, you can master it.{\r}
+Dialogue: 0,1:20:31.58,1:20:33.34,Default,,0000,0000,0000,,{\blur3}阿金 你来试试\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Ah Jin, you try.{\r}
+Dialogue: 0,1:20:40.05,1:20:42.61,Default,,0000,0000,0000,,{\blur3}你气集的还不够 再来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You're not focused enough... once again.{\r}
+Dialogue: 0,1:21:00.77,1:21:02.60,Default,,0000,0000,0000,,{\blur3}这样就差不多了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's better.{\r}
+Dialogue: 0,1:21:21.53,1:21:22.62,Default,,0000,0000,0000,,{\blur3}不错\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Not bad.{\r}
+Dialogue: 0,1:21:26.97,1:21:29.26,Default,,0000,0000,0000,,{\blur3}反贼听着 官兵已经团团围住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Listen up, traitors! You've been surrounded.{\r}
+Dialogue: 0,1:21:29.37,1:21:31.93,Default,,0000,0000,0000,,{\blur3}这里就是你们葬身之地了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is where you'll die.{\r}
+Dialogue: 0,1:21:33.34,1:21:35.57,Default,,0000,0000,0000,,{\blur3}阿金 不行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Ah Jin, no!{\r}
+Dialogue: 0,1:21:48.59,1:21:50.61,Default,,0000,0000,0000,,{\blur3}周成这桌酒席让我全搬来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I brought Zhou Cheng's feast here.{\r}
+Dialogue: 0,1:21:50.72,1:21:52.45,Default,,0000,0000,0000,,{\blur3}大家开怀畅饮吧\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's have a good meal!{\r}
+Dialogue: 0,1:21:52.56,1:21:54.53,Default,,0000,0000,0000,,{\blur3}对呀 反正一有人过来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}That's right. If someone comes close,{\r}
+Dialogue: 0,1:21:54.63,1:21:56.53,Default,,0000,0000,0000,,{\blur3}那个板会有声音的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we can hear.{\r}
+Dialogue: 0,1:21:56.86,1:21:59.16,Default,,0000,0000,0000,,{\blur3}我把兵器架都搬过来了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'll move all the weapons here.{\r}
+Dialogue: 0,1:21:59.60,1:22:02.19,Default,,0000,0000,0000,,{\blur3}我看不如把兵器先藏起来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think we should hide them first.{\r}
+Dialogue: 0,1:22:11.71,1:22:13.27,Default,,0000,0000,0000,,{\blur3}来 坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on.{\r}
+Dialogue: 0,1:22:17.72,1:22:20.24,Default,,0000,0000,0000,,{\blur3}别看刚才我们脱身容易\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's not congratulate ourselves for escaping earlier;{\r}
+Dialogue: 0,1:22:20.35,1:22:22.62,Default,,0000,0000,0000,,{\blur3}那是高进忠他们一时轻敌\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's only because Gao Jinzhong's gang underestimated us{\r}
+Dialogue: 0,1:22:22.72,1:22:25.12,Default,,0000,0000,0000,,{\blur3}这五个人的武功非同寻常\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Those five are very skilled,{\r}
+Dialogue: 0,1:22:25.22,1:22:27.78,Default,,0000,0000,0000,,{\blur3}后面还有官府的力量\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}and they're backed by the court.{\r}
+Dialogue: 0,1:22:27.89,1:22:30.89,Default,,0000,0000,0000,,{\blur3}事情本来和你们一点关系也没有的\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You had nothing to do with it,{\r}
+Dialogue: 0,1:22:31.00,1:22:34.26,Default,,0000,0000,0000,,{\blur3}你们替我治伤我已经感激不尽了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I appreciate that you helped me with my medicine.{\r}
+Dialogue: 0,1:22:34.37,1:22:37.53,Default,,0000,0000,0000,,{\blur3}三位如果要走的话我绝不见怪\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I wouldn't blame you for wanting to leave now.{\r}
+Dialogue: 0,1:22:38.47,1:22:41.93,Default,,0000,0000,0000,,{\blur3}反正他们的目标也只在我一人身上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm their target.{\r}
+Dialogue: 0,1:22:44.74,1:22:47.80,Default,,0000,0000,0000,,{\blur3}洪熙官原来你心里还看不起我们\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Hong Xiguan, you despise us.{\r}
+Dialogue: 0,1:22:52.32,1:22:54.68,Default,,0000,0000,0000,,{\blur3}我洪熙官要是对三位有轻视之意\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If I meant anything like that,{\r}
+Dialogue: 0,1:22:54.79,1:22:56.48,Default,,0000,0000,0000,,{\blur3}就天打雷劈\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}please let me be struck by thunder.{\r}
+Dialogue: 0,1:23:00.26,1:23:03.49,Default,,0000,0000,0000,,{\blur3}刚才是我说错话了 三位不要见怪\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I was wrong, please forgive me.{\r}
+Dialogue: 0,1:23:03.60,1:23:07.12,Default,,0000,0000,0000,,{\blur3}来 坐\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on, sit.{\r}
+Dialogue: 0,1:23:13.87,1:23:15.86,Default,,0000,0000,0000,,{\blur3}能认识三位这样的好朋友\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm honoured to have friends like you.{\r}
+Dialogue: 0,1:23:15.98,1:23:18.10,Default,,0000,0000,0000,,{\blur3}真是生平的快事\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}This is certainly something to celebrate for.{\r}
+Dialogue: 0,1:23:18.78,1:23:20.25,Default,,0000,0000,0000,,{\blur3}长夜漫漫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}It's a long night.{\r}
+Dialogue: 0,1:23:20.35,1:23:23.71,Default,,0000,0000,0000,,{\blur3}不如我们一边喝酒一边谈论武功\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Let's drink and talk about martial arts.{\r}
+Dialogue: 0,1:23:23.82,1:23:24.84,Default,,0000,0000,0000,,{\blur3}来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come!{\r}
+Dialogue: 0,1:23:26.72,1:23:28.12,Default,,0000,0000,0000,,{\blur3}请洪大哥指教\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Hong, please teach us.{\r}
+Dialogue: 0,1:23:30.19,1:23:34.02,Default,,0000,0000,0000,,{\blur3}白眉道人的武功是出于武当\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Earlier on, Priest White Brows learnt from Wudang Clan;{\r}
+Dialogue: 0,1:23:34.13,1:23:36.32,Default,,0000,0000,0000,,{\blur3}高进忠是他的首徒\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Gao Jinzhong remains his best student.{\r}
+Dialogue: 0,1:23:36.43,1:23:39.69,Default,,0000,0000,0000,,{\blur3}听说他师徒二人有意自创白眉一派\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I hear they're hoping to build up a White Brows Clan.{\r}
+Dialogue: 0,1:23:39.80,1:23:43.06,Default,,0000,0000,0000,,{\blur3}我们第一个要当心的人就是高进忠\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We must watch out for Gao Jinzhong first,{\r}
+Dialogue: 0,1:23:43.17,1:23:45.00,Default,,0000,0000,0000,,{\blur3}特别是要留心他的辫子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}especially his braid.{\r}
+Dialogue: 0,1:23:46.41,1:23:48.53,Default,,0000,0000,0000,,{\blur3}所谓知己知彼\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Know your enemy!{\r}
+Dialogue: 0,1:23:48.64,1:23:52.17,Default,,0000,0000,0000,,{\blur3}还有邹风的盾单刀 阴森快捷\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zou Feng's sword strikes fast and sneaky.{\r}
+Dialogue: 0,1:23:53.85,1:23:56.97,Default,,0000,0000,0000,,{\blur3}他以盾牌护身不易攻得进去\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}He has a shield to protect himself.{\r}
+Dialogue: 0,1:23:57.08,1:23:59.48,Default,,0000,0000,0000,,{\blur3}还要留心他的单刀穿盾而出\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Watch out for his sword breaking through the shield,{\r}
+Dialogue: 0,1:23:59.59,1:24:00.95,Default,,0000,0000,0000,,{\blur3}防不胜防\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}that's his trick.{\r}
+Dialogue: 0,1:24:05.36,1:24:07.12,Default,,0000,0000,0000,,{\blur3}范天聪力大无穷\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Fan Tiancong is a man with massive strength.{\r}
+Dialogue: 0,1:24:07.23,1:24:10.02,Default,,0000,0000,0000,,{\blur3}现在打墙的想必是他\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I think he's the one hitting the wall now.{\r}
+Dialogue: 0,1:24:13.10,1:24:15.62,Default,,0000,0000,0000,,{\blur3}他每一锤有三百斤力道以上\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Each strike is deadly,{\r}
+Dialogue: 0,1:24:15.74,1:24:17.97,Default,,0000,0000,0000,,{\blur3}绝不可以与他硬碰硬\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}we must think of a way to deal with him.{\r}
+Dialogue: 0,1:24:23.91,1:24:26.47,Default,,0000,0000,0000,,{\blur3}闷死了 过去看看怎么样\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}So boring! Let's check them!{\r}
+Dialogue: 0,1:24:26.58,1:24:27.05,Default,,0000,0000,0000,,{\blur3}好\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Sure.{\r}
+Dialogue: 0,1:24:27.15,1:24:28.55,Default,,0000,0000,0000,,{\blur3}好 你接应我\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}You cover for me.{\r}
+Dialogue: 0,1:24:45.56,1:24:46.59,Default,,0000,0000,0000,,{\blur3}走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Go!{\r}
+Dialogue: 0,1:24:52.87,1:24:56.10,Default,,0000,0000,0000,,{\blur3}这就是白眉双童的虎童和豹童\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}They are the Tiger Kid and Leopard Kid.{\r}
+Dialogue: 0,1:24:56.21,1:24:59.41,Default,,0000,0000,0000,,{\blur3}虎童拳脚功夫很辣 劲力极足\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Tiger Kid has a deadly kick.{\r}
+Dialogue: 0,1:25:02.58,1:25:05.64,Default,,0000,0000,0000,,{\blur3}豹童的金钢圈武艺非凡\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Leopard Kid kills with the copper ring.{\r}
+Dialogue: 0,1:25:06.55,1:25:10.15,Default,,0000,0000,0000,,{\blur3}尤其是别看他们是小孩子\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Don't think that they're just kids,{\r}
+Dialogue: 0,1:25:10.26,1:25:12.59,Default,,0000,0000,0000,,{\blur3}出手阴毒 千万小心\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}they're very vicious. You must be careful.{\r}
+Dialogue: 0,1:25:27.31,1:25:30.21,Default,,0000,0000,0000,,{\blur3}官兵已在聚集 很快就可以赶到了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The soldiers are gathering, they'll be here soon.{\r}
+Dialogue: 0,1:28:20.48,1:28:23.18,Default,,0000,0000,0000,,{\blur3}慢着 来呀\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Wait. Come on.{\r}
+Dialogue: 0,1:29:55.94,1:29:56.93,Default,,0000,0000,0000,,{\blur3}来\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Come on.{\r}
+Dialogue: 0,1:30:11.89,1:30:13.12,Default,,0000,0000,0000,,{\blur3}喝一杯\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Have a drink.{\r}
+Dialogue: 0,1:30:21.47,1:30:23.49,Default,,0000,0000,0000,,{\blur3}这叫什么功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}What style is this?{\r}
+Dialogue: 0,1:30:23.60,1:30:25.83,Default,,0000,0000,0000,,{\blur3}这叫黑虎门功夫\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}The Black Tiger Clan's style.{\r}
+Dialogue: 0,1:32:18.18,1:32:19.41,Default,,0000,0000,0000,,{\blur3}朱财\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai...{\r}
+Dialogue: 0,1:32:21.55,1:32:23.49,Default,,0000,0000,0000,,{\blur3}朱财\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Zhu Cai...{\r}
+Dialogue: 0,1:39:30.95,1:39:33.32,Default,,0000,0000,0000,,{\blur3}大宝\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Dabao...{\r}
+Dialogue: 0,1:40:34.08,1:40:35.67,Default,,0000,0000,0000,,{\blur3}洪大哥 官兵到了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Brother Hong, the soldiers are here!{\r}
+Dialogue: 0,1:40:35.78,1:40:38.31,Default,,0000,0000,0000,,{\blur3}你和韩七走 我来挡住\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Leave with Han Qi, I'll stay behind.{\r}
+Dialogue: 0,1:40:39.35,1:40:39.98,Default,,0000,0000,0000,,{\blur3}不行\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}No!{\r}
+Dialogue: 0,1:40:40.09,1:40:42.14,Default,,0000,0000,0000,,{\blur3}反正我已经受了伤\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}I'm injured anyway.{\r}
+Dialogue: 0,1:40:42.49,1:40:44.92,Default,,0000,0000,0000,,{\blur3}快点走 再不走就来不及了\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Leave now! Or you won't make it!{\r}
+Dialogue: 0,1:40:45.02,1:40:46.32,Default,,0000,0000,0000,,{\blur3}我们在这儿挡着\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}We'll stay behind and block them.{\r}
+Dialogue: 0,1:40:46.42,1:40:47.82,Default,,0000,0000,0000,,{\blur3}阿金伤得也很厉害\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Jin's badly injured too.{\r}
+Dialogue: 0,1:40:47.93,1:40:51.49,Default,,0000,0000,0000,,{\blur3}大家都要留下来送死 谁来干大事\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}If we all die, who's going to complete the mission?{\r}
+Dialogue: 0,1:40:51.60,1:40:52.69,Default,,0000,0000,0000,,{\blur3}快点走啊\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,1:40:53.53,1:40:54.46,Default,,0000,0000,0000,,{\blur3}走\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Run!{\r}
+Dialogue: 0,1:41:05.58,1:41:06.67,Default,,0000,0000,0000,,{\blur3}放箭\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Shoot!{\r}
+Dialogue: 0,1:41:14.49,1:41:18.82,Default,,0000,0000,0000,,{\blur3}大宝 人生一世算没白活\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Dabao, we lived life to the fullest.{\r}
+Dialogue: 0,1:41:20.16,1:41:21.75,Default,,0000,0000,0000,,{\blur3}很过瘾 是不是\N{\blur3}{\fnMicrosoft YaHei\fs12\1c&H2D5382&\b1}Fun, isn't it?{\r}
+
