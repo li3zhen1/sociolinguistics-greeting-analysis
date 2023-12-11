@@ -4,9 +4,7 @@
   margin: 0.85in,
 )
 
-#set heading(
-  numbering: "1.1"
-)
+#show link: it => underline(it)
 
 #set par(
   // leading: 6pt,
@@ -14,7 +12,7 @@
 )
 
 #set text(
-  font: ("New York Small", "Noto Serif SC") 
+  font: ("Noto Serif", "Noto Serif SC") 
 )
 
 #set cite(
@@ -29,13 +27,17 @@
   inset: (x: 4pt),
   box(radius: 2pt,
   //  stroke: 0.5pt+rgb("#aaa"), 
-   fill:rgb("#f5f6f7"), outset: (top:2pt, x: 3pt, bottom: 3pt))[#text(font: ("SF Mono", "PingFang SC"))[#it]] 
+   fill:rgb("#f1f2f6"), outset: (top:2pt, x: 3pt, bottom: 3pt))[#text(font: ("SF Mono", "PingFang SC"))[#it]] 
 )
 
 #set table(stroke: 0.6pt)
 
-= #text(weight: 500, size: 16pt)[A Comparative Study of Chinese and English Greetings: \ "#text(weight: 600, size: 16pt)[你吃了吗?]", "#text(weight: 600, size: 16pt)[你好吗?]" and "How are you doing?"]
+= #text(weight: 500, size: 16pt)[Transformations in Chinese Greeting Expressions: \ A Diachronic Analysis of Question and Non-Question Forms]
+// [A Comparative Study of Chinese and English Greetings: \ "#text(weight: 600, size: 16pt)[你吃了吗?]", "#text(weight: 600, size: 16pt)[你好吗?]" and "How are you doing?"]
 
+#set heading(
+  numbering: "1.1"
+)
 
 
 #v(14pt)
@@ -108,9 +110,10 @@ grid(
 table(
   columns: (auto, 1fr),
   [Regular expression], [Matched target],
-  [`/[^\p{script=Han}]你好[^\p{script=Han}]/`], [“你好” with no Hanzi characters before or after],
-  [`/[^\p{script=Han}]你好吗[^\p{script=Han}]/`], [“你好吗” with no Hanzi characters before or after],
-  [`/吃了吗[^\p{script=Han}]/`], [“吃了吗” with no Hanzi characters after],
+  [`r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`], [“你好” with no Hanzi characters before or after],
+  [`r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`], [“你好吗” with no Hanzi characters before or after],
+  [`r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`], [],
+  [`r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`], [“吃了吗” with no Hanzi characters after],
 ),
 v(3pt),
 text(10pt)[\* Full width puctuations, such as `。` and `？` are not matched by `\p{script=Han}`.],
@@ -123,6 +126,20 @@ caption: "Regular expressions for matching greetings",
 )<RegTable>
 
 
+
+#figure(
+  {
+    set text(
+      font: ("SF Pro Text", "PingFang SC") 
+    )
+    image("visualization.svg")
+    set text(
+      font: ("New York Small", "Noto Serif SC") 
+    )
+  },
+  caption: "Visualization of the data",
+)
+ 
 
 
 
@@ -171,8 +188,25 @@ caption: "Regular expressions for matching greetings",
 #pagebreak()
 = Appendix
 
-== Data Crawling Scripts
+All the code and data used in this paper can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
 
+== Obtaining and Analyzing Movie Subtitle Data
+
++ Collect the movie names from #link("https://movie.douban.com/explore")[Douban Explore] to filter the movies. Paste the #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/captions/script.js")[scripts] in the browser console and it will automatically click the expand button for 10 times and print 200 \~ 300 movie names in the console.
+
++ Run `movie_caption_crawl.ipynb` to crawl the movie subtitles. Switch IP if blocked by the website.
+
+  - The movie names are only fuzzy matched in the search box of zimuku.net. Some manual work is needed to remove the wrong matches.
+
++ Run `clean.ipynb` to clean the downloaded subtitles.
+
++ Run `encoding.ipynb` to convert the subtitles from `UTF-8 with BOM` / `GB2312` to `UTF-8` encoding.
+
++ Run `stat.ipynb` to count the frequency of greetings by regex matches in the subtitles.
+
++ Run `eda.ipynb` to aggregate the results.
+
++ Copy the saved `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
 
 
 == Data Result
