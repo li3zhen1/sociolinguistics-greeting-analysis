@@ -12,7 +12,7 @@
 )
 
 #set text(
-  font: ("Noto Serif", "Noto Serif SC") 
+  font: ("Noto Serif", "STKaiti") 
 )
 
 #set cite(
@@ -59,7 +59,9 @@ Zhen Li
 
 = Introduction
 
-The questions “你吃了吗？”(pinyin: nǐ chī le mā? English: Have you eaten?)” and “你好吗？”(pinyin: nǐ hǎo mā? English: How are you?) are often compared to “How are you doing?” when studying greetings in Chinese. But in fact, questions are very commonly used in the United States, not common in greetings between Chinese, especially strangers. This paper will take a statistic approch to compare the usage of those 3 greetings, and analyze the differences in their usage and pragmatics, trying to provide a diverse and insightful perspective on the evolution, pragmatics, and sociocultural implications of these greetings.
+This paper investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
+
+By analyzing a conversational corpus alongside movie subtitles crawled from a Chinese movie resource website, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, contributing to our understanding of language's role in reflecting and influencing social interactions.
 
 = Literature Review 
 
@@ -102,21 +104,55 @@ By comparing the usage of the greetings in the 2 datasets, we aim to answer the 
 
 In this study, we count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context. 
 
+#let table_line = line(stroke: 0.5pt+rgb("#000"), length: 100%)
 #figure(
 
 grid(
   gutter: 3pt,
   columns: (100%),
-table(
-  columns: (auto, 1fr),
-  [Regular expression], [Matched target],
-  [`r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`], [“你好” with no Hanzi characters before or after],
-  [`r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`], [“你好吗” with no Hanzi characters before or after],
-  [`r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`], [],
-  [`r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`], [“吃了吗” with no Hanzi characters after],
-),
+  grid(
+    columns: (120pt, 1fr),
+    rows: (0.5pt, auto, 0.5pt, 3.9em, 0.5pt, 3.9em, 0.5pt),
+    table_line,table_line,
+    box(inset: 0.5em)[*Category*], box(inset: 0.5em)[*Python syntax for the regular expression*],
+
+    table_line,table_line,
+
+    box(inset: (top:1.5em))[Non-question forms], box(height:36pt)[
+      // `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
+      // `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
+      #box(inset: (top:0.5em, bottom: 0em))[
+        `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
+      ]
+      #box(table_line)
+      #box(inset: (top:0em, bottom: 0.5em))[
+        `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
+      ]
+    ],
+
+    table_line, table_line,
+
+    box(inset: (top:1.5em))[Question forms], box(height:36pt)[
+      #box(inset: (top:0.5em, bottom: 0em))[
+        `r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`
+      ]
+      #box(table_line)
+      #box(inset: (top:0em, bottom: 0.5em))[
+        `r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`
+      ]
+    ],
+    table_line,table_line,
+  ),
+// table(
+//   columns: (auto, 1fr),
+//   [Regular expression in Python], [Category],
+//   [`r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`], [“你好” with no Hanzi characters before or after],
+//   [`r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`], [“你好吗” with no Hanzi characters before or after],
+//   [`r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`], [],
+//   [`r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`], [“吃了吗” with no Hanzi characters after],
+// ),
 v(3pt),
-text(10pt)[\* Full width puctuations, such as `。` and `？` are not matched by `\p{script=Han}`.],
+text(10pt)[\* Full width puctuations, such as `。` and `？`, are not matched by `\p{script=Han}`.],
 v(3pt)
 
 ), 
