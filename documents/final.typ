@@ -1,14 +1,15 @@
 #set page(
   numbering: "1/1",
   paper: "us-letter",
-  margin: 0.85in,
+  margin: 1.0in,
 )
 
 #show link: it => text(fill: rgb(24, 118, 153), underline(it))
 
 #set par(
   // leading: 6pt,
-  first-line-indent: 2em
+  first-line-indent: 2em,
+  // justify: true
 )
 
 #set text(
@@ -64,9 +65,9 @@ Zhen Li \ zhenli.craig\@gatech.edu
 
 = Introduction
 
-Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
+Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (nǐ chī le mā, _Have you eaten?_) and “你好吗?” (nǐ hǎo mā, _How are you?_), compared to non-question forms, “你好!” (nǐ hǎo, _Hello!_) and “早上好!” (zǎo shàng hǎo, _Good morning!_). Contrary to the commonly used greeting “How are you doing?” in English, there's an observation that such question forms are less prevalent in Chinese greetings, especially among strangers. 
 
-By analyzing a conversational corpus alongside movie subtitles crawled from a Chinese movie resource website, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, contributing to our understanding of language's role in reflecting and influencing social interactions.
+To unveil the underlying reasons for this phenomenon, in this project, we examine the diachronic changes in the use of question and non-question forms in Chinese greetings. By analyzing a conversational corpus alongside a set of diachronically categorized movie subtitles, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, exploring the relationship between changing Chinese greating patterns and the social context.
 
 = Literature Review 
 
@@ -112,17 +113,24 @@ In this study, we intend to extract the greetings from the coversation a corpus 
 
 The corpus MAGICDATA Mandarin Chinese Conversational Speech Corpus includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are combined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
 
-The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning, the final dataset contains 828 readable movie subtitles in total:
+
+#let arr = (40, 101, 201, 169, 90, 142, 77)
+
+
+The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning, the final dataset contains #str(
+  arr.at(0) + arr.at(1) + arr.at(2) + arr.at(3) + arr.at(4) + arr.at(5) + arr.at(6)
+) readable movie subtitles in total:
 
 #figure(
   table(
     columns: (1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     [1960s], [1970s], [1980s], [1990s], [2000s], [2010s], [2020s],
-    [40], [102], [202], [173], [91], [143], [77],
+    [#arr.at(0)], [#arr.at(1)], [#arr.at(2)], [#arr.at(3)], [#arr.at(4)], [#arr.at(5)], [#arr.at(6)],
   ),
   caption: "Number of movies for each decade",
 )
 
+While the dataset consists of only movie dialogues, primarily captures the perceptions of scriptwriters and directors regarding daily conversations, and thus only represents a limited subset of actual conversational patterns — or perhaps even only prestige forms adopted by the movie creators — it offers valuable insights into broader linguistic trends in greetings. 
 
 == Greeting Extraction
 
@@ -177,7 +185,7 @@ grid(
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
         ```Python 
-        r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
+        r'((?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
         ```
       ]
     ],
@@ -197,7 +205,7 @@ grid(
 caption: "Regular expressions for matching greetings",
 
 )<RegTable>
-\
+
 \ Take the first regular expression as an example, there are 5 major parts:
 
 #box(stroke: 0.5pt+black, inset: 1em, width: 100%)[
@@ -207,33 +215,126 @@ caption: "Regular expressions for matching greetings",
 + `[啊]?`: matches one or zero times of `啊` (ā, an exclamation or modal particle used for emphasis or mood).
 + `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
 ]
-
-The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). We don't force the last one `吃[过]?[饭]?了[吗么没嘛啊]` to have a leading non-Hanzi character because there exist several variations with different leading texts, such as "你已经吃过饭了吗?" (_Have you already eaten?_), and it's probably sufficient to match the similar semantics with the trailing constraint only. 
-
-Detailed explanation for other 3 regular expressions can be found in @regex-explain.
-
-
  
+The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). Detailed explanation for other 3 regular expressions can be found in @regex-explain.
 
-= Result and Discussion  
 
-The frequencies of four category of greetings are visualized in @viz. We can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
+After matching the greetings with regular expressions, the occurences of greetings in the corpus and movie subtitles are counted respectively and displayed in @occ. The results are visualized as the normalized stacked area chart shown in @viz.
 
 #figure(
   {
+  let results = csv("../regex_sum.csv")
 
-    image("visualization.svg")
- 
+  align(horizon,table(
+    columns: 5,
+    [*Decade*], [
+      (你|您)好[啊]? \
+      #text(8pt)[_Hello!_]
+    ], [(上午|下午|晚上|中午|早上)好[啊]? \
+      #text(8pt)[_Good morning/afternoon/...!_]], [(你|您)(最近)?好[吗么没嘛啊] \
+      #text(8pt)[_How are you?_]],[吃[过]?[饭]?了[吗么没嘛啊] \
+      #text(8pt)[_Have you eaten?_]],
+    ..results.flatten(),
+
+    [MAGICDATA Corpus], [8], [0], [0], [1],
+  ) )
+  },
+  caption: "Occurences of greetings in the MAGICDATA Mandarin Chinese Conversational Speech Corpus and movies",
+)<occ>
+
+#figure(
+  {
+    image("visualization.svg", width: 80%)
   },
   caption: "Changes of the frequency of greetings in the movie subtitles from 1960s to 2020s",
 )<viz>
 
-Although the the dataset only roughly represents the conversations in movies, it reflects the general trend of the usage of greetings in daily conversations. The results are consistent with the findings in @XIA2023156, which reveals a shift towards impersonalization in greetings, increased semantic informativeness, and a departure from traditional politeness norms of self-denigration and other-elevation.
+#v(4pt)
+
+
+= Result and Discussion  
+
+We can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
+
+
+
+
+
+// == The Decline of Question Forms
+
+To further explore the reason behind the decline in the use of question form greetings, we specifically analyze dialogues from _Rickshaw Boy_ and _A Better Tomorrow II_, as highlighted in @rickshaw and @howareyou1. These instances demonstrate a strong correlation between the use of question form greetings and the conversation's context.
+
+
+#let sp = h(0.6em)
+
+
+#figure(
+  box(stroke: 0.5pt, width: 100%, inset:1em )[
+
+
+  #align(left)[
+  \- 吃饭了吗 \
+  #sp #text(size: 8pt)[_Have you eaten?_]
+  ]
+
+
+
+#align(right)[
+\- 还没拉上座儿呢\
+#sp #text(size: 8pt)[_No business yet._]
+]
+
+
+#align(left)[
+\- 我这有钱#sp 先拿去吃饭吧 \ 
+#sp #text(size: 8pt)[_I have some money here, take it and go eat first._]
+]
+
+#v(2pt)
+
+  ],
+  caption: [A dialogue from the movie 《骆驼祥子》 (_Rickshaw Boy_, China mainland, 1982)],
+)<rickshaw>
+
+
+#figure(
+  box(stroke: 0.5pt, width: 100%, inset:1em )[
+#align(left)[
+\- 胡Sir#sp 你还是不要退休了 #sp 还有很多事情等着你做 \
+#sp #text(size: 8pt)[_Mr. Hu, you shouldn't retire. There are still many things waiting for you to do._]
+]
+
+// #v(2pt)
+#align(right)[
+\- Ken哥#sp 我们很挂念你#sp 你好吗?  \
+#sp #text(size: 8pt)[_Ken, we miss you so much. How are you doing?_]
+
+#v(2pt)
+  ]
+
+
+  ],
+  caption: [A dialogue from the movie 《英雄本色》 (_A Better Tomorrow II_, Hong Kong, 1987)],
+)<howareyou1>
+
+#v(4pt)
+
+In _Rickshaw Boy_, the greeting "_Have you eaten?_" is closely tied the context where the two speakers led a difficult life and struggled to make ends meet. This greeting is a query about the need of food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers, emphasizing basic needs and communal care. 
+
+In the second example from _A Better Tomorrow II_, the greeting "_How are you doing?"_ emerges in a context of reunion. Here, it serves as an expression of longing and reconnection, indicating the speaker's concern after a prolonged separation. Compared to the commonly used English version of this greeting, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
+
+The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. The ongoing change of greeting patterns is thus a reflection of the change of contemporary Chinese society.
+
+
+
+
 
 
 = Conclusion 
 
+This project has provided a comprehensive analysis of the evolution of Chinese greetings, examining their transition from question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_) to non-question forms such as “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Through an quantitative analysis of conversational corpora and movie subtitles, we have traced the diachronic changes in greeting practices and explored their sociocultural implications.
 
+Our findings indicate a shift in greeting practices within Chinese society. The decline in question form greetings and the rise of non-question forms reflect broader sociocultural changes, including shifts towards greater impersonalization, and alterations in politeness norms. These trends mirror the ongoing transformations in Chinese social dynamics and cultural practices.
 
 
 
@@ -252,7 +353,11 @@ Although the the dataset only roughly represents the conversations in movies, it
 )
 
 #pagebreak()
-= Appendix
+ 
+
+= #text(size: 24pt)[Appendix]
+\
+
 
 #set heading(
   numbering: "A.a"
@@ -260,16 +365,29 @@ Although the the dataset only roughly represents the conversations in movies, it
  
 All the code and data used in this project can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
 
+
 = Explanation of the Regular Expressions<regex-explain>
+
+\
+
+Constraints for avoid surruounding Hanzi characters are omitted below.
 
 
 == `(?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han})` (_Good morning / evening / ... !_)
 
+#box(stroke:0.5pt+black, inset: 1em, width: 100%)[
+
 - `(上午|下午|晚上|中午|早上)`: matches either `上午` (shàngwǔ, _morning_), `下午` (xiàwǔ, _afternoon_), `晚上` (wǎnshàng, _evening_), `中午` (zhōngwǔ, _noon_), or `早上` (zǎoshàng, _early morning_).
 
 - `好`: matches `好` (hǎo), which translates to _"good"_ or _"well"_ in English.
+]
+\
+
 
 == `(?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han})`  (_How are you?_)
+
+
+#box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 
 - `(你|您)`: matches either `你` (nǐ, _you_) or `您` (nín, formal _you_).
 
@@ -278,9 +396,11 @@ All the code and data used in this project can be found at the repository #link(
 - `好`: matches `好` (hǎo), which translates to _"good"_ or _"well"_ in English.
 
 - `[吗么没嘛啊]`: matches either `吗` (ma, question particle), `么` (me, question particle), `没` (méi, negative particle), `嘛` (ma, modal particle), or `啊` (ā, an exclamation or modal particle used for emphasis or mood). In this greeting, they are used as modal particles.
+]
+\
 
-== `吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
-
+== `(?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
+#box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 - `吃`: matches `吃` (chī, _eat_).
 
 - `[过]?`: matches one or zero times of `过` (guò, a mark indicating the completion of an action). 
@@ -290,7 +410,7 @@ All the code and data used in this project can be found at the repository #link(
 - `了`: matches `了` (le, perfective particle).
 
 - `[吗么没嘛啊]`: matches either `吗` (ma, question particle), `么` (me, question particle), `没` (méi, negative particle), `嘛` (ma, modal particle), or `啊` (ā, an exclamation or modal particle used for emphasis or mood). In this greeting, they are used as modal particles.
-
+]
 \
 
 
@@ -298,9 +418,9 @@ All the code and data used in this project can be found at the repository #link(
 
 \* The standard library `re` in Python doesn't support Unicode property escapes like `\p{Han}`. I used the #link("https://pypi.org/project/regex/")[regex] library instead.
 
+\
 
-
-= Obtaining and Analyzing Movie Subtitle Data
+= Obtaining Movie Subtitles
 
 + Collect the movie names from #link("https://movie.douban.com/explore")[Douban Explore] to filter the movies. Paste the #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/captions/script.js")[scripts] in the browser console and it will automatically click the expand button for 10 times and print 200 \~ 300 movie names in the console.
 
@@ -312,17 +432,23 @@ All the code and data used in this project can be found at the repository #link(
 
 + Run `encoding.ipynb` to convert the subtitles from `UTF-8 with BOM` / `GB2312` to `UTF-8` encoding.
 
-+ Run `stat.ipynb` to count the frequency of greetings by regex matches in the subtitles.
+\
 
-+ Run `eda.ipynb` to aggregate the results.
+= Analyzing Conversational Corpus and Movie Data
 
-+ Copy the generated `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
++ Run `count_regex.ipynb` to count the appearances of greetings in subtitles by regex matches.
+
+  - Run `eda.ipynb` to aggregate the results.
+
+  - Copy the generated `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
+
++ Run `count_magic.ipynb` to count the appearances of greetings in the corpus by regex matches.
 
 
-// === Notes about the Noises in the Data
+\
 
 = Results
 
 All subtitles can be found in the `caption` folder.
 
-Other data can be found in the root folder.
+Results can be found in the root folder.
