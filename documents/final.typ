@@ -434,7 +434,7 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
 
 + Run `movie_caption_crawl.ipynb` to crawl the movie subtitles. Switch IP if blocked by the website.
   
-  - The movie names are only fuzzy matched in the search box of zimuku.net. Some manual work is needed to remove the wrong matches.
+  - The movie names are only fuzzy matched in the search box of SrtKu. Some manual work is needed to remove the wrong matches.
 
 + Run `clean.ipynb` to clean the downloaded subtitles.
 
