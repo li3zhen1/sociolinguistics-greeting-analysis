@@ -4,7 +4,7 @@
   margin: 0.85in,
 )
 
-#show link: it => underline(it)
+#show link: it => text(fill: rgb(24, 118, 153), underline(it))
 
 #set par(
   // leading: 6pt,
@@ -12,7 +12,8 @@
 )
 
 #set text(
-  font: ("Noto Serif", "STKaiti") 
+  font: ("Noto Serif", "STKaiti"),
+  size: 9.5pt,
 )
 
 #set cite(
@@ -59,13 +60,15 @@ Zhen Li
 
 = Introduction
 
-This paper investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
+Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This paper investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
 
 By analyzing a conversational corpus alongside movie subtitles crawled from a Chinese movie resource website, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, contributing to our understanding of language's role in reflecting and influencing social interactions.
 
 = Literature Review 
 
 == Greetings
+
+
 
 
 
@@ -88,7 +91,8 @@ Overall, these works collectively offer a comprehensive view of the sociolinguis
 = Data and Methodology 
 
 == Research questions
-In this paper, we analyze 2 representative dataset for Chinese greetings. The first dataset is #sb[MAGICDATA Mandarin Chinese Conversational Speech Corpus] @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles in various languages. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
+
+In this paper, we analyze 2 representative dataset for Chinese greetings. The first dataset is #sb[MAGICDATA Mandarin Chinese Conversational Speech Corpus] @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
 
 By comparing the usage of the greetings in the 2 datasets, we aim to answer the following three questions:
 
@@ -122,11 +126,15 @@ grid(
       // `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
       // `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
       #box(inset: (top:0.5em, bottom: 0em))[
-        `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
+        ```Python 
+        r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'
+        ```
       ]
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
-        `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
+        ```Python 
+        r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'
+        ```
       ]
     ],
 
@@ -134,11 +142,15 @@ grid(
 
     box(inset: (top:1.5em))[Question forms], box(height:36pt)[
       #box(inset: (top:0.5em, bottom: 0em))[
-        `r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`
+        ```Python 
+        r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'
+        ```
       ]
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
-        `r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`
+        ```Python 
+        r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
+        ```
       ]
     ],
     table_line,table_line,
@@ -162,6 +174,15 @@ caption: "Regular expressions for matching greetings",
 )<RegTable>
 
 
+Take the first regular expression as an example, there are 5 major parts:
+
+- `(?<!\p{Han})`: matches the position where the previous character is not a Hanzi character.
+- `(你|您)`: matches either `你` or `您`.
+- `好`: matches `好`.
+- `[啊]?`: matches `啊` or nothing.
+- `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
+
+The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*快" (_You are so fast_).
 
 #figure(
   {
@@ -170,7 +191,7 @@ caption: "Regular expressions for matching greetings",
     )
     image("visualization.svg")
     set text(
-      font: ("New York Small", "Noto Serif SC") 
+      font: ("Noto Serif", "STKaiti") 
     )
   },
   caption: "Visualization of the data",
