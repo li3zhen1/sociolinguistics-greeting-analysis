@@ -14,7 +14,7 @@
 
 #set text(
   font: ("Noto Serif", "STKaiti"),
-  size: 9.5pt,
+  size: 10pt,
 )
 
 #set cite(
@@ -111,7 +111,7 @@ By comparing the usage of the greetings in the 2 datasets, we aim to answer the 
 
 In this study, we intend to extract the greetings from the coversation a corpus and movie subtitles and count their frequency of appearance to analyze the differences in their usage and context.
 
-The corpus MAGICDATA Mandarin Chinese Conversational Speech Corpus includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are combined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
+The corpus, MAGICDATA Mandarin Chinese Conversational Speech Corpus, includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are joined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
 
 
 #let arr = (40, 101, 201, 169, 90, 142, 77)
@@ -216,7 +216,7 @@ caption: "Regular expressions for matching greetings",
 + `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
 ]
  
-The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). Detailed explanation for other 3 regular expressions can be found in @regex-explain.
+The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). All possible sentences matched by regexes used in this project represents a sentence with similar meanings, but in some scenario they might convey more of a contextual meaning and hence not a standard "greeting" defined by @Duranti_1997. Detailed explanation for other 3 regular expressions can be found in @regex-explain.
 
 
 After matching the greetings with regular expressions, the occurences of greetings in the corpus and movie subtitles are counted respectively and displayed in @occ. The results are visualized as the normalized stacked area chart shown in @viz.
@@ -241,18 +241,22 @@ After matching the greetings with regular expressions, the occurences of greetin
   },
   caption: "Occurences of greetings in the MAGICDATA Mandarin Chinese Conversational Speech Corpus and movies",
 )<occ>
+#v(40pt)
+
 
 #figure(
   {
-    image("visualization.svg", width: 80%)
+    image("visualization.svg", width: 90%)
   },
   caption: "Changes of the frequency of greetings in the movie subtitles from 1960s to 2020s",
 )<viz>
-
-#v(4pt)
+ 
+#v(40pt)
 
 
 = Result and Discussion  
+
+
 
 We can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
 
@@ -301,8 +305,10 @@ To further explore the reason behind the decline in the use of question form gre
   box(stroke: 0.5pt, width: 100%, inset:1em )[
 #align(left)[
 \- 胡Sir#sp 你还是不要退休了 #sp 还有很多事情等着你做 \
-#sp #text(size: 8pt)[_Mr. Hu, you shouldn't retire. There are still many things waiting for you to do._]
+#sp #text(size: 8pt)[_Hu Sir, you shouldn't retire. There are still many things waiting for you to do._]
 ]
+
+
 
 // #v(2pt)
 #align(right)[
@@ -319,11 +325,13 @@ To further explore the reason behind the decline in the use of question form gre
 
 #v(4pt)
 
-In _Rickshaw Boy_, the greeting "_Have you eaten?_" is closely tied the context where the two speakers led a difficult life and struggled to make ends meet. This greeting is a query about the need of food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers, emphasizing basic needs and communal care. 
+In _Rickshaw Boy_, the greeting "_Have you eaten?_" is closely tied the context where the listener is a rickshaw puller and led a difficult life, struggling to make ends meet. This greeting is a query about the need of food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers, emphasizing basic needs and communal care. 
 
 In the second example from _A Better Tomorrow II_, the greeting "_How are you doing?"_ emerges in a context of reunion. Here, it serves as an expression of longing and reconnection, indicating the speaker's concern after a prolonged separation. Compared to the commonly used English version of this greeting, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
 
-The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. The ongoing change of greeting patterns is thus a reflection of the change of contemporary Chinese society.
+The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. Non-question form greetings like "_Hello!_" are more impersonal and less context-dependent, and thus emerging as a more common form of greeting.
+
+The ongoing change of greeting patterns is a reflection of the change of contemporary Chinese society. The trend of greeting patterns in movie subtitles is consistent with the result from @XIA2023156's study. By studying classic Chinese literatures, they found that Chinese greetings between new acquaintances in the 20th century exhibit a tendency of “impersonalization” in terms of topic selection and the use of sentence patterns. 
 
 
 
@@ -370,10 +378,10 @@ All the code and data used in this project can be found at the repository #link(
 
 \
 
-Constraints for avoid surruounding Hanzi characters are omitted below.
+Constraints for avoiding surruounding Hanzi characters are omitted below. 
 
 
-== `(?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han})` (_Good morning / evening / ... !_)
+== Non-question form: `(?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han})` (_Good morning / evening / ... !_)
 
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 
@@ -384,7 +392,7 @@ Constraints for avoid surruounding Hanzi characters are omitted below.
 \
 
 
-== `(?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han})`  (_How are you?_)
+== Question form: `(?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han})`  (_How are you?_)
 
 
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
@@ -399,7 +407,7 @@ Constraints for avoid surruounding Hanzi characters are omitted below.
 ]
 \
 
-== `(?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
+== Question form: `(?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 - `吃`: matches `吃` (chī, _eat_).
 
@@ -443,11 +451,6 @@ Constraints for avoid surruounding Hanzi characters are omitted below.
   - Copy the generated `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
 
 + Run `count_magic.ipynb` to count the appearances of greetings in the corpus by regex matches.
-
-
-\
-
-= Results
 
 All subtitles can be found in the `caption` folder.
 
