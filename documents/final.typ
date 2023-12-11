@@ -126,7 +126,7 @@ The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use t
 
 == Greeting Extraction
 
-We use a naïve regular expression approach to extract the greetings from the corpus and movie subtitles. For each category of greetings (non-question forms and question forms), 2 regular expressions are designed to match the most frequently used greetings in daily conversations. The regular expressions are listed in the table below.
+We use a naïve regular expression approach to extract the greetings from the corpus and movie subtitles. For each category of greetings (non-question forms and question forms), 2 regular expressions are designed to match the most frequently used greetings in daily conversations. The regular expressions are listed in @RegTable. 
 
 // the frequency of greetings with regular expressions (@RegTable) below.
 //  count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context.
@@ -197,19 +197,20 @@ grid(
 caption: "Regular expressions for matching greetings",
 
 )<RegTable>
+\
+\ Take the first regular expression as an example, there are 5 major parts:
 
+#box(stroke: 0.5pt+black, inset: 1em, width: 100%)[
++ `(?<!\p{Han})`: matches the position where the previous character is not a Hanzi character. The `\p{Han}` represents any character in the Unicode Han script.
++ `(你|您)`: matches either `你` (nǐ, _you_) or `您` (nín, formal _you_).
++ `好`: matches `好` (hǎo), which translates to _"good"_ or _"well"_ in English.
++ `[啊]?`: matches one or zero times of `啊` (ā, an exclamation or modal particle used for emphasis or mood).
++ `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
+]
 
-Take the first regular expression as an example, there are 5 major parts:
+The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). We don't force the last one `吃[过]?[饭]?了[吗么没嘛啊]` to have a leading non-Hanzi character because there exist several variations with different leading texts, such as "你已经吃过饭了吗?" (_Have you already eaten?_), and it's probably sufficient to match the similar semantics with the trailing constraint only. 
 
-- `(?<!\p{Han})`: matches the position where the previous character is not a Hanzi character.
-- `(你|您)`: matches either `你` or `您`.
-- `好`: matches `好`.
-- `[啊]?`: matches `啊` or nothing.
-- `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
-
-#h(2em)The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). We don't force the last one `吃[过]?[饭]?了[吗么没嘛啊]` to have a leading non-Hanzi character because there exist several variations with different leading texts, such as "你已经吃过饭了吗?" (_Have you already eaten?_), and it's probably sufficient to match the similar semantics with the trailing constraint only. 
-
-Full width puctuations, such as `。` and `？`, are not matched by `\p{Han}`.
+Detailed explanation for other 3 regular expressions can be found in @regex-explain.
 
 
  
@@ -268,6 +269,15 @@ caption: "Regular expressions for matching greetings",
 
 #pagebreak()
 = Appendix
+
+#set heading(
+  numbering: "A.1"
+)
+
+== Explanation of the Regular Expressions<regex-explain>
+
+Full width puctuations, such as `。` and `？`, are not matched by `\p{Han}`.
+
 
 All the code and data used in this project can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
 
