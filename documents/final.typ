@@ -17,7 +17,7 @@
 )
 
 #set cite(
-  style: "american-psychological-association"
+  style: "american-psychological-association",
 )
 
 #let sb = (it) => {
@@ -42,7 +42,7 @@
 
 
 #v(14pt)
-Zhen Li
+Zhen Li \ zhenli.craig\@gatech.edu
 
 #show heading.where(level: 1): (it) => {
   v(8pt)
@@ -57,10 +57,14 @@ Zhen Li
   v(3pt)
 }
 
+#show cite: it => {
+  text(fill: rgb(24, 118, 153))[#it]
+}
+
 
 = Introduction
 
-Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This paper investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
+Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_), compared to non-question forms, “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Contrary to the common comparison with “How are you doing?” in English, such question forms are less prevalent in Chinese greetings, especially among strangers. 
 
 By analyzing a conversational corpus alongside movie subtitles crawled from a Chinese movie resource website, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, contributing to our understanding of language's role in reflecting and influencing social interactions.
 
@@ -68,45 +72,58 @@ By analyzing a conversational corpus alongside movie subtitles crawled from a Ch
 
 == Greetings
 
+@Duranti_1997 proposed a operational definition for analyzing greetings across languages and the relationships between conventional expressions. Duranti's six criteria for alternative uses of daily expressions like greetings are instrumental in understanding the substantive and social purposes of these linguistic interactions. 
 
-
-
+@gumperz2015interactional and @Boxer_2002 delve into the broader field of sociolinguistics and interactional studies, providing foundational concepts and methodologies such as interactional sociolinguistics and conversation analysis that are essential for analyzing greeting behaviors in different social settings.
 
 
 == Previous Research on Chinese Greetings 
 
-The literature on the comparative study of greetings in Chinese and English languages, especially focusing on expressions such as "你吃了吗？(Have you eaten?)", "你好吗？(How are you?)" in Chinese, and "How are you doing?" in English, offers a diverse and insightful perspective on the evolution, pragmatics, and sociocultural implications of these greetings.
 
 @XIA2023156's study provides a historical context, tracing the evolution of greeting culture in China from the 17th to the 20th century. It reveals a shift towards impersonalization in greetings, increased semantic informativeness, and a departure from traditional politeness norms of self-denigration and other-elevation. This historical perspective is crucial for understanding the current state of Chinese greeting practices.
 
-@Duranti_1997 and @Juliane_2021 offer frameworks for analyzing greetings across languages and the relationships between conventional expressions and speech acts. Duranti's six criteria and Juliane's categorization system for alternative uses of daily expressions like greetings are instrumental in understanding the substantive and social purposes of these linguistic interactions.
 
 @Liu_2016 and @House_2022 focus specifically on the comparison between English and Chinese greetings. Liu underscores the significance of greetings in social identity and cross-cultural communication, while House addresses the challenges Chinese learners of English face due to pragmatic differences in greeting conventions. House's inclusion of empirical studies adds depth to our understanding of these challenges.
-
-@gumperz2015interactional and @Boxer_2002 delve into the broader field of sociolinguistics and interactional studies, providing foundational concepts and methodologies such as interactional sociolinguistics and conversation analysis that are essential for analyzing greeting behaviors in different social settings.
 
 @Bobgan_2000 and @曲卫国_2001 contribute to the understanding of demographic and linguistic specifics. Bobgan explores the influence of age and gender on responses to greetings in English, while 曲卫国 offers a detailed analysis of the linguistic form, topic, and pragmatic constraints of Chinese greetings, highlighting their openness, convertibility, and diversity.
 
 Overall, these works collectively offer a comprehensive view of the sociolinguistic and pragmatic aspects of greetings in Chinese and English, emphasizing historical evolution, comparative analysis, and the influence of social and cultural factors on these everyday linguistic practices.
+
 = Data and Methodology 
 
 == Research questions
 
-In this paper, we analyze 2 representative dataset for Chinese greetings. The first dataset is #sb[MAGICDATA Mandarin Chinese Conversational Speech Corpus] @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
+In this project, we analyze 2 representative dataset for Chinese greetings. The first dataset is MAGICDATA Mandarin Chinese Conversational Speech Corpus @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
 
 By comparing the usage of the greetings in the 2 datasets, we aim to answer the following three questions:
 
 #box()[
 + Are there any diachronic changes of greetings used in Chinese conversations?
 
-+ If yes, what are the differences ?
++ If yes, what are the differences?
 
 + What are the socio-historical motivations underlying these differences?
 ]
+
 == Data Collection
 
 
-In this study, we count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context. 
+In this study, we intend to extract the greetings from the coversation a corpus and movie subtitles and count their frequency. The corpus MAGICDATA Mandarin Chinese Conversational Speech Corpus includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are combined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
+
+The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning and converting to UTF-8 encoding, the final dataset contains 844 movies subtitles in total.
+
+
+== Greeting Extraction
+
+We use a naïve regular expression approach to extract the greetings from the corpus and movie subtitles. For each category of greetings (non-question forms and question forms), 2 regular expressions are designed to match the most frequently used greetings in daily conversations. The regular expressions are listed in the table below.
+
+// the frequency of greetings with regular expressions (@RegTable) below.
+//  count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context.
+
+
+// The subtitles are downloaded from #link("https://srtku.com")[Srtku]. 
+
+//  count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context. 
 
 #let table_line = line(stroke: 0.5pt+rgb("#000"), length: 100%)
 #figure(
@@ -163,9 +180,6 @@ grid(
 //   [`r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'`], [],
 //   [`r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`], [“吃了吗” with no Hanzi characters after],
 // ),
-v(3pt),
-text(10pt)[\* Full width puctuations, such as `。` and `？`, are not matched by `\p{script=Han}`.],
-v(3pt)
 
 ), 
 
@@ -182,25 +196,22 @@ Take the first regular expression as an example, there are 5 major parts:
 - `[啊]?`: matches `啊` or nothing.
 - `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
 
-The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*快" (_You are so fast_).
+The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*快" (_You are so fast_). Full width puctuations, such as `。` and `？`, are not matched by `\p{Han}`.
+
+
+ 
+
+= Result and Discussion  
 
 #figure(
   {
-    set text(
-      font: ("SF Pro Text", "PingFang SC") 
-    )
+
     image("visualization.svg")
-    set text(
-      font: ("Noto Serif", "STKaiti") 
-    )
+ 
   },
-  caption: "Visualization of the data",
+  caption: "Changes of the frequency of greetings in the movie subtitles from 1960s to 2020s",
 )
  
-
-
-
-= Result and Discussion  
 
 #figure(
 
@@ -245,14 +256,14 @@ caption: "Regular expressions for matching greetings",
 #pagebreak()
 = Appendix
 
-All the code and data used in this paper can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
+All the code and data used in this project can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
 
 == Obtaining and Analyzing Movie Subtitle Data
 
 + Collect the movie names from #link("https://movie.douban.com/explore")[Douban Explore] to filter the movies. Paste the #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/captions/script.js")[scripts] in the browser console and it will automatically click the expand button for 10 times and print 200 \~ 300 movie names in the console.
 
 + Run `movie_caption_crawl.ipynb` to crawl the movie subtitles. Switch IP if blocked by the website.
-
+  
   - The movie names are only fuzzy matched in the search box of zimuku.net. Some manual work is needed to remove the wrong matches.
 
 + Run `clean.ipynb` to clean the downloaded subtitles.
@@ -263,7 +274,7 @@ All the code and data used in this paper can be found at the repository #link("h
 
 + Run `eda.ipynb` to aggregate the results.
 
-+ Copy the saved `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
++ Copy the generated `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
 
 
 == Data Result
