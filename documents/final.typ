@@ -108,9 +108,20 @@ By comparing the usage of the greetings in the 2 datasets, we aim to answer the 
 == Data Collection
 
 
-In this study, we intend to extract the greetings from the coversation a corpus and movie subtitles and count their frequency. The corpus MAGICDATA Mandarin Chinese Conversational Speech Corpus includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are combined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
+In this study, we intend to extract the greetings from the coversation a corpus and movie subtitles and count their frequency.
 
-The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning and converting to UTF-8 encoding, the final dataset contains 844 movies subtitles in total.
+The corpus MAGICDATA Mandarin Chinese Conversational Speech Corpus includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are combined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
+
+The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning, the final dataset contains 828 readable movies subtitles in total:
+
+#figure(
+  table(
+    columns: (1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
+    [1960s], [1970s], [1980s], [1990s], [2000s], [2010s], [2020s],
+    [40], [102], [202], [173], [91], [143], [77],
+  ),
+  caption: "Number of movies for each decade",
+)
 
 
 == Greeting Extraction
@@ -196,7 +207,9 @@ Take the first regular expression as an example, there are 5 major parts:
 - `[啊]?`: matches `啊` or nothing.
 - `(?!\p{Han})`: matches the position where the next character is not a Hanzi character.
 
-The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*快" (_You are so fast_). Full width puctuations, such as `。` and `？`, are not matched by `\p{Han}`.
+#h(2em)The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). We don't force the last one `吃[过]?[饭]?了[吗么没嘛啊]` to have a leading non-Hanzi character because there exist several variations with different leading texts, such as "你已经吃过饭了吗?" (_Have you already eaten?_), and it's probably sufficient to match the similar semantics with the trailing constraint only. 
+
+Full width puctuations, such as `。` and `？`, are not matched by `\p{Han}`.
 
 
  
