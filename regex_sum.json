@@ -1,34 +1,4 @@
 {
-    "1080": {
-        "regex\u4f60\u597d": 0.9285714286,
-        "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": 0.0,
-        "regex\u4f60\u597d\u5417": 0.0714285714,
-        "regex\u5403\u4e86\u5417": 0.0
-    },
-    "1890": {
-        "regex\u4f60\u597d": null,
-        "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": null,
-        "regex\u4f60\u597d\u5417": null,
-        "regex\u5403\u4e86\u5417": null
-    },
-    "1930": {
-        "regex\u4f60\u597d": 0.75,
-        "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": 0.0,
-        "regex\u4f60\u597d\u5417": 0.25,
-        "regex\u5403\u4e86\u5417": 0.0
-    },
-    "1940": {
-        "regex\u4f60\u597d": 0.7307692308,
-        "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": 0.1538461538,
-        "regex\u4f60\u597d\u5417": 0.1153846154,
-        "regex\u5403\u4e86\u5417": 0.0
-    },
-    "1950": {
-        "regex\u4f60\u597d": 0.55,
-        "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": 0.45,
-        "regex\u4f60\u597d\u5417": 0.0,
-        "regex\u5403\u4e86\u5417": 0.0
-    },
     "1960": {
         "regex\u4f60\u597d": 0.6853932584,
         "regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d": 0.0337078652,
