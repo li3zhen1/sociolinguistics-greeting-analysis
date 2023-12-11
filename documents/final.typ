@@ -283,7 +283,7 @@ All the code and data used in this project can be found at the repository #link(
 
 - `吃`: matches `吃` (chī, _eat_).
 
-- `[过]?`: matches one or zero times of `过` (guò, _experienced_).
+- `[过]?`: matches one or zero times of `过` (guò, a mark indicating the completion of an action). 
 
 - `[饭]?`: matches one or zero times of `饭` (fàn, _meal_).
 
