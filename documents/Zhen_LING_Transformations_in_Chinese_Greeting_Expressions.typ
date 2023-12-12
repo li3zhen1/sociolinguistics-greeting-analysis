@@ -118,7 +118,7 @@ The corpus, MAGICDATA Mandarin Chinese Conversational Speech Corpus, includes 18
 #let arr = (40, 101, 201, 169, 90, 142, 77)
 
 
-The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning, the final dataset contains #str(
+We use the movie lists from #link("https://movie.douban.com/explore")[Douban], an online movie database that provides rich filters for movie search. This website provides recommendations for movies from different decades, which enabled us to perform a diachronic analysis over a representative set of movies. The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. For each decade from 1960s to 2020s, we select the recommended 200\~300 movies and download their subtitles from Srtku. After cleaning, the final dataset contains #str(
   arr.at(0) + arr.at(1) + arr.at(2) + arr.at(3) + arr.at(4) + arr.at(5) + arr.at(6)
 ) readable movie subtitles in total:
 
@@ -145,19 +145,22 @@ We use a naïve regular expression approach to extract the greetings from the co
 
 //  count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context. 
 
+\
+
 #let table_line = line(stroke: 0.5pt+rgb("#000"), length: 100%)
+#let table_line2 = line(stroke: 1pt+rgb("#000"), length: 100%)
 #figure(
 
-grid(
+[#grid(
   gutter: 3pt,
   columns: (100%),
   grid(
-    columns: (132pt, 1fr),
+    columns: (118pt, 1fr),
     rows: (0.5pt, auto, 0.5pt, 50pt+1.5em, 0.5pt, 50pt+1.5em, 0.5pt),
-    table_line,table_line,
+    table_line2,table_line2,
     box(inset: 0.5em)[*Category*], box(inset: 0.5em)[*Regular expression and captured sentences*],
 
-    table_line,table_line,
+    table_line2,table_line2,
 
     box(inset: (top:1.5em+5pt))[Non-interrogative \ forms], box(height:48pt)[
       // `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
@@ -179,7 +182,7 @@ grid(
       ]
     ],
 
-    table_line, table_line,
+    table_line2, table_line2,
 
     box(inset: (top:1.5em+5pt))[Interrogative \ forms], box(height:48pt)[
       #box(inset: (top:0.5em, bottom: 0em))[
@@ -198,7 +201,7 @@ grid(
         Informal or formal _"Have you eaten?"_
       ]
     ],
-    table_line,table_line,
+    table_line2,table_line2,
   ),
 // table(
 //   columns: (auto, 1fr),
@@ -209,8 +212,9 @@ grid(
 //   [`r'(吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'`], [“吃了吗” with no Hanzi characters after],
 // ),
 
-), 
-
+)], 
+// kind: "figure",
+// supplement: [Figure],
 caption: "Regular expressions for matching greetings",
 
 )<RegTable>
@@ -250,7 +254,7 @@ After matching the greetings with regular expressions, the occurrences of greeti
   }, 
   caption: "Occurences of greetings in the MAGICDATA Mandarin Chinese Conversational Speech Corpus and movies",
 )<occ>
-#v(40pt)
+#v(20pt)
 
 
 #figure(
@@ -260,8 +264,8 @@ After matching the greetings with regular expressions, the occurrences of greeti
   caption: "Changes of the frequency of greetings in the movie subtitles from 1960s to 2020s",
 )<viz>
  
-#v(40pt)
-
+// #v(20pt)
+// #pagebreak()
 
 = Result and Discussion  
 
@@ -294,7 +298,9 @@ To further explore the reason behind the decline in the use of interrogative gre
 
 #align(right)[
 \- 还没拉上座儿呢\
-#sp #text(size: 8pt)[_No business yet._]
+#sp #text(size: 8pt)[_No business yet._#footnote[
+I didn't find an English version of subtitle for _Richshaw Boy_. The translation might be inaccurate. The speaker is a rickshaw puller and he says the seat is not taken yet, which implies he hasn't got any earning for a meal.
+]]
 ]
 
 
