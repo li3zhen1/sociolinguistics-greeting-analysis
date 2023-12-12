@@ -299,7 +299,7 @@ To further explore the reason behind the decline in the use of interrogative gre
 #align(right)[
 \- 还没拉上座儿呢\
 #sp #text(size: 8pt)[_No business yet._#footnote[
-I didn't find an English version of subtitle for _Richshaw Boy_. The translation might be inaccurate. The speaker is a rickshaw puller and he says the seat is not taken yet, which implies he hasn't got any earning for a meal.
+I didn't find an English version of subtitle for _Richshaw Boy_. The translation might be inaccurate. The speaker is a rickshaw puller and he says the seat is not taken yet, which implies he hasn't got any earnings for a meal.
 ]]
 ]
 
