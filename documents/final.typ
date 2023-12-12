@@ -371,7 +371,7 @@ Our findings indicate a shift in greeting practices within Chinese society. The 
   numbering: "A.a"
 )
  
-All the code and data used in this project can be found at the repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
+All the data, codes, and graphs used in this project can be found at the GitHub repository #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis")[sociolinguistics-greeting-analysis].
 
 
 = Explanation of the Regular Expressions<regex-explain>
