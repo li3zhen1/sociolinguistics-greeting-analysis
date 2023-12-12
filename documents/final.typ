@@ -67,7 +67,7 @@ Zhen Li \ zhenli.craig\@gatech.edu
 
 Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (nǐ chī le mā, _Have you eaten?_) and “你好吗?” (nǐ hǎo mā, _How are you?_), compared to non-question forms, “你好!” (nǐ hǎo, _Hello!_) and “早上好!” (zǎo shàng hǎo, _Good morning!_). Contrary to the commonly used greeting “How are you doing?” in English, there's an observation that such question forms are less prevalent in Chinese greetings, especially among strangers. 
 
-To unveil the underlying reasons for this phenomenon, in this project, we examine the diachronic changes in the use of question and non-question forms in Chinese greetings. By analyzing a conversational corpus alongside a set of diachronically categorized movie subtitles, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, exploring the relationship between changing Chinese greating patterns and the social context.
+To unveil the underlying reasons for this observation, in this project, we examine the diachronic changes in the use of question and non-question forms in Chinese greetings. By analyzing a conversational corpus alongside a set of diachronically categorized movie subtitles, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, exploring the relationship between changing Chinese greating patterns and the social context.
 
 = Literature Review 
 
@@ -94,7 +94,7 @@ Overall, these works collectively offer a comprehensive view of the sociolinguis
 
 == Research questions
 
-In this project, we analyze 2 representative dataset for Chinese greetings. The first dataset is MAGICDATA Mandarin Chinese Conversational Speech Corpus @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles. These two datasets are chosen because they contains a representative set of daily conversations. The first dataset consists of 219,325 lines of speach and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
+In this project, we analyze 2 representative datasets for Chinese greetings. The first dataset is MAGICDATA Mandarin Chinese Conversational Speech Corpus @yang2022open. The second dataset is a set of movie subtitles for Chinese movies, ranging from 1960s to 2020s. They are obtained from #link("https://srtku.com")[Srtku], which is a website for downloading movie and TV show subtitles. These two datasets are chosen because they contain a representative set of daily conversations. The first dataset consists of 219,325 lines of speech and the second dataset consists of about 50 movies for each decade, enabling us to analyze the diachronic changes of Chinese greetings.
 
 By comparing the usage of the greetings in the 2 datasets, we aim to answer the following three questions:
 
@@ -103,13 +103,13 @@ By comparing the usage of the greetings in the 2 datasets, we aim to answer the 
 
 + If yes, what are the differences?
 
-+ What are the socio-historical motivations underlying these differences?
++ What are the social motivations behind these changes?
 ]
 
 == Data Collection
 
 
-In this study, we intend to extract the greetings from the coversation a corpus and movie subtitles and count their frequency of appearance to analyze the differences in their usage and context.
+In this study, we intend to extract the greetings from the conversation a corpus and movie subtitles and count their frequency of appearance to analyze the differences in their usage and context.
 
 The corpus, MAGICDATA Mandarin Chinese Conversational Speech Corpus, includes 180 hours of Mandarin Chinese speech from 633 speakers. All the transcripts are joined into a #link("https://github.com/li3zhen1/sociolinguistics-greeting-analysis/blob/main/mandarin_conversation/mandarin_conversational_corpus_combined_scripts.txt")[219,325 line file] for further analysis.
 
@@ -130,7 +130,7 @@ The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use t
   caption: "Number of movies for each decade",
 )
 
-While the movie dialogues primarily captures the perceptions of scriptwriters and directors regarding daily conversations, or perhaps even only prestige forms adopted by the movie creators, it can be a reflection of actual conversational patterns and offer valuable insights into broader linguistic trends in greetings. 
+While the movie dialogues primarily capture the perceptions of scriptwriters and directors regarding daily conversations, or perhaps even only prestige forms adopted by the movie creators, it can reflect real-world conversational patterns and offer valuable insights into broader linguistic trends in greetings. 
 
 == Greeting Extraction
 
@@ -185,7 +185,7 @@ grid(
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
         ```Python 
-        r'((?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
+        r'((?<!\p{Han})(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
         ```
       ]
     ],
@@ -219,7 +219,7 @@ caption: "Regular expressions for matching greetings",
 The leading and trailing `(?<!\p{Han})` and `(?!\p{Han})` are used to avoid disambiguation from the sentences like "*你好*棒" (_You are so amazing_). All possible sentences matched by regexes used in this project represents a sentence with similar meanings, but in some scenario they might convey more of a contextual meaning and hence not a standard "greeting" defined by @Duranti_1997. Detailed explanation for other 3 regular expressions can be found in @regex-explain.
 
 
-After matching the greetings with regular expressions, the occurences of greetings in the corpus and movie subtitles are counted respectively and displayed in @occ. The results are visualized as the normalized stacked area chart shown in @viz.
+After matching the greetings with regular expressions, the occurrences of greetings in the corpus and movie subtitles are counted respectively and displayed in @occ. The results are visualized as the normalized stacked area chart shown in @viz.
 
 #figure(
   {
@@ -232,7 +232,7 @@ After matching the greetings with regular expressions, the occurences of greetin
       #text(8pt)[_Hello!_]
     ], [(上午|下午|晚上|中午|早上)好[啊]? \
       #text(8pt)[_Good morning/afternoon/...!_]], [(你|您)(最近)?好[吗么没嘛啊] \
-      #text(8pt)[_How are you?_]],[吃[过]?[饭]?了[吗么没嘛啊] \
+      #text(8pt)[_How are you?_]],[(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊] \
       #text(8pt)[_Have you eaten?_]],
     ..results.flatten(),
 
@@ -258,7 +258,7 @@ After matching the greetings with regular expressions, the occurences of greetin
 
 
 
-We can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
+From @viz, we can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
 
 
 
@@ -318,7 +318,7 @@ To further explore the reason behind the decline in the use of question form gre
 #v(2pt)
   ]
 
-
+ 
   ],
   caption: [A dialogue from the movie 《英雄本色》 (_A Better Tomorrow II_, Hong Kong, 1987)],
 )<howareyou1>
@@ -407,8 +407,13 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
 ]
 \
 
-== Question form: `(?<!\p{Han})吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
+== Question form: `(?<!\p{Han})(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
+
+- `(你|您)?`: matches `你` (nǐ, _you_), `您` (nín, formal _you_) or nothing.
+
+- `(已经)?`: matches one or zero times of `已经` (yǐjīng, _already_).
+
 - `吃`: matches `吃` (chī, _eat_).
 
 - `[过]?`: matches one or zero times of `过` (guò, a mark indicating the completion of an action). 
