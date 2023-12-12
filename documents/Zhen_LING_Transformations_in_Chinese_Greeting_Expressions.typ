@@ -159,7 +159,7 @@ grid(
 
     table_line,table_line,
 
-    box(inset: (top:1.5em+10pt))[Non-interrogative forms], box(height:48pt)[
+    box(inset: (top:1.5em+5pt))[Non-interrogative \ forms], box(height:48pt)[
       // `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
       // `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
       #box(inset: (top:0.5em, bottom: 0em))[
@@ -181,7 +181,7 @@ grid(
 
     table_line, table_line,
 
-    box(inset: (top:1.5em+10pt))[Interrogative forms], box(height:48pt)[
+    box(inset: (top:1.5em+5pt))[Interrogative \ forms], box(height:48pt)[
       #box(inset: (top:0.5em, bottom: 0em))[
         ```Python 
         r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'
