@@ -73,20 +73,20 @@ To unveil the underlying reasons for this phenomenon, in this project, we examin
 
 == Greetings
 
-@Duranti_1997 proposed a operational definition for analyzing greetings across languages and the relationships between conventional expressions. Duranti's six criteria for alternative uses of daily expressions like greetings are instrumental in understanding the substantive and social purposes of these linguistic interactions. 
+Duranti proposed a operational definition for analyzing greetings across languages @Duranti_1997. Duranti's six criteria for alternative uses of daily expressions like greetings are instrumental in understanding the substantive and social purposes of these linguistic interactions. 
 
-@gumperz2015interactional and @Boxer_2002 delve into the broader field of sociolinguistics and interactional studies, providing foundational concepts and methodologies such as interactional sociolinguistics and conversation analysis that are essential for analyzing greeting behaviors in different social settings.
+Gumperz and Boxer delve into the broader field of sociolinguistics and interactional studies, providing foundational concepts and methodologies such as interactional sociolinguistics and conversation analysis that are essential for analyzing greeting behaviors in different social settings @gumperz2015interactional @Boxer_2002.
 
 
 == Previous Research on Chinese Greetings 
 
 
-@XIA2023156's study provides a historical context, tracing the evolution of greeting culture in China from the 17th to the 20th century. It reveals a shift towards impersonalization in greetings, increased semantic informativeness, and a departure from traditional politeness norms of self-denigration and other-elevation. This historical perspective is crucial for understanding the current state of Chinese greeting practices.
+Xia's study provides a historical context, tracing the evolution of greeting culture in China from the 17th to the 20th century @XIA2023156. It reveals a shift towards impersonalization in greetings, increased semantic informativeness, and a departure from traditional politeness norms of self-denigration and other-elevation. This historical perspective is crucial for understanding the current state of Chinese greeting practices.
 
 
-@Liu_2016 and @House_2022 focus specifically on the comparison between English and Chinese greetings. Liu underscores the significance of greetings in social identity and cross-cultural communication, while House addresses the challenges Chinese learners of English face due to pragmatic differences in greeting conventions. House's inclusion of empirical studies adds depth to our understanding of these challenges.
+Liu and House focus specifically on the comparison between English and Chinese greetings. Liu underscores the significance of greetings in social identity and cross-cultural communication @Liu_2016, while House addresses the challenges Chinese learners of English face due to pragmatic differences in greeting conventions @House_2022. House's inclusion of empirical studies adds depth to our understanding of these challenges.
 
-@曲卫国_2001 contribute to the understanding of demographic and linguistic specifics. He offers a detailed analysis of the linguistic form, topic, and pragmatic constraints of Chinese greetings, highlighting their openness, convertibility, and diversity.
+Qu offers a detailed analysis of the linguistic form, topic, and pragmatic constraints of Chinese greetings, highlighting their openness, convertibility, and diversity @曲卫国_2001.
 
 Overall, these works collectively offer a comprehensive view of the sociolinguistic and pragmatic aspects of greetings in Chinese and English, emphasizing historical evolution, comparative analysis, and the influence of social and cultural factors on these everyday linguistic practices.
 
@@ -130,7 +130,7 @@ The movie subtitles are crawled from #link("https://srtku.com")[Srtku]. We use t
   caption: "Number of movies for each decade",
 )
 
-While the dataset consists of only movie dialogues, primarily captures the perceptions of scriptwriters and directors regarding daily conversations, and thus only represents a limited subset of actual conversational patterns — or perhaps even only prestige forms adopted by the movie creators — it offers valuable insights into broader linguistic trends in greetings. 
+While the movie dialogues primarily captures the perceptions of scriptwriters and directors regarding daily conversations, or perhaps even only prestige forms adopted by the movie creators, it can be a reflection of actual conversational patterns and offer valuable insights into broader linguistic trends in greetings. 
 
 == Greeting Extraction
 
@@ -327,7 +327,7 @@ To further explore the reason behind the decline in the use of question form gre
 
 In _Rickshaw Boy_, the greeting "_Have you eaten?_" is closely tied the context where the listener is a rickshaw puller and led a difficult life, struggling to make ends meet. This greeting is a query about the need of food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers, emphasizing basic needs and communal care. 
 
-In the second example from _A Better Tomorrow II_, the greeting "_How are you doing?"_ emerges in a context of reunion. Here, it serves as an expression of longing and reconnection, indicating the speaker's concern after a prolonged separation. Compared to the commonly used English version of this greeting, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
+In the second example from _A Better Tomorrow II_, the greeting "_How are you doing?"_ emerges in a context of reunion. It serves as an expression of longing and reconnection, indicating the speaker's concern after a prolonged separation. Compared to the commonly used English version of this greeting, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
 
 The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. Non-question form greetings like "_Hello!_" are more impersonal and less context-dependent, and thus emerging as a more common form of greeting.
 
