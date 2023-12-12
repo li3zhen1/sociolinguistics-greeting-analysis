@@ -331,7 +331,8 @@ In the second example from _A Better Tomorrow II_, the greeting "_How are you do
 
 The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. Non-question form greetings like "_Hello!_" are more impersonal and less context-dependent, and thus emerging as a more common form of greeting.
 
-The ongoing change of greeting patterns is a reflection of the change of contemporary Chinese society. The trend of greeting patterns in movie subtitles is consistent with the result from @XIA2023156's study. By studying classic Chinese literatures, they found that Chinese greetings between new acquaintances in the 20th century exhibit a tendency of “impersonalization” in terms of topic selection and the use of sentence patterns. 
+The ongoing change of greeting patterns is a reflection of the change of contemporary Chinese society. The trend of greeting patterns in movie subtitles is consistent with the result from @XIA2023156's study. By studying classic Chinese literatures, they found that Chinese greetings between new acquaintances in the 20th century exhibit a tendency of “impersonalization” in terms of topic selection and the use of sentence patterns. The tendency of impersonalization is the most obvious diachronic change of interrogative greetings, which is consistent with the decline of question form greetings in our study. As the economy grows and focus on material life diminishes, the usage frequency of traditional greetings like "吃了吗?(_Have you eaten?_)" (which often concerns the basic survival status of the other person) decreases @XIA2023156. In a more stable and fast-paced social environment, the use of non-question form greetings like "你好!(_Hello!_)"  becomes more prevalent. Technological advancements, particularly the widespread use of social media and instant messaging tools, have also transformed the way people communicate. Communication on these platforms tends to be faster and more direct, possibly favoring more formalized greetings.
+
 
 
 
@@ -441,6 +442,8 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
   
   - The movie names are only fuzzy matched in the search box of SrtKu. Some manual work is needed to remove the wrong matches.
 
+  - Due to limited time, the data cleaning process was conducted with a basic approach. This might have led to the inadvertent inclusion of some non-Chinese movies in the dataset.
+
 + Run `clean.ipynb` to clean the downloaded subtitles.
 
 + Run `encoding.ipynb` to convert the subtitles from `UTF-8 with BOM` / `GB2312` to `UTF-8` encoding.
@@ -456,6 +459,8 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
   - Copy the generated `regex_sum.json` to `visualization.html` and open it in a browser to visualize the results.
 
 + Run `count_magic.ipynb` to count the appearances of greetings in the corpus by regex matches.
+
+\
 
 All subtitles can be found in the `caption` folder.
 
