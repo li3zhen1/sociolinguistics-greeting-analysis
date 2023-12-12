@@ -34,7 +34,7 @@
 
 #set table(stroke: 0.6pt)
 
-= #text(weight: 500, size: 16pt)[Transformations in Chinese Greeting Expressions: \ A Diachronic Analysis of Question and Non-Question Forms]
+= #text(weight: 500, size: 14pt)[Transformations in Chinese Greeting Expressions: \ A Diachronic Analysis of Interrogative and Non-Interrogative Forms]
 // [A Comparative Study of Chinese and English Greetings: \ "#text(weight: 600, size: 16pt)[你吃了吗?]", "#text(weight: 600, size: 16pt)[你好吗?]" and "How are you doing?"]
 
 #set heading(
@@ -42,8 +42,9 @@
 )
 
 
-#v(14pt)
+#v(20pt)
 Zhen Li \ zhenli.craig\@gatech.edu
+
 
 #show heading.where(level: 1): (it) => {
   v(18pt)
@@ -65,9 +66,9 @@ Zhen Li \ zhenli.craig\@gatech.edu
 
 = Introduction
 
-Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of question forms like “你吃了吗?” (nǐ chī le mā, _Have you eaten?_) and “你好吗?” (nǐ hǎo mā, _How are you?_), compared to non-question forms, “你好!” (nǐ hǎo, _Hello!_) and “早上好!” (zǎo shàng hǎo, _Good morning!_). Contrary to the commonly used greeting “How are you doing?” in English, there's an observation that such question forms are less prevalent in Chinese greetings, especially among strangers. 
+Greetings are a type of speech act that serves to establish and maintain social relationships. They are a fundamental part of everyday communication, and their usage and form are influenced by social and cultural factors. This project investigates the evolving nature of Chinese greetings, focusing on the use of questions like “你吃了吗?” (nǐ chī le mā, _Have you eaten?_) and “你好吗?” (nǐ hǎo mā, _How are you?_), compared to non-interrogative forms, “你好!” (nǐ hǎo, _Hello!_) and “早上好!” (zǎo shàng hǎo, _Good morning!_). Contrary to the commonly used greeting “How are you doing?” in English, there's an observation that such interrogative forms are less prevalent in Chinese greetings, especially among strangers. 
 
-To unveil the underlying reasons for this observation, in this project, we examine the diachronic changes in the use of question and non-question forms in Chinese greetings. By analyzing a conversational corpus alongside a set of diachronically categorized movie subtitles, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, exploring the relationship between changing Chinese greating patterns and the social context.
+To unveil the underlying reasons for this observation, in this project, we examine the diachronic changes in the use of interrogative and non-interrogative forms in Chinese greetings. By analyzing a conversational corpus alongside a set of diachronically categorized movie subtitles, we aim to understand how these greetings have changed over time and what these changes reveal about Chinese society and culture. This examination can be part of a broader inquiry into the nature of language as an evolving entity that mirrors social dynamics. In addition to a statistical approach, we also attempt to delve into the pragmatics and sociocultural significance of these greetings, exploring the relationship between changing Chinese greating patterns and the social context.
 
 = Literature Review 
 
@@ -134,7 +135,7 @@ While the movie dialogues primarily capture the perceptions of scriptwriters and
 
 == Greeting Extraction
 
-We use a naïve regular expression approach to extract the greetings from the corpus and movie subtitles. For each category of greetings (non-question forms and question forms), 2 regular expressions are designed to match the most frequently used greetings in daily conversations. The regular expressions are listed in @RegTable. 
+We use a naïve regular expression approach to extract the greetings from the corpus and movie subtitles. For each category of greetings (non-interrogative forms and interrogative forms), 2 regular expressions are designed to match the most frequently used greetings in daily conversations. The regular expressions are listed in @RegTable. 
 
 // the frequency of greetings with regular expressions (@RegTable) below.
 //  count the frequency of greetings from the subtitles with regular expressions (@RegTable) below and analyze the differences in their usage and context.
@@ -151,42 +152,50 @@ grid(
   gutter: 3pt,
   columns: (100%),
   grid(
-    columns: (120pt, 1fr),
-    rows: (0.5pt, auto, 0.5pt, 3.9em, 0.5pt, 3.9em, 0.5pt),
+    columns: (132pt, 1fr),
+    rows: (0.5pt, auto, 0.5pt, 50pt+1.5em, 0.5pt, 50pt+1.5em, 0.5pt),
     table_line,table_line,
-    box(inset: 0.5em)[*Category*], box(inset: 0.5em)[*Python syntax for the regular expression*],
+    box(inset: 0.5em)[*Category*], box(inset: 0.5em)[*Regular expression and captured sentences*],
 
     table_line,table_line,
 
-    box(inset: (top:1.5em))[Non-question forms], box(height:36pt)[
+    box(inset: (top:1.5em+10pt))[Non-interrogative forms], box(height:48pt)[
       // `r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'`
       // `r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'`
       #box(inset: (top:0.5em, bottom: 0em))[
         ```Python 
         r'((?<!\p{Han})(你|您)好[啊]?(?!\p{Han}))'
         ```
+        \
+        Informal or formal _"Hello!"_
       ]
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
         ```Python 
         r'((?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han}))'
         ```
+        \
+        _"Good morning/afternon/evening/noon/(early) morning!"_
       ]
     ],
 
     table_line, table_line,
 
-    box(inset: (top:1.5em))[Question forms], box(height:36pt)[
+    box(inset: (top:1.5em+10pt))[Interrogative forms], box(height:48pt)[
       #box(inset: (top:0.5em, bottom: 0em))[
         ```Python 
         r'((?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han}))'
         ```
+        \
+        Informal or formal _"How are you doing?"_
       ]
       #box(table_line)
       #box(inset: (top:0em, bottom: 0.5em))[
         ```Python 
         r'((?<!\p{Han})(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han}))'
         ```
+        \
+        Informal or formal _"Have you eaten?"_
       ]
     ],
     table_line,table_line,
@@ -238,7 +247,7 @@ After matching the greetings with regular expressions, the occurrences of greeti
 
     [MAGICDATA Corpus], [8], [0], [0], [1],
   ) )
-  },
+  }, 
   caption: "Occurences of greetings in the MAGICDATA Mandarin Chinese Conversational Speech Corpus and movies",
 )<occ>
 #v(40pt)
@@ -246,7 +255,7 @@ After matching the greetings with regular expressions, the occurrences of greeti
 
 #figure(
   {
-    image("visualization.svg", width: 90%)
+    image("visualization.svg", width: 100%)
   },
   caption: "Changes of the frequency of greetings in the movie subtitles from 1960s to 2020s",
 )<viz>
@@ -258,7 +267,7 @@ After matching the greetings with regular expressions, the occurrences of greeti
 
 
 
-From @viz, we can observe an obvious decline of question forms and a rise of non-question forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in question forms. 
+From @viz, we can observe an obvious decline of interrogative forms and a rise of non-interrogative forms. Specifically, the usage of `(你|您)(最近)?好[吗么没嘛啊]` (_How are you?_) has been a major part of decline in interrogative forms. 
 
 
 
@@ -266,7 +275,7 @@ From @viz, we can observe an obvious decline of question forms and a rise of non
 
 // == The Decline of Question Forms
 
-To further explore the reason behind the decline in the use of question form greetings, we specifically analyze dialogues from _Rickshaw Boy_ and _A Better Tomorrow II_, as highlighted in @rickshaw and @howareyou1. These instances demonstrate a strong correlation between the use of question form greetings and the conversation's context.
+To further explore the reason behind the decline in the use of interrogative greetings, we specifically analyze dialogues from _Rickshaw Boy_, _A Better Tomorrow II_ and _A Journey Through Time with Antony_, as highlighted in @rickshaw, @howareyou1, @anthony. These instances demonstrate a strong correlation between the use of interrogative greetings and the conversation's context.
 
 
 #let sp = h(0.6em)
@@ -278,7 +287,7 @@ To further explore the reason behind the decline in the use of question form gre
 
   #align(left)[
   \- 吃饭了吗 \
-  #sp #text(size: 8pt)[_Have you eaten?_]
+  #sp #text(size: 8pt)[_*Have you eaten?*_]
   ]
 
 
@@ -297,8 +306,10 @@ To further explore the reason behind the decline in the use of question form gre
 #v(2pt)
 
   ],
-  caption: [A dialogue from the movie 《骆驼祥子》 (_Rickshaw Boy_, China mainland, 1982)],
+  caption: [A dialogue from the movie _Rickshaw Boy_ \ (骆驼祥子), China mainland, 1982],
 )<rickshaw>
+
+#v(12pt)
 
 
 #figure(
@@ -313,25 +324,53 @@ To further explore the reason behind the decline in the use of question form gre
 // #v(2pt)
 #align(right)[
 \- Ken哥#sp 我们很挂念你#sp 你好吗?  \
-#sp #text(size: 8pt)[_Ken, we miss you so much. How are you doing?_]
+#sp #text(size: 8pt)[_Ken, we miss you so much. *How are you doing?*_]
 
 #v(2pt)
   ]
 
  
   ],
-  caption: [A dialogue from the movie 《英雄本色》 (_A Better Tomorrow II_, Hong Kong, 1987)],
+  caption: [A dialogue from the movie _A Better Tomorrow II_ \ (英雄本色II), Hong Kong, 1987],
 )<howareyou1>
 
-#v(4pt)
+#v(12pt)
 
-In _Rickshaw Boy_, the greeting "_Have you eaten?_" is closely tied the context where the listener is a rickshaw puller and led a difficult life, struggling to make ends meet. This greeting is a query about the need of food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers, emphasizing basic needs and communal care. 
 
-In the second example from _A Better Tomorrow II_, the greeting "_How are you doing?"_ emerges in a context of reunion. It serves as an expression of longing and reconnection, indicating the speaker's concern after a prolonged separation. Compared to the commonly used English version of this greeting, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
 
-The close relationship between the context and the use of question form greetings resonates the analysis from @曲卫国_2001 — because of the openness of the topic, Chinese greetings are highly dependent on the context. Its specific use is restricted by many pragmatic factors. These examples also underscore how the function and significance of question form greetings in Chinese are deeply interwoven with the speakers' social dynamics and the situational context. Non-question form greetings like "_Hello!_" are more impersonal and less context-dependent, and thus emerging as a more common form of greeting.
+#figure(
+  box(stroke: 0.5pt, width: 100%, inset:1em )[
+#align(left)[
+\- 我们在澳洲#sp 就算是陌生人见面 #sp 也不说「嗨」#sp 而是说「你好吗」 \
+#sp #text(size: 8pt)[_When we meet strangers in Australia, we don't say *"hi"*. We say *"How are you?"*_]
+]
 
-The ongoing change of greeting patterns is a reflection of the change of contemporary Chinese society. The trend of greeting patterns in movie subtitles is consistent with the result from @XIA2023156's study. By studying classic Chinese literatures, they found that Chinese greetings between new acquaintances in the 20th century exhibit a tendency of “impersonalization” in terms of topic selection and the use of sentence patterns. The tendency of impersonalization is the most obvious diachronic change of interrogative greetings, which is consistent with the decline of question form greetings in our study. As the economy grows and focus on material life diminishes, the usage frequency of traditional greetings like "吃了吗?(_Have you eaten?_)" (which often concerns the basic survival status of the other person) decreases @XIA2023156. In a more stable and fast-paced social environment, the use of non-question form greetings like "你好!(_Hello!_)"  becomes more prevalent. Technological advancements, particularly the widespread use of social media and instant messaging tools, have also transformed the way people communicate. Communication on these platforms tends to be faster and more direct, possibly favoring more formalized greetings.
+
+
+// #v(2pt)
+#align(right)[
+\- 你已经养成习惯了#sp 每次给我发讯息都说#sp 「你好吗？」  \
+#sp #text(size: 8pt)[_You've adapted to this custom. You say *“How are you?”* every time you send me a message._]
+
+#v(2pt)
+  ]
+
+ 
+  ],
+  caption: [A dialogue from the movie _A Journey Through Time with Antony_ \ (陪安东尼度过漫长岁月), China mainland, 2015],
+)<anthony>
+
+#v(24pt)
+
+In _Rickshaw Boy_ (@rickshaw), the greeting "_Have you eaten?_" is closely tied to the context where the listener is a rickshaw puller leading a difficult life, struggling to make ends meet. This greeting is a query about the need for food mixed with concern for the other's well-being, reflecting the socio-economic status of the speakers and emphasizing basic needs and communal care.
+
+In the second example (@howareyou1) from _A Better Tomorrow II_, the greeting "_How are you doing?"_ is set against the backdrop of a reunion. This greeting conveys a care close to its literal meaning and reflects the speaker's genuine concern following a long period of separation. Distinct from the common usage of this phrase in English, where it often functions as a conversational norm, the Chinese version serves more as an expression of genuine concern and longing, marking the re-establishment of a connection after a period of separation. 
+
+In the third conversation (@anthony) from _A Journey Through Time with Antony_, the two speakers reunited after a long separation across different countries. The second speaker's comment on the first speaker's greeting underscores the notable difference between the Chinese and English versions of this greeting. The Chinese version of "_How are you doing?_" is not a commonly used greeting and often implies more personalized concern and intimacy, which is the reason why the second speaker highlighted the first speaker's use of this greeting.
+ 
+The close relationship between context and the usage of interrogative greetings resonates with the analysis of @曲卫国_2001. Due to the openness of the topic, Chinese greetings are highly context-dependent. Their specific usage is influenced by various pragmatic factors. Movie dialogue examples further highlight how the function and significance of interrogative greetings in Chinese are intricately linked with speakers' social dynamics and situational context. In contrast, non-interrogative greetings like "Hello!" are more impersonal and less reliant on context, hence emerging as a more prevalent form of greeting.
+
+The evolving patterns of greetings mirror changes in contemporary Chinese society. These patterns, as seen in movie subtitles, align with findings from @XIA2023156's study. By examining classic Chinese literature, they observed a trend toward "impersonalization" in greetings between new acquaintances in the 20th century, both in topic selection and sentence structure. This trend is the most notable diachronic change in interrogative greetings, corresponding with their decline in our study. As the economy develops and the focus shifts away from basic survival, the frequency of traditional greetings like "吃了吗?(_Have you eaten?_)" decreases, as noted by @XIA2023156. In a more stable and fast-paced society, the prevalence of non-interrogative greetings like "你好!(_Hello!_)" increases. Technological advancements, especially the widespread use of social media and instant messaging, have also transformed communication. The platforms often encourage quicker and more straightforward interactions, possibly favoring more standardized greetings. As noted in the movie conversations (@anthony), the speakers get more used to impersonalized greetings like "_Hi_" and English-styled "_How are you doing?_" becomes a somehow quirky variation of greeting. 
 
 
 
@@ -341,9 +380,9 @@ The ongoing change of greeting patterns is a reflection of the change of contemp
 
 = Conclusion 
 
-This project has provided a comprehensive analysis of the evolution of Chinese greetings, examining their transition from question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_) to non-question forms such as “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Through an quantitative analysis of conversational corpora and movie subtitles, we have traced the diachronic changes in greeting practices and explored their sociocultural implications.
+In conclusion, this project has provided a comprehensive analysis of the evolution of Chinese greetings through a corpus and a set of movie subtitles, examining their transition from question forms like “你吃了吗?” (_Have you eaten?_) and “你好吗?” (_How are you?_) to non-interrogative expressions such as “你好!” (_Hello!_) and “早上好!” (_Good morning!_). Through an quantitative analysis of conversational corpora and movie subtitles, we have traced the diachronic changes in greeting practices and explored their sociocultural implications.
 
-Our findings indicate a shift in greeting practices within Chinese society. The decline in question form greetings and the rise of non-question forms reflect broader sociocultural changes, including shifts towards greater impersonalization, and alterations in politeness norms. These trends mirror the ongoing transformations in Chinese social dynamics and cultural practices.
+Our findings indicate a shift in greeting practices within Chinese society. The decline in the use of interrogative greetings and the rise of non-interrogative forms reflect broader sociocultural changes, including shifts towards greater impersonalization, and alterations in politeness norms. These trends mirror the ongoing transformations in Chinese social dynamics and cultural practices.
 
 
 
@@ -382,7 +421,7 @@ All the data, codes, and graphs used in this project can be found at the GitHub 
 Constraints for avoiding surruounding Hanzi characters are omitted below. 
 
 
-== Non-question form: `(?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han})` (_Good morning / evening / ... !_)
+== Non-interrogative form: `(?<!\p{Han})(上午|下午|晚上|中午|早上)好[啊]?(?!\p{Han})` (_Good morning / evening / ... !_)
 
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 
@@ -393,7 +432,7 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
 \
 
 
-== Question form: `(?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han})`  (_How are you?_)
+== Interrogative form: `(?<!\p{Han})(你|您)(最近)?好[吗么没嘛啊](?!\p{Han})`  (_How are you?_)
 
 
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
@@ -408,7 +447,7 @@ Constraints for avoiding surruounding Hanzi characters are omitted below.
 ]
 \
 
-== Question form: `(?<!\p{Han})(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
+== Interrogative form: `(?<!\p{Han})(你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊](?!\p{Han})` (_Have you eaten?_)
 #box(stroke:0.5pt+black, inset: 1em, width: 100%)[
 
 - `(你|您)?`: matches `你` (nǐ, _you_), `您` (nín, formal _you_) or nothing.

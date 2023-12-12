@@ -47,12 +47,19 @@
         "regex\u5403\u4e86\u5417": 0.0116731518
     }
 }
+
+let keys = [
+'Non-interrogative "Hello!"',
+'Non-interrogative "Good morning/afternoon/...!"',
+'Interrogative "How are you doing?"',
+'Interrogative "Have you eaten?"'
+]
         Object.keys(raw).forEach(
             it => raw[it] = {
-                "Non-question (你|您)好[啊]?": raw[it]["regex\u4f60\u597d"],
-                "Non-question (上午|下午|晚上|中午|早上)好[啊]?": raw[it]["regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d"],
-                "Question (你|您)(最近)?好[吗么没嘛啊]": raw[it]["regex\u4f60\u597d\u5417"],
-                "Question (你|您)?(已经)?吃[过]?[饭]?了[吗么没嘛啊]": raw[it]["regex\u5403\u4e86\u5417"]
+                'Non-interrogative "Hello!"': raw[it]["regex\u4f60\u597d"],
+                'Non-interrogative "Good morning/afternoon/...!"': raw[it]["regex\u4e0a\u5348\u4e0b\u5348\u665a\u4e0a\u4e2d\u5348\u65e9\u4e0a\u597d"],
+                'Interrogative "How are you doing?"': raw[it]["regex\u4f60\u597d\u5417"],
+                'Interrogative "Have you eaten?"': raw[it]["regex\u5403\u4e86\u5417"]
             }
         )
         let data = raw;
@@ -94,14 +101,14 @@
                         title: 'Value',
                         format: "~%"
                     },
-                    sort: ["Non-question (你|您)好[啊]?", "Non-question (上午|下午|晚上|中午|早上)好[啊]?", "Question (你|您)(最近)?好[吗么没嘛啊]", "Question 吃[过]?[饭]?了[吗么没嘛啊]"]
+                    // sort: [3, 2, 1, 0].map(it => keys[it])
                 },
                 color: {
                     field: 'regex',
                     type: 'nominal',
                     legend: { title: 'Greetings' },
                     scale: {
-                        domain: ["Non-question (你|您)好[啊]?", "Non-question (上午|下午|晚上|中午|早上)好[啊]?", "Question (你|您)(最近)?好[吗么没嘛啊]", "Question 吃[过]?[饭]?了[吗么没嘛啊]"],
+                        domain: keys,
                         range: ["#42a5f5", "#0277bd", "#ff7043", "#c62828"], // Custom colors,
 
                     }
