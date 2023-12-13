@@ -9,7 +9,7 @@
 #set par(
   // leading: 6pt,
   first-line-indent: 2em,
-  // justify: true
+  // justify: true 
 )
 
 #set text(
@@ -249,7 +249,7 @@ After matching the greetings with regular expressions, the occurrences of greeti
       #text(8pt)[_Have you eaten?_]],
     ..results.flatten(),
 
-    [MAGICDATA Corpus], [8], [0], [0], [1],
+    [MAGICDATA Corpus], [8 (88.89%)], [0], [0], [1 (11.11%)],
   ) )
   }, 
   caption: "Occurences of greetings in the MAGICDATA Mandarin Chinese Conversational Speech Corpus and movies",
